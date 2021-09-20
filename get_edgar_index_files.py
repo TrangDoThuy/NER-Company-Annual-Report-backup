@@ -31,7 +31,7 @@ for yr in years:
         local_filename =  f'xbrl-index-{yr}-{qtr}.txt'
         
         # Create the absolute path for storing the index file. (e.g.
-        # C:/Users/Martin/edgar/indexes/2015/xbrl-index-2015-QTR3.txt)
+        
         local_file_path = '/'.join([base_path, str(yr), local_filename])
         
         # Check to see if the index file for the current year/quarter combination is already
