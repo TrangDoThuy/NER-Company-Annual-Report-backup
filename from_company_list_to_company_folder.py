@@ -23,11 +23,11 @@ for index, row in df.iterrows():
     company["ticker"] = row["Ticker"]
     company["name"] = row["Name"]
     company["exchange"] = row["Exchange"]
-    json_object["companies"].append(company)
+    company["annual_reports"] = []
     
     exchange = company["exchange"]
     if(type(exchange)==float):
-        exchange = 'NaN'
+        exchange = "NaN"
     exchange_path = os.path.join(parent_dir, exchange)
     if not os.path.exists(exchange_path):
         os.makedirs(exchange_path)
@@ -43,19 +43,48 @@ for index, row in df.iterrows():
               'type':'10-k',
               'output':'atom'}
     response_10_K_list = requests.get(url = endpoint, params = param_dict_2,headers = headers)
-    soup_10_K_list = BeautifulSoup(response_10_K_list.content, 'html.parser')
+    soup_10_K_list = BeautifulSoup(response_10_K_list.content, ('html.parser'))
     link_list = []
     for each_10_K in soup_10_K_list.find_all('entry'):
         link_10_K = each_10_K.find_all('link')[0]['href']
         link_list.append(link_10_K)
+
+        response = requests.get(url = link_10_K,headers = headers)
+        soup = BeautifulSoup(response.content,('html.parser'))
+        json_object_file ={}
+        report_period_title = soup.find(text="Period of Report")
+        report_period = report_period_title.parent.findNext("div").text
+        json_object_file["report_period"]=report_period
+        filing_date_title = soup.find(text="Filing Date")
+        filing_date = filing_date_title.parent.findNext("div").text
+        json_object_file["filing_date"]=filing_date
+        table = soup.find("table",{"summary":"Document Format Files"})
+        row_10_K = table.find_all('tr')[1]
+        cell_10_K_link = row_10_K.find_all('td')[2]
+        if(len(cell_10_K_link)==0):
+            continue
+        link_10K = "https://www.sec.gov" +cell_10_K_link.find('a')['href']
+        link_10K = link_10K.replace("/ix?doc=","")
+        
+        index_name = link_10K.rfind('/')
+        name_file = link_10K[(index_name+1):]
+        
+        json_object_file["source_url"] = link_10K
+        company["annual_reports"].append(json_object_file)
+        
+        # create 10-K file locally
+        local_path = company_path+"/annual_report_"+filing_date+"_"+name_file
+        r = requests.get(link_10K, stream=True, headers = headers)
+        print(r)
+        with open(local_path, 'wb') as f:
+            for chunk in r.iter_content(chunk_size=10240):
+                f.write(chunk)
+        
     
-    link_list_file = "link_10_Ks.txt"
-    link_list_path = os. path. join(company_path,link_list_file)
-    textFile = open(link_list_path,"w")
-    for element in link_list:
-        textFile.write(element + "\n")
-    textFile.close()    
+    json_object["companies"].append(company)
     exchange_list.append(company["exchange"] )
-print(exchange_list) 
+
 #%%   
-print(set(exchange_list))
+
+with open('Data/meta_data.json', 'w', encoding='utf-8') as f:
+    json.dump(json_object, f, ensure_ascii=False, indent=4)
