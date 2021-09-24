@@ -75,7 +75,7 @@ for index, row in df.iterrows():
         # create 10-K file locally
         local_path = company_path+"/annual_report_"+filing_date+"_"+name_file
         r = requests.get(link_10K, stream=True, headers = headers)
-        print(r)
+        json_object_file["file_directory"] = local_path
         with open(local_path, 'wb') as f:
             for chunk in r.iter_content(chunk_size=10240):
                 f.write(chunk)
