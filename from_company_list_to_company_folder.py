@@ -8,7 +8,7 @@ import os
 #%%
 df = pd.read_csv('cik_ticker.csv',sep="|")
 #%%
-f_json = open('Data/meta_data.json')
+f_json = open('meta_data.json')
 json_object =json.load(f_json)
 f_json.close()
 endpoint = r"https://www.sec.gov/cgi-bin/browse-edgar"
@@ -21,7 +21,7 @@ headers = { 'User-Agent': 'Mozilla/5.0', }
 exchange_list=[]
 parent_dir = "Data/"
 #%%
-df_sub = df[697:]
+df_sub = df[1206:]
 for index, row in df_sub.iterrows():
     print(index)
 
