@@ -1,4 +1,5 @@
 import requests, random
+from bs4 import BeautifulSoup
 
 url = 'http://google.com'
 
@@ -29,6 +30,10 @@ user_agent_list = [
 agent = random.choice(user_agent_list)
 headers = {'User-Agent': agent}
 response = requests.get(url, headers=headers)
+soup = BeautifulSoup(response.content,('html.parser'))
+json_object_file ={}
+if(soup.find(text="Period of Report")==None):
+    print(" hihihih")
 
-print(response.text)
+
 
