@@ -1,8 +1,0 @@
-https://www.sec.gov/Archives/edgar/data/1362502/000147793214001250/0001477932-14-001250-index.htm
-https://www.sec.gov/Archives/edgar/data/1362502/000114420413035246/0001144204-13-035246-index.htm
-https://www.sec.gov/Archives/edgar/data/1362502/000114420412054213/0001144204-12-054213-index.htm
-https://www.sec.gov/Archives/edgar/data/1362502/000107704811000204/0001077048-11-000204-index.htm
-https://www.sec.gov/Archives/edgar/data/1362502/000107704810000098/0001077048-10-000098-index.htm
-https://www.sec.gov/Archives/edgar/data/1362502/000107704810000094/0001077048-10-000094-index.htm
-https://www.sec.gov/Archives/edgar/data/1362502/000107704810000022/0001077048-10-000022-index.htm
-https://www.sec.gov/Archives/edgar/data/1362502/000107704809000162/0001077048-09-000162-index.htm

@@ -7,17 +7,19 @@ import json
 import os
 #%%
 df = pd.read_csv('cik_ticker.csv',sep="|")
-df=df[:100]
-print(df)
 #%%
-json_object ={}
+f_json = open('Data/meta_data.json')
+json_object =json.load(f_json)
+f_json.close()
 endpoint = r"https://www.sec.gov/cgi-bin/browse-edgar"
 headers = { 'User-Agent': 'Mozilla/5.0', }
-json_object["companies"]=[]
+#json_object["companies"]=[]
 exchange_list=[]
-parent_dir = "C:/Users/trang/Documents/GitHub/NER-Company-Annual-Report/Data/"
+parent_dir = "Data/"
 #%%
-for index, row in df.iterrows():
+df_sub = df[497:]
+for index, row in df_sub.iterrows():
+    print(index)
     company ={}
     company["CIK"] = row["CIK"]
     company["ticker"] = row["Ticker"]
@@ -28,13 +30,13 @@ for index, row in df.iterrows():
     exchange = company["exchange"]
     if(type(exchange)==float):
         exchange = "NaN"
-    exchange_path = os.path.join(parent_dir, exchange)
+    exchange_path = parent_dir+ exchange
     if not os.path.exists(exchange_path):
         os.makedirs(exchange_path)
         
     company_name = company["name"]
     company_cik = company["CIK"]
-    company_path = os.path.join(exchange_path, company_name)
+    company_path = exchange_path+"/"+ company_name
     if not os.path.exists(company_path):
         os.makedirs(company_path)
         
@@ -43,6 +45,7 @@ for index, row in df.iterrows():
               'type':'10-k',
               'output':'atom'}
     response_10_K_list = requests.get(url = endpoint, params = param_dict_2,headers = headers)
+    time.sleep(0.1)
     soup_10_K_list = BeautifulSoup(response_10_K_list.content, ('html.parser'))
     link_list = []
     for each_10_K in soup_10_K_list.find_all('entry'):
@@ -50,6 +53,7 @@ for index, row in df.iterrows():
         link_list.append(link_10_K)
 
         response = requests.get(url = link_10_K,headers = headers)
+        time.sleep(0.1)
         soup = BeautifulSoup(response.content,('html.parser'))
         json_object_file ={}
         report_period_title = soup.find(text="Period of Report")
@@ -61,11 +65,11 @@ for index, row in df.iterrows():
         table = soup.find("table",{"summary":"Document Format Files"})
         row_10_K = table.find_all('tr')[1]
         cell_10_K_link = row_10_K.find_all('td')[2]
-        if(len(cell_10_K_link)==0):
-            continue
-        link_10K = "https://www.sec.gov" +cell_10_K_link.find('a')['href']
-        link_10K = link_10K.replace("/ix?doc=","")
         
+        link_10K = "https://www.sec.gov" +cell_10_K_link.find('a')['href']
+        if(len(cell_10_K_link.find('a').text)==0):
+            continue
+        link_10K = link_10K.replace("/ix?doc=","")
         index_name = link_10K.rfind('/')
         name_file = link_10K[(index_name+1):]
         
@@ -75,6 +79,7 @@ for index, row in df.iterrows():
         # create 10-K file locally
         local_path = company_path+"/annual_report_"+filing_date+"_"+name_file
         r = requests.get(link_10K, stream=True, headers = headers)
+        time.sleep(0.1)
         json_object_file["file_directory"] = local_path
         with open(local_path, 'wb') as f:
             for chunk in r.iter_content(chunk_size=10240):
@@ -88,3 +93,7 @@ for index, row in df.iterrows():
 
 with open('Data/meta_data.json', 'w', encoding='utf-8') as f:
     json.dump(json_object, f, ensure_ascii=False, indent=4)
+
+#%%
+print()
+    
