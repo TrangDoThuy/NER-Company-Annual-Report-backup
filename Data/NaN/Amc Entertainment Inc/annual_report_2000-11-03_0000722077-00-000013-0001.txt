@@ -1,0 +1,478 @@
+<DOCUMENT>
+<TYPE>10-K/A
+<SEQUENCE>1
+<FILENAME>0001.txt
+<TEXT>
+
+
+                               UNITED STATES
+                    SECURITIES AND EXCHANGE COMMISSION
+                          Washington, D.C. 20549
+
+                                FORM 10-K/A
+                             (AMENDMENT NO. 1)
+          (Mark One)
+        [ X ] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                      SECURITIES EXCHANGE ACT OF 1934
+                 For the fiscal year ended March 30, 2000
+                                    OR
+      [   ]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                      SECURITIES EXCHANGE ACT OF 1934
+               For the transition period from _________ to _________
+                                              -------      -------
+                       Commission file number 1-8747
+                          AMC ENTERTAINMENT INC.
+          (Exact name of registrant as specified in its charter)
+         Delaware                                 43-1304369
+(State or other jurisdiction
+of incorporation or organization)   (I.R.S.  Employer Identification No.)
+   106 West 14th Street
+     P. O. Box 219615
+  Kansas City, Missouri                           64121-9615
+(Address of principal executive offices)          (Zip Code)
+Registrant's telephone number, including area code:  (816) 221-4000
+Securities registered pursuant to Section 12(b) of the Act:
+                                                Name of each exchange
+Title of each class                               on which registered
+
+Common Stock, 66 2/3 cents par value      American Stock Exchange, Inc.
+                                           Pacific Stock Exchange, Inc.
+
+    Securities registered pursuant to Section 12(g) of the Act:  None.
+
+  Indicate  by check mark whether the registrant (1) has filed all  reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange  Act
+of 1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject  to
+such filing requirements for the past 90 days.   Yes  X   No ___
+                                                 ----      ----
+
+  Indicate  by  check mark if disclosure of delinquent filers  pursuant  to
+Item  405  of  Regulation  S-K is not contained herein,  and  will  not  be
+contained,  to the best of registrant's knowledge, in definitive  proxy  or
+information statements incorporated by reference in Part III of  this  Form
+10-K or any amendment to this Form 10-K.  [    ]
+
+  The  aggregate market value of the registrant's voting stock held by non-
+affiliates  as of May 12, 2000, computed by reference to the closing  price
+for   such  stock  on  the  American  Stock  Exchange  on  such  date,  was
+$83,257,382.
+
+                                                Number of shares
+Title of each class of common stock       Outstanding as of May 12, 2000
+
+Common Stock, 66 2/3 cents par value                 19,427,098
+Class B Stock, 66 2/3 cents par value                  4,041,993
+
+AMC  Entertainment  Inc., hereby amends Part III, Item  11  of  its  Annual
+Report  on  Form  10-K  for the year ended March 30, 2000  to  include  the
+amended Item 11.  Executive Compensation.
+
+Item 11.  Executive Compensation.
+
+
+Compensation of Management
+     The  following  table provides certain summary information  concerning
+compensation  paid  or  accrued by the Company  to  or  on  behalf  of  the
+Company's  Chief Executive Officer and each of the four other  most  highly
+compensated Executive Officers of the Company (determined as of the end  of
+the  last  fiscal  year and hereafter referred to as the  "Named  Executive
+Officers") for the last three fiscal years ended March 30, 2000,  April  1,
+1999 and April 2, 1998, respectively.
+
+ <TABLE>
+                        Summary Compensation Table
+ <CAPTION>
+                                                    Long-Term
+                                                  Compensation
+                                                Awards-Securities
+                          Annual Compensation        Underlying
+                          ---------------------
+                   Fiscal                             Options/  All Other
+Name and                               Other Annual
+Principal Position Year Salary  Bonus  Compensation(1)SARs Compensation(2)
+<S>               <C> <C>      <C>         <C>   <C>          <C>
+
+Peter C. Brown     2000$471,244 $112,455    N/A           -     $9,462
+Chief Executive
+Officer            1999 409,241       -     N/A     125,000      5,334
+and President      1998 296,444       -     N/A           -      4,960
+
+Stanley H.
+Durwood(3)		 2000 152,656      -     N/A           -          -
+Chief Executive
+Officer            1999 567,008       -     N/A     150,000          -
+                   1998 536,558       -     N/A           -          -
+
+Philip M.
+Singleton		 2000 375,145  66,300     N/A           -      7,789
+Chief Operating
+Officer            1999 383,702       -     N/A     100,000      5,317
+                   1998 316,679       -     N/A           -      4,896
+
+Richard M. Fay     2000 285,473  31,875     N/A      42,750      8,550
+President-AMC Film 1999 298,075       -     N/A           -      4,503
+Marketing          1998 286,982  45,000     N/A           -      4,676
+
+Richard T. Walsh   2000 270,089  31,875     N/A      15,500      8,058
+Executive Vice
+President,         1999 238,666       -     N/A           -      4,639
+Film Operations,
+AMC                1998 226,441  60,000     N/A           -      4,805
+Film Marketing
+
+John D. McDonald   2000 256,308  42,075     N/A      50,500      7,685
+Executive Vice
+President,         1999 217,695       -     N/A           -      8,308
+North American
+Operations         1998 199,442  60,000     N/A           -      6,883
+
+(1)For the years presented perquisites and other personal benefits did  not
+ exceed the lesser of $50,000 or 10% of total annual salary and bonus.
+
+(2)For  fiscal 2000, 1999 and 1998, All Other Compensation is comprised  of
+ AMC's  contributions  under AMC's 401(k) Savings  Plan  and  Non-Qualified
+ Deferred Compensation Plan, both of which are defined contribution plans.
+
+ (3)Mr. Stanley H. Durwood died on July 14, 1999.
+</TABLE>
+
+Option Grants
+     The following table provides certain information concerning individual
+grants  of  stock options made during the last completed fiscal year  under
+the  1994  Plan  to each of the Named Executive Officers.   There  were  no
+grants  of  stock options made during the last fiscal year under  the  1999
+Plan.
+
+<TABLE>
+                   Option/SAR Grants in Last Fiscal Year
+<CAPTION>
+
+
+              Number of   % of Total
+             Securities  Options/SARs          Potential Realizable Value at
+             Underlying   Granted to                Assumed Annual Rates of
+               Options/  Employees Exercise or     Stock Price Appreciation for
+                 SARs  in Fiscal  Base Price Expiration   Option Term(2)
+Name           Granted(1)    Year    ($/share)   Date  5%($)      10% ($)
+----------------------------------------------------------------------
+<S>           <C>      <C>   <C>       <C>       <C>       <C>
+
+Peter C. Brown      -        - $   -            -  $       - $        -
+Stanley H.
+Durwood(3)          -        -     -            -          -          -
+Philip M.
+Singleton           -        -     -            -          -          -
+Richard M.
+Fay            42,750    9.10%    17.69  06/18/09    475,546  1,205,127
+Richard T.
+Walsh          15,500    3.30%    17.69  06/18/09    172,420    436,947
+John D.
+McDonald       50,500   10.80%    17.69  06/18/09    561,756  1,423,601
+
+(1) The  stock options granted during the fiscal year ended March 30,  2000
+     are 50% vested.
+
+(2)  These columns show the hypothetical gains of "option spreads"  of  the
+ outstanding  options  granted  based  on  assumed  annual  compound  stock
+ appreciation rates of 5% and 10% over the options' terms. The 5%  and  10%
+ assumed  rates of appreciation are mandated by the rules of the Securities
+ and  Exchange  Commission (the "SEC") and do not represent  the  Company's
+ estimate  or  projections  of the future prices of  the  Company's  Common
+ Stock.
+
+(3)Mr.Stanley H. Durwood died on July 14, 1999.
+</TABLE>
+
+Option  Exercises  and Holdings.  The following table provides  information
+with  respect  to the Named Executive Officers concerning the  exercise  of
+options  during  the last fiscal year and unexercised options  held  as  of
+March 30, 2000.
+
+<TABLE>
+            Aggregated Option/SAR Exercises in Last Fiscal Year
+                   and Fiscal Year End Option/SAR Values
+<CAPTION>
+                                                         Value of
+                                   Number of           Unexercised
+                             Securities Underlying     In-The-Money
+                              Unexercised Options/   Options/SARs at
+    Shares Acquired             SARs at FY-End          FY-End (1)
+Name   on Exercise  Value
+                  Realized   Exercisable Unexercisable Exercisable
+                                                             Unexercisable
+<S>            <C>    <C>    <C>        <C>          <C>      <C>
+Peter C. Brown   -      $   -  284,000         -       $   -    $   -
+Stanley H.
+Durwood(2)       -          -  237,500         -           -        -
+Philip M.
+Singleton        -          -  233,600         -           -        -
+Richard M.  Fay  -          -   23,625    21,375           -        -
+Richard T. Walsh -          -   37,250     7,750           -        -
+John D. McDonald -          -   29,750    25,250           -        -
+
+(1)Values  for  "in-the-money" outstanding options represent  the  positive
+ spread  between the respective exercise prices of the outstanding  options
+ and the value of AMCE's Common Stock as of March 30, 2000.  There were  no
+ in-the-money options outstanding as of March 30, 2000.
+(2)Mr. Stanley H. Durwood died July 14, 1999.
+</TABLE>
+Defined  Benefit  Retirement and Supplemental Executive  Retirement  Plans.
+AMC  sponsors  a  defined benefit retirement plan (the  "Retirement  Plan")
+which  provides  benefits to certain employees of AMC and its  subsidiaries
+based  upon years of credited service and the highest consecutive five-year
+average  annual  remuneration  for  each  participant.   For  purposes   of
+calculating  benefits, average annual compensation is  limited  by  Section
+401(a)(17)  of  the Internal Revenue Code (the "Code"), and is  based  upon
+wages,  salaries  and  other  amounts paid to  the  employee  for  personal
+services,  excluding certain special compensation.  A participant  earns  a
+vested right to an accrued benefit upon completion of five years of vesting
+service.
+
+      AMC also sponsors a Supplemental Executive Retirement Plan to provide
+the  same level of retirement benefits that would have been provided  under
+the Retirement Plan had the federal tax law not been changed in the Omnibus
+Budget Reconciliation Act of 1993, which reduced the amount of compensation
+which  can  be  taken  into  account in a qualified  retirement  plan  from
+$235,840 (in 1993), the old limit, to $170,000 (in 2000).
+
+      The following table shows the total estimated annual pension benefits
+(without regard to minimum benefits) payable to a covered participant under
+AMC's  Retirement  Plan  and  the Supplemental Executive  Retirement  Plan,
+assuming  retirement in calendar 2000 at age 65 payable in the  form  of  a
+single  life  annuity.  The benefits are not subject to any  deduction  for
+Social  Security or other offset amounts.  The following table assumes  the
+old limit would have been increased to $275,000 in 2000.
+
+<TABLE>
+<CAPTION>
+Highest Consecutive
+Five year Average
+Annual Compensation          Years of Credited Service
+----------------------------------------------------------------------
+<S>                   <C>       <C>       <C>       <C>       <C>
+                           15        20        25        30        35
+                          ----      ----      ----      ----      ----
+$125,000               $17,510    $23,347   $29,184   $35,021   $41,857
+ 150,000                21,260     28,347    35,434    42,521    50,607
+ 175,000                25,010     33,347    42,684    50,021    58,357
+ 200,000                28,760     38,347    48,934    57,521    67,107
+ 225,000                32,510     43,347    54,184    65,021    76,857
+ 250,000                36,260     48,347    60,434    72,521    85,607
+ 275,000                40,010     53,347    66,684    80,021    93,357
+</TABLE>
+
+      As  of  March  30,  2000,  the years of credited  service  under  the
+Retirement Plan for each of the Named Executive Officers were: Mr. Peter C.
+Brown,  nine years, Mr. Philip M. Singleton, 26 years, Mr. Richard M.  Fay,
+four  years;  Mr. Richard T. Walsh, 25 years; and Mr. John D. McDonald,  25
+years.
+
+      AMC  has  established a Retirement Enhancement Plan ("REP")  for  the
+benefit  of  officers who from time to time may be designated  as  eligible
+participants therein by the Board of Directors.  The REP is a non-qualified
+deferred  compensation  plan  designed to provide  an  unfunded  retirement
+benefit  to an eligible participant in an amount equal to (i) sixty percent
+(60%)  of  his  or  her average compensation (including paid  and  deferred
+incentive  compensation) during the last three full  years  of  employment,
+less  (ii)  the sum of (A) such participant's benefits under the Retirement
+Plan  and  Social Security, and (B) the amount of a straight  life  annuity
+commencing  at  the  participant's normal retirement date  attributable  to
+AMC's  contributions under the Supplemental Executive Retirement Plan,  the
+401(k)  Savings Plan, the Non-Qualified Deferred Compensation Plan and  the
+Executive Savings Plan.  The base amount in clause (i) will be reduced on a
+pro  rata  basis  if the participant completes fewer than twenty-five  (25)
+years  of service.  The REP benefit vests upon the participant's attainment
+of  age  55  or  completion of fifteen (15) years of service, whichever  is
+later, and may commence to a vested participant retiring on or after age 55
+(who  has  participated in the plan for at least 5 years) on an actuarially
+reduced  basis  (6  2/3%  for  each  of  the  first  five  years  by  which
+commencement  precedes age 65 and an additional 3 1/3%  for  each  year  by
+which  commencement precedes age 60).  Benefits commence at a participant's
+normal  retirement  date (i.e., the later of age 65  or  the  participant's
+completion  of  five  years  of  service  with  AMC)  whether  or  not  the
+participant  continues to be employed by AMC.  The accrued benefit  payable
+upon  total  and  permanent disability is not reduced by  reason  of  early
+commencement.  Participants become fully vested in their rights  under  the
+REP  if  their employment is terminated without cause or as a result  of  a
+change  in  control,  as  defined in the  REP.   No  death,  disability  or
+retirement  benefit  is payable prior to a participant's  early  retirement
+date  or  prior to the date any severance payments to which the participant
+is entitled cease.
+
+     Mr. Peter C. Brown, Mr. Stanley H. Durwood and Mr. Philip M. Singleton
+have  been  designated as eligible to participate in the REP.   The  amount
+paid  to Mr. Durwood with respect to fiscal 2000 under the REP was $345,000
+and  is  not  included  in the Summary Compensation Table.   The  estimated
+monthly  amounts  that  Mr. Brown and Mr. Singleton  will  be  eligible  to
+receive under the REP at age 65 are $41,000 and $15,000, respectively; such
+amounts   are   based  on  certain  assumptions  respecting  their   future
+compensation  amounts  and  the amounts of AMC  contributions  under  other
+plans.   Actual amounts received by such individuals under the REP  may  be
+different than those estimated.
+
+Compensation of Directors
+     Prior  to  December  2,  1999, each of AMCE's  non-employee  directors
+received  an  annual fee of $32,000 for service on the Board  of  Directors
+and,  in addition, $1,500 for each Board meeting and $1,000 for each  Board
+committee  meeting which they attended.  Effective December 2,  1999,  each
+non-employee  director  receives  $65,000  for  service  on  the  Board  of
+Directors  and, in addition, $1,500 for each Board meeting and  $1,000  for
+each Board committee meeting which they attend.
+
+     Pursuant  to  the 1999 Stock Option Plan for Outside Directors,  which
+was  approved by stockholders at the annual meeting in December, 1999,  the
+non-employee directors are permitted to elect to receive up to all of their
+annual  $65,000  fee in the form of stock options.  The number  of  options
+which may be received is determined by dividing the amount of the fee taken
+in  the  form  of options by 30% of the fair market value of the  Company's
+Common  Stock  on  the  effective date of the grant,  which  is  the  first
+business  day  after the annual meeting.  Under the plan, each non-employee
+director  also received a one-time grant of options whose value  (estimated
+under  the  plan for this purpose at 30% of the fair market  value  of  the
+Company's  stock)  was $14,000.  Options generally become  exercisable  one
+year   after   grant  and  terminate  ten  years  after  grant.    However,
+exercisability is accelerated upon the occurrence of a change  in  control,
+as  defined  in  the plan, death, disability or retirement  upon  or  after
+reaching  age 70, and options will terminate prior to the tenth anniversary
+date of grant within specified periods following termination of service  as
+a  director.  Directors may elect to pay any required withholding taxes  in
+connection  with  the exercise of an option by having the Company  withhold
+shares  otherwise  issuable upon exercise.  The maximum  number  of  shares
+issuable  under the plan is 200,000, and no director may receive more  than
+50,000 shares under the plan.
+
+     For  the  fiscal year ended March 30, 2000, the non-employee directors
+received  the following for their service as directors under the  Company's
+compensation  arrangements for non-employee directors:   Charles  J.  Egan,
+Jr.:  $85,000; 4,670 options; W. Thomas Grant, II: $15,000; 26,340 options;
+Paul  E. Vardeman: $57,000; 11,340 options; Charles S. Paul: $5,801; 26,340
+options; and John P. Mascotte: $13,000; 0 options.
+
+Employment  Contracts,  Termination of  Employment  and  Change  in  Control
+Arrangements
+     Mr.  Stanley H. Durwood had an employment agreement with AMCE and  AMC
+dated  January  26,  1996  retaining him as Chairman  and  Chief  Executive
+Officer  and President.  It provided for an annual base salary of  no  less
+than  $500,000,  plus  payments and awards under AMC's Executive  Incentive
+Program  ("EIP"),  the  1994 Option and other bonus  plans  in  effect  for
+Executive  Officers  at a level reflecting his position,  plus  such  other
+amounts  as  may  be  paid  under  any other  compensatory  arrangement  as
+determined  in  the  sole  discretion of the Compensation  Committee.   Mr.
+Durwood's   annual base salary at the date of his death was $567,000.   The
+Company  had also agreed to use its best efforts to provide Mr. Durwood  up
+to  $5,000,000 in life insurance and to pay the premiums thereon and  taxes
+resulting from such payment.  Mr. Durwood's employment agreement had a term
+of  three  years and was automatically extended one year on its anniversary
+date,  January  26, so that as of such date each year the agreement  had  a
+three-year term.  The employment agreement was terminable without severance
+if  he  engaged in intentional misconduct or a knowing violation of law  or
+breached  his  duty of loyalty to the Company.  The agreement provided  for
+severance payments in the event of Mr. Durwood's death equal to three times
+the sum of his annual base salary in effect at the time of termination plus
+the  average of annual incentive or discretionary cash bonuses paid  during
+the  three  fiscal  years preceding the year of termination.   The  Company
+could  elect to pay such severance payments in monthly installments over  a
+period of three years or in a lump sum after discounting such amount to its
+then  present  value.   On July 26, 1999, the Company  paid  $1,509,000  in
+settlement of Mr. Durwood's employment agreement.
+
+     Messrs.  Peter C. Brown, Philip M. Singleton, Richard M. Fay,  Richard
+T.  Walsh and John D. McDonald have entered into employment agreements with
+the  Company  providing  for  annual base salaries  of  no  less  than  the
+following  amounts:  Mr. Brown-$400,000; Mr. Singleton-$375,000;  Mr.  Fay-
+$285,000;  Mr.  Walsh-$285,000 and Mr. McDonald-$210,000.   The  agreements
+also   provide   for   discretionary  bonuses,  an  automobile   allowance,
+reimbursement  of  reasonable travel and entertainment expenses  and  other
+benefits  offered  from  time  to  time to other  executive  officers.  The
+employment  agreements of Mr. Brown and Mr. Singleton have terms  of  three
+years  and those of Mr. Fay, Mr. Walsh and Mr. McDonald have terms  of  two
+years.  On the anniversary date of each agreement, one year shall be  added
+to  its  term, so that each employment agreement shall always have a three-
+year  or  two-year  term, as the case may be, as of each anniversary  date.
+Each  employment agreement terminates generally without severance  if  such
+employee  is terminated for cause, as defined in the employment  agreement,
+or  upon such employee's resignation, death or disability as defined in his
+employment agreement. Pro rata bonus payments will be made upon termination
+by  reason of disability or death. If either Mr. Brown or Mr. Singleton  is
+terminated  without cause or terminates his agreement following a  material
+breach  by the Company or a change in control, as defined in the agreement,
+he  will  be entitled to receive (i) a lump sum cash payment equal  to  the
+lesser  of  4.5 times current base salary or 2.99 times average annual  W-2
+earnings  for  the prior five years and (ii) the value of  all  outstanding
+employee stock options held by such employee. If either Mr. Fay, Mr.  Walsh
+or  Mr.  McDonald is terminated without cause or terminates  his  agreement
+subsequent  to  specified changes in his responsibilities, base  salary  or
+benefits  following a change in control, as defined in  the  agreement,  he
+will be entitled to receive a lump sum cash payment equal to two years base
+salary.  In  addition,  if  either Mr. Brown  or  Mr.  Singleton  dies,  is
+terminated  without cause or terminates his agreement following a  material
+breach  by  the  Company or a change in control, the  Company  will  redeem
+shares  previously purchased by him with the proceeds of a  loan  from  the
+Company.  (Mr. Brown financed the purchase of 375,000 shares  with  such  a
+loan and Mr. Singleton financed the purchase of 250,000 shares with such  a
+loan).  In such event, if the employee's obligations under the note to  the
+Company  exceed  the  value of the stock which he acquired  with  the  note
+proceeds,  the Company will forgive a portion of such excess in  an  amount
+based  on a formula set forth in the agreement. The amounts payable to  the
+Named  Executive  Officers  under  these  employment  agreements,  assuming
+termination by reason of a change of control as of March 30, 2000  were  as
+follows:  Mr. Brown-$1,094,000; Mr. Singleton-$1,375,000; Mr. Fay-$570,000;
+Mr.  Walsh-$570,000; and Mr. McDonald-$480,000.  The value  of  outstanding
+employee stock options payable to the Named Executive Officers under  these
+employment  agreements,  assuming termination by  reason  of  a  change  of
+control  as  of  March  30, 2000 were, as follows:  Mr.  Brown-$0  and  Mr.
+Singleton-$0.   The  amount of note proceeds and  interest  that  would  be
+forgiven  by   the Company assuming termination by reason of  a  change  of
+control as of March 30, 2000 were as follows:  Mr. Brown-$4,274,000 and Mr.
+Singleton-$1,963,000.
+
+      As  permitted by the 1994 and 1999 Stock Option and Incentive  Plans,
+stock  options granted to participants thereunder provide for  acceleration
+upon the termination of employment within one year after the occurrence  of
+certain change in control events, whether such termination is voluntary  or
+involuntary,  or  with  or  without cause.  In addition,  the  Compensation
+Committee   may  permit  acceleration  upon  the  occurrence   of   certain
+extraordinary transactions which may not constitute a change of control.
+
+       AMC   maintains   a  severance  pay  plan  for  full-time   salaried
+nonbargaining employees with at least 90 days of service.  For an  eligible
+employee  who is subject to the Fair Labor Standards Act ("FLSA")  overtime
+pay  requirements (a "nonexempt eligible employee"), the plan provides  for
+severance pay in the case of involuntary termination of employment  due  to
+layoff  of  the  greater of two weeks' basic pay or one  week's  basic  pay
+multiplied  by  the employee's full years of service up  to  no  more  than
+twelve  weeks'  basic  pay.   There is no severance  pay  for  a  voluntary
+termination,  unless up to two weeks pay is authorized in lieu  of  notice.
+There  is  no  severance  pay  for an involuntary  termination  due  to  an
+employee's  misconduct.   Only two weeks' severance  pay  is  paid  for  an
+involuntary  termination due to substandard performance.  For  an  eligible
+employee  who is exempt from the FLSA overtime pay requirements,  severance
+pay  is  discretionary (at the Department Head/Supervisor level), but  will
+not  be  less  than  the amount that would be paid to a nonexempt  eligible
+employee.
+
+SIGNATURES
+
+     Pursuant  to the requirements of Section 13 or 15(d) of the Securities
+Exchange  Act  of 1934, the registrant has duly caused this  report  to  be
+signed on its behalf by the undersigned, thereunto duly authorized.
+
+                              AMC ENTERTAINMENT INC.
+
+
+
+                              By:  /s/Craig R. Ramsey
+                                   ----------------------------
+                                   Craig R. Ramsey
+                                   Senior Vice President,
+                                   Finance, Chief Financial Officer and
+                                   Chief Accounting Officer
+
+                              Date:November 2, 2000
+
+
+
+
+</TEXT>
+</DOCUMENT>

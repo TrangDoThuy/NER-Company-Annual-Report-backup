@@ -1,0 +1,2780 @@
+<DOCUMENT>
+<TYPE>10-K/A
+<SEQUENCE>1
+<FILENAME>b50598ate10vkza.txt
+<DESCRIPTION>ALPHA TECHNOLOGIES GROUP, INC.
+<TEXT>
+<PAGE>
+--------------------------------------------------------------------------------
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+                       ----------------------------------
+
+                                  FORM 10-K/A-1
+
+ ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                   For the fiscal year ended October 26, 2003
+
+                         Commission File Number 0-14365
+
+                         ------------------------------
+
+                         Alpha Technologies Group, Inc.
+             (Exact name of registrant as specified in its charter)
+
+          Delaware                                        76-0079338
+(State or other jurisdiction of             (I.R.S. Employer Identification No.)
+ incorporation or organization)
+
+            11990 San Vicente Blvd., Suite 350 Los Angeles, CA 90049
+               (Address of principal executive offices) (Zip Code)
+
+        Registrant's telephone number, including area code: (310)566-4005
+
+                     ---------------------------------------
+
+         Securities registered under Section 12(b) of the Exchange Act:
+
+                                      None
+
+         Securities registered under Section 12(g) of the Exchange Act:
+
+                          Common Stock, $.03 par value
+                              (Title of each class)
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) had been subject to such
+filing requirements for the past 90 days. Yes [x] No [_]
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [x]
+
+     Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Act). Yes [ ] No [x]
+
+
+     Aggregate market value of the voting stock held by non-affiliates of the
+registrant. $ 5,499,202 at April 27, 2003
+
+     Number of shares outstanding of each of the issuer's classes of Common
+Stock, as of the latest practicable date.
+
+     Common Stock, 7,110,336 shares outstanding at December 31, 2003.
+
+             ------------------------------------------------------
+
+<PAGE>
+
+Item 7. Management's Discussion and Analysis of Operations and Financial
+Condition is hereby amended to read in its entirety as follows:
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF OPERATIONS AND FINANCIAL
+CONDITION.
+
+FORWARD-LOOKING STATEMENTS
+
+This Annual Report on Form 10-K may contain forward-looking statements within
+the meaning of the Private Securities Litigation Reform Act of 1995. These
+statements are based on current expectations, estimates and projections about
+the Company's business based, in part, on assumptions made by management. These
+statements are not guarantees of future performance and involve risks,
+uncertainties and assumptions that are difficult to predict. Therefore, actual
+outcomes and results may differ materially from what is expressed or forecasted
+in such forward-looking statements due to numerous factors, including the
+following: changes in demand for the Company's products, product mix, the timing
+of customer orders and deliveries, the impact of competitive products and
+pricing, excess or shortage of production capacity, compliance with covenants in
+the Company's loan documents, ability to meet principal payments under those
+loan documents and other risks discussed from time to time in the Company's
+Securities and Exchange Commission filings and reports. In addition, such
+statements could be affected by general industry and market conditions and
+growth rates, and general domestic and international economic conditions. Such
+forward looking statements speak only as of the date on which they are made, and
+the Company does not undertake any obligation to update any forward-looking
+statement to reflect events or circumstances which may take place after the date
+of this report.
+
+OVERVIEW
+
+We design, extrude, fabricate and sell thermal management and non-thermal
+fabricated products for use in a variety of industries including automotive,
+telecommunication, industrial controls, transportation, power supply, factory
+automation, consumer electronics, aerospace, defense and microprocessor
+industries. We extrude aluminum for our use in the production of thermal
+management and non-thermal fabricated products and sell aluminum extrusions to a
+variety of industries including the construction, sporting goods and other
+leisure activity markets. Extruded aluminum is the primary raw material in the
+production of thermal management and non-thermal fabricated products.
+
+In January 2001, the Company acquired National Northeast Corporation ("NNE"),
+which was engaged in the thermal management and aluminum extrusion business in
+Pelham, New Hampshire. (SEE NOTE 2 TO THE CONSOLIDATED FINANCIAL STATEMENTS)
+The Company integrated NNE into its Wakefield subsidiary.
+
+TRENDS
+
+Alpha's sales have declined from $67,914,000 for fiscal 2001, to $46,801,000 for
+the fiscal year ended October 26, 2003. We believe this decline has been caused
+by a severe downturn in the markets our products serve, principally electronics,
+automotive and aluminum extrusion. Due to these sales declines, we have
+experienced net losses for the fiscal years ended 2003 and 2002 of $15,598,000
+and $11,428,000, which have included goodwill impairment of $13 million and
+$15.6 million, respectively. As a result of reduced demand for our products, we
+have made substantial reductions in operating expenses, particularly in the
+number of employees.
+
+CREDIT AGREEMENT
+
+We are currently in compliance with all financial covenants contained in our
+Credit Agreement, as amended, and believe we will continue to be in compliance
+for the balance of 2004. However, we will need to achieve quarterly sales in
+fiscal 2005 and 2006 of approximately $19 million, a level which we do not
+currently believe to be
+
+
+                                                                               1
+<PAGE>
+
+realistically achievable, in order to meet principal payment obligations in
+fiscal 2005 and 2006 or we will need to negotiate for an extension of the
+payment schedule and covenants. We intend to negotiate with our Lenders to
+extend the Loan and revise the principal repayment schedule. In the event we
+cannot negotiate an extension, we would be required to obtain alternative
+financing. If the Lenders demand repayment and we cannot obtain alternative
+financing, we may be required to file for bankruptcy protection.
+
+IMPAIRMENT OF GOODWILL
+
+The Company recorded a $13.0 million and $15.6 million goodwill impairment
+charge in fiscal 2003 and 2002, respectively. As a result of these charges, the
+Company no longer has any goodwill on its books.
+
+CRITICAL ACCOUNTING POLICIES
+
+The preparation of the Company's consolidated financial statements in conformity
+with accounting principles generally accepted in the United States of America
+requires management to make judgements estimates and assumptions in certain
+circumstances that affect the amounts reported in the consolidated financial
+statements and related footnotes. We regularly evaluate the accounting policies
+and estimates we use to prepare our financial statements. Estimates are used
+for, but not limited to, revenue recognition, accounting for allowance for
+doubtful accounts and sales returns, inventory reserves, and contingencies.
+These estimates are based on historical experience and various assumptions that
+we believe to be reasonable under the particular applicable facts and
+circumstances. Actual results could differ from those estimates.
+
+We consider our critical accounting policies to be those that (1) involve
+significant judgements and uncertainties, (2) require estimates that are more
+difficult for management to determine and (3) have the potential to result in
+materially different outcomes under varying assumptions and conditions. Our
+critical accounting policies include the following: allowance for sales returns,
+provision for doubtful accounts, provision for inventory reserves, impairment of
+long-lived assets, and accounting for income taxes.
+
+REVENUE RECOGNITION
+
+We recognize revenue in accordance with SEC Staff Accounting Bulletin No. 101
+"Revenue Recognition in Financial Statements" ("SAB 101"). SAB 101 requires that
+four basic criteria be met before revenue can be recognized: 1) there is
+persuasive evidence that an arrangement exists; 2) delivery has occurred; 3) the
+fee is fixed or determinable; and 4) collectibility is reasonably assured. We
+recognize revenue upon determination that all criteria for revenue recognition
+have been met, which is generally considered to have occurred upon shipment of
+the finished product.
+
+ALLOWANCE FOR DOUBTFUL ACCOUNTS
+
+Alpha regularly analyzes its customer accounts and, when it becomes aware of a
+specific customer's inability to meet its financial obligations to the Company,
+records a specific provision for uncollectible accounts to reduce the related
+receivable to the amount that is estimated to be collectible. The Company also
+records and maintains a provision for doubtful accounts for customers based on a
+variety of factors including the Company's historical experience, the length of
+time the receivable has been outstanding and the financial condition of the
+customer. If circumstances related to specific customers were to change, the
+Company's estimates with respect to the collectibility of the related
+receivables could be further adjusted. Historically, losses in the aggregate
+have not exceeded management's expectations.
+
+                                                                               2
+<PAGE>
+
+ALLOWANCE FOR SALES RETURNS
+
+Allowances for sales returns are provided in the period in which the related
+sale is recognized. The allowance for sales returns is based on our analysis of
+trends in product returns. While we believe that our allowance for sales returns
+is adequate and that the judgment applied is appropriate, if the historical data
+used to calculate these estimates do not properly reflect future returns,
+additional provision for sales returns may be required, and revenues in that
+period could be adversely affected. Historically, sales returns have not been
+significant in any period presented.
+
+INVENTORIES AND INVENTORY RESERVES
+
+Inventories are stated at the lower of cost or market and are costed using the
+first-in, first-out method. Inventory reserves have been established for excess
+and obsolete items. Inventory purchases and commitments are based upon future
+demand forecasts for our products and our current level of inventory. If there
+is a sudden and significant decrease in demand for our products or there is a
+higher risk of inventory obsolescence because of rapidly changing technology and
+requirements, we may be required to increase our inventory reserve and as a
+result, our gross profit margin could be adversely affected.
+
+IMPAIRMENT OF LONG-LIVED ASSETS
+
+The Company assesses the impairment of long-lived assets, identifiable
+intangible assets and goodwill whenever events or changes in circumstances
+indicate that the carrying value may not be recoverable. Indicators of
+impairment considered by management include damage or obsolescence, plans to
+discontinue use or restructure, adverse changes in technology or in the market
+place, and poor economic performance compared with original plans. If future
+cash flows (undiscounted and without interest charges) expected to be generated
+by an assets use or disposition are not sufficient to support the recorded value
+of assets, an impairment loss is recognized to reduce the carrying value of
+long-lived assets to their estimated fair value.
+
+INCOME TAXES
+
+The Company provides for income tax expense or benefit in interim periods using
+the rate expected to be in effect for the entire year. Changes in the estimated
+tax rate for a fiscal year are recorded in the period in which they occur. We
+record valuation allowances to reduce our deferred income tax assets to an
+amount that we believe is more likely than not to be realized. We consider
+estimated future taxable income and ongoing prudent and feasible tax planning
+strategies in assessing the need for a valuation allowance. If we were to
+determine that we will not realize all or part of our deferred income tax assets
+in the future, we would make an adjustment to the carrying value of the deferred
+income tax asset, which would be reflected as an income tax expense. Conversely,
+if we were to determine that we will realize a deferred income tax asset, which
+currently has a valuation allowance, we would reverse the valuation allowance
+which would be reflected as an income tax benefit in our financial statements.
+
+RESULTS OF OPERATIONS
+
+The following discussion reflects results from continuing operations, which
+includes the thermal management and non-thermal fabricated products and aluminum
+extrusion products including the operating results of NNE since acquisition and
+Alpha corporate expenses.
+
+
+                                                                               3
+<PAGE>
+
+Fiscal Year 2003 versus Fiscal Year 2002 Comparison
+
+<TABLE>
+<CAPTION>
+                                                                             %
+                                          OCTOBER 26,    OCTOBER 27,     INCREASE
+                                             2003           2002        (DECREASE)
+                                          -----------    -----------    ----------
+<S>                                        <C>          <C>             <C>
+Sales                                        $46,801      $55,574        (15.8%)
+
+Gross Profit                                  $5,086       $8,231        (38.2%)
+
+Gross Profit as a % of Sales                    10.9%        14.8%       (26.6%)
+
+Research and Development                        $396         $496        (20.2%)
+
+Selling, General and Administrative           $5,837       $6,117         (4.6%)
+
+SG&A as a % of Sales                            12.5%        11.0%        13.3%
+
+Impairment of Goodwill                       $12,980      $15,602        (16.8%)
+
+Impairment of Other Intangible Asset            $323           --          100%
+
+Interest Expense                              $2,042       $2,510        (18.6%)
+
+Costs Associated with Debt Modifications          --        $(561)        (100%)
+
+Net Loss                                    $(15,598)    $(11,488)        35.8%
+
+</TABLE>
+
+
+Net (Loss) Income. The Company reported a net loss for fiscal 2003 of $15.6
+million which included the following items: a goodwill impairment charge of $13
+million, and an intangible asset impairment charge of $323,000. The Company
+reported net loss for fiscal 2002 of $11.5 million, which included the following
+items: a goodwill impairment charge of $15.6 million, a loss on the sale of land
+and building of $2.1 million, and losses associated with debt modifications of
+$561,000.
+
+Sales. The Company's sales for fiscal year 2003 decreased by $8.8 million to
+$46.8 million from $55.6 million for fiscal year 2002. Management believes that
+this decrease was primarily due to reduced demand for the Company's products
+resulting from the weakness in the economy, particularly in the electronics,
+automotive and aluminum extrusion markets. The Company does not manage its
+business or track revenues by industry. However, sales to automotive customers
+declined from $9.2 million to $6.9 million; extrusion sales declined from $11.0
+million to $9.8, and sales to all other customers declined by $5.3 million from
+2002 to 2003.
+
+Gross Profit. The Company's gross profit margin for fiscal year 2003 was 10.9%
+of revenue compared to 14.8% of revenue for fiscal year 2002. This continued the
+trend in gross margin declines from 20.6% in fiscal 2001. The principal reason
+for the decline is reduced unit volume and decreased unit prices for some of our
+products resulting from reduced demand for our products and increased price
+competition. To combat the reduction in sales, the Company has reduced its
+indirect labor headcount from 160 in March 2001 to 105 in October 2003. This has
+resulted in annual savings of approximately $3.5 million. We believe that, at
+October 27, 2003, we had the minimum number of employees necessary to sustain
+sales at the levels that existed at that time. We also have negotiated price
+reductions with substantially all of our vendors except for aluminum suppliers
+(which accounted for approximately 38% of the cost of goods sold during fiscal
+2003) and landlords (the allocable portion of rents account for 3% of our cost
+of goods sold during fiscal year). Despite these measures, gross profit
+percentage decreased as a result of proportionately higher fixed costs such as
+rent, depreciation and insurance relative to sales for the period.
+
+                                                                               4
+<PAGE>
+
+Research and Development. Research and development expenses for fiscal year 2003
+were $396,000 compared to $496,000 for the same period last year. The decrease
+was primarily due to lower labor costs and containment of expenses.
+
+Selling, General and Administrative. Selling, general and administrative
+expenses for fiscal 2003 were $5.8 million or 12.5% of sales as compared to $6.1
+million or 11.0% of sales for fiscal 2002. SG&A expenses in absolute dollars
+decreased by $280,000. This decrease was the result of decreases in commission
+costs, amortization expense, compensation costs, legal fees and certain employee
+benefit costs. Decreases in commission costs were due to decreased sales. The
+decrease in amortization expense was due to the write-off of an intangible asset
+which was determined to be impaired. Decreases in the other expense categories
+were due to the Company's continued efforts to contain costs. As a percentage of
+sales, SG&A increased principally as a result of lower sales.
+
+Impairment of Goodwill. The Company recorded a $13.0 million and a $15.6 million
+goodwill impairment charge in fiscal 2003 and fiscal 2002, respectively. As a
+result of these charges, the Company no longer has any goodwill on its books.
+The goodwill was principally ($28.6 million) related to our acquisition of NNE
+in 2001.
+
+Impairment of Other Intangible Asset. The Company recorded a $323,000 impairment
+charge in fiscal 2003 related to an intangible asset related to a non-compete
+agreement which management determined would no longer have any value.
+
+Interest Expense. Interest expense was $2,042,000 for fiscal 2003 compared to
+$2,510,000 for fiscal 2002. This decrease was due to lower interest rates and
+lower average outstanding borrowings.
+
+Costs Associated with Debt Modifications. The Company recorded a $561,000 charge
+in fiscal 2002 resulting from amendments to Credit Agreements with its Lenders
+which revised certain financial covenants and waived certain events of
+non-compliance.
+
+(Benefit) Provision for Income Tax. Benefit for income tax was $883,000 for
+fiscal 2003 compared to a benefit of $7.6 million for fiscal 2002. The effective
+income tax rate for fiscal 2003 was 5.4% compared to 39.9% reported for fiscal
+2002. The Company evaluates the recoverability of its recorded deferred tax
+assets each reporting period and provides valuation allowances where necessary
+for assets not likely to be recovered. The Company increased its valuation
+allowance by $5.6 million in fiscal 2003 because management determined that, due
+to the Company's recent losses (see Net (Loss) Income above), and the continued
+weak demand for our products evident at fiscal year end, it was more likely than
+not that we would not have sufficient earnings in the foreseeable future to
+fully utilize the Company's available net operating loss carry-forward.
+
+
+                                                                               5
+<PAGE>
+
+Fiscal Year 2002 versus Fiscal Year 2001 Comparison
+
+The results of operations for fiscal 2001 have been reclassified to reflect the
+results of operations from Malco Technologies, Inc. as discontinued operations.
+See introductory paragraphs in "Selected Financial Data".
+
+<TABLE>
+<CAPTION>
+                                                                                  %
+                                                 OCTOBER 27,   OCTOBER 28,     INCREASE
+                                                    2002         2001         (DECREASE)
+------------------------------------------       -----------   ----------     ----------
+<S>                                                <C>           <C>            <C>
+Sales                                              $55,574       $67,914         (18.2%)
+
+Gross Profit                                        $8,231       $13,974         (41.1%)
+
+Gross Profit as a % of Sales                          14.8%         20.6%        (28.0%)
+
+Research and Development                              $496          $926         (46.4%)
+
+Selling, General and Administrative                 $6,117        $9,031         (32.3%)
+
+SG&A as a % of Sales                                  11.0%         13.3%        (17.2%)
+
+Impairment of Goodwill                             $15,602            --           100%
+
+Restructuring and Other
+Non-Recurring Charges                                   --          $822          (100%)
+
+Interest Expense                                    $2,510        $2,546          (1.4%)
+
+Costs Associated with Debt Modifications             ($561)        ($650)        (13.7%)
+
+Net (Loss) Income                                 ($11,488)         $305       (3864.9%)
+</TABLE>
+
+
+Net (Loss) Income. The Company reported a net loss for fiscal 2002 of $11.5
+million which includes the following items: goodwill impairment charge of $15.6
+million, a loss on the sale of land and building of $2.1 million, and losses
+associated with debt modifications of $561,000. The loss reflects a benefit for
+income taxes of $7.6 million. The loss before such benefit was $19.1 million.
+Net Income for fiscal 2001 of $305,000 included the following items: a gain from
+the sale of the Company's subsystems business of $277,000, net of tax, a loss
+from discontinued operations of $79,000, net of tax, and losses associated with
+debt and modifications of $650,000.
+
+Sales. The Company's sales for fiscal year 2002 decreased by 18.2% to $55.6
+million from $67.9 million for fiscal year 2001 (which includes NNE sales from
+January 9, 2001, the date of acquisition). Although the Company does not prepare
+separate financial statements for the business previously conducted as NNE,
+management believes that sales declined in both the NNE business as well as in
+its previously existing business. Management believes that this decrease was due
+to reduced demand for the Company's products resulting from the weakness in the
+economy, particularly in the telecom, networking, electronics and industrial
+controls markets.
+
+Gross Profit. The Company's gross profit for fiscal year 2002 was 14.8% compared
+to 20.6% for fiscal year 2001. The Company implemented many cost cutting
+measures over fiscal 2002 to improve operating results, including employee
+layoffs, tight expense controls and improved factory efficiencies. Despite these
+improvements, gross profit decreased as a result of revenues decreasing by $12.3
+million while fixed overhead costs such as depreciation, lease expense and
+insurance remained relatively unchanged.
+
+Research and Development. Research and development expenses for fiscal year 2002
+were $496,000 compared to $926,000 for the same period last year. The decrease
+was primarily due to the reduction in headcount and travel related expenses.
+
+
+                                                                               6
+<PAGE>
+
+Selling, General and Administrative. Selling, general and administrative
+expenses for fiscal 2002 were $6.1 million or 11.0% of sales as compared to $9.0
+million or 13.3% of sales for fiscal year 2001. SG&A expenses in absolute
+dollars decreased by $2.9 million primarily due to decreases in goodwill
+amortization, commission expense and compensation costs. Decreases in goodwill
+amortization was the result of the Company's adoption of SFAS No. 142. Decreases
+in commission expense is due to decreased sales. Decreases in compensation costs
+is the direct result of headcount reductions.
+
+Impairment of Goodwill. The Company recorded a $15.6 million goodwill impairment
+charge in the third quarter of fiscal 2002. The Goodwill of the Company is
+tested for impairment annually on June 1st and between annual tests if an event
+occurs or circumstances change that could result in impairment.
+
+Loss on Sale of Land and Building. The Company sold its Pelham, New Hampshire
+manufacturing facility as part of a sale and leaseback transaction. The sales
+price of the facility was $4,750,000. In connection with the sale and leaseback
+transaction, the Company issued warrants to purchase an aggregate of 250,000
+shares of Common Stock at an exercise price of $1.42 per share. The warrants
+were valued at approximately $274,000 using the Black Sholes method. The book
+value of the land, buildings and improvements was approximately $6.3 million.
+Selling costs were approximately $300,000, excluding the value of the warrants.
+The loss on the sale of the property was $2.1 million ($1.3 million, net of
+tax).
+
+Costs Associated with Debt Modifications. The Company recorded charges of
+$561,000 and $650,000 during fiscal 2002 and fiscal 2001, respectively,
+resulting from amendments to Credit Agreements with its Lenders which revised
+certain financial covenants and waived certain events of non-compliance.
+
+Interest and Other Income (net). Interest income was $30,000 for the fiscal year
+2002 compared to $201,000 for fiscal year 2001. The decrease in income was due
+to lower interest income associated with lower cash balances on hand during the
+period. The Company recorded other income(net)in fiscal 2001 of $72,000 which
+was due primarily to the gain on the sale of certain equipment no longer being
+used in the business.
+
+(Benefit) Provision for Income Tax. Benefit for income tax was $7.6 million in
+fiscal year 2002 compared to an income tax provision of $165,000 for fiscal year
+2001. The effective income tax rate for fiscal year 2002 was 39.9% compared to
+60.7% for fiscal year 2001.
+
+Gain on Sale of Discontinued Operation. Gain on sale of discontinued operations
+was the result of the Company's sale of Malco Technologies Group, Inc. in fiscal
+year 2001.
+
+INCOME TAXES
+
+On October 26, 2003, the Company had pre tax operating loss carry forwards for
+both Federal and State of approximately $16,120,000 available to reduce future
+taxable income , unused investment and research and development tax credits of
+approximately $208,000 and $228,000 of alternative minimum tax credits available
+to offset future Federal income taxes. The Federal net operating loss carry
+forwards will expire from 2017 to 2021, the investment tax credit and research
+and development tax credit carry forwards will expire from 2004 to 2006, and the
+alternative minimum tax credit has no expiration. The state net operating loss
+carry forwards will expire from 2004 to 2007.
+
+The Company currently carries deferred tax assets of approximately $10.0
+million, net of valuation allowances of $6.1 million. The Company evaluates the
+recoverability of its deferred tax assets each reporting period and provides
+valuation allowances for assets not likely to be realized. Realization of these
+assets is predicated on a return of the Company to sustain profitability and the
+generation of sufficient taxable income to absorb these tax assets. Effective in
+the third quarter of 2003, the Company began to provide valuation allowances
+against newly generated loss carryforwards, as the Company's operating history
+had led to a conclusion that these newly generated assets were less likely of
+realization than those already recognized. In the event that the Company's
+operations improve, the valuation allowances against
+
+
+                                                                               7
+<PAGE>
+
+these assets may be reversed, which would increase income. Conversely, in the
+event that the Company's operations deteriorate, further valuation allowances
+against previously recognized assets may be required.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Credit Facilities
+
+On January 9, 2001, the Company and its subsidiaries, as guarantors, entered
+into a Credit Agreement (the "Credit Agreement") with several banks and other
+financial institutions ("the Lenders"). Loans under the Credit Agreement consist
+of a revolving credit facility and a term loan, and are secured by a first lien
+on and the assignment of all of the Company's assets. Under the Credit
+Agreement, the Company must meet certain covenants.
+
+The Credit Agreement has been amended seven times to revise various financial
+covenants, revise principal payment schedules and to waive certain events of
+covenant non-compliance. The Company has paid various cash fees and has issued
+warrants to purchase 258,225 shares of the Company's Common Stock to the Lenders
+in connection with the amendments.
+
+On February 5, 2003, the Company and its Lenders entered into a Fifth Amendment
+to the Credit Agreement which revised the Maximum Leverage Ratio and Fixed
+Charge Coverage Ratio for the balance of fiscal year 2003 and fiscal year 2004.
+The Lenders waived the non-compliance with the Maximum Leverage Ratio and Fixed
+Charge Coverage Ratio covenants at January 24, 2003. On May 23, 2003, the
+Company and its Lenders entered into a Sixth Amendment to the Credit Agreement
+which revised the Maximum Leverage Ratio and Fixed Charge Coverage Ratio for the
+balance of fiscal year 2003 and fiscal year 2004. The Lenders waived the
+non-compliance with the Maximum Leverage Ratio and Fixed Charge Coverage Ratio
+covenants at April 27, 2003. On September 5, 2003, the Company and its Lenders
+entered into a Seventh Amendment to the Credit Agreement which revised the
+Maximum Leverage Ratio and Fixed Charge Coverage Ratio for the balance of fiscal
+year 2003 and fiscal year 2004 to levels that management believes the Company
+will be able to achieve. The Lenders waived the non-compliance with the Maximum
+Leverage Ratio and Fixed Charge Coverage Ratio covenants at July 27, 2003, added
+new Minimum EBITDA and Interest Coverage covenants for the remainder of fiscal
+year 2003 and fiscal year 2004, revised the allowable amounts to be spent on
+capital expenditures for fiscal years 2003 and 2004 and eliminated the Minimum
+Net Worth requirement. At October 26, 2003, the Company was in compliance with
+all covenants under the Credit Agreement.
+
+For periods ending on or after April 1, 2004, interest on the revolving credit
+facility and term loan will increase by .5% at maximum financial leverage
+levels. Lastly, the September 5, 2003 amendment reduced the principal payments
+from $750,000 to $250,000 per quarter for the remainder of fiscal year 2003 and
+from $1,500,000 to $250,000 per quarter for fiscal year 2004. The maturity date
+of the revolver was extended from June 2004 to January 2005. The term debt
+continues to mature on January 2006 at which time a final balloon payment of
+$11.0 million will be due.
+
+Principal payments under the term loan are due as follows:
+
+<TABLE>
+<CAPTION>
+--------------------------------------------------------------------------
+                   Fiscal Year 2004    Fiscal Year 2005  Fiscal Year 2006
+--------------------------------------------------------------------------
+
+<S>                     <C>               <C>              <C>
+First Quarter           $250,000          $1,800,000       $11,000,000
+--------------------------------------------------------------------------
+
+Second Quarter          $250,000          $1,800,000                --
+--------------------------------------------------------------------------
+
+Third Quarter           $250,000          $1,800,000                --
+--------------------------------------------------------------------------
+
+Fourth Quarter          $250,000          $1,800,000                --
+--------------------------------------------------------------------------
+
+Totals                $1,000,000          $7,200,000       $11,000,000
+---------------------------------------------------------- ---------------
+</TABLE>
+
+                                                                               8
+<PAGE>
+
+Under the Amended Credit Agreement, the revolving credit facility accrues
+interest on outstanding borrowings at LIBOR plus 3.5% (4.67% on October 26,
+2003) and expires in January 2005. There is also an unused line fee equal to
+.75% per annum. The Company may borrow up to the lesser of $5 million or 60% of
+eligible accounts receivable ($3.3 million at October 26, 2003), as defined by
+the Amended Credit Agreement. As of October 26, 2003, $3.2 million has been
+drawn and is outstanding on the revolving credit facility.
+
+     The Amended Credit Agreement contains the following financial and other
+covenants with which the Company must comply:
+
+<TABLE>
+<CAPTION>
+                         MAXIMUM                MINIMUM
+      QUARTER           FINANCIAL             FIXED CHARGE        MINIMUM INTEREST     MINIMUM
+      ENDING         LEVERAGE RATIO (a)     COVERAGE RATIO (b)   COVERAGE RATIO (c)   EBITDA (d)
+      ------         ------------------     ------------------   ------------------   -----------
+
+<S>                  <C>                    <C>                  <C>                  <C>
+October 26, 2003          11.0:1                     --(e)            0.70:1          $  350,000
+January 25, 2004          11.0:1                 0.60:1               1.00:1             520,000
+April 25, 2004            11.0:1                 0.70:1               1.20:1           1,220,000
+July 25, 2004             10.3:1                 0.70:1               1.20:1           1,730,000
+October 31, 2004           8.1:1                 0.85:1               1.50:1           2,620,000
+Thereafter                1.75:1                 0.85:1                   --                  --
+</TABLE>
+
+
+     (a)  The maximum financial leverage ratio is calculated by dividing funded
+          debt by EBITDA.
+
+     (b)  The minimum fixed charge coverage ratio is calculated by dividing
+          EBITDA minus Capital Expenditures by fixed charges.
+
+     (c)  The minimum interest coverage ratio is calculated by dividing EBITDA
+          by interest expense.
+
+     (d)  Compliance with the minimum EBITDA covenant is measured on a
+          cumulative basis for fiscal year 2004
+
+
+     (e)  The minimum financial leverage ratio was waived for the fourth quarter
+          of 2003.
+
+In addition, capital spending was limited to $450,000 for fiscal year 2003, and
+is limited to $300,000 for fiscal year 2004, $1.0 million for fiscal year 2005,
+and $1.0 million each year thereafter. The Amended Credit Agreement does not
+permit the Company, or its subsidiaries, to declare or pay dividends.
+
+A portion of the outstanding term loan, $12.0 million on October 26, 2003, is
+covered by an interest rate swap (the "hedged loan"). The hedged loan accrues
+interest at a fixed rate of 8.47%. The balance of the term loan not covered by
+the swap, $7.2 million on October 26, 2003, consists of a note which accrues
+interest at the relevant LIBOR rate plus 3.5% (4.64% at October 26, 2003).
+
+Cash Flow Information
+
+On October 26, 2003, the Company had cash of approximately $1,677,000 compared
+to $751,000 on October 27, 2002. For fiscal year 2003, $3,918,000 was provided
+by operating activities of which $2,650,000 was used to pay down $2,500,000 of
+long-term debt and $150,000 of bank fees related to the amendments made to the
+Credit Agreements. For fiscal year 2002, $2,772,000 was provided by operating
+activities and $4,490,000 was provided from investing activities as a result of
+the net proceeds received from the sale and leaseback of its Pelham, New
+Hampshire facility. Cash flows generated from operations and investing
+activities in fiscal 2002 were used to pay down $8,750,000 of long-term debt and
+$656,000 of bank fees related to the amendments made to the Credit Agreements.
+The increase in cash provided from operating activities for fiscal 2003 compared
+to fiscal 2002 was due primarily to lower accounts receivable
+
+
+                                                                               9
+<PAGE>
+
+
+and inventory balances at October 26, 2003 compared to October 27, 2002. Capital
+purchases for fiscal 2003 were $390,000 compared to $459,000 for fiscal 2002.
+Working Capital was $9.5 million at both October 26, 2003 and October 27, 2002.
+Assuming that sales do not decline below those levels experienced in the fourth
+quarter of fiscal 2003, the Company believes that its available cash,
+anticipated cash flow from operations and borrowings under its revolving credit
+facility will be sufficient to fund operations over the next twelve months.
+While the limit on borrowings may hamper our ability to finance working capital
+needs as demand for our products increases, we currently have availability to
+finance those needs at quarterly sales levels of $15-16 million.
+
+Contractual Obligations
+
+The following table summarizes the contractual obligations by Company's fiscal
+year:
+
+<TABLE>
+<CAPTION>
+
+Contractual Obligations                         2004      2005      2006     2007    2008   Thereafter   Total
+-----------------------                         ----      ----      ----     ----    ----   ----------   -----
+                                                                      (in thousands)
+<S>                                           <C>      <C>       <C>        <C>     <C>     <C>      <C>
+Long-term debt obligations                    $1,000    $10,400   $10,950   $    -  $    -    $    -    $22,350
+Operating lease obligations                    1,810      1,487     1,233    1,236   1,246     7,060     14,072
+Employment contract obligations                  845        720       720        -       -         -      2,285
+Amounts committed for capital expenditures        50          -         -        -       -         -         50
+                                              ------    -------   -------   ------  ------    ------    -------
+Total                                         $3,705    $12,607   $12,903   $1,236  $1,246    $7,060    $38,757
+                                              ======    =======   =======   ======  ======    ======    =======
+Interest on long-term debt obligations        $1,833    $ 1,698   $   335        -       -         -    $ 3,866
+
+</TABLE>
+
+In addition to the foregoing, the Company anticipates that it will make capital
+expenditures of up to $250,000 during fiscal 2004.
+
+Results of Operations
+
+The Company's cash flow has been affected by the economic downturn. In response
+to the reduction in revenue, the Company has taken a number of steps to improve
+operational efficiency and profitability, including reductions in head count at
+several of our facilities. These steps, coupled with the changes to our credit
+facilities discussed above, should provide sufficient liquidity to fund
+operations for at least the next twelve months assuming that there is no further
+decline in revenues from levels experienced during the fourth quarter of fiscal
+2003.
+
+Sale Leaseback with Related Party
+
+On October 1, 2002, the Company's wholly-owned subsidiary, Wakefield Thermal
+Solutions, Inc. ("Wakefield") entered into a sale and leaseback transaction for
+its 171,235 square foot Pelham, New Hampshire manufacturing facility (the
+"Property"). Wakefield sold the Property to 33 Bridge Investors, LLC ("33
+Bridge"), a newly-formed entity in which Marshall D. Butler, a director of the
+Company owns 50% of the equity interest, for a purchase price of $4,750,000. In
+connection with the sale and leaseback transaction, the Company issued warrants
+to purchase an aggregate of 250,000 shares of Common Stock, par value $.03 per
+share, of the Company to the members of 33 Bridge, including warrants to
+purchase 125,000 shares of Common Stock to Marshall D. Butler, at an exercise
+price of $1.42 per share. The warrants were valued at approximately $274,000
+using the Black Scholes method. The book value of the land, buildings and
+improvements was approximately $6.3 million. Selling costs were approximately
+$300,000, excluding the value of the warrants.
+
+Effective on October 1, 2002, 33 Bridge and Wakefield entered into a lease
+whereby Wakefield leased the Property from 33 Bridge for 15 years at an initial
+rent of $630,000 per year with annual increases between 2% and 2.5% per annum.
+Wakefield is responsible for operating expenses including taxes, utilities,
+insurance and maintenance. As a result of the transaction, the Company expects
+annual expenses initially to increase by $325,000 representing the difference
+between rental expense
+
+
+                                                                              10
+<PAGE>
+
+and interest and depreciation expense. The obligations of Wakefield under the
+lease are guaranteed by the Company.
+
+The purchase price and other terms of the sale and leaseback transaction were
+the result of negotiations between representatives of the Company and
+representatives of 33 Bridge. The terms of the transaction were negotiated and
+approved by the members of the Audit Committee of the Company constituted as a
+Special Committee of Independent Directors.
+
+The Company applied the net proceeds of the sale and leaseback transaction to
+its $5,000,000 principal payment made on October 1, 2002 pursuant to its Credit
+Agreement, dated December 26, 2000, as amended (the "Credit Agreement").
+
+Lease Commitments
+
+The Company has operating lease commitments for certain office equipment and
+manufacturing, administrative and support facilities. Minimum lease payments
+under noncancellable leases, including amounts related to the sale leaseback
+discussed above, are as follows:
+
+<TABLE>
+<CAPTION>
+                                                          Total
+                                                      --------------
+                                                      (in thousands)
+<S>                                                  <C>
+Fiscal year ending October:
+2004 ..............................................      $ 1,810
+2005 ..............................................        1,487
+2006 ..............................................        1,233
+2007 ..............................................        1,236
+2008 ..............................................        1,246
+Thereafter ........................................        7,060
+                                                         -------
+Minimum lease payments ............................      $14,072
+                                                         =======
+</TABLE>
+
+
+                                                                              11
+<PAGE>
+
+Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA is hereby amended to read in
+its entirety as set forth below. The financial statements and supplementary data
+included in Item 8 below have not been restated, but include additional
+disclosure.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+     Financial statements and supplementary data required pursuant to this Item
+8 are presented on pages F-1 through F-23 of this report.
+
+
+                                                                              12
+<PAGE>
+
+Item 11. Executive Compensation is hereby amended to read in its entirety as
+follows:
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+The following table sets forth the compensation paid or accrued for services
+rendered in all capacities on behalf of the Company during the last three fiscal
+years to the current executive officers who received compensation in excess of
+$100,000 during the fiscal year ended October 26, 2003.
+
+<TABLE>
+<CAPTION>
+                                        ANNUAL COMPENSATION                LONG TERM COMPENSATION
+                                                                                   AWARDS
+                                                                                 SECURITIES
+                                 FISCAL                                          UNDERLYING     ALL OTHER
+NAME AND PRINCIPAL POSITION       YEAR      SALARY       BONUS       OTHER      OPTIONS/SARS   COMPENSATION
+---------------------------      ------    --------     --------    -------     ------------   ------------
+<S>                              <C>       <C>          <C>         <C>          <C>           <C>
+Lawrence Butler                   2003     $260,000     $     --    $    --       520,000(1)    $14,400(2)
+     Chairman and                 2002      245,375(3)        --         --            --        16,664(2)
+     Chief Executive Officer      2001      250,250           --         --       125,000        17,550(2)
+
+Robert C. Streiter                2003      260,000      100,000         --       475,000(1)      8,200(4)
+     President and                2002      245,375(3)        --         --            --        12,700(4)
+     Chief Operating Officer      2001      250,250           --         --       125,000        12,888(4)
+
+Steve E. Chupik                   2003      128,400           --         --        70,267(1)      8,200(6)
+     Vice President               2002      128,400           --         --            --        11,813(6)
+     Administration               2001      128,400           --     12,346(5)     10,000        13,220(6)
+
+James J. Polakiewicz              2003      125,000       25,000      3,305(5)     71,275(1)         --
+     Chief Financial              2002      127,467           --         --            --         4,130(7)
+     Officer(8)                   2001      115,000       10,000         --        20,000         3,690(7)
+</TABLE>
+
+--------------
+(1)  Represents new options which were granted under the Company's 1994 Plan in
+     exchange for existing options outstanding.
+
+(2)  Represents car allowance of $14,400 for fiscal 2003; represents car
+     allowance of $14,400 and 401(k) Employer Matching Contribution of $2,264
+     for fiscal 2002; represents car allowance of $14,400 and 401(k) Employer
+     Matching Contribution of $3,150 for fiscal 2001.
+
+(3)  Both Mr. Butler and Mr. Streiter took a voluntary salary reduction equal to
+     85% of their base salary for a portion of fiscal year 2002.
+
+(4)  Represents car allowance of $8,200 for fiscal 2003; represents car
+     allowance of $7,200 and 401(k) Employer Matching Contribution of $5,500 for
+     fiscal 2002; represents car allowance of $8,200 and 401(k) Employer
+     Matching Contribution of $4,688 for fiscal 2001.
+
+(5)  Represents accrued vacation payments.
+
+(6)  Represents car allowance of $7,200 and medical insurance waiver of $1,000
+     for fiscal 2003; represents car allowance of $7,200, medical insurance
+     waiver of $1,000 and 401(k) Employer Matching Contribution of $3,613 for
+     fiscal 2002; represents car allowance of $8,200, medical insurance waiver
+     of $1,200 and 401(k) Employer Matching Contribution of $3,820 for fiscal
+     2001.
+
+(7)  Represents 401(k) Employer Matching Contributions.
+
+(8)  Mr. Polakiewicz became Chief Financial Officer of the Company in September
+     2001. Amounts reflected in the table above for 2001 represent his
+     compensation for the entire fiscal year.
+
+
+                                                                              13
+<PAGE>
+
+OPTION GRANTS IN LAST FISCAL YEAR
+
+The following table sets forth information regarding grants of stock options to
+the Named Executive Officers during the last fiscal year. No SARs were granted
+by the Company during the last fiscal year. On February 28, 2003, the Company
+offered to eligible employees, directors and consultants ( "Eligible Employees")
+the opportunity to exchange all their outstanding options to purchase shares of
+Alpha common stock for new options to be granted under the Company's Amended and
+Restated 1994 Stock Option Plan. All of the following options granted represent
+new options which were granted in exchange for existing outstanding options.
+
+<TABLE>
+<CAPTION>
+----------------------------------------------------------------------------------------------------------
+                                                                                   POTENTIAL REALIZABLE
+                                                                                     VALUE AT ASSUMED
+                                                                                     ANNUAL RATES OF
+                                                                                   STOCK APPRECIATION
+                                      % OF OPTIONS/                                  FOR OPTION TERM
+                                     SARS GRANTED TO   ---------------------------------------------------
+                      OPTIONS/SARS   EMPLOYEES DURING   EXERCISE    EXPIRATION    5% PER        10% PER
+NAME                    GRANTED        FISCAL YEAR     PRICE/SHARE      DATE       YEAR           YEAR
+----------------------------------------------------------------------------------------------------------
+<S>                    <C>            <C>              <C>           <C>          <C>          <C>
+Lawrence Butler          102,144           6.5%          $1.96       10/07/08     $ 55,312     $  122,225
+----------------------------------------------------------------------------------------------------------
+                         417,856          26.5%          $1.78       10/07/13     $467,762     $1,185,400
+----------------------------------------------------------------------------------------------------------
+Robert C. Streiter       475,000          30.1%          $1.78       10/07/13     $531,730     $1,347,509
+----------------------------------------------------------------------------------------------------------
+Steve E. Chupik           70,267           4.5%          $1.78       10/07/13     $ 78,659     $  199,338
+----------------------------------------------------------------------------------------------------------
+James J. Polakiewicz      71,275           4.5%          $1.78       10/07/13     $ 79,788     $  202,197
+----------------------------------------------------------------------------------------------------------
+</TABLE>
+
+AGGREGATED OPTION EXERCISES IN FISCAL YEAR ENDED OCTOBER 26, 2003 AND FISCAL
+YEAR END OPTION VALUES
+
+The following table sets forth information regarding and the fiscal year-end
+value of unexercised options held by such persons. No Named Executive Officers
+exercised any options during the fiscal year ended October 26, 2003.
+
+<TABLE>
+<CAPTION>
+                       NUMBER OF UNEXERCISED OPTIONS   VALUE UNEXERCISED IN-THE-MONEY
+                            AT FISCAL YEAR-END           OPTIONS AT FISCAL YEAR-END
+     NAME               EXERCISABLE/ UNEXERCISABLE     EXERCISABLE/ UNEXERCISABLE (1)
+     ----              -----------------------------   ------------------------------
+<S>                       <C>                                <C>
+ Lawrence Butler                445,001/74,999                         --
+
+ Robert C. Streiter            366,668/108,332                         --
+
+ Steve E. Chupik                60,268/24,999                          --
+
+ James J. Polakiewicz           51,277/19,998                          --
+</TABLE>
+
+-----------
+Fair market value at October 26, 2003 was less than exercise price.
+
+EMPLOYMENT AGREEMENTS
+
+Effective November 1, 2003, the Company entered into a three year employment
+agreement with Lawrence Butler pursuant to which Mr. Butler is to serve as Chief
+Executive Officer and Chairman of the Board of the Company. Under the agreement,
+Mr. Butler is entitled to a base annual salary of $275,000. In addition, the
+Agreement provides for an annual bonus based on the Company's earnings from
+continuing operations before provision for income taxes. The agreement provides
+that in the event of a change in control, Mr. Butler may terminate the
+agreement.
+
+
+                                                                              14
+<PAGE>
+
+Effective November 1, 2003, the Company entered into a three year employment
+agreement with Robert C. Streiter pursuant to which Mr. Streiter is to serve as
+President and Chief Operating Officer of the Company. Under the agreement, Mr.
+Streiter is entitled to a base annual salary of $300,000. In addition, the
+Agreement provides for an initial signing bonus of $100,000 payable during the
+first year of the term of the agreement and an annual bonus based on the
+Company's earnings from continuing operations before provision for income taxes.
+The agreement provides that in the event of a change in control, Mr. Streiter
+may terminate the agreement.
+
+Effective November 1, 2003, the Company entered into a three year employment
+agreement with James Polakiewicz pursuant to which Mr. Polakiewicz is to serve
+as Chief Financial Officer of the Company. Under the agreement, Mr. Polakiewicz
+is entitled to a base annual salary of $145,000. In addition, the Agreement
+provides for an initial signing bonus of $25,000 payable during the first year
+of the term of the agreement and an annual bonus based on the Company's earnings
+from continuing operations before provision for income taxes.
+
+COMPENSATION OF DIRECTORS
+
+During 2001, an amendment to the Company's 1994 Stock Option Plan was approved
+by the Company's Board of Directors and Stockholders to provide for the annual
+grant of options to purchase 5,000 shares of Alpha Technologies Group, Inc.
+Common Stock to each non-employee director elected at the Annual Meeting of
+Stockholders held in 2001 and 2002. During 2002, an amendment to the Company's
+1994 Stock Option Plan was approved by the Company's Board of Directors and
+Stockholders to provide for automatic grants of options to purchase 5,000 shares
+Alpha Technologies Group, Inc. Common Stock to each non-employee director
+elected at Annual Meetings of Stockholders held in 2003 and 2004. Such options,
+which are not Incentive Stock Options, are exercisable at the fair market value
+of Common Stock of the Company on the day of the Annual Meeting, vest one year
+from the date of the grant and are exercisable until the date that is the
+earlier of five years from the date of grant or 90 days after the Optionee
+ceases to be a director of the Company.
+
+The Company issued to Richard E. Gormley, options under the Company's 1994 Stock
+option Plan to purchase 25,000 shares of Common Stock of the Company at an
+exercise price of $5.82 per share, the fair market value of a Common Share of
+the Company on the date Mr. Gormley was elected as director at the 2001 Annual
+Meeting. The options are exercisable in three equal installments on each of the
+first three annual anniversary dates of the grant of the options.
+
+On February 28, 2003, the Company offered to eligible employees, directors and
+consultants ("Eligible Employees") the opportunity to exchange all their
+outstanding options to purchase shares of Alpha common stock for new options to
+be granted under the Company's Amended and Restated 1994 Stock Option Plan. The
+number of shares subject to the new options to be granted to each Eligible
+Employee was equal to the number of shares subject to the options tendered by
+the Eligible Employee and accepted for exchange. The exercise price per share of
+the new options was $1.78 which was the fair market value on the date of grant.
+Each of the directors elected to exchange all their outstanding options and were
+granted new options under the Company's Amended and Restated 1994 Stock Option
+Plan.
+
+In addition, directors who are not employees of or consultants to the Company
+will be paid $1,000 for each meeting of the Board of Directors physically
+attended and $1,000 for each committee meeting physically attended. Directors
+who are officers of or consultants to the Company will not receive any
+additional compensation for serving on the Board of Directors or its committees.
+
+COMPENSATION COMMITTEE INTERLOCKS AND INSIDER PARTICIPATION
+
+The Board has a Compensation Committee, which currently consists of Marshall D.
+Butler, Donald Grierson and Frederic A. Heim. For services to the Company,
+Marshall
+
+
+                                                                              15
+<PAGE>
+
+Butler, formerly Chairman and Chief Executive Officer of the Company, received
+compensation of $19,375 in fiscal year 2003.
+
+On October 1, 2002, the Company's wholly-owned subsidiary, Wakefield Thermal
+Solutions, Inc. ("Wakefield") entered into a sale and leaseback transaction for
+its 171,235 square foot Pelham, New Hampshire manufacturing facility (the
+"Property"). Wakefield sold the Property to 33 Bridge Investors, LLC ("33
+Bridge"), a newly-formed entity in which Marshall D. Butler, a director of the
+Company owns 50% of the equity interest, for a purchase price of $4,750,000. In
+connection with the sale and leaseback transaction, the Company issued warrants
+to purchase an aggregate of 250,000 shares of Common Stock, par value $.03 per
+share, to the members of 33 Bridge, including warrants to purchase 125,000
+shares of Common Stock to Marshall D. Butler, at an exercise price of $1.42 per
+share. The warrants were valued at approximately $274,000 using the Black Sholes
+method. The book value of the land, buildings and improvements was approximately
+$6.3 million. Selling costs were approximately $300,000, excluding the value of
+the warrants. The loss on the sale of the property was $2.1 million ($1.3
+million , net of tax).
+
+Effective on October 1, 2002, 33 Bridge and Wakefield entered into a lease
+whereby Wakefield leased from 33 Bridge the Property for 15 years at an initial
+rent of $630,000 per year with annual increases between 2% and 2.5% per annum.
+Wakefield is responsible for operating expenses including taxes, utilities,
+insurance and maintenance. As a result of the transaction the Company expects
+annual expenses initially to increase by $325,000 representing the difference
+between rental expense and interest and depreciation expense. The obligations of
+Wakefield under the lease are guaranteed by the Company.
+
+The purchase price and other terms of the sale and leaseback transaction were
+the result of negotiations between representatives of the Company and
+representatives of 33 Bridge. The terms of the transaction were approved by the
+members of the Audit Committee of the Company constituted as a Special Committee
+of Independent Directors. The Company applied the net proceeds to its $5,000,000
+principal payment made on October 1, 2002 pursuant to its Credit Agreement,
+dated December 26, 2000, as amended (the "Credit Agreement").
+
+
+                                                                              16
+<PAGE>
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management is
+hereby amended to read in its entirety as follows:
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT.
+
+The following table sets forth as of December 31, 2003, the number and
+percentage of outstanding shares of Common Stock of the Company owned
+beneficially, within the meaning of Rule 13d-3 promulgated under the Securities
+Exchange Act of 1934 (the "Exchange Act"), by (i) each stockholder known by the
+Company to own more than 5% of the outstanding shares of Common Stock; (ii) each
+director of the Company; (iii) each named executive officer; and (iv) all
+directors and executive officers, as a group. Except as otherwise specified, the
+named beneficial owner has sole voting and investment power.
+
+<TABLE>
+<CAPTION>
+                                             Amount and Nature of     Percent of
+Name and Address of Beneficial Owners (1)   Beneficial Ownership (2)   Class (2)
+------------------------------------------- ------------------------   ---------
+
+<S>                                            <C>                     <C>
+Lawrence Butler (5) .......................        1,720,622            22.6%
+Marshall D. Butler (3) (4) ................        1,007,342            13.9%
+Robert C. Streiter (9) ....................          475,547             6.3%
+Donald K. Grierson (6) ....................          248,000             3.5%
+Steve E. Chupik (10) ......................           89,268             1.2%
+Frederic A. Heim (3) (7) ..................           70,200             1.0%
+James J. Polakiewicz (11) .................           61,406             0.9%
+Richard E. Gormley ........................           26,667             0.4%
+Dot. Com Partners, L.P. (8) ...............          695,038             9.8%
+Dimensional Fund Advisors Inc. ............          356,716             5.0%
+1299 Ocean Avenue, 11th Floor
+Santa Monica, California 90401 (12)
+All Directors and Executive Oficers as
+  a Group (8 persons)(13)..................        3,699,052            43.9%
+</TABLE>
+
+
+(1)  Unless otherwise indicated, the address of each beneficial owner is c/o
+     Alpha Technologies Group, Inc., 11990 San Vicente Boulevard, Suite 350, Los
+     Angeles CA 90049.
+
+(2)  Includes shares deemed to be beneficially owned by such persons or entities
+     pursuant to Rule 13d-3 promulgated under the Exchange Act because they have
+     the right to acquire such shares within 60 days upon the exercise of
+     options or similar rights or because such persons or entities have or share
+     investment or voting power.
+
+(3)  Does not include shares owned by Dot.Com of which Mr. M. Butler and Mr.
+     Heim are each limited partners. Messrs. M. Butler and Heim disclaim
+     beneficial ownership of such shares.
+
+(4)  Includes 128,333 shares which Mr. M. Butler has the right to acquire upon
+     the exercise of stock options within 60 days, 125,000 shares which Mr.
+     Butler has the right to acquire upon the exercise of warrants related to a
+     sales and leaseback transaction and 470,184 shares owned by a trust of
+     which Mr. M. Butler is a trustee.
+
+(5)  Includes 695,038 shares owned by Dot.Com, 231,560 shares owned by trusts of
+     which Mr. L. Butler is trustee, 495,000 shares which Mr. L. Butler has the
+     right to acquire upon the exercise of stock options within 60 days and
+     35,520 shares held for Mr. L. Butler's account in the Company's 401(k)
+     Plan.
+
+(6)  Includes 40,000 shares which Mr. Grierson has the right to acquire upon the
+     exercise of stock options within 60 days.
+
+(7)  Includes 65,000 shares that Mr. Heim has the right to acquire upon exercise
+     of stock options within 60 days.
+
+(8)  Shares owned by Dot.Com are also included in the number of shares reported
+     as beneficially owned by Mr. L. Butler, the president and sole shareholder
+     of the general partner of Dot.Com. Mr. Butler has sole voting and
+     dispositive authority with respect to the shares owned by Dot.Com.
+
+(9)  Includes 433,334 shares that Mr. Streiter has the right to acquire upon
+
+
+                                                                              17
+<PAGE>
+
+     exercise of stock options within 60 days, 14,900 shares owned by Mr.
+     Streiter's spouse as to which Mr. Streiter disclaims beneficial ownership
+     and 3,313 shares held for Mr. Streiter's account in the Company's 401(k)
+     Plan.
+
+(10) Includes 63,601 shares that Mr. Chupik has the right to acquire within 60
+     days and 13,834 shares held for Mr. Chupik's account in the Company's
+     401(k) Plan.
+
+(11) Includes 57,943 shares that Mr. Polakiewicz has the right to acquire upon
+     exercise of stock options within 60 days and 3,438 shares held for Mr.
+     Polakiewicz's account in the Company's 401(k) Plan.
+
+(12) Dimensional Fund Advisors Inc. ownership as of September 30, 2003.
+
+(13) Includes 1,309,878 shares which individuals in the group have the right to
+     acquire upon the exercise of stock options which are exercisable within 60
+     days, 56,105 shares held for the accounts of the individuals in the group
+     in the Company's 401(k) Plan, 695,038 shares held by Dot.Com, 231,560
+     shares owned by trusts of which Mr. L. Butler is trustee, and 470,184
+     shares owned by a trust of which Mr. M. Butler is a trustee.
+
+
+                                                                              18
+<PAGE>
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of the Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this amendment to the
+report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+
+                                          Alpha Technologies Group, Inc.
+                                          Registrant
+
+Date: May 14, 2004                     By: /s/ Lawrence Butler
+                                          --------------------------------------
+                                           Lawrence Butler
+                                           Chief Executive Officer
+
+
+
+                                                                              19
+<PAGE>
+
+                         ALPHA TECHNOLOGIES GROUP, INC.
+
+                   INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+
+<TABLE>
+<CAPTION>
+                                                                                   PAGE
+                                                                                   ----
+
+<S>                                                                               <C>
+Independent Auditors' Report - Deloitte & Touche LLP .......................       F-2
+
+Independent Certified Public Accountants Report - Grant
+  Thornton LLP .............................................................       F-3
+
+Consolidated Balance Sheets - October 26, 2003 and October
+  27, 2002 .................................................................       F-4
+
+Consolidated Statements of Operations - For the fiscal
+  years ended October 26, 2003, October 27, 2002 and October
+  28, 2001 .................................................................       F-5
+
+Consolidated Statements of Stockholders' Equity - For the fiscal years ended
+  October 26, 2003, October 27, 2002 and October 28, 2001 ..................       F-6
+
+Consolidated Statements of Cash Flows - For the fiscal
+  years ended October 26, 2003, October 27, 2002, and October
+  28, 2001 .................................................................       F-7
+
+Notes to Consolidated Financial Statements .................................       F-9
+</TABLE>
+
+
+                                      F-1
+<PAGE>
+
+                          INDEPENDENT AUDITORS' REPORT
+
+To the Stockholders and Board of Directors of Alpha Technologies Group, Inc.:
+
+     We have audited the accompanying consolidated balance sheets of Alpha
+Technologies Group, Inc. (a Delaware corporation) and subsidiaries as of October
+26, 2003 and October 27, 2002, and the related consolidated statements of
+operations, stockholders' equity, and cash flows for the years then ended. These
+financial statements are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+
+     We conducted our audits in accordance with auditing standards generally
+accepted in the United States of America. Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+     In our opinion, such consolidated financial statements present fairly, in
+all material respects, the financial position of Alpha Technologies Group, Inc.
+and Subsidiaries as of October 26, 2003 and October 27, 2002, and the results of
+their operations and their cash flows for the years then ended, in conformity
+with accounting principles generally accepted in the United States of America.
+
+     As discussed in Note 20, in 2002 the Company adopted the provisions of SFAS
+No. 142, "Goodwill and Other Intangible Assets."
+
+
+
+/s/ Deloitte & Touche LLP
+
+Boston, Massachusetts
+January 9, 2004
+
+
+                                      F-2
+<PAGE>
+
+               REPORT OF INDEPENDENT CERTIFIED PUBLIC ACCOUNTANTS
+
+To the Stockholders and Board of Directors of
+Alpha Technologies Group, Inc.
+
+     We have audited the accompanying consolidated statements of operations,
+stockholders' equity and cash flows of Alpha Technologies Group, Inc. (a
+Delaware corporation) and subsidiaries for the year ended October 28, 2001.
+These financial statements are the responsibility of the Company's management.
+Our responsibility is to express an opinion on these financial statements based
+on our audit.
+
+     We conducted our audit in accordance with auditing standards generally
+accepted in the United States of America. Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audit provides a
+reasonable basis for our opinion.
+
+     In our opinion, the financial statements referred to above present fairly,
+in all material respects, the consolidated results of operations and
+consolidated cash flows of Alpha Technologies Group, Inc. and subsidiaries for
+the year ended October 28, 2001, in conformity with accounting principles
+generally accepted in the United States of America.
+
+
+/s/ Grant Thornton LLP
+
+Houston, Texas
+December 14, 2001
+
+
+                                      F-3
+<PAGE>
+                         ALPHA TECHNOLOGIES GROUP, INC.
+                           CONSOLIDATED BALANCE SHEETS
+                    (in thousands, except share-related data)
+
+<TABLE>
+<CAPTION>
+                                                                  October 26,       October 27,
+                                                                      2003             2002
+                                                                  -----------       -----------
+<S>                                                                 <C>             <C>
+                                       ASSETS
+CURRENT ASSETS:
+  Cash and cash equivalents .................................       $  1,677        $    751
+  Trade accounts receivable, net of allowance for
+    doubtful accounts of $232 at October 26, 2003 and
+    $245 at October 27, 2002 ................................          5,745           7,198
+  Inventories, net ..........................................          6,553           7,585
+  Prepaid expenses ..........................................          1,364           1,201
+                                                                    --------        --------
+    Total current assets ....................................         15,339          16,735
+
+PROPERTY AND EQUIPMENT, net .................................         12,103          14,991
+
+GOODWILL ....................................................             --          12,980
+
+DEFERRED INCOME TAXES .......................................         10,046           9,608
+
+OTHER ASSETS, net ...........................................            807           1,319
+                                                                    --------        --------
+    TOTAL ASSETS ............................................       $ 38,295        $ 55,633
+                                                                    ========        ========
+                        LIABILITIES AND STOCKHOLDERS' EQUITY
+
+CURRENT LIABILITIES:
+  Accounts payable, trade ...................................       $  3,486        $  2,967
+  Accrued compensation and related benefits .................            612             700
+  Other accrued expenses ....................................            716             584
+  Current portion of long-term debt .........................          1,000           3,000
+                                                                    --------        --------
+    Total current liabilities ...............................          5,814           7,251
+
+REVOLVING CREDIT FACILITY ...................................          3,200           3,200
+
+LONG-TERM DEBT ..............................................         18,150          18,650
+
+OTHER LONG-TERM LIABILITIES .................................            470             652
+                                                                    --------        --------
+    TOTAL LIABILITIES .......................................         27,634          29,753
+
+COMMITMENTS AND CONTINGENCIES (Note 14)
+
+STOCKHOLDERS' EQUITY:
+
+  Preferred stock, $100 par value; 180,000 shares authorized;
+    no shares issued or outstanding .........................             --              --
+
+  Common stock, $.03 par value; 17,000,000 shares authorized;
+    8,529,826 shares issued at October 26, 2003 and at
+    October 27, 2002 ........................................            256             256
+  Additional paid-in capital ................................         47,504          47,336
+  Accumulated deficit .......................................        (31,128)        (15,530)
+  Accumulated other comprehensive loss ......................            (77)           (288)
+  Treasury stock, at cost; 1,419,490 common shares at
+    October 26, 2003 and at October 27, 2002 ................         (5,894)         (5,894)
+                                                                    --------        --------
+    TOTAL STOCKHOLDERS' EQUITY ..............................         10,661          25,880
+                                                                    --------        --------
+    TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY ..............       $ 38,295        $ 55,633
+                                                                    ========        ========
+</TABLE>
+
+              See notes to the consolidated financial statements.
+
+
+                                      F-4
+<PAGE>
+
+                         ALPHA TECHNOLOGIES GROUP, INC.
+                      CONSOLIDATED STATEMENTS OF OPERATIONS
+                (in thousands, except shares and per share data)
+
+<TABLE>
+<CAPTION>
+                                                                              For the Years Ended
+                                                                     ------------------------------------------
+                                                                     October 26,    October 27,     October 28,
+                                                                        2003           2002            2001
+                                                                     -----------    -----------     -----------
+<S>                                                                   <C>             <C>             <C>
+SALES .........................................................       $ 46,801        $ 55,574        $ 67,914
+COST OF SALES .................................................         41,715          47,343          53,940
+                                                                      --------        --------        --------
+   Gross profit ...............................................          5,086           8,231          13,974
+                                                                      --------        --------        --------
+OPERATING EXPENSES
+
+   Research and development ...................................            396             496             926
+   Selling, general and administrative ........................          5,837           6,117           9,031
+   Impairment of goodwill .....................................         12,980          15,602              --
+   Impairment of other intangible asset .......................            323              --              --
+   Restructuring and other non recurring charges ..............             --              --             822
+                                                                      --------        --------        --------
+     Total operating expenses .................................         19,536          22,215          10,779
+                                                                      --------        --------        --------
+OPERATING (LOSS) INCOME .......................................        (14,450)        (13,984)          3,195
+
+LOSS ON SALE OF LAND AND BUILDING TO RELATED PARTIES ..........             --          (2,097)             --
+
+INTEREST INCOME ...............................................             11              30             201
+
+OTHER INCOME, net .............................................             --              --              72
+
+COSTS ASSOCIATED WITH DEBT MODIFICATIONS ......................             --            (561)           (650)
+
+INTEREST EXPENSE ..............................................         (2,042)         (2,510)         (2,546)
+                                                                      --------        --------        --------
+(LOSS) INCOME BEFORE (BENEFIT) PROVISION FOR INCOME TAXES .....        (16,481)        (19,122)            272
+
+(BENEFIT) PROVISION FOR INCOME TAX:
+   CURRENT ....................................................             --              --              63
+   DEFERRED ...................................................           (883)         (7,634)            102
+                                                                      --------        --------        --------
+(BENEFIT) PROVISION FOR INCOME TAX ............................           (883)         (7,634)            165
+                                                                      --------        --------        --------
+(LOSS) INCOME FROM CONTINUING OPERATIONS ......................        (15,598)        (11,488)            107
+
+LOSS FROM DISCONTINUED OPERATION, net of applicable taxes .....             --              --             (79)
+
+GAIN ON SALE OF DISCONTINUED OPERATION, net of applicable taxes             --              --             277
+                                                                      --------        --------        --------
+NET (LOSS) INCOME .............................................       $(15,598)       $(11,488)       $    305
+                                                                      ========        ========        ========
+EARNINGS (LOSS) PER COMMON SHARE
+   BASIC AND DILUTED:
+     (Loss) income from continuing operations .................       $  (2.19)       $  (1.62)       $   0.02
+     Loss from discontinued operation .........................             --              --           (0.01)
+     Gain on sale of discontinued operation ...................             --              --            0.03
+                                                                      --------        --------        --------
+        Net (loss) income .....................................       $  (2.19)       $  (1.62)       $   0.04
+                                                                      ========        ========        ========
+
+WEIGHTED AVERAGE NUMBER OF COMMON AND POTENTIAL COMMON SHARES OUTSTANDING
+   Basic ......................................................          7,110           7,110           7,038
+   Diluted ....................................................          7,110           7,110           7,468
+</TABLE>
+
+
+               See notes to the consolidated financial statements.
+
+
+                                      F-5
+<PAGE>
+
+                         ALPHA TECHNOLOGIES GROUP, INC.
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY AND COMPREHENSIVE (LOSS) INCOME
+  FOR THE YEARS ENDED OCTOBER 26, 2003, OCTOBER 27, 2002 AND OCTOBER 28, 2001
+                       (in thousands except share amounts)
+
+<TABLE>
+<CAPTION>
+                                                                               Accumulated
+                                                                                  Other
+                                        Common stock    Additional               Compre-       Treasury Stock          Total
+                                     ------------------   Paid-In  Accumulated   hensive    --------------------    Stockholders'
+                                       Shares    Amount   Capital    Deficit      Loss       Shares      Amount        Equity
+                                     ---------   ------ ---------- ----------- -----------  ---------   --------    -------------
+
+<S>                                  <C>         <C>      <C>       <C>        <C>          <C>         <C>           <C>
+Balance October 29, 2000             8,169,345   $  245   $44,421   $ (4,347)    $    -     1,394,353   $ (5,804)     $ 34,515
+Comprehensive loss:
+   Net income                                -        -         -        305          -             -          -           305
+   Change in value of interest rate
+   swap (net of applicable taxes)            -        -         -          -       (345)            -          -          (345)
+                                                                                                                      --------
+   Comprehensive loss                                                                                                      (40)
+                                                                                                                      --------
+Tax benefit of disqualifying
+   disposition of incentive stock
+   options                                   -        -       559          -          -             -          -           559
+Right offering proceeds                270,946        8     1,956          -          -             -          -         1,964
+Right offering expense                       -        -      (221)         -          -             -          -          (221)
+Issuance to employees pursuant
+   pursuant to stock option plans       86,369        3       168          -          -             -          -           171
+Stock repurchases                            -        -         -          -          -        25,137        (90)          (90)
+Compensation associated with
+   stock options                             -        -        12          -          -             -          -            12
+                                     ---------   ------   -------   --------     ------     ---------   --------      --------
+Balance October 28, 2001             8,526,660      256    46,895     (4,042)      (345)    1,419,490     (5,894)       36,870
+Comprehensive loss:
+   Net loss                                  -        -         -    (11,488)         -             -          -       (11,488)
+   Change in value of interest rate
+   swap (net of applicable taxes)            -        -         -          -         57             -          -            57
+                                                                                                                      --------
+   Comprehensive loss                                                                                                  (11,431)
+                                                                                                                      --------
+Issuance of warrants
+   pursuant to loan restructuring            -        -       148          -          -             -          -           148
+Issuance of warrants
+   pursuant to sale of facility              -        -       274          -          -             -          -           274
+Issuance to employees
+   pursuant to stock option plans        3,166        -         7          -          -             -          -             7
+Compensation associated with
+   stock options                             -        -        12          -          -             -          -            12
+                                     ---------   ------   -------   --------     ------     ---------   --------      --------
+Balance October 27, 2002             8,529,826      256    47,336    (15,530)      (288)    1,419,490     (5,894)       25,880
+                                     ---------   ------   -------   --------     ------     ---------   --------      --------
+Comprehensive loss:
+Net loss                                     -        -         -    (15,598)         -             -          -       (15,598)
+   Change in value of interest rate
+   swap (net of applicable taxes)            -        -         -          -        211             -          -           211
+                                                                                                                      --------
+   Comprehensive loss                                                                                                  (15,387)
+                                                                                                                      --------
+Issuance of warrants
+   pursuant to loan restructuring            -        -       159          -          -             -          -           159
+Compensation associated with
+   stock options                             -        -         9          -          -             -          -             9
+                                     ---------   ------   -------   --------     ------     ---------   --------      --------
+Balance October 26, 2003             8,529,826   $  256   $47,504   $(31,128)    $  (77)    1,419,490   $ (5,894)     $ 10,661
+                                     =========   ======   =======   ========     ======     =========   ========      ========
+</TABLE>
+
+               See note to the consolidated financial statements.
+
+
+                                      F-6
+<PAGE>
+
+                         ALPHA TECHNOLOGIES GROUP, INC.
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                 (in thousands)
+
+<TABLE>
+<CAPTION>
+                                                                         For the Years Ended
+                                                               ----------------------------------------
+                                                               October 26,   October 27,    October 28,
+                                                                   2003         2002           2001
+                                                               -----------   -----------    -----------
+<S>                                                            <C>            <C>           <C>
+CASH FLOWS FROM OPERATING ACTIVITIES:
+   Net (loss) income ....................................       $(15,598)      $(11,488)     $    305
+   Adjustments to reconcile net (loss) income to net cash
+     provided by operating activities:
+     Depreciation and amortization ......................          3,281          3,775         4,985
+     Amortization of financing fees .....................            403             --            --
+     Asset Impairments ..................................         13,303         15,602            --
+     Gain on sale of discontinued operation .............             --             --          (277)
+     Loss (gain) on sale of property and equipment ......             --          2,097           (44)
+     Costs associated with debt modifications ...........             --            561           650
+     Deferred stock compensation expense ................              9             12            12
+     Deferred income taxes ..............................           (574)        (7,634)          102
+   Net cash provided by discontinued operations .........             --             --           151
+   Changes in operating assets and liabilities:
+     Accounts receivable ................................          1,497          2,119         5,024
+     Inventories ........................................          1,032            464         1,211
+     Prepaid expenses ...................................           (163)           (37)          284
+     Accounts payable ...................................            519         (1,555)       (1,682)
+     Accrued compensation and related benefits ..........            (88)          (300)       (1,043)
+     Other liabilities ..................................            297         (1,143)         (248)
+                                                                --------       --------      --------
+       Cash flows from operating activities .............          3,918          2,473         9,430
+                                                                --------       --------      --------
+CASH FLOWS FROM INVESTING ACTIVITIES:
+   Proceeds from sales of property and equipment and
+     business ventures ..................................             --          4,490         2,310
+   Purchase of property and equipment ...................           (390)          (459)       (1,288)
+   Expenditures for business acquisitions ...............             --             --       (49,551)
+   Decrease (increase) in other assets ..................             48            (55)         (105)
+                                                                --------       --------      --------
+       Cash flows from investing activities .............           (342)         3,976       (48,634)
+                                                                --------       --------      --------
+CASH FLOWS FROM FINANCING ACTIVITIES:
+   Proceeds from stock rights offering and stock options,
+     net of costs .......................................             --              7         2,019
+   Payments to repurchase common stock ..................             --             --           (90)
+   Payments for bank amendment fees and debt issue costs            (150)          (656)       (1,327)
+   Proceeds from revolving credit lines .................             --          3,500         7,200
+   Payments on revolving credit lines ...................             --         (2,500)       (5,000)
+   Proceeds from long-term debt .........................             --             --        35,000
+   Payments on long-term debt ...........................         (2,500)        (8,750)       (8,261)
+                                                                --------       --------      --------
+       Cash flows from financing activities .............         (2,650)        (8,399)       29,541
+                                                                --------       --------      --------
+
+NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS ....            926         (1,950)       (9,663)
+
+CASH AND CASH EQUIVALENTS, beginning of year ............            751          2,701        12,364
+                                                                --------       --------      --------
+CASH AND CASH EQUIVALENTS, end of year ..................       $  1,677       $    751      $  2,701
+                                                                ========       ========      ========
+NON CASH ACTIVITY:
+   Tax benefits of disqualifying dispositions ...........       $     --       $     --      $    454
+   Issuance of warrants related to debt .................       $    159       $    148      $     --
+   Issuance of warrants related to sale of facility .....       $     --       $    274      $     --
+</TABLE>
+
+               See notes to the consolidated financial statements
+
+
+                                      F-7
+<PAGE>
+
+                         ALPHA TECHNOLOGIES GROUP, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+1. SIGNIFICANT ACCOUNTING POLICIES
+
+BUSINESS
+
+Alpha Technologies Group, Inc. ("Alpha" or the "Company") designs, extrudes,
+fabricates and sells thermal management and non-thermal fabricated products for
+use in a variety of industries including automotive, telecommunication,
+industrial controls, transportation, power supply, factory automation, consumer
+electronics, aerospace, defense and microprocessor industries. The Company
+extrudes aluminum for its use in the production of thermal management and
+non-thermal fabricated products and sells aluminum extrusions to a variety of
+industries including the construction, sporting goods and other leisure activity
+markets.
+
+ACCOUNTING PERIODS
+
+The Company follows a 4-5-4 week quarterly accounting period cycle wherein each
+quarter consists of two four week months and one five week month. The last day
+of the fiscal year is always the last Sunday in October.
+
+PRINCIPLES OF CONSOLIDATION
+
+The consolidated financial statements include the accounts of Alpha and its
+wholly-owned subsidiaries. All material intercompany transactions and balances
+have been eliminated. As more fully described in Note 3 - Discontinued
+Operations, the financial statements reflect the subsystems business, which was
+sold on November 17, 2000, as discontinued operations.
+
+USE OF ESTIMATES AND OTHER UNCERTAINTIES
+
+The preparation of the Company's consolidated financial statements in conformity
+with accounting principles generally accepted in the United States of America
+requires management to make estimates and assumptions that affect the reported
+amounts of assets and liabilities and disclosure of contingent assets and
+liabilities at the date of the financial statements and the reported amounts of
+revenues and expenses during the reporting period. Actual results could differ
+from those estimates.
+
+REVENUE RECOGNITION AND ALLOWANCES FOR SALES RETURNS, DOUBTFUL ACCOUNTS AND
+WARRANTIES
+
+The Company recognizes revenues when (1) persuasive evidence of an arrangement
+exists, (2) products and services have been delivered to the ultimate customers,
+(3) the price is fixed or determinable, and (4) collectibility is reasonably
+assured. The Company's shipping terms are generally FOB shipping point.
+
+Allowances for doubtful accounts are provided for account receivables considered
+uncollectible. Reserve for sales returns are provided in the period in which the
+related sale is recognized. The allowance for doubtful accounts and sales
+returns is based on our assessment of the collectibility of specific customer
+accounts, the aging of our accounts receivable and trends in product returns.
+While we believe that our allowance for doubtful accounts and sales returns is
+adequate and that the judgment applied is appropriate, if there is a
+deterioration of a major customer's credit worthiness, actual defaults are
+higher than our previous experience, or actual future returns do not reflect
+historical trends, our estimates of the recoverability of the amounts due us and
+our sales could be adversely affected
+
+The Company does not generally provide a warranty on the goods that it sells.
+However, customers do have the right to return merchandise deemed defective when
+received. These returns generally occur at the point of delivery when the goods
+are subject to customer inspections. Reserves for these potential returns are
+provided when the related sale is recognized. Claims for defective goods have
+not been significant in any period presented.
+
+
+                                      F-8
+<PAGE>
+
+The following is a roll forward of the allowances provided for doubtful accounts
+and sales returns (including returns related to defective goods):
+
+<TABLE>
+<CAPTION>
+                                          For the Years Ended
+                                 --------------------------------------
+                                 October 26,  October 27,   October 28,
+                                    2003         2002         2001
+                                 -----------  -----------   -----------
+                                             (in thousands)
+
+<S>                                 <C>          <C>          <C>
+Balance at beginning of year ...    $ 245        $ 204        $ 270
+Provisions recorded ............       --           96            9
+Write-offs, net of recoveries ..      (13)         (55)         (75)
+                                    -----        -----        -----
+Balance at end of year .........    $ 232        $ 245        $ 204
+                                    =====        =====        =====
+</TABLE>
+
+RISK MANAGEMENT AND HEDGING ACTIVITY
+
+The Company's risk management strategies include the use of an interest rate
+swap (see Note 7) to hedge against the impact on cash flows of changes in
+interest rates. The interest rate swap is designated as a cash flow hedge of
+specific variable rate debt and is carried on the balance sheets at fair value.
+The Company evaluates its interest rate swap each quarter to determine if it is
+effective. No other derivative instruments are held. The effective portion of
+unrealized gains or losses on the fair value of the swap is charged to other
+comprehensive income until the hedged transaction is complete and affects
+earnings. Ineffectiveness is charged to earnings as incurred. Amounts related to
+ineffectiveness have not been significant to date.
+
+INVENTORIES AND INVENTORY RESERVES
+
+Inventories are stated at the lower of cost or market and are priced using the
+first-in, first-out method. Inventory purchases and commitments are based upon
+future demand forecasts for our products and our current level of inventory.
+Inventory reserves have been established for excess and obsolete items. If there
+is a sudden and significant decrease in demand for our products or there is a
+higher risk of inventory obsolescence because of rapidly changing technology and
+requirements, we may be required to increase our inventory reserve and as a
+result, our gross profit margin could be adversely affected.
+
+
+                                      F-9
+<PAGE>
+
+The following is a roll forward of reserves provided for inventory:
+
+<TABLE>
+<CAPTION>
+                                            For the Years Ended
+                                   --------------------------------------
+                                   October 26,   October 27,  October 28,
+                                      2003          2002        2001
+                                   -----------   -----------  -----------
+                                               (in thousands)
+<S>                                  <C>          <C>          <C>
+Balance at beginning of year ...     $ 660        $ 863        $ 329
+Provisions recorded ............       447           36          906
+Write-offs, net of recoveries ..      (474)        (239)        (372)
+                                     -----        -----        -----
+Balance at end of year .........     $ 633        $ 660        $ 863
+                                     =====        =====        =====
+</TABLE>
+
+
+PROPERTY AND EQUIPMENT
+
+The cost of property and equipment is depreciated using the straight-line method
+over the estimated useful lives of such assets, ranging from three to fifteen
+years. Leasehold improvements are amortized on a straight-line basis over the
+shorter of the lease term or the estimated useful lives of the leased assets.
+
+IMPAIRMENT OF LONG-LIVED ASSETS
+
+The Company assesses the recoverability of long-lived assets, including
+intangible assets, held and used whenever events or changes in circumstances
+indicate that future cash flows (undiscounted and without interest charges)
+expected to be generated by an asset's disposition or use may not be sufficient
+to support its carrying amount. If such undiscounted cash flows are not
+sufficient to support the recorded value of assets, an impairment loss is
+recognized to reduce the carrying value of long-lived assets to their estimated
+fair value.
+
+GOODWILL AND OTHER INTANGIBLE ASSETS
+
+The Company records as goodwill the excess of purchase price over the fair value
+of the identifiable net assets acquired. Statements of Financial Accounting
+Standards ("SFAS") No. 142, "Goodwill and Other Intangible Assets," prescribe a
+two-step process for impairment testing of goodwill, which is performed
+annually, as well as when an event triggering impairment may have occurred. The
+first step tests for impairment, while the second step, if necessary, measures
+the impairment. The Company has elected to perform its annual analysis during
+the third quarter of each fiscal year as of June 1.
+
+LOSS CONTINGENCIES
+
+The Company is subject to the possibility of various loss contingencies arising
+in the ordinary course of business. An estimated loss contingency is accrued
+when it is probable that a liability has been incurred or an asset has been
+impaired and the amount of loss can be reasonably estimated. We regularly
+evaluate current information available to us to determine whether such accruals
+should be adjusted.
+
+COMPREHENSIVE INCOME (LOSS)
+
+Comprehensive income (loss) includes net income or loss, plus other
+comprehensive income (loss). Other comprehensive loss in fiscal years 2003, 2002
+and 2001 consists of fair value adjustments related to the interest rate swap
+agreement, net of tax.
+
+STOCK-BASED COMPENSATION
+
+The Company employs the intrinsic value based method of accounting for stock
+options. The intrinsic method measures compensation cost for stock options as
+the excess, if any, of the quoted market price of the Company's stock at the
+measurement date over the exercise price. Compensation related to awards to non-
+employees is measured using the fair value method.
+
+For fiscal 2003, 2002 and 2001, $9,000, $12,000 and $12,000, respectively, was
+
+
+                                      F-10
+<PAGE>
+
+recognized as expense for options issued to non-employees under the Company's
+stock option plans. The Company applies the intrinsic value method of accounting
+for stock based compensation granted to employees and expects to continue to do
+so, unless required to change by accounting principles generally accepted in the
+United States. Pro forma information regarding net income and earnings per share
+has been determined as if the Company has accounted for options issued to
+employees under the fair value method of that statement. The fair value of these
+options was estimated at the date of grant using the Black-Scholes option
+pricing model. The weighted average assumptions for fiscal 2003 were: expected
+volatility 103.59%, risk free interest rate of 4.25%, expected option life of
+7.0 years and no expected dividends. The weighted average assumptions for fiscal
+2002 were: expected volatility 80.12%, risk free interest rate of 3.98%,
+expected option life of 4.0 years and no expected dividends. The weighted
+average assumptions used for fiscal 2001 were: expected volatility 65.71%, risk
+free interest rate of 5.10%, expected option life of 4.0 years and no expected
+dividends. In addition, adjustments were made for estimated cancellations.
+
+The Black-Scholes option valuation model was developed for use in estimating the
+fair value of traded options which have no vesting restrictions and are fully
+transferable. In addition, option valuation models require the input of highly
+subjective assumptions including the expected stock price volatility. Because
+the Company's employee stock options have characteristics significantly
+different from those of traded options and because changes in the subjective
+input assumptions can materially affect the fair value estimate, in management's
+opinion, the existing models do not necessarily provide a reliable single
+measure of the fair value of its employee stock options.
+
+For pro forma disclosures, the estimated fair value of the options is amortized
+to expense over the options' vesting period. If the fair value based method of
+accounting for employee awards had been applied, the Company's net income or
+loss and net income or loss per share would have been as follows:
+
+
+<TABLE>
+<CAPTION>
+                                                          For the Years Ended
+                                                  ------------------------------------------
+                                                  October 26,     October 27,    October 28,
+                                                     2003            2002           2001
+                                                  -----------     -----------    -----------
+                                                    (In thousands, execept per share data)
+
+<S>                                                 <C>             <C>             <C>
+Net loss as reported .........................      $(15,598)       $(11,488)       $   305
+After-tax stock based compensation
+determined using the intrinsic value method ..             9              12             12
+After-tax stock based compensation
+determined using the fair value method .......        (1,154)         (1,875)        (1,600)
+                                                    --------        --------        -------
+Pro forma net loss ...........................      $(16,743)       $(13,351)       $(1,283)
+                                                    ========        ========        =======
+Basic and diluted net loss per share:
+As reported ..................................      $  (2.19)       $  (1.62)       $  0.04
+                                                    ========        ========        =======
+Pro forma ....................................      $  (2.35)       $  (1.88)       $ (0.17)
+                                                    ========        ========        =======
+</TABLE>
+
+
+The estimated weighted average fair value of options granted during fiscal 2003,
+2002 and 2001 was $1.37, $2.48 and $4.10, respectively.
+
+INCOME TAXES
+
+The Company accounts for income taxes using the asset and liability method.
+Deferred tax assets and liabilities are recognized for the future tax
+consequences attributable to differences between the financial statement
+carrying amounts of existing assets and liabilities and their respective tax
+bases. Deferred tax assets and liabilities are measured using current enacted
+tax rates. The effect on deferred tax assets and liabilities of a change in tax
+rates is recognized in the results of operations in the period that includes the
+enactment date. The Company reassesses the recoverability of its deferred tax
+assets by evaluating all available evidence and assessing whether it
+
+
+                                      F-11
+<PAGE>
+
+is more likely than not that all or some portion of its recorded assets may not
+be recoverable. To the extent that assets are not likely to be recovered,
+valuation allowances are provided.
+
+NEW ACCOUNTING PRONOUNCEMENTS
+
+In May 2003, the FASB issued SFAS No. 150, "Accounting for Certain Financial
+Instruments with Characteristics of Both Liabilities and Equity". SFAS 150
+establishes standards on the classification and measurement of certain financial
+instruments with characteristics of both liabilities and equity. The provisions
+of SFAS 150 are effective for financial instruments entered into or modified
+after May 31, 2003 and to all other instruments that exist as of the beginning
+of the first interim financial reporting period beginning after June 15, 2003.
+The adoption of SFAS 150 did not have a material impact on our results of
+operations or financial position.
+
+In January 2003, the FASB issued Interpretation No. 46 ("FIN 46"),
+"Consolidation of Variable Interest Entities". FIN 46 requires that if an entity
+has a controlling financial interest in a variable interest entity, the assets,
+liabilities and results of activities of the variable interest entity should be
+included in the consolidated financial statements of the entity. FIN 46 is
+effective immediately for all new variable interest entities created or acquired
+after January 31, 2003. For variable interest entities created or acquired prior
+to February 1, 2003, the provisions of FIN 46 must be applied for the first
+interim or annual period beginning after December 15, 2003. We do not believe
+that the adoption of FIN 46 will have a material impact on our results of
+operations or financial position.
+
+2. ACQUISITIONS
+
+On January 9, 2001, the Company purchased all of the outstanding common stock of
+National Northeast Corporation ("NNE") from Mestek, Inc.(the "Seller"). The
+purchase price was $49,900,000 in cash. Pursuant to the agreement, the Seller
+and certain of its affiliates agreed not to engage in the manufacture and sale
+of aluminum extrusions and aluminum heat sinks for four and one half years. The
+Company used $14,800,000 of its cash on hand and $39,800,000 in borrowings under
+its credit facility to pay the purchase price and $1,300,000 in transaction
+costs and costs for the credit facility and to satisfy $3,400,000 in outstanding
+debt under its old credit facilities, including a $378,000 early termination
+fee. The acquisition has been accounted for as a purchase transaction, and
+accordingly, the purchase price has been allocated to the assets acquired and
+liabilities assumed for the acquisition based upon their estimated fair values.
+The Company initially elected to amortize the portion of the purchase price
+allocated to goodwill over 20 years. Amortization ceased upon adoption of SFAS
+No. 142. The operating results of NNE have been included in the Company's
+consolidated results of operations since its acquisition date.
+
+3. DISCONTINUED OPERATIONS
+
+On November 17, 2000, Malco Technologies Group, Inc., a wholly-owned subsidiary
+of Alpha, sold substantially all of the assets and the subsystems business (the
+"Business") located in Colmar, Pennsylvania, to a privately owned company (the
+"Buyer"). The sale included Malco's accounts receivable, inventory, machinery,
+equipment, tools, business machines, office furniture and fixtures and certain
+intangibles including but not limited to customer lists, trade names and
+engineering designs and the agreement by Alpha and certain of their affiliates
+not to engage in any business, directly or indirectly, that competes with Malco
+for three years. Alpha received $2,200,000 in cash plus a three-year, 12% note
+for $300,000 and Buyer assumed certain payables and liabilities of the Business.
+Alpha fully reserved for the possible non-payment of the note. In 2003, the
+Buyer filed for bankruptcy, making it unlikely that the Company will receive any
+payment under the note. The sale resulted in a gain of $277,000, net of income
+tax expense of $70,000.
+
+
+                                      F-12
+<PAGE>
+4. INVENTORIES
+
+Inventories consisted of the following on:
+
+<TABLE>
+<CAPTION>
+                                                  October 26,     October 27,
+                                                    2003            2002
+                                                  -----------     -----------
+                                                        (in thousands)
+<S>                                               <C>             <C>
+Raw materials and components ...............      $  2,281          $  2,598
+Work in process ............................         2,910             3,219
+Finished goods .............................         1,995             2,428
+                                                  --------          --------
+                                                     7,186             8,245
+Reserves ...................................          (633)             (660)
+                                                  --------          --------
+                                                  $  6,553          $  7,585
+                                                  ========          ========
+</TABLE>
+
+
+5. PROPERTY AND EQUIPMENT
+
+Property and equipment consisted of the following on:
+
+<TABLE>
+<CAPTION>
+                                                  October 26,     October 27,
+                                                    2003            2002
+                                                  -----------     -----------
+                                                        (in thousands)
+<S>                                               <C>             <C>
+Machinery & equipment ......................      $ 31,227          $ 30,932
+Leasehold improvements .....................         1,188             1,134
+                                                  --------          --------
+                                                    32,415            32,066
+Accumulated depreciation and amortization ..       (20,310)          (17,075)
+                                                  --------          --------
+                                                  $ 12,105          $ 14,991
+                                                  ========          ========
+</TABLE>
+
+
+6. ACCRUED COMPENSATION AND RELATED BENEFITS
+
+Accrued compensation and related benefits consisted of the following on:
+
+<TABLE>
+<CAPTION>
+                                                  October 26,     October 27,
+                                                    2003            2002
+                                                  -----------     -----------
+                                                        (in thousands)
+<S>                                               <C>             <C>
+Accrued compensation and related benefits ..      $    602          $    680
+Other ......................................            10                20
+                                                  --------          --------
+                                                  $    612          $    700
+                                                  ========          ========
+</TABLE>
+
+
+                                      F-13
+<PAGE>
+
+7. DEBT AND REVOLVING CREDIT FACILITIES
+
+Revolving Credit Facilities and Term Debt consisted of the following on:
+
+<TABLE>
+<CAPTION>
+                                                                October 26,   October 27,
+                                                                   2003         2002
+                                                                -----------   -----------
+                                                                     (in thousands)
+<S>                                                              <C>          <C>
+Variable-rate revolving credit facility,
+  interest payable monthly ..................................    $  3,200     $  3,200
+Variable-rate term note, interest payable monthly,
+  principal is payable quarterly ............................       7,150        9,650
+Portion of variable-rate term note covered by swap agreement,
+  interest and principal is payable quarterly ...............      12,000       12,000
+                                                                 --------     --------
+                                                                   22,350       24,850
+Less current portion ........................................      (1,000)      (3,000)
+                                                                 --------     --------
+                                                                 $ 21,350     $ 21,850
+                                                                 ========     ========
+</TABLE>
+
+
+On January 9, 2001, the Company and its subsidiaries, as guarantors, entered
+into a Credit Agreement (the "Credit Agreement") with several banks and other
+financial institutions ("the Lenders"). The Credit Agreement consists of a
+revolving credit facility which expires in January 2005 and a term loan which
+matures in January 2006. Borrowings under the Credit Agreement are secured by a
+first lien on and the assignment of all of the Company's assets. The Credit
+Agreement has been amended seven times. Under the Credit Agreement, the Company
+must meet certain covenants. The Company was not in compliance with certain
+financial covenants contained in the Amended Credit Agreement for the quarter
+ended July 27, 2003. The Credit Amendment was amended on September 5, 2003 to
+revise the Maximum Leverage Ratio and Fixed Charge Coverage Ratio for the
+balance of the fiscal year 2003 and fiscal year 2004 to levels that management
+believes the Company will be able to achieve. The Lenders waived the events of
+non-compliance with certain covenants at July 27, 2003. In addition, the
+September 5, 2003 amendment added new Minimum EBITDA and Interest Coverage
+covenants for the remainder of fiscal year 2003 and fiscal year 2004, revised
+the allowable amounts to be spent on capital expenditures for fiscal years 2003
+and 2004 and eliminated the Minimum Net Worth requirement. For periods ending on
+or after April 1, 2004, interest on the revolving credit facility and term loan
+will increase by .5% at maximum financial leverage levels. Lastly, the September
+5, 2003 amendment reduced the principal payments from $750,000 to $250,00 per
+quarter for the remainder of fiscal year 2003 and from $1,500,000 to $250,000
+per quarter for fiscal year 2004. The expiration date of the revolver was
+extended from June 2004 to January 2005. The term debt continues to mature on
+January 2006 at which time a final balloon payment of $11.0 million will be due.
+Fees for the Fifth and Sixth Amendment and waiver were approximately $52,000 and
+$38,000, respectively. Fees for the Seventh Amendment and waiver, including the
+fair value of warrants to purchase the Company's Common stock issued to the
+lenders, totaled approximately $220,000.
+
+Under the Amended Credit Agreement, the revolving credit facility accrues
+interest on outstanding borrowings at LIBOR plus 3.5% (4.67% on October 26,
+2003) through March 31, 2004, and at LIBOR plus 4.0% from April 1, 2004 and
+thereafter. The revolving credit facility expires on January 2005. There is also
+an unused line fee equal to .75% per annum. The Company may borrow up to the
+lesser of $5 million or 60% of eligible accounts receivable ($3.3 million at
+October 26, 2003), as defined by the Amended Credit Agreement. Prior to the
+amendments, the Company was allowed to borrow up to $15 million. As of October
+26, 2003, $3.2 million has been drawn and is outstanding on the revolving credit
+facility. A portion of the outstanding term loan ($12.0 million on October 26,
+2003) is covered by an interest rate swap (the "hedged loan"). The hedged loan
+effectively accrues interest at a fixed rate of 8.47%. The balance of the term
+loan not covered by the swap, $7.2 million on October 26, 2003, consists of a
+note which accrues interest at the relevant LIBOR rate plus 3.5% (4.64% at
+October 26, 2003). Term loans require quarterly principal payments through
+January 2006.
+
+The Company, as required by the Amended Credit Agreement, utilizes an interest
+rate
+
+
+                                      F-14
+<PAGE>
+
+swap (the "swap") to hedge against the impact on cash flows of changes in
+interest rates. The interest rate swap is designated as a cash flow hedge of a
+specific portion of the term loans outstanding under the Credit Facility and is
+carried on the balance sheets at fair value. The effective portion of unrealized
+gains or losses on the fair value of the swap is charged to other comprehensive
+income, net of applicable taxes, until the hedged transaction is complete and
+affects earnings. Ineffectiveness is charged to earnings as incurred. Amounts
+related to ineffectiveness have not been significant to date. The effect of the
+swap is to convert the interest rate on the hedged portion of the term loans
+from a variable rate to a fixed rate of 8.47%. The swap matures on March 31,
+2004. The carrying value and fair value of the swap was a liability of $129,000
+and $477,000 at October 26, 2003 and October 27, 2002, respectively.
+
+Future minimum principal payments on the revolving credit facilities and the
+term loans are as follows:
+
+
+                        In thousands
+                        ------------
+        2004 .......     $  1,000
+        2005 .......       10,400
+        2006 .......       10,950
+                         --------
+                         $ 22,350
+                         ========
+
+
+Cash paid for interest on all outstanding debt aggregated $1,606,000, $2,281,000
+and $2,338,000 for the years ended October 26, 2003, October 27, 2002 and
+October 28, 2001, respectively. The Company's Amended Credit Agreement does not
+permit the Company or its Subsidiaries to declare or pay cash dividends.
+
+8. PREFERRED STOCK
+
+On October 26, 2003 and October 27, 2002, the Company had authorized 180,000
+shares of unissued, preferred stock with a par value of $100 per share. The
+Board of Directors has the authority to issue such preferred stock and to set
+the terms thereof, including the dividend rate, conversion rights, redemption
+rights, voting rights and liquidation preferences. There are no shares of
+preferred stock outstanding as of October 26, 2003.
+
+9. REPURCHASE OF COMMON STOCK
+
+In October 1999, the Board of Directors of the Company approved a plan to
+purchase up to $500,000 of the Company's common stock in the open market.
+Pursuant to the stock repurchase plan, the Company purchased 25,137 shares of
+common stock at an aggregate price of $90,000 during fiscal year 2001.
+
+10. STOCK OPTION PLANS
+
+The Company has in effect nonqualified and incentive stock option plans under
+which shares are available for exercise. As of October 26, 2003, the Board of
+Directors has reserved 1,954,527 shares of common stock for issuance under the
+plans. The prices at which substantially all stock options outstanding have been
+granted have been equal to or in excess of the fair market value of the
+Company's stock at the time of the grant. These options vest over periods up to
+three years. On October 26, 2003, there were 368,319 shares available for future
+grants.
+
+
+                                      F-15
+<PAGE>
+
+The following table summarizes activity and outstanding options under the plans:
+
+<TABLE>
+<CAPTION>
+                                                              Weighted
+                                           Shares             Average
+                                       Under Options       Exercise Price
+                                       -------------       --------------
+<S>                                     <C>                <C>
+Outstanding on October 29, 2000 ..       1,208,282          $   4.76
+     Granted-Option Price = FMV ..         558,826              7.56
+     Granted-Option Price < FMV ..          23,174              9.49
+     Forfeited ...................        (109,168)             6.66
+     Exercised ...................        (100,954)             2.56
+                                         ---------
+Outstanding on October 28, 2001 ..       1,580,160              5.83
+     Granted-Option Price = FMV ..         262,500              4.08
+     Forfeited ...................         (75,118)             5.92
+     Exercised ...................          (3,166)             2.07
+                                         ---------
+Outstanding on October 27, 2002 ..       1,764,376              5.58
+     Granted-Option Price = FMV ..       1,576,208              1.77
+     Forfeited ...................      (1,754,376)             5.60
+     Exercised ...................              --                --
+                                         ---------
+Outstanding on October 26, 2003 ..       1,586,208              1.77
+                                         =========
+Exercisable as of:
+  October 28, 2001 ...............         756,335          $   4.07
+  October 27, 2002 ...............       1,071,562              5.04
+  October 26, 2003 ...............       1,274,055              1.78
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+                                  Options Outstanding                   Options Exercisable
+                       ------------------------------------------    -------------------------
+                                      Weighted
+                                       Average                                       Weighted
+     Range of          Outstanding    Remaining      Weighted        Exercisable      Average
+     Exercise             As of      Contractual      Average           as of        Exercise
+      Prices            10/26/03        Life       Exercise Price      10/26/03        Price
+-------------------    -----------   -----------   --------------    -----------     --------
+<S>                    <C>           <C>           <C>               <C>             <C>
+$0.00-$1.00 .......        11,000     4.4 Years       $ 0.80                  0       $   --
+$1.01-$2.00 .......     1,575,208     8.7               1.78          1,274,055         1.78
+                        ---------                                     ---------
+                        1,586,208     8.6               1.77          1,274,055         1.78
+                        =========                                     =========
+</TABLE>
+
+On February 28, 2003, the Company offered to eligible employees, directors and
+consultants ( "Eligible Employees") the opportunity to exchange all their
+outstanding options to purchase shares of Alpha Common stock for new options
+which were to be granted under the Company's Amended and Restated 1994 Stock
+Option Plan. The number of shares subject to the new options to be granted to
+each Eligible Employee was equal to the number of shares subject to the options
+tendered by the Eligible Employee and accepted for exchange. Eligible Employees
+tendered options to purchase 1,575,708 shares. The exercise price per share
+($1.78) of the new options was 100% of the fair market value on the date of
+grant, October 8, 2003, which was at least six months and one day after the date
+the Company cancelled the options accepted for exchange.
+
+In April, 2002, the Company's Board of Directors and stockholders approved an
+amendment to the 1994 Stock Option Plan, which provided for options to purchase
+5,000 shares to be automatically granted to non-employee directors at the Annual
+Meetings to be held in 2003 and 2004. In November, 2001, the Company's Board of
+Directors approved an amendment to the 1994 Stock Option Plan to increase the
+aggregate number of shares subject to the Plan to 2,400,000 shares, subject to
+shareholder approval which was subsequently obtained at the 2002 Annual Meeting
+of Stockholders. In April, 2001, the Company's Board of Directors and
+stockholders approved an amendment to the 1994 Stock Option Plan, which provided
+for options to purchase 5,000 shares to be automatically granted to non-employee
+directors at the Annual Meetings to be held in 2001 and 2002 and set the maximum
+number of shares as to which options may be granted to any one individual under
+the Plan during any calendar year at 250,000.
+
+
+                                      F-16
+<PAGE>
+
+11. WARRANTS
+
+On January 28, 2002, March 4, 2002, and September 5, 2003, the Company issued
+warrants to purchase an aggregate of 36,666 shares at an exercise price of $2.89
+per share, an aggregate of 73,334 shares at an exercise price of $1.94 per
+share, and an aggregate of 148,225 shares at an exercise price of $1.62 per
+share, respectively, of common stock of the Company to its Lenders in connection
+with amendments to its Credit Agreement dated December 26, 2000. These warrants
+were fully vested and exercisable at the date of issuance and will expire in
+five years from the date of grant. None of these warrants have been exercised as
+of October 26, 2003. The value of the warrants (determined using the
+Black-Scholes pricing model) was $306,000 and is being amortized to interest
+expense over the remaining life of the loan.
+
+On October 1, 2002, warrants to purchase 250,000 shares of the Company's Common
+stock were issued to 33 Bridge Investors, LLC. in connection with the sale and
+leaseback transaction as described in Note 18. The warrants were fully vested
+and exercisable at the date of issuance at an exercise price of $1.42 per share
+and will expire in ten years. None of these warrants have been exercised as of
+October 26, 2003. The fair value of the warrants (determined using the
+Black-Scholes pricing model) was $274,000 and was expensed as a component of the
+loss on the sale of land and building.
+
+12. NET INCOME (LOSS) PER SHARE
+
+Basic net income (loss) per common share is computed by dividing income (loss)
+available to common shareholders by the weighted average number of shares of
+Common stock outstanding during each year. Diluted earnings per common share are
+calculated to give effect to stock options and warrants outstanding during the
+period. The treasury stock method is used to calculate dilutive shares and
+reduces the gross number of dilutive shares by the number of shares purchasable
+from the proceeds of the options assumed to be exercised. For fiscal year 2003
+and 2002, potentially dilutive shares were not considered in the computation as
+their effect would have been antidilutive. The amounts used in calculating basic
+and dilutive earnings per share and the amounts that would have been used in
+fiscal 2001 through 2003 were:
+
+<TABLE>
+<CAPTION>
+                                                                             For the Years Ended
+                                                                             -------------------
+                                                                     October 26,   October 27,     October 28,
+                                                                         2003          2002         2001
+                                                                     -----------   -----------     -----------
+                                                                                  (in thousands)
+<S>                                                                   <C>             <C>             <C>
+Income (loss) used in basic and diluted Earnings per share:
+  (Loss) income from continuing operations .....................      $(15,598)       $(11,488)       $   107
+  (Loss) income from discontinued operations ...................      $     --        $     --        $   (79)
+  Gain on sale of discontinued operation,
+    net of applicable taxes ....................................      $     --        $     --        $   277
+                                                                      --------        --------        -------
+  Net (loss) income available to common shareholders ...........      $(15,598)       $(11,488)       $   305
+                                                                      ========        ========        =======
+Shares:
+    Weighted average common shares outstanding .................         7,110           7,110          7,038
+  Net common shares issuable on exercise of stock options (1) ..            --              --            430
+                                                                      --------        --------        -------
+    Weighted average common and common equivalent
+      shares outstanding .......................................         7,110           7,110          7,468
+                                                                      --------        --------        -------
+</TABLE>
+
+(1) Antidilutive
+
+For fiscal year ended October 26, 2003 and October 27, 2002, 7,342 and 47,266
+potential common shares, respectively, were excluded from the calculations above
+because the effect was antidilutive.
+
+13. INCOME TAXES
+
+
+                                      F-17
+<PAGE>
+
+The (benefit) provision for income taxes for continuing operations was as
+follows:
+
+<TABLE>
+<CAPTION>
+                                                          For the Years Ended
+                                              ----------------------------------------
+                                              October 26,   October 27,    October 28,
+                                                 2003         2002           2001
+                                              -----------   -----------    -----------
+                                                           (In thousands)
+<S>                                             <C>         <C>              <C>
+Federal income tax ..........................   $ (826)     $ (6,561)        $ 102
+State income tax ............................      (57)       (1,073)           63
+                                                ------      --------         -----
+Total (benefit)
+provision for income
+taxes .......................................   $ (883)     $ (7,634)        $ 165
+                                                ======      ========         =====
+</TABLE>
+
+The differences in the income taxes provided for the amounts determined by
+applying the Federal statutary rate to income before taxes of the Company are
+summarized as follows:
+
+<TABLE>
+<CAPTION>
+                                                            For the Years Ended
+                                                 -----------------------------------------
+                                                 October 26,   October 27,     October 28,
+                                                    2003          2002            2001
+                                                 -----------   -----------     -----------
+                                                             (In thousands)
+<S>                                                <C>           <C>            <C>
+Federal income statutory rate ...............      (34.0)%       (34.0)%        34.0%
+State income taxes, net of federal
+  income tax benefit ........................       (5.6)         (5.6)          6.8
+Change in valuation allowance ...............       34.2          --            21.1
+Other .......................................       --            (0.3)         (1.2)
+                                                  ------         -----          ----
+Total (benefit) provision for income taxes ..       (5.4)%       (39.9)%        60.7%
+                                                  ======         =====          ====
+</TABLE>
+
+The tax effects of temporary differences that give rise to significant portions
+of the deferred tax assets and liabilities and their changes during the year end
+ended October 26, 2003 were as follows:
+
+<TABLE>
+<CAPTION>
+                                            October 26,    October 27,
+                                               2003          2002
+                                            -----------    -----------
+                                                  (in thousands)
+<S>                                          <C>              <C>
+Deferred Tax Assets:
+  Net operating loss caryforwards ....       $  6,383         $  4,165
+  Amortizations ......................          9,625            5,149
+  Tax credits ........................            436              795
+  Accrued liabilities ................            152               55
+  Other ..............................            605              757
+                                             --------         --------
+    Total gross deferred tax assets ..         17,201           10,921
+  Less: valuation allowances .........         (6,143)            (500)
+                                             --------         --------
+  Net deferred tax asset .............         11,058           10,421
+Deferred Tax Liabilities:
+  Amortization and depreciation ......         (1,012)            (813)
+                                             --------         --------
+    Net deferred tax asset ...........       $ 10,046         $  9,608
+                                             ========         ========
+</TABLE>
+
+
+Cash paid for income taxes aggregated $90,000, $136,000 and $300,000 for the
+years ended October 26, 2003, October 27, 2002 and October 28, 2001,
+respectively.
+
+The Company evaluates the recoverability of its recorded deferred tax assets
+each reporting period and provides valuation allowances where necessary for
+assets not
+
+
+                                      F-18
+<PAGE>
+
+likely to be recovered. The Company increased its valuation allowance to
+$6,143,000 from $500,000 at October 27, 2002, as management determined it would
+be more likely than not that the Company will not be able to realize the future
+tax benefit associated with the current year's write-off of goodwill and other
+intangible assets. In fiscal 2001, the valuation allowance decreased by
+$454,000.
+
+As of October 26, 2003, the Company had pre tax operating loss carry forwards
+for both Federal and State of approximately $16,120,000 ($6,383,000, net of
+tax), unused investment and research and development tax credits of
+approximately $208,000 and $228,000 of alternative minimum tax credits available
+to offset future Federal income taxes. The Federal net operating loss carry
+forwards will expire from 2017 to 2021, the investment tax credit and research
+and development tax credit carry forwards will expire from 2004 to 2006, and the
+alternative minimum tax credit has no expiration. The state net operating loss
+carry forwards will expire from 2004 to 2007.
+
+14. COMMITMENTS AND CONTINGENCIES
+
+Commitments
+
+The Company has operating lease commitments for certain office equipment and
+manufacturing, administrative and support facilities. Minimum lease payments
+under noncancellable leases, including amounts related to the sale leaseback
+discussed in Note 18, are as follows:
+
+<TABLE>
+<CAPTION>
+                                          Total
+                                      --------------
+                                      (in thousands)
+<S>                                     <C>
+Fiscal year ending October:
+2004 ................................   $  1,810
+2005 ................................      1,487
+2006 ................................      1,233
+2007 ................................      1,236
+2008 ................................      1,246
+Thereafter ..........................      7,060
+                                        --------
+Minimum lease payments ..............   $ 14,072
+                                        ========
+</TABLE>
+
+
+Rent expense (exclusive of operating expenses and net of sublease rents) for
+operating leases for continuing operations was approximately $1,918,000,
+$1,337,000 and $1,416,000 in fiscal 2003, 2002, and 2001, respectively. Total
+rent expense was approximately $2,019,000, $1,422,000 and $1,501,000 in fiscal
+2003, 2002 and 2001, respectively.
+
+Contingencies
+
+From time to time, the Company becomes involved in litigation incidental to its
+business. Management, based on its understanding of the facts and, where
+necessary advice of counsel, does not believe that matters currently pending,
+either individually or in the aggregate, would have a material impact on
+financial position or the results of operations.
+
+15. RETIREMENT PLANS
+
+The Company sponsors a defined contribution plan which is available to all
+domestic employees. This plan provides for employer contributions based on
+employee participation. The total expense from continuing operations under the
+plan was $292,000 and $346,000 for the years ended October 27, 2002 and October
+28, 2001, respectively. Employer contributions were suspended for the entire
+2003 fiscal year.
+
+
+                                      F-19
+<PAGE>
+
+16. BUSINESS SEGMENT INFORMATION
+
+The Company has one operating segment, which manufactures thermal management and
+non-thermal fabricated products and aluminum extrusions. The Company derives
+substantially all of its operating revenue from the sale and support of one
+group of products and services with similar characteristics such as the nature
+of the production processes, the type and class of customers, and the methods of
+distribution. Substantially all of the Company's assets are located within the
+United States. In addition, the Company's chief decision- maker and management
+make decisions based on one product group.
+
+<TABLE>
+<CAPTION>
+                                                                       For the Years Ended
+                                                               --------------------------------------
+                                                               October 26,  October 27,   October 28,
+                                                                 2003          2002          2001
+                                                                -------     -----------   -----------
+                                                                          (in thousands)
+<S>                                                             <C>           <C>          <C>
+Net sales by geographic area:
+Sales to customers within the continental United States ...     $43,818       $53,446      $65,331
+Exports from the United States to unaffiliated customers ..       2,983         2,128        2,583
+                                                                -------       -------      -------
+   Total Sales ............................................     $46,801       $55,574      $67,914
+                                                                =======       =======      =======
+</TABLE>
+
+
+Net sales to one customer totaled approximately 10.4%, 11.6% and 10.1% of
+consolidated revenues for the fiscal years ended October 26, 2003, October 27,
+2002 and October 28, 2001, respectively.
+
+17. RESTRUCTURING COSTS
+
+In response to the decline in demand for the Company's products resulting from
+the economic downturn in the markets served by the Company's products, the
+Company took significant actions to reduce operating expenses and incurred
+restructuring costs totaling $822,000 in fiscal 2001. Such restructuring costs
+consisted of severance costs ($257,000) and a non-cancelable lease commitment on
+an unused administrative facility ($565,000). The following summarizes the
+changes in the restructuring cost liability since the date the charge was taken
+in 2001.
+
+<TABLE>
+<CAPTION>
+                                 Lease
+                              Commitment    Severance       Total
+                              ----------    ---------       -----
+                                          (In thousands)
+<S>              <C>            <C>           <C>           <C>
+Charges taken in 2001 .....     $ 565         $ 257         $ 822
+Payments made .............       (33)         (188)         (221)
+                                -----         -----         -----
+Balance October 28, 2001 ..       532            69           601
+Payments made .............      (267)          (69)         (336)
+                                -----         -----         -----
+Balance October 27, 2002 ..       265            --           265
+Payments made .............       (75)           --           (75)
+                                -----         -----         -----
+Balance October 26, 2003 ..     $ 190         $  --         $ 190
+                                =====         ===           =====
+</TABLE>
+
+
+                                      F-20
+<PAGE>
+18. SALE AND LEASEBACK TRANSACTION WITH RELATED PARTIES
+
+On October 1, 2002, the Company's wholly-owned subsidiary, Wakefield Thermal
+Solutions, Inc. ("Wakefield") entered into a sale and leaseback transaction for
+its 171,235 square foot Pelham, New Hampshire manufacturing facility (the
+"Property"). Wakefield sold the Property to 33 Bridge Investors, LLC ("33
+Bridge"), a newly-formed entity in which Marshall D. Butler, a director of the
+Company owns 50% of the equity interest, for a purchase price of $4,750,000. In
+connection with the sale and leaseback transaction, the Company issued warrants
+to purchase an aggregate of 250,000 shares of Common Stock, par value $.03 per
+share, to the members of 33 Bridge, including warrants to purchase 125,000
+shares of Common stock to Marshall D. Butler, at an exercise price of $1.42 per
+share. The warrants were valued at approximately $274,000 using the Black Sholes
+method. The book value of the land, buildings and improvements was approximately
+$6.3 million. Selling costs were approximately $300,000, excluding the value of
+the warrants. The loss on the sale of the property was $2.1 million ($1.3
+million, net of tax).
+
+Effective on October 1, 2002, 33 Bridge and Wakefield entered into a lease
+whereby Wakefield leased from 33 Bridge the Property for 15 years at an initial
+rent of $630,000 per year with annual increases between 2% and 2.5% per annum.
+Wakefield is responsible for operating expenses including taxes, utilities,
+insurance and maintenance. The obligations of Wakefield under the lease are
+guaranteed by the Company. The Company incurred rental expense of approximately
+$61,000 in October 2002 related to this lease. Rental expense in fiscal year
+2003 for this lease was approximately $629,000.
+
+The purchase price and other terms of the sale and leaseback transaction were
+negotiated and approved on behalf of the Company by the Audit Committee of the
+Company consisting of three independent directors constituted as a special
+committee. The transaction was negotiated on behalf of the Purchaser-Lessor by
+its Managing Member, who was not affiliated with the Company.
+
+19. DISCLOSURES ABOUT FAIR VALUE OF FINANCIAL INSTRUMENTS
+
+The Company's principal financial instruments consist of cash and cash
+equivalents, variable rate debt outstanding under the Company's Credit
+Agreement, and the interest rate swap utilized as a cash flow hedge. The
+carrying amounts for these financial instruments approximate their estimated
+fair values.
+
+The fair market values of financial instruments were estimates based on market
+conditions and perceived risks at October 26, 2003 and October 27, 2002, and
+require varying degrees of management judgment. The factors used to estimate
+these values may not be valid on any subsequent date. Accordingly, the fair
+market values of the financial instruments presented may not be indicative of
+their future values.
+
+The following methods and assumptions were used to estimate the fair market
+value of each class of financial instrument:
+
+CASH AND CASH EQUIVALENTS
+
+Cash and cash equivalents include cash in banks and money market accounts as
+well as highly liquid investments with initial maturities of three months or
+less when purchased. The carrying amount approximated fair market value due to
+the short-term maturity of the instruments.
+
+VARIABLE-RATE REVOLVING CREDIT FACILITY AND TERM NOTES
+
+The carrying amount of the credit facility approximates fair market value
+because of the renewing feature of the facility. The fair market value of the
+notes is estimated based on quoted market prices.
+
+
+                                      F-21
+<PAGE>
+
+INTEREST RATE SWAP AGREEMENT
+
+The Company, as required by the Amended Credit Agreement utilizes the swap to
+hedge against its interest rate risk. The fair market value represents the
+amount Alpha would receive or pay to terminate the agreement taking into
+consideration current interest rates.
+
+20. GOODWILL AND OTHER INTANGIBLE ASSETS
+
+An independent valuation advisory firm, Delphi Valuation Advisors, Inc., was
+engaged to assist the Company with its annual impairment test as of the
+designated test date of June 1. These tests concluded that $13.0 million and
+$15.6 million of the goodwill carried on the books as of June 1, 2003 and June
+1, 2002, respectively, was impaired. The fair value of the Company's single
+reporting unit was determined by using established valuation techniques,
+specifically, the income, market and cost approaches. Management believes that
+this impairment was caused by the downturn in the economy which severely
+impacted the markets served by the Company's products. This impairment has been
+reported as a separate component of operating expenses in the Consolidated
+Statement of Operations. Goodwill, net of amortization, has been reduced from
+$28.6 million at October 28, 2001 to $13.0 million at October 27, 2002 and from
+$13.0 million to $0 at October 26, 2003.
+
+The following reconciliation summarizes the impact that the adoption of SFAS No.
+142 had on the Company's net (loss) income and earnings per share.
+
+<TABLE>
+<CAPTION>
+                                                        For the Years Ended
+                                          ------------------------------------------------
+                                          October 26,      October 27,         October 28,
+                                             2003             2002                 2001
+                                          -----------      -----------         -----------
+                                               (In thousands, except per share data)
+<S>                                       <C>                <C>                <C>
+Net (loss) income:
+Net (loss) income, as reported ......     $  (15,598)        $  (11,488)        $     305
+Add: Goodwill amortization (1) ......             --                 --               765
+    Goodwill impairment charge (1) ..         12,980              9,954                --
+                                          ----------         ----------         ---------
+  Adjusted net income (loss) ........     $   (2,618)        $   (1,534)        $   1,070
+                                          ==========         ==========         =========
+Basic earnings per share:
+Net (loss) income, as reported ......     $    (2.19)        $    (1.62)        $    0.04
+Add: Goodwill amortization (1) ......             --                 --              0.11
+    Goodwill impairment charge (1) ..           1.83               1.40                --
+                                          ----------         ----------         ---------
+  Adjusted net income (loss) ........     $    (0.36)        $    (0.22)        $    0.15
+                                          ==========         ==========         =========
+Diluted earnings per share:
+Net (loss) income, as reported ......     $    (2.19)        $    (1.62)        $    0.04
+Add: Goodwill amortization (1) ......             --                 --              0.10
+    Goodwill impairment charge (1) ..           1.83               1.40                --
+                                          ----------         ----------         ---------
+  Adjusted net income (loss) ........     $    (0.36)        $   (0.22)         $    0.14
+                                          ==========         ==========         =========
+
+Note (1) - Net of applicable taxes
+
+Weighted average shares outstanding:
+Basic                                          7,110              7,110             7,038
+Diluted                                        7,110              7,110             7,468
+</TABLE>
+
+
+                                      F-22
+<PAGE>
+
+The Company performs impairment analyses of its long-lived assets whenever
+events and circumstances indicate that they may be impaired. All long-lived
+assets other than goodwill are assessed for impairment by comparison of the
+total amount of undiscounted cash flows expected to be generated by such assets
+to their carrying value. In July 2003 it was determined that a an intangible
+asset related to a non compete agreement between the Company and a former owner
+of Lockhart Industies, Inc., which is now a subsidiary of Alpha Technologies
+Group, Inc., no longer had any value. The carrying value of this asset before
+the impairment write-off was $323,000. This impairment has been reported as a
+separate component of operating expenses in the Consolidated Statement of
+Operations
+
+21. SUMMARY OF QUARTERLY RESULTS OF OPERATIONS (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                    First         Second          Third           Fourth           Total
+                                                   Quarter        Quarter        Quarter          Quarter          Year
+                                                   --------       --------       --------         --------       --------
+                                                                    (in thousands, except per share data)
+<S>                                                <C>            <C>            <C>              <C>            <C>
+2003
+Net sales ....................................     $ 11,421       $ 12,209       $ 11,658         $ 11,513       $ 46,801
+Gross profit (net sales less cost of sales) ..        1,188          1,482          1,193            1,223          5,086
+Net loss .....................................         (473)          (348)       (13,871)(a)         (906)       (15,598)
+Loss per common share
+  Basic and diluted:
+    Net loss .................................     $  (0.07)      $  (0.05)      $  (1.95)        $  (0.12)      $  (2.19)
+                                                   ========       ========       ========         ========       ========
+
+2002
+Net sales ....................................     $ 12,587       $ 13,933       $ 15,258         $ 13,796       $ 55,574
+Gross profit (net sales less cost of sales) ..        1,781          2,388          2,490            1,572          8,231
+Net loss .....................................         (314)          (348)        (9,833)(b)         (993)       (11,488)
+Loss per common share
+  Basic and diluted:
+    Net loss .................................     $  (0.04)      $  (0.05)      $  (1.38)        $  (0.14)      $  (1.62)
+                                                   ========       ========       ========         ========       ========
+
+</TABLE>
+
+(a)  Includes goodwill impairment charge of $13 million and intangible asset
+     impairment charge of $323,000.
+
+(b)  Includes goodwill impairment charge of $15.6 million.
+
+
+                                      F-23
+<PAGE>
+
+                                 EXHIBIT INDEX
+
+
+Exhibit No.
+----------
+
+
+23.1  --  Independent Auditors' Consent of Deloitte Touche LLP. (Filed Herewith)
+
+23.2  --  Consent of Independent Public Accountants - Grant Thornton LLP. (Filed
+          Herewith)
+
+31.1  --  Certification by Chief Executive Officer pursuant to Section 302 of
+          Sarbanes-Oxley Act of 2002. (Filed Herewith)
+
+31.2  --  Certification by Chief Financial Officer pursuant to Section 302 of
+          Sarbanes-Oxley Act of 2002. (Filed Herewith)
+
+32.1  --  Certification by Chief Executive Officer and Chief Financial Officer
+          pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section
+          906, the Sarbanes-Oxley Act of 2002. (Filed Herewith)
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,3193 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>0001.txt
+<DESCRIPTION>ANNUAL REPORT
+<TEXT>
+
+
+                                  United States
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+              Annual Report Pursuant to Section 13 or 15(d) of the
+                         Securities Exchange Act of 1934
+
+For the Fiscal Year Ended December 31, 2000     Commission File Number:  0-18259
+
+                          AG-BAG INTERNATIONAL LIMITED
+             (Exact name of registrant as specified in its charter)
+
+         Delaware                                               93-1143627
+(State or other jurisdiction                                (I.R.S. Employer
+ of incorporation or organization)                           Identification No.)
+
+           2320 SE AG-BAG LANE
+            Warrenton, Oregon                                         97146
+(Address of principal executive offices)                           (Zip Code)
+
+       Registrant's telephone number, including area code: (503) 861-1644
+
+           Securities registered pursuant to Section 12(b) of the Act:
+
+                                      None
+
+           Securities registered pursuant to Section 12(g) of the Act:
+
+                     Common Stock, par value $.01 per share
+                                (Title of Class)
+
+     Indicate  by check mark  whether the  registrant  (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the  Securities  Exchange  Act of
+1934  during  the  preceding  12 months  (or for such  shorter  period  that the
+registrant was required to file such reports),  and (2) has been subject to such
+filing requirements for the past 90 days.
+                                           Yes      |X|     No
+                                                    ---        ---
+
+     Indicate by check mark if disclosure of delinquent  filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's  knowledge,  in definitive proxy or information  statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. |X|
+
+     Based on the closing sales price of the Common Stock on March 6, 2001,  the
+aggregate market value of the voting stock of registrant held by  non-affiliates
+was $ 2,795,610.
+
+     The  registrant  has one  class of  Common  Stock  with  12,061,991  shares
+outstanding as of March 6, 2001.
+
+                      Documents Incorporated By Reference:
+
+     Portions of the proxy  statement  for the  Registrant's  Annual  Meeting of
+Stockholders  to be held June 4, 2001, are  incorporated  by reference into Part
+III of this report.
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+                          AG-BAG INTERNATIONAL LIMITED
+                                TABLE OF CONTENTS
+
+                                                                                      PAGE
+
+
+<S>                                                                                     <C>
+PART I      ...........................................................................   2
+  Item 1.   Business...................................................................   2
+  Item 2.   Properties.................................................................  10
+  Item 3.   Legal Proceedings..........................................................  10
+  Item 4.   Submission of Matters to a Vote of Security Holders........................  11
+  Executive Officers of the Registrant.................................................  11
+
+PART II     ...........................................................................  12
+  Item 5.   Market for Registrant's Common Equity and Related Stockholder Matters .....  12
+  Item 6.   Selected Financial Data....................................................  14
+  Item 7.   Management's Discussion and Analysis of Financial Condition and Results
+            of Operations..............................................................  16
+  Item 7A.  Quantitative and Qualitative Disclosures about Market Risk.................  23
+  Item 8.   Financial Statements and Supplemental Data.................................  23
+  Item 9.   Changes in and Disagreements with Accountants on Accounting and
+            Financial Disclosure.......................................................  23
+
+PART III    ...........................................................................  23
+  Items 10. and 11.  Directors and Executive Officers of Registrant and Executive
+            Compensation...............................................................  23
+  Item 12.  Security Ownership of Certain Beneficial Owners and Management.............  23
+  Item 13.  Certain Relationships and Related Transactions.............................  23
+
+PART IV     ...........................................................................  24
+  Item 14.  Exhibits, Financial Statement Schedules and Reports on Form 8-K............  24
+
+</TABLE>
+
+
+<PAGE>
+                                     PART I
+                                     ------
+
+     When used in this Annual Report,  the words  "believes,"  "anticipates" and
+"intends"  and similar  expressions  are  intended  to identify  forward-looking
+statements.  Such statements are subject to certain risks and uncertainties that
+could  cause  actual  results to differ  materially  from those  projected.  See
+"Factors  Affecting  Forward-Looking  Statements."  Readers are cautioned not to
+place undue reliance on these forward-looking statements, which speak only as of
+the date hereof.  The Company  undertakes no obligation to publicly  release any
+revisions to these forward-looking statements that may be made to reflect events
+or  circumstances  after  the  date  hereof  or to  reflect  the  occurrence  of
+unanticipated  events.  Readers  are urged,  however,  to review the factors set
+forth in reports the  Company  files from time to time with the  Securities  and
+Exchange Commission.
+
+Item 1.  Business
+-----------------
+
+General
+-------
+
+     Ag-Bag International Limited (the "Company") was incorporated as a New York
+corporation  in 1989.  The primary  operating  company,  Ag-Bag  Corporation,  a
+Nebraska corporation,  was incorporated in 1978. The Company changed its name in
+1990 from AB Holding Group, Inc. to Ag-Bag International Limited. In 1994, in an
+effort to  streamline  and save  administrative  expenses,  two of the Company's
+operating  subsidiaries,  A.B. Rental,  Inc. and Ag-Bag  Corporation were merged
+into the  Delaware  subsidiary,  ABVIN  Merging  Corp.  On January 1, 1995,  the
+Company was merged into its Delaware subsidiary resulting in the reincorporation
+of the  Company  in  Delaware  and a change in its name to Ag-Bag  International
+Limited.
+
+     The  Company  has  pioneered  an  alternate  method  of  storing  feed  for
+livestock.  Traditional  methods of  storing  feed have  included  placing it in
+bunkers,  pits, and silos or baling and stacking it. The Company's  method is to
+store the feed in huge  plastic  bags of up to 500 feet in  length  and up to 12
+feet in  diameter  by  tightly  stuffing  the feed  into the  bag.  The  Company
+assembles  the machines  for  stuffing  the feed into the bags.  It has the bags
+manufactured  to its  specifications  and then  folds and  distributes  the bags
+through its dealer  network.  The benefits of bagging the feed  include  reduced
+cost,  additional  flexibility in harvesting and storing the feed, enhanced feed
+quality,  and  relatively  small  capital  requirements.  The Company also sells
+ancillary  products that complement the Company's main line of bagging  machines
+and bags.
+
+     The  following  table  identifies  the revenue  from each product line that
+accounted for more than 15% of total revenue over the last three years:
+
+         Product             1998      1999      2000
+         ---------           ----      ----      ----
+         Bags                52%       52%       53%
+         Machines            38%       41%       39%
+         Other               10%        7%        8%
+                             ---       ----      ----
+         Net Sales           100%      100%      100%
+
+     The  Company  expects  the use of bagging  as a means of silage  storage to
+continue  to play a major role in the future  because the quality of stored feed
+is better  than other known  competitive  methods,  allowing  farmers to be more
+efficient and to produce dairy,  beef, sheep and pork products at a lower price.
+The Company  believes the concept of bagging is one way in which  farmers can be
+more profitable by reducing, or completely eliminating, the purchase of feed and
+grain from outside sources.  Bagging enables the farmer to produce and store the
+feed on the farm and provides easier access to the silage,  thereby allowing the
+farmer to choose  the  quality of silage to feed at any given  time.  The bagged
+feed has shown high quality, allowing for higher production.
+
+     The Company  expanded its operations into Europe in 1989 where it offered a
+custom bagging service on a fee per metric tonne basis in the United Kingdom. In
+1997, the Company's Board of Directors  approved a strategic  realignment of the
+Company.  The  realignment  involved the sale of the  Company's
+                                       2
+<PAGE>
+United Kingdom  subsidiary,  which had not been performing at a profitable level
+due to the continued  escalation of the BSE (Mad Cow) problem within the British
+farming industry.
+
+     In 1994,  the Company  shipped its first orders to dealers in Japan,  Latin
+America and Germany. The Company continues to sell worldwide in Asia, Australia,
+New Zealand, Western and Central Europe and the Caribbean. Export sales from the
+Company's  United  States  operations  were 6.5% of net sales for the year ended
+December 31, 2000.
+
+     The Company is developing other uses for its bagging  technology.  In 1993,
+the  Company  adapted  its bagging  machines  to permit  bagging of  compostable
+organic matter in the Company's recyclable Tri-Dura(R) plastic bags. The Company
+also has developed  mobile  plastic  recovery  units which enable the Company to
+bail and pick up the recyclable Tri-Dura(R) plastic bags from its customers.
+
+Seasonal Nature of Business
+---------------------------
+
+     The core  business  of the  Company  is  historically  seasonal  due to the
+harvest seasons in North America and Europe. The Company's machinery tends to be
+purchased in anticipation  of the next harvest  season,  so most of the sales of
+machinery  occur in the spring and summer.  This  requires  the Company to carry
+significant  amounts  of  inventory  to  meet  rapid  delivery  requirements  of
+customers.  Bag sales  tend to occur as the  harvest  season  approaches  in the
+summer,  and during the harvest  season in the fall.  The Company  took steps to
+counteract  some of this  seasonality  by  generating  sales  in  Latin  America
+beginning in 1994 and in Australia and New Zealand in 1996.
+
+     Approximately 95% of the Company's business is concentrated in the Northern
+Hemisphere  resulting in between 65-72% of the Company's revenue being generated
+during the  spring  and  summer  (2nd and 3rd  Quarters).  The  following  table
+outlines the percentage of revenue over the past three years by quarter:
+
+         Quarter          1998              1999              2000
+         -------          ----              ----              ----
+         1st              17%               15%               21%
+         2nd              35%               33%               31%
+         3rd              35%               39%               34%
+         4th              13%               13%               14%
+
+
+Farm Equipment and Products
+---------------------------
+
+     Introduction.  Silage is made using the Ag-Bag(R)  system by storing forage
+crops,  such as corn,  sorghum,  or alfalfa,  under anaerobic  (without  oxygen)
+conditions in sealed Ag-Bag  Tri-Dura(R)  storage bags. The traditional  methods
+for  making  silage  involve  storing  it  in  bunkers,  pits  or  silos.  Using
+traditional methods,  there is a nutrient loss resulting from a reduction in the
+moisture  content of the forage  before  storage.  The moisture  content must be
+reduced to  compensate  for the high oxygen  content of the forage which results
+from the  inability to pack the forage  tightly  enough.  When the forage is not
+packed  sufficiently,  the silage  fermentation  process  produces too much heat
+resulting  in an even  greater  loss of  nutrient  value than would occur if the
+moisture  content were not reduced.  The loss of nutrient  value  results in the
+need for additional food supplements or an increased volume of feed.
+
+     The Ag-Bag(R)  system is an  alternative  to bunkers,  pits and silos.  The
+Ag-Bag(R)  bagging  machines push the forage into huge  recyclable  plastic film
+Tri-Dura(R) bags with sufficient  compaction to minimize the amount of oxygen in
+the bag, which is then sealed tightly when filled.  As a result,  the forage can
+be stored with significantly  higher moisture content.  The ability to store the
+forage in this manner also reduces the time  required to cut,  prepare and store
+the forage thus reducing the loss of nutrients and providing higher quality feed
+for production within the farmers' herds.
+
+                                       3
+<PAGE>
+     Ag-Bag(R) Farm Equipment. The Company's principal line of farm equipment is
+marketed under the trade name  "Ag-Bagger(R)."  The Ag-Bagger(R) is available in
+three  versions  with a number of  optional  features.  A wide range of optional
+features are offered by the Company on its bagging machines in order to meet the
+budget needs of the farmer.
+
+     The smallest  version  consists of machines used to load forage into Ag-Bag
+Tri-Dura(R)  storage  bags ranging in size from 8 to 10 feet in diameter and 100
+to 200 feet in length. This version was first introduced by the Company in 1987.
+It is used primarily in smaller dairy and cattle feeding  operations by dairymen
+with herds averaging about 50 head and by cattlemen feeding up to about 300 head
+of feeder cattle.  Most of these machines are powered by the power take-off unit
+of a farm tractor and moved by a tractor or other farm vehicle. The retail price
+for this machine ranges from approximately $23,000 to $45,000.
+
+     In 1992, the Company introduced a medium-sized machine that can be operated
+by the power take-off unit of a farm tractor or operated  independently  with an
+optional  diesel  engine made by  Caterpillar  or Deere & Company.  This machine
+allows  farmers to load forage into Ag-Bag  Tri-Dura(R)  storage bags ranging in
+size from 9 to 10 feet in diameter  and 100 to 250 feet in length.  This machine
+is  primarily  suitable for use by dairymen  with herds  ranging from 150 to 300
+head and by cattlemen  feeding  between 300 and 800 head of feeder  cattle.  The
+retail price for this machine ranges from approximately $70,000 to $175,000.
+
+     The largest  version  consists of machines  that can be used to load Ag-Bag
+Tri-Dura(R)  storage  bags ranging in size from 9 to 12 feet in diameter and 150
+to 500 feet in length.  These machines are used primarily by dairymen with herds
+ranging  from 300 to 2,000 head,  by  cattlemen  with herds  ranging from 800 to
+15,000 head, and by custom operators. A super 12-foot Ag-Bagger(R) was developed
+in 1989 and  enhanced in 1995 for use by very large  dairy and custom  operators
+and by cattle feeding  operations  with herds ranging from 15,000 to 25,000 head
+of cattle.  The larger  machines are available with optional diesel engines made
+by  Caterpillar  or Deere & Company.  The retail  price for the larger  machines
+ranges from approximately $100,000 to $260,000.
+
+     In response to a competitor's introduction of a cable-less machine in early
+1995, the Company began research and  development on its own cable-less  machine
+in early 1996.  The Company began  production of its own  cable-less  machine in
+1997. In 1998, the Company  introduced its own cable-less bagging machine called
+the HFC (Hydraulic Finger  Controlled)  Silage Bagger.  The introduction of this
+machine was in response to what the Company  felt was a change in  direction  of
+the industry  towards the  cable-less  machine  design and the latest in bagging
+technology. In 1999, the Company continued to develop and improve its cable-less
+bagging  machine by developing the Powered  Anchor Control (PAC) system,  and in
+2000 introduced its latest version of the cable-less bagging machine,  the HYPAC
+(Hydraulic Powered Anchor Control) system. The company offers the HYPAC model in
+small,  medium-sized and large bagging machines.  The retail price for the HYPAC
+machines range from approximately $45,000 to $260,000.
+
+     The Company assembles and sells a separate line of related equipment called
+the Ag-Bag  Flex-a-Tuber(R) with a retail price ranging from $11,000 to $17,000.
+The Flex-a-Tuber(R)  permits farmers to store round-baled alfalfa,  sorghum, and
+other forage in Ag-Bag Tri-Dura(R) storage bags. The round bale Flex-a-Tubers(R)
+are made in two sizes to permit the bagging of 4 and 5 foot bales. The bales can
+be stored in Ag-Bag Tri-Dura(R) storage bags up to 200 feet in length.
+
+     The Company assembles and sells a separate line of related equipment called
+the Square Bale Bagger which retails for between $23,000 to $30,000.  The Square
+Bale Bagger permits farmers to store square bales of alfalfa,  sorghum and other
+forage,  two bales high in Ag-Bag Tri-Dura(R) flex storage bags. The Square Bale
+Bagger permits the bagging of the bales in Ag-Bag  Tri-Dura(R) flex storage bags
+of 7 to 10 feet in diameter and up to 200 feet in length.
+
+                                       4
+<PAGE>
+     The Company  assembles  and sells the  Ag-Bag(R)  Pro-Grain  Bagger,  which
+retails for between $25,000 to $30,000. This machine is similar in design to the
+smallest  Ag-Bagger(R)  machines  but has been  adapted to permit the storage of
+grains,  such as corn, rice, wheat and soybeans,  as well as other products,  in
+Ag-Bag  Tri-Dura(R)  storage  bags.  The machine  permits the grain to be bagged
+without  damaging  the  kernel.  After the grain is bagged and  sealed,  it will
+retain the necessary quality for human consumption.
+
+     The Company also  assembles  and sells the Mighty  Bite(R)  front-end  load
+bucket.   This   revolutionary   bucket   replaces  the   conventional   bucket.
+Hydraulically  operated, the Mighty Bite(R) closes tightly around material, thus
+eliminating spillage and increasing load capacity due to compaction. The Company
+manufactures the Mighty Bite(R) in sizes ranging from one-half cubic yard to two
+cubic yards with a retail price ranging from $2,500 to $4,500.
+
+     The Company adapted its Ag-Bag(R)  bagging  machines for use in large scale
+"in-vessel"  composting  of  organic  matter.  The  bagging  machine  is used in
+conjunction with a shredder that shreds the organic material,  which is then fed
+into  the  bagging  machine  that  bags  the  compostable   matter  into  Ag-Bag
+Tri-Dura(R)  storage bags.  An air blower is attached to the bag and  circulates
+air through the bag during the composting  process.  The Ag-Bag compost  bagging
+machines retail for between $45,000 to $250,000.
+
+     Ag-Bag Tri-Dura(R) Storage Bags. The Ag-Bag Tri-Dura(R)  disposable storage
+bags range in size from 8 to 12 feet in  diameter  and 100 to 500 feet in length
+and are made of  extruded  plastic.  Rolls of plastic  are  manufactured  to the
+Company's  specifications.  The plastic contains special  stabilizers to protect
+the bags from deterioration due to exposure to weather and the sun's ultraviolet
+rays.  Once a  Tri-Dura(R)  bag is used,  it may be  recycled  or disposed of in
+another manner, but may not be reused.
+
+     The  Company  contracts  for the  manufacture  of,  and  sells  Tri-Dura(R)
+three-ply bags with a white exterior and black interior  intended for storage of
+silage up to 24 months.  The retail price of the bags ranges from  approximately
+$220 to $1,200.  The  manufactured  plastic  rolls are shipped to the  Company's
+plant in Blair,  Nebraska,  where  they are  folded  and  packed  for sale using
+proprietary  folding  techniques.  The proprietary bag folding techniques reduce
+bag folding time and allow the bags to uniformly unfold when being filled, which
+thereby reduces operational delays.
+
+     Ag-Bag(R)  Inoculant.  The  Company  markets a liquid  inoculant  and a dry
+powder inoculant under the trade name Ag-Bag Plus!(R). The inoculant is added to
+the  forage  or the  round or square  bales  during  bagging.  It  enhances  the
+fermentation  process  for  making  silage in bags,  bunkers,  pits and silos by
+substantially  shortening the time  necessary for the creation of the silage.  A
+liquid inoculant was developed in 1989 by a Company supplier and introduced into
+the market in 1990.  The dry inoculant is produced  from a  proprietary  formula
+owned by the  Company  and  developed  by Larry R. Inman and Walter L. Jay.  See
+"Executive  Officers of the  Registrant."  The Company also markets an inoculant
+designed specifically for composting.
+
+
+
+
+
+
+
+
+
+
+
+
+                                       5
+<PAGE>
+Market Size
+-----------
+
+     The market  for  Ag-Bag(R)  machinery  and  Ag-Bag  Tri-Dura(R)  recyclable
+storage  bags is primarily  in the dairy and beef cattle  industries.  Silage is
+used most often as dairy and beef animal  feed.  It is also used by farmers to a
+lesser extent to feed hogs and sheep.  In 1999, over  249,350,000  tons of corn,
+alfalfa,  and sorghum silage were made by United States farmers according to the
+AG IQ Handbook  XIII  published in 2000 by Agricom,  Inc.  (the "AG  Handbook").
+Based  on  AG  Handbook  statistics,   the  Company  estimates  that  there  are
+approximately  140,000  dairy,  beef,  hog, and sheep farms in the United States
+that are  potential  customers  for Ag-Bag(R)  farm  equipment  and  Tri-Dura(R)
+storage bags; and that only about 7-10% of this group are actually using storage
+bags made by the Company and its  competitors.  It further  estimates that about
+55-60% of the bagging industry  customers  purchase silage storage bags from the
+Company.  In  addition  to the  U.S.,  the  Company  believes  there  is a large
+population of such farms in Canada,  Latin America,  Western and Central Europe,
+Australia,  New Zealand,  Asia,  the  Caribbean,  and England  where the Company
+currently  sells and  distributes  its products,  and there is a large potential
+market in other countries into which the Company may expand.
+
+     The  Company  also  markets a system for  "in-vessel"  composting  which is
+designed to  eliminate  odors and control  leachate  inherent  with  composting.
+Composting is an alternative for disposing of or eliminating the large number of
+organics  from  landfills.  The Company's  primary  focus is currently  directed
+towards  municipalities,  private  composters,  military  bases,  zoos  and  the
+Company's dairy and beef customers.  The Company currently estimates the size of
+the compost  market  within  North  America to be over $1 billion a year.  Until
+further  marketing  efforts are made outside North  America,  the Company cannot
+estimate  with any  certainty  the foreign  market  size.  However,  the Company
+believes that there is a large potential market in other countries into which it
+may expand.  No assurance can be given that the  "in-vessel"  composting  system
+will be accepted in either the domestic or foreign marketplace.
+
+
+Marketing
+---------
+
+     The Company markets its Ag-Bag(R) farm equipment, Tri-Dura(R) storage bags,
+Ag-Bag  Plus!(R)  and other  inoculants  primarily  through a network  of United
+States, Canadian, and international dealers. As of December 31, 2000, there were
+68  dealers  serviced  by a  combined  total  of  26  regional  and  territorial
+Company-employed  managers and sales support  coordinators.  Most of the dealers
+market the entire Ag-Bag(R) line of farm equipment and products;  however,  some
+dealers  sell  only  the farm  equipment  and  others  sell  only the  Ag-Bag(R)
+inoculants. The Company also sells farm equipment, Tri-Dura(R) storage bags, and
+inoculant directly to large customers in states where there are no nearby Ag-Bag
+dealers.
+
+     The Company  offers  customers the  opportunity  to finance the purchase of
+Ag-Bag(R)  farm  equipment   through   unaffiliated   third  parties  who  offer
+lease-purchase financing.
+
+     The Company rents Ag-Bag(R)  bagging machines to farmers in several western
+states.  The rental  charge is based on the number of bags  purchased and filled
+with forage. The Company also sells Tri-Dura(R)  storage bags in bulk to several
+custom farming  operations in the state of California that own Ag-Bag(R) bagging
+equipment. These operators place their private labels on the bags and bag forage
+for customers on a fee-per-bag basis.
+
+     Prior to December 31, 1997, the Company  offered a custom  bagging  service
+through its subsidiary Ag-Bag Europe PLC in the United Kingdom. The Company sold
+its subsidiary that had not been performing at a profitable level due to the BSE
+(Mad Cow) problem within the British farming industry on December 31, 1997.
+
+
+
+
+
+                                       6
+<PAGE>
+     The Company markets its composting  system through a sublicense that allows
+the end user to use the  Ag-Bag(R)  compost  technology.  The  Company  plans to
+establish a composting  dealer  network and develop a regional  and  territorial
+sales force that will have expertise in  composting.  The timing for these plans
+will depend on the pace of market acceptance of the Company's composting system.
+
+     The Company is not dependent on any single customer or a few customers. The
+loss of any  single  customer  would not have a material  adverse  effect on the
+Company's financial condition or results of operations.
+
+
+Assembly and Manufacturing
+--------------------------
+
+     Ag-Bag(R) Farm  Equipment.  The Company buys some of its components for its
+bagging  machines  from  various   manufacturers,   manufactures  the  remaining
+components,  and  assembles  the  machines  itself.  The medium and large  sized
+machines, composting machines, HYPAC (cable-less) machines, Square Bale Baggers,
+and Flex-a-Tubers(R) are all assembled at the Company's headquarters facility in
+Warrenton,  Oregon.  The smaller  machines are assembled at the Company's Blair,
+Nebraska  plant.  The Company has licensed its German dealer to manufacture  the
+mid-sized bagging machines for distribution within Europe.
+
+     The Company  assembles  all of its machines in order to better  control the
+quality of the farm  equipment.  This method  also  permits the Company to offer
+customized  assembly for the end user of its equipment.  The Company can acquire
+and install name brand manufactured components specified by the customer in lieu
+of those ordinarily installed by the Company.
+
+     Ag-Bag Tri-Dura(R)  Storage Bags. All of the three-ply  Tri-Dura(R) storage
+bags are  manufactured  for the Company by a single  manufacturer.  The bags are
+manufactured  to the Company's  specifications  using a stabilizer that protects
+the  plastic  from  becoming  brittle  due to  exposure to weather and the sun's
+ultraviolet  light  rays.  The  Tri-Dura(R)  plastic  bags are  made in  various
+diameters based on bag orders  received by the Company.  The bags are shipped in
+roll form to the Company's plant in Blair,  Nebraska,  where they are folded and
+packaged for shipment.
+
+     Ag-Bag(R) Inoculants.  The liquid and compost inoculant is purchased by the
+Company on the open  market.  The Company  believes  that the liquid and compost
+inoculant  will be reasonably  available for purchase on the open market for the
+foreseeable  future.  The dry inoculant is produced by the Company at the Blair,
+Nebraska  plant  pursuant  to a  proprietary  formula  owned by the  Company and
+developed  by Larry R. Inman and Walter L. Jay. See  "Executive  Officers of the
+Registrant."
+
+
+Principal Suppliers and Manufacturers
+-------------------------------------
+
+         The Company  purchases  its  Tri-Dura(R)  rolls from a company owned by
+Steven G. Ross ("Supplier") pursuant to a supply agreement.  Steven G. Ross is a
+14.9%  stockholder in the Company and owner of a company which competes with the
+Company's  Tri-Dura(R)  bags.  The supply  agreement  provides  that the Company
+purchase  all of its plastic  rolls,  with  certain  exceptions,  from  Supplier
+through at least December 31, 2007.  Thereafter,  either the Company or Supplier
+may terminate the Supply  Agreement  upon two years' prior written  notice.  The
+Company may purchase  plastic rolls from other  suppliers to the extent Supplier
+is unable to supply plastic rolls under the Supply Agreement.  The Company has a
+good relationship with Supplier,  and there are alternative  suppliers available
+in the event Supplier is unable to provide rolls.
+
+     The structural  components of the Company's farm equipment are manufactured
+in Oregon,  Nebraska and Iowa by several  manufacturing  companies.  The Company
+believes that alternative sources of supply are readily available at competitive
+prices if the present sources of supply should become  unavailable.  The
+
+                                       7
+<PAGE>
+Company  is not aware of any raw  materials  shortages  or  problems  with these
+suppliers that would adversely affect the Company's operations.
+
+     The Company mixes the dry  inoculant at its Blair,  Nebraska  facility.  It
+purchases the ingredients for the dry inoculant from a variety of suppliers. The
+Company  purchases the liquid and compost  inoculant from a supplier,  who mixes
+the inoculants to the Company's  specifications.  The Company believes there are
+various other alternative sources of supply.
+
+
+Competition
+-----------
+
+     As the Company's  corporate  slogan,  the  "Complete  One," indicates,  the
+Company is the industry  leader in the  manufacture  and sale of complete sealed
+feed farm bagging systems. Ag-Bag is the only company that manufactures the full
+line of equipment,  bags, and other accessories for sealed feed farm management.
+There are two  competitors  within the United  States that  manufacture  similar
+silage bagging machines. There are also a number of competitors that manufacture
+bale wrapping machines,  which compete with the Company's  Flex-a-Tuber(R).  The
+Company  distinguishes  itself in the market  place from other  manufactures  by
+providing  a top quality  product,  better  warranty  protection,  and  customer
+service.
+
+     The bag  market is highly  competitive.  The  Company  competes  in the bag
+market by  providing  what the  Company  believes  to be a superior  product and
+better warranty protection at a competitive price. The Company is also offering,
+through  central pickup  locations in selected  geographic  areas of the U.S., a
+recycling service for used Ag-Bag Tri-Dura(R) bags.
+
+     The Company also competes with companies constructing bunkers and pits and,
+to a lesser extent,  silos.  These competitors are mostly smaller companies that
+build the  bunkers  and pits for the  farmer,  which the farmer  then fills with
+forage using  available or rented farm  equipment  otherwise used in the farming
+operation.  While these methods do not require bags or special equipment to fill
+the  bags,  the  use of  these  alternatives  involves  a  significant  loss  of
+flexibility  in storing  and  harvesting  the feed and an  overall  loss of feed
+quality.  Flexibility is lost since  structures  must be permanently  placed and
+significant capital  requirements are necessary to expand them. The feed quality
+is inferior because of the amount of oxygen remaining after the forage is placed
+in the pits or bunkers.
+
+     The  Company  competes  primarily  with wind row  turner  manufacturers  in
+composting. Wind row turners compost by turning and watering static piles weekly
+and require  containment  of odor and leachate.  These turners are comparable in
+price to the Company's  compost  machines.  However,  the  Company's  composting
+systems  offer the  advantage of being  self-contained,  thus  reducing odor and
+requiring no turning or watering.  There are  approximately  50 manufacturers of
+turners. In addition to the wind row turner manufacturers,  the Company competes
+with several companies that manufacture "in-vessel" systems, such as burners and
+incinerators for large projects, which generally cost from $1 to $15 million.
+
+     In addition to the current competition,  national competitors may emerge if
+the bagging  equipment and storage bag markets continue to grow. These potential
+competitors  include  large  farm  equipment  manufacturers  and large  chemical
+companies who might decide to manufacture and sell the storage bags.
+
+     The  Company  competes  in its product  markets  primarily  on the basis of
+product  quality,  warranty  protection,  and  customer  service.  Some  of  its
+competitors are larger and have greater  financial,  marketing,  technical,  and
+other resources than the Company.
+
+
+
+                                       8
+<PAGE>
+Backlog
+-------
+
+     In 2001,  backlog  orders were 16.7% lower than 2000.  The dollar amount of
+backlog  orders of the Company that are believed to be firm as of March 1, 2001,
+was approximately $3,250,000,  compared to $3,900,000 on March 1, 2000. Backlog,
+however,  may not be a  meaningful  indicator of future  sales.  This backlog is
+seasonal and is reasonably expected to be filled within the current fiscal year.
+
+
+Research and Development
+------------------------
+
+     During 2000, the Company focused  research and development  expenditures on
+new silage and compost machine development.  The Company also completed research
+on various projects  undertaken  regarding new silage and nutritional studies of
+bagged feed and their effects on animal production during the year.
+
+
+Environmental Matters
+---------------------
+
+     Compliance with federal,  state and local laws and  regulations  regulating
+the discharge of materials into the  environment,  or otherwise  relating to the
+protection of the environment, had no material effect upon capital expenditures,
+earnings, or competitive positions of the Company during the year ended December
+31, 2000.
+
+
+Patents and Trademarks
+----------------------
+
+     The Company  has basic and  improvement  patents in the U.S.,  as well as a
+number of patents pending, that encompass machines,  bags and systems for silage
+bagging, grain bagging, and hay/straw bale bagging.  Corresponding  applications
+have or will be filed in selected foreign  countries.  In addition,  proprietary
+rights in the bagging of compost  have been and are being  developed  in the U.S
+and in selected foreign countries.
+
+     The Company's  patents on its basic  bagging  machine have been found to be
+valid and have been  successfully  defended  in prior  litigation.  The  Company
+believes  that it has  developed  its  position in the  industry  partially as a
+result of  protection  provided  by these  patents.  The  Company  also owns the
+proprietary  formula for making the dry inoculant  marketed under the trade name
+Ag-Bag  Plus!(R),  which was developed by Larry R. Inman and Walter L. Jay. (See
+"Executive Officers of the Registrant" and "Item 3. Legal Proceedings.")
+
+     The  names  Ag-Bag(R),  Ag-Bag  Plus!(R),   Bale-Bag(R),   Flex-a-Tuber(R),
+Flex-a-Tube(R),  ABCTI System(R),  Mighty Bite(R),  Tri-Dura(R),  and the symbol
+"AB"(R) are all  registered  as  trademarks  with the United  States  Patent and
+Trademark Office.
+
+     The Company believes that its color scheme and trademarks are well known in
+the  industry,  are an important  part of its  business,  and give the Company a
+competitive advantage.
+
+Employees
+---------
+
+     On December 31, 2000, the Company had 101 full-time employees.  The Company
+employs  approximately 170 people during its busy season.  None of the Company's
+employees are represented by a union, and the Company believes that its employee
+relations are good.
+
+                                       9
+<PAGE>
+Financial Information Relating to Foreign and Domestic Operations and Export
+----------------------------------------------------------------------------
+Sales
+-----
+                                               (In thousands)
+                                           Year Ended December 31
+                                           ----------------------
+
+                                       1998          1999         2000
+                                       ----          ----         ----
+
+Sales to unaffiliated customers:
+         United States                 $23,795      $29,878      $29,421
+         Canada                          2,030        1,889        1,280
+         Germany                         1,113          495(1)       441(1)
+         Latin America/Mexico              478          260          195
+         Other foreign countries           285          161          109
+                                       -------      -------      -------
+                                       $27,701      $32,683      $31,446
+
+Sales to affiliated customers:
+         Officers and Directors              9            4            5
+                                       -------      -------      -------
+Total                                  $27,710      $32,687      $31,451
+                                       =======      =======      =======
+
+ (1)Beginning in 1999, the Company licensed its German dealer to manufacture the
+mid-sized bagging machines for distribution within Europe.
+
+Substantially  all the  Company's  assets  are  located  in the  United  States.
+Reference is also made to the Selected Financial Data at Item 6.
+
+
+Item 2.  Properties
+-------------------
+
+     In early 1990, the Company began  occupying its 30,000 square foot facility
+located in Warrenton, Oregon. This facility serves as a warehouse and houses the
+major  portion of its silage  bagging  equipment  manufacturing.  The  Company's
+administrative  offices are also located  there.  Management  estimates that the
+manufacturing  at the  Warrenton  plant is  currently  at  approximately  65% of
+capacity.  The Company  occupies the land  pursuant to a lease which  expires in
+2015.
+
+     The Company owns facilities in Blair,  Nebraska,  where the Company;  folds
+and  packages  its  Tri-Dura(R)  feed  storage  bags;  prepares and packages its
+proprietary   inoculant;   and,  assembles  its  smaller  bagging  machines  and
+warehouses  products.  During 1996, the Company began  consolidating  its Blair,
+Nebraska,  operations into a newly constructed  facility which consists of three
+buildings  comprising   approximately  70,000  square  feet.   Construction  was
+completed on all  facilities and the Company fully occupied its new buildings in
+early 1997.  Management  estimates that  manufacturing  at the Blair facility is
+currently at approximately 75% of capacity.
+
+
+Item 3.  Legal Proceedings
+--------------------------
+
+     The Company is one of three  defendants named in two purported class action
+lawsuits,  S&S Forage & Equipment Co., Inc. v. Up North Plastics,  et al., filed
+February 5, 1998, and Mr. and Mrs. Donald L. Steward v. Up North Plastics,  Inc.
+et al.,  filed  September 29, 1999,  both alleging  conspiracy to fix prices and
+sales quotas  involving  silage bag  manufacturers  and vendors.  Both cases are
+pending  before the U.S.  District  Court for the District of  Minnesota.  Class
+certification  has been  denied  in the S&S  Forage  case and no class  has been
+certified in the Steward case.  The  plaintiffs and the defendants are currently
+in settlement  negotiations on both the S&S Forage and Steward cases to have the
+cases  dismissed and bring the proceedings to a close. If the plaintiffs were to
+obtain a judgment against the three companies, the Company could be held jointly
+and severally liable.  The Company believes that the plaintiffs'  claims have no
+merit, and the Company is vigorously  defending itself against these claims. The
+Company  believes  that the outcome of the  litigation  will not have a material
+adverse  impact on its  financial  condition  or  results  of  operations.  (See
+"Factors Affecting Forward-Looking Statements.")
+                                       10
+<PAGE>
+     The  Company  is one of  three  defendants  named  in a  counterclaim  to a
+purported product warranty  lawsuit,  Andrew Magyar and Leslie Magyar v. Alberta
+Ag-Bag Ltd., Ag-Bag  International  Ltd., and Jim Rakai, filed January 21, 2000.
+The  plaintiffs  in  the  counterclaim   allege  breach  of  product   warranty,
+merchantability  and fitness for the  particular  purpose  relating to a bagging
+machine  purchased by the  plaintiffs  and seek monetary  damages.  This case is
+pending  before the Court of  Queen's  Bench of  Alberta,  Canada.  The  Company
+believes that the claims alleged by the plaintiffs have no merit and the Company
+is vigorously  defending itself against these claims.  The Company believes that
+the outcome of the  litigation  will not have a material  adverse  impact on its
+financial   condition  or  results  of  operations.   (See  "Factors   Affecting
+Forward-Looking Statements.")
+
+     The  Company  is one of three  defendants  named in a  purported  breach of
+contract and product  warranty  lawsuit,  Kevin Sustrik v. Alberta  Ag-Bag Ltd.,
+Ag-Bag  International  Ltd.,  and Jim Rakai,  filed June 7, 2000.  The plaintiff
+alleges breach of contract and breach of product warranty  relating to a bagging
+machine  purchased by the  plaintiff  and seek  monetary  damages.  This case is
+pending  before the Court of  Queen's  Bench of  Alberta,  Canada.  The  Company
+believes  that the  plaintiff's  allegations  have no merit and the  Company  is
+vigorously  defending itself against these claims. The Company believes that the
+outcome  of the  litigation  will  not have a  material  adverse  impact  on its
+financial   condition  or  results  of  operations.   (See  "Factors   Affecting
+Forward-Looking Statements.")
+
+     The Company is a defendant in an alleged patent infringement lawsuit, Versa
+Corporation v. Ag-Bag  International  Ltd., filed October 30, 2000 in the United
+States  District  Court for the  District of Oregon.  The claim  alleges  patent
+infringement upon Versa's U.S. Patent No. 5,799,472 relating to a bag pan for an
+agricultural feed bagging machine and seeks monetary damages. The case is in the
+early discovery phase. The Company denies Versa's  allegations and is vigorously
+defending itself against the claim. The Company believes that the outcome of the
+litigation will not have a material adverse impact on its financial condition or
+results of operations. (See "Factors Affecting Forward-Looking Statements.")
+
+
+Item 4.  Submission of Matters to a Vote of Security Holders
+------------------------------------------------------------
+
+     During the fourth  quarter of 2000, no matters were  submitted to a vote of
+security holders.
+
+Executive Officers of the Registrant
+------------------------------------
+
+     The executive officers of the Company, their respective ages as of March 6,
+2001,  business  experience,  and the period for which they have  served are set
+forth  below.  The  executive  officers  are  elected  annually  by the Board of
+Directors at its meeting following the annual meeting of stockholders.  Officers
+serve at the discretion of the Board of Directors.
+
+<TABLE>
+<CAPTION>
+
+      NAME            AGE                             POSITION
+      ----            ---                             --------
+
+
+<S>                   <C>      <C>
+Larry R. Inman        50       Chief  Executive  Officer  (since  1990);   President  of  the
+                               Company  (since  1993);  Chairman  of the  Board  (1990-2000);
+                               President  of  Ag-Bag  Corporation  (1984-1989)  and  Chairman
+                               (1989-1994) of Ag-Bag Corporation (former subsidiary).
+
+Michael R. Wallis     36       Chief  Financial  Officer  (since 1993) and Vice  President of
+                               Finance  (since  1992),   Treasurer  (since  1996);   Manager,
+                               Yergen and Meyer (regional accounting firm, 1986-1992).
+                                       11
+<PAGE>
+Arthur P. Schuette    61       Vice President,  Sales (since 1991);  Treasurer of the Company
+                               (1990-1991)  and Treasurer  (1983-1991) of Ag-Bag  Corporation
+                               (former subsidiary).
+
+Lou Ann Tucker        47       Secretary   (since  1996),   Vice  President,   Administration
+                               (1989-1999),  and Treasurer  (1991-1996);  Executive Treasurer
+                               (1988-1994) of Ag-Bag Corporation (former   subsidiary);
+                               co-owner of LGJ Livestock,  Astoria,  Oregon (horse and cattle
+                               ranch, since 1980).
+
+Walter L. Jay         40       Vice President, Manufacturing (since 1989);
+                               Manager of Blair, Nebraska Plant (since 1980);
+                               KW Trucking (1984-1987).
+</TABLE>
+
+                                     PART II
+
+
+Item 5.  Market for Registrant's Common Equity and Related Stockholder Matters
+------------------------------------------------------------------------------
+
+         The Company's  Common Stock began trading publicly on January 17, 1990,
+and was  approved for  quotation  on Nasdaq on April 24, 1990,  under the symbol
+"AGBG." In 1997, the Nasdaq listing  requirements were  substantially  expanded.
+The Company does not  currently  qualify under the more  stringent  requirements
+because the price at which its Common Stock is trading is below the $1 per share
+minimum.  The Company was formally  notified on January 13, 1999 that its Common
+Stock was delisted from quotation on the Nasdaq  SmallCap  Market for failure to
+meet the new listing  requirements.  The Company's Common Stock is now quoted on
+the OTC Bulletin Board.
+
+     As of March 6, 2001, there were  approximately 325 holders of record of the
+Company's  Common Stock.  The Company  estimates there are  approximately  2,100
+beneficial holders of the Company's Common Stock. The following table sets forth
+the  range of high and low bid  prices  of the  Company's  Common  Stock for the
+quarters  indicated  through  the fourth  quarter of 2000 as reported on the OTC
+Bulletin Board:
+
+Calendar Year                  High Bid           Low Bid
+-------------                  --------           -------
+
+1999:
+
+First quarter                      $.50             $.344
+Second quarter                    $.422             $.328
+Third quarter                     $.391             $.359
+Fourth quarter                    $.438             $.359
+
+
+2000:
+
+First quarter                     $.813             $.375
+Second quarter                    $.594             $.375
+Third quarter                      $.50             $.328
+Fourth quarter                    $.375             $.313
+
+----------
+
+The quotations reflect inter-dealer prices,  without retail markups,  markdowns,
+or commissions and do not necessarily represent actual transactions.
+
+                                       12
+<PAGE>
+Dividends
+---------
+
+     The  Company  has not paid any  dividends  on its  Common  Stock  since its
+inception,  and the Board of Directors  does not  anticipate  declaring any cash
+dividends on its Common Stock in the foreseeable  future.  The Company currently
+intends to  utilize  any  earnings  in its  business.  The  Company  may not pay
+dividends on Common Stock pursuant to certain loan agreements, or while it is in
+arrears in dividends on its preferred stock.
+
+Unregistered Securities
+-----------------------
+<TABLE>
+<CAPTION>
+      The  following  unregistered  securities  have been  issued by the Company
+during the year ended December 31, 2000:
+--------------------------------------------------------------------------------
+
+                   Title and Amount of   Name of Principal
+                      Securities           Underwriter/       Name or Class of
+                 Granted/Exercise Price     Underwriting        Persons who
+                     if Applicable         Discounts or     Received Securities Consideration
+ Date of Grant                              Commissions                          Received
+--------------- ------------------------ ----------------- -------------------- -------------
+<S>               <C>                    <C>               <C>                     <C>
+ June 5, 2000     50,000 Options for            N/A            Nonemployee           $0
+                  Common Stock/$.385                            Directors
+                    per share 1
+--------------- ------------------------ ----------------- -------------------- -------------
+</TABLE>
+
+     The above unregistered  securities were granted in reliance on an exemption
+from the  registration  requirements  of the  Securities Act of 1933, as amended
+("Act")  under  Section 4(2) of the Act and/or under the "bonus  stock/no  sale"
+interpretive position of the Securities and Exchange Commission.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------
+1 Granted under Nonemployee  Director Stock Option Plan.  Options vest according
+to terms of plan.
+                                       13
+<PAGE>
+Item 6.  Selected Financial Data
+--------------------------------
+
+     The  following  table sets forth  financial  data  derived from the audited
+financial statements of the Company for the years ended December 31, 1996, 1997,
+1998, 1999 and 2000. This selected  financial data should be read in conjunction
+with the audited  financial  statements  of the  Company  and the related  notes
+thereto and with  "Management's  Discussion and Analysis of Financial  Condition
+and Results of Operations" included elsewhere in this report on Form 10-K.
+<TABLE>
+<CAPTION>
+
+                                                                  (In thousands, except per share data)
+                                                                       Year Ended December 31,
+                                                                       -----------------------
+
+                                                1996            1997            1998         1999          2000
+                                                ----            ----            ----         ----          ----
+<S>                                             <C>             <C>             <C>          <C>           <C>
+Statement of Operations Data:
+
+Net Sales                                       $ 22,985       $ 20,293      $ 27,710      $ 32,687       $ 31,451
+Cost of Sales                                     17,791         18,493        20,800        25,085         24,800
+                                                --------       --------      --------      --------       --------
+Gross Profit from Operations                       5,194          1,800         6,910         7,602          6,651
+
+Selling and Administrative Expenses                4,739          5,035         5,470         6,273          5,878
+Research and Development Expenses                     59             87           150           324            136
+Unusual Charge                                                      980
+                                                --------       --------      --------      --------       --------
+
+Income (Loss) from Operations                        396         (4,302)        1,290         1,005            637
+Other Income (Expense)                               174           (290)          (64)          (30)          (123)
+                                                --------       --------      --------      --------       --------
+
+
+Income (Loss) before Provision for
+  Income Taxes, and Discontinued Operations          570         (4,592)        1,226           975            514
+
+Provision (Benefit) for Income Taxes                 257         (1,650)          422           327             (8)
+                                                --------       --------      --------      --------       --------
+Income (Loss) before Discontinued
+  Operations                                         313         (2,942)          804           648            522
+Discontinued Operations-income (loss)
+ from operations                                      50           (449)
+Discontinued Operations-loss on disposal of
+  Ag-Bag Europe, PLC (less income tax benefit of
+   $24,500)                                                        (424)
+                                                --------       --------      --------      --------       --------
+
+Net Income (Loss)                               $    363       $ (3,815)     $    804      $    648       $    522
+                                                ========       ========      ========      ========       ========
+
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       14
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                                  (In thousands, except per share data)
+                                                                       Year Ended December 31,
+                                                                       -----------------------
+
+                                                1996            1997            1998         1999          2000
+                                                ----            ----            ----         ----          ----
+<S>                                             <C>             <C>             <C>          <C>           <C>
+Basic Earnings per Share:
+  Income (Loss) before Discontinued
+    Operations                                  $   0.03        $   (.24)       $    .06     $    .05      $    .04
+  Discontinued Operations                                           (.08)
+                                                --------        --------        --------     --------      --------
+
+                                                $   0.03        $   (.32)       $    .06     $    .05      $    .04
+                                                ========        ========        ========     ========      ========
+Diluted Earnings per Share:
+  Income (Loss) before Discontinued
+   Operations                                   $   0.03        $   (.24)       $    .06     $    .05      $    .04
+  Discontinued Operations                                           (.08)
+                                                --------        --------        --------     --------      --------
+                                                $   0.03        $   (.32)       $    .06     $    .05      $    .04
+                                                ========        ========        ========     ========      ========
+
+
+Weighted Average Shares:
+  Basic                                           12,096          12,056          12,062       12,062       12,062
+                                                ========        ========        ========     ========      ========
+  Diluted                                         12,096          12,056          12,062       12,062       12,062
+                                                ========        ========        ========     ========      ========
+
+Balance Sheet Data:
+                                                                            December 31,
+                                                1996            1997            1998         1999          2000
+                                                ----            ----            ----         ----          ----
+
+Working Capital                                 $  6,090        $  5,681        $  6,818     $  7,155      $ 7,387
+
+Current Assets1                                    8,746           9,889           9,391        9,983       10,758
+
+Total Assets1                                     16,903          15,190          13,820       14,575       15,727
+
+Current Liabilities2                               2,656           4,208           2,573        2,827        3,371
+
+Long-term Debt2                                    2,061           2,690           2,210        2,121        2,266
+
+Total Stockholders' Equity3                       12,186           8,292           9,037        9,627       10,090
+
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+--------
+
+1 Includes deferred taxes.
+2 Includes loans from shareholders and deferred taxes.
+3 Includes $696 of preferred stock.
+
+                                       15
+<PAGE>
+Item 7.  Management's Discussion and Analysis of Financial Condition and Results
+--------------------------------------------------------------------------------
+of Operations
+-------------
+
+Results of Operations
+---------------------
+
+      The  following  table sets forth for the periods  indicated  certain items
+reflected in the Company's statements of operations as a percentage of revenue:
+
+                                            Percentage of Total Revenue
+                                            ---------------------------
+                                              Year Ended December 31,
+                                              -----------------------
+
+                                  1996      1997      1998      1999      2000
+                                  ----      ----      ----      ----      ----
+
+Net Sales                          100%      100%      100%      100%      100%
+
+Costs and Expenses:
+  Cost of Sales                     77%       91%       75%       77%       79%
+  Selling and Administration        21%       25%       20%       19%       19%
+  Research and Development         ---       ---       ---         1%       --
+  Unusual Charge                   ---         5%      ---       ---        --
+
+Income (Loss) From Operations        2%      (21%)       5%        3%        2%
+                                   ----      ----      ----      ----      ----
+
+
+Years Ended December 31, 2000 and 1999
+--------------------------------------
+
+         For the year ended  December 31,  2000,  net sales  decreased  3.78% to
+$31,451,150  compared to $32,686,832 for the year ended December 31, 1999. Sales
+for the year  were  down as a result of record  low U.S.  milk  prices,  despite
+supplemental  grain feed costs  remaining low, which helped farmers  continue to
+have farm operating funds available. Additionally, competition in the silage bag
+and  machine  market has  continued  to  increase  as  farmers  look to the most
+economic bag or machine,  not considering overall quality,  customer service and
+recycling of the used plastic  offered by the  Company.  Additionally,  with the
+tightening of credit by financial  institutions  (especially in the U.S. farming
+sector)  coupled  with the rising  interest  rates of 2000,  farmers have become
+cautions on  purchases  of farm  machinery  and  equipment  until there is clear
+upward movement in U.S. milk prices.
+
+         Machine  sales  for the year were  down  7.87% and bag sales  were down
+1.10% compared to 1999.  Machine sales are directly tied to farmers'  income and
+therefore  their ability to purchase new equipment.  The Company's bag and parts
+sales are  driven  by the  total  number  of  bagging  machines  that are in the
+marketplace.  However,  there is not a perfect correlation between the Company's
+bag  sales  and  machine  sales,  as the  Company's  and  competitors'  bags are
+interchangeable  on all bagging  machinery in the industry.  The Company  cannot
+estimate  with any  certainty  the total  number of machines or bags used in the
+industry.  In addition to compost bag sales, the Company sold twelve  composting
+systems during the year ended December 31, 2000 (generating  approximately  $1.2
+million in revenue)  compared to five systems  sold for the year ended  December
+31, 1999 (generating approximately $380,000 in revenue).
+
+         Although the Company  sells its product  primarily  through a worldwide
+dealer network, certain sales are made directly to large volume customers when a
+dealer is not present in the customer's  geographic market. For each of the last
+three  years,  the Company  estimates  direct  sales at between  32-37% of total
+sales.  The Company expects its sales mix to begin to favor more direct sales in
+the future, especially if the Company decides to offer e-commerce as a method of
+ordering the Company's products.  The Company is currently evaluating whether it
+will sell via  e-commerce.  The gross margin  realized on the  Company's  direct
+sales are  typically  within 2-3  percent of those  sales  realized  through
+
+                                       16
+<PAGE>
+the Company's  dealer  network.  However,  various  economic,  volume and market
+factors in the geographic area impact the ultimate margin.
+
+         International  sales for the Company in 2000 were down in comparison to
+1999 due to continued  poor  economic  conditions  in the Latin  American/Mexico
+market.  In 1999,  the  Company's  German dealer began  manufacturing  mid-sized
+bagging  machines in Germany  under a license from the Company.  Therefore,  the
+Company no longer  sells  mid-sized  machines  directly  to its  German  dealer.
+Instead,  the Company receives a royalty fee for each mid-sized  machine sold by
+its German  dealer,  which is recorded  as other  income.  In 1997,  the Company
+formed a German  joint  venture in which the Company owns a 50% interest and its
+German dealer owns the remaining 50%. The joint venture  distributes bags to the
+Company's  German and European  dealers.  The Company's  earnings from the joint
+venture are  reported  as other  income and are  accounted  for using the equity
+method.  Approximately  $2.3 million in bag sales were  distributed  through the
+venture during 2000, an increase of 35%, compared to approximately  $1.7 million
+in bag sales for 1999.
+
+         Gross profit as a percentage of sales declined 2.11% for the year ended
+December 31, 2000 compared to the same period in 1999. The decline resulted from
+lower  margins on bags in certain  highly  competitive,  high volume  geographic
+areas.  The decline was also the result of lower overall margins on machinery as
+a result  of  machine  competition  (particularly  in the  larger-sized  bagging
+machines) in certain areas of the U.S.,  coupled with the mix of machine  models
+sold during the year. (See "Item 1. Business - Farm Equipment and Products.")
+
+         Selling  expenses for the year ended December 31, 2000 decreased  6.85%
+to $3,329,880  compared to $3,574,830  for the year ended December 31, 1999. The
+decrease  for the year was the  result of lower  sales  commissions  and  volume
+discounts due to lower sales for the year,  partially offset by increased travel
+and advertising and promotional expenses.
+
+         Administrative  expenses for the year ended December 31, 2000 decreased
+5.57% to $2,548,446 compared to $2,698,658 for the year ended December 31, 1999.
+The  decrease  for  the  year  was the  result  of  lower  overall  general  and
+administrative  operating  overheads  and  professional  fees related to ongoing
+litigation which were offset by increases in insurance expense, employee benefit
+costs and higher directors' fees.
+
+         Research and development  expenses for the year ended December 31, 2000
+decreased  57.97% to $136,186  compared to $323,997 for the year ended  December
+31, 1999.  The  decrease  for the year was the result of  completed  research on
+various  projects  undertaken  regarding new silage and  nutritional  studies of
+bagged feed and their effects on animal  production.  The Company  continues its
+ongoing research related to new silage and compost machine development.
+
+         Interest  expense for the year ended December 31, 2000 increased 36.91%
+to $456,158 in comparison to $333,170 for the year ended  December 31, 1999. The
+increase for the year was the result of the Company  utilizing a larger  portion
+of its credit  facilities  during seasonal  production  periods to meet seasonal
+inventory  demands,  coupled with higher  interest  rates and some extended term
+sales offered during the year to remain competitive.
+
+         The Company's  effective tax rate for the year ended  December 31, 2000
+was (1%).  This was primarily due to the recognition of research and development
+credits.  In 2000,  the  Company  underwent  a study with a  consulting  firm to
+determine  if costs  associated  with the  Company's  research  and  development
+activities  were eligible for research and  development  tax credits in its open
+tax years. The Company completed the study and filed the necessary forms for its
+1996  through  1999 tax years  during  the year  2000,  generating  net  general
+business tax credit benefits of approximately $270,000. Excluding the benefit of
+the general business tax credits,  the effective income tax rate would have been
+34% for the year ended December 31, 2000.
+
+
+
+                                       17
+<PAGE>
+         Net income for the year ended  December  31, 2000  decreased  19.54% to
+$521,814  compared to $648,571 for the year ended December 31, 1999. The decline
+for the year was the result of lower sales  caused by  continued  low U.S.  milk
+prices,  lower  gross  profit  from  increased  competition  and  product mix of
+machinery  models sold, and higher interest costs incurred,  partially offset by
+lower selling, administrative, research and income tax expense.
+
+
+Years Ended December 31, 1999 and 1998
+--------------------------------------
+
+         For the year ended  December 31, 1999,  net sales  increased  17.96% to
+$32,686,832  compared to $27,710,514 for the year ended December 31, 1998. Sales
+for the year were up as a result of the slightly  higher U.S. BFP (Basic Formula
+Price) for milk during the main  harvest  season  months,  despite the first and
+fourth  quarters sharp decline in BFP. In addition,  continued low  supplemental
+grain feed costs have spurred  farmer's  capital  expenditures for machinery and
+equipment.  The Company believes recent independent university research articles
+published on the benefits of bagging over the use of bunkers and silos have also
+helped to increase sales, as farmers are realizing the benefits of bagging their
+feed instead of storing it in bunkers or silos.
+
+         Machine  sales for the year were up 27.94% and bag sales were up 17.53%
+compared  to 1998.  Machine  sales are  directly  tied to  farmers'  income  and
+therefore  their ability to purchase new equipment.  The Company's bag and parts
+sales are  driven  by the  total  number  of  bagging  machines  that are in the
+marketplace.  However,  there is not a perfect correlation between the Company's
+bag  sales  and  machine  sales,  as the  Company's  and  competitors'  bags are
+interchangeable  on all bagging  machinery in the industry.  The Company  cannot
+estimate  with any  certainty  the total  number of machines or bags used in the
+industry.  In addition to compost bag sales,  the Company  sold five  composting
+systems  during the year  ended  December  31,  1999  (generating  approximately
+$380,000 in revenue)  compared to seven systems sold for the year ended December
+31, 1998 (generating approximately $550,000 in revenue).
+
+         Although the Company  sells its product  primarily  through a worldwide
+dealer network, certain sales are made directly to large volume customers when a
+dealer is not present in the customer's  geographic market. For each of the last
+three years, the Company estimates direct sales at between 30-35% of total sales
+and the Company expects this historical sales mix to continue in the future. The
+gross margin realized on the Company's direct sales are typically within 200-300
+basis  points of those sales  realized  through the  Company's  dealer  network.
+However,  various  economic,  volume and market factors in the  geographic  area
+impact the ultimate margin.
+
+         International  sales for the Company in 1999 were down in comparison to
+1998 due to continued  poor  economic  conditions  in the Latin  American/Mexico
+market.   Additionally,   the  Company's  mid-sized  bagging  machines  are  now
+manufactured in Germany and not sold directly to its German dealer. As a result,
+the  Company  now  receives a royalty  fee for each  machine  produced  which is
+recorded as other income.  In 1997, the Company formed a German joint venture in
+which the Company owns a 50% interest and its German  dealer owns the  remaining
+50%. The joint venture  distributes  bags to the  Company's  German and European
+dealers.  The Company's  equity in earnings of the venture are reported as other
+income.  Approximately  $1.7 million in bag sales were  distributed  through the
+venture during 1999, an increase of 13%, compared to approximately  $1.5 million
+in bag sales for 1998.
+
+         Gross  profit as a  percentage  of sales  declined  for the year  ended
+December 31, 1999 compared to the same period in 1998. The decline resulted from
+lower margins on bags in certain  geographic,  highly  competitive,  high volume
+areas.  The decline was also the result of lower margins on machinery during the
+first and  fourth  quarters  of 1999 which were  offset by  improved  margins on
+machinery resulting from increased  production  efficiencies being realized from
+seasonal  machine  production  ramp-up in the second and third  quarters  of the
+year.
+
+
+
+                                       18
+<PAGE>
+         Selling  expenses for the year ended December 31, 1999 increased 18.15%
+to $3,574,830  compared to $3,025,642  for the year ended December 31, 1998. The
+increase  for the  year was the  result  of  increased  sales  personnel  costs,
+commissions and related benefits and volume discounts  resulting from the higher
+sales volumes.
+
+         Administrative  expenses for the year ended December 31, 1999 increased
+10.42% to  $2,698,658  compared to  $2,444,060  for the year ended  December 31,
+1998.  The  increase  for the year  was the  result  of  increased  general  and
+administrative   operating  overheads  coupled  with  higher  professional  fees
+relating to ongoing litigation.
+
+         Research and development  expenses for the year ended December 31, 1999
+increased  115.91% to $323,997  compared to $150,058 for the year ended December
+31, 1998.  The increase for the year was the result of increased  research costs
+related to new silage and compost machine  development,  coupled with new silage
+and nutritional studies of bagged feed and their effects on animal production.
+
+          Interest expense for the year ended December 31, 1999 decreased 23.90%
+to $333,170  compared to $437,803  for the year ended  December  31,  1998.  The
+decrease for the year was the result of the Company  utilizing a smaller portion
+of its credit facilities due to accelerated collections of accounts receivable.
+
+         Net income for the year ended  December  31, 1999  decreased  19.37% to
+$648,571 compared to $804,399 for the year ended December 31, 1998. The decrease
+for the year was the result of lower bag margins in certain  high  volume  areas
+coupled with lower  machine  margins  during the first and fourth  quarters.  In
+addition, increased selling, administrative and research expenses contributed to
+the decline for the year, which were partially offset by increased sales volumes
+and lower interest costs.
+
+
+Recent Accounting Pronouncements
+--------------------------------
+
+         Statement of Financial  Accounting Standards (SFAS) 133, Accounting for
+Derivative  Instruments  and  Hedging  Activities,   as  amended  by  SFAS  137,
+Accounting for Derivative  Instruments and Hedging  Activities - Deferral of the
+Effective Date of FASB  Statement No. 133, and SFAS 138,  Accounting for Certain
+Derivative  Instruments  and Certain  Hedging  Activities,  is effective for the
+Company as of July 1,  2000.  SFAS 133  requires  that an entity  recognize  all
+derivatives  as  either  assets  or  liabilities  measured  at fair  value.  The
+accounting  for changes in the fair value of a derivative  depends on the use of
+the derivative. The Company does not believe that adoption of SFAS 133 will have
+a material impact on its financial statement.
+
+         The Securities and Exchange  Commission  (SEC) issued Staff  Accounting
+Bulletin (SAB) 101,  Revenue  Recognition in Financial  Statements,  in December
+1999. The SAB summarizes  certain of the SEC staff's views in applying generally
+accepted accounting  principles to revenue recognition in financial  statements.
+In June 2000, the SEC issued SAB 101B, which delays the  implementation  date of
+SAB 101 until no later than the fourth fiscal quarter of fiscal years  beginning
+after  December 15, 1999. The Company does not believe that adoption of this SAB
+will have a material impact on its financial statements.
+
+         In March 2000, the Financial  Accounting  Standards Board (FASB) issued
+FASB  Interpretation  (FIN) 44,  Accounting for Certain  Transactions  involving
+Stock  Compensation,  which  clarifies  the  application  of APB 25 for  certain
+issues.  The interpretation is effective July 1, 2000, except for the provisions
+that relate to  modifications  that directly or  indirectly  reduce the exercise
+price of an award and the definition of an employee,  which are effective  after
+December 15,1998. The Company does not believe that adoption of FIN 44 will have
+a material impact on its financial statements.
+
+
+
+                                       19
+<PAGE>
+         In June 1997, the Financial  Accounting  Standards  Board (FASB) issued
+Statement  of  Financial   Accounting   Standards  (SFAS)  No.  130,  "Reporting
+Comprehensive  Income", which establishes standards for reporting and display of
+comprehensive income and its components (revenue, expenses, gains and losses) in
+a  full  set  of  general  purpose  financial  statements.   The  company  fully
+implemented SFAS No. 130 during 1998.
+
+         In June 1997, the Financial  Accounting  Standards  Board (FASB) issued
+Statement of Financial  Accounting  Standards (SFAS) No. 131,  "Disclosure about
+Segments of an Enterprise and Related Information", which changes the way public
+companies report information about operating segments.  SFAS No. 131 is based on
+the management approach to segment reporting, establishes requirements to report
+selected segment  information  quarterly and to report  entity-wide  disclosures
+about products and services, major customers and the material countries in which
+the entity holds assets and reports revenue.  The company fully implemented SFAS
+No. 131 during 1998 and determined that it has no reportable segments.
+
+Year 2000
+---------
+
+         The  Company  did  not  experience  any  computer  system  transitional
+problems as a result of the Year 2000 "bug". The year 2000  transitional  issues
+had no material impact on the operations,  cash flows or financial  condition of
+the Company.
+
+Liquidity and Capital Resources
+-------------------------------
+
+         The seasonal nature of the northern  hemisphere  farming industry,  the
+production  time for  equipment  and the time  required to prepare  bags for use
+requires the Company to  manufacture  and carry high  inventories  to meet rapid
+delivery  requirements.  In particular,  the Company must maintain a significant
+level of bags  during  the  spring  and early  summer to meet the sales  demands
+during the harvest season.  The Company uses working capital and trade credit to
+increase its inventory so that it has sufficient  inventory  levels available to
+meet its sales demands through the spring and summer.
+
+         The Company  relies on its  suppliers to provide trade credit to enable
+the  Company to build its  inventory.  The  Company's  suppliers  have  provided
+sufficient trade credit to meet the demand to date and management  believes this
+will continue. No assurance can be given that suppliers will continue to provide
+sufficient trade credit in the future.
+
+         Accounts receivable increased 56.81% at December 31, 2000 to $2,941,379
+compared to $1,875,777  at December 31, 1999.  The increase for the year was the
+result of  collections  slowing due to the  tightening  credit in the U.S.  farm
+sector of the economy,  coupled with the fact the Company  offered some extended
+term sales  during the fourth  quarter to remain  competitive.  The  Company has
+established  adequate  reserves  ($247,690  at  December  31,  2000  compared to
+$147,024 at December 31, 1999)  against  accounts  receivable  in the event that
+some accounts become uncollectable.
+
+         Inventory  increased 3.12% at December 31, 2000 to $7,392,557  compared
+to  $7,168,740  at December 31, 1999.  The increase in inventory  resulted  from
+continued  production  during the latter  part of the third  quarter to maintain
+production  efficiencies on the Company's  smaller bagging  machines and to have
+inventory  available for pre-season flooring and early order programs offered by
+the Company during the fourth quarter. However, with continued tightening credit
+within the U.S. economy during the fourth quarter,  the Company did not move the
+quantity of inventory that it had  anticipated.  To counteract this, the Company
+delayed  production for its 2001 season to reduce its current  inventory levels,
+while fulfilling current demands.
+
+         Intangible assets at December 31, 2000 decreased to $21,506 compared to
+$35,562 at December 31, 1999. The decrease was the result of normal amortization
+expense for the year.
+
+
+                                       20
+<PAGE>
+         The Company has an operating line of credit with a limit of $5,000,000,
+secured  by  accounts  receivable  and  inventory.  As  of  December  31,  2000,
+$1,224,638 had been drawn under the credit line. On January 3, 2000, the Company
+obtained a $500,000 equipment acquisition line of credit for the purchase of new
+business equipment for the year 2000. The equipment line of credit is secured by
+a fixed asset  blanket  lien.  As of December 31, 2000,  $500,000 had been drawn
+under this equipment acquisition line of credit. Management believes that, funds
+generated  from  operations  and the Company's  operating line of credit will be
+sufficient to meet the Company's cash requirements through 2001.
+
+         In 1997, the Nasdaq listing  requirements were substantially  expanded.
+The Company does not  currently  qualify under the more  stringent  requirements
+because the price at which its Common Stock is trading is below the $1 per share
+minimum.  The Company was formally notified on January 13, 1999, that its Common
+Stock was delisted from quotation on the Nasdaq  SmallCap  Market for failure to
+meet the new listing  requirements.  The Company's Common Stock is now quoted on
+the OTC Bulletin Board. The removal from quotation on the Nasdaq SmallCap Market
+could  have  a  material  adverse  effect  on the  Company's  ability  to  raise
+additional  equity  capital  in a  public  stock  offering  should  that  become
+necessary.
+
+         In December of 1998,  the Company  announced  that it retained  Pacific
+Crest  Securities  and Columbia  Financial  Advisors,  Inc. as their  investment
+banking  representatives to explore strategic  alternatives.  As of December 31,
+2000, this engagement was completely terminated.
+
+Factors Affecting Forward-Looking Statements
+--------------------------------------------
+
+You should carefully  consider the following factors  regarding  forward-looking
+statements and other information  included in this Annual Report.  The risks and
+uncertainties  described below are not the only ones we face.  Additional  risks
+and uncertainties not currently known to us or that we currently deem immaterial
+also may impair our business operations.  If any of the following risks actually
+occur,  our  business,  financial  condition  and  operating  results  could  be
+materially adversely affected.
+
+o    We are dependent on the Dairy Industry
+
+         More than 75% of our revenues come from the dairy industry.
+
+o    A downturn in the dairy industry could cause a reduction in our revenues.
+
+         Our sales are highly  correlated  with the price of milk  products  and
+         revenues of the dairy industry. When dairy farmers make money, they buy
+         our  products.  When  dairy  farmers  are not making  money,  our sales
+         decline.
+
+o    Our revenues are seasonal and dependent on weather conditions.
+
+         Our core business is dependent on weather conditions during the harvest
+         seasons in North America and Europe.  Adverse weather conditions affect
+         farmers'  crops  and  reduce  demand  for our  products.  Approximately
+         65%-72% of our revenue is generated in the second and third quarters.
+
+o    We may lose one or both of the two class action lawsuits pending against
+     us.
+
+         Two class action lawsuits,  both alleging  antitrust  violations,  have
+         been  filed  against  us and  others.  If our  efforts  to  dismiss  or
+         favorably  resolve  the  suits  fail,  we could  incur  additional  and
+         significant  litigation  costs and experience a drain on management and
+         other resources.  If the plaintiffs  succeed in establishing  liability
+         and obtain a judgment  for  damages,  the award could exceed our entire
+         net worth.
+
+                                       21
+<PAGE>
+o    We may lose one or both of the two product warranty lawsuits pending
+     against us.
+
+         Two product warranty  lawsuits,  have been filed against us and others.
+         If our efforts to dismiss or favorably resolve the suits fail, we could
+         incur  additional  and  significant  litigation  costs and experience a
+         drain on management and other resources.
+
+o    We may lose the alleged patent infringement lawsuit pending against us.
+
+         An alleged  patent  infringement  lawsuit has been filed against us. If
+         our effort to dismiss or  favorably  resolve the suit  fails,  we could
+         incur  additional  and  significant  litigation  costs and experience a
+         drain on management and other resources.
+
+o    Our intellectual property protection may not be adequate.
+
+         We have patents on our basic bagging  machines and patents  pending for
+         additional machines, bags and systems for silage bagging, grain bagging
+         and  hay/straw  bale  bagging.  We may not obtain these patents and our
+         patents may not withstand litigation challenges.  If our patents do not
+         withstand  litigation  challenges,  our  rights in its bag and  machine
+         technology could be diminished or eliminated. Moreover, the issuance of
+         patents  covering any of our products  may be  insufficient  to prevent
+         competitors  from  duplicating  our products.  The patent laws of other
+         countries  may  differ  from  those  of  the  United  States  as to the
+         patentability  of  our  products  and  processes,  and  the  degree  of
+         protection  afforded by foreign  patents may be different  from that in
+         the United States.
+
+o    We rely on one principal supplier for our bags.
+
+         We purchase  nearly all of our bags from one supplier under a long-term
+         requirements  contract.  Any  disruption of the  manufacturing  process
+         could  affect  that  company's  ability to supply our needs,  and could
+         adversely affect our sales.
+
+o    Our pricing is dependent on the price of resin.
+
+         The prices that we pay for bags, which account for  approximately  half
+         of our  annual  sales,  are  fixed  annually  in  advance  and are tied
+         directly to the price of resin.  Resin  prices have  historically  been
+         subject to significant price volatility. Increases in the price of bags
+         could  adversely  affect  our  profit  margins if we are unable to pass
+         along the price  increase,  and would  likely  affect our  revenues  if
+         alternatives to our product become more attractive because of the price
+         increases.
+
+o    Our stock is quoted on the OTC Bulletin Board, which may make the stock
+     more difficult to sell.
+
+         We no longer satisfy the criteria for continued quotation on The Nasdaq
+         SmallCap  Market.  Our stock is,  instead,  quoted on the OTC  Bulletin
+         Board.  As a result,  our  shareholders  may find it more  difficult to
+         dispose of, or to obtain accurate quotations as to the market value of,
+         our  common  stock,  and the  market  price  for our  common  stock may
+         decline.  Trading in our common stock is subject to the requirements of
+         Rule 15g-9 promulgated under the Securities Exchange Act of 1934. Under
+         this  rule,  broker/dealers  who  recommend  low-priced  securities  to
+         persons other than established  customers and accredited investors must
+         satisfy  special sales practice  requirements,  including a requirement
+         that they make an individualized written suitability  determination for
+         the purchaser and receive the purchaser's  written consent prior to the
+         transaction. The Securities Enforcement Remedies and Penny Stock Reform
+         Act of 1990 also requires additional  disclosure in connection with any
+         trades involving a stock defined as a
+
+
+
+                                       22
+<PAGE>
+         penny stock (generally any equity security not traded on an exchange or
+         quoted on Nasdaq that has a market  price of less than $5.00 per share,
+         subject to certain  exceptions),  including the delivery,  prior to any
+         penny stock transaction,  of a disclosure schedule explaining the penny
+         stock  market and the risks  associated  with the penny  stock  market.
+         These  requirements  could severely  limit the market  liquidity of our
+         common  stock and the ability of our  shareholders  to dispose of their
+         shares, particularly in a declining market.
+
+
+Item 7A.  Quantitative and Qualitative Disclosures about Market Risk
+--------------------------------------------------------------------
+
+      The Company does not invest in market risk sensitive instruments.
+
+
+Item 8.  Financial Statements and Supplemental Data
+---------------------------------------------------
+
+      Reference  is made to the  financial  statements  and  related  notes  and
+supplemental data under Item 14 filed with this report.
+
+
+Item 9.  Changes in and Disagreements with Accountants on Accounting and
+------------------------------------------------------------------------
+Financial Disclosure
+--------------------
+
+      None.
+
+
+                                    PART III
+                                    --------
+
+Items 10 and 11.  Directors and Executive Officers of the Registrant and
+------------------------------------------------------------------------
+Executive Compensation
+----------------------
+
+      A definitive  proxy  statement for the 2001 Annual Meeting of Stockholders
+of Ag-Bag  International  Limited  to be held on June 4, 2001 will be filed with
+the Securities and Exchange  Commission not later than 120 days after the end of
+the Company's fiscal year ("Proxy Statement").  The information set forth in the
+Proxy  Statement under "Election of Directors,"  "Executive  Compensation,"  and
+"Section 16(a) Beneficial Ownership Reporting Compliance" is incorporated herein
+by  reference.  Executive  officers of Ag-Bag  International  Limited are listed
+under the heading "Executive Officers of the Registrant" in this Form 10-K.
+
+
+Item 12.  Security Ownership of Certain Beneficial Owners and Management
+------------------------------------------------------------------------
+
+      Information required is set forth under the caption "Security Ownership of
+Beneficial  Owners"  in the  Proxy  Statement  and  is  incorporated  herein  by
+reference.
+
+
+Item 13.  Certain Relationships and Related Transactions
+--------------------------------------------------------
+
+      Information required is set forth under the caption "Certain Relationships
+and Related  Transactions" in the Proxy Statement and is incorporated  herein by
+reference.
+
+
+
+
+
+                                       23
+<PAGE>
+                                     PART IV
+                                     -------
+<TABLE>
+<CAPTION>
+Item 14.  Exhibits, Financial Statement Schedules, and Reports on Form 8-K
+
+    (a)  The following documents are filed as part of this report:
+                                                                                                   Page
+
+<S>                                                                                               <C>
+         1.  Index to Financial Statements......................................................    26
+
+             Independent Auditor's Report.......................................................   F-1
+
+             Balance Sheets at December 31, 2000 and 1999.......................................   F-2
+
+             Statements of Income and Comprehensive Income for the years ended
+                 December 31, 2000, 1999 and 1998...............................................   F-4
+
+             Statement of Shareholders' Equity for the years ended
+                 December 31, 2000, 1999 and 1998...............................................   F-5
+
+             Statement of Cash Flows for the years ended December 31,
+                 2000, 1999 and 1998............................................................   F-6
+
+             Notes to Financial Statements......................................................   F-7
+
+         2.  Financial statement schedules required to be filed by Item 8 and paragraph (d)
+                 of this Item 14:
+
+             Independent Auditor's Report on Supplemental Information...........................  F-20
+
+             Schedule of Valuation and Qualifying Accounts......................................  F-21
+
+             All other schedules are omitted because they are not applicable or
+                 the required  information is shown in the financial statements
+                 or notes thereto.
+
+         3.  The exhibits are listed in the index of exhibits...................................    27
+
+    (b)      No reports on Form 8-K were  required to be filed  during the last
+             quarter of the period covered by this report.
+
+</TABLE>
+
+
+
+
+
+
+
+
+                                       24
+<PAGE>
+                                   SIGNATURES
+                                   ----------
+
+         Pursuant to the  requirements  of Section 13 or 15(d) of the Securities
+Exchange  Act of 1934,  the  Company has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+                            AG-BAG INTERNATIONAL LIMITED,
+                            a Delaware corporation
+
+Date: March 15, 2001        By:    /s/ Larry R. Inman
+                                   -------------------------------------------
+                                   Larry R. Inman, Chief Executive Officer
+                                   and President
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the  following  persons on behalf of the Company and in
+the capacities and on the dates indicated.
+
+Date: March 15, 2001        By:    /s/ Stanley W. Vinson
+                                   -------------------------------------------
+                                   Stanley W. Vinson, Chairman, Board of
+                                   Directors, Director
+
+Date: March 15, 2001        By:    /s/ Larry R. Inman
+                                   -------------------------------------------
+                                   Larry R. Inman, Chief Executive Officer,
+                                   President and Director (Principal Executive
+                                   Officer)
+
+Date: March 15, 2001        By:    /s/ Michael R. Wallis
+                                   -------------------------------------------
+                                   Michael R. Wallis, Chief Financial
+                                   Officer and Vice President, Finance
+                                   (Principal Financial and Accounting Officer)
+
+Date: March 15, 2001        By:    /s/ Lemuel E. Cunningham
+                                   -------------------------------------------
+                                   Lemuel E. Cunningham, Director
+
+Date: March 15, 2001        By:    /s/ Michael W. Foster
+                                   -------------------------------------------
+                                   Michael W. Foster, Director
+
+Date: March 15, 2001        By:    /s/ Michael B. Leahy
+                                   -------------------------------------------
+                                   Michael B. Leahy, Director
+
+Date: March 15, 2001        By:    /s/ Arthur P. Schuette
+                                   -------------------------------------------
+                                   Arthur P. Schuette, Director
+
+Date:  March 15, 2001       By:    /s/ Rolf E. Soderstrom
+                                   -------------------------------------------
+                                   Rolf E. Soderstrom, Director
+
+Date: March 15, 2001        By:    /s/ Robert N. Thurston
+                                   -------------------------------------------
+                                   Robert N. Thurston, Director
+
+
+
+
+
+
+                                       25
+<PAGE>
+                                TABLE OF CONTENTS
+
+
+
+                                                                       Page
+
+INDEPENDENT AUDITOR'S REPORT                                            F-1
+
+FINANCIAL INFORMATION
+
+     Balance Sheets                                                     F-2
+
+     Statements of Income and Comprehensive Income                      F-4
+
+     Statements of Shareholders' Equity                                 F-5
+
+     Statements of Cash Flows                                           F-6
+
+     Notes to Financial Statements                                      F-7
+
+SUPPLEMENTAL INFORMATION
+
+     Independent Auditor's Report on Supplemental Information          F-20
+
+     Valuation and Qualifying Accounts                                 F-21
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       26
+<PAGE>
+                                  EXHIBIT INDEX
+                                  -------------
+
+Exhibit
+Number   Description of Exhibit
+------   ----------------------
+
+3.1      Restated Certificate of Incorporation(2)
+
+3.2      Bylaws of the Company(2)
+
+4.1      Form of Common Stock Certificate(1)
+
+4.3      Warrant dated February 13, 1995, to Norwood Venture Corp.(2)
+
+10.1     Employment Contract of Larry R. Inman(1)*
+
+10.2     Form of Change of Control Agreement between the Company and each of its
+         executive officers and key employees*
+
+10.3     1991 Employee Stock Plan, as amended effective November 1, 1996(3)*
+
+10.4     Incentive Stock Option Plan, as amended effective November 1, 1996(3)*
+
+10.5     Nonemployee Director Stock Option Plan(3)*
+
+11       Statement re computation of earnings per share
+
+12       Statement re computation of ratios
+
+
+
+*   Management contract or compensatory plan
+(1) Filed as exhibit to the Form S-1 Registration No.33-46115
+(2) Filed as exhibit to the Form 10-K for the fiscal year ended December 31,
+    1994
+(3) Filed as exhibit to the Form 10-K for the fiscal year ended December 31,
+    1996
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       27
+<PAGE>
+                          AG-BAG INTERNATIONAL LIMITED
+                                 ---------------
+
+                          INDEPENDENT AUDITOR'S REPORT
+                                       AND
+                              FINANCIAL STATEMENTS
+                         (with supplemental information)
+                                 ---------------
+
+                     Years Ended December 31, 2000 and 1999
+
+
+<PAGE>
+
+
+
+
+CONTENTS
+--------------------------------------------------------------------------------
+
+                                                                 Page
+                                                                 ----
+
+INDEPENDENT AUDITOR'S REPORT                                      F-1
+
+FINANCIAL STATEMENTS
+
+     Balance Sheets                                               F-2
+
+
+     Statements of Income and Comprehensive Income                F-4
+
+
+     Statements of Shareholders' Equity                           F-5
+
+     Statements of Cash Flows                                     F-6
+
+     Notes to the Financial Statements                            F-7
+
+SUPPLEMENTAL INFORMATION
+
+     Independent Auditor's Report on Supplemental Information     F-20
+
+     Valuation and Qualifying Accounts                            F-21
+<PAGE>
+
+
+
+
+Moss Adams LLP
+222 SW Columbia St., Suite 400
+Portland, OR  97201-6642
+
+
+
+
+INDEPENDENT AUDITOR'S REPORT
+
+
+To the Board of Directors and Shareholders
+Ag-Bag International Limited
+
+
+We have audited the accompanying balance sheets of Ag-Bag International  Limited
+as of December  31,  2000 and 1999,  and the  related  statements  of income and
+comprehensive income, shareholders' equity, and cash flows for each of the years
+in the three-year period ended December 31, 2000. These financial statements are
+the responsibility of the company's management. Our responsibility is to express
+an opinion on these financial statements based on our audits.
+
+
+We  conducted  our  audits  in  accordance  with  generally   accepted  auditing
+standards. Those standards require that we plan and perform the audits to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement.  An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements.  An audit also includes
+assessing the  accounting  principles  used and  significant  estimates  made by
+management,  as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+
+In our opinion,  the financial  statements  referred to above present fairly, in
+all material respects, the financial position of Ag-Bag International Limited as
+of December 31, 2000 and 1999,  and the results of its  operations  and its cash
+flows for each of the years in the three-year period ended December 31, 2000, in
+conformity with generally accepted accounting principles.
+
+
+
+
+
+
+
+
+/s/ Moss Adams LLP
+
+
+Portland, Oregon
+February 22, 2001
+
+
+
+                                       F-1
+<PAGE>
+<TABLE>
+<CAPTION>
+AG-BAG INTERNATIONAL LIMITED
+BALANCE SHEETS
+December 31, 2000 and 1999
+--------------------------------------------------------------------------------
+
+                                     ASSETS
+
+                                                                                    2000                1999
+                                                                             ------------------  ------------------
+<S>                                                                          <C>                 <C>
+CURRENT ASSETS
+     Cash                                                                    $           23,894  $          511,910
+     Accounts receivable, less allowance for doubtful
+        accounts of $247,690 and $147,024 at 2000
+        and 1999, respectively                                                        2,941,379           1,875,777
+     Inventories                                                                      7,392,557           7,168,740
+     Prepaid expenses and other current assets                                          191,738             305,289
+     Deferred income taxes                                                              209,000             121,000
+                                                                             ------------------  ------------------
+
+
+         Total Current Assets                                                        10,758,568           9,982,716
+                                                                             ------------------  ------------------
+
+PROPERTY, PLANT AND EQUIPMENT, net                                                    4,346,141           4,162,992
+                                                                             ------------------  ------------------
+
+OTHER ASSETS
+     Deferred income taxes                                                               59,000                   -
+     Intangible assets, net                                                              21,506              35,562
+     Other assets                                                                       541,412             393,969
+                                                                             ------------------  ------------------
+
+         Total Other Assets                                                             621,918             429,531
+                                                                             ------------------  ------------------
+
+TOTAL                                                                        $       15,726,627  $       14,575,239
+                                                                             ==================  ==================
+
+
+
+
+
+                                      F-2
+<PAGE>
+                                                                                       AG-BAG INTERNATIONAL LIMITED
+                                                                                                     BALANCE SHEETS
+                                                                                         December 31, 2000 and 1999
+-------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------
+                      LIABILITIES AND SHAREHOLDERS' EQUITY
+
+                                                                                    2000                1999
+                                                                             ------------------  ------------------
+
+CURRENT LIABILITIES
+     Bank line of credit                                                     $        1,224,638  $                -
+     Note payable to shareholder and related party                                            -               6,523
+     Current portion of long-term debt and capital
+        lease obligations                                                               341,221             378,568
+     Accounts payable                                                                   605,828           1,133,994
+     Accrued payroll and payroll taxes                                                  451,042             504,786
+     Dealer deposits                                                                     49,100             199,169
+     Warranty reserve                                                                   190,162             175,000
+     Accrued expenses and other current liabilities                                     333,984             416,790
+     Income taxes payable                                                               175,130              12,652
+                                                                             ------------------  ------------------
+
+         Total Current Liabilities                                                    3,371,105           2,827,482
+                                                                             ------------------  ------------------
+
+NONCURRENT LIABILITIES
+     Long-term debt and capital lease obligations,
+        less current portion                                                          2,265,928           2,113,817
+     Deferred income taxes                                                                    -               7,000
+                                                                             ------------------  ------------------
+
+         Total Noncurrent Liabilities                                                 2,265,928           2,120,817
+                                                                             ------------------  ------------------
+
+         Total Liabilities                                                            5,637,033           4,948,299
+                                                                             ------------------  ------------------
+
+
+COMMITMENTS AND CONTINGENCIES (see note 13)
+
+
+SHAREHOLDERS' EQUITY
+
+     Preferred stock, $4 liquidation value per share, 8.5% cumulative
+dividend,
+        non-voting, 5,000,000 shares authorized,
+
+        174,000 shares issued and outstanding                                           696,000             696,000
+     Common stock, $.01 par value, 25,000,000 shares
+
+        authorized, 12,061,991 shares issued and outstanding                            120,619             120,619
+     Additional paid-in capital                                                       9,210,211           9,210,211
+     Retained earnings (deficit)                                                         62,764            (399,890)
+                                                                             ------------------  ------------------
+
+
+         Total shareholders' equity                                                  10,089,594           9,626,940
+                                                                             ------------------  ------------------
+
+TOTAL                                                                        $       15,726,627  $       14,575,239
+                                                                              =================  ==================
+
+</TABLE>
+
+
+            See independent auditor's report and accompanying notes.
+
+                                       F-3
+<PAGE>
+<TABLE>
+<CAPTION>
+AG-BAG INTERNATIONAL LIMITED
+STATEMENTS OF INCOME AND COMPREHENSIVE INCOME
+For the Years Ended December 31, 2000, 1999, and 1998
+--------------------------------------------------------------------------------
+
+
+                                                                      2000             1999              1998
+                                                                ----------------  ---------------  ----------------
+<S>                                                             <C>               <C>              <C>
+NET SALES                                                       $     31,451,150  $    32,686,832  $     27,710,514
+COST OF SALES                                                         24,799,690       25,084,577        20,800,441
+                                                                ----------------  ---------------  ----------------
+
+     Gross profit from operations                                      6,651,460        7,602,255         6,910,073
+
+OTHER OPERATING EXPENSES
+     Selling expenses                                                  3,329,880        3,574,830         3,025,642
+     Administrative expenses                                           2,548,446        2,698,658         2,444,060
+     Research and development expenses                                   136,186          323,997           150,058
+                                                                ----------------  ---------------  ----------------
+
+
+     Income from operations                                              636,948        1,004,770         1,290,313
+
+OTHER INCOME (EXPENSE)
+     Interest income                                                      42,996            7,185            69,607
+     Interest expense                                                   (456,158)        (333,170)         (437,803)
+     Other                                                               290,028          296,786           304,282
+                                                                ----------------  ---------------  ----------------
+
+Income before income taxes                                               513,814          975,571         1,226,399
+
+Provision (benefit) for income taxes                                      (8,000)         327,000           422,000
+                                                                ----------------- ---------------  ----------------
+
+
+
+NET INCOME AND COMPREHENSIVE INCOME                                      521,814          648,571           804,399
+                                                                ================  ===============  ================
+
+
+Basic and diluted net income per common share                   $           0.04  $          0.05  $           0.06
+                                                                ================  ===============  ================
+
+Basic and diluted weighted average common
+   shares outstanding                                                 12,061,991       12,061,991        12,061,991
+                                                                ================  ===============  ================
+</TABLE>
+
+            See independent auditor's report and accompanying notes.
+
+                                      F-4
+<PAGE>
+<TABLE>
+<CAPTION>
+AG-BAG INTERNATIONAL LIMITED
+STATEMENTS OF SHAREHOLDERS' EQUITY
+For the Years Ended December 31, 2000,1999 and 1998
+--------------------------------------------------------------------------------
+
+                                Preferred Stock      Common Stock       Additional      Retained          Total
+                              ------------------- --------------------    paid-in       earnings      shareholders'
+                                Shares   Amount     Shares    Amount      capital       (deficit)        equity
+                              --------- --------- ---------- ---------  ----------    ------------    ------------
+<S>                            <C>     <C>        <C>        <C>        <C>           <C>             <C>
+Balance, December 31, 1997     174,000 $ 696,000  12,061,991 $ 120,619  $9,210,211    $(1,734,540)    $  8,292,290
+
+Preferred stock dividends                                                                 (59,160)         (59,160)
+Net Income                                                                                804,399          804,399
+                              --------- --------- ---------- ---------  ----------    ------------    ------------
+
+Balance, December 31, 1998     174,000   696,000  12,061,991   120,619   9,210,211       (989,301)
+9,037,529
+
+Preferred stock dividends                                                                 (59,160)         (59,160)
+Net Income                                                                                648,571          648,571
+                              --------- --------- ---------- ---------  ----------    ------------    ------------
+
+Balance, December 31, 1999     174,000   696,000  12,061,991   120,619   9,210,211       (399,890)
+9,626,940
+
+Preferred stock dividends                                                                 (59,160)         (59,160)
+Net Income                                                                                521,814          521,814
+                              --------- --------- ---------- ---------  ----------    ------------    ------------
+
+Balance, December 31, 2000     174,000 $ 696,000  12,061,991 $ 120,619  $9,210,211    $    62,764     $ 10,089,594
+                              =========  ======== ========== =========  ==========    ============    ============
+
+</TABLE>
+
+
+
+            See independent auditor's report and accompanying notes.
+
+                                      F-5
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                   AG-BAG INTERNATIONAL LIMITED
+                                                       STATEMENTS OF CASH FLOWS
+                           For the Years Ended December 31, 2000, 1999 and 1998
+--------------------------------------------------------------------------------
+
+
+                                                                      2000             1999              1998
+                                                                ----------------  ---------------  ----------------
+<S>                                                             <C>               <C>              <C>
+CASH FLOWS FROM OPERATING ACTIVITIES:
+     Net income                                                 $        521,814  $       648,571  $        804,399
+     Adjustments to reconcile net income to net
+        cash provided by (used in) operating activities:
+         Depreciation and amortization                                   612,845          565,322           580,639
+         Inventory write-down and obsolescence                           256,000          346,500           135,000
+         (Gain) loss on disposition of fixed assets                         (100)           3,239             1,269
+         Deferred income taxes                                          (154,000)         221,000           422,000
+
+     Change in assets and liabilities:
+
+         Accounts receivable                                          (1,065,602)         458,135          (142,230)
+         Inventories                                                    (452,248)      (1,798,281)         (361,187)
+         Prepaid expenses and other current assets                       113,551          155,403         1,589,097
+         Other assets                                                   (147,443)           5,456          (219,452)
+         Accounts payable                                               (528,166)         302,072          (117,450)
+         Accrued expenses and other current liabilities                 (271,457)         (24,265)          279,539
+         Income taxes payable                                            162,478          (26,984)                -
+                                                                ----------------  ---------------- ----------------
+
+
+         Net cash provided by (used in) operating activities            (952,328)         856,168         2,971,624
+                                                                ----------------- ---------------  ----------------
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+     Capital expenditures                                               (330,208)        (484,267)         (299,662)
+     Construction in progress                                           (482,199)         (78,682)                -
+     Proceeds from disposition of fixed assets                             3,000            8,500            10,000
+     Intangible assets                                                         -                -            15,545
+                                                                ----------------  --------------   ----------------
+
+
+         Net cash used in investing activities                          (809,407)        (554,449)         (274,117)
+                                                                ----------------- ---------------- ----------------
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+     Proceeds from line of credit                                     11,749,880       22,902,233        27,341,354
+     Principal payments on line of credit                            (10,525,242)     (22,902,233)      (29,058,617)
+     Proceeds on issuance of debt                                        500,000          286,752            29,517
+     Principal payments on debt                                         (385,236)        (361,443)         (573,978)
+     Payment of shareholders' notes                                       (6,523)         (17,572)          (15,665)
+     Dividends paid                                                      (59,160)         (59,160)          (59,160)
+                                                                ----------------- ---------------- ----------------
+
+     Net cash provided by (used in) financing activities               1,273,719         (151,423)       (2,336,549)
+                                                                ----------------  ---------------- ----------------
+
+
+NET (DECREASE) INCREASE IN CASH                                         (488,016)         150,296           360,958
+
+
+CASH, beginning of year                                                  511,910          361,614               656
+                                                                ----------------  ---------------  ----------------
+
+CASH, end of year                                               $         23,894  $       511,910  $        361,614
+                                                                 ===============  ===============  ================
+
+</TABLE>
+
+            See independent auditor's report and accompanying notes.
+
+                                      F-6
+<PAGE>
+AG-BAG INTERNATIONAL LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+
+NOTE 1 - DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+DESCRIPTION  OF  BUSINESS - Ag-Bag  International  Limited  (the  Company)  is a
+Delaware corporation. The Company's primary operations include the manufacturing
+and sale of machines and related bags used in the agriculture  industry to store
+feed for  livestock,  grain and other  products.  The Company also  manufactures
+machines and bags for composting. The Company's primary market is North America;
+however, it sells products worldwide.
+
+The Company's  common stock began trading  publicly on January 17, 1990, and was
+approved for quotation on Nasdaq on April 24, 1990,  under the symbol "AGBG." In
+1997, the Nasdaq listing requirements were substantially  expanded.  The Company
+does not currently  qualify under the more  stringent  requirements  because the
+price at which its common stock is trading is below the $1 per share minimum bid
+price.  The Company was formally  notified on January 13, 1999,  that its common
+stock was delisted from quotation on the Nasdaq  inter-dealer  quotation  system
+for failure to meet the new listing requirements.  The Company's common stock is
+now traded on the OTC Bulletin Board.
+
+STATEMENTS  OF CASH FLOWS - For purposes of the  statements  of cash flows,  the
+Company  considers all highly  liquid  investments  with original  maturities of
+three months or less to be cash equivalents.
+
+The Company transferred $139,432, $71,236, and $185,863 in 2000, 1999, and 1998,
+respectively,  from rental  equipment to inventory  held for sale. In 2000,  the
+Company transferred $111,863 from inventory held for sale to rental equipment.
+
+ACCOUNTS RECEIVABLE - Accounts receivable are from distributors and customers of
+the Company's products.  The Company performs periodic credit evaluations of its
+customers and maintains  allowances for potential credit losses. Also, to reduce
+the risk of credit  loss,  the Company  requires  letters of credit from foreign
+customers with which no credit history has been established.
+
+INVENTORIES  -  Inventories  are  stated  at the  lower of cost or  market  (net
+realizable value). The Company determines cost on the first-in, first-out (FIFO)
+basis. The Company's estimates of market value incorporate projections of future
+sales volume by product class. In estimating the market value of parts inventory
+items,  the  Company  reviews  current  inventory  levels in  relation  to sales
+forecasts  and adjusts the  valuation  reserve  accordingly.  For the  remaining
+categories of inventory,  the Company establishes a reserve balance based on the
+aging of the specific inventory items.
+
+
+
+
+
+                                      F-7
+<PAGE>
+                                                    AG-BAG INTERNATIONAL LIMITED
+                                               NOTES TO THE FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+
+NOTE 1 - DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES,
+continued
+
+PROPERTY, PLANT AND EQUIPMENT - Property, plant and equipment are stated at cost
+and are  depreciated on the  straight-line  method over their  estimated  useful
+lives which range from five to seven  years for  equipment  and twenty to thirty
+years for buildings.
+
+Expenditures for additions and major improvements are capitalized.  Expenditures
+for repairs and maintenance are charged to expense as incurred.
+
+INTANGIBLE ASSETS - Intangible assets consist of licenses and patents.  The cost
+of the  licenses and patents are  amortized  over the lesser of the terms of the
+related agreement or the estimated useful lives of the respective asset, ranging
+from three to twelve years.
+
+STOCK OPTION PLAN - The Company accounts for its stock option plan in accordance
+with the  provisions  of  Accounting  Principles  Board  (APB)  Opinion  No. 25,
+"Accounting  for Stock Issued to  Employees,"  and related  interpretations.  As
+such,  compensation  expense related to grants to employees would be recorded on
+the date of grant  only if the  current  market  price of the  underlying  stock
+exceeded the exercise  price.  The Company has also adopted the disclosure  only
+provisions  of  Statement  of  Financial  Accounting  Standards  (SFAS) No. 123,
+"Accounting for Stock-Based Compensation."
+
+INCOME  TAXES - The  Company  accounts  for  income  taxes  under  the asset and
+liability  method.  Deferred tax assets and  liabilities  are recognized for the
+future tax  consequences  attributable  to  differences  between  the  financial
+statement  carrying  amounts  of  existing  assets  and  liabilities  and  their
+respective  tax bases.  Deferred tax assets and  liabilities  are measured using
+enacted  tax rates  expected  to apply to  taxable  income in the years in which
+those temporary  differences are expected to be recovered or settled.  Valuation
+allowances are  established to reduce  potential  deferred tax assets when it is
+more likely than not that all or some portion of  potential  deferred tax assets
+will not be realized.
+
+ADVERTISING COSTS - The Company expenses advertising costs as they are incurred.
+Advertising  expenses for the years ended December 31, 2000, 1999, and 1998 were
+$532,573, $466,270, and $490,495, respectively.
+
+
+
+
+
+
+
+                                      F-8
+<PAGE>
+
+AG-BAG INTERNATIONAL LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+
+NOTE 1 - DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES,
+continued
+
+NET  INCOME  PER COMMON  SHARE - In  February  1997,  the  Financial  Accounting
+Standards Board (FASB) issued Statement of Financial Accounting Standards (SFAS)
+No. 128, "Earnings per Share." SFAS No. 128 establishes  standards for computing
+and presenting  earnings per share (EPS). It simplifies the standards in APB No.
+15 (Earnings per Share) for  computing  EPS by replacing  primary EPS with basic
+EPS and altering the  calculation  of diluted EPS,  which replaces fully diluted
+EPS.
+
+Basic net income per share is calculated  using the weighted  average  number of
+common shares  outstanding  during each year.  Preferred  stock  dividends  were
+considered in the  computation.  The calculation of diluted net income per share
+excludes the effect of potentially  dilutive  common stock  equivalents  because
+their impact, when calculated using the Treasury stock method, is antidilutive.
+
+SEGMENT  INFORMATION - The Financial  Accounting  Standards  Board (FASB) issued
+Statement of Financial  Accounting  Standards (SFAS) No. 131,  "Disclosure about
+Segments of an Enterprise and Related Information," which changed the way public
+companies reported  information about operating segments.  SFAS No. 131 is based
+on the management  approach to segment  reporting,  establishes  requirements to
+report  selected  segment  information   quarterly  and  to  report  entity-wide
+disclosures  about  products  and  services,  major  customers  and the material
+countries in which the entity holds assets and reports revenue.  The Company has
+fully  implemented  SFAS  No.  131  and  determined  that  it has no  reportable
+segments.
+
+
+DISCLOSURE  OF FAIR VALUE OF FINANCIAL  INSTRUMENTS  - The  carrying  amounts of
+financial   instruments   including  cash  and  cash  equivalents  and  accounts
+receivable  approximated  fair value as of December 31, 2000 and 1999 because of
+the relatively short maturity of these instruments.  The carrying value of notes
+payable  approximated  fair value as of  December  31,  2000 and 1999 based upon
+interest rates and terms available for the same or similar loans.
+
+
+
+
+
+
+
+
+
+
+
+                                      F-9
+<PAGE>
+                                                    AG-BAG INTERNATIONAL LIMITED
+                                               NOTES TO THE FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+
+NOTE 1 - DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES,
+continued
+
+MANAGEMENT  ESTIMATES - The  preparation  of financial  statements in conformity
+with  generally  accepted  accounting  principles  requires  management  to make
+estimates  and  assumptions  that  affect  the  reported  amounts  of assets and
+liabilities  and disclosure of contingent  assets and liabilities at the date of
+the  financial  statements  and the  reported  amounts of revenues  and expenses
+during the reporting period. Actual results could differ from those estimates.
+
+RECLASSIFICATIONS  -  Certain  reclassifications  have  been  made  to the  1999
+financial statements to conform with the 2000 presentation.
+
+REVENUE RECOGNITION - Revenue on machine and bag sales is recognized at the time
+the product is shipped to the customer.
+
+WARRANTY  - At the  time of  sale,  the  Company  accrues  a  liability  for the
+estimated  future  costs to be incurred  under the  provisions  of its  warranty
+agreements.
+
+
+NOTE 2 - INVENTORIES
+
+Inventories consist of the following:
+                                                        December 31
+                                             --------------------------------
+                                                   2000             1999
+                                             ---------------  ---------------
+
+     Parts and subassembly                   $     2,462,987  $     2,451,510
+     Work in process and raw materials             1,056,673        1,176,363
+     Bags and machines                             3,872,897        3,540,867
+                                             ---------------  ---------------
+
+                                             $     7,392,557  $     7,168,740
+                                             ===============  ===============
+
+
+
+
+
+
+
+
+
+                                      F-10
+<PAGE>
+AG-BAG INTERNATIONAL LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+
+NOTE 3 - INTANGIBLE ASSETS, NET
+
+Intangible assets, net, consist of the following:
+                                                      December 31
+                                        --------------------------------------
+                                               2000                1999
+                                        ------------------  ------------------
+
+     License and patent costs           $          612,845  $          657,845
+
+     Less accumulated amortization                 591,339             622,283
+                                        ------------------  ------------------
+
+
+                                        $           21,506  $           35,562
+                                        ==================  ==================
+
+
+During 2000 and 1999, a license became fully amortized. These intangible assets,
+along  with  the  related  accumulated  amortization,  were  relieved  from  the
+Company's accounts.  Amortization expense for the years ended December 31, 2000,
+1999, and 1998, was $14,056, $19,392, and $22,815, respectively.
+
+
+
+NOTE 4 - PROPERTY, PLANT AND EQUIPMENT, NET
+
+Property, plant and equipment, net, consist of the following:
+<TABLE>
+<CAPTION>
+                                                                    December 31
+                                                      --------------------------------------
+                                                             2000                1999
+                                                      ------------------  ------------------
+
+<S>                                                   <C>                 <C>
+     Land                                             $          160,826  $          160,826
+     Buildings                                                 2,850,270           2,805,958
+     Vehicles                                                    353,928             330,844
+     Office furniture, fixtures and equipment                  1,847,346           1,837,303
+     Plant equipment                                           3,224,736           2,901,077
+     Rental equipment                                            364,483             407,561
+     Leasehold improvements                                       70,014              70,014
+                                                      ------------------  ------------------
+
+
+                                                               8,871,603           8,513,583
+
+     Construction in progress                                    482,199              78,682
+
+     Less accumulated depreciation and amortization           (5,007,661)         (4,429,273)
+                                                      ------------------  ------------------
+
+
+                                                      $        4,346,141  $        4,162,992
+                                                      ==================  ==================
+
+</TABLE>
+
+Certain  property,  plant and  equipment  serve as  collateral  for  short-  and
+long-term  debt  obligations.  The Company  leases  certain assets under capital
+lease agreements. At December 31, 2000 and 1999, gross amount of equipment under
+lease was $144,287 and $281,039, respectively.  Accumulated depreciation related
+to those capital  leases was $105,785 and $83,440 at December 31, 2000 and 1999,
+respectively.
+
+
+Depreciation  expense for the years ended December 31, 2000,  1999, and 1998 was
+$598,789, $545,930, and $557,824, respectively.
+
+
+
+
+                                      F-11
+<PAGE>
+                                                    AG-BAG INTERNATIONAL LIMITED
+                                               NOTES TO THE FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+
+NOTE 5 - LINE OF CREDIT
+
+The  Company  has an  operating  line  of  credit  (LOC)  with a bank  for up to
+$5,000,000  at  December  31,  2000 and 1999.  The line of credit is  secured by
+accounts receivable,  inventories,  fixed asset blanket and general intangibles,
+and bears  interest at the bank's  prime rate plus 1/2%  (10.0% at December  31,
+2000 and  9.00% at  December  31,  1999).  As of  December  31,  2000 and  1999,
+$1,224,638 and $-0- were  outstanding  under the operating  line of credit.  The
+line of credit is subject to certain covenants.
+
+
+NOTE 6 - LONG-TERM DEBT AND CAPITAL LEASE OBLIGATIONS
+<TABLE>
+<CAPTION>
+Long-term debt is comprised of the following:
+                                                                                           December 31
+                                                                             --------------------------------------
+                                                                                    2000                1999
+                                                                             ------------------  ------------------
+<S>                                                                         <C>                  <C>
+Note payable in monthly installments of $2,638, plus interest
+at prime plus 1.75% (10.25% at December 31, 1999), through
+June 2000, secured by building                                               $                -  $           14,091
+
+Note payable in monthly installments of $2,436, including
+interest at 8.32%, through 2005, secured by certain equipment,
+office furniture and fixtures and personal guarantees of
+certain shareholders, subordinate to building loan and certain
+equipment loans                                                                         111,058             131,232
+
+Note payable, monthly payments of $6,724, including interest
+at 9% through July 2017, secured by real property                                       689,200             705,832
+
+Note payable in monthly installments of $4,650, including
+interest at 6.7% through May 2017, secured by real property                             563,883             581,533
+
+Note payable in monthly principal installments of $5,833, plus
+interest at prime plus .75% (10.25% at December 31, 2000 and
+9.25% at December 31, 1999) through April 2003,
+secured by fixed asset blanket                                                          163,333             233,333
+
+Note payable in monthly installments of $8,333, plus interest
+at 8.38% through January 2006, secured by certain equipment                             500,000                   -
+
+
+
+
+
+
+                                      F-12
+<PAGE>
+AG-BAG INTERNATIONAL LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+
+NOTE 6 - LONG TERM DEBT AND CAPITAL LEASE OBLIGATIONS (continued)
+
+Note payable with the City of Blair, Nebraska, with monthly
+installments of $6,607, including interest at 3% through
+September 2003, secured by Blair plant and equipment                                    280,855             350,571
+
+
+Note payable in monthly installments of $3,105, including
+interest at 8.75% through December 2004, secured by certain
+equipment
+
+                                                                                        125,083             150,000
+                                                                             ------------------  ------------------
+                                                                                      2,433,412           2,166,592
+
+     Less:  Current portion                                                             274,321             229,467
+                                                                             ------------------  ------------------
+                                                                             $        2,159,091  $        1,937,125
+                                                                             ==================  ==================
+</TABLE>
+
+Future maturities of long-term debt and capital lease obligations are summarized
+as follows:
+<TABLE>
+<CAPTION>
+
+
+                                                  Long-term                  Capital lease obligations
+                                                                ---------------------------------------------------
+                                               debt excluding       Minimum           Amount
+                                                capital lease        lease        representing
+                                                 obligations        payments         interest          Principal
+                                               ---------------  ----------------  ---------------  ----------------
+<S>                      <C>                  <C>              <C>               <C>              <C>
+Year ending December 31:        2001           $       274,321  $         79,325  $        12,425  $       66,900
+                                2002                   291,074            73,192            6,098          67,094
+                                2003                   295,424            40,728              985          39,743
+                                2004                   244,030                 -                -               -
+                                2005                   155,019                 -                -               -
+                          Thereafter                 1,173,544                 -                -               -
+                                               ---------------  ----------------  ---------------  ----------------
+
+                                               $     2,433,412  $        193,245  $        19,508  $       173,737
+                                               ===============  ================  ===============  ================
+</TABLE>
+
+NOTE 7 - NOTE PAYABLE TO SHAREHOLDER AND RELATED PARTY
+
+
+The  Company  had a note  payable  to a  shareholder  of the  Company.  The note
+included interest at 10% and required monthly principal and interest payments of
+$1,600 through April 30, 2000.  Interest  expense  related to  shareholders  and
+related parties  amounted to $135,  $1,628,  and $3,336 in 2000, 1999, and 1998,
+respectively.
+
+
+
+
+
+
+                                      F-13
+<PAGE>
+                                                    AG-BAG INTERNATIONAL LIMITED
+                                               NOTES TO THE FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+
+NOTE 8 - INCOME TAXES
+<TABLE>
+<CAPTION>
+The income tax expense (benefit) from operations consists of the following:
+
+                                                                           Year ended December 31
+                                                          ---------------------------------------------------------
+                                                                2000                1999                1998
+                                                          -----------------  ------------------  ------------------
+<S>                                                       <C>                <C>                 <C>
+     Current:
+         Federal                                          $         226,000  $          369,000  $          487,000
+         Net operating loss utilized                                      -            (263,000)           (487,000)
+         General business credits utilized                          (82,000)                  -                   -
+         State                                                       16,000              25,000              43,414
+         Net operating loss utilized                                (14,000)            (25,000)            (43,414)
+                                                          ------------------ ------------------- ------------------
+
+                                                                    146,000             106,000                   -
+                                                          -----------------  ------------------  ------------------
+
+     Deferred:
+         Federal                                                   (164,000)            196,000             442,220
+         State                                                       10,000              25,000             (20,220)
+                                                          -----------------  ------------------  ------------------
+
+                                                                   (154,000)            221,000             422,000
+                                                          ------------------ ------------------  ------------------
+
+              Total income tax expense (benefit)          $          (8,000) $          327,000  $          422,000
+                                                          ================== ==================  ==================
+</TABLE>
+
+<TABLE>
+<CAPTION>
+Deferred tax assets and liabilities consist of the following:
+                                                                                           December 31
+                                                                             --------------------------------------
+                                                                                    2000                1999
+                                                                             ------------------  ------------------
+<S>                                                                          <C>                 <C>
+    State net operating loss carryforward                                    $          66,000   $          75,000
+     General business credit carryforward                                               212,000              98,000
+     Capital loss carryforward                                                          135,632             135,632
+     Expenses not currently deductible                                                  112,000              71,000
+                                                                             ------------------  ------------------
+
+              Gross deferred tax asset                                                  525,632             379,632
+
+     Valuation allowance                                                               (135,632)           (135,632)
+                                                                             ------------------- -------------------
+
+              Net deferred tax asset                                                    390,000             244,000
+
+     Gross deferred tax liability, primarily
+
+         due to differences in depreciation                                            (122,000)           (130,000)
+                                                                             ------------------- -------------------
+
+
+              Net deferred tax asset                                         $          268,000  $          114,000
+                                                                             ==================  ==================
+</TABLE>
+
+At December 31, 2000,  the Company has  research  tax credit  carryforwards  for
+federal  income tax purposes of  approximately  $212,000  which are available to
+offset future federal income. These credits can be carried forward through 2020.
+The Company has a gross  capital  loss  carryforward  of $886,431  available  to
+offset future capital gains through 2002.
+
+
+
+
+
+
+
+                                      F-14
+<PAGE>
+AG-BAG INTERNATIONAL LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+
+NOTE 8 - INCOME TAXES, continued
+
+The  provision  for income  taxes from  continuing  operations  differs from the
+amount of income tax  determined  by  applying  the  applicable  U.S.  statutory
+federal  income  tax  rate  to  pre-tax  income  as a  result  of the  following
+differences:
+
+                                              2000         1999          1998
+                                          -----------  -----------  -----------
+
+
+     Statutory federal income tax rate         34%          34%           34%
+     General business credit                 ( 35 )          -             -
+     Nondeductible items                        1            2             1
+     Other                                    ( 1 )        ( 2 )         ( 1 )
+                                          -----------  -----------  -----------
+
+     Effective tax rates                      (1%)          34%           34%
+                                          ===========  ===========  ===========
+
+The Company has  undergone a study with a consulting  firm to determine if costs
+associated with the Company's research and development  activities were eligible
+for  research  and  development  tax credits in its open tax years.  The Company
+completed the study and filed the necessary  forms for its 1996 through 1999 tax
+years during the year 2000 generating net tax credit  benefits of  approximately
+$270,000.
+
+
+NOTE 9 - SUPPLEMENTAL DISCLOSURES REGARDING CASH FLOWS
+
+Supplemental disclosure of cash flow information:
+
+                                              Year ended December 31
+                                    -------------------------------------------
+                                      2000            1999            1998
+                                    -------------  --------------  ------------
+
+     Cash paid during year for:
+         Interest                   $   456,158    $    333,170    $    437,803
+         Income taxes               $    10,516    $    145,084    $        800
+
+
+NOTE 10 - SHAREHOLDERS' EQUITY
+
+PREFERRED STOCK - The Preferred Stock is redeemable  solely at the option of the
+Company.  The Company  maintains  life  insurance on the owner of the  Preferred
+Stock and, in the event of the stockholder's death, currently intends to use the
+proceeds of that insurance to redeem all outstanding shares of Preferred Stock.
+
+STOCK WARRANTS - In connection with offerings of common stock and notes payable,
+the Company has issued various warrants for the purchase of the Company's common
+stock. As of December 31, 2000, the following warrants with respective  exercise
+price per share and date of expiration were outstanding and exercisable:
+
+                                                Exercise
+                                  Number        price per      Expiration
+                Party            of shares        share           date
+         ------------------    -------------  -------------  ---------------
+
+             Note holder          137,500     $   .385        February 2001
+
+
+
+
+                                      F-15
+<PAGE>
+                                                    AG-BAG INTERNATIONAL LIMITED
+                                               NOTES TO THE FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+
+NOTE 10 - SHAREHOLDERS' EQUITY, continued
+
+STOCK  AWARDS - The  Company has a 1991  Employee  Stock Plan (the Plan) and has
+reserved 133,575 shares of common stock for issuance under the Plan. Under terms
+of the Plan,  stock is awarded to employees at the sole  discretion of the Board
+of Directors. No awards were granted under the Plan for 2000, 1999, and 1998.
+
+COMMON  STOCK  OPTIONS - The Company  has an  Incentive  Stock  Option Plan (the
+Incentive  Plan) and has  reserved  185,000  shares of common stock for issuance
+under the  Incentive  Plan.  Options  under the  Incentive  Plan are issuable to
+officers  and  employees  of the  Company  and all option  grants will be at the
+market  value of the stock at the date of grant.  Vesting  of stock  options  is
+determined for each grant by the Board of Directors.
+
+During 1996, the Company adopted a Non-Employee Director Stock Option Plan ( the
+Director  Plan) and has reserved  1,000,000  shares of common stock for issuance
+under the Director  Plan. The Director Plan grants 50,000 options to each member
+of the Board of Directors  who is not an employee of the Company.  Forty percent
+of the 50,000  options  vest and become  exercisable  six months after the grant
+date, another 40% of the options vest and become exercisable two years after the
+grant date, and the remaining portion of the options vest and become exercisable
+three  years after the grant date.  Beginning  with the annual  meeting in 2000,
+those directors who have served a three (3) year period, receive an annual grant
+of 10,000 options which become exercisable six months after the grant date.
+
+The Company has computed,  for pro forma disclosure  purposes,  the value of all
+options granted during 2000 and 1998, using the  Black-Scholes  pricing model as
+prescribed  under SFAS 123. The  following  assumptions  were made for grants in
+2000 and 1998:  risk-free interest rate of 6.1% and 5.5% respectively,  expected
+life of seven  years and three years  respectively,  and  dividend  rate of zero
+percent.  For 2000 and 1998, the expected  volatility over the expected lives of
+the grants was  assumed  to be 75% and 56% for 2000 and 1998  respectively.  The
+weighted  average fair value of the options  granted was estimated to be $.29 in
+2000 and $.41 in 1998.
+
+
+
+
+
+
+
+                                      F-16
+<PAGE>
+AG-BAG INTERNATIONAL LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+
+NOTE 10 - SHAREHOLDERS' EQUITY, continued
+
+If the Company had accounted for the value of the options  granted  during 2000,
+1999, and 1998, in accordance  with SFAS No. 123, the Company's net income would
+have been reduced to the pro forma amounts indicated below:
+
+                                    2000       1999       1998
+                                 ---------  ---------  ---------
+
+     Net income :
+         As reported             $ 521,814  $ 648,571  $ 804,399
+         Pro forma               $ 510,023  $ 618,739  $ 796,534
+
+     Net income  per share:
+         As reported                   .04        .05        .06
+         Pro forma                     .04        .05        .06
+
+The resulting pro forma  compensation  costs may not be  representative  of that
+expected in future years.
+
+Transactions and other information  relating to the Company's stock option plans
+for the three years ended December 31, 2000, are summarized as follows:
+
+<TABLE>
+<CAPTION>
+                                                The Incentive Plan               The Director Plan
+                                             ---------------------            --------------------
+                                                                Weighted                         Weighted
+                                                                Average                          Average
+                                                                Exercise                         Exercise        Combined
+                                                  Shares         Price             Shares         Price           Shares
+
+                                             ------------------------------   ------------------------------  ---------------
+
+
+<S>                                          <C>               <C>                <C>           <C>               <C>
+Options outstanding at December 31, 1997            86,788     $    0.97             300,000    $    1.06           386,788
+Options granted                                          -     $       -              50,000    $    0.56            50,000
+                                             -----------------                -----------------               ---------------
+Options outstanding at December 31, 1998            86,788     $    0.97             350,000    $    0.99           436,788
+Options expired                                    (10,000)    $    0.69                   -    $       -           (10,000)
+                                             -----------------                -----------------               ---------------
+Options outstanding at December 31, 1999            76,788     $    1.01             350,000    $    0.99           426,788
+
+Options granted                                          -     $      -               50,000    $    0.39            50,000
+Options expired                                     (6,788)    $    1.03                   -    $       -            (6,788)
+                                             -----------------                -----------------               ---------------
+Options outstanding at December 31, 2000            70,000     $    1.00            400,000     $    0.91           470,000
+                                             =================                =================               ===============
+
+Options exercisable at December 31, 1998            76,788     $    0.96            240,000     $    1.06           316,788
+                                             =================                =================               ===============
+
+Options exercisable at December 31, 1999            76,788     $    1.01            320,000     $    1.03           396,788
+                                             =================                =================               ===============
+
+Options exercisable at December 31, 2000            70,000     $    1.00            390,000     $    0.92           460,000
+                                             =================                =================               ===============
+</TABLE>
+
+                                      F-17
+<PAGE>
+                                                    AG-BAG INTERNATIONAL LIMITED
+                                               NOTES TO THE FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+
+NOTE 10 - SHAREHOLDERS' EQUITY, continued
+
+
+At December 31, 2000,  the Company had  outstanding  options for the purchase of
+470,000  shares of common stock with a weighted  average  remaining  contractual
+life of six years and an exercise price range of $.39-1.06.
+
+
+NOTE 11 - FOREIGN SALES ACTIVITY
+
+Export sales from the Company's United States operations are as follows:
+
+                                        Year ended December 31
+                               ------------------------------------------
+                                    2000         1999           1998
+                               ------------  -------------  -------------
+
+     Latin America/Mexico      $    194,947  $     259,825  $     478,000
+     Canada                       1,280,096      1,888,781      2,030,000
+
+*    Germany (see Note 12)          441,188        495,049      1,113,000
+     Other                          109,272        161,689        285,000
+                               ------------  -------------  -------------
+
+
+                               $  2,025,503  $   2,805,344  $   3,906,000
+                               ============  =============  =============
+
+* Beginning in 1999, the Company  started  manufacturing  its mid-sized  bagging
+machinery directly in Germany.
+
+
+NOTE 12 - GERMAN VENTURE
+
+On February 27, 1997,  the Company  entered into a Joint Venture  Agreement with
+Budissa  Agroservice  Gesellschaft and formed BAW (Budissa  Agrodienstleistungen
+und  Warenhandels).  The  Company  has a 50%  interest  in  the  Venture  and is
+accounted for under the equity  method.  BAW folds and  distributes  silage bags
+throughout Europe.
+
+
+                                                     2000             1999
+                                                     ----             ----
+         Investment, beginning of year
+
+            (included in other assets)         $    76,738      $    25,544
+
+
+         Share of income for the year
+
+             (included in other income)             65,000           24,239
+         Capital investment                             -            26,955
+                                               -----------      -----------
+
+         Investment, end of year (included
+             in other assets)                  $   141,738      $    76,738
+                                               ===========      ===========
+
+
+On February  27,  1997,  BAW also  entered  into a lease  agreement  with Ag-Bag
+International Limited for the use of a folding machine. Royalties are paid based
+upon the  poundage  folded by BAW.  In 2000,  1999,  and 1998  income  from this
+agreement was $112,000, $110,000 and $92,000 respectively.
+
+On December  18, 2000,  Ag-Bag  International  entered  into an  agreement  with
+Dresdner  Bank to guarantee up to  1,000,000DM  ($483,091 US) as security for an
+additional cash credit facility of BAW. There was -0-DM  outstanding  under this
+additional cash credit facility at December 31, 2000 guaranteed by the Company.
+
+
+
+
+
+                                      F-18
+<PAGE>
+AG-BAG INTERNATIONAL LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+
+NOTE 13 - COMMITMENTS AND CONTINGENCIES
+
+Commitments- The Company purchases its Tri-Dura(R) rolls from a company owned by
+Steven G. Ross (Supplier)  pursuant to a supply  agreement.  Steven G. Ross is a
+14.9%  stockholder in the Company and owner of a company which competes with the
+Company's  Tri-Dura(R)  bags.  The supply  agreement  provides  that the Company
+purchase  all of its plastic  rolls,  with  certain  exceptions,  from  Supplier
+through at least December 31, 2007.  Thereafter,  either the Company or Supplier
+may terminate the supply  agreement  upon two years' prior written  notice.  The
+Company may purchase  plastic rolls from other  suppliers to the extent Supplier
+is unable to supply plastic rolls under the supply agreement.
+
+
+The Company  considers its  relationship  with Supplier to be good.  The Company
+believes  there  are  adequate  alternative  suppliers  available  in the  event
+Supplier is unable to provide rolls.
+
+
+
+Contingencies-  The Company is involved in  litigation  matters which are in the
+normal course of business.  Management is of the opinion that these matters will
+not  have  a  material  effect  on  the   accompanying   financial   statements.
+Accordingly,  no  provision  for these  matters  is  included  in the  financial
+statements for the year ended December 31, 2000.
+
+
+NOTE 14 - NON CASH INVESTING AND FINANCING ACTIVITIES
+
+During  1998,  the Company  issued a new note payable in the amount of $350,000,
+the proceeds of which were used to pay-off existing long-term debt.
+
+
+NOTE 15 - CONCENTRATION OF CREDIT RISK
+
+Financial  instruments  which  potentially  subject  the  Company to credit risk
+consist of cash and receivables.  The Company's cash balances are with federally
+insured banks and periodically exceed insured limits.
+
+
+NOTE 16 - PROFIT SHARING PLAN
+
+The Company has a qualified profit sharing plan covering all full-time personnel
+with at least one year of continuous  service.  Contributions to the plan are at
+the  discretion  of the Company's  management.  The  contribution  to the profit
+sharing plan was $119,930, $98,708, and $84,055 for the years ended December 31,
+2000, 1999, and 1998.
+
+
+
+
+
+                                      F-19
+<PAGE>
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+                            SUPPLEMENTAL INFORMATION
+
+
+
+
+<PAGE>
+
+
+
+
+
+Moss Adams LLP
+222 SW Columbia St., Suite 400
+Portland, OR  97201-6642
+
+
+
+
+
+INDEPENDENT AUDITOR'S REPORT ON SUPPLEMENTAL INFORMATION
+
+
+
+To the Board of Directors and Shareholders
+Ag-Bag International Limited
+
+
+Under date of February  22,  2001,  we reported on the balance  sheets of Ag-Bag
+International  Limited  as of  December  31,  2000  and  1999,  and the  related
+statements of income,  shareholders'  equity, and cash flows for the years ended
+December 31, 2000, 1999, and 1998 as contained in the annual report on Form 10-K
+for the year 2000. In connection with our audits of the aforementioned financial
+statements,  we also audited the related  schedule of Valuation  and  Qualifying
+Accounts.  This schedule is the responsibility of the Company's management.  Our
+responsibility  is to express an opinion  on the  financial  statement  schedule
+based on our audit.
+
+
+In our  opinion,  the  schedule  of  Valuation  and  Qualifying  Accounts,  when
+considered  in  relation  to the basic  financial  statements  taken as a whole,
+presents fairly, in all material respects, the information set forth therein.
+
+
+
+/s/ Moss Adams LLP
+
+
+
+Portland, Oregon
+February 22, 2001
+
+
+
+
+
+
+                                      F-20
+<PAGE>
+<TABLE>
+<CAPTION>
+AG-BAG INTERNATIONAL LIMITED
+VALUATION AND QUALIFYING ACCOUNTS
+For the Years Ended December 31, 2000, 1999, and 1998
+
+
+               Column A                Column B       Column C     Column D      Column E
+---------------------------------      ----------    ----------  ------------  -----------
+                                       Balance at    Charged to   Write-offs,    Balance
+                                       beginning     costs and      net of        at end
+              Description              of period     expenses     recoveries     of period
+---------------------------------      ----------    ----------   -----------  -----------
+<S>                                    <C>           <C>          <C>          <C>
+Year ended December 31:
+
+2000:
+Allowance for doubtful accounts        $147,024      $175,000       ($74,334)     $247,690
+Warranty reserve                       $175,000      $319,541      ($304,379)     $190,162
+Inventory valuation reserve            $487,591      $256,000       ($24,640)     $718,951
+
+1999:
+Allowance for doubtful accounts        $327,510      $175,000      ($355,486)     $147,024
+Warranty reserve                       $140,000      $368,410      ($333,410)     $175,000
+Inventory valuation reserve            $246,735      $346,500      ($105,644)     $487,591
+
+1998:
+Allowance for doubtful accounts        $200,000      $170,000       ($42,490)      $327,510
+Warranty reserve                       $125,000      $263,849      ($248,849)     $140,000
+Inventory valuation reserve            $125,000      $135,000       ($13,265)      $246,735
+
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      F-21
+</TEXT>
+</DOCUMENT>

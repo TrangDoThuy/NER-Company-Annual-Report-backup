@@ -1,0 +1,2427 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>cdxx10-kval.txt
+<TEXT>
+
+
+
+CDX COM INC
+
+
+
+Filing Type:
+10-K
+Description:
+Annual Report
+Filing Date:
+November ____, 2000
+Period End:
+June 30, 2000
+
+
+Primary Exchange:
+Over the Counter Includes OTC
+and OTCBB
+Ticker:
+CDXX
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+10-K
+
+PART I	4
+Item 1	5
+Item 2	6
+Item 3	6
+Item 4	7
+PART II	7
+Item 5	7
+Item 6	7
+Table1	7
+Table2	6
+Item 7	8
+Item 8	8
+Item 9	9
+PART III	9
+Item 10	9
+Table3	9
+Table4	9
+Item 11	10
+Table5	10
+Table6	11
+Item 12	12
+Table7	12
+Item 13	12
+PART IV	13
+Item 14	13
+Balance Sheet	16
+Income Statement	37
+
+
+10-K
+
+
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM 10-K
+Annual Report Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+
+[x]     ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+OF
+        THE SECURITIES EXCHANGE ACT OF 1934
+
+        For the fiscal year ended June 30, 2000
+
+[ ]     TRANSITION REPORT PURSUANT TO SECTION 13 OR
+15(d) OF
+        THE SECURITIES EXCHANGE ACT OF 1934
+
+
+        For the transition period from ___________ to
+_____________
+
+
+                                CDX CORPORATION
+           (Exact name of Registrant as specified in
+its charter)
+
+Commission file number
+
+          Colorado
+84-0771180
+(State or other jurisdiction of
+(I.R.S. Employer
+incorporation or organization
+Identification No.)
+
+
+       One Richmond Square
+02906
+        Providence, RI
+(Zip Code)
+(Address of principal executive offices)
+
+              Registrant's telephone number,
+including area code
+                                (401)274-1444
+
+Securities registered pursuant to Section 12(b) of
+the Act:
+
+     Title of each class            Name of each
+exchange on which registered
+     		None                           None
+
+Securities registered pursuant to 12(g) of the Act:
+Common Stock, Par Value $.01
+(Title of class)
+
+Indicate by check mark whether the Registrant (1) has
+filed all reports required to be filed by Section 13 or 15(d) of the
+Securities Exchange Act of
+1934 during the preceding 12 months (or for such
+shorter period that the
+Registrant was required to file such reports), and
+(2) has been subject to
+such filing requirements for the past 90 days.  Yes
+___ No  X.
+
+Indicate by check mark if disclosure of delinquent
+filers pursuant to Item
+405 of Regulation S-K is not contained herein, and
+will not be contained, to
+the best of registrant's knowledge, in definitive
+proxy or information
+statements incorporated by reference in Part III of
+this Form 10-K or any
+amendment to this Form 10-K. [   ]
+
+Since February of 1986, there have been no published
+prices of the
+Registrant's stock.  The total number of shares held
+by nonaffiliates of the
+Registrant as of June 30, 2000 was 1,180,191.
+
+Indicate the number of shares outstanding of each of
+the Registrant's classes
+of common stock, as of June 30, 2000
+
+4,887,927
+
+DOCUMENTS INCORPORATED BY REFERENCE
+Document          Part of 10-K into which
+incorporated
+
+None
+
+CDX CORPORATION
+2000 Annual Report on Form 10-K
+
+Table of Contents
+Page #
+
+PART I
+
+ITEM 1 -    Business
+3
+
+     A.     General
+3
+     B.     Products And Services
+3
+     C.     Marketing And Customers
+4
+     D.     Product Development
+4
+     E.     Product Protection
+5
+     F.     Backlog
+5
+     G.     Competition
+5
+     H.     Employees
+5
+
+ITEM 2 -    PROPERTIES
+5
+
+ITEM 3 -    LEGAL PROCEEDINGS
+5
+
+ITEM 4 -    SUBMISSION OF MATTERS TO A VOTE OF
+SECURITY HOLDERS        6
+
+PART II
+
+ITEM 5 -    MARKET FOR REGISTRANT'S COMMON STOCK AND
+RELATED
+            SECURITY HOLDER MATTERS
+6
+
+ITEM 6 -    SELECTED FINANCIAL DATA
+6
+
+ITEM 7 -    MANAGEMENT DISCUSSIONS AND ANALYSES OF
+FINANCIAL
+            CONDITION AND RESULTS OF OPERATIONS
+7
+
+ITEM 8 -    FINANCIAL STATEMENTS AND SUPPLEMENTARY
+DATA                8
+
+ITEM 9 -    CHANGES IN AND DISAGREEMENTS WITH
+ACCOUNTANTS ON
+            ACCOUNTING AND FINANCIAL DISCLOSURES
+8
+
+PART III
+
+ITEM 10 -    DIRECTORS AND EXECUTIVE OFFICERS OF THE
+REGISTRANT        9
+
+ITEM 11 -    EXECUTIVE COMPENSATION
+10
+
+ITEM 12 -    CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+12
+
+ITEM 13 -    CERTAIN RELATIONSHIPS AND RELATED
+TRANSACTIONS           13
+
+PART IV
+
+ITEM 14 -    EXHIBITS, FINANCIAL SCHEDULES AND
+REPORTS ON FORM 8-K    13
+
+SIGNATURES
+14
+
+
+
+PART I
+
+Item 1.    BUSINESS
+
+A. General
+
+CDX Corporation is a Colorado corporation
+incorporated in 1978 with its corporate offices
+headquartered in Providence, Rhode Island.
+
+The Business of the Company has consisted of the sale
+of computerized pulmonary diagnostic equipment which
+is used in the medical profession to test for
+indications of lung or congestive heart disease.
+Approximately 11,000 units have been sold.
+
+In December 1994 the Company acquired Compliance
+Systems, a manufacturer of infection control
+products which provide emergency personnel with
+protection during trauma response situations
+and assist compliance with certain OSHA mandates.
+In FY96 the Company also introduced a new version
+of its Instant Response Mask (IRM) with improved
+features designed to protect personnel involved
+in administering emergency cardio-resuscitation
+techniques to compliment the Compliance Systems
+product line.  Marketing of the IRM was
+discontinued in FY 99.
+
+CDX also generates revenue from the sale of
+consumable supplies and accessory items
+associated with its diagnostic equipment.  In
+addition, the Company procured a new model of
+spirometer in FY 99.
+
+B. Products And Services
+
+Approximately 20% of the Company's gross revenues in
+its most recent fiscal year was attributable to
+the sale of its testing machines, 65% of gross revenues
+was attributable to sales of consumable and accessory
+items and 7% of gross revenues was attributable to
+repairs and testing. Bio-hazard control products
+comprised 8% of sales.
+
+The Company's objective is to increase gross revenues
+with the introduction of new and upgraded version
+of the current spirometer. A new version of the
+Instant Response Mask was released in December 1995.
+Although initially well received, this product has
+not lived up to the Company's expectations and
+marketing efforts and expenditures in connection
+with it have been curtailed.
+
+The types of products which the Company currently
+markets are described below.
+
+1.	CDX SPIRO 850. A new model of spirometer, the
+CDX850, was procurred under an exclusive OEM supply
+arrangement to replace the CDX Spiro 110's and was
+introduced in the beginning of FY 99.  The CDX850
+is a portable, compact pulmonary diagnostic machine
+utilizing digital electronics and the latest
+technology.
+
+2.	CDX SPIRO 110's. The Company previously sold a
+line of spirometers(the 110 series) which it
+manufactured. Production of the 110 Series
+spirometers was curtailed at the end  of FY 98.
+The Company continues to support and repair such
+spirometers.
+
+Additionally, the Company provides for sale of
+disposable and accessory items associated
+with its testing equipment as well as maintenance and
+service agreements.
+
+3.	Biosponse
+A portable bio-hazard spill kit for bloodborne
+pathogens which complies with OSHA
+regulation.
+
+4.	Biopail
+A complete clean up and personal protection for first
+responders against blood
+pathogens contained in a refillable two gallon pail
+meeting OSHA Regulations.
+
+The Company formerly marketed a CPR mask known as the
+"Instant Response Mask" or "IRM."
+Marketing of the IRM was discontinued in FY98 in an
+effort to reduce costs related to
+marginal products.
+
+
+
+C. Marketing And Customers
+
+The Company's principal customers have historically
+been primary care physicians, group
+practices, clinic, and medical centers. Portable
+spirometers are typically used by
+internists, family physicians, and general
+practitioners in their offices to conduct
+preliminary diagnostic tests of a patients pulmonary
+function.  Spirometers are also used
+extensively in industry to provide screening
+diagnosis, establish baselines and monitor
+pulmonary function in the workplace.  The Company's
+customer base includes pulmonologists,
+allergists, and cardiologists who require the speed,
+accuracy, and flexibility of hospital-
+based systems in a small, light-weight, portable
+system.
+
+During the year ended June 30, 2000, the Company did
+not have any one customer responsible
+for 10% or more of sales activity or revenues.
+
+The Company currently markets its products directly
+to retail customers from its Rhode
+Island office and through medical equipment dealers
+and distributors, supported through a
+network of factory trained manufacturer's
+representatives. The Company supports this sales
+network through direct mail, advertising in clinical
+and trade publications, and
+participation in national and regional trade shows.
+
+D. Product Development
+
+In FY 00 the Company terminated its product
+development program which was targeted at the
+equipment needs of the physician's office to reduce
+costs.
+
+E. Products Protection
+
+The company held a patent issued by the U.S. Patent
+office in 1981 for the overall
+structure and function of its remote pulmonary
+function tester known as the CDX 110. The
+patent does not apply outside the United States.  The
+Company's current products had
+protection under certain claims of this patent until
+1998. Protection under this patent
+lapsed in 1998.
+
+The Company holds a federal trademark "CDX" which is
+used on its products.
+
+F. Backlog
+
+The Company does not currently have any backlog of
+sales orders or delays of shipments due
+to lack of parts or supplies.
+
+G. Competition
+
+The market for the Company's products is
+characterized by rapid advancements in technology
+and by intense competition among a number of
+manufacturers and distributors. The Company
+believes that it competes favorably in the market;
+however, no assurance can be given that
+the Company will have the financial resources,
+marketing, distribution, service or support
+capabilities, depth of key personnel or technological
+expertise to compete successfully in
+the future.
+
+H. Employees
+
+As of June 30, 2000, the Company employed no full-
+time employees.  All services were
+provided to the Company by two independent
+contractors, one of which is an affiliate.
+
+Item 2.    PROPERTIES
+
+     In July of 1997 the Company moved its sales
+offices and operations to Massachusetts.
+In September 1998 the Company moved its  sales
+offices and operations to Providence, Rhode
+Island.  Currently the Company rents its facilities
+on a month to month basis from an
+affiliate. Management believes that the rental rates
+charged are the same or more favorable
+than those which would be available from unaffiliated
+third parties. Rental space is
+available in the area, and the Company expects to be
+able to continue to be able to obtain
+adequate space at costs comparable to its current
+rent.
+
+Item 3.    LEGAL PROCEEDINGS
+
+     There are no legal proceedings pending against
+the Company.
+
+Item 4.    SUBMISSION OF MATTERS TO A VOTE OF
+SECURITY HOLDERS
+
+     The corporation did not submit any matter to a
+vote of security holders during the
+year ended June 30, 2000.
+
+PART II
+
+Item 5.    MARKET FOR REGISTRANT'S COMMON STOCK AND
+RELATED SECURITY HOLDERS MATTERS
+
+     There is no established public trading market
+for the Corporation's common stock.  The
+stock is traded over-the-counter in privately
+negotiated transactions between market makers
+and brokers.  Prices are published in the pink sheets
+issued by the National Quotation
+Bureau, but sales are not systematically reported by
+market makers and brokers.
+
+Holders
+
+     Based upon the number of record holders, the
+approximate number of shareholders of the
+common stock of the Corporation as of June 30, 2000
+was 868.
+
+Dividends
+
+     No dividends have been declared during the past
+fiscal years with respect to common
+stock.
+
+Item 6.     SELECTED FINANCIAL DATA
+
+
+	2000	1999	1998	1997	1996
+
+Net Sales &
+Operating
+Revenues            	$243,327	$318,260
+	$264,175	$379,608	$394,043
+
+Profit (Loss)       	$(26,356)	$(14,980)
+	$84,452	(122,372)	(206,413)
+
+Profit (Loss)
+per Common Share	(.005)	(.003)	.017
+	(.028)	(.057)
+
+Total Assets	105,548	120,151	179,688
+	185,918	184,081
+
+Long Term
+Obligations	25,000	25,000	25,000
+	25,000	25,000
+
+Cash Dividend
+Declared
+per Share	0.00	0.00	0.00	0.00
+
+Weighted average
+number of
+Common Shares
+Outstanding 	4,887,927	4,887,927	4,887,927
+	4,339,434	3,587,927
+
+
+
+
+
+MARKET INFORMATION
+
+     CDX Corporation's common stock is traded over-
+the-counter in privately negotiated
+transactions between makers and brokers.
+
+
+Price Range (closing bid) For fiscal year ending June
+30:
+
+
+
+2000
+1999
+Quarter
+Bid
+High
+Prices
+Low
+Asked
+High
+Prices
+High
+Bid
+High
+Prices
+Low
+Asked
+High
+Prices
+High
+1st
+ .08
+ .09
+ .09
+ .12
+ .125
+ .125
+ .1875
+ .175
+2nd
+ .08
+ .09
+ .09
+ .14
+ .125
+ .125
+ .2188
+ .1875
+3rd
+ .05
+ .09
+ .09
+ .15
+ .125
+ .125
+ .1875
+ .1875
+4th
+ .08
+ .09
+ .09
+ .12
+ .125
+ .125
+ .1875
+ .1875
+
+These market quotations are from the National Daily
+Quotation Service.  They reflect prices
+between dealers without retail mark up, mark down or
+commission.  They do not represent
+actual transactions.  No dividends have been declared
+during the past two fiscal years with
+respect to common stock.
+
+Item 7.    MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+Results of Operations
+
+     Net Sales and Operating Revenues for FY 00
+decreased by $74,935 which is down
+approximately 24% from the previous fiscal year.
+This compares with an increase of
+$54,085, or approximately 20%, in similar figures for
+FY 99 to FY 98.  Cost of Sales
+decreased by $66,534 for FY 00 compared to FY 99,
+with the Company incurring an Operating
+Loss of $26,356.  During the previous fiscal year,
+Cost of Sales increased by $77,856 from
+those of FY 98 resulting in Operating Loss of
+$14,900.  FY 98 showed an Operating income of
+$84,452. The Operating Loss for FY 00 was 10.7% as a
+percentage of Net Sales compared with
+Operating Loss of 4.4% for FY 99 and operating income
+of 31% for FY 98, respectively. The
+decrease in profitability and FY 00 and FY 99 is the
+result of higher unit costs and lower
+sales. The improvement in operating results for FY 99
+was a reflection of reduced costs and
+expenses, primarily in the areas of cost of goods,
+payroll and rent. Management hopes to
+continue its efforts to reduce expenses and keep them
+in line with margins and to increase
+sales volume.
+
+     Cost of Goods Sold as a percent of Net Sales
+decreased from 44.8% ($109,177) in FY 00
+from 53.3% (169,711) in FY 99 due primarily to
+decreased sales. Similar costs for FY 98 to
+FY 99 increased from 34.4% ($91,855) in FY 98 to
+53.1% ($169,711) in FY 99.
+
+     Selling and Administrative Expenses decreased
+overall by $26,241, to $130,925 for FY
+00 from $157,166 for FY 99.  As a percentage of Net
+Sales these figures were 53.5% and
+49.38% respectively which represents a 17.2% decrease
+in such expenses between the two
+years.  Comparable expenses for FY 98 were 57.1%
+($162,303).  The increase in percentages
+of expenses shown in FY 00 over FY 99 reflects a
+decrease in Net Sales without a
+corresponding decrease in expenses.
+
+     Interest expense for FY 00 increased to $29,581
+from $21,863 for FY 99.  In FY 99,
+interest expense decreased $1,213.  Interest income
+was immaterial for FY 99 and 00.
+
+     Inflation has had a minimum impact upon the
+Revenues and Costs of the Company.
+
+Liquidity And Capital Resources
+
+     In fiscal year 2000, the Company's liquidity
+decreased by $11,875. This compares with
+a decreased position of $3,257 in FY 99.  The FY 00
+increase primarily reflects the impact
+of an increase in cash provided by operations for FY
+00 of $9,219 versus cash from
+operations of $2,656 in FY 99.
+     The Company expects that its current working
+capital position is sufficient to
+continue to meet operating requirements during the
+coming fiscal year and that it has
+sufficient reserves to meet some unforeseen
+contingencies given a continued willingness on
+the part of several of its officers to fund deficits
+with loans.
+
+
+
+Item 8.    FINANCIAL STATEMENTS AND SUPPLEMENTARY
+DATA
+
+     See Item 14 of this report.
+
+Item 9.    CHANGES IN AND DISAGREEMENTS WITH
+ACCOUNTANTS ON ACCOUNTING AND
+           FINANCIAL DISCLOSURE
+
+     None.
+
+PART III
+
+Item 10.    DIRECTORS AND EXECUTIVE OFFICERS
+
+     The current directors and executive officers of
+the Corporation, their ages, their
+positions held in the Corporation and the term during
+which each served in such position
+are as follows:
+
+DIRECTORS
+		Year First Elected
+Name and All Positions		or Nominated to
+Held With the Corporation	Age	Become a Director
+
+Harold  I. Schein	65	1985
+Chairman of the Board,
+Treasurer and Director
+
+Michael L. Schein	36	1998
+President
+
+Philip D. Schein	37	1989
+Secretary
+And Director
+
+
+     Officers and directors are elected on an annual
+basis. The present term of office for
+each director will expire at the next annual meeting
+of the Company's stockholders at such
+time as his successor is duly elected.
+
+     Officers serve at the discretion of the Board of
+Directors.
+
+
+EXECUTIVE OFFICERS
+
+Name and All Positions                    Year First
+Term of
+Currently Held                            Elected to
+Office
+With the Corporation          Age         This Office
+Expiring
+
+Harold I. Schein (2)          65
+Chairman of the Board,                    1989
+(1)
+Chief Executive Officer,                  1989
+(1)
+Treasurer,                                1989
+(1)
+Director                                  1985
+(1)
+
+Michael L. Schein (2)         36
+President                                 1998
+(1)
+
+Philip D. Schein (2)          37
+Secretary,                                1989
+(1)
+Director                                  1989
+(1)
+
+
+(1)    The executive officers serve at the pleasure
+of the board of directors and do not
+have fixed terms.
+
+
+(2)    Michael L. Schein and Philip D. Schein are
+sons of Harold I. Schein
+
+HAROLD I. SCHEIN, 65, serves as Chairman of the
+Board, Chief Executive Officer, Treasurer
+and a Director.  Mr. Schein, since January 1990, has
+been President of Richmond Square
+Capital Corporation, a private lender and venture
+capital corporation.  Prior to 1990, Mr.
+Schein served as chairman and chief executive officer
+of William Bloom & Son, Inc, a
+manufacturer of store fixtures.  From March 1989 to
+September 1992, Mr. Schein also served
+as chairman of Piezo Electric Products, Inc. of
+Metuchen, New Jersey, a publicly owned
+company.  He is also a developer of commercial real
+estate.  Mr. Schein became chairman of
+the board of directors and treasurer of the
+Corporation in March 1989.
+
+MICHAEL L. SCHEIN, 36, serves as President.  Mr.
+Schein became president of the corporation
+in May 1999. Mr. Schein has been in the private
+practice of law from 1990 to the present.
+Mr. Schein served as a special assistant prosecutor
+in the Rhode Island Department of
+Attorney General from 1990 to 1993.  He is a 1986
+graduate of Tufts University and received
+his JD from Boston University School of Law in 1990.
+
+PHILIP D. SCHEIN, 37, serves as Secretary and a
+Director.  Mr. Schein became secretary of
+the corporation in March 1989 and assumed the office
+of president in October 1992.  He
+resigned as president in May, 1999 in order to pursue
+other ventures.  Prior to this, Mr.
+Schein held the position of Executive Vice President
+of William Bloom & Son, a manufacturer
+of custom store fixtures, where he was in charge of
+sales and manufacturing.  He is a 1985
+graduate of Boston University.
+
+Item 11.    EXECUTIVE COMPENSATION
+
+     No executive officer received in excess of
+$100,000.
+
+     No executive officer of the Corporation received
+other compensation not reported in
+the above cash compensation table in excess of
+$25,000 or 10% of the compensation reported
+in the above cash compensation table.
+
+     Directors who are not regular, full-time
+employees may be compensated for service on
+the board of directors at the rate of $1,500 per
+director per quarter, i.e., $6,000
+annually.  In order to qualify for quarterly
+compensation, a director must attend the
+majority of meetings held within the quarter.  No
+such payments have been made since 1989.
+
+
+SUMMARY COMPENSATION TABLE
+Annual Compensation
+
+Long Term
+Compensation
+Awards
+
+Securities
+Name & Principal    Fiscal             Other Annual
+Underlying
+Position            Year     Salary
+Compensation(1)  Option/SARS(#)
+________________    ______   _______   ____________
+______________
+
+Michael L. Schein	2000	 $______	0	0
+President 	1999
+
+Philip D. Schein    	2000	$     0
+President 	1999	 6,200	0
+	1998	52,944	0
+	1997	65,000	5,000
+
+Harold I. Schein	2000	$     0
+Chairman &	1999	     0	0
+Treasurer	1998	0	0
+	1997	0	17,500
+
+
+(1)	Certain perquisites provided to each of the
+named executive officers totaled less
+than 10 percent of each officer's total salary and
+Stock Option Grants.
+
+(2)	Michael L. Schein provided services as an
+independent contractor to the Company
+and was paid $21,000 in FY 00.
+
+OPTION/SAR GRANTS TABLE
+
+Option/SAR Grants in Last Fiscal Year
+
+	The Company did not grant any options during FY
+2000.
+
+
+
+
+AGGREGATED OPTION EXERCISES IN 2000
+AND
+OPTION/SAR VALUES AT FISCAL YEAR-END
+
+
+
+
+
+Name
+
+Number of unexercised in-
+the-money options/SARs at
+fiscal year-end (#)
+Exercisable/unexercisable
+Value of Unexercised
+in-the-money
+options/SARs at
+fiscal year end($) (1)
+Exercisable/unexercisable
+Philip D. Schein
+0/0
+$0/$0
+Harold I. Schein
+0/0
+$0/$0
+
+
+(1)    Market value of underlying securities at FYE
+00 discounted by two-thirds to reflect
+restrictive provisions, minus exercise or base price.
+
+Stock Option Plan
+
+     In November, 1987, the Shareholders of the
+Corporation approved an incentive stock
+option plan which provides that options may be
+granted to officers and employees, with a
+maximum aggregate number of 150,000 shares issuable
+under the plan.  Shares underlying
+granted options are exercisable 25% on the date of
+grant and 25% each year thereafter on a
+cumulative basis.  Unexercised options lapse ten
+years after the date of grant or expire
+within 90 days of termination of employment.
+Exercise price is fair market value of a
+share of common stock at date of grant.  The plan has
+a term of ten years.
+
+     In November 1987, the Directors of the
+Corporation approved a Non-Qualified Stock
+Option Plan for employees, consultants and directors.
+The Corporation has reserved 60,000
+unregistered shares of its common stock for use in
+this plan.  During 1993, the Board of
+Directors reserved another 1,440,000 unregistered
+shares of its common stock for use in
+this plan.  Each of the four outside directors were
+granted options for 15,000 shares at
+$.10 per share exercisable during their continuation
+as an employee, director or advisory
+member of, or consultant to the Company, and for the
+three year period thereafter.  In
+addition, during 1993, the Company granted one of its
+directors options for 250,000 shares
+at $.10 per share and granted one of its consultants
+options for 77,800 shares at $.05 per
+share.  The options on 60,000 shares @$.10 per share
+granted to outside directors and
+77,800 shares @$.05 granted to a consultant have
+expired unexercised.
+
+          A summary of the plans at June 30, 2000 is
+as follows:
+
+                          TOTAL SHARES      SHARES AT
+OPTION      OPTION
+                          RESERVED
+OUTSTANDING           PRICE
+                          ____________
+________________      _______
+
+
+
+1987 Non-Qualified
+Stock Option Plan         1,500,000          250,000
+$.10
+                                             100,000
+$.25
+                                             15,000
+$.25
+                                             22,500
+$.25
+
+
+
+     In December 1992, the Company issued 600,000
+warrants for its common stock to certain
+of its officers and consultants in return for
+services.  The warrants are exercisable at
+$.02 per share with an expiration date of December
+31, 1998.   Also, in February 1995, the
+Company issued 75,000 warrants for its common stock
+to an investor in connection with a
+loan.  The warrants are divided into three equal
+classes with exercise prices of $0.25,
+$0.375 and $0.50 respectively with all classes
+expiring in February 1998. During December
+of FY99 the terms of the December 1992 warrants and
+the February 1995 warrants were
+modified and extended so that all series of warrants
+issued prior to December 31, 1998
+shall expire as of December 31, 2001.
+
+
+Item 12.     CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL
+OWNERS AND MANAGEMENT
+
+The following table sets forth information as to
+persons other than management (see the
+following table) who are known to management to
+beneficially own more than 5% of the
+outstanding voting stock as of June 30, 2000.
+
+Title        Name and Address           Amount and
+Nature of        Percent of
+of Class     of Beneficial Owner        Beneficial
+Ownership        Class
+________     ___________________
+____________________        __________
+
+Common       Mendel S. Kaliff           247,223
+Direct         5.6%
+Stock        70 N.E. Loop 410
+             No. 450
+             San Antonio, TX 78216
+
+The following table sets forth the security ownership
+of all directors and executive
+officers of the corporation as of June 30, 2000.
+
+Title      Name of            Amount and Nature of
+Percent of
+of Class   Beneficial Owner   Beneficial Ownership
+of Class     Position
+________   ________________   ____________________
+__________   ________
+
+Common     Harold I. Schein   2,616,737 (1)
+59.6%        Treasurer,
+Stock
+Director, and
+
+Chairman of
+
+the Board
+
+        13
+
+Common     Philip D. Schein     426,000 (2)
+9.7%        President,
+Stock
+Secretary,
+
+Director
+
+Common     Directors and      3,042,737
+69.3%
+Stock      Officers as a
+           Group (2 persons)
+____________________________
+
+
+(1)     Shares subject to sole investment and voting
+power.  Includes options and warrants
+granted by the corporation to purchase  585,000
+shares, as to which option shares the
+optionee/warrantholder disclaims beneficial
+ownership.
+
+(2)     Shares subject to sole investment and voting
+power.  Includes options and warrants
+granted by the corporation to purchase  215,000
+shares, as to which option shares the
+optionee/warrantholder disclaims beneficial
+ownership.
+
+Item 13.    CERTAIN RELATIONSHIPS AND RELATED
+TRANSACTIONS
+
+     The Company entered into a lease agreement on
+March 26, 1990 with a related party to
+rent its facilities in Providence, Rhode Island.
+Base monthly rental payments were
+modified to $2,500 beginning October 1995 and the
+lease term to five years, expiring on
+February 28, 1995. In May of 1996 the Company and
+related party modified the terms of the
+lease to month to month rental payments of $1,500.
+The Company sublet a part of this space
+to an unrelated party for $500 per month.  The
+Company believes this to have been at or
+below the rent for comparable space from unrelated
+parties.
+
+
+PART IV
+
+Item 14.    EXHIBITS, FINANCIAL SCHEDULES AND REPORTS
+ON FORM 8-K
+
+     (a)    The following documents are filed as part
+of this report:
+
+            1.     Financial Statements:
+
+                   Opinions of independent public
+accountants dated
+                   September 30, 1999 on the
+financial statements as follows:
+
+                   Balance Sheets, June 30, 2000 and
+1999.
+
+                   Statements of Earnings for the
+years ended June 30, 2000,
+                   1999 and 1998.
+
+                   Statements of Cash Flows for the
+years ended June 30, 2000,
+                   1999 and 1998.
+
+                   Statements of Changes in
+Stockholders' Equity for the years
+                   ended June 30, 2000, 1999 and
+1998.
+
+            2.     Financial Statement Schedules:
+                   All schedules for which provision
+is made in the applicable
+                   regulations of the Securities and
+Exchange Commission have
+                   been omitted because they are not
+required if the
+                   information is shown in the
+financial statements and notes
+                   thereto.
+
+     (b)    Reports on form 8-K
+            No reports on Form 8-K were filed.
+
+     (c)    Exhibits
+
+            See the Index of Exhibits immediately
+preceding the exhibits
+            attached to this report.  The exhibits
+are incorporated herein
+            by this reference.
+
+
+
+SIGNATURES
+
+     Pursuant to the requirements of Section 13 or
+15(d) of the Securities and Exchange Act
+of 1934, the Registrant has duly caused this report
+to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+                              CDX CORPORATION
+                              (Registrant)
+
+                              /s/Michael L. Schein
+
+                              By: __________________
+                              Michael L. Schein
+                              President
+
+Dated:  November ____, 2000
+
+     Pursuant to the requirements of the Securities
+Exchange Act of 1934, this report has
+been signed by the following persons on behalf of the
+Registrant and in the capacities and
+on the dates indicated.
+
+Signature                   Title
+Date
+
+/s/Harold I. Schein
+
+_______________________     Chairman of the Board,
+November ____, 2000
+Harold I. Schein            Treasurer, Chief
+Finanacial
+    Officer and Director
+
+
+/s/Philip D. Schein
+
+_______________________     Secretary and
+	 November ____, 2000
+Philip D. Schein            Director
+
+        15
+
+INDEX TO EXHIBITS
+
+(a)  Exhibits:
+
+     The following documents are filed herewith or
+have been included as exhibits to
+previous filings with the Commission and are
+incorporated herein by this reference:
+     Exhibit       No.       Document
+     *             3.1       Restated Articles of
+Incorporation dated
+                             July 3, 1985
+                             (incorporated by
+reference to the exhibits
+                             and Registrant's report
+filed on Form 10-K
+                             dated September 25,
+1985)
+
+     *             3.2       Articles of Amendment
+dated December 4, 1987
+                             to the Restated Articles
+of Incorporation
+                             (incorporated by
+reference to the exhibits
+                             to Registrant's report
+filed on Form 10-K
+                             dated September 15,
+1989)
+
+     *             3.3       Bylaws dated July 5,
+1985
+                             (incorporated by
+reference to the exhibits
+                             to Registrant's report
+filed on Form 10-K
+                             dated September 15,
+1989)
+
+     x            23.1       Consent of Counsel,
+Brendan P. Smith, Esq.
+
+     x            23.2       Consent of Cayer,
+Prescott, Clune & Chatellier,
+                             LLP, Independent
+Certified Public Accountants
+
+     x            27.0       Financial Data Schedule
+______________
+
+     *   Incorporated by reference from the issuer's
+Annual Report Pursuant
+         to Section 13 or 15(d) of the Securities
+Exchange Act of 1934
+
+     x   Filed herewith
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CDX CORPORATION
+
+
+
+
+BALANCE SHEETS FOR YEARS ENDED
+JUNE 30, 2000 AND 1999
+AND
+STATEMENTS OF OPERATIONS, STOCKHOLDERS' EQUITY
+AND CASH FLOWS FOR YEARS ENDED
+JUNE 30, 2000, 1999 AND 1998
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INDEPENDENT AUDITOR'S REPORT
+
+
+
+
+
+To the Stockholders and Board of Directors
+CDX Corporation
+We have audited the balance sheets of CDX Corporation
+as of June 30, 2000 and 1999, and the
+related statements of operations, stockholders'
+equity and cash flows for the years ended June 30,
+2000,
+1999, and 1998.  These financial statements are the
+responsibility of the Company's management.  Our
+responsibility is to express an opinion on these
+financial statements based on our audits.
+We conducted our audits in accordance with generally
+accepted auditing standards.  Those
+standards require that we plan and perform the audits
+to obtain reasonable assurance about whether the
+financial statements are free of material
+misstatement.  An audit includes examining, on a test
+basis,
+evidence supporting the amounts and disclosures in
+the financial statements.  An audit also includes
+assessing the accounting principles used and
+significant estimates made by management, as well as
+evaluating the overall financial statement
+presentation.  We believe that our audits provide a
+reasonable
+basis for our opinion.
+In our opinion, the financial statements referred to
+above present fairly, in all material respects, the
+financial position of CDX Corporation as of June 30,
+2000 and 1999, and the results of its operations and
+its cash flows for the years ended June 30, 2000,
+1999, and 1998 in conformity with generally accepted
+accounting principles.
+The accompanying financial statements have been
+prepared assuming that the Company will
+continue as a going concern.  As discussed in Note 12
+to the financial statements, the Company has
+suffered recurring losses from operations and has a
+net capital deficiency, which raises substantial
+doubt
+about its ability to continue as a going concern.
+Management's plans regarding those matters are also
+described in Note 12.  The financial statements do
+not include any adjustments that might result from
+this
+uncertainty.
+
+
+
+
+November 13, 2000
+
+
+
+
+CDX CORPORATION
+
+BALANCE SHEETS
+JUNE 30, 2000 AND 1999
+
+
+
+ASSETS
+
+	2000	1999
+Current assets:
+  Cash		$    22,134	$     10,259
+  Accounts receivable - trade (net of allowance for
+doubtful accounts of $1,260
+    in 2000 and 1999)		22,489	37,045
+  Inventory		     17,753	9,209
+      Total current assets		     62,376
+56,513
+
+Property and equipment - net of accumulated
+depreciation		       7,865	      9,178
+
+Other assets:
+  Invention rights and deferred product development
+costs (less accumulated
+    amortization of $495,817 in 2000 and $476,664 in
+1999)		     35,307	    54,460
+
+      TOTAL ASSETS		$  105,548	$
+120,151
+
+
+
+
+LIABILITIES AND STOCKHOLDERS' DEFICIENCY
+
+Current liabilities:
+  Current portion of long-term debt		$
+7,200	$        4,000
+  Accounts payable - trade		27,612
+	33,089
+  Accounts payable - shareholder		238,317
+	243,500
+  Accrued interest payable		114,496
+	91,974
+  Accrued expenses		        6,581
+6,690
+      Total current liabilities		    394,206
+379,253
+
+Other liabilities:
+  Notes payable - officers, net		209,404
+	212,604
+  Notes payable		      50,000	    50,000
+      Total other liabilities		    259,404
+262,604
+
+Stockholders' deficiency:
+  Common stock, $.01 par value; 10,000,000 shares
+authorized, 4,888,093
+    shares issued		48,881	48,881
+  Capital surplus.		4,771,798	4,771,798
+  Deficit.		(5,368,741)	(5,342,385)
+  Less:  treasury stock, 166 shares, no assigned
+value
+      Total stockholders' deficiency
+(548,062)	   (521,706)
+
+      TOTAL LIABILITIES AND STOCKHOLDERS' DEFICIENCY
+	$   105,548	$    120,151
+
+
+
+
+SEE NOTES TO FINANCIAL STATEMENTS.
+
+
+
+
+
+CDX CORPORATION
+
+STATEMENTS OF CHANGES IN STOCKHOLDERS' DEFICIENCY
+YEARS ENDED JUNE 30, 2000, 1999, AND 1998
+
+
+					Shares
+	Shares		Capital	Accumulated
+	Treasury
+	Outstanding	Par Value	Surplus	Deficit
+	Stock	Total
+
+
+Balance, June 30, 1998		4,888,093	$48,881
+	$4,771,798	$(5,327,405)	166	$(506,726)
+
+Net loss
+	(14,980)		(14,980)
+
+Balance, June 30, 1999		4,888,093	48,881
+	4,771,798	(5,342,385)	166	(521,706)
+
+Net loss
+	(26,356)		(26,356)
+
+Balance, June 30, 2000		4,888,093	$48,881
+	$4,771,798	$(5,368,741)	166	$(548,062)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SEE NOTES TO FINANCIAL STATEMENTS.
+
+
+
+CDX CORPORATION
+
+STATEMENTS OF OPERATIONS
+YEARS ENDED JUNE 30, 2000, 1999, AND 1998
+
+
+
+	2000	1999	1998
+
+Revenues:
+  Net sales and other revenues		$243,327
+	$318,260	$264,175
+
+Operating costs and expenses:
+  Cost of sales		109,177	169,711
+	91,855
+  Selling & administrative expenses		  130,925
+	157,166	162,303
+      Total operating costs and expenses
+240,102	326,877	254,158
+
+Operating income (loss)		     3,225	(8,617)
+	10,017
+
+Other income (expense):
+  Interest expense.		(29,581)	(21,863)
+	(23,676)
+  De-recognition of previously accrued liability
+	              	15,500	98,111
+      Net other income (expense)		  (29,581)
+	(6,363)	74,435
+
+Net income (loss)		$ (26,356)	$(14,980)	$
+84,452
+
+
+
+Net income (loss) per common share		$   (.005)
+	$   (.003)	$     .017
+
+Weighted-average number of common shares outstanding
+	4,887,927	4,887,927	4,887,927
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SEE NOTES TO FINANCIAL STATEMENTS.
+
+
+
+
+
+CDX CORPORATION
+
+STATEMENTS OF CASH FLOWS
+YEARS ENDED JUNE 30, 2000, 1999, AND 1998
+
+
+
+	2000	1999	1998
+
+Cash was provided by (used for):
+  Operating activities:
+    Net income (loss)		$(26,356)	$(14,980)
+	$84,452
+    Items in net loss not affecting cash:
+      Depreciation and amortization		20,466
+	33,388	21,724
+      Provision for forgiveness of note payable
+		(5,000)
+    Increase (decrease) in cash from changes in
+assets and liabilities:
+      Accounts receivable		14,556
+	(8,337)	10,780
+      Inventory		(8,544)	31,282	6,064
+      Other assets			1,240	16,233
+      Accounts payable - trade		(5,477)
+	(35,931)	(34,915)
+      Accounts payable - shareholder
+	(5,183)	(27,000)	(89,857)
+      Other current liabilities		  22,413
+	22,994	(9,604)
+      Total cash provided by (used for) operating
+activities		  11,875	2,656	(123)
+
+  Investing activities:
+    Purchase of property and equipment
+	(2,033)	(1,445)
+      Total cash used for investing activities
+0	(2,033)	(1,445)
+
+  Financing activities:
+    Proceeds from notes payable - officers
+		20,000
+    Payments on notes payable
+	(3,880)	(6,221)
+      Total cash provided by (used for) financing
+activities		          0	(3,880)	13,779
+
+Increase (decrease) in cash during the year
+	11,875	(3,257)	12,211
+
+Cash balance, beginning of the year		  10,259
+	13,516	1,305
+
+Cash balance, end of the year.		$22,134
+	$    10,259	$    13,516
+
+
+Supplemental disclosures of cash flow information:
+  Cash paid during the year for interest		$
+7,059	$      1,264	$      1,117
+
+
+
+
+
+
+
+
+
+
+SEE NOTES TO FINANCIAL STATEMENTS.
+
+
+
+
+
+CDX CORPORATION
+
+NOTES TO FINANCIAL STATEMENTS
+YEARS ENDED JUNE 30, 2000, 1999, 1998
+
+
+1.	SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+	Background
+
+		CDX Corporation (the Company) was
+incorporated in June, 1978 to engage in
+the manufacture and sale of computerized pulmonary
+diagnostic equipment used in the
+medical profession.  This equipment tests for
+indications of lung or congestive heart
+disease.  The Company also manufactures and sells
+other medical and sanitization
+equipment.
+
+
+	Invention Rights
+
+	In July of 1997, an updated version of the
+Spirosource, a technological
+enhancement to its computerized pulmonary diagnostic
+equipment, became available for
+sale to the public.  For financial accounting
+purposes, this product has been recorded at
+cost, amortized on a straight-line basis over an
+estimated useful life of five years.  The
+Three-Liter Calibration Syringe was also developed
+and made available for sale to the
+public during the year.  It has also been recorded at
+cost and amortized on a straight-line
+basis over an estimated useful life of five years.
+
+
+	Revenue Recognition
+
+		Revenue is recognized upon the invoicing
+and shipping of equipment.
+
+
+	Cash and Cash Equivalents
+
+		The Company considers all highly liquid
+investments purchased with a maturity
+of three months or less to be cash equivalents.
+
+	At June 30, 1999, the carrying amount of the
+Company's deposits was $10,259
+and the bank balance was $20,621, of which all was
+covered by federal depository
+insurance.
+
+	At June 30, 2000, the carrying amount of the
+Company's deposits was $21,834
+and the bank balance was $36,629, of which all was
+covered by federal depository
+insurance.
+
+	At June 30, 2000, the carrying value of
+deposits of $21,834 and petty cash funds
+relate to the Balance Sheet as follows:
+
+Cash deposits		$21,834
+Add:  petty cash		      300
+Cash		$22,134
+
+
+	Accounts Receivable
+
+		An allowance for doubtful accounts
+receivable is provided equal to the estimated
+collection losses that will be incurred in collection
+of all receivables.  Estimated losses are
+based on historical collection experience coupled
+with review of the current status of the
+existing receivables and amounted to $1,260 at June
+30, 2000 and 1999, respectively.
+The Company grants credit to customers who are
+located throughout the United States.
+
+
+
+
+(CONTINUED)
+
+
+
+CDX CORPORATION
+
+NOTES TO FINANCIAL STATEMENTS
+YEARS ENDED JUNE 30, 2000, 1999, AND 1998
+
+
+1.	SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+(Continued)
+
+	Inventories
+
+		Inventories are valued at the lower of
+cost or market using the first-in, first-out
+method.
+
+
+	Property and Equipment
+
+		Property and equipment are recorded at
+cost.  Depreciation and amortization are
+recorded using the straight line and double declining
+balance methods over the estimated
+useful lives of the assets.
+
+		The estimated useful lives of property
+and equipment are as follows:
+
+	Office furniture		7 years
+	Office equipment		5 years
+	Production equipment		5 years
+	Computer equipment		5 years
+	Leasehold improvements		31.5 years
+
+
+	Income Taxes
+
+		Effective July 1, 1993, the Company
+adopted Statement of Financial Accounting
+No. 109, "Accounting for Income Taxes" (FAS 109).
+Under the provisions of FAS 109, an
+entity recognizes deferred tax assets and liabilities
+for the future tax consequences of
+events that have been previously recognized in the
+Company's financial statements or
+tax returns.  The measurement of deferred tax assets
+and liabilities is based on
+provisions of the enacted tax law; the effects of
+future changes in tax laws or rates are
+not anticipated.  The adoption of FAS 109 did not
+have an effect on the Company's
+financial statements, nor have any prior year
+financial statements been restated.
+
+
+	Per Share Data
+
+		Loss per common share was computed by
+dividing the net loss by the weighted
+average number of shares of common stock outstanding
+and common stock equivalents
+(unless antidilutive) during the periods.
+
+The weighted average number of shares of common stock
+were 4,887,927
+shares at June 30, 2000 and 1999.
+
+	Use of Estimates
+
+	The preparation of financial statements in
+conformity with generally accepted
+accounting principles requires management to make
+estimates and assumptions that
+affect the reported amounts of assets and liabilities
+and disclosure of contingent assets
+and liabilities at the date of the financial
+statements and the reported amounts of
+revenues and expenses during the reporting period.
+Actual results could differ from
+those estimates.
+
+
+
+
+
+
+
+(CONTINUED)
+
+
+
+CDX CORPORATION
+
+NOTES TO FINANCIAL STATEMENTS
+YEARS ENDED JUNE 30, 2000, 1999, AND 1998
+
+
+2.	INVENTORY
+
+		Inventory consisted of the following at
+June 30:
+	2000	1999
+
+	Finished goods		$17,753	$9,209
+
+	  Total		$17,753	$9,209
+
+	The company charged a write-off of
+obsolete/outdated inventory items in the
+amount of $30,667 to cost of goods sold during fiscal
+year 1999.
+
+
+
+3.	PROPERTY AND EQUIPMENT
+
+		Property and equipment consists of the
+following at June 30:
+
+	2000	1999
+
+	Office equipment and furniture		$
+66,795	$66,795
+	Production equipment		35,257
+	35,257
+	Computer equipment		72,242
+	72,242
+	Leasehold improvements		    16,256
+16,256
+	  Total		190,550	190,550
+	Less: accumulated depreciation
+(182,685)	(181,372)
+
+	      Net property and equipment		$
+7,865	$  9,178
+
+
+		Depreciation expense for the years ended
+June 30, 2000 and 1999 was $1,313
+and $10,981, respectively.
+
+
+
+4.	INCOME TAXES
+
+Due primarily to the utilization of net operating
+loss carryforwards, the Company
+has no provisions for income taxes for 2000, 1999,
+and 1998.
+
+Deferred income taxes reflect the net tax effects of
+temporary differences
+between the carrying amounts of assets and
+liabilities for financial reporting purposes
+and the amounts used for income tax purposes.  The
+Company's net deferred tax asset
+balances are primarily attributable to net operating
+loss carryforwards and tax credits.  At
+June 30, 2000, 1999, and 1998, the Company's deferred
+tax assets consisted of the
+following:
+
+
+
+		2000	1999	1998
+
+	Deferred tax assets		$593,480
+	$597,289	$680,712
+	Valuation allowance		 (593,480)
+	(597,289)	(680,712)
+
+	Net deferred tax assets recognized
+	   on the accompanying balance sheets
+	$           0	$          0	$
+0
+
+
+(CONTINUED)
+
+
+
+CDX CORPORATION
+
+NOTES TO FINANCIAL STATEMENTS
+YEARS ENDED JUNE 30, 2000, 1999, AND 1998
+
+
+4.	INCOME TAXES (Continued)
+
+The components of the income tax provision (benefit)
+consisted of the following
+for the years ended June 30, 2000, 1999, and 1998:
+
+		2000	1999	1998
+
+	Current	$         0	$        0	$
+0
+	Deferred - using a blended federal and state
+rate of 24%		(6,300)	(3,600)	20,000
+	Tentative tax provision (benefit)
+	(6,300)	(3,600)	20,000
+	Expiration of net operating loss carryforwards
+	348,000	87,023	106,711
+	Change in valuation allowance		 (348,000)
+	(83,423)	(126,711)
+
+	  Net income tax provision (benefit)
+	$           0	$        0	$            0
+
+	The Company has a net operating and economic
+loss carryforward of
+approximately $2,470,000 available to offset future
+federal and state taxable income
+through 2018 as follows:
+
+2001		$348,000
+2002		142,500
+2005		95,500
+2006		349,000
+2007		334,500
+2008		207,000
+2009		253,000
+2012		71,500
+2013		205,000
+2014		121,000
+2018		12,949
+
+The Company has approximately $15,777 of research and
+development credits
+that will expire in year 2002.
+
+If certain substantial changes in the Company's
+ownership should occur, there
+would be a limitation on the amount of net operating
+loss and investment tax credit
+carryforwards, which could be utilized.
+
+5.	NOTES PAYABLE - OFFICERS
+
+		During 1993, an officer of the Company
+loaned the Company $80,100, with
+interest to be paid at 8%.  During 1994, the same
+officer loaned the Company an
+additional $5,000 at 8% interest.  No payments are
+expected during the next fiscal year
+per a forbearance agreement on December 2, 1996.
+
+		During 1995, an officer of the Company
+loaned the Company $15,000, with
+interest to be paid at 8%.  No payments are expected
+during the next fiscal year.
+
+(CONTINUED)
+
+
+
+CDX CORPORATION
+
+NOTES TO FINANCIAL STATEMENTS
+YEARS ENDED JUNE 30, 2000, 1999, AND 1998
+
+
+5.	NOTES PAYABLE - OFFICERS (Continued)
+
+		During 1996, officers of the Company
+loaned the Company $22,500 with interest
+to be paid at 9%, monthly principal and interest
+payments will continue to be made during
+the next fiscal year.
+
+		During 1997, an officer of the Company
+loaned the Company $75,000, with
+interest to be paid at 9%, monthly principal and
+interest payments will continue to be
+made during the next fiscal year.  Another officer of
+the Company loaned the Company
+$15,000 with interest to be paid at 13.99%, monthly
+principal and interest payments will
+continue to be made during the next fiscal year.
+
+		During 1998, an officer of the Company
+loaned the Company $20,000 with
+interest to be paid at 8%.  No payments are expected
+during the next fiscal year.
+
+	Future maturities of long-term debt are as
+follows:
+
+	Year ended
+	June 30	Amount
+
+	2001		$    7,200
+	2002 and thereafter		  209,404
+	  Total		$216,604
+
+
+
+6.	NOTES PAYABLE
+
+		At June 30, notes payable consisted of
+the following:
+
+	2000	1999
+
+	6% interest bearing note payable to a related
+party		$25,000	$25,000
+
+	10% interest bearing note payable to a related
+party		  25,000	  25,000
+
+	      Total		$50,000	$50,000
+
+
+
+7.	STOCK OPTION PLANS
+
+		In November 1987, the Directors of the
+Company approved a Non-Qualified
+Stock Option Plan for employees, consultants and
+directors.  The Company has reserved
+60,000 unregistered shares of its common stock for
+use in this plan.  During 1992, the
+Board of Directors reserved another 1,440,000
+unregistered shares of its common stock
+for use in this plan.  In addition, during 1993, the
+Company granted one of its directors
+options for 250,000 shares at $.10 per share.  In
+1995 the Company granted to an officer
+of the Company a five year option to purchase 15,000
+shares at $.25 per share.  In 1996,
+the Company granted to officers of the Company five
+year options to purchase 22,500
+shares at $.25 a share.
+
+		In 1994, the Company granted to a related
+party options for 100,000 shares at
+$.25 per share.
+
+ (CONTINUED)
+
+
+
+
+
+CDX CORPORATION
+
+NOTES TO FINANCIAL STATEMENTS
+YEARS ENDED JUNE 30, 2000, 1999, AND 1998
+
+
+7.	STOCK OPTION PLANS (Continued)
+
+		In addition, in 1992, the Company issued
+600,000 warrants for its common stock
+with an exercise price of $.02 to certain of its
+officers and consultants in return for
+forbearance and modification of certain notes and
+accounts payable and services.  The
+warrant expires December 31, 1998.  Further, during
+1995, the Company issued 75,000
+warrants for its common stock to an unrelated party
+in connection with a loan.  The
+warrants are divided equally into three classes of
+25,000 each designated A, B, and C
+with exercise prices of $.25, $.375 and $.50,
+respectively, all of which were to expire in
+February of 1998 and which have been extended and
+amended to expire in February of
+2001.  The Company has reserved 675,000 of its
+authorized common stock in connection
+with its warrants.  In December 1998, the Company
+extended the expiration of all its
+unexpired and outstanding warrants and options to
+December 31, 2001.
+
+		In December 1996, the Directors of the
+Company issued 1,300,000 shares of its
+authorized common stock at $.01 par per share to
+officers of the Company and a related
+party for services.
+
+	1987 Plan
+
+		A summary of option transactions for the
+1987 Plan during the years ended June
+30, 1999 and 2000 is shown below:
+
+	Number of 	Weighted-average
+	Shares	Exercise Price
+
+	Outstanding at June 30, 1998		387,500
+	$0.18
+	Granted		0
+	Exercised		0
+	Forfeited		0
+	Expired		           0
+	Outstanding at June 30, 1999		387,500
+	$0.18
+
+	Available for issuance at June 30, 1999
+	1,112,500
+
+
+	Number of 	Weighted-average
+	Shares	Exercise Price
+
+	Outstanding at June 30, 1999		387,500
+	$0.18
+	Granted		0
+	Exercised		0
+	Forfeited		0
+	Expired		           0
+	Outstanding at June 30, 2000		387,500
+	$0.18
+
+	Available for issuance at June 30, 2000
+	1,112,500
+
+	A summary of options outstanding as of June 30,
+1999 and 2000 is shown below:
+
+	Exercise 	Number of Shares
+	Price	Outstanding
+
+	$0.18	387,500
+
+
+
+
+(CONTINUED)
+
+
+
+
+
+CDX CORPORATION
+
+NOTES TO FINANCIAL STATEMENTS
+YEARS ENDED JUNE 30, 2000, 1999, AND 1998
+
+
+7.	STOCK OPTION PLANS (Continued)
+
+	1992 Plan
+
+		A summary of option transactions for the
+1992 Plan during the years ended June
+30, 1999 and 2000 is shown below:
+
+	Number of 	Weighted-average
+	Shares	Exercise Price
+
+	Outstanding at June 30, 1998		600,000
+	$0.02
+	Granted		0
+	Exercised		0
+	Forfeited		0
+	Expired		           0
+	Outstanding at June 30, 1999		600,000
+	$0.02
+
+	Available for issuance at June 30, 1999
+	0
+
+	Number of 	Weighted-average
+	Shares	Exercise Price
+
+	Outstanding at June 30, 1999		600,000
+	$0.02
+	Granted		0
+	Exercised		0
+	Forfeited		0
+	Expired		           0
+	Outstanding at June 30, 2000		600,000
+	$0.02
+
+	Available for issuance at June 30, 2000
+	0
+
+		A summary of options outstanding as of
+June 30, 1999 and 2000 is shown below:
+
+	Exercise 	Number of Shares
+	Price	Outstanding
+
+	$0.02	600,000
+
+
+	1995 Plan
+
+		A summary of option transactions for the
+1995 Plan during the years ended June
+30, 1999 and 2000 is shown below:
+
+	Number of 	Weighted-average
+	Shares	Exercise Price
+
+	Outstanding at June 30, 1998		75,000
+	$0.33
+	Granted		0
+	Exercised		0
+	Forfeited		0
+	Expired		         0
+	Outstanding at June 30, 1999		75,000
+	$0.33
+
+	Available for issuance at June 30, 1999
+	0
+	(CONTINUED)
+
+
+
+
+
+CDX CORPORATION
+
+NOTES TO FINANCIAL STATEMENTS
+YEARS ENDED JUNE 30, 2000, 1999, AND 1998
+
+
+7.	STOCK OPTION PLANS (Continued)
+
+	Number of 	Weighted-average
+	Shares	Exercise Price
+
+	Outstanding at June 30, 1999		75,000
+	$0.33
+	Granted		0
+	Exercised		0
+	Forfeited		0
+	Expired		         0
+	Outstanding at June 30, 2000		75,000
+	$0.33
+
+	Available for issuance at June 30, 2000
+	0
+
+		A summary of options outstanding as of
+June 30, 1999 and 2000 is shown below:
+
+	Exercise 	Number of Shares
+	Price	Outstanding
+
+	$0.33	75,000
+
+
+
+8.	LEASE AGREEMENT - RELATED PARTY
+
+In October, 1998, the Company entered into an
+informal agreement with a
+related party for rental of facilities in Providence,
+Rhode Island with monthly rental
+payments of $750.  On November 1, 1999, the related
+party agreed to reduce base
+monthly rental to $500.
+
+		Rent expense charged to operations is as
+follows:
+
+	Year ended
+	June 30,	Rent expense
+
+	2000	$  4,750
+	1999	15,147
+	1998	7,820
+
+
+
+9.	SEGMENT INFORMATION
+
+	Industry Segments
+
+		Approximately 92% of the Company's
+business consist of sales of computerized
+pulmonary diagnostic equipment and supplies.  The
+rest of the Company's business
+consists of sales of infection and biohazard control
+products and repair services.  The
+Company does not operate in other industry segments.
+The Company has no foreign
+operations.
+
+
+
+
+
+
+
+(CONTINUED)
+
+
+
+
+
+CDX CORPORATION
+
+NOTES TO FINANCIAL STATEMENTS
+YEARS ENDED JUNE 30, 2000, 1999, AND 1998
+
+
+10.	SUPPLEMENTARY INCOME STATEMENT INFORMATION
+
+		For the years ended June 30, the
+following supplemental expense information is
+presented for analysis.
+	2000	1999	1998
+
+	Repairs and maintenance		$    317	$
+280	$  418
+	Advertising		23,417	6,678	3,154
+	Sales and property taxes		207
+	819
+	Provision for doubtful accounts
+	600	2,307
+
+
+
+11.	FINANCIAL INSTRUMENTS
+
+		The Company is engaged primarily in the
+distribution of specialized medical
+equipment in North America.  The Company performs
+ongoing credit evaluations of its
+customers' financial condition and, generally,
+requires no collateral from its customers.
+
+		Financial instruments that potentially
+subject the Company to concentrations of
+credit risk consist principally of trade accounts
+receivable.  Concentrations of credit risk
+with respect to trade receivables are limited due to
+the number of customers comprising
+the customer base and their dispersion across
+geographic areas.
+
+		The carrying amounts reflected in the
+balance sheets for cash and notes payable
+approximate the respective fair values due to the
+short maturities of those instruments.
+
+
+
+12.	FUTURE OPERATIONS
+
+		The accompanying financial statements
+have been prepared in conformity with
+generally accepted accounting principles, which
+contemplate continuation of the
+Company as a going concern.  However, the Company
+suffered losses of $26,356 and
+$14,980 during the years ended June 30, 2000 and
+1999, respectively.  In addition, the
+Company has a net stockholders' deficiency of
+$548,062 at June 30, 2000.
+
+	Management continues to look for opportunities
+in manufacturing new products
+in the medical field.  Management is also seeking to
+merge with companies with products
+and/or services compatible with the Company's core
+business.
+
+		The Company is in the process of
+developing new and innovative products for
+the physician's marketplace.  Management plans to
+develop upgrades and improvements
+to existing products utilizing state of the art
+technology and to remarket these products to
+its substantial existing client base.
+
+
+
+13.	SUBSEQUENT EVENTS
+
+	On September 7, 2000, the Corporation entered
+into a promissory note payable
+with a related party in the amount of $10,000.  This
+note bears an interest rate of 9.5%
+per year and is due on or before December 7, 2000.
+
+
+
+(CONCLUDED)
+
+
+
+19
+33
+</TEXT>
+</DOCUMENT>

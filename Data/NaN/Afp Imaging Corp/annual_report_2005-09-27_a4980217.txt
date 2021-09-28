@@ -1,0 +1,3119 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>a4980217.txt
+<DESCRIPTION>AFP IMAGING CORPORATION 10-K
+<TEXT>
+                                  United States
+
+                       Securities and Exchange Commission
+                             Washington, D.C. 20549
+
+                                    Form 10-K
+
+    (X)     Annual Report Pursuant to Section 13 or 15 (d) of the
+            Securities Exchange Act of 1934 For the fiscal year
+            ended June 30, 2005
+
+                                       or
+
+    ( )     Transition Report Pursuant to Section 13 or 15 (d) of the Securities
+            Exchange Act of 1934
+            For the transition period from ________ to ________
+
+     Commission File Number: 0-10832
+
+                             AFP Imaging Corporation
+                             -----------------------
+             (Exact name of registrant as specified in its charter)
+
+               New York                              13-2956272
+               --------                              ----------
+   (State or other jurisdiction of      (I.R.S. Employer Identification No.)
+    incorporation or organization)
+
+
+                     250 Clearbrook Road, Elmsford, NY 10523
+                     ---------------------------------------
+               (Address of principal executive offices) (Zip Code)
+
+Registrant's telephone number, including area code:  (914) 592-6100
+
+Securities registered pursuant Section 12 (b) of the Act:  None
+
+Securities registered pursuant to Section 12 (g) of the Act:
+
+                      Common Stock, par value .01 per share
+                                (Title of Class)
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15 (d) of the Securities Exchange Act of 1934
+during the preceding 12 months (or such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+
+              _X_                              ___
+              Yes                              No
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. YES ( ) NO ( X).
+
+Indicate by check mark whether the registrant is an accelerated filer
+(as defined in Rule 12b-2 of the Act). YES ( ) NO ( X ).
+
+The aggregate market value of the registrant's common stock held by
+non-affiliates of the registrant as of December 31, 2004 was approximately
+$7,581,857. On such date, the average of the closing bid and asked prices of the
+Registrant's Common Stock, as reported by the OTC Bulletin Board, was $1.28.
+
+The registrant had 9,568,217 shares of Common Stock outstanding as of September
+15, 2005.
+
+The information required by Part III of Form 10-K is incorporated by reference
+to the registrant's Proxy Statement for the 2005 Annual Meeting of Shareholders
+tentatively scheduled for December 12, 2005 to be filed with the Securities and
+Exchange Commission on or prior to October 28, 2005.
+
+
+<PAGE>
+
+Introductory Note - Forward - Looking Statements
+
+This Annual Report on Form 10-K contains certain forward-looking statements,
+within the meaning of the Private Securities Reform Act of 1995. Forward-looking
+statements involve known and unknown risks, uncertainties and other factors that
+could cause actual results of AFP Imaging Corporation (collectively with its
+subsidiaries, the "Company") or achievements expressed or implied by such
+forward-looking statements to not occur, not be realized or differ materially
+from that stated in such forward-looking statements. Forward-looking statements
+may be identified by terminology such as "may," "will," project," "expect,"
+"believe," "would," "could," "estimate," "anticipate," "intend," "continue,"
+"potential," "opportunity" or similar terms, variations of such terms, or the
+negative of such terms or variations. Potential risks, uncertainties and factors
+include, but are not limited to,
+
+o        adverse changes in general economic conditions,
+
+o        the Company's ability to repay its debts when due,
+
+o        changes in the markets for the Company's products and services,
+
+o        the ability of the Company to successfully design, develop, manufacture
+         and sell new products,
+
+o        the Company's ability to successfully market its existing and new
+         products,
+
+o        adverse business conditions,
+
+o        changing industry and competitive conditions,
+
+o        the effect of technological advancements on the Company's products,
+
+o        the Company's ability to protect its intellectual property rights
+         and/or where its intellectual property rights may infringe on the
+         intellectual property rights of others,
+
+o        maintaining operating efficiencies,
+
+o        pricing pressures,
+
+o        risk associated with foreign sales,
+
+o        risk associated with the loss of services of the key executive
+         officers,
+
+o        the Company's ability to attract, train and retain key personnel,
+
+o        difficulties in maintaining adequate long-term financing to meet the
+         Company's obligations, and fund the Company's operations,
+
+o        changes in the nature or enforcement of laws and regulations concerning
+         the Company's products, services, suppliers, or the Company's
+         customers,
+
+o        determinations in various outstanding legal matters,
+
+o        changes in currency exchange rates and regulations, and
+
+o        other factors set forth in this Form 10-K and from time to time in the
+         Company's other filings with the Securities and Exchange Commission.
+
+Readers are urged to carefully review and consider the various disclosures made
+by the Company in this Annual Report on Form 10-K for the year ended June 30,
+2005, and the Company's other filings with the SEC. These reports attempt to
+advise interested parties of the risks and factors that may affect the Company's
+business, financial condition and results of operations and prospects. The
+forward - looking statements made in this Annual Report on Form 10-K speak only
+as of the date hereof and the Company disclaims any obligation to provide
+updates, revisions or amendments to any forward-looking statements to reflect
+changes in the Company's expectations or future events.
+
+
+Part I
+------
+
+Item 1.  Business
+-----------------
+
+a) General Development of Business
+
+AFP Imaging Corporation was organized on September 20, 1978, under the laws of
+the State of New York. Since such date, the Company has been engaged in the
+business of designing, developing, manufacturing and distributing equipment for
+generating, capturing and/or producing medical and dental diagnostic images
+through electronic technologies, as well as the chemical processing of
+photosensitive materials. Medical, dental, veterinary and industrial
+professionals use these products. The Company's products are distributed to
+worldwide markets, under various brand names, through a network of independent
+and unaffiliated dealers. The Company has been ISO 9001 certified since 1996.
+
+The Company's objective is to be a leading provider of cost effective,
+diagnostic radiographic products utilized in the medical, dental, veterinarian
+and industrial imaging fields. The Company is concentrating on
+
+                                       2
+<PAGE>
+
+o        continually broadening is product offerings,
+
+o        enhancing both its domestic and international distribution channels and
+
+o        expanding its market presence in the diagnostic veterinary and dental
+         imaging fields.
+
+In February 2005, the Company settled an outstanding environmental litigation
+claim, which had been filed in 2001 as a civil complaint by the current owners
+of property, which the Company had owned between August 1984 and June 1985. The
+Company paid $325,000, which represented their entire liability under the
+settlement offer. See Item 3, Legal proceedings for a further discussion of this
+matter.
+
+In September 2003, the Company completely dissolved two of its wholly-owned
+subsidiaries: LogEtronics Corporation and Regam Medical Systems AB. The Company
+sold selected assets of its graphic arts business in July 2001, which had been
+distributed through LogEtronics Corporation. Upon completion of the transfer of
+the manufacturing operations to the United States, the Company, in accordance
+with Swedish Law, dissolved Regam Medical Systems AB.
+
+b) Financial Information about Industry Segments
+
+The Company is engaged in one industry segment, the manufacture and distribution
+of medical/dental x-ray equipment and accessories. Prior to July 2001, when the
+Company sold the assets related to its graphic arts subsidiary, the Company had
+been engaged in two industry segments, the manufacture and distribution of
+medical/dental x-ray equipment and accessories, and graphic arts processing
+equipment. The Company has agreed not to compete in this same business line of
+graphic arts film and plate processing equipment for ten years, to expire in
+July 2011. The Company's business segments until July 2001 were based on
+significant differences in the nature of the Company's operations, including
+distribution channels and customers. The composition of the current industry
+segment is consistent with that used by the Company's management in making
+strategic decisions. See Note 10 to the Consolidated Financial Statements for
+further discussion of the Company's industry segments.
+
+c) Narrative Description of Business
+
+All of the Company's products are distributed worldwide through an unaffiliated
+dealer network to doctors, dentists, veterinarians, hospitals, medical clinics,
+the U.S. military and others.
+
+Principal Products and Services
+
+Digital Dental and Large Body DR and CR Imaging Systems
+The Company manufactures, distributes and services a filmless, digital dental
+radiography system, utilizing x-rays and electronic imaging technology. Such
+equipment generates and captures a patient's dental images with an intraoral
+sensor and then displays the image on a computer screen that operates in a
+Windows-based, software environment. These filmless, digital dental radiographic
+systems, referred to as DR Systems, have practical applications in both human
+and companion animal dentistry. The Company has developed proprietary
+application software for use with the sensor. The Company also distributes a
+computed radiology system, referred to as CR Systems, that utilizes a reusable
+phosphorus plate and laser scanner in place of x-ray film. The plate can be
+erased and then re-exposed to capture another image. The CR System is applicable
+to larger body x-ray examinations.
+
+Medical, Dental and Industrial X-Ray Processors & Accessories
+The Company manufactures and distributes a line of freestanding and table top
+medical, dental and industrial x-ray film processors, commonly referred to as
+analog systems. These machines are capable of processing or developing films of
+various sizes. The exposed film is inserted into the Company's equipment and
+returned to the operator developed, fixed, washed and dried. The equipment can
+be located either in a dark room site or adapted to a daylight loading system.
+These units are used for diagnostic x-ray imaging and industrial,
+non-destructive testing applications.
+
+X-Ray Systems
+The Company has the exclusive distribution rights in the North American and
+Mexican markets for a well established, European-designed intraoral dental x-ray
+machine and a panoramic/cephalometric dental x-ray machine. The Company also has
+the North American distribution rights to a Japanese-developed panoramic/
+cephalometric dental x-ray machine. The x-ray film exposed by all of these units
+can be developed in the Company's film processors. Alternatively, these x-ray
+products can be sourced and distributed with a digital, filmless sensor that is
+compatible with the Company's other digital x-ray products and software.
+
+
+                                       3
+<PAGE>
+
+Veterinary Imaging and Radiographic Systems
+
+The Company manufactures and distributes a line of x-ray and related
+equipment specifically designed for the veterinary marketplace. These include
+intraoral x-ray systems, a filmless digital dental radiography system, film
+processors, dental veterinary film, and a large body CR filmless scanner used in
+conjunction with general radiographic equipment. In July 2005, the Company was
+appointed the exclusive worldwide distributor of general-purpose x-ray systems
+and components specifically designed for all veterinary applications, known in
+the market under trade names "Universal" and "VetTek." These systems are
+designed to be either digital or film based and allows the veterinarian to
+perform either dental or general radiography on companion animals.
+
+Patents and Trademarks
+
+The Company presently holds or has licensed a number of domestic and foreign
+utility patents, which, the Company believes, are material to the technology
+used in its products. The Company's intellectual property includes several
+patents obtained in connection with acquisitions completed in 1997. The Company
+is not aware of any patents or other intellectual property held by others that
+conflict with the Company's current product designs. However, there can be no
+assurance that infringement claims will not be asserted against the Company in
+the future. Patent applications have been filed where appropriate. The Company
+owns several domestic and foreign trademarks, which it uses in connection with
+the marketing of its products, including AFP Imaging, DENT-X, EVA and DIGIVET,
+among others. The Company believes that these utility patents and trademarks are
+important to its operations and the loss or infringement by others of or to its
+rights to such patents and trademarks could have a material adverse effect on
+the Company. Even with the patent rights in the Company's products, the
+Company's technology may not preclude or inhibit competitors from producing
+products that have identical performance as the Company's products.
+
+The Company has agreed to pay a nominal royalty on the domestic sales of its
+digital dental systems to a third party under a license for the use of the third
+party's software format for the computer display of such images. The Company
+also has agreed to pay a royalty to a third party on the worldwide sales of its
+digital dental sensors, under a license to use certain technology developed and
+owned by the third party and utilized in the sensor's operations. The Company is
+dependant to some degree on these third-party licenses, and the loss or
+inability to replace these licenses could result in increased costs as well as
+initial delays or reductions in product shipments. The principal technology
+applied to the construction of the Company's other products may be considered
+proprietary.
+
+Research and Development
+
+The amounts spent by the Company during each of the Company's last three fiscal
+years on primary research activities relating to the development of new products
+and the improvement of existing products, all of which was Company sponsored,
+are as follows:
+                                    Year Ended June 30,
+                                    -------------------
+             2005                          2004                         2003
+             ----                          ----                         ----
+           $435,812                      $397,444                     $553,991
+
+The Company conducts research and development activities internally, at its
+Elmsford, New York facility, as well as contracts out certain projects to
+qualified vendors and external consultants. The Company's research and
+development efforts and technologies have been enhanced by business acquisitions
+completed prior to 2001.
+
+The Company's level of research and development spending is discussed further in
+Item 7. Management's Discussion and Analysis of Financial Condition and Results
+of Operation.
+
+Raw Materials
+
+The Company manufactures, assembles, and services its products at its ISO
+9001/2000 (International Standards Organization) certified facility in Elmsford,
+New York. The Company's products are manufactured from parts, components and
+subassemblies obtained from several unaffiliated suppliers and/or fabricated
+internally at its manufacturing facility. In most cases, the Company does not
+utilize any unique procedures, nor does it traditionally have difficulties in
+obtaining raw materials or processes, in the design and manufacture of its
+products. The Company does own proprietary designs and tooling to produce the
+digital x-ray sensors, which are in the physical possession of a Company vendor.
+Although the Company anticipates that an adequate commercial supply of most raw
+material parts and components will remain available from multiple sources, the
+loss of the Company's relationship with a particular supplier could result in
+some productions delays; however, such a loss is not expected to materially
+adversely affect the Company's business, as the proprietary design is readily
+reproducible.
+
+                                       4
+<PAGE>
+
+Warranties
+
+The Company generally warrants each of its products against defects in materials
+and workmanship for a period of one to two years from the date of shipment plus
+any extended warranty period purchased by the customer, and three years for the
+digital sensors. The need to fulfill warranty claims by the Company's dealers
+could have an adverse effect on the Company, by requiring additional
+expenditures for material and/or labor.
+
+Sales, Marketing and Distribution
+
+The Company's manufactured products are produced domestically and distributed
+both domestically and internationally to independent dealers and distributors.
+The Company's products are marketed under the Company's own trade names and are
+distributed through an extensive network of independent medical, dental, and
+veterinary dealers. These dealers install and service such products. Other
+products are imported from foreign suppliers and sold in North America.
+
+The Company conducts worldwide marketing and regional sales management efforts
+to promote all of its products and brand names. The Company advertises in
+domestic and international trade journals, provides sales support and
+literature, prepares technical manuals and conducts customer education and
+training programs in order to promote its products. In addition, the Company
+participates in domestic and international trade and clinical shows. The Company
+also maintains two separate web sites, which provide an easy-to-navigate,
+on-line information environment, including Company information, product
+description and extensive technical specifications and information.
+
+Government Regulation
+
+The Company's medical and dental products are subject to government regulation
+in the United States and certain other countries. The United States Food and
+Drug Administration ("FDA") regulates the distribution of all equipment used as
+medical devices. The Company must comply with the procedures and standards
+established by the FDA and comparable foreign regulatory agencies. The Company
+believes it has registered all of its applicable medical and dental products
+with the FDA, and that all of its products and procedures satisfy all the
+criteria necessary to comply with FDA regulations. The FDA has the right to
+disapprove the marketing of any medical device that fails to comply with FDA
+regulations. The Company's manufacturing facility is ISO 9001/2000 certified.
+Where applicable, the Company's products are Conformite' Europeenne ("CE")
+certified for sales within the European Union. Any future changes in existing
+regulations, or adoption of additional regulations, domestically or
+internationally, which govern devices such as the Company's medical and dental
+products have the potential to have a material adverse effect on the Company's
+ability to market its existing products or to market new products.
+
+The Company is also subject to other federal, state, and local laws, regulations
+and recommendations relating to safe working conditions and manufacturing
+processes.
+
+International sales of our products are subject to the regulatory agency product
+registration requirements of each country in which the Company's products are
+sold. The regulatory review process varies from country to country. The Company
+typically relies on its distributors in foreign countries to obtain the required
+regulatory approvals.
+
+Product Liability Exposure
+
+The Company's business involves the inherent risk of product liability claims.
+The Company currently maintains general product liability insurance as well as
+an umbrella liability policy, which the Company believes are sufficient to
+protect the Company from any potential risks to which it may be subject.
+However, there can be no assurances that product liability insurance coverage
+will continue to be available or, if available, that it can be obtained in
+sufficient amounts or at a reasonable cost. See Item 3. Legal Proceedings, for
+further discussion of any outstanding product liability claims.
+
+Seasonal Nature
+
+Historically, the Company's fourth quarter revenues of any fiscal year have been
+higher than the subsequent first quarter's revenues. This is due to aggressive
+fourth quarter marketing, followed by lower customer demand in the first fiscal
+quarter attributed to summer holidays and traditional foreign business closings
+during July and August. The Company expects net sales and operating results to
+continue to reflect this seasonality.
+
+                                       5
+<PAGE>
+
+Working Capital Practices
+
+The Company believes its practices regarding inventories, receivables or other
+items of working capital to be typical for the industry involved. On September
+21, 2004, the Company renewed its senior secured credit facility (the "Renewed
+Revolving Credit Loan"), with its existing senior secured lender, for an
+additional three-year period. The maximum borrowing permitted under the Renewed
+Revolving Credit Loan is lower than that under the prior credit facility, based
+on the Company's current requirements. However, the Renewed Revolving Credit
+Loan has more favorable terms, including a lower interest rate and less
+stringent reporting requirements, than that under the prior credit facility and
+gives the Company the ability to borrow on a specific amount of foreign accounts
+receivable. The Renewed Revolving Credit Loan replaced the existing senior
+credit facility (the "Original Revolving Credit Loan"). The Renewed Revolving
+Credit Loan consists of a $2.5 million revolving line of credit, which is
+secured by all of the Company's inventory, accounts receivable, equipment,
+officer life insurance policies and proceeds thereof, trademarks, licenses,
+patents and general intangibles. It is believed that the Renewed Revolving
+Credit Loan is sufficient to finance the Company's ongoing working capital
+requirements for the foreseeable future. The Renewed Revolving Credit Loan has
+an interest rate of 1.375% over the prime rate, currently at 6-3/4 %, has a
+specific formula to calculate available funds based on eligible accounts
+receivable and inventory, and has certain reporting requirements to the senior
+secured lender. The Renewed Revolving Credit Loan requires that certain
+financial ratios and net worth amounts be maintained. The Renewed Revolving
+Credit Loan provides for increases in the interest rate charged on monies
+outstanding under specific circumstances.
+
+As of June 30, 2005, the Company was in compliance with all the terms and
+conditions of its Renewed Revolving Credit Loan, as amended. In connection with
+the initial closing of the Original Revolving Credit Loan, the Company issued a
+5-year warrant to the lender for the purchase of 100,000 shares of the Company's
+common stock at $.32 per share, subject to adjustment for all subsequent
+issuances of stock. This warrant expires on September 21, 2006. The
+Black-Scholes Method was used to value the warrant, and the stock price was
+based on the stock price the day prior to closing, plus 10%, as stipulated in
+the Loan and Security Agreement for the Original Revolving Credit Loan.
+
+See Note 4 to the Consolidated Financial Statements and Item 7. Management's
+Discussion and Analysis of Financial Condition and Results of Operation for
+further discussion of the revised terms and conditions.
+
+Customers
+
+In the Company's fiscal year ended June 30th 2005 ("Fiscal Year 2005") there
+were no sales to any one customer, which accounted for 10% or more of the
+Company's total consolidated sales. In the Company's fiscal year ended June 30th
+2004 ("Fiscal Year 2004"), sales of dental imaging equipment to Henry Schein
+Inc., accounted for approximately 11% of the Company's total consolidated sales.
+In the Company's fiscal year ended June 30th 2003 ("Fiscal Year 2003"), sales of
+dental imaging equipment to Henry Schein Inc., and Patterson Dental Supply, each
+accounted for approximately 11% of the Company's total consolidated sales.
+Management believes that the loss of any one customer would have an adverse
+effect on the Company's consolidated business for a short period of time, as the
+Company seeks new customers.
+
+Backlog Orders
+
+As of June 30, 2005, the Company's backlog of orders for its products was
+approximately $1,089,500 as compared to $1,192,100 as of June 30, 2004. All of
+the orders included in the backlog at June 30, 2005 are scheduled for delivery
+on or before June 30, 2006. Spare part sales are not included in the Company's
+backlog calculations. In the opinion of the Company, fluctuations in the backlog
+and its size at any given time are not necessarily indicative of intermediate or
+long-term trends in the Company's business. Much of the Company's backlog can be
+canceled or the delivery dates of orders can be accelerated or extended without
+penalty. Delivery of capital equipment is frequently subject to changing budget
+conditions of medical institutions and end user clinical practitioners, which
+can vary significantly between fiscal periods.
+
+Government Contracts
+
+The Company did not fulfill any significant contracts in Fiscal Years 2005, 2004
+and 2003 with the United States Government that were material to the Company's
+consolidated business. The Company's policy is to be responsive to all
+governmental Requests for Quotations (RFQ), which can be fulfilled by items
+within the scope of the Company's product lines.
+
+                                       6
+<PAGE>
+
+Competition
+
+The Company's products utilize mechanical, as well as analog and digital
+electronic, technologies. The Company is subject to both foreign and domestic
+competition. The competition is characterized by significant investment in
+research and development of new technologies, products and services. Some
+competitors are well established in the film processor manufacturing and
+distribution businesses and may have greater financial, distribution resources
+and facilities than the Company. With respect to all of its products, the
+Company competes on the basis of price, features, product quality, applications,
+engineering, promptness of delivery and customer service. The Company purchases
+certain products from others for resale on an exclusive or non-exclusive basis,
+which may be subject to competition from other independent distributors.
+
+The Company also competes in the dental imaging market on the basis of its
+proprietary and patented technologies. Certain competitors have significant or
+greater resources and revenues in electronic digital imaging technologies and
+expertise in software development utilized in dental imaging products.
+
+The market for technology professional services is intensely competitive,
+rapidly evolving and subject to rapid technological change. The Company expects
+competition not only to persist, but also to increase. Competition may result in
+price reductions, reduced margins and loss of market share. The market for the
+Company's goods and services is rapidly evolving and is subject to continuous
+technological change. As a result, the Company's competitors may be better
+positioned to address these developments or may react more favorably to these
+changes.
+
+While the Company believes its products are competitive in terms of
+capabilities, quality and price, increased competition in the marketplace could
+have an adverse effect on the Company's business and, recent business mergers
+and acquisitions may have potentially adversely affect the Company's business.
+Many of the Company's competitors are much larger with significantly greater
+financial, sales, marketing and other resources than those of the Company. There
+can be no assurance that these competitors are not currently developing or will
+attempt to develop new products that are more effective than those of the
+Company or that might render the Company's products noncompetitive or obsolete.
+No assurances can be given that the Company will be able to compete successfully
+with such competitors in the future.
+
+Environmental
+
+The Company believes it is in compliance with the current laws and regulations
+governing the protection of the environment and that continued compliance would
+not have a material adverse effect on the Company or require any material
+capital expenditures. Compliance with local codes for the installation and
+operation of the Company's products is the responsibility of the end user, or
+the dealer who independently provides installation services. See Item 3. Legal
+Proceedings, for further discussion of an environmental claim in which the
+Company is involved.
+
+Employees
+
+As of June 30, 2005, the Company employed 84 people on a full-time basis. The
+Company has no collective bargaining agreements and considers its relationship
+with its employees to be satisfactory.
+
+d) Financial Information about Foreign and Domestic Operations and Export Sales
+
+Financial information related to foreign and domestic operations and
+export sales for the last three fiscal years is as follows:
+<TABLE>
+<CAPTION>
+
+                                           FY 2005                 FY 2004                  FY 2003
+
+<S>                                    <C>          <C>        <C>          <C>         <C>          <C>
+Domestic sales                         $18,858,056  82%        $16,733,360  84%         $15,111,108  84%
+Export and foreign sales                $4,277,007  18%         $3,099,550  16%          $2,932,560  16%
+
+Domestic operating income               $1,354,617              $1,466,228                   $1,395
+Foreign operating loss                           -                ($12,600)                 ($1,940)
+</TABLE>
+
+
+Assets used in the manufacture of export sales are integrated with the other
+assets of the Company. The Company liquidated its foreign subsidiary in
+September 2003.
+
+                                       7
+<PAGE>
+
+Item 2.  Properties
+-------------------
+
+The Company's sole executive offices and manufacturing facility are located in
+Elmsford, New York. This facility, which comprises approximately 47,735 square
+feet, is subject to a lease expiring on December 31, 2009 with a current rental
+of $525,085 per year, through the lease term, plus increases for real estate
+taxes, utility costs and common area charges. The Company believes its facility
+is well maintained, in good operating condition and sufficient to meet the
+Company's present and anticipated needs.
+
+Item 3.  Legal Proceedings
+--------------------------
+
+The Company is a defendant in an environmental claim relating to property in New
+Jersey owned by the Company between August 1984 and June 1985. This claim
+relates to the offsite commercial disposition of trash and waste in a landfill
+in New Jersey. The Company maintains that its waste materials are of a general
+commercial nature. This claim was originally filed in 1998 by the federal
+government in United States District Court and the State of New Jersey, citing
+several hundred other third-party defendants. The Company (through its former
+subsidiary, Kenro Corporation) was added, along with many other defendants, to
+the suit. The Company's claimed liability was potentially assessed by the
+plaintiff at $150,000. The Company has joined, along with other involved
+companies, in an alternative dispute resolution (ADR) process for smaller
+claims. No potential cost to the Company has been assessed on this claim;
+however, the Company has accrued $75,000 which represents the Company's
+potential liability, net of the Company's insurance carrier's agreed upon
+contribution towards a potential settlement. The Company does not expect to
+receive any further information until a status conference is held in mid-October
+2005. The Company cannot, at this time, assess the amount of liability above its
+accrued amount, if any, that could result from any adverse final outcome of this
+environmental complaint.
+
+On December 6, 2004, the Company reached an agreement as to the parameters of a
+settlement, which was finalized on February 8, 2005 and paid on February 18,
+2005 relating to a separate environmental claim filed in 2001 as a civil
+complaint by the current owners of the same property owned by the Company
+between August 1984 and June 1985. This claim was filed in the Superior Court of
+New Jersey, Morris County, and alleged that the Company's discontinued graphic
+art camera subsidiary had contaminated a portion of the site during its
+manufacturing process prior to 1985. The Settlement included a Release and
+Indemnification as well as a Stipulation of Dismissal with Prejudice. The
+Company paid $325,000, which represented the Company's entire liability under
+this settlement offer, net of the Company's insurance carrier's agreed upon
+contribution towards the total and final settlement,
+
+The Company's insurance carrier has agreed to equally share with the Company the
+defense costs incurred for both of the environmental claims since September
+2001.
+
+The Company is a defendant (with several other parties) in a product liability
+insurance action, which was filed in May 2005 in the Superior Court in Hartford,
+Connecticut. The plaintiff, through their insurance company, claims that the
+Company's equipment caused a fire on the plaintiff's premises in May 2003. The
+complaint seeks unspecified compensatory damages. The Company maintains that
+their equipment was not the cause of the fire or the resultant damage. The
+Company's insurance carriers, and their attorneys, are assisting in the
+Company's defense in this matter. The Company does not believe that the final
+outcome of this matter will have a material adverse effect on the Company.
+
+From time to time, the Company is party to other claims and litigation arising
+in the ordinary course of business. The Company does not believe that any
+adverse final outcome of any of these matters, whether covered by insurance or
+otherwise, would have a material adverse effect on the Company.
+
+Item 4.  Submission of Matters to a Vote of Security Holders
+------------------------------------------------------------
+
+There were no matters submitted to a vote of security holders during the fourth
+quarter of Fiscal Year 2005.
+
+
+
+                                       8
+<PAGE>
+
+
+Part II
+-------
+
+
+Item 5.  Market for the Registrant's Common Equity and Related Stockholder
+         Matters
+--------------------------------------------------------------------------
+
+a) Market Information
+
+The Company's Common Stock, par value $.01 per share, is the only class of the
+Company's common equity securities outstanding and is traded on the OTC Bulletin
+Board (Symbol "AFPC"), maintained by the NASD Inc. The following table, based on
+information supplied by Commodity Systems Inc., shows the range of the closing
+high and low bid information for the Company's Common Stock for each quarterly
+period during the Company's last two fiscal years. These prices reflect
+inter-dealer prices and do not include retail mark-ups, markdowns or
+commissions, and may not represent actual transactions.
+<TABLE>
+<CAPTION>
+<S>           <C> <C>                              <C>                             <C>
+    Quarter ended                               High Bid                        Low Bid
+    -------------                               --------                        -------
+    September 30, 2003                             .32                             .14
+    December 31, 2003                              .74                             .25
+    March 31, 2004                                1.19                             .64
+    June 30, 2004                                 1.64                            1.02
+    September 30, 2004                            1.85                            1.21
+    December 31, 2004                             1.51                            1.11
+    March 31, 2005                                1.70                            1.12
+    June 30, 2005                                 2.25                            1.40
+</TABLE>
+
+The market for the Company's Common Stock is highly volatile and the trading
+price of the Common Stock could widely fluctuate in response to numerous
+factors. In addition, the stock market has from time to time experienced extreme
+price and volume fluctuations, which have particularly affected the market price
+for the securities of many companies, which often have been unrelated to the
+operating performance of these companies. These broad market fluctuations may
+adversely affect the market price of the Company's Common Stock.
+
+b) Holders
+
+As of September 15, 2005, the closing bid price for the Company's Common Stock,
+as reported on the OTC Bulletin Board, was $2.10, and there were 319
+shareholders of record of the Common Stock. The Company estimates, based on
+surveys conducted by its transfer agent in connection with the Company's 2004
+Annual Meeting of Shareholders, that there are approximately 1,400 beneficial
+holders of the Common Stock.
+
+c) Dividends
+
+No cash dividends have been declared on the Company's Common Stock to date and
+the Company anticipates that any earnings will be retained for use in the
+Company's business for the foreseeable future. The Company currently is
+prohibited from paying cash dividends on its Common Stock under the terms and
+conditions of its Renewed Revolving Credit Loan. The Company currently does not
+have a set policy with respect to payment of dividends. Any future determination
+to pay cash dividends will be at the discretion of the Company's Board of
+Directors and will be dependent upon the Company's financial condition, results
+of operations, capital requirements and other relevant factors.
+
+d) Securities authorized for issuance under equity compensation plans
+
+The following table sets forth as of June 30, 2005:
+
+o        the number of shares of the Company's Common Stock issuable upon
+         exercise of outstanding options, warrants and rights, separately
+         identified by those granted under equity incentive plans approved by
+         the Company's shareholders and those granted under plans, including
+         individual compensation contracts, not approved by the Company's
+         shareholders (column A),
+
+o        the weighted average exercise price of such options, warrants and
+         rights, also as separately identified (column B), and
+
+o        the number of shares remaining available for future issuance under such
+         plans, other than those shares issuable upon exercise of outstanding
+         options, warrants and rights (column C).
+
+
+                                       9
+<PAGE>
+<TABLE>
+<CAPTION>
+<S>              <C>               <C>                     <C>              <C>
+                               (a)                  (b)                  (c)
+    Plan Category      Number of securities   Weighted average     Number of securities
+                       to be issued upon      exercise price of    remaining available
+                       exercise of            outstanding options, for future issuance
+                       outstanding options,   warrants and rights  under equity
+                       warrants and rights                         compensation plans
+                                                                   (excluding securities
+                                                                    reflected in column
+                                                                    (a))
+
+Equity compensation
+plans approved by
+security holders (1)               948,400                 $.76             1,114,500
+
+Equity compensation
+plan not approved by
+security holders                        0                     0                     0
+
+Total                              948,400                 $.76             1,114,500
+</TABLE>
+
+(1)      The equity compensation plans approved by the security holders are the
+         Company's 2004 Equity Incentive Plan, 1999 Stock Option Plan and the
+         1995 Stock Option Plan, as amended, which expires this year.
+
+
+
+
+
+
+
+                                       10
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+
+Item 6.  Selected Financial Data
+--------------------------------
+
+                                                                 As of and for the Years Ended June 30,
+
+                                                 2005       2004            2003        2002                2001
+                                                 ----        ----           ----        ----                ----
+<S>                                          <C>         <C>           <C>           <C>                 <C>
+NET SALES                                    23,135,063  $19,832,910   $18,043,668   $20,086,888         $24,051,300
+                                             ==========  ===========   ===========   ===========         ===========
+
+OPERATING INCOME (LOSS)                       1,354,617   $1,453,628        $(545)      $391,408     $(1,285,785)(b)
+                                              =========   ==========        ======      ========     ===============
+
+INCOME (LOSS) BEFORE CUMULATIVE EFFECT OF     1,899,930   $1,345,467    $(218,338)       $84,002     $(1,738,346)(b)
+                                              =========   ==========    ==========       =======     ===============
+CHANGE IN ACCOUNTING PRINCIPLE
+
+CUMULATIVE EFFECT OF CHANGE IN ACCOUNTING           $--          $--  $(1,297,069)           $--                 $--
+                                                    ===          ===  ============           ===                 ===
+PRINCIPLE (a)
+
+NET INCOME (LOSS)                             1,899,930   $1,345,467  $(1,515,407)       $84,002     $(1,738,346)(b)
+                                              =========   ==========  ============       =======     ===============
+EARNINGS (LOSS) PER SHARE BEFORE CUMULATIVE
+EFFECT OF CHANGE IN ACCOUNTING PRINCIPLE
+     BASIC                                         $.20         $.15        $(.02)          $.01              $(.19)
+                                                   ====         ====        ======          ====              ======
+     DILUTED                                       $.19         $.14        $(.02)          $.01              $(.19)
+                                                   ====         ====        ======          ====              ======
+
+NET EARNINGS (LOSS) PER SHARE
+      BASIC                                        $.20         $.15        $(.16)          $.01              $(.19)
+                                                   ====         ====        ======          ====              ======
+      DILUTED                                      $.19         $.14        $(.16)          $.01              $(.19)
+                                                   ====         ====        ======          ====              ======
+
+TOTAL ASSETS                                 $8,153,396   $6,244,895    $6,043,855    $7,849,510          $8,635,214
+                                             ==========   ==========    ==========    ==========          ==========
+
+LONG-TERM DEBT                                      $--     $222,223      $630,556    $1,180,556          $2,359,033
+                                                    ===     ========      ========    ==========          ==========
+
+SHAREHOLDERS' EQUITY                         $4,662,631   $2,665,396    $1,319,929    $2,822,717          $2,717,233
+                                             ==========   ==========    ==========    ==========          ==========
+
+SHAREHOLDERS' EQUITY PER COMMON SHARE              $.50         $.29          $.14          $.30                $.29
+                                                   ====         ====          ====          ====                ====
+
+COMMON SHARES OUTSTANDING, at end
+of period                                     9,407,717    9,270,617     9,270,617     9,270,617           9,270,617
+                                              =========    =========     =========     =========           =========
+
+
+CASH DIVIDENDS PER COMMON SHARE                    none         none          none          none                none
+</TABLE>
+
+
+(a)      Upon adoption of SFAS 142 in the first quarter of Fiscal Year 2003, the
+         Company recorded a one-time, non-cash charge of approximately
+         $1,297,069, to reduce the carrying value of its goodwill. Such charge
+         is non-operational in nature and is reflected as a cumulative effect of
+         an accounting change. See Note 1 to the Consolidated Financial
+         Statements for further discussion and required disclosures.
+
+(b)      The amounts for Fiscal Year 2001 include charges and provisions of
+         $846,000, to reduce the goodwill associated with the medical diagnostic
+         imager product line to $0, and $110,000, to reflect the sale of the
+         graphic arts business, including $50,000 to reduce the graphic arts
+         inventory to the fair market value and $60,000, for severance and other
+         closing costs.
+
+
+
+
+
+
+
+                                       11
+<PAGE>
+
+
+Item 7.  Management's Discussion and Analysis of Financial Condition and Results
+         of Operation
+--------------------------------------------------------------------------------
+
+The following should be read in conjunction with the Company's Consolidated
+Financial Statements and notes thereto included elsewhere in this Annual Report
+on Form 10-K.
+
+Capital Resources and Liquidity
+-------------------------------
+
+The Company's working capital increased by approximately $1,764,600 between
+Fiscal Year 2005 and Fiscal Year 2004. This increase is principally due to
+internally generated funds with corresponding reductions in the revolver debt,
+an increase in the current deferred tax asset and increases in accounts payable,
+offset by scheduled payments on the subordinated debt and increases in inventory
+and accounts receivable. The Company used the current availability from the
+revolving line of credit to make the required principal payments on the two
+subordinated notes and income from operations to reduce the principal amount of
+the revolver debt. The Company is current on all of its principal payments.
+
+The Company's higher sales in Fiscal Year 2005 have increased cash collections
+and profits. This cash has been used to reduce debt whenever possible. A small
+percentage increase in customers using national credit cards has expedited the
+collection process. The Company is continuing to increase its finished goods
+inventory levels, so as to better satisfy worldwide customer demand. The Company
+has not changed its payment policies available to its significant vendors.
+
+On September 21, 2004, the Company renewed its senior secured credit facility
+(the "Renewed Revolving Credit Loan") with its existing senior secured lender
+for an additional three-year period. The Renewed Revolving Credit Loan replaced
+the existing senior credit facility (the "Original Revolving Credit Loan").The
+maximum borrowing permitted under the Renewed Revolving Credit Loan is lower
+than that under the prior credit facility, based on the Company's current
+requirements. However, the Renewed Revolving Credit Loan has more favorable
+terms, including a lower interest rate and less stringent reporting
+requirements, than that under the Original Revolving Credit Loan and gives the
+Company the ability to borrow on a specific amount of foreign accounts
+receivable The Renewed Revolving Credit Loan consists of a $2.5 million
+revolving line of credit, which is secured by all of the Company's inventory,
+accounts receivable, equipment, officer life insurance policies and proceeds
+thereof, trademarks, licenses, patents and general intangibles. It is believed
+that the Renewed Revolving Credit Loan is sufficient to finance the Company's
+ongoing working capital requirements for the foreseeable future. The Renewed
+Revolving Credit Loan has an interest rate of 1.375% over the prime rate,
+currently at 6-3/4 % (6 1/4 % as of June 30, 2005), has a specific formula to
+calculate available funds based on eligible accounts receivable and inventory,
+and has certain reporting requirements to the senior secured lender. The Renewed
+Revolving Credit Loan also requires that certain financial ratios and net worth
+amounts be maintained by the Company. The Renewed Revolving Credit Loan provides
+for increases in the interest rate charged on monies outstanding under specific
+circumstances. As of June 30, 2005, the principal amount outstanding under the
+Renewed Revolving Credit Loan was $452,363.
+
+As of June 30, 2005, the Company was in compliance with all the terms and
+conditions of the Renewed Revolving Credit Loan, as amended.
+
+In connection with the Original Revolving Credit Loan, the Company issued a
+5-year warrant to the lender for the purchase of 100,000 shares of the Company's
+common stock at $.32 per share, subject to adjustment for all subsequent
+issuances of stock. This warrant expires on September 21, 2006. The
+Black-Scholes option pricing method was used to value the warrant, and the stock
+price was based on the stock price the day prior to closing, plus 10%, as
+stipulated in the Loan and Security Agreement for the Original Revolving Credit
+Loan.
+
+Included in debt is a subordinated promissory note related to a prior dental
+company acquisition. As of June 30, 2005, the outstanding principal amount of
+this note totals $222,222, and the entire amount has been classified as a
+current liability as it is scheduled to be repaid in full within Fiscal Year
+2006. The Company is current on all principal and interest payments due the note
+holder. A second subordinated promissory note, related to a different prior
+acquisition, was repaid in full in Fiscal Year 2005.
+
+The Company's historical operating cash flows have been positive; however, the
+Company is dependent upon the Renewed Revolving Credit Loan to finance its
+ongoing operations. The Company expects its working capital requirements will
+continue to be financed by operations and from borrowings on the Renewed
+Revolving Credit Loan. It is believed that the Renewed Revolving Credit Loan is
+sufficient to finance the Company's ongoing working capital requirements for the
+foreseeable future. The Company currently believes that there are no significant
+trends, demands, commitments or contingencies, other than an unexpected material
+adverse conclusion to the ongoing environmental litigation case, which are
+reasonably likely to result in a significant increase or decrease in its
+liquidity or capital resources within the foreseeable future. As of June 30,
+2005, the Company had available $1,348,234 of unused credit under the Renewed
+Revolving Credit Loan. As of September 16, 2005, the Company had available
+$1,141,814 of unused credit under the Renewed Revolving Credit Loan. No
+assurances can be given that the Company will have sufficient cash flow in the
+long term.
+
+                                       12
+<PAGE>
+
+Capital expenditures for Fiscal Year 2005 were approximately $176,981,
+consisting mainly of several tooling, foundry and test equipment expenditures
+related to the design, development and production of the new imaging products;
+costs relating to improvements to the Company's network and email servers, new
+computer equipment for the sales personnel, the purchase of a new modular trade
+show booth for national dental trade show exhibitions, and other appropriate
+replacements in the normal course of operations. The Company expects to continue
+to finance any future capital requirements principally from internally generated
+funds. The total amount of capital expenditures was limited under the Original
+Revolving Credit Loan, and continues to be limited under the Renewed Revolving
+Credit Loan. However, such terms can be waived by the senior secured lender when
+needed. The Company was in compliance with this requirement as of June 30, 2005.
+
+The Company has made a concerted effort during Fiscal Year 2005 to have
+sufficient quantity of finished goods inventory available so as to be able to
+quickly fulfill customer demands. That, combined with the anticipated increase
+in sales levels in Fiscal Year 2006, has resulted in an increase in inventory
+levels, accounts payable and accrued expenses as at June 30, 2005 compared to
+the inventory levels, accounts payable, and accrued expenses at June 30, 2004.
+The Company also prepared for the extended European summer holiday, when foreign
+vendors usually limit their shipments.
+
+Off-Balance Sheet Arrangements
+------------------------------
+
+The Company has no off-balance sheet financing arrangements or interests in
+so-called special purpose entities.
+
+Results of Operations
+---------------------
+
+The Company's quarterly operating results may fluctuate depending on a variety
+of factors, many of which are not in the Company's control, including but not
+limited to:
+
+o        Demand for products and services,
+
+o        The level of product, price and service competition,
+
+o        Changes in product mix, which could effect profit margins,
+
+o        Federal, state or local government regulation,
+
+o        Consumer trends,
+
+o        Capital spending budgets of customers,
+
+o        General economic conditions specific to the Company's industry.
+
+Fiscal 2005 vs. Fiscal 2004
+---------------------------
+
+Sales increased approximately $3,302,200 or 16.6%, between Fiscal Year 2004 and
+Fiscal Year 2005. Approximately 57% of this increase is attributable to the
+continued sales growth of the Company's digital products in both the domestic
+and international marketplaces. X-ray sales increased approximately 28% in the
+current fiscal year, due to the introduction of new products or product
+enhancements. The balance of the increase in sales is mainly attributable to
+x-ray processor sales, chemistry and the introduction into the veterinary market
+of a CR filmless scanner used in conjunction with general radiographic
+equipment. The Company's international sales increased 38%, mostly in the dental
+sector, due to sales of the new products.
+
+Gross profit as a percent of sales stayed relatively constant between Fiscal
+Year 2004 and Fiscal Year 2005; however, the detail between material costs and
+labor and overhead costs showed differences. Material costs, as a percent of
+sales, increased 1.0 percentage points, mainly due to the strength of the Euro
+related to the dollar, which was offset by production improvements in other new
+products and price increases implemented in the third quarter for some of the
+imported products. Labor and overhead costs increased $213,000 due to the
+significantly higher sales volumes in the current fiscal year. However, the
+relative percentage points for labor and overhead costs decreased 1.1 percentage
+points due to the higher sales base.
+
+Selling, general, and administrative costs increased approximately $1,351,800 or
+23.3%, between Fiscal Year 2004 and Fiscal Year 2005. This increase is due to
+several different factors: (1) as of December 31, 2004, the Company had recorded
+a total of $305,000 of G&A costs which included associated legal and settlement
+fees related to two separate environmental lawsuits (one of which was settled in
+February 2005), (2) marketing and sales costs increased by approximately
+$843,000 in the current fiscal year due to the Company aggressively pursuing
+various sales opportunities in both the domestic and international markets,
+including increased travel costs, attendance at several national and regional
+clinical exhibitions, additional advertising, and increased operating costs, (3)
+consulting costs related to exploring various acquisition opportunities
+increased in the current fiscal year, and (4) increased variable general
+operating costs associated with the 16% increase in sales. The Company
+anticipates continuing to evaluate acquisition opportunities and therefore may
+continue to incur related consulting costs in the future. Such costs relating to
+acquisition opportunities may vary significantly between fiscal periods
+depending on the extent of acquisition activities.
+
+                                       13
+<PAGE>
+
+Research and development costs increased slightly, by approximately $38,400 or
+9.7%, between Fiscal Year 2004 and Fiscal Year 2005. The Company continues to
+invest in the design, development and refinement of new digital imaging
+products, as well as to invest in sustaining engineering and related costs for
+existing products. Research and development costs may fluctuate between fiscal
+periods, due to changing research and development consulting requirements,
+initiation or completion of certain project tasks, and market demands.
+
+Interest expense, net decreased by approximately $31,700 or 20.2% between Fiscal
+Year 2004 and Fiscal Year 2005. A subordinated note was repaid as of December
+2004, and the other subordinated note had a lower principal amount and slightly
+lower interest rate (based on the LIBOR rate of borrowing) in the current fiscal
+year. The average revolving credit loan balance in Fiscal Year 2005 was
+approximately $26,000 less than the average in Fiscal Year 2004; however, the
+prime rate of borrowing, upon which interest rates for the revolving credit loan
+is based, was slightly higher.
+
+A deferred income tax benefit of approximately $680,000 resulted from a decrease
+in the Company's valuation allowance against its deferred tax asset and was
+recorded in the third and fourth quarters of Fiscal Year 2005. The deferred tax
+asset primarily relates to losses reported in prior years. The Company believes
+it is likely that it will utilize a portion of these prior year net operating
+loss carry forwards, based on the Company's recent strong earnings history. As a
+result, net income for Fiscal Year 2005 was $680,000 ($.07 per diluted share)
+higher than would have been reported if such tax benefit had not been recorded.
+The remaining balance of the tax benefit recorded for Fiscal Year 2005, includes
+federal and state income and capital taxes, and related refunds and credits
+received. The Company's income tax benefit for Fiscal Year 2004 primarily
+reflect certain state capital taxes and Federal alternative tax. The Fiscal Year
+2004 tax benefit also reflects the realization of net operating losses
+previously subject to valuation allowances, which offset federal and state
+income tax provisions.
+
+
+Fiscal 2004 vs. Fiscal 2003
+---------------------------
+
+In June 2003, management developed a significant cost reduction program, which
+was implemented effective July 2003. This program reduced overhead costs, both
+direct and non-direct, and payroll and related costs by over $500,000. These
+reductions included elimination of non-productive product lines, a 7% decrease
+in the work force, and numerous cost cutbacks throughout the Company. Management
+reviewed all significant cost centers and eliminated or reduced many major
+expenses, including payroll and related benefit costs, communication, and travel
+and entertainment. Management will continue to monitor and control the level of
+discretionary spending. In Fiscal Year 2004, the Company reorganized its
+marketing/sales department resulting in increased operating efficiencies.
+Management was able to significantly increase sales with only a modest increase
+in total expenditures. Management continues to search for and develop new
+products that satisfy its niche markets in medical, dental and veterinary
+diagnostic imaging.
+
+The Company began shipments of its new digital dental sensor, "EVA" (R), in
+November 2002 to international dealers and distributors. The Company received
+FDA clearance for the EVA sensor in March 2003, which permitted the Company to
+begin to market and distribute the product domestically. This digital sensor can
+also be used in veterinary dental applications. The Company is continuing to
+develop its sensors, accessories and related software, and anticipates both
+domestic and international growth in this product line.
+
+Sales increased approximately $1,789,200 or 10% between Fiscal Year 2004 and
+Fiscal Year 2003. A significant portion of this increase is attributable to the
+introduction of the Company's digital products to the domestic marketplace.
+Medical product sales, including veterinary products, showed an increase of
+$970,000. Dental product sales, including digital products, increased
+approximately $820,000, both domestically and internationally. The Company's
+analog products stayed relatively constant throughout the two periods.
+International sales increased approximately 6% in Fiscal Year 2004 compared to
+Fiscal Year 2003, mainly in dental equipment sales.
+
+Gross profit as a percent of sales increased 4.4 percentage points between the
+Fiscal Year 2004 and Fiscal Year 2003. All product lines showed improvements in
+their margins, due to increased operating efficiencies. The product mix between
+manufactured and distributor goods stayed relatively constant between the two
+fiscal years. Labor and overhead costs, which are included in cost of sales,
+were approximately $240,000 lower and or 2.7 percentage points lower as a
+percent of sales in Fiscal Year 2004 compared to Fiscal Year 2003, due to the
+above-mentioned cost reductions.
+
+                                       14
+<PAGE>
+
+Selling, general, and administrative costs increased approximately $178,500 or
+3.2%, between Fiscal Year 2004 and Fiscal Year 2003. Most of this increase is
+attributable to a 7% increase in marketing/selling costs to promote the new
+digital sensor and the veterinary imaging products, including advertising and
+attendance at several more exhibition shows, offset by the results of the
+Company's cost reduction program developed in June 2003. Additionally, the
+Company increased its reserve on the environmental litigation related to the
+property in New Jersey, based upon the advise of their expert counsel in this
+matter.
+
+Research and development costs decreased, approximately $156,500 or 28.3%
+between the Fiscal Year 2004 and Fiscal Year 2003. This decrease is mainly
+attributable to the timing of expenditures relating to the Company's continued
+investment in the design, development and refinement of its new imaging products
+as well as the completion of several engineering projects and the introduction
+of these products into commercial use. The Company continues to invest in
+sustaining engineering and related costs for its existing products. Research and
+development costs are expected to continue to fluctuate between reporting
+periods.
+
+Interest expense, net, decreased by approximately $49,900 or 24.1%, between
+Fiscal Year 2004 and Fiscal Year 2003 primarily due to several factors. There
+was approximately $566,000 less in average monthly revolving credit borrowings
+for the current year; the prime rate of borrowing, upon which interest rates for
+all senior debt is based, was slightly lower in the current period; and the
+LIBOR rate of borrowing, upon which a subordinated note is based was
+significantly lower in the current period.
+
+The income tax benefit for Fiscal Year 2004 and the income tax provision for
+Fiscal Year 2003 primarily reflect certain state capital taxes and Federal
+alternative tax. In Fiscal Year 2004, the Company realized net operating losses
+previously subject to valuation allowances to offset federal and state income
+tax provisions. In Fiscal Year 2003, no tax benefit was recognized for the
+losses incurred.
+
+In Fiscal Year 2003, in compliance with the FASB SFAS No. 142, "Goodwill and
+Other Intangible Assets," the Company reviewed its remaining goodwill, which
+related to the Swedish dental acquisition in April 1997, and determined that,
+under the revised accounting valuation rules, such goodwill had significantly
+diminished in value. Therefore, in compliance with SFAS No. 142, the Company
+took a one-time charge of $1,297,069 to completely write-off the goodwill
+associated with this acquisition. As the Company no longer has any goodwill,
+management does not expect that future compliance with SFAS No. 142 will have a
+material effect on the Company's financial position or results of operation,
+except for any potential future acquisitions involving goodwill or other
+intangible assets.
+
+
+Critical Accounting Policies and Estimates
+------------------------------------------
+
+The preparation of financial statements in conformity with United States
+generally accepted accounting principles requires management to makes estimates
+and assumptions that affect the reported amounts of assets and liabilities and
+the reported amounts of revenues and expenses. These estimates and assumptions
+are evaluated on an ongoing basis based on historical internal operations,
+industry trends and conditions, market conditions and other information that
+management believes to be reasonable or applicable under the circumstances.
+There can be no assurances that actual results of operations will be consistent
+with management's estimates and assumptions, and that reported results of
+operations will not be adversely affected by the requirement to make accounting
+adjustments to reflect changes in these estimates from time to time. The
+following policies are those that management believes to be the most sensitive
+to estimates and judgments.
+
+Revenue Recognition
+-------------------
+The Company recognizes revenue for both its domestic and international sales
+when products are shipped and title passes to the customer. The Company includes
+shipping and handling costs as a component of cost of sales.
+
+Accounts Receivable
+-------------------
+The Company reports accounts receivable net of reserves for doubtful accounts.
+Credit is extended to worldwide distributors on varying terms between 30 and 90
+days. The reserve for doubtful accounts is management's best estimate of the
+amount of probable credit losses in the Company's existing accounts receivable
+and is based upon continual analysis of the accounts receivable aging including
+credit risk of specific customers, historical trends and other related
+information. The Company writes off accounts receivable when they become
+uncollectible. There have been no significant changes in the computation
+methodology of the reserve for doubtful accounts in the past three years and the
+Company has not had significant bad debt write-offs in the past few years. The
+allowance for doubtful accounts is based on the Company's analysis of aged
+accounts receivable. Management believes that any potential risk associated with
+the estimate of reserve for doubtful accounts is therefore limited.
+
+                                       15
+<PAGE>
+
+Inventories
+-----------
+Inventories, which include material and a small component of work-in-process
+labor and overhead, are stated at the lower of cost (first in, first out) or
+market (net realizable value). The Company uses a standard cost accounting
+system in conjunction with an actual perpetual system to properly account for,
+control and maintain the movement of all inventory components. The Company has
+established inventory reserves based on inventory estimated to be obsolete, slow
+moving, or unmarketable due to changing technological and/or market conditions.
+If actual market and technical conditions are less favorable than those
+anticipated, additional inventory reserves would be required. There have been no
+significant changes in the computation methodology of the reserves for inventory
+in the past three years.
+
+Warranties
+----------
+The Company records a liability for an estimate of costs that it expects to
+incur under its limited warranty based on revenues. Various factors affect the
+Company's warranty liability, including (1) number of units sold, (2) historical
+rates of claims, (3) anticipated rates of claims, as well as (4) costs per
+claim. The Company periodically assesses the adequacy of its warranty liability
+based on changes in these factors.
+
+In March 2005, the Company began to include an extended warranty with its
+digital sensors. The Company will monitor the rate and costs of claims and
+review the adequacy of its warranty liability and make any changes as necessary.
+If the Company experiences significant increased warranty claims or activity,
+the warranty reserve will be increased, resulting in decreased gross profit.
+
+Stock-based Compensation
+------------------------
+Stock based compensation is accounted for under the recognition and measurement
+principles of APB Opinion No. 25, Accounting for Stock Issued to Employees, and
+related interpretations. Effective July 1, 2005, the Company will begin to
+account for stock based compensation under Financial Accounting Standards Board
+Statement No. 123R, Share Based Payment. Approximately $48,000 of stock-based
+employee compensation cost is included in net income for Fiscal Year 2005, as
+certain options were granted at an exercise below market value on the date of
+grant. The Company determines the fair value of options based on the
+Black-Scholes model, which is based on specific assumptions including (1)
+expected life of the option, (2) risk free interest rates, (3) expected
+volatility and (4) expected dividend yield.
+
+Deferred Tax Asset and Income Taxes
+-----------------------------------
+Income taxes are accounted for under the asset and liability method. Deferred
+income taxes are recorded for temporary differences between financial statement
+carrying amounts and the tax basis of assets and liabilities. Deferred tax
+assets reflect the tax rates expected to be in effect in the period in which the
+differences are expected to reverse. The Company records a valuation allowance
+to reduce its tax asset when it is more likely than not that a portion of the
+amount may not be realized. The Company estimates its valuation allowance based
+on an estimated forecast of its future profitability. Any significant changes in
+future profitability resulting from variations in future revenues or expenses
+could affect the valuation allowance on its deferred tax asset and operating
+results could be effected, accordingly, deferred income tax benefits aggregating
+approximately $680,000 resulting from a decrease in the Company's valuation
+allowance against its deferred tax asset were recorded in the third and fourth
+quarters of Fiscal 2005. The deferred tax asset primarily relates to losses
+reported in prior years. The Company believes it is likely that they will
+utilize a portion of these prior year net operating loss carry forwards, based
+on the Company's current strong earnings history. In reviewing the valuation
+allowance, the Company has considered future taxable income and has determined
+that it is more likely than not that a portion of the deferred tax asset will be
+realized. Changes in these circumstances, such as an increase or decline in
+estimated future taxable income would result in a re-valuation of the valuation
+allowance.
+
+Litigation and Contingencies
+----------------------------
+The Company is party to lawsuits arising out of its respective operations. The
+Company records a liability when it is probable and can be reasonably estimated.
+The Company believes it has properly estimated in the past; however, court
+decisions and/or other unforeseen events could cause liabilities to be incurred
+in excess of estimates.
+
+
+Item 7A.   Quantitative and Qualitative Disclosures About Market Risk
+---------------------------------------------------------------------
+
+The Company's earnings and cash flows are subject to changes in interest rates
+(short-term prime based interest rates and the 12-month LIBOR rate) primarily
+from its borrowings under its senior and subordinate debt. The Company does not
+believe that it is materially exposed to changes in interest rates; as at June
+30, 2005 there was approximately $674,600 in total debt outstanding. The Company
+does not currently use interest rate derivative instruments to manage exposure
+to interest rate changes.
+
+                                       16
+<PAGE>
+
+The Company's earnings and cash flows are subject to foreign currency exchange
+rate risk, specifically the Euro/Dollar and the Yen/Dollar. The Company does not
+believe that it is materially exposed to foreign currency exchange rate risk due
+to the volume of purchases in foreign currency relative to purchases in US
+dollars; however, the relative strength of the Dollar to the Euro or to the Yen
+does affect the Company's gross profit. The Company continuously monitors all
+changes in foreign currency and may adjust its pricing to customers to reflect
+these changes.
+
+Item 8. Financial Statements and Supplementary Data
+---------------------------------------------------
+
+                                        AFP IMAGING CORPORATION AND SUBSIDIARIES
+
+
+                                                                        CONTENTS
+                                                                   June 30, 2005
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+Reports of Independent Registered Public Accounting Firms              F-1 - F-2
+
+
+Consolidated Financial Statements:
+
+   Balance Sheet                                                         F-3
+   Statement of Operations                                               F-4
+   Statement of Shareholders' Equity and Comprehensive Income (Loss)     F-5
+   Statement of Cash Flows                                               F-6
+   Notes to Consolidated Financial Statements                         F-7 - F-19
+
+
+Supplemental Schedule:
+
+   Schedule of Valuation and Qualifying Accounts                        F-20
+
+
+
+<PAGE>
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+
+
+
+To the Board of Directors
+AFP Imaging Corporation
+
+
+We have audited the accompanying consolidated balance sheets of AFP Imaging
+Corporation and Subsidiaries (the "Company") as of June 30, 2005 and 2004, and
+the related consolidated statements of operations, shareholders' equity and
+comprehensive income (loss), and cash flows for the years then ended. Our audits
+also included the financial statement schedule listed in the Index at Item 15.
+These consolidated financial statements and schedule are the responsibility of
+the Company's management. Our responsibility is to express an opinion on these
+consolidated financial statements and schedule based on our audits.
+
+We conducted our audits in accordance with the standards of the Public Company
+Accounting Oversight Board (United States). Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above present
+fairly, in all material respects, the consolidated financial position of AFP
+Imaging Corporation and Subsidiaries as of June 30, 2005 and 2004 and the
+results of their operations and their cash flows for the years then ended, in
+conformity with United States generally accepted accounting principles. Also, in
+our opinion, the related financial statement schedule, when considered in
+relation to the basic consolidated financial statements taken as a whole,
+presents fairly in all material respects the information set forth therein.
+
+
+
+GOLDSTEIN GOLUB KESSLER LLP
+New York, New York
+
+
+August 16, 2005
+
+                                                                             F-1
+<PAGE>
+
+
+
+             Report of Independent Registered Public Accounting Firm
+
+To the Board of Directors and Shareholders of AFP Imaging Corporation
+
+We have audited the accompanying consolidated statements of operations,
+shareholders' equity and comprehensive income (loss), and cash flows of AFP
+Imaging Corporation (a New York Corporation) for the year ended June 30, 2003.
+Our audit also included the financial statement schedule listed in the Index at
+Item 15(a). These financial statements and schedule are the responsibility of
+the Company's management. Our responsibility is to express an opinion on these
+financial statements and schedule based on our audit.
+
+We conducted our audit in accordance with the standards of the Public Company
+Accounting Oversight Board (United States). Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. We were not engaged to perform an
+audit of the Company's internal control over financial reporting. Our audit
+included consideration of internal control over financial reporting as a basis
+for designing audit procedures that are appropriate in the circumstances, but
+not for the purpose of expressing an opinion on the effectiveness of the
+Company's internal control over financial reporting. Accordingly, we express no
+such opinion. An audit also includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements, assessing
+the accounting principles used and significant estimates made by management, and
+evaluating the overall financial statement presentation. We believe that our
+audit provides a reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the consolidated results of operations and cash flows of
+AFP Imaging Corporation for the year ended June 30, 2003, in conformity with
+U.S. generally accepted accounting principles. Also, in our opinion, the related
+financial statement schedule, when considered in relation to the basic financial
+statements taken as a whole, presents fairly in all material respects the
+information set forth therein.
+
+As discussed in Note 1 to the consolidated financial statements, on July 1,
+2002, the Company changed its method of accounting for goodwill and other
+intangible assets.
+
+
+
+
+                             /s/ Ernst & Young LLP
+Stamford, Connecticut
+August 25, 2003
+
+
+
+                                                                             F-2
+<PAGE>
+<TABLE>
+<CAPTION>
+
+
+
+
+
+
+                                                                              AFP IMAGING CORPORATION AND SUBSIDIARIES
+                                                                                            CONSOLIDATED BALANCE SHEET
+----------------------------------------------------------------------------------------------------------------------
+
+
+June 30,                                                                                     2005                 2004
+----------------------------------------------------------------------------------------------------------------------
+
+ASSETS
+
+Current Assets:
+<S>                                                                                    <C>               <C>
+  Cash and cash equivalents                                                            $  331,009        $     331,993
+  Accounts receivable, less allowance for doubtful accounts
+   of $90,000 and $95,000, respectively                                                 2,704,136            2,503,760
+  Inventories                                                                           3,921,383            2,704,009
+  Prepaid expenses and other current assets                                                89,069              267,380
+  Deferred income taxes                                                                   680,000                    -
+----------------------------------------------------------------------------------------------------------------------
+      Total current assets                                                              7,725,597            5,807,142
+
+Property and Equipment, net of accumulated depreciation
+ of $1,234,305 and $1,114,540, respectively                                               388,738              388,271
+
+Other Assets                                                                               39,061               49,482
+
+----------------------------------------------------------------------------------------------------------------------
+      Total Assets                                                                     $8,153,396        $   6,244,895
+======================================================================================================================
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+
+Current Liabilities:
+  Current portion of long-term debt                                                    $  674,585        $   1,451,094
+  Accounts payable                                                                      1,339,251              922,499
+  Accrued expenses                                                                      1,361,514              847,923
+
+----------------------------------------------------------------------------------------------------------------------
+      Total current liabilities                                                         3,375,350            3,221,516
+
+Long-term Debt                                                                                  -              222,223
+
+Deferred Rent                                                                             115,415              135,760
+
+----------------------------------------------------------------------------------------------------------------------
+      Total liabilities                                                                 3,490,765            3,579,499
+----------------------------------------------------------------------------------------------------------------------
+
+Commitments and Contingencies
+
+Shareholders' Equity:
+  Preferred stock - $.01 par value; authorized 5,000,000 shares, none issued                    -                    -
+  Common stock - $.01 par value; authorized 30,000,000 shares, issued and
+    outstanding 9,407,717 and 9,270,617 shares at June 30, 2005
+    and June 30, 2004, respectively                                                        94,077               92,710
+  Common stock warrants                                                                    19,800               19,800
+  Paid-in capital                                                                      11,641,821           11,545,883
+  Accumulated deficit                                                                  (7,093,067)          (8,992,997)
+----------------------------------------------------------------------------------------------------------------------
+
+      Total shareholders' equity                                                        4,662,631            2,665,396
+
+----------------------------------------------------------------------------------------------------------------------
+      Total Liabilities and Shareholders' Equity                                       $8,153,396        $   6,244,895
+=======================================================================================================================
+</TABLE>
+
+See Notes to Consolidated Financial Statements                               F-3
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                                              AFP IMAGING CORPORATION AND SUBSIDIARIES
+
+
+                                                                                  CONSOLIDATED STATEMENT OF OPERATIONS
+----------------------------------------------------------------------------------------------------------------------
+
+Year ended June 30,                                                         2005               2004               2003
+----------------------------------------------------------------------------------------------------------------------
+
+<S>                                                                 <C>                 <C>                <C>
+Net sales                                                           $ 23,135,063        $19,832,910        $18,043,668
+
+Cost of sales                                                         14,189,096         12,178,072         11,864,995
+----------------------------------------------------------------------------------------------------------------------
+
+Gross profit                                                           8,945,967          7,654,838          6,178,673
+
+Selling, general and administrative expenses                           7,155,537          5,803,766          5,625,227
+
+Research and development expenses                                        435,813            397,444            553,991
+----------------------------------------------------------------------------------------------------------------------
+
+Operating income (loss)                                                1,354,617          1,453,628               (545)
+
+Interest expense, net of interest income                                 125,358            157,015            206,878
+----------------------------------------------------------------------------------------------------------------------
+
+Income (loss) before provision (benefit) for
+ income taxes                                                          1,229,259          1,296,613           (207,423)
+
+Provision (benefit) for income taxes                                    (670,671)           (48,854)            10,915
+----------------------------------------------------------------------------------------------------------------------
+
+Income (loss) before cumulative effect of change
+ in accounting principle                                               1,899,930          1,345,467           (218,338)
+
+Cumulative effect of change in accounting principle                            -          -                 (1,297,069)
+
+----------------------------------------------------------------------------------------------------------------------
+Net income (loss)                                                    $ 1,899,930        $ 1,345,467       $ (1,515,407)
+======================================================================================================================
+
+Income (loss) per share before cumulative effect of change in accounting
+ principle:
+  Basic                                                              $       .20        $       .15       $       (.02)
+  Diluted                                                            $       .19        $       .14       $       (.02)
+======================================================================================================================
+
+Net income (loss) per common share:
+  Basic                                                              $       .20        $       .15       $       (.16)
+  Diluted                                                            $       .19        $       .14       $       (.16)
+======================================================================================================================
+</TABLE>
+
+
+
+See Notes to Consolidated Financial Statements                               F-4
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+
+
+
+
+
+                                                                                   AFP IMAGING CORPORATION AND SUBSIDIARIES
+
+                                             CONSOLIDATED STATEMENT OF SHAREHOLDERS' EQUITY AND COMPREHENSIVE INCOME (LOSS)
+---------------------------------------------------------------------------------------------------------------------------
+
+Years ended June 30, 2003, 2004 and 2005
+---------------------------------------------------------------------------------------------------------------------------
+
+                                            CONSOLIDATED STATEMENT OF SHAREHOLDERS' EQUITY AND COMPREHENSIVE INCOME (LOSS)
+
+Years ended June 30, 2003, 2004 and 2005
+                                                                                                   Foreign
+                                                            Common                                 Currency
+                                 Comprehensive   Common      Stock       Paid-in   Accumulated   Translation
+                                 Income (Loss)   Stock     Warrants      Capital       Deficit   Adjustment        Total
+---------------------------------------------------------------------------------------------------------------------------
+
+<S>          <C> <C>                           <C>      <C>          <C>          <C>             <C>       <C>
+Balance June 30, 2002                       -  $92,710  $    19,800  $11,545,883  $ (8,823,057)   $(12,619) $ 2,822,717
+Foreign currency translation
+ adjustment                     $       1,470        -            -            -             -       1,470        1,470
+Reclassification adjustment            11,149        -            -            -             -      11,149       11,149
+Net loss                           (1,515,407)       -            -            -    (1,515,407)          -   (1,515,407)
+                                    ----------
+Comprehensive loss              $  (1,502,788)
+                                    ==========
+---------------------------------------------------------------------------------------------------------------------------
+Balance June 30, 2003                           92,710       19,800   11,545,883   (10,338,464)          -    1,319,929
+Net income                          1,345,467        -            -            -     1,345,467           -    1,345,467
+
+---------------------------------------------------------------------------------------------------------------------------
+Balance June 30, 2004                  92,710   19,800   11,545,883   (8,992,997)            -           -    2,665,396
+Issuance of 137,100 shares of
+common stock in connection with the
+exercise of stock options                        1,367            -       47,938             -           -       49,305
+Issuance of 100,000 stock
+ options below
+  market price                                       -            -       48,000             -           -       48,000
+Net income                      $   1,899,930        -            -            -     1,899,930           -    1,899,930
+---------------------------------------------------------------------------------------------------------------------------
+Balance June 30, 2005                          $94,077  $    19,800  $11,641,821  $ (7,093,067)   $  - 0 -  $ 4,662,631
+</TABLE>
+
+See Notes to Consolidated Financial Statements                               F-5
+<PAGE>
+
+
+
+<TABLE>
+<CAPTION>
+
+
+
+                                                                                   AFP IMAGING CORPORATION AND SUBSIDIARIES
+
+                                                                                       CONSOLIDATED STATEMENT OF CASH FLOWS
+---------------------------------------------------------------------------------------------------------------------------
+
+Years ended June 30,                                                            2005            2004              2003
+---------------------------------------------------------------------------------------------------------------------------
+
+Cash flows from operating activities:
+<S>                                                                       <C>             <C>              <C>
+  Net income (loss)                                                       $1,899,930      $ 1,345,467      $(1,515,407)
+  Adjustments to reconcile net income (loss) to
+   net cash provided by operating activities:
+    Issuance of stock options below market price                              48,000                -                -
+    Depreciation and amortization                                            218,682          159,823          202,685
+    Loss on disposal of property and equipment                                     -           11,685                -
+    Cumulative effect of change in accounting principle                            -                -        1,297,069
+    Reclassification of translation adjustments included
+     in net loss                                                                   -                -           11,149
+    Provision for losses on accounts receivable                               38,454            5,989           49,344
+    Deferred income taxes                                                   (680,000)               -                -
+    Change in assets and liabilities:
+     (Increase) decrease in accounts receivable                             (238,830)        (260,268)         179,368
+     (Increase) decrease in inventories                                   (1,217,374)        (222,005)         334,069
+     (Increase) decrease in prepaid expenses and other
+      current assets                                                         178,311         (168,288)          41,499
+     Decrease (increase) in other assets                                     (31,747)          53,391           64,419
+     Increase (decrease) in accounts payable                                 416,752            6,171         (359,986)
+     (Decrease) increase in accrued expenses                                 513,591          (78,819)         158,058
+     (Decrease) Increase in deferred rent                                    (20,345)          27,389                -
+
+---------------------------------------------------------------------------------------------------------------------------
+         Net cash provided by operating activities                         1,125,424         880,535           462,267
+---------------------------------------------------------------------------------------------------------------------------
+
+Cash flows from investing activities:
+  Purchases of property and equipment                                       (176,981)       (107,512)         (221,154)
+---------------------------------------------------------------------------------------------------------------------------
+
+Cash flows from financing activities:
+  Borrowing of debt                                                                -                -          226,838
+  Repayments of debt                                                        (998,732)      (1,099,168)        (327,777)
+  Exercise of common stock options                                            49,305                -                -
+---------------------------------------------------------------------------------------------------------------------------
+
+           Net cash used in financing activities                            (949,427)     (1,099,168)         (100,939)
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+Exchange rate effects on cash and cash equivalents                                 -                -            1,470
+
+
+Net increase (decrease) in cash and cash equivalents                            (984)        (326,145)         141,644
+
+Cash and cash equivalents at beginning of year                               331,993         658,138           516,494
+---------------------------------------------------------------------------------------------------------------------------
+Cash and cash equivalents at end of year                                 $   331,009    $    331,993      $    658,138
+===========================================================================================================================
+
+Supplemental disclosures of cash flow information:
+
+  Cash paid during the year for:
+    Interest                                                             $   132,441     $    161,266     $    213,040
+===========================================================================================================================
+    Income taxes                                                         $    24,701    $      13,528     $     19,702
+===========================================================================================================================
+</TABLE>
+
+See Notes to Consolidated Financial Statements                               F-6
+
+<PAGE>
+
+
+
+
+
+
+                                        AFP IMAGING CORPORATION AND SUBSIDIARIES
+
+                                      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                                                   June 30, 2005
+--------------------------------------------------------------------------------
+
+ 1.  NATURE OF BUSINESS AND   AFP Imaging Corporation, together with its
+     SIGNIFICANT ACCOUNTING   subsidiaries (the "Company"), was organized
+     POLICIES:                on September 20, 1978 under the laws of the
+                              State of New York. The Company is engaged
+                              in the business of designing, developing,
+                              manufacturing and distributing equipment for
+                              generating, capturing and/or producing medical and
+                              dental diagnostic images through electronic
+                              technologies as well as the chemical processing of
+                              photosensitive materials. These products are used
+                              by medical, dental, veterinary and industrial
+                              professionals. The Company's products are
+                              distributed to worldwide markets, under various
+                              brand names, through a network of independent and
+                              unaffiliated dealers.
+
+                              In September 2003, the Company completely
+                              dissolved two of its wholly owned subsidiaries:
+                              LogEtronics Corporation and Regam Medical Systems
+                              AB. The Company sold selected assets of its
+                              graphic arts business in July 2001, which had been
+                              distributed through LogEtronics Corporation. Upon
+                              completion of the transfer of the manufacturing
+                              operations to the United States, the Company, in
+                              accordance with Swedish law, dissolved Regam
+                              Medical Systems AB.
+
+                              The consolidated financial statements include AFP
+                              Imaging Corporation and its wholly owned
+                              subsidiaries. All significant intercompany
+                              transactions have been eliminated in
+                              consolidation.
+
+                              The preparation of financial statements in
+                              conformity with United States generally accepted
+                              accounting principles requires management to make
+                              estimates and assumptions that affect the reported
+                              amounts of assets and liabilities and the reported
+                              amounts of revenues and expenses during the
+                              reporting period. Actual results could differ from
+                              those estimates.
+
+                              Revenue is recognized by the Company when products
+                              are shipped and title passes to the customer. The
+                              Company includes shipping and handling costs as a
+                              component of cost of sales.
+
+                              Cash and cash equivalents include deposits with
+                              original maturities of three months or less.
+
+                              The Company maintains cash in bank deposit
+                              accounts which, at times, exceed federally insured
+                              limits. The Company has not experienced any losses
+                              on these accounts.
+
+                              Inventories, which include material, labor and
+                              manufacturing overhead, are stated at the lower of
+                              cost (first-in, first-out) or market (net
+                              realizable value).
+
+                              Machinery and equipment are depreciated using
+                              straight-line and accelerated methods over their
+                              estimated useful lives, ranging from three to
+                              seven years. Leasehold improvements are
+                              depreciated on a straight-line basis over the
+                              shorter of their estimated useful lives or the
+                              term of the lease.
+
+                              Research and development costs are charged to
+                              expense as incurred. These costs are incurred in
+                              connection with the design and development of the
+                              Company's products.
+
+                              Advertising costs, included in selling, general
+                              and administrative costs, are charged to expense
+                              as incurred and were approximately $185,300,
+                              $102,600 and $56,200 for the fiscal years ended
+                              June 30, 2005, 2004 and 2003, respectively.
+
+                                                                             F-7
+<PAGE>
+
+                                        AFP IMAGING CORPORATION AND SUBSIDIARIES
+
+                                      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                                                   June 30, 2005
+--------------------------------------------------------------------------------
+
+                              The Company has elected, in accordance with the
+                              provisions of SFAS No. 123, to apply the current
+                              accounting rules under APB Opinion No. 25 and
+                              related interpretations in accounting for stock
+                              options and, accordingly, is presenting the
+                              disclosure-only information as required by SFAS
+                              No. 123. If the Company had elected to recognize
+                              compensation cost based on the fair value of the
+                              options granted at the grant date, in accordance
+                              with SFAS No. 123, the Company's net income (loss)
+                              and net income (loss) per common share would
+                              approximate the pro forma amounts shown in the
+                              following table:
+<TABLE>
+<CAPTION>
+
+                              June 30,                                              2005            2004          2003
+                             -----------------------------------------------------------------------------------------
+
+<S>                                                                        <C>                <C>          <C>
+                              Net income (loss), as reported               $   1,899,930      $1,345,467   $(1,515,407)
+                              Deduct:
+                                Stock compensation expense
+                                 determined under fair-value-based
+                                 method for all awards, net of related
+                                 tax effect                                     (151,884)       (231,815)       (2,766)
+                             -----------------------------------------------------------------------------------------
+                              Pro forma net income (loss)                  $    1,748,046     $1,113,652   $(1,518,173)
+                             =========================================================================================
+
+                              Basic net income (loss) per share,
+                               as reported                                 $         .20      $      .15   $      (.16)
+                              Basic net income (loss) per share,
+                               pro forma                                   $         .19      $      .13   $      (.16)
+
+                              Diluted net income (loss) per share,
+                               as reported                                 $         .19      $      .14   $      (.16)
+                              Diluted net income (loss) per share,
+                               pro forma                                   $         .18      $      .12   $     (.16)
+                             -----------------------------------------------------------------------------------------
+</TABLE>
+
+
+                              The fair value of each option grant was estimated
+                              on the date of grant using the Black-Scholes
+                              option pricing model and the following assumptions
+                              for grants in fiscal 2005, 2004 and 2003: dividend
+                              yield of 0%; expected volatility of 80%, 79% and
+                              155% respectively; expected life of five to ten
+                              years; and risk-free interest rate ranging from
+                              3.09% to 4.79%.
+
+                              In December 2004, the FASB issued Statement of
+                              Financial Accounting Standards No. 123 (Revised
+                              2004) Share-Based Payment ("SFAS No. 123R"), which
+                              requires that the compensation cost relating to
+                              share-based payment transactions be recognized in
+                              financial statements based on alternative fair
+                              value models. The share-based compensation cost
+                              will be measured based on the fair value of the
+                              equity or liability instruments issued. The
+                              Company currently discloses pro forma compensation
+                              expense quarterly and annually by calculating the
+                              stock option grants' fair value using the
+                              Black-Scholes option pricing model and disclosing
+                              the impact on net income and net income per share
+                              in a note to the consolidated financial
+                              statements. Upon adoption, pro forma disclosure
+                              will no longer be an alternative. The table above
+
+                                                                             F-8
+<PAGE>
+
+                                        AFP IMAGING CORPORATION AND SUBSIDIARIES
+
+                                      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                                                   June 30, 2005
+--------------------------------------------------------------------------------
+
+                              reflects the estimated impact that the use of fair
+                              value accounting would have had on our net income
+                              and net income per share if it had been in effect
+                              during the year ended June 30, 2005. SFAS No. 123R
+                              also requires the benefits of tax deductions in
+                              excess of recognized compensation cost to be
+                              reported as a financing cash flow rather than as
+                              an operating cash flow as required under the
+                              current literature. This requirement will reduce
+                              net operating cash flows and increase net
+                              financing cash flows in periods after adoption.
+                              The Company will begin to apply SFAS No. 123R
+                              using the most appropriate fair value model as of
+                              the interim reporting period ending September 30,
+                              2005.
+
+                              Revenue and expenses of the Company's foreign
+                              operations were translated at the applicable
+                              weighted-average rates of exchange in effect
+                              during the period reported. The Company liquidated
+                              its foreign operation and reclassified the foreign
+                              currency translation adjustment to the net loss in
+                              fiscal 2003. Any transaction gains and losses are
+                              included in net income.
+
+                              Accounts receivable are recorded at the invoiced
+                              amount and do not bear interest. The allowance for
+                              doubtful accounts is the Company's best estimate
+                              of the amount of probable credit losses in the
+                              Company's existing accounts receivable. The
+                              Company establishes an allowance for doubtful
+                              accounts based upon factors surrounding the credit
+                              risk of specific customers, historical trends and
+                              other information. Receivable balances are
+                              reviewed on an aged basis and account balances are
+                              charged off against the allowance after all means
+                              of collection have been exhausted and the
+                              potential for recovery is doubtful.
+
+                              Income taxes are accounted for under the asset and
+                              liability method. Deferred tax assets and
+                              liabilities are recognized for the estimated
+                              future tax consequences attributable to
+                              differences between the financial statement
+                              carrying amounts of existing assets and
+                              liabilities and their respective tax bases and
+                              operating loss carryforwards. Deferred tax assets
+                              and liabilities are measured using enacted tax
+                              rates in effect for the year in which those
+                              temporary differences are expected to be recovered
+                              or settled. The effect on deferred tax assets and
+                              liabilities of a change in tax rates is recognized
+                              in income in the period that includes the
+                              enactment date. The Company records a valuation
+                              allowance to reduce its deferred tax asset to an
+                              amount that is more likely than not to be
+                              realized.
+
+                              The computation of net income (loss) and income
+                              (loss) per common share before cumulative effect
+                              of change in accounting principle is based upon
+                              the weighted-average number of common shares
+                              outstanding during the period plus, in periods in
+                              which they have a dilutive effect, the effect of
+                              common shares contingently issuable. Basic and
+                              diluted income (loss) per common share before
+                              cumulative effect of change in accounting
+                              principle for the fiscal years ended 2005, 2004
+                              and 2003 is presented below:
+
+
+                                                                             F-9
+<PAGE>
+
+                                        AFP IMAGING CORPORATION AND SUBSIDIARIES
+
+                                      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                                                   June 30, 2005
+--------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+
+
+
+                              ----------------------------------------------------------------------------------------
+<S>                                                                         <C>               <C>          <C>
+                              June 30,                                              2005            2004          2003
+
+                              Income (loss) before cumulative
+                               effect of change in accounting
+                               principle                                    $  1,899,930      $1,345,467  $   (218,338)
+
+                              ========================================================================================
+                              Net income (loss)                             $  1,899,930      $1,345,467  $ (1,515,407)
+                              ========================================================================================
+
+                              Weighted-average common stock
+                               outstanding - basic                             9,380,855       9,270,617     9,270,617
+                              ========================================================================================
+
+                              Basic:
+                                Income (loss) per share before
+                                 cumulative effect of change in
+                                 accounting principle                       $        .20      $     .15    $      (.02)
+                                Net income (loss) per share                 $        .20      $     .15    $      (.16)
+                              ========================================================================================
+
+                              Weighted-average common stock
+                               outstanding - basic                             9,380,855       9,270,617     9,270,617
+
+                              Dilutive effect of stock options                   504,807         361,571             -
+                              ----------------------------------------------------------------------------------------
+
+                              Weighted-average common stock
+                               outstanding - diluted                           9,885,662       9,632,188     9,270,617
+                              ========================================================================================
+
+                              Diluted:
+                               Income (loss) per share before
+                               cumulative effect of change in
+                               accounting principle                         $        .19      $      .14    $     (.02)
+                              ========================================================================================
+                               Net income (loss) per share                  $        .19      $      .14    $     (.16)
+</TABLE>
+
+                              The diluted income (loss) per common share before
+                              cumulative effect of change in accounting
+                              principle computation reflects the effect of
+                              common shares contingently issuable upon the
+                              exercise of warrants and options in periods in
+                              which conversion would cause dilution. The diluted
+                              weighted-average number of shares outstanding for
+                              the years ended June 30, 2005, 2004 and 2003 did
+                              not include the potential exercise of 18,000,
+                              81,000 and 945,000 stock options, respectively, as
+                              such amounts was antidilutive.
+
+                              In June 2001, the FASB issued Statements No. 141,
+                              Business Combinations ("SFAS No. 141") and No.
+                              142, Goodwill and Other Intangible Assets ("SFAS
+                              No. 142"). These standards change the accounting
+                              for business combinations by, among other things,
+                              prohibiting the prospective use of
+                              pooling-of-interests accounting and requiring
+                              companies to stop amortizing goodwill and certain
+                              intangible assets with an indefinite useful life
+                              created by business combinations accounted for
+                              using the purchase method of accounting. Instead,
+                              goodwill and intangible assets deemed to have an
+                              indefinite useful life will be subject to an
+                              annual review for impairment. SFAS No. 141 was
+                              effective for purchase business combinations
+                              consummated after June 30, 2001. The Company
+                              adopted SFAS No. 142 on July 1, 2002. SFAS No. 142
+
+                                                                            F-10
+<PAGE>
+
+                                        AFP IMAGING CORPORATION AND SUBSIDIARIES
+
+                                      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                                                   June 30, 2005
+--------------------------------------------------------------------------------
+
+                              requires that goodwill and intangible assets
+                              deemed to have an indefinite useful life be
+                              reviewed for impairment upon adoption and annually
+                              thereafter.
+
+                              Under SFAS No. 142, goodwill impairment is deemed
+                              to exist if the net book value of a reporting unit
+                              exceeds its estimated fair value. The Company has
+                              one reporting unit, which comprises its entire
+                              operating segment. This methodology differs from
+                              the Company's previous policy, as permitted under
+                              accounting standards existing at that time, of
+                              using undiscounted cash flows to determine if
+                              goodwill is recoverable.
+
+                              Upon adoption of SFAS No. 142, the Company
+                              recorded a one-time, noncash charge of $1,297,069
+                              ($.14 basic and diluted loss per common share) to
+                              reduce the carrying value of its goodwill. Such
+                              charge is nonoperational in nature and is
+                              reflected as a cumulative effect of an accounting
+                              change in the accompanying consolidated statement
+                              of operations. In calculating the impairment
+                              charge, the fair value of its reporting unit was
+                              estimated by comparison to the Company's quoted
+                              market capitalization at July 1, 2002, since the
+                              reporting unit represents all of the Company's
+                              operations.
+
+                              In December 2004, the FASB issued Statement No.
+                              151 Inventory Costs ("SFAS No. 151") that amends
+                              the guidance in Accounting Research Bulletin No.
+                              43, Inventory Pricing, (ARB No. 43) to clarify the
+                              accounting for abnormal idle facility expense,
+                              freight, handling costs, and wasted material
+                              (spoilage). In addition, SFAS No. 151 requires
+                              that an allocation of fixed production overhead to
+                              the costs of conversion be based on the normal
+                              capacity of the production facilities. SFAS No.
+                              151 is effective for inventory costs incurred for
+                              fiscal years beginning after June 15, 2005 (year
+                              ending June 30, 2006 for the Company). The Company
+                              is evaluating the impact of SFAS No. 151.
+
+                              Certain prior-year amounts have been reclassified
+                              to conform to the current-period presentation.
+
+                              Management does not believe that any other
+                              recently issued, but not yet effective, accounting
+                              standards if currently adopted would have a
+                              material effect on the accompanying consolidated
+                              financial statements.
+
+
+2. INVENTORIES:               Inventories consist of the following:
+<TABLE>
+<CAPTION>
+
+                              June 30,                                                          2005              2004
+                              ----------------------------------------------------------------------------------------
+
+<S>                                                                                      <C>                <C>
+                              Raw materials and subcomponent parts                       $ 1,721,165        $1,354,424
+                              Work-in-process and finished goods                           2,200,218         1,349,585
+
+                              ----------------------------------------------------------------------------------------
+                                                                                         $ 3,921,383        $2,704,009
+                              ========================================================================================
+
+</TABLE>
+
+                                                                            F-11
+<PAGE>
+
+                                        AFP IMAGING CORPORATION AND SUBSIDIARIES
+
+                                      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                                                   June 30, 2005
+--------------------------------------------------------------------------------
+
+
+
+
+3. PROPERTY AND EQUIPMENT:    Property and equipment, at cost, consists of the
+                              following:
+<TABLE>
+<CAPTION>
+
+                              June 30,                                                          2005              2004
+                              ----------------------------------------------------------------------------------------
+
+<S>                                                                                   <C>                 <C>
+                              Leasehold improvements                                  $      237,396      $    232,139
+                              Machinery and equipment                                      1,385,647         1,270,672
+                              ----------------------------------------------------------------------------------------
+
+                                                                                           1,623,043         1,502,811
+                              Less accumulated depreciation and amortization              (1,234,305)       (1,114,540)
+
+                              ----------------------------------------------------------------------------------------
+                                      Property and equipment, net                     $      388,738      $    388,271
+                              ========================================================================================
+
+</TABLE>
+
+                              Depreciation and amortization was $176,514,
+                              $159,823 and $202,685 for the years ended June 30,
+                              2005, 2004 and 2003, respectively.
+
+                              The Company retired $56,749, $639,665 and $346,239
+                              of assets during fiscal years 2005, 2004 and 2003,
+                              respectively.
+
+
+4. DEBT:                      On September 21, 2004, the Company
+                              renewed its senior secured credit facility
+                              (the "Renewed Revolving Credit Loan") for an
+                              additional three-year period. The Renewed
+                              Revolving Credit Loan replaced the existing
+                              senior credit facility (the "Original
+                              Revolving Credit Loan"). The maximum
+                              borrowing permitted under the Renewed
+                              Revolving Credit Loan is lower than that
+                              under the prior credit facility, based on
+                              the Company's current requirements. However,
+                              the Renewed Revolving Credit Loan has more
+                              favorable terms, including a lower interest
+                              rate, and less stringent reporting
+                              requirements, than that under the Original
+                              Revolving Credit Loan, and gives the Company
+                              the ability to borrow on specific amounts of
+                              foreign accounts receivable. The Renewed
+                              Revolving Credit Loan consists of a
+                              $2,500,000 revolving line of credit, which
+                              is secured by all of the Company's
+                              inventory, accounts receivable, equipment,
+                              officer life insurance policies and proceeds
+                              thereof, trademarks, licenses, patents and
+                              general intangibles. The Renewed Revolving
+                              Credit Loan has an interest rate of prime
+                              plus 1.375%, (6.25% at June 30, 2005), a
+                              specific formula to calculate available
+                              funds based on eligible accounts receivable
+                              and inventory, and certain reporting
+                              requirements to the senior secured lender.
+                              The Renewed Revolving Credit Loan requires
+                              that certain financial ratios and net worth
+                              amounts be maintained by the Company, and
+                              prohibits the paying of dividends. The
+                              Renewed Revolving Credit Loan provides for
+                              increases in the interest rate charged on
+                              monies outstanding under specific
+                              circumstances.
+
+                              As of June 30, 2005, the Company was in compliance
+                              with all terms and conditions of the Renewed
+                              Revolving Credit Loan.
+
+                              In connection with the original facility, the
+                              Company issued a five-year warrant to the lender
+                              for the purchase of 100,000 shares of the
+                              Company's common stock at $0.32 per share, subject
+                              to an adjustment for all subsequent issuances of
+                              stock. The Black-Scholes option pricing model was
+                              used to value the warrant, and the stock purchase
+                              price was based on the stock price the day prior
+                              to closing, plus 10%, as stipulated in the Loan
+                              and Security Agreement for the Original Revolving
+                              Credit Loan.
+
+                                                                            F-12
+<PAGE>
+
+                                        AFP IMAGING CORPORATION AND SUBSIDIARIES
+
+                                      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                                                   June 30, 2005
+--------------------------------------------------------------------------------
+<TABLE>
+<CAPTION>
+
+                              As of June 30, 2005 and 2004, debt consisted of
+                              the following:
+                                                                                             2005                 2004
+                              ----------------------------------------------------------------------------------------
+
+<S>                                                                                 <C>                    <C>
+                              Renewed Revolving Credit Loan                         $     452,363          $ 1,042,761
+                              Nystrom subordinated note payable (a)                       222,222              488,889
+                              Dental product line subordinated note payable (b)                 -              141,667
+                              ----------------------------------------------------------------------------------------
+
+                                                                                          674,585            1,673,317
+                              Less current portion                                       (674,585)          (1,451,094)
+
+                              ----------------------------------------------------------------------------------------
+                                      Total long-term debt                          $           -         $    222,223
+                              ========================================================================================
+</TABLE>
+
+
+                              (a)   This note payable consists of an $800,000
+                                    promissory note to ACG Nystromgruppen AB
+                                    ("Nystrom"), the former parent of a Swedish
+                                    dental company. Under the terms of this
+                                    note, as amended, interest only was paid
+                                    quarterly for the first three years,
+                                    followed by 36 equal monthly installments of
+                                    $22,222 plus interest on the unpaid balance,
+                                    which began in May 2003. The Nystrom
+                                    promissory note bears interest at a rate
+                                    reset annually based on the LIBOR plus 2%.
+                                    The applicable interest rate at June 30,
+                                    2005 was 5.6%.
+
+                              (b)   This note represented a promissory note
+                                    payable to the former owner of a dental
+                                    product line, which the Company acquired in
+                                    December 1997. Under the terms of this note,
+                                    as amended, $150,000 was due and paid on
+                                    August 10, 1999, and the residual balance of
+                                    $850,000 was paid in 36 equal installments
+                                    commencing in January 2002. The note had a
+                                    fixed interest rate of 7.75% and was repaid
+                                    in full as of December 31, 2004.
+
+
+                              At June 30, 2005, the Company had available
+                              $1,348,234 of unused lines of credit under the
+                              Renewed Revolving Credit Loan.
+
+                              Due to the short-term nature of all of the debt as
+                              well as borrowing rates currently available to the
+                              Company, the fair market value of all of the
+                              Company's debt approximates its carrying value.
+
+
+5.  ACCRUED EXPENSES:         As of June 30, 2005 and 2004, accrued expenses
+                              consisted of the following:
+<TABLE>
+<CAPTION>
+                                                                                             2005                 2004
+                              ----------------------------------------------------------------------------------------
+<S>                                                                 <C>                <C>                    <C>
+                              Accrued environmental claim (see Note 9)                 $   75,000             $200,000
+                              Accrued payroll expenses                                    585,094              338,418
+                              Accrued amounts due vendors for in-transit
+                                  inventory                                               405,951                    -
+                              Accrued expenses - other                                    295,469              309,505
+
+                              ----------------------------------------------------------------------------------------
+                                                                                       $1,361,514             $847,923
+                              ========================================================================================
+</TABLE>
+
+                                                                            F-13
+<PAGE>
+
+                                        AFP IMAGING CORPORATION AND SUBSIDIARIES
+
+                                      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                                                   June 30, 2005
+--------------------------------------------------------------------------------
+
+ 6.  COMMON STOCK OPTIONS     The Company has three employee incentive stock
+     AND STOCK PURCHASE       option plans under which approximately 2,200,000
+     PLAN:                    shares of Company common stock were originally
+                              authorized and available for  issuance. Most
+                              options that are granted under the plans are
+                              fully vested when granted. The Company accounts
+                              for these plans pursuant to Accounting Principles
+                              Board Opinion No. 25, Accounting for Stock Issued
+                              to Employees ("APB No. 25"), under which no
+                              compensation costs have been recognized. Under the
+                              terms of the plans, options to purchase common
+                              stock of the Company may be granted at not less
+                              than 100% of the fair market value of the stock on
+                              the date of grant, or 110% of the fair market
+                              value if granted to persons owning more than 10%
+                              of the outstanding stock of the Company.
+
+                              Transactions under the plans for fiscal 2005, 2004
+                              and 2003 are as follows:
+<TABLE>
+<CAPTION>
+
+
+                              Year ended June 30,                2005               2004                2003
+                              ----------------------------------------------------------------------------------------
+
+                                                                  Weighted-            Weighted-             Weighted-
+                                                                   average              average               average
+                                                         Options    Price     Options    Price     Options     Price
+
+<S>                                                       <C>         <C>       <C>        <C>     <C>            <C>
+                              Outstanding, beginning
+                               of fiscal year             1,008,500   $.57      945,000    $.42    1,229,500      $.51
+                              Exercised                    (137,100)   .36            0       -            0         -
+                              Granted                       140,000   1.53      259,500    1.13       24,000       .13
+                              Forfeited                      (6,000)   .96     (155,000)    .49       (8,500)      .51
+                              Expired                       (57,000)   .31      (41,000)   1.00     (300,000)      .75
+                              ----------------------------------------------------------------------------------------
+
+                              Outstanding, end of
+                               fiscal year                  948,400  $ .76     1,008,500   $.57      945,000      $.42
+                              ========================================================================================
+                              Exercisable at June 30        948,400              708,500             645,000
+                              ========================================================================================
+
+                              Weighted-average fair value of
+                               options granted during years
+                               ended June 30                  $1.09                 $.89                $.13
+                              ========================================================================================
+</TABLE>
+
+
+                              At June 30, 2005, the range of exercise prices is
+                              as follows:
+<TABLE>
+<CAPTION>
+
+                                                               Options Outstanding               Options Exercisable
+                                                               -------------------               -------------------
+                                                                    Weighted-
+                                                    Number           average      Weighted-     Number     Weighted-
+                                                  Exercisable       Remaining      average    Exercisable  average
+                                   Range of       at June 30,      Contractual    Exercise    at June 30,  Exercise
+                              Exercise Prices        2005         Life (Years)      Price        2005        Price
+                              ----------------------------------------------------------------------------------------
+
+<S>                           <C>      <C>          <C>                <C>        <C>            <C>          <C>
+                              $  .11 - $  .50       524,500            4.75       $.30           524,500      $ .30
+                              $  .53 - $  .81        25,500            4.90        .61            25,500        .61
+                              $  1.06 - $1.75       380,400            9.20       1.31           380,400       1.31
+                              $  2.00 - $2.26        18,000            2.50       2.16            18,000       2.16
+                              ----------------------------------------------------------------------------------------
+                                                    948,400            6.40       $.76           948,400        $.76
+                             =========================================================================================
+</TABLE>
+
+                                                                            F-14
+<PAGE>
+
+
+                                        AFP IMAGING CORPORATION AND SUBSIDIARIES
+
+                                      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                                                   June 30, 2005
+--------------------------------------------------------------------------------
+
+7.  INCOME TAXES:             The income (loss) before provision for income
+                              taxes is comprised of the following:
+<TABLE>
+<CAPTION>
+
+                              June 30,                                              2005            2004          2003
+                              ----------------------------------------------------------------------------------------
+
+<S>                                                                         <C>                <C>           <C>
+                              United States                                 $  1,229,259       $1,309,213    $(205,483)
+                              Foreign                                                  -          (12,600)      (1,940)
+
+                              ----------------------------------------------------------------------------------------
+                              Total                                         $  1,229,259       $1,296,613    $(207,423)
+                              ========================================================================================
+
+
+                              The provision (benefit) for income taxes is
+                              comprised of the following:
+
+                              June 30,                                              2005            2004          2003
+                              ----------------------------------------------------------------------------------------
+
+                              Current:
+                                Federal                                     $     11,775        $ 20,000             -
+                                State                                             (2,446)         13,530       $10,915
+                                Deferred                                        (680,000)              -             -
+                                Adjustment to income tax liability
+                                 accounts                                              -         (82,384)            -
+
+                              ----------------------------------------------------------------------------------------
+                              Total                                         $   (670,671)       $(48,854)      $10,915
+                              ========================================================================================
+
+
+                              The difference between the provision for income
+                              taxes at the effective federal statutory rates and
+                              the amounts provided in the consolidated financial
+                              statements is summarized as follows:
+
+                              June 30,                                              2005            2004          2003
+                              ----------------------------------------------------------------------------------------
+
+                              Tax provision (benefit) at federal
+                               statutory rates                               $   417,948       $ 440,848      $(70,524)
+                              Increase (decrease) in tax provision
+                               resulting from:
+                                State income tax provision (benefit)              (2,446)         13,530        10,915
+                                Foreign losses not benefited                           -               -           660
+                                U.S. losses not benefited                              -               -        69,864
+                                Adjustment to income tax liability
+                                 accounts                                              -         (82,384)            -
+                                Decrease in valuation allowance                 (680,000)              -             -
+                                Utilization of federal operating loss
+                                  carryforwards                                 (406,173)       (420,848)            -
+                              ----------------------------------------------------------------------------------------
+
+                                Provision (benefit) for income taxes         $  (670,671)      $ (48,854)     $ 10,915
+                              ========================================================================================
+</TABLE>
+
+                                                                            F-15
+<PAGE>
+
+                                        AFP IMAGING CORPORATION AND SUBSIDIARIES
+
+                                      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                                                   June 30, 2005
+--------------------------------------------------------------------------------
+
+
+<TABLE>
+<CAPTION>
+
+
+                              The items that comprise the deferred tax balance
+                              are as follows:
+
+                              June 30,                                                       2005                 2004
+                              ----------------------------------------------------------------------------------------
+
+<S>                                                                                  <C>                  <C>
+                              Depreciation and amortization                          $     41,352         $    945,800
+                              Accrued liabilities and reserves not
+                               currently deductible                                       187,725              207,700
+                              Inventory                                                   128,000               76,600
+                              Net operating loss carryforwards and tax credits          3,694,936            3,321,300
+                              ----------------------------------------------------------------------------------------
+
+                                                                                        4,052,013            4,551,400
+                              Deferred tax asset valuation reserve                     (3,372,013)          (4,551,400)
+
+                              ----------------------------------------------------------------------------------------
+                              Tax asset recognized on balance sheet                  $    680,000         $      - 0 -
+                              ========================================================================================
+</TABLE>
+
+
+                              During each of the quarters ended March 31, and
+                              June 30, 2005, the Company recorded an income tax
+                              benefit of approximately $340,000, for a total
+                              benefit of $680,000, resulting from a decrease in
+                              the Company's valuation allowance against its
+                              deferred tax asset. The deferred tax asset
+                              primarily relates to losses reported in prior
+                              years. As of June 30, 2005, the Company believes
+                              it is likely that they will utilize a significant
+                              portion of these prior year net operating loss
+                              carry forwards. The remaining balance of the tax
+                              benefit recorded includes state income and capital
+                              taxes, and related refunds and credits received.
+                              Should circumstances change and the Company not be
+                              able to utilize its net operating loss
+                              carryforward, such as a decline in future taxable
+                              income, the Company will reevaluate its valuation
+                              allowance.
+
+                              Net operating loss carryforwards ("NOLs")
+                              amounting to approximately $8,446,000 in federal
+                              NOLs and $13,189,000 in state NOLs at June 30,
+                              2005, will expire beginning in 2010. The NOLs are
+                              subject to review by the Internal Revenue Service.
+                              Future changes in ownership of the Company, as
+                              defined by Section 382 of the Internal Revenue
+                              Code, could limit the amount of NOLs available for
+                              use in any one year. The Company recorded the
+                              above valuation reserve, based on management's
+                              conclusion that it is more likely than not that
+                              future operations will not generate sufficient
+                              taxable income to realize the entire deferred tax
+                              assets during the carryforward period for these
+                              tax attributes.
+
+8.    PROFIT-SHARING          The Company maintains a defined contribution
+      PLAN:                   profit-sharing plan and trust pursuant to  which
+                              participants receive certain benefits upon
+                              retirement, death, disability and, to
+                              a limited extent, upon termination of employment
+                              for other reasons. Allocation among participants'
+                              interests, including officers and directors who
+                              are employees, is in accordance with IRS
+                              regulations.
+
+                              The aggregate amount contributed to the plan by
+                              the Company each fiscal year is determined by the
+                              board of directors following a review of the
+                              profits of such fiscal year. The plan requires no
+                              minimum contribution by the Company. The Company
+                              has made a contribution of $63,550 and $60,000 for
+                              the years ended June 30, 2005 and 2004,
+                              respectively. The Company did not make any
+                              contributions related to profit sharing for the
+                              year ended June 30, 2003.
+
+                                                                            F-16
+<PAGE>
+
+                                        AFP IMAGING CORPORATION AND SUBSIDIARIES
+
+                                      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                                                   June 30, 2005
+--------------------------------------------------------------------------------
+
+9.  COMMITMENTS               The Company is a defendant in an environmental
+    AND CONTINGENCIES:        claim relating to a property in New  Jersey owned
+                              by the Company between August 1984 and June 1985.
+                              This claim relates to the offsite commercial
+                              disposition of trash and waste in a landfill in
+                              New Jersey. The Company maintains that its waste
+                              materials were of a general commercial nature.
+                              This claim was originally filed in 1998 by the
+                              federal government in United States District Court
+                              and the State of New Jersey, citing several
+                              hundred other third-party defendants. The Company
+                              (through its former subsidiary, Kenro Corporation)
+                              was added, along with many other defendants, to
+                              the suit. The Company's claimed liability was
+                              potentially assessed by the plaintiff at $150,000.
+                              The Company has joined, along with other involved
+                              defendants in an alternative dispute resolution
+                              (ADR) process for smaller claims. No potential
+                              cost to the Company has been assessed on this
+                              claim; however, the Company has accrued $75,000 in
+                              Fiscal Year 2005, which represents the Company's
+                              estimate of its potential liability, net of the
+                              Company's insurance carrier's agreed-upon
+                              contribution towards a potential settlement. The
+                              Company does not expect to receive any further
+                              information until a status conference is held in
+                              mid-October 2005. The Company cannot, at this
+                              time, assess the amount of liability that could
+                              result from any adverse final outcome of this
+                              environmental complaint. The Company's insurance
+                              carrier has agreed to equally share with the
+                              Company the defense costs incurred in this
+                              environmental claim.
+
+                              On December 6, 2004, the Company reached an
+                              agreement as to the parameters of a settlement,
+                              which was finalized on February 8, 2005 and paid
+                              on February 18, 2005, relating to a separate
+                              environmental claim filed in 2001 as a civil
+                              complaint brought by the current owners of the
+                              same property owned by the Company between August
+                              1984 and June 1985 and subject to the
+                              above-reference environmental claim. This action
+                              was filed in the Superior Court of New Jersey,
+                              Morris County, and alleged that the Company's
+                              discontinued graphic art camera subsidiary had
+                              contaminated a portion of the site during its
+                              manufacturing process prior to 1985. The
+                              settlement included a release and indemnification
+                              as well as a stipulation of dismissal with
+                              prejudice. The Company paid $325,000, which
+                              represented the Company's entire liability under
+                              the settlement agreement, net of the Company's
+                              insurance carrier's contribution towards the total
+                              and final settlement,
+
+                              The Company is a defendant (with several other
+                              parties) in a product liability insurance action,
+                              which was filed in May 2005 in the Superior Court
+                              in Hartford, Connecticut. The plaintiff, through
+                              their insurance company, claims that the Company's
+                              equipment caused a fire on the plaintiff's
+                              premises in May 2003. The complaint seeks
+                              unspecified compensatory damages. The Company
+                              maintains that its equipment was not the cause of
+                              the fire or the resultant damage. The Company's
+                              insurance carriers, and their attorneys, are
+                              assisting in the Company's defense in this matter.
+                              The Company does not believe that the final
+                              outcome of this matter will have a material
+                              adverse effect on the Company.
+
+                              From time to time, the Company may be party to
+                              other claims and litigation arising in the
+                              ordinary course of business. The Company does not
+                              believe that any adverse final outcome of any of
+                              these matters, whether covered by insurance or
+                              otherwise, would have a material adverse effect on
+                              the Company.
+
+                              The Company has a noncancelable operating lease,
+                              as amended in March 2004, for office and
+                              manufacturing facilities expiring in fiscal year
+                              2010. Minimum annual rental payments under this
+                              lease are as follows:
+
+                                                                            F-17
+<PAGE>
+
+                                        AFP IMAGING CORPORATION AND SUBSIDIARIES
+
+                                      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                                                   June 30, 2005
+--------------------------------------------------------------------------------
+<TABLE>
+<CAPTION>
+
+
+                              Year ending June 30,
+
+<S>                                       <C>                                                           <C>
+                                          2006                                                          $      548,953
+                                          2007                                                                 525,085
+                                          2008                                                                 525,085
+                                          2009                                                                 525,085
+                                          2010                                                                 262,543
+
+                             -----------------------------------------------------------------------------------------
+                                                                                                       $     2,386,751
+                             =========================================================================================
+</TABLE>
+
+
+                              The lease provides for rent abatements and
+                              scheduled increases in base rent. Rent expense is
+                              charged to operations ratably over the term of the
+                              lease resulting in deferred rent payable, which
+                              represents cumulative rent expense charged to
+                              operations from inception of this lease in excess
+                              of required lease payments. Rent expense was
+                              approximately $505,000, $505,000 and $496,000 for
+                              the years ended June 30, 2005, 2004 and 2003,
+                              respectively.
+
+
+10. SEGMENT INFORMATION:      As of June 30, 2005 and 2004,
+                              the Company had only one business segment,
+                              medical/dental. Medical/dental segment operations
+                              are conducted under the Dent-X and AFP trade names
+                              and consists of the design, development,
+                              manufacturing and marketing of medical and dental
+                              imaging systems and all related accessories. The
+                              graphic arts segment operated under the LogE trade
+                              name and included products such as paper and film
+                              developers.
+
+                              Geographic financial information for the years
+                              ended June 30, 2005, 2004 and 2003 is as follows:
+<TABLE>
+<CAPTION>
+
+                              June 30,                                      2005              2004                2003
+                              ----------------------------------------------------------------------------------------
+
+                              Sales:
+<S>                                                           <C>                      <C>                 <C>
+                                United States                 $       18,858,056       $16,733,360         $15,111,108
+                                Domestic export sales                  4,277,007         3,099,550           2,932,560
+
+                              ----------------------------------------------------------------------------------------
+                                                              $       23,135,063        $19,832,910        $18,043,668
+                              ========================================================================================
+
+                              Net income (loss):
+                                United States                 $        1,899,930        $  1,358,067       $(1,513,467)
+                                Europe                                         -             (12,600)           (1,940)
+
+                              ----------------------------------------------------------------------------------------
+                                                             $         1,899,930        $  1,345,467       $(1,515,407)
+                              ========================================================================================
+
+                              Identifiable assets:
+                                United States                $         8,153,396      $  6,244,895         $ 6,029,735
+                                Europe                                         -         -                      14,120
+
+                              ----------------------------------------------------------------------------------------
+                                 Total                       $         8,153,396       $  6,244,895        $ 6,043,855
+                              ========================================================================================
+</TABLE>
+
+                                                                            F-18
+<PAGE>
+
+                                        AFP IMAGING CORPORATION AND SUBSIDIARIES
+
+                                      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                                                   June 30, 2005
+--------------------------------------------------------------------------------
+
+                              During the year ended June 30, 2005, no one
+                              customer aggregated over 10% of consolidated net
+                              sales. During the year ended June 30, 2004, one
+                              customer aggregated approximately 11% of
+                              consolidated net sales. During the year ended June
+                              30, 2003, net sales to this customer and another
+                              customer were approximately 11% each.
+
+
+ 11.   QUARTERLY  FINANCIAL   Summarized,  unaudited  quarterly financial data
+       DATA (UNAUDITED):      for fiscal 2005 and 2004 are as follows
+                              (in thousands, except per share data):
+<TABLE>
+<CAPTION>
+
+                              June 30, 2005
+                              ----------------------------------------------------------------------------------------
+
+                                                       1st           2nd           3rd           4th          Total
+                                                     Quarter       Quarter       Quarter       Quarter        Year
+                              ----------------------------------------------------------------------------------------
+
+<S>                                                 <C>          <C>           <C>            <C>          <C>
+                              Net sales             $4,655,471   $6,082,235    $6,240,931     $6,156,426   $23,135,063
+
+                              Gross profit           1,747,792    2,469,926     2,475,788      2,252,461     8,945,967
+
+                              Net income (loss)        (71,612)     457,024       998,599        515,919     1,899,930
+                              ========================================================================================
+
+                              Net income (loss) per
+                              common share:
+                                Basic                $    (.01)        $.05          $.11           $.05
+                              ========================================================================================
+                                Diluted              $    (.01)        $.05          $.10           $.05
+                              ========================================================================================
+                              June 30, 2004
+                              ----------------------------------------------------------------------------------------
+
+                                                       1st           2nd           3rd           4th          Total
+                                                     Quarter       Quarter       Quarter       Quarter        Year
+                              ----------------------------------------------------------------------------------------
+
+                              Net sales            $ 4,034,879   $4,680,557    $5,476,342     $5,641,132   $19,832,910
+
+                              Gross profit           1,558,542    1,847,534     2,090,697      2,158,065     7,654,838
+
+                              Net income               115,060      398,444       424,507        407,456     1,345,467
+                              ========================================================================================
+
+                              Net income per common share:
+                                Basic              $       .01   $      .04      $   .05       $     .04
+                              ========================================================================================
+                                Diluted            $       .01   $      .04      $   .04       $     .04
+                              ========================================================================================
+
+</TABLE>
+
+
+                                                                            F-19
+<PAGE>
+
+
+<TABLE>
+<CAPTION>
+
+
+
+
+                                                                                   AFP IMAGING CORPORATION AND SUBSIDIARIES
+                                                                                                  SUPPLEMENTARY INFORMATION
+
+                                                                              SCHEDULE OF VALUATION AND QUALIFYING ACCOUNTS
+---------------------------------------------------------------------------------------------------------------------------
+
+Years ended June 30, 2005, 2004 and 2003
+---------------------------------------------------------------------------------------------------------------------------
+
+                                                         Balance at        Charged to                           Balance at
+                                                          Beginning         Costs and                              End of
+        Description                                        of Year          Expenses     Deductions (A)           Year
+---------------------------------------------------------------------------------------------------------------------------
+
+<S>                                                      <C>                 <C>              <C>                    <C>
+June 30, 2005
+Allowance for doubtful accounts and sales
+ returns                                                 $   95,000          $  38,454     $ (43,454)             $ 90,000
+
+June 30, 2004
+Allowance for doubtful accounts and sales
+ returns                                                     95,200            5,989          (6,189)               95,000
+
+June 30, 2003
+Allowance for doubtful accounts and sales
+ returns                                                    104,000           49,344         (58,144)               95,200
+
+
+(A) Deductions consist of write-offs of uncollectible accounts.
+</TABLE>
+
+
+
+                                       17
+<PAGE>
+
+Item 9.  Changes in and Disagreements with Accountants and Financial Disclosure
+-------------------------------------------------------------------------------
+
+None
+
+Item 9A.  Controls and Procedures
+---------------------------------
+
+An evaluation was performed as of June 30, 2005, under the supervision and with
+the participation of the Company's management, including its co-chief executive
+officers and chief financial officer, of the effectiveness of the design and
+operation of the Company's disclosure controls and procedures. Based on such
+evaluation, the Company's management has concluded that the Company's disclosure
+controls and procedures were effective as of June 30, 2005. There have been no
+significant changes in our internal controls or in other factors that could
+significantly affect our internal control subsequent to June 30, 2005.
+
+Item 9B.  Other Information
+---------------------------
+
+Not applicable.
+
+
+
+
+Part III
+--------
+
+The information required in items 10, 11,12, 13, and 14 are hereby incorporated
+by reference from the Company's definitive Proxy Statement for the 2005 Annual
+Meeting of Shareholders, tentatively scheduled for December 12, 2005, to be
+filed with the SEC on or prior to October 28, 2005.
+
+
+
+
+
+                                       18
+<PAGE>
+
+
+Part IV
+-------
+
+Item 15.  Exhibits and Financial Statement Schedules
+----------------------------------------------------
+
+     (a) Financial Statements.
+         The financial statements and schedules listed in Item 8 are filed as a
+         part of this Annual Report on Form 10K.
+     (b) Exhibits.
+         The following exhibits are filed pursuant to Item 601 of Regulation
+         S-K. The numbers set forth below opposite the description of each
+         exhibit correspond to the Exhibit Table of Item 601 of Regulation S-K.
+
+2.   (a) -- Stock Purchase Agreement between ACG Nystromgruppen AB and AFP
+            Imaging Corporation, dated April 17, 1997. (7)
+     (b) -- Asset Purchase Agreement between AFP Imaging and ProDen Systems,
+            Inc., dated December 24, 1997. (8).
+     (c) -- Promissory Note between ProDen Systems, Inc. and AFP Imaging
+            Corporation, dated August 10, 1999. (9)
+     (d) -- Amended Promissory Note between ACG Nystromgruppen AB and AFP
+            Imaging Corporation, dated August 11, 1999. (9)
+
+3.   (a) -- Certificate of Incorporation of Registrant, as amended. (1)
+     (b) -- Restated Certificate of Incorporation of Registrant. (16)
+     (c) -- Certificate of Amendment to Certificate of Incorporation of
+            Registrant. (4)
+     (d) -- Certificate of Amendment of the Certificate of Incorporation of
+            the Company filed with the Secretary of the State of New York on
+            October 12, 1995. (5)
+     (e) -- Revised By-Laws of Registrant, issued December 2004. (15)
+
+4.   (a) -- Specimen of Common Stock Certificates. (1)
+     (b) -- Common Stock Purchase Warrant issued to Keltic Financial Partners
+            LP. (10)
+
+10.  (a) -- Health and Medical Reimbursement Plan. (1)
+     (b) -- Lease Agreement dated September 1, 1985, for premises at 250
+            Clearbrook Road, Elmsford, NY. (3)
+     (c) -- Profit Sharing Plan of the Registrant, as supplemented. (1)
+     (d) -- Registrant's 1995 Stock Option Plan. (6)
+     (e) -- Registrants' 1999 Incentive Stock Option Plan. (9)
+     (f) -- Registrant's 2004 Equity Incentive Plan. (14)
+     (g) -- Mediation Resolution Agreement dated August 10, 1999. (9)
+     (h) -- Keltic Financial Partners LP Loan and Security Agreement. (10)
+     (i) -- Keltic Financial Partners LP Revolving Note. (10)
+     (j) -- Keltic Financial Partners LP Fifth Amendment to Loan and Security
+            Agreement. (13)
+     (k) -- Keltic Financial Partners LP Restated Revolving Note  (13)
+     (l) -- Contract for Sale of Business Assets between AFP Imaging and
+            Amergraph Corporation, dated July 30, 2001. (10)
+
+11.   --    Statement re computation per share earnings.  (2)
+
+14.   --    Code of Ethics. (12)
+
+16   (a) -- Change in Certifying Accountant (October 3, 2003).  (11)
+
+21.   --    Subsidiaries of the Registrant.
+
+23.1, 23.2 -- Consents of Goldstein Golub Kessler LLP and Ernst & Young LLP
+
+31.1, 31.2, 31.3 - Certifications pursuant to Exchange Act Rule 13a-14 (a).
+
+32.1, 32.2, 32.3 - Certifications pursuant to Section 1350 of the Sarbanes -
+                   Oxley Act of 2002.
+
+
+
+                                       19
+<PAGE>
+
+
+(1)  Incorporated by reference from the exhibits filed with Registration
+     Statement file #2-G8980 of the Company, as amended, on file with the
+     Securities and Exchange Commission.
+
+(2)  See Note 1 to "Notes to Financial Statements".
+
+(3)  Incorporated by reference from the Exhibits filed with Registrant's Current
+     Report on Form 8-K, dated July 31, 1995.
+
+(4)  Incorporated by reference from the Exhibits filed with Registrant's Annual
+     Report on Form 10-K for the fiscal year ended June 30, 1994.
+
+(5)  Incorporated by reference from the Exhibits filed with Registrant's Current
+     report on Form 8-K, dated October 12, 1995.
+
+(6)  Incorporated by reference from the Exhibits filed with Registrant's Annual
+     Report on Form 10-K for the fiscal year ended June 30, 1996.
+
+(7)  Incorporated by reference from the Exhibits filed with the Registrant's
+     Current Report on Form 8-K, dated May 1, 1997.
+
+(8)  Incorporated by reference from the Exhibits filed with Registrant's Current
+     Report on Form 8-K, dated January 8, 1998.
+
+(9)  Incorporated by reference from the Exhibits filed with the Registrant's
+     Annual Report on Form 10-K for the fiscal year ended June 30, 1999.
+
+(10) Incorporated by reference from the Exhibits filed with the Registrant's
+     Annual Report on Form 10K for the fiscal year ended June 30, 2001.
+
+(11) Incorporated by reference from the Exhibits filed with the Registrant's
+     Current Report on Form 8-K, dated   October 3, 2003.
+
+(12) Incorporated by reference from the Exhibits filed with the Registrant's
+     Quarterly Report on Form 10Q for the six months ended December 31, 2003.
+
+(13) Incorporated by reference from the Exhibits filed with the Registrant's
+     Annual Report on Form 10K for the fiscal year ended June 30, 2004.
+
+(14) Incorporated by reference from the Exhibits filed with the Registrant's
+     Current Report on Form 8-K, dated October 8, 2004.
+
+(15) Incorporated by reference from the Exhibits filed with the Registrant's
+     Current Report on Form 8-K, dated December 10, 2004.
+
+(16) Incorporated by reference from the Exhibits filed with the Registrant's
+     Quarterly Report on Form 10Q for the six months ended December 31, 2004.
+
+
+
+
+
+
+
+
+                                       20
+<PAGE>
+
+
+
+
+
+                                   SIGNATURES
+                                   ----------
+
+
+Pursuant to the requirements of Section 13 or 15 (d) of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+AFP IMAGING CORPORATION
+
+
+By:  __________/s/_________________
+     Elise Nissen, Chief Financial Officer
+Date: September 27, 2005
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following persons on behalf of the registrant and
+in the capacities and on the dates indicated.
+
+
+By:  _____________/s/___________
+     Donald Rabinovitch, President
+               & Director
+     (Principal Executive Officer)
+Date: September 27, 2005
+
+
+By:  ____________/s/_____________
+     David Vozick, Chairman of the Board,
+               Secretary and Treasurer
+Date: September 27, 2005
+
+
+By:  __________/s/_______________
+     Robert Blatt, Director
+Date: September 27, 2005
+
+
+By:  _________ /s/________________
+     Jack Becker, Director
+Date: September 27, 2005
+
+
+By:  _________ /s/________________
+     Elise Nissen, Chief Financial Officer
+     (Principal Financial and Accounting Officer)
+Date: September 27, 2005
+
+
+
+
+                                       21
+</TEXT>
+</DOCUMENT>

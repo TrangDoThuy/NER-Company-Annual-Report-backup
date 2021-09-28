@@ -1,0 +1,109 @@
+<DOCUMENT>
+<TYPE>10-K/A
+<SEQUENCE>1
+<FILENAME>b51002kae10vkza.txt
+<DESCRIPTION>ALPHA TECHNOLOGIES GROUP, INC.
+<TEXT>
+<PAGE>
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                  FORM 10-K/A-2
+
+ ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+                   For the fiscal year ended October 26, 2003
+
+                         Commission file number 0-14365
+
+                         ALPHA TECHNOLOGIES GROUP, INC.
+             (Exact name of registrant as specified in its charter)
+
+            Delaware                                      76-0079338
+(State or other jurisdiction of             (I.R.S. Employer Identification No.)
+ incorporation or organization)
+
+11990 San Vincente Blvd., Suite 350 Los Angeles, CA                   90049
+     (Address of principal executive offices)                       (Zip Code)
+
+              Registrant's telephone number, including area code:
+                                  310-566-4005
+
+         Securities registered under Section 12 (b) of the Exchange Act:
+                                      None
+
+         Securities registered under Section 12 (g) of the Exchange Act:
+                          Common Stock, $.03 par value
+                          ----------------------------
+                              (Title of each class)
+
+      Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) had been subject to such
+filing requirements for the past 90 days. Yes X   No___
+
+      Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [ ]
+
+      Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Act). Yes [ ] No [x]
+
+
+      The aggregate market value of the 4,364,446 shares of voting stock held by
+non-affiliates (persons other than officers, directors, and 5% shareholders) of
+the Registrant as of April 25, 2004, the last business day of the Registrant's
+most recently completed second fiscal quarter, was $7,332,269, based on the
+closing price of $1.68 on the Nasdaq National Market as of such date.
+
+          Common Stock, 7,110,336 shares outstanding at April 25, 2004
+<PAGE>
+The undersigned registrant hereby amends the following items, financial
+statements, exhibits or other portions of its Annual Report on Form 10-K for the
+fiscal year ended October 26, 2003 as set forth in the pages attached hereto:
+
+      Item 14(a)(3)     Exhibits.
+
+      Exhibit 99.3      Annual Report on Form 11-K for the
+                        fiscal year ended December 31, 2003 for the ATGI 401(k)
+                        Plan
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this amendment to be signed on its behalf by the
+undersigned, hereunto duly authorized.
+
+                                        ALPHA TECHNOLOGIES GROUP, INC.
+
+
+                                        By: /s/ James J. Polakiewicz
+                                            ------------------------------------
+                                            James J. Polakiewicz
+                                            Chief Financial Officer
+
+Dated:  June 28, 2004
+
+
+                                       2
+<PAGE>
+                                  EXHIBIT INDEX
+
+
+<TABLE>
+<CAPTION>
+                                                                                       Sequentially
+Exhibit                                                                                    Numbered
+Number              Description of Exhibit                                                     Page
+<S>                 <C>                                                                <C>
+99.3                Annual Report on Form 11-K for the year ended                            4
+                    December 31, 2003 for the ATGI 401k Plan.
+</TABLE>
+
+
+                                       3
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,1214 @@
+<DOCUMENT>
+<TYPE>10-K/A
+<SEQUENCE>1
+<FILENAME>allcity-10ka.txt
+<TEXT>
+                      SECURITIES AND EXCHANGE COMMISSION
+                            WASHINGTON, D.C.  20549
+
+                                   FORM 10-K/A
+                                 AMENDMENT NO. 1
+
+[X]       ANNUAL REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES
+                              EXCHANGE ACT OF 1934
+                   For the fiscal year ended December 31, 2000
+
+                                       OR
+
+[ ]         TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+                    For the transition period from ___to___
+
+                         Commission file number 1-7411
+
+
+                            ALLCITY INSURANCE COMPANY
+            (Exact name of registrant as specified in its charter)
+
+
+         New York                                     13-2530665
+ (State of incorporation)               (I.R.S. Employer Identification Number)
+
+
+    335 Adams Street, Brooklyn, N.Y.                     11201-3731
+(Address of principal executive offices)                 (Zip Code)
+
+
+        Registrant's telephone number, including area code 718-422-4000
+
+
+          Securities registered pursuant to Section 12(b) of the Act:
+
+                                                Name of each exchange on
+       Title of each class                          which registered
+       -------------------                          ----------------
+                                      None
+
+
+           Securities registered pursuant to Section 12(g) of the Act:
+
+                                      None
+                                ----------------
+                                (Title of Class)
+
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [x]
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+
+                                 Yes [X]    No [ ]
+
+
+The aggregate market value of the voting stock held by nonaffiliates of the
+registrant as of March 19, 2001 was $3,117,680.
+
+The number of shares outstanding of each of the registrant's classes of common
+shares, as of March 19, 2001, was 7,078,625.
+
+
+DOCUMENTS INCORPORATED BY REFERENCE - NONE
+
+<PAGE>
+                                EXPLANATORY NOTE
+
+This Report on Form 10-K/A amends and restates in their entirety the following
+Items of the Annual Report on Form 10-K of Allcity Insurance Company (the
+"Company") for the fiscal year ended December 31, 2000. Prior to the filing of
+this Report on Form 10-K/A, the Company filed Quarterly Reports on Form 10-Q for
+the fiscal quarters ended March 31, 2001 (as amended), June 30, 2001 (as
+amended) and September 30, 2001, as well as Current Reports on Form 8-K dated
+March 31, 2001 and January 2, 2002. All of these reports should be considered in
+connection with this Form 10-K/A.
+
+
+
+<PAGE>
+                                     PART I
+
+Item 1. Business
+
+General
+
+Allcity Insurance Company (the "Registrant", "Allcity" or the "Company") is a
+property and casualty insurer. Empire Insurance Company ("Empire"), a property
+and casualty insurer, owns approximately 84.6% of the outstanding common shares
+of the Company and 100% of the outstanding common shares of Centurion Insurance
+Company ("Centurion"). Empire's common shares are 100% owned and controlled,
+through subsidiaries, by Leucadia National Corporation ("Leucadia").
+Additionally, Leucadia indirectly owns an additional 6.7% of the outstanding
+common shares of the Company. The Company, Empire and Centurion are sometimes
+hereinafter collectively referred to as the Group.
+
+Historically, the Group has specialized in commercial and personal property and
+casualty insurance business primarily in the New York metropolitan area. The
+Group has offered insurance products for vehicles (including medallion and
+radio-controlled livery vehicles), general liability coverage, property coverage
+(including mercantile and multi-family residential real estate) and workers'
+compensation to commercial accounts and private passenger automobile and
+homeowners products to individuals. The Group is organized into three divisions:
+the Small Business Division, the Personal Lines Division and the Mid-Market
+Division. Each of these divisions has separate management teams responsible for
+all underwriting decisions with the Small Business Division focusing on
+commercial package products for small businesses; the Personal Lines Division
+focusing on personal automobile and homeowners insurance; and the Mid-Market
+Division focusing on commercial automobile, commercial package and workers'
+compensation insurance for larger accounts.
+
+During the past several years, the Group has experienced poor underwriting
+results and adverse reserve development in all of its lines of business. The
+Group has responded to these developments by raising premium rates and reducing
+the volume of unprofitable business, while at the same time attempting to reduce
+its overhead.
+
+Effective January 1, 2000, all assigned risk policy renewal obligations were
+assigned to another insurance company. In 1999, a determination was made not to
+accept any applications for new private passenger automobile business from
+certain agents with the highest loss ratios. During the fourth quarter of 2000,
+this determination was extended to include the entire agency force. Existing
+policies of private passenger automobile insurance will be either sold,
+non-renewed or cancelled in accordance with New York insurance law. If this book
+of business is not sold, it is expected that the Group will continue to issue
+renewal policies over the next several years as required by applicable insurance
+law. The Group also announced that all statutory automobile policies (public
+livery vehicles) would be non-renewed effective March 1, 2001 due to poor
+underwriting results.
+
+On March 1, 2001, the Group announced that, effective immediately, it would no
+longer issue any new (as compared to renewal) insurance policies in any lines of
+business and that it has filed plans of orderly withdrawal with the New York
+Insurance Department as required. Existing commercial lines policies will be
+non-renewed or canceled in accordance with New York insurance law or replaced by
+Tower Insurance Company of New York or Tower Risk Management (collectively,
+"Tower") under an agreement for the sale of the Group's renewal rights (the
+"Tower Agreement"). Under the Tower Agreement, Tower will buy the renewal rights
+for substantially all of the Group's remaining lines of business, excluding
+private passenger automobile and commercial automobile/garage, for a fee based
+on the direct written premium actually renewed by Tower. The amount of the fee
+is not expected to be material. The Group will continue to be responsible for
+the remaining term of existing policies and all claims incurred prior to the
+expiration of these policies. For commercial lines, the Group will thereafter
+have no renewal obligations for those policies. Under New York insurance law,
+the Group is obligated to offer renewals of homeowners, dwelling fire, personal
+insurance coverage and personal umbrella for a three-year policy period;
+however, the Tower Agreement provides that Tower must offer replacements for
+these policies. The closing of the transaction is subject to the approval of the
+New York Insurance Department.
+
+Certain of the lines of business included in the agreement with Tower
+historically had acceptable loss ratios. However, despite repeated attempts, the
+Group has not been able to reduce its expenses sufficiently to be profitable
+with its reduced volume of business. This has been due in part to information
+systems and a personnel infrastructure built to service multiple lines of
+property and casualty business where the costs are more fixed than variable in
+nature, and a high cost agency distribution channel. An additional investment of
+both capital and management would have been required to attempt to reduce the
+Group's cost structure to a level commensurate with its book of business. In
+weighing the potential returns against the risks inherent in that strategy, the
+Group determined not to make the investment.
+
+                                       2
+<PAGE>
+The Group is currently exploring its options for the future. Assuming the Tower
+Agreement is consummated, the Group will only have renewal obligations for
+remaining personal lines insurance (primarily automobile) not replaced by Tower,
+the remaining policy term of all existing policies and a claim run-off
+operation. The Group may commence new property and casualty insurance operations
+if a new business model with an acceptable expense structure can be developed,
+enter into a joint venture with another property and casualty insurance
+operation, explore entering the claim services business or commence a
+liquidation. There may be other options that the Company will explore, but no
+assurance can be given at this time as to what the ultimate plan will be.
+
+As of March 3, 2001, the Group was rated "B+" (very good) by A.M. Best Company
+("Best") and rated "BB-" (marginal) by Standards & Poors Insurance Rating
+Services ("S&P"). Should the Group decide to commence new property and casualty
+insurance operations or enter into an insurance joint venture, its existing
+ratings may affect its ability to pursue its plans. As with all ratings, Best
+and S&P ratings are subject to change at any time.
+
+For the years ended December 31, 2000, 1999 and 1998 net earned premiums for the
+Company were $30.9 million, $42.4 million and $67.5 million, respectively.
+During the year ended December 31, 2000, 4% of net earned premiums of the
+Company were derived from assigned risk business, 21% from commercial automobile
+lines, 40% from other commercial lines and 35% from personal lines.
+Substantially all of the Group's policies are written in New York for a one-year
+period. The Group is licensed in New York to write most lines of insurance that
+may be written by a property and casualty insurer. Empire is also licensed to
+write insurance in Connecticut, Massachusetts, Missouri, New Hampshire and New
+Jersey.
+
+On a quarterly basis, the Group reviews and adjusts its estimated loss reserves
+for any changes in trends and actual loss experience. Included in the Company's
+results for 2000 was approximately $15.9 million related to losses and loss
+adjustment expenses ("LAE") from prior accident years. The Group will continue
+to evaluate the adequacy of its loss reserves and record future adjustments to
+its loss reserves as appropriate.
+
+
+Pooling Agreement
+
+All insurance business written by the Company is subject to a pooling agreement
+with Empire under which the Company and Empire effectively operate as one
+company. The pooling agreement and subsequent amendments were approved by the
+New York Insurance Department. The Company operates under the same general
+management as Empire and has full use of Empire's personnel, information
+technology systems and facilities. As of December 31, 2000, Empire and its
+subsidiaries had 335 full and part-time employees. Currently, and for all
+periods presented, all premiums, losses, LAE and other underwriting expenses are
+shared on the basis of 70% to Empire and 30% to the Company.
+
+Financial Information Relating to Business Segments
+
+For all periods presented, the Company's operations are presented in the
+following business segments:
+
+         (1)      Small Business - includes commercial package products for
+                  small businesses.
+
+         (2)      Mid-Market - includes commercial automobile (including
+                  medallion and radio-controlled livery vehicles), commercial
+                  package and workers' compensation insurance for larger
+                  accounts.
+
+         (3)      Personal Lines - includes private passenger automobile,
+                  homeowners and fire and allied insurance coverages.
+
+
+                                       3
+<PAGE>
+<TABLE>
+The following table presents business segment data, net of reinsurance, for each
+of the three years ended December 31, 2000 (in thousands, except loss ratio
+information):
+
+<CAPTION>
+
+                      Premiums       Premiums          Losses and LAE          Loss
+                       Written         Earned             Incurred             Ratio
+<S>                    <C>            <C>                  <C>                <C>
+2000
+
+Personal Lines (1)     $  9,647       $ 12,099             $ 17,862            147.6%
+Mid-Market               13,994         13,152               22,001            167.3%
+Small Business            5,443          5,604                3,944             70.4%
+Total                  $ 29,084       $ 30,855             $ 43,807            141.9%
+
+
+1999
+
+Personal Lines (1)     $ 15,156       $ 22,404             $ 19,236             85.9%
+Mid-Market               11,679         13,771               19,751            143.4%
+Small Business            5,977          6,273                3,551             56.6%
+Total                  $ 32,812       $ 42,448             $ 42,538            100.2%
+
+
+1998
+
+Personal Lines (1)     $ 29,357       $ 39,251             $ 35,741             91.1%
+Mid-Market               22,162         21,643               27,459            126.9%
+Small Business            6,540          6,618                6,389             96.5%
+Total                  $ 58,059       $ 67,512             $ 69,589            103.1%
+
+
+
+(1) Includes assigned risk automobile business, which the Company no longer
+participates in effective January 1, 2000.
+</TABLE>
+
+For further information concerning Business Segments, see Notes 8 and 12 of the
+Notes to Consolidated Financial Statements, included elsewhere herein.
+
+
+Combined Ratios
+
+Set forth below is certain statistical information for the Company prepared in
+accordance with generally accepted accounting principles ("GAAP") and statutory
+accounting principles ("SAP"), for the three years ended December 31, 2000. The
+Loss Ratio is the ratio of net incurred losses and LAE to net premiums earned.
+The Expense Ratio is the ratio of underwriting expenses (policy acquisition
+costs, commissions, and a portion of administrative, general and other expenses
+attributable to underwriting operations) to net premiums written, if determined
+in accordance with SAP, or to net premiums earned, if determined in accordance
+with GAAP. A Combined Ratio below 100% indicates an underwriting profit and a
+Combined Ratio above 100% indicates an underwriting loss. The Combined Ratio
+does not include the effect of investment income.
+
+
+                                       4
+<PAGE>
+<TABLE>
+<CAPTION>
+                                               Years Ended December 31,
+
+                                          2000           1999           1998
+<S>                                     <C>            <C>            <C>
+Loss Ratio: (a)
+      GAAP                               141.9%         100.2%          103.1%
+      SAP                                141.9%         100.2%          103.1%
+      Industry (SAP) (b)                   N/A           78.8%           76.5%
+
+Expense Ratio:
+      GAAP                                51.2%          39.7%           26.3%
+      SAP                                 50.4%          45.0%           31.3%
+      Industry (SAP) (b)                   N/A           29.3%           29.5%
+
+Combined Ratio:  (c)
+      GAAP                               193.1%         139.9%          129.4%
+      SAP                                192.3%         145.2%          134.4%
+      Industry (SAP) (b)                   N/A          108.1%          106.0%
+
+
+
+(a) Includes Loss and Loss Adjustment Expenses.
+
+(b) Source: Best's Aggregates & Averages, Property/Casualty, 2000 Edition.
+    Industry Combined Ratios may not be fully comparable as a result of, among
+    other things, differences in geographical concentration and in the mix of
+    property and casualty insurance products.
+
+(c) For 1998, the difference in the accounting treatment for curtailment gains
+    relating to defined benefit pension plans was the principal reason for the
+    difference between the GAAP Combined Ratio and the SAP Combined Ratio.
+    Additionally, for all three years, the difference relates to the accounting
+    for certain costs which are treated differently under SAP and GAAP. For
+    further information about the Company's Combined Ratios see Item 7,
+    "Management's Discussion and Analysis of Financial Condition and Results of
+    Operations" of this Report.
+</TABLE>
+
+
+Reinsurance
+
+The Company's maximum retained limit for all lines of business was $0.3 million
+for 2000 and 1999. The Company's maximum retained limit for 1998 was $0.5
+million for workers' compensation and $0.3 million for other property and
+casualty lines. Additionally, the Company has entered into a property
+catastrophe excess of loss treaty to protect against certain losses. Its
+retention of lower level losses in this treaty is $7.5 million for 2001, and was
+$7.5 million for 2000, 1999 and 1998.
+
+Effective January 1, 1997 Empire entered into a quota share reinsurance
+agreement with its subsidiary, Centurion. Under this agreement, Empire assumes
+50% up to July 1, 1997 and 75% thereafter of the effective period premiums and
+losses of Centurion and grants Centurion a ceding commission. Under the pooling
+agreement, 70% of such business assumed will be retained by Empire and 30% will
+be ceded to the Company.
+
+Although reinsurance does not legally discharge an insurer from its primary
+liability for the full amount of the policy liability, it does make the assuming
+reinsurer liable to the insurer to the extent of the reinsurance ceded. The
+Company's reinsurance generally has been placed with certain of the largest
+reinsurance companies, including (with their respective Best ratings) General
+Reinsurance Corporation (A++) and Zurich Reinsurance (NA), Inc. (A+). The
+Company believes its reinsurers to be financially capable of meeting their
+respective obligations. However, to the extent that any reinsuring company is
+unable to meet its obligations, the Company would be liable for the reinsured
+risks. The Company has established reserves, which the Company believes are
+adequate, for any nonrecoverable reinsurance.
+
+
+                                       5
+<PAGE>
+Investments
+
+Investment activities represent a significant part of the Company's total
+income. Investments are managed by the Company's investment advisors under the
+direction of, and upon consultation with, the Company's investment committee.
+
+The Company has a diversified investment portfolio of securities, a substantial
+portion of which is rated "investment grade" by established bond rating agencies
+or issued or guaranteed by the U.S. Treasury or by governmental agencies. A
+portion of the Company's invested assets represent an investment in a limited
+partnership which invests principally in convertible preferred stocks,
+convertible long-term debt securities, limited partnerships, and common stocks
+sold, but not yet purchased. At December 31, 2000, 1999 and 1998, the average
+yield of the Company's bond portfolio was approximately 6.4%, 6.5% and 5.8%,
+respectively, and the average maturity of the Company's bond portfolio for 2000,
+1999 and 1998 was approximately 2.2 years, 2.6 years and 3.2 years,
+respectively.
+
+Tax Sharing Agreement
+
+The Company has been included in the consolidated federal income tax returns of
+Leucadia since 1993. Under the terms of the tax sharing agreement between
+Leucadia and the Company, the Company computes its tax provision on a separate
+return basis and is either charged its share of federal income tax resulting
+from its taxable income or is credited for tax benefits resulting from its
+losses to the extent it could use the losses on a separate return basis.
+
+Government Regulation
+
+Insurance companies are subject to detailed regulation and supervision in the
+states in which they transact business. Such regulation pertains to matters such
+as approving policy forms and various premium rates, minimum reserves and loss
+ratio requirements, the type and amount of investments, minimum capital and
+surplus requirements, granting and revoking licenses to transact business,
+levels of operations and regulating trade practices. Insurance companies are
+required to file detailed annual reports with the supervising agencies in each
+of the states in which they do business, and are subject to examination by such
+agencies at any time. Increased regulation of insurance companies at the state
+level and new regulation at the federal level is possible, although the Company
+cannot predict the nature or extent of any such regulation or what impact it
+would have on the Company's operations.
+
+For additional information see Item 7, "Management's Discussion and Analysis of
+Financial Condition and Results of Operations" of this Report.
+
+In 1998, the National Association of Insurance Commissioners ("NAIC") adopted
+the Codification of Statutory Accounting Principles ("Codification"), which
+replaces the current Accounting Practices and Procedures manual as the NAIC's
+primary guidance on statutory accounting as of January 1, 2001. The Codification
+provides guidance for areas where statutory accounting has been silent and
+changes current statutory accounting in some areas. The New York Insurance
+Department recently adopted the Codification guidance (Regulation 172),
+effective January 1, 2001, but did not adopt several key provisions of the
+guidance. The Company will reflect the cumulative effect of the Codification
+guidance in its statutory financial statements as a direct adjustment to
+statutory surplus for the quarter ending March 31, 2001, to be filed with the
+New York Insurance Department by May 15, 2001. The Company is in the process of
+determining the potential effects of the codification.
+
+The Group is a member of state insurance funds, which provide certain protection
+to policyholders of insolvent insurers doing business in those states. Due to
+insolvencies of certain insurers, the Group has been assessed certain amounts
+which have not been material and are likely to be assessed additional amounts by
+state insurance funds. The Company believes that it has provided for all
+anticipated assessments and that any additional assessments will not have a
+material adverse effect on the Company's financial condition or results of
+operations.
+
+                                       6
+<PAGE>
+Competition
+
+The insurance industry is a highly competitive industry, in which many of the
+Company's competitors have substantially greater financial resources, larger
+sales forces, more widespread agency and broker relationships, endorsements from
+affinity groups and more diversified lines of insurance coverage. Additionally,
+federal administrative, legislative and judicial activity has resulted in
+changes to federal banking laws that increase the ability of national banks to
+offer insurance products.
+
+The Company believes that property and casualty insurers generally compete on
+the basis of price, customer service, consumer recognition, product design,
+product mix and financial stability. The industry has historically been cyclical
+in nature, with periods of less intense price competition generating significant
+profits, followed by periods of increased price competition resulting in reduced
+profitability or loss. The current cycle of intense price competition has
+continued for a longer period than in the past, suggesting that the significant
+infusion of capital into the industry in recent years, coupled with larger
+investment returns has been, and may continue to be, a depressing influence on
+policy rates. The profitability of the property and casualty insurance industry
+is affected by many factors, including rate competition, severity and frequency
+of claims (including catastrophe losses), interest rates, state regulation,
+court decisions and judicial climate, all of which are outside the Company's
+control.
+
+Loss and Loss Adjustment Expenses
+
+Liabilities for unpaid losses, which are not discounted (except for certain
+workers' compensation liabilities), and LAE are determined using case-basis
+evaluations, statistical analyses and estimates for salvage and subrogation
+recoverable and represent estimates of the ultimate claim costs of all unpaid
+losses and LAE. Liabilities include a provision for losses that have occurred
+but have not yet been reported. These estimates are subject to the effect of
+trends in future claim severity and frequency experience. Adjustments to such
+estimates are made from time to time due to changes in such trends as well as
+changes in actual loss experience. These adjustments are reflected in current
+earnings.
+
+The Company relies upon standard actuarial ultimate loss projection techniques
+to obtain estimates of liabilities for losses and LAE. These projections include
+the extrapolation of both losses paid and incurred by business line and accident
+year and implicitly consider the impact of inflation and claims settlement
+patterns upon ultimate claim costs based upon historical patterns. In addition,
+methods based upon average loss costs, reported claim counts and pure premiums
+are reviewed in order to obtain a range of estimates for setting the reserve
+levels. For further input, changes in operations in pertinent areas including
+underwriting standards, product mix, claims management and legal climate are
+periodically reviewed.
+
+
+                                       7
+<PAGE>
+<TABLE>
+In the following table, the liability for losses and LAE of the Company, is
+reconciled for each of the three years ended December 31, 2000. Included therein
+are current year data and prior year development.
+
+<CAPTION>
+                                     RECONCILIATION OF LIABILITY FOR LOSSES AND LAE
+
+                                               2000          1999          1998
+<S>                                       <C>           <C>           <C>
+(In thousands)
+
+Net SAP liability for losses and LAE,
+at beginning of the year                    $113,602     $ 139,771     $ 145,260
+
+Provision for losses and LAE for
+claims occurring in the current year          27,880        36,524        56,698
+Increase in estimated losses and LAE
+for claims occurring in prior years           15,927         6,014        12,891
+Total incurred losses and LAE                 43,807        42,538        69,589
+
+
+Loss and LAE payments for claims
+occurring during:
+    Current year                               8,920        12,382        19,203
+    Prior years                               52,902        56,325        55,875
+                                              61,822        68,707        75,078
+
+Net SAP liability for losses and LAE,
+at end of year                                95,587       113,602       139,771
+
+Reinsurance recoverable                      172,919       228,334       294,461
+
+Liability for losses and LAE at
+the end of year as reported in
+the financial statements (GAAP)            $ 268,506     $ 341,936     $ 434,232
+</TABLE>
+
+The following table presents the development of balance sheet liabilities for
+1990 through 2000 for the Company. The liability line at the top of the table
+indicates the estimated liability for unpaid losses and LAE recorded at the
+balance sheet date for each of the indicated years. The middle section of the
+table shows the re-estimated amount of the previously recorded liability based
+on experience as of the end of each succeeding year. As more information becomes
+available and claims are settled, the estimated liabilities are adjusted upward
+or downward with the effect of decreasing or increasing net income at the time
+of adjustment. The lower section of the table shows the cumulative amount paid
+with respect to the previously recorded liability as of the end of each
+succeeding year
+
+The "cumulative deficiency" represents the aggregate change in the estimates
+over all prior years. For example, the initial 1990 liability estimate indicated
+on the table of $75,420,000 has been re-estimated during the course of the
+succeeding ten years, resulting in a re-estimated liability at December 31, 2000
+of $85,129,000 or a deficiency of $9,709,000. If the re-estimated liability were
+less than the liability initially established, a cumulative redundancy would be
+indicated.
+
+In evaluating this information it should be noted that each amount shown for
+"cumulative deficiency" includes the effects of all changes in amounts for prior
+periods. For example, the amount of the deficiency related to losses settled in
+1994, but incurred in 1990, will be included in the cumulative deficiency amount
+for 1990, 1991, 1992 and 1993. This table is not intended to and does not
+present accident or policy year loss and LAE development data. Conditions and
+trends that have affected development of the liability in the past may not
+necessarily occur in the future. Accordingly, it would not be appropriate to
+extrapolate future redundancies or deficiencies based on this table.
+
+
+                                       8
+<PAGE>
+<TABLE>
+<CAPTION>
+Analysis of Loss and Loss Adjustment Expenses Development
+(In thousands)
+
+Years ended
+December 31,        1990      1991      1992      1993       1994       1995      1996       1997       1998      1999     2000
+<S>                 <C>      <C>       <C>        <C>       <C>         <C>       <C>        <C>        <C>       <C>      <C>
+
+Liability for Unpaid
+Losses and Loss
+Adjustment Expenses $75,420  $ 84,178  $ 96,712   $106,115   $ 121,923  $142,718  $ 143,494  $ 145,260  $ 139,771 $113,602 $95,587
+
+Liability Re-
+estimated as of:
+ One year later     $74,844  $ 83,987  $ 96,516   $103,181   $ 132,189  $150,852  $ 151,798  $ 158,152  $ 145,785 $129,529 $     -
+ Two years later     73,538    83,341    97,208    112,176     140,620   160,686    163,378    163,609    162,692
+ Three years later   73,151    85,197   103,592    118,127     150,434   172,650    179,200    176,825
+ Four years later    74,190    88,928   108,430    124,375     160,542   182,318    184,693
+ Five years later    76,509    92,035   112,988    132,606     167,164   183,482
+ Six years later     78,392    95,273   118,446    137,669     166,893
+ Seven years later   80,040    99,467   121,715    137,462
+ Eight years later   83,670   101,505   121,383
+ Nine years later    84,981   101,276
+ Ten years later     85,129
+Cumulative
+Deficiency          $(9,709) $(17,098) $(24,671)  $(31,347)  $ (44,970) $(40,764) $ (41,199) $ (31,565) $ (22,921)$(15,927)$     -
+
+Cumulative Amount
+of Liability
+Paid Through:
+ One year later     $23,681  $ 26,852  $  33,903  $  35,048  $  45,789  $ 60,382  $  56,475  $  55,875  $  56,325 $ 52,902 $     -
+ Two years later     38,067    44,989     54,615     59,701     80,911    95,190     94,062     93,714     97,887
+ Three years later   50,194    59,336     71,653     81,680    105,977   121,900    122,811    126,295
+ Four years later    58,830    69,955     85,689     97,917    124,645   141,259    146,697
+ Five years later    65,025    77,965     95,938    109,083    136,791   156,006
+ Six years later     69,568    83,886    102,416    116,929    146,283
+ Seven years later   72,683    88,139    107,246    123,022
+ Eight years later   75,932    91,364    111,097
+ Nine years later    78,103    93,862
+ Ten years later     79,863
+
+Net Liability - End of year as shown above        $ 106,115  $ 121,923  $ 142,718  $ 143,494 $ 145,260  $139,771  $113,602 $ 95,587
+Reinsurance                                         184,718    219,676    257,161    262,593   272,266   294,461   228,334  172,919
+Gross Liability - End of year
+  as shown above                                  $ 290,833  $ 341,599  $ 399,879  $ 406,087 $ 417,526  $434,232  $341,936 $268,506
+
+Net Re-Estimated Liability -
+  Latest                                          $ 137,462  $ 166,893  $ 183,482  $ 184,693 $ 176,825  $162,692  $129,529
+Re-estimated Reinsurance -
+  Latest                                            273,682    325,569    353,635    363,792   341,658   318,663   240,396
+Gross Re-estimated Liability -
+  Latest                                          $ 411,144  $ 492,462  $ 537,117  $ 548,485 $ 518,483  $481,355  $369,925
+
+Gross Cumulative
+ Deficiency                                       $(120,311) $(150,863) $(137,238) $(142,398)$(100,957) $(47,123) $(27,989)
+
+</TABLE>
+
+As reflected in the above table, the Company's reported loss and loss adjustment
+expense reserves as of the end of each calendar year were subsequently
+determined to be deficient. This adverse development first became apparent to
+the Company during the 1995 calendar year, when an increase to prior years'
+reserves was recorded for the first time. In each subsequent calendar year, the
+Company's recalculation of the reserve balances for prior periods continued to
+result in higher reserve estimates. These higher reserve estimates were
+reflected in the Company's annual financial statements upon determination.
+
+
+
+                                       9
+<PAGE>
+During the period from 1991 through 2000, the Company recorded in its Statements
+of Operations total net adverse reserve development of $57.6 million, as
+disclosed in the Reconciliation of Liability for Losses and LAE table for such
+years. This adverse development was experienced in substantially all of the
+Company's lines of insurance; however, the amount of reserve increases and the
+periods in which the reserves were recorded were not the same for all lines of
+insurance. On a calendar year basis, the aggregate $57.6 million adverse reserve
+development was recorded, as set forth in the table below:
+
+                                                                 Redundancy/
+                                                                (Deficiency)
+Calendar year recorded                                         (in thousands)
+----------------------                                         --------------
+
+1991                                                                   $  576
+1992                                                                      191
+1993                                                                      196
+1994                                                                    2,934
+1995                                                                 (10,266)
+1996                                                                  (8,134)
+1997                                                                  (8,304)
+1998                                                                 (12,891)
+1999                                                                  (6,014)
+2000                                                                 (15,927)
+                                                                  ----------
+
+  Prior year reserve development recorded 1991 to 2000            $ (57, 639)
+
+
+This reserve development is reflected in the ten-year Analysis of Loss and Loss
+Adjustment Expense Development table above; however, because the deficiency line
+in the table is calculated on a cumulative basis, the $57.6 million of actual
+adverse reserve development experienced by the Company is reported as
+deficiencies in multiple years in the table. An examination of the adverse loss
+reserve development recorded during 2000 will illustrate this point. During 2000
+the Company recorded $15.9 million of adverse loss reserve development related
+to claims incurred in years prior to 2000. This amount is reflected in the 1999
+column of the table as a cumulative deficiency. However, since this adverse loss
+reserve development related to claims incurred and whose settlement cost was
+originally estimated in various periods prior to 2000, the cumulative deficiency
+line in years prior to 2000 includes this adverse loss reserve development as
+follows: 1999: $15.9 million; 1998: $16.9 million; 1997: $13.2 million; 1996:
+$5.5 million; and 1995: $1.2 million (amounts prior to 1995 were insignificant).
+Because the cumulative deficiencies reflected in the ten-year Analysis of Loss
+and Loss Adjustment Expense Development table above add up to a much greater
+number than the actual adverse development recorded by the Company, an
+understanding of the Company's reserve deficiencies during 1990-1999 can only be
+obtained from an analysis of the adverse reserve development actually recorded
+by the Company in its financial statements in each year in the period, beginning
+in 1995 (the first year in which adverse reserve development was recorded).
+
+
+                                       10
+<PAGE>
+The information below identifies certain of the more significant trends and
+events that the Company has experienced in recent years, resulting in the
+Company's recognition of the adverse loss reserve development in 1995 and each
+subsequent calendar year. As described below, the reserve development recorded
+by the Company was caused by many factors, including initial loss ratio
+estimates used by the Company that were subsequently found to be too low as a
+result of actual loss experience, as well as factors external to the Company
+that weren't known at the time business was written. In addition, the long
+period of time it takes to settle third-party liability claims in the New York
+City marketplace further complicates the reserve estimation process. Frequently,
+these claims are not received immediately after the accident occurs, and in
+fact, a claimant can wait until just before the expiration of the statute of
+limitations (three years from the date of the accident) to make a claim. Once
+received, a claim may take several years until the claim reaches final
+resolution in the New York City courts.
+
+1995
+----
+
+In 1995, of the $10.3 million of adverse loss reserve development recorded by
+the Company, $6.9 million was in the private passenger automobile line of
+insurance. In 1994, the Company acquired a large block of assigned risk private
+passenger automobile business that nearly doubled the volume previously written
+by the Company. In 1995, losses began to develop in this line of insurance that
+indicated a higher ultimate loss ratio than the Company had experienced on
+similar blocks of assigned risk business from earlier periods, which experience
+formed the basis of the Company's original loss estimate. As a result, the
+Company increased its estimate for loss reserves for the assigned risk business
+acquired in 1994 and earlier years.
+
+1996, 1997 and 1998
+-------------------
+
+For the years ended December 31, 1996, 1997, and 1998, the Company recorded
+adverse loss reserve development of $ 8.1 million, $8.3 million and $12.9
+million. For 1996, 1997 and 1998, these amounts included $6 million, $2.1
+million and $4.2 million, respectively, in the commercial automobile liability
+line, and $2.4 million, $3.3 million and $4.2 million, respectively, in the
+commercial package liability line. Beginning in 1992, the Company entered into
+new market segments of the voluntary commercial business for automobile and
+general liability lines, including specialty programs for sanitation trucks, gas
+stations, fuel oil deliveries and limousines. Initially, the Company's loss
+ratio estimate for these new market segments was based upon its experience with
+similar lines of business and standard actuarial ultimate loss projection
+techniques, which consider expected loss ratios.
+
+During 1996, claims began to develop unfavorably and the Company used such claim
+development to revise the assumptions that had formed the basis of its actuarial
+studies; as a consequence reserves were increased. The increase in ultimate loss
+estimates did not become apparent prior to 1996, primarily due to the long
+period of time it takes to settle claims in these new sub-lines of business. The
+Company further increased its loss estimates and increased reserves for these
+market segments in 1997 and 1998 as well. Except for the three-year period from
+1996 to 1998, there has been no other material development for these market
+segments first entered into in 1992.
+
+
+                                       11
+<PAGE>
+In addition, during 1998 the Company's claim examiners began recording increases
+in the expected settlement costs for 1997 accident year claims in other
+sub-lines of the commercial automobile line of insurance in larger amounts than
+previously expected. As a result, the 1997 accident year loss ratio for the
+commercial automobile line is now currently estimated to be 130%, which is 30
+points higher than the current estimate for the 1996 accident year and 50 points
+higher than the current estimate for the 1995 accident year. Such a large change
+in the loss experience for this book of business from prior experience was not
+expected.
+
+1999 and 2000
+-------------
+
+In 1999 and 2000, the Company recorded adverse loss reserve development of $6.0
+million and $15.9 million, respectively, of which $5.1 million and $6.1 million,
+respectively, related to Personal Injury Protection ("PIP") coverage in all of
+its automobile lines of insurance. The majority of the 1999 development resulted
+from increased claim cost estimates for the 1998 accident year. It was during
+1999 that the Company first began to experience greater severity (the amount
+paid to a claimant) in automobile liability claims, which were subsequently
+determined to be PIP related. Also during 1999, the Company started to see the
+lengthening of the time from the date of loss to the date a claim was first
+reported. This change in loss development patterns resulted in more claims being
+reported at later dates, which further increased the Company's loss estimates.
+In 1999, the Company incorporated this developing trend into its ultimate loss
+estimate for PIP related claims and increased its loss reserves accordingly.
+
+During the latter half of 2000, and in particular, the fourth quarter, the
+Company experienced further unfavorable development in PIP claims. This
+development occurred in all accident years from 1996 through 1999, with further
+deterioration in the 1998 accident year being the most significant component.
+The Company observed this unfavorable development with respect to both the
+frequency and severity of claims. The Company incorporated the results of this
+activity with that of developing industry trends into its actuarial valuation
+for its PIP coverage and increased its loss reserve estimate.
+
+In the past, the Company has written various commercial package and homeowner
+policies that offer liability protection to the insured, and has exposure to
+third party liability claims in these lines of insurance. During 2000, the
+Company experienced newly reported and reopened liability claims with increased
+severity for accident years 1998 and prior. As a result, the Company recognized
+$4.5 million of loss reserve development for those accident years. One of the
+primary reasons for the reopened claims was that the increase in severity made
+certain types of liability claims that previously had lower settlement values
+more attractive litigation candidates for plaintiff's attorneys.
+
+Throughout 2000, the Company outsourced a significant portion of its claim
+handling responsibilities to outside third party claim administrators. While the
+Company anticipates that these administrators will be able to settle these
+claims for smaller amounts than the Company was achieving, the loss adjustment
+expense reserve needed to be increased to recognize the fees due to the
+administrators. Such fees are higher on a per claim basis than the Company's
+cost to handle claims in-house. Accordingly, in 2000 the adverse loss reserve
+
+
+                                       12
+<PAGE>
+development recorded by the Company included an increase to the loss adjustment
+expense reserve of $3.3 million. The Company has not recognized any reserve
+reduction for the potentially lower settlement amounts that may be achieved by
+the third party administrators.
+
+For additional information, please see Item 7, "Management's Discussion and
+Analysis of Financial Condition and Results of Operations," included elsewhere
+herein.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       13
+<PAGE>
+                                     PART II
+
+Item 7.  Management's Discussion and Analysis of Financial Condition and Results
+         of Operations
+
+The purpose of this section is to discuss and analyze the Company's financial
+condition, liquidity and capital resources and results of operations. This
+analysis should be read in conjunction with the financial statements and related
+notes which appear elsewhere in this Report.
+
+Liquidity and Capital Resources
+
+In 2000 and 1999, net cash was used for operations as a result of a decrease in
+premiums written and the payment of claims. As discussed above, it is currently
+anticipated the Company's premiums will continue to decline while the Company
+runs off its claims liabilities. This is expected to result in a continued net
+use of the Company's cash for operations over the next several years.
+
+At December 31, 2000 and 1999 the yield of the Company's fixed maturities
+portfolio was 6.4% and 6.5%, respectively, with an average maturity of 2.2 years
+and 2.6 years for 2000 and 1999, respectively. Additionally, the Company
+maintains a diversified investment portfolio of securities, of which at December
+31, 2000, approximately 66% of the fixed maturities portfolio was invested in
+issues of the U.S. Treasury and its governmental agencies with the remainder
+primarily invested in investment grade corporate and industrial issues.
+
+The Company maintains cash, short-term and readily marketable securities and
+anticipates that the cash flow from investment income, maturities and sales of
+short-term investments and fixed maturities will be sufficient to satisfy its
+anticipated cash needs. During 2000 and 1999, the Company sold certain
+securities at a net realized capital loss to meet short-term cash flow needs.
+The Company will continue to sell its investment portfolio and collect its
+reinsurance receivables to generate the cash that will be required to settle its
+loss and loss adjustment expense reserves. At December 31, 2000, these assets
+totaled $341 million as compared to the Company's loss and loss adjustment
+expense reserves of $269 million. The Company expects to settle approximately
+80% of these liabilities within the next 3 years. Additionally, the Company has
+not experienced any material default in the payment of reinsurance claims due
+from its reinsurance providers. The Company does not presently anticipate paying
+dividends in the near future and believes it has sufficient capital to meet its
+currently anticipated level of operations.
+
+Results of Operations
+
+The Company's pre-tax income (loss) was $(17.9) million, $(6.3) million and $.8
+million for the years ended December 31, 2000, 1999 and 1998, respectively.
+These amounts were negatively impacted by adverse reserve development of prior
+years' reserves of $15.9 million, $6 million and $12.9 million for 2000, 1999
+and 1998, respectively. The more significant trends and events that the Company
+has experienced in recent years, which resulted in the recognition of the
+adverse loss reserve development, are identified below following the Company's
+combined ratios.
+
+Net earned premium revenues of the Company were $30.9 million, $42.4 million and
+$67.5 million for the years ended December 31, 2000, 1999 and 1998,
+respectively. While earned premiums declined in almost all lines of business
+during 2000 and 1999, the most significant reductions during 2000 were in
+assigned risk automobile ($4.4 million) and voluntary private passenger
+automobile ($4.4 million), and during 1999 were in assigned risk automobile
+($7.3 million), voluntary private passenger automobile ($8.1 million) and
+commercial package policies ($3.7 million). Effective January 1, 2000, all
+policy renewal obligations for assigned risk contracts were assigned to another
+insurance company. However, the Company remains liable for the claim settlement
+costs for assigned risk claims that occurred during the policy term. The decline
+in voluntary private passenger automobile resulted from tighter underwriting
+standards, increased competition and the Company's decision in 1999 to no longer
+accept new policies from those agents who historically have had poor
+underwriting results. The Company's termination of certain unprofitable agents
+also adversely affected premium volume in other lines of business.
+
+
+                                       14
+<PAGE>
+During the fourth quarter of 2000, the Group announced that it would no longer
+accept any new private passenger automobile policies from any agents. Existing
+policies of private passenger automobile insurance will be either sold,
+non-renewed or cancelled in accordance with New York insurance law. If this book
+of business is not sold, it is expected that the Group will continue to issue
+renewal policies over the next several years as required by applicable insurance
+law. The Group also announced that all statutory automobile policies (public
+livery vehicles) would be non-renewed effective March 1, 2001, due to poor
+underwriting results.
+
+On March 1, 2001, the Group announced that, effective immediately, it would no
+longer issue any new (as compared to renewal) insurance policies and that it has
+filed plans of orderly withdrawal with the New York Insurance Department as
+required. Existing commercial lines policies will be non-renewed or canceled in
+accordance with New York insurance law or replaced by Tower. The Group will
+continue to be responsible for the remaining term of its existing policies and
+all claims incurred prior to the expiration of these policies. For commercial
+lines, the Group will thereafter have no renewal obligations for those policies.
+Under New York insurance law, the Group is obligated to offer renewals of
+homeowners, dwelling fire, personal insurance coverage and personal umbrella for
+a three-year policy period; however, the Tower Agreement provides that Tower
+must offer replacements for these policies. The closing of the transaction is
+subject to the approval of the New York Insurance Department.
+
+During the remaining term of the Company's policies that will be sold or
+non-renewed at the expiration of the policy term, and for other policies which
+may have to be renewed under New York insurance law, the Company's estimate of
+losses for those policies will be based on its accumulated loss experience in
+those line of insurance as well as industry trends. The Company's accident year
+loss ratios for certain of these policies, in particular private passenger
+automobile, will be high reflecting the poor loss experience and adverse reserve
+development that the Company has experienced in the past.
+
+The NAIC has adopted model laws incorporating the concept of a "risk based
+capital" ("RBC") requirement for insurance companies. Generally, the RBC formula
+is designed to measure the adequacy of an insurer's statutory capital in
+relation to the risks inherent in its business. The RBC formula is used by the
+states as an early warning tool to identify weakly capitalized companies for the
+purpose of initiating regulatory action. Although New York State has not adopted
+the RBC requirements for property and casualty insurance companies, New York
+does require that property and casualty insurers file the RBC information with
+the New York Insurance Department ("the Department"). The NAIC also has adopted
+various ratios for insurance companies which, in addition to the RBC ratio, are
+designed to serve as a tool to assist state regulators in screening and
+analyzing the financial condition of insurance companies operating in their
+respective states. The Company and its parent had certain NAIC ratios outside of
+the acceptable range of results for the year ended December 31, 2000.
+
+In 2001, the Department completed its fieldwork for its triennial examination of
+the statutory-basis financial statements of the Company and its parent as of
+December 31, 1999 but has not as yet issued its report. However, the Department
+has verbally informed the Company that its estimate of the Company's required
+loss and loss adjustment expense reserves as of December 31, 1999 was higher
+than the amount recorded by the Company. The Department's estimate of loss and
+loss adjustment expense reserves for accident years 1999 and prior is
+approximately $15,000,000 higher than the Company's recorded reserves for such
+accident years as of December 31, 2000. The Company and its parent are currently
+discussing the results of the Department's reserve study with them, and are
+working to reconcile the differences between the two estimates. Based on the
+Company's and its parent's recent discussions with the Department, and their
+decision to file plans of orderly withdrawal from all lines of business, as
+previously described, the Company believes that no material adverse action will
+be taken by the Department at this time. However, no assurance can be given that
+the Company and its parent will not be required to increase their reserves or
+that the Department will not take materially adverse regulatory action in the
+future.
+
+The Group is currently exploring its options for the future. Assuming the Tower
+Agreement is consummated, the Group will only have renewal obligations for
+remaining personal lines insurance (primarily automobile) not replaced by Tower,
+the remaining policy term of all existing policies and a claim run-off
+operation. The Group may commence new property and casualty insurance operations
+if a new business model with an acceptable expense structure can be developed,
+enter into a joint venture with another property and casualty insurance
+operation, explore entering the claim services business or commence a
+liquidation. There may be other options that the Company will explore, but no
+assurance can be given at this time as to what the ultimate plan will be.
+
+
+                                       15
+<PAGE>
+<TABLE>
+The Company's combined ratios as determined under GAAP and SAP were as follows:
+<CAPTION>
+                                  Years Ended December 31,
+                                  2000             1999              1998
+      <S>                <C>              <C>               <C>
+      GAAP               193.1%           139.9%            129.4%
+      SAP                192.3%           145.2%            134.4%
+</TABLE>
+
+
+The Company's combined ratios increased in 2000 primarily due to unfavorable
+loss reserve development from prior accident years, increased loss adjustment
+expenses for newly outsourced claims and adverse development in loss adjustment
+expenses. In addition, these ratios increased due to reduced service fees,
+higher 2000 accident year loss ratios, higher severance costs and overhead costs
+which, although lower, have not declined commensurate with the reduced premium
+volume. The Company's combined ratios increased in 1999 primarily due to the
+reduction in premium volume at a rate greater than the reduction in net
+underwriting and other costs. In addition, in 1999, the expense ratios were
+adversely affected by the reduction in service fees, increased expenditures
+related to the installation of new information systems, providing Internet
+access to agents and severance costs.
+
+During 2000, the Company recorded adverse loss reserve development of $15.9
+million, principally in the 1996 through 1999 accident years. This development
+was attributable to an increase in the severity of personal injury protection
+claims ("PIP") and an increase in the frequency of liability claims in the
+private passenger automobile line ($2.8 million), an increase in the frequency
+of liability claims in the commercial automobile line ($1.9 million), an
+increase in the frequency and severity of PIP claims in the assigned risk
+automobile line ($1.4 million) and an increase in the severity of certain
+liability claims in the commercial package policies lines of business ($4.5
+million). The increases in severity and frequency of claims in automobile lines
+of business, particularly with respect to PIP claims, are consistent with
+emerging industry trends in the New York City marketplace. In addition, the
+Company increased its estimate for loss adjustment expenses by $3.3 million as a
+result of the decision to outsource a significant amount of claim handling
+functions in 2000. Claim files for workers' compensation, automobile no-fault
+and automobile and other liability claims were outsourced at a cost greater than
+the reserves previously recorded to handle the claims internally. The Group has
+outsourced almost two-thirds of its claims. Currently, the Group is primarily
+handling complex claims, first party claims and certain automobile liability and
+general liability claims internally. Complex claims generally consist of those
+that have potentially large settlement exposure and are not expected to settle
+quickly. The Company has also increased its reserve estimate for claims handled
+internally.
+
+During 1999, the Company recorded adverse loss reserve development of $6
+million, principally due to an increase in severity of 1998 accident year losses
+in the assigned risk automobile and voluntary private passenger automobile
+lines, and 1996 accident year losses in certain classes of the commercial
+automobile line. As a result, the Company increased its reserves by $2.2 million
+for assigned risk automobile, $1.5 million for voluntary private passenger
+automobile and $1.4 million for commercial automobile lines.
+
+
+                                       16
+<PAGE>
+During 1998, the Company recorded adverse loss reserve development of $12.9
+million. In 1998, the Company reviewed the adequacy of the reserves carried for
+its open claims' files, focusing on workers' compensation, commercial auto and
+other commercial liability lines of business. As part of the review,
+substantially all open workers' compensation claim files were reviewed for every
+accident year up to and including 1998. Additionally, during 1998, the Group
+reorganized the commercial auto claims department. As part of this realignment,
+more complex claims files were reviewed by the most experienced claims examiners
+and assumptions regarding average claims severity and probable ultimate losses
+were revised. Accordingly, prior years reserves were increased by $3.9 million
+for workers' compensation, $4.2 million for commercial automobile and $4.2
+million for other commercial liability lines of business.
+
+During the period between 1984 and 1995, the Company entered into certain
+retrospectively rated reinsurance contracts covering substantially all lines of
+business, except worker's compensation. Under these contracts, the Company paid
+the reinsurer provisional premiums that are subject to adjustment based on
+subsequent loss development. Ceded premiums accrued under these contracts reduce
+both net written and earned premiums during the period the retrospective
+reinsurance premiums are accrued. If additional unfavorable loss development
+emerges in future periods, the Company may be required to accrue additional
+retrospective reinsurance premiums.
+
+Net earned premiums revenues of the Company were reduced for retrospective
+reinsurance premiums by $1.4 million, $1.4 million and $0.6 million for the
+years ended December 31, 2000, 1999 and 1998, respectively.
+
+For all lines of property and casualty insurance business, the Company employs a
+variety of standard actuarial ultimate loss projection techniques, statistical
+analyses and case-basis evaluations to estimate its liability for unpaid losses.
+The actuarial projections include an extrapolation of both losses paid and
+incurred by business line and accident year and implicitly consider the impact
+of inflation and claims settlement patterns upon ultimate claim costs based upon
+historical patterns. These estimates are performed quarterly and consider any
+changes in trends and actual loss experience. Any resulting change in the
+estimate of the liability for unpaid losses, including those discussed above, is
+reflected in current year earnings during the quarter the change in estimate is
+identified.
+
+The reserving process relies on the basic assumption that past experience is an
+appropriate basis for predicting future events. The probable effects of current
+developments, trends and other relevant matters are also considered. Since the
+establishment of loss reserves is affected by many factors, some of which are
+outside the Company's control or are affected by future conditions, reserving
+for property and casualty claims is a complex and uncertain process requiring
+the use of informed estimates and judgments. As additional experience and other
+data become available and are reviewed, the Company's estimates and judgments
+may be revised. While the effect of any such changes in estimates could be
+material to future results of operations, the Company does not expect such
+changes to have a material effect on its liquidity or financial condition.
+
+In management's judgment, information currently available has been appropriately
+considered in estimating the Company's loss reserves. The Company will continue
+to evaluate the adequacy of its loss reserves on a quarterly basis,
+incorporating any future changes in trends and actual loss experience, and
+record adjustments to its loss reserves as appropriate.
+
+Investment income has decreased by approximately $1.0 million or 8.2% in 2000
+and decreased by approximately $2.1 million, or 14.2% in 1999, primarily as a
+result of lower invested assets due to claim payments and a decrease in premiums
+written. During 2000 and 1999, the Company had realized capital losses of $0.2
+million and $1.7 million, respectively, principally due to the sale of fixed
+maturities to satisfy operating cash needs. During 1998, the Company recorded
+$6.1 million in realized capital gains principally on the sale of fixed
+maturities, primarily U.S. Treasury Notes.
+
+The combination of other underwriting expenses incurred and the amortization of
+deferred policy acquisition costs reflected a decrease of $3.1 million or 16.4%
+in 2000 and approximately $2.2 million or 10.5% in 1999. The decrease in both
+2000 and 1999 primarily related to the decline in premium revenue coupled with a
+reduction in operating expenses. 1998 included increased expenses relating to
+the move of the Company's executive and administrative offices to Brooklyn, New
+York and higher underwriting costs offset in part by a $2.0 million pension
+curtailment gain.
+
+Due to the uncertainty of future taxable income necessary for realization of the
+deferred tax asset, a valuation allowance has been provided as of December 31,
+2000 on the total amount of the deferred tax asset.
+
+
+                                       17
+<PAGE>
+Impact of Inflation
+
+The Company, as well as the property and casualty insurance industry in general,
+is affected by inflation. With respect to losses, the Company's claim severity
+is affected by the impact of inflation on the cost of automobile repair parts,
+medical costs and lost wages. The costs of adjusting claims and other
+underwriting expenses have also been affected by inflationary pressures on
+salaries and employee benefits. The Company receives rate increases based in
+part upon its experience as well as the industry's experience. Accordingly,
+premium increases generally follow the rate of inflation.
+
+
+Cautionary Statement for Forward-Looking Information
+
+Statements included in this Report may contain forward-looking statements
+pursuant to the safe-harbor provisions of the Private Securities Litigation
+Reform Act of 1995. Such forward-looking statements may relate, but are not
+limited, to projections of revenues, income or loss, capital expenditures,
+fluctuations in insurance reserves, plans for growth and future operations,
+competition and regulation as well as assumptions relating to the foregoing.
+Forward-looking statements are inherently subject to risks and uncertainties,
+many of which cannot be predicted or quantified. When used in this Report, the
+words "estimates", "expects", "anticipates", "believes", "plans", "intends" and
+variations of such words and similar expressions are intended to identify
+forward-looking statements that involve risks and uncertainties. Future events
+and actual results could differ materially from those set forth in, contemplated
+by or underlying the forward-looking statements. The factors that could cause
+actual results to differ materially from those suggested by any such statements
+include, but are not limited to, those discussed or identified from time to time
+in the Company's public filings, including general economic and market
+conditions, changes in domestic laws, regulations and taxes, changes in
+competition and pricing environments, regional or general changes in asset
+valuation, the occurrence of significant natural disasters, the inability to
+reinsure certain risks economically, the adequacy of loss reserves, prevailing
+interest rate levels, weather related conditions that may affect the Company's
+operations, consummation of the Tower Agreement, the ability to attract and
+retain key personnel, adverse selection through renewals of the Group's
+policies, the Group's ability to develop an alternative business model and
+changes in composition of the Company's assets and liabilities through
+acquisitions or divestitures. Undue reliance should not be placed on these
+forward-looking statements, which are applicable only as of the date hereof. The
+Company undertakes no obligation to revise or update these forward-looking
+statements to reflect events or circumstances that arise after the date of this
+Report or to reflect the occurrence of unanticipated events.
+
+
+
+
+
+                                       18
+<PAGE>
+                                   SIGNATURES
+
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+
+
+                                           ALLCITY INSURANCE COMPANY
+
+February 7, 2002                           By: /s/ Rocco J. Nittoli
+                                               ----------------------------
+                                               Rocco J. Nittoli
+                                               Chief Operating Officer
+
+
+
+
+
+
+
+
+
+
+                                       19
+
+</TEXT>
+</DOCUMENT>

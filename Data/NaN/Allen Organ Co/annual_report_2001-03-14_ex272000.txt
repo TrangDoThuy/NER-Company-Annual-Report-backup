@@ -1,0 +1,35 @@
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>1
+<FILENAME>ex272000.txt
+<TEXT>
+
+                            ALLEN ORGAN COMPANY
+
+
+
+     Exhibit 21 - Subsidiaries of the Registrant
+
+
+
+     Subsidiaries Name            Trade Name (if different)   State of
+                                                              Incorporation
+
+
+     Allen Audio, Inc.                                        Pennsylvania
+
+     Allen Diversified, Inc                                   Delaware
+
+     Allen Organ International, Inc.                          US Virgin Islands
+
+     VIR, Inc.                       VIR Linear Switch        Pennsylvania
+
+     Eastern Research, Inc.                                   New Jersey
+
+     Linear Switch Corporation                                New Jersey
+
+     Legacy Audio, Inc.                                       Illinois
+     <PAGE>
+
+</TEXT>
+</DOCUMENT>

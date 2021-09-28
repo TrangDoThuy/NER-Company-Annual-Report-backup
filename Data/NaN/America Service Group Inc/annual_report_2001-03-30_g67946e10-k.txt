@@ -1,0 +1,2736 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>g67946e10-k.txt
+<DESCRIPTION>AMERICA SERVICE GROUP INC
+<TEXT>
+
+<PAGE>   1
+===============================================================================
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+                      -------------------------------------
+
+                                    FORM 10-K
+
+(MARK ONE)
+[X]   ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+      SECURITIES EXCHANGE ACT OF 1934
+
+                   FOR THE FISCAL YEAR ENDED DECEMBER 31, 2000
+                                       or
+[ ]   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+      SECURITIES EXCHANGE ACT OF 1934
+
+                        FOR THE TRANSITION PERIOD FROM            TO
+
+                         COMMISSION FILE NUMBER: 0-23340
+                           AMERICA SERVICE GROUP INC.
+             (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+
+                 DELAWARE                                   51-0332317
+      (STATE OR OTHER JURISDICTION OF                    (I.R.S. EMPLOYER
+      INCORPORATION OR ORGANIZATION)                    IDENTIFICATION NO.)
+
+       105 WESTPARK DRIVE, SUITE 300                           37027
+           BRENTWOOD, TENNESSEE                             (ZIP CODE)
+ (ADDRESS OF PRINCIPAL EXECUTIVE OFFICES)
+
+       REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE: (615) 373-3100
+
+           SECURITIES REGISTERED PURSUANT TO SECTION 12(B) OF THE ACT:
+                                      NONE
+
+           SECURITIES REGISTERED PURSUANT TO SECTION 12(G) OF THE ACT:
+                     COMMON STOCK, PAR VALUE $.01 PER SHARE
+
+         Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes [X] No [ ]
+
+         Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. [ ]
+
+         The aggregate market value of the Common Stock held by non-affiliates
+of the registrant as of March 21, 2001 (based on the last reported closing price
+per share of Common Stock as reported on The Nasdaq National Market on such
+date) was approximately $134,012,711. As of March 21, 2001, the registrant had
+5,414,655 shares of Common Stock outstanding.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+         Portions of the Company's Proxy Statement for the Annual Meeting of
+Stockholders to be held on June 6, 2001 are incorporated by reference in Part
+III.
+==============================================================================
+
+
+<PAGE>   2
+
+
+                                     PART I
+
+ITEM 1.  BUSINESS
+
+         This Form 10-K contains statements which may constitute
+"forward-looking statements" within the meaning of Section 27A of the Securities
+Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934,
+as amended. Those statements include statements regarding the intent, belief or
+current expectations of America Service Group Inc. and members of its management
+team. Prospective investors are cautioned that any such forward-looking
+statements are not guarantees of future performance and involve a number of
+risks and uncertainties, and that actual results may differ materially from
+those contemplated by such forward-looking statements. Important factors
+currently known to management that could cause actual results to differ
+materially from those in forward-looking statements are set forth below under
+the caption "Cautionary Statements." America Service Group Inc. undertakes no
+obligation to update or revise forward-looking statements to reflect changed
+assumptions, the occurrence of unanticipated events or changes to future
+operating results over time.
+
+GENERAL
+
+         America Service Group Inc. ("ASG" or the "Company"), through its
+subsidiaries Prison Health Services, Inc. ("PHS"), EMSA Correctional Care, Inc.
+("EMSA Correctional"), EMSA Military Services, Inc. ("EMSA Military"),
+Correctional Health Services, Inc. ("CHS") and Secure Pharmacy Plus, Inc.
+("SPP"), contracts to provide managed healthcare services including the
+distribution of pharmaceuticals to correctional facilities and military
+installations throughout the United States. ASG was incorporated in 1990 as a
+holding company for PHS. Unless the context otherwise requires, the term
+"Company" refers to ASG and its direct and indirect subsidiaries. ASG's
+executive offices are located at 105 Westpark Drive, Suite 300 Brentwood,
+Tennessee 37027. Its telephone number is (615) 373-3100.
+
+RECENT DEVELOPMENTS
+
+         On February 5, 2001, the Company completed the conversion of 125,000
+shares of Series A Convertible Preferred Stock, having an aggregate liquidation
+preference of $12.5 million, into 1,322,751 shares of Common Stock. The Company
+has registered the shares of Common Stock issued upon conversion of the Series A
+Convertible Preferred Stock for resale. The transaction is more fully described
+in Notes 11 and 20 to the consolidated financial statements.
+
+CORRECTIONAL HEALTHCARE SERVICES
+
+         Generally. ASG, through PHS, EMSA Correctional, and CHS, contracts with
+state, county and local governmental agencies to provide comprehensive
+healthcare services to inmates of prisons and jails, with a focus on those
+facilities that maintain an average daily population of over 300 inmates.
+
+         ASG generally enters into fixed fee contracts to provide comprehensive
+healthcare to inmates from their admission to the facility through their
+release. ASG's revenues from correctional healthcare services are generated
+primarily by payments from governmental agencies, none of which are dependent on
+third party payment sources. Services provided by ASG include a wide range of
+on-site healthcare programs, as well as off-site hospitalization and specialty
+outpatient care. See "-- Services Provided." Such hospitalization and specialty
+outpatient care is performed through subcontract arrangements with independent
+doctors and local hospitals.
+
+
+
+                                       1
+<PAGE>   3
+
+
+    The following table sets forth information regarding ASG's correctional
+contracts.
+
+<TABLE>
+<CAPTION>
+                                                                                        HISTORICAL
+                                                                                        DECEMBER 31,
+                                                                -----------------------------------------------------
+                                                                 2000          1999        1998      1997       1996
+                                                                -------       -------     ------    ------     ------
+<S>                                                             <C>           <C>         <C>        <C>        <C>
+Number of correctional contracts(1) ...................             130           106         35        32         34
+Average number of inmates in all facilities covered
+    by correctional contracts(2) ......................         176,563       132,304     63,783     54,364     83,288
+</TABLE>
+
+---------------
+
+(1)      Indicates the number of contracts in force at the end of the period
+         specified.
+
+(2)      Based on an average number of inmates during the last month of each
+         period specified.
+
+         ASG's target correctional market consists of state prisons and county
+and local jails. A prison is a facility in which an inmate is incarcerated for
+an extended period of time (typically one year or longer). A jail is a facility
+in which the inmate is held for a shorter period of time, often while awaiting
+trial or sentencing. The higher inmate turnover in jails requires that
+healthcare be provided to a much larger number of individual inmates over time.
+Conversely, the costs of long-term healthcare requirements are greater with
+respect to state prison contracts. State prison contracts often cover a larger
+number of facilities and often have longer terms than jail contracts.
+
+         Services Provided. Generally, ASG's obligation to provide services to a
+particular inmate begins upon the inmate's admission into the correctional
+facility and ends upon the inmate's release. Emphasis is placed upon early
+identification of serious injuries or illnesses so that prompt and
+cost-effective treatment is commenced.
+
+         Medical services provided on-site include physical and mental health
+screening upon intake. Screening includes the compilation of the inmate's health
+history and the identification of any current, chronic or acute healthcare
+needs. After initial screening, services provided may include regular physical
+and dental screening and care, psychiatric care, OB-GYN screening and care and
+diagnostic testing. Sick call is held on a regular basis and infirmary bed care
+is provided in some facilities. Nursing rounds are regularly conducted and
+physicians, nurse practitioners, physicians' assistants and others are also
+involved in the delivery of care on a regular basis. Appropriate medications are
+administered by nursing staff, as needed.
+
+         Medical services provided off-site include specialty outpatient
+diagnostic testing and care, emergency room care, surgery and hospitalization.
+In addition, ASG provides administrative support services both on-site and at
+ASG's headquarters and regional offices. Administrative programs include on-site
+medical records and management and employee education and licensing. Central and
+regional offices provide quality assurance, medical audits, credentialing,
+continuing education and clinical program development activities. ASG maintains
+a utilization review system to monitor the extent and duration of most
+healthcare services required by inmates on an inpatient and outpatient basis.
+See "-- Administrative Systems."
+
+         Most of the Company's correctional contracts require it to staff the
+facilities it serves with nurses 24 hours a day. Doctors at the facilities have
+regular hours and are generally available on call. In addition, dentists,
+psychiatrists and other specialists are often available on a routine basis. ASG
+enters into contractual arrangements with independent doctors and local
+hospitals with respect to more significant off-site procedures and
+hospitalization. ASG is responsible for all of the costs of such arrangements,
+unless the relevant contract contains a limit on ASG's obligations in connection
+with the treatment costs. See "--Contract Provisions."
+
+         The National Commission on Correctional Health Care (the "NCCHC") sets
+standards for the correctional healthcare industry and offers accreditation to
+facilities that meet its standards. These standards provide specific guidance
+related to a service provider's operations including administration, personnel,
+support services such as hospital care, regular services such as sick call,
+records management and medical and legal issues. Although accreditation is
+voluntary, many contracts require compliance with NCCHC standards.
+
+
+                                       2
+<PAGE>   4
+
+
+         Contract Provisions. ASG's correctional contracts generally provide for
+a fixed fee, payable monthly. In addition to the fixed annual fee, some of ASG's
+contracts provide for per diem price adjustments based upon fluctuations in the
+size of inmate populations beyond a specified range. Most contracts also provide
+for annual increases in the fixed fee based upon the regional medical care
+component of the Consumer Price Index. In all other contracts that extend beyond
+one year, ASG utilizes a projection of the future inflation rate when bidding
+and negotiating the fixed fee for future years. ASG bears the risk of increased
+or unexpected costs, which could reduce its profits or cause it to sustain
+losses, and benefits when costs are lower than projected. Certain contracts also
+contain financial penalties when performance criteria are not achieved.
+
+         In general, contracts may be terminated by the governmental agency, and
+often by ASG as well, without cause at any time upon proper notice (typically
+between 30 and 180 days). Governmental agencies may be subject to political
+influences that could lead to termination of a contract with no fault of the
+contractor. As with other governmental contracts, ASG's contracts are subject to
+adequate budgeting and appropriation of funds by the governing legislature or
+administrative body.
+
+         Administrative Systems. ASG has centralized its administrative systems
+in order to enhance economies of scale and to provide management with accurate,
+up-to-date field data for forecasting purposes. These systems also enable ASG to
+refine its bids and help ASG reduce the costs associated with the delivery of
+consistent healthcare.
+
+         ASG maintains a utilization review system to monitor the extent and
+duration of most healthcare services required by inmates on an inpatient and
+outpatient basis. The current automated utilization review program is an
+integral part of the services provided at each facility. The system is designed
+to ensure that the medical care rendered is medically necessary and is provided
+safely in a clinically appropriate setting while maintaining traditional
+standards of quality of care. The program provides for determinations of medical
+necessity by medical professionals through a process of pre-authorization and
+concurrent review of the appropriateness of any hospital stay. The program seeks
+to identify the maximum capability of on-site healthcare units so as to allow
+for a more timely discharge from the hospital back to the correctional facility.
+The utilization review staff consists of doctors and nurses who are supported by
+a medical director at the corporate level and a panel of medical specialists who
+are consultants to ASG.
+
+         ASG has developed a variety of customized databases to facilitate and
+improve operational review including (i) a claims management tracking system
+that monitors current incidents, claims and litigation against ASG, (ii) a
+comprehensive cost review system that analyzes ASG's average costs per inmate at
+each facility including pharmaceutical utilization and trend analysis available
+from SPP and (iii) a daily operating report to control staffing and off-site
+utilization.
+
+         Bid Process. Contracts with governmental agencies are obtained
+primarily through a competitive bidding process, which is governed by applicable
+state and local statutes and ordinances. Although practices vary, typically a
+formal request for proposal ("RFP") is issued stating the scope of work to be
+performed, length of contract, performance bonding requirements, minimum
+qualifications of bidders, selection criteria and the format to be followed in
+the bid or proposal. Usually, a committee appointed by the governmental agency
+reviews bids and makes an award determination. The committee may award the
+contract to a particular bidder or decide not to award the contract to the
+private sector. The award of a contract may be subject to formal or informal
+protest, through a governmental appeals process, by unsuccessful bidders.
+
+         Many RFPs for significant contracts require the bidder to post a bid
+bond. Performance bonding requirements may cover one year or up to the length of
+the contract and at December 31, 2000, generally ranged between 25% and 100% of
+the 2000 contract fee.
+
+         A successful bidder must often agree to comply with numerous additional
+requirements regarding record-keeping and accounting, non-discrimination in the
+hiring of personnel, safety, safeguarding classified information, management
+qualifications, professional licensing requirements, emergency healthcare needs
+of corrections employees and other matters. Upon a violation of the terms of an
+applicable contractual or statutory provision, a contractor may be debarred or
+suspended from obtaining future contracts for specified periods of time in the
+applicable location. ASG has never been debarred or suspended in any
+jurisdiction.
+
+         Marketing. ASG gathers and analyzes information on prisons and jails
+around the country in order to identify the ones that best meet its marketing
+criteria. Relevant factors include the quality and costs of healthcare in the
+region, the management and operations of the correctional facility, the
+financial stability of the governmental agency and the composition of the inmate
+population. ASG then devotes a substantial portion of its marketing resources to
+such potential customers. State prison systems, because of their more stable
+inmate populations and, in many cases, larger number of facilities and longer
+contract terms, are an important focal point of ASG's marketing plans. Also, ASG
+will continue to identify those county and local jails that fit its market
+profile and will pursue contracts with those facilities.
+
+
+                                       3
+<PAGE>   5
+
+
+         ASG maintains a staff of sales and marketing representatives assigned
+to specific geographic areas of the United States. In addition, ASG uses
+consultants to help identify marketing opportunities, to determine the needs of
+specific potential customers and to engage customers on ASG's behalf. ASG uses
+paid advertising and promotion to reach prospective clients as well as to
+reinforce its image with existing clients.
+
+         With the inmate population increasing an average of approximately 6%
+compounded annually, the medical Consumer Price Index increasing by an average
+of 3% and the trend towards privatization of correctional healthcare, management
+anticipates opportunities for revenue growth from increased marketing activity.
+
+MILITARY HEALTHCARE SERVICES
+
+         EMSA Military provides a broad range of emergency medicine and primary
+healthcare services to active and retired military personnel and their
+dependents in medical facilities operated by the United States Department of
+Defense ("DOD") and the United States Veterans Administration ("VA"). EMSA
+Military began providing healthcare services to DOD clients in 1988 and has
+provided in excess of 3.5 million patient visits. During the fiscal year ended
+December 31, 2000, EMSA Military provided services under nine contracts.
+
+         Most military contracts are for a period of five years, with an initial
+one year base period and four one year options. EMSA Military's bidding strategy
+is to seek contract opportunities that will be awarded on a best value, rather
+than a low cost basis. This allows EMSA Military to highlight the Company's
+operational expertise and the overall quality of its provider staff. Margins are
+determined by the size and risk associated with a specific contract.
+
+PHARMACEUTICAL DISTRIBUTION SERVICES
+
+         ASG, through its wholly-owned subsidiary Secure Pharmacy Plus, Inc.
+("SPP"), contracts with federal, state and local governments and certain private
+entities to distribute pharmaceuticals and certain medical supplies to inmates
+of correctional facilities. SPP utilizes three packaging and distribution
+centers to fill prescriptions and ship pharmaceuticals to over 400 sites in 41
+states covering over 300,000 inmates. SPP is the largest provider of
+correctional pharmacy services in the United States with annualized revenues of
+approximately $80 million, $37 million of which relates to services provided for
+ASG contracted sites which is eliminated in consolidation.
+
+         SPP provides clinical pharmacy services in concert with their
+systematic delivery process. SPP's clinical pharmacological management provides
+therapeutic value to services as well as fiscal responsibility to its clients.
+In addition, SPP's expanding medical and commissary supply services create
+additional value for its clients as products are specific to the corrections
+environment. SPP's contracts typically cover one year with automatic renewals
+upon agreement of both parties.
+
+RISK MANAGEMENT
+
+         Prior to December 1, 1997, Harbour Insurance, Inc. ("Harbour"), a
+wholly owned subsidiary of PHS and a captive insurance company, provided
+insurance covering PHS's medical professional and general liability arising out
+of its provision of healthcare services. Since December 1, 1997, the Company has
+maintained professional and general liability insurance through an unaffiliated
+insurer. In October 1998, ASG liquidated Harbour and entered into a novation
+agreement pursuant to which an unaffiliated insurer assumed substantially all of
+the liabilities of Harbour for outstanding claims as of August 31, 1998 incurred
+prior to December 1, 1997.
+
+         For contracts where ASG's exposure to the risk of inmates' catastrophic
+illness or injury is not limited, ASG maintains stop loss insurance to cover 90%
+of ASG's exposure with respect to hospitalization for amounts in excess of
+$200,000 per inmate. ASG believes this insurance mitigates its exposure to
+unanticipated expenses of catastrophic hospitalization.
+
+         There can be no assurance that third-party commercial insurance will
+continue to be available in the future or will be available at reasonable
+prices. ASG believes its insurance coverage is maintained at reasonable levels,
+but there can be no assurance that it will cover all claims that may be asserted
+against ASG and its employees and agents.
+
+
+                                       4
+<PAGE>   6
+
+
+EMPLOYEES AND INDEPENDENT CONTRACTORS
+
+         The services provided by ASG require an experienced staff of healthcare
+professionals and facilities administrators. In particular, a nursing staff with
+experience in correctional healthcare and specialized skills in all necessary
+areas contributes significantly to ASG's ability to provide efficient service.
+In addition to nurses, ASG's staff of employees or independent contractors
+includes physicians, dentists, psychologists and other healthcare professionals.
+
+         As of December 31, 2000, ASG had approximately 6,000 employees,
+including approximately 600 doctors and 3,200 nurses. ASG also had under
+contract approximately 480 independent contractors, most of whom are not
+full-time, including physicians, dentists, psychiatrists and psychologists.
+ASG's employees at its Alameda County, California, City of Philadelphia, Butte
+County, Colorado and York County, Pennsylvania facilities are represented by
+labor unions. In addition, ASG's contract with Rikers Island, which started on
+January 1, 2001, includes approximately 850 additional unionized employees. ASG
+believes that its employee relations are good.
+
+COMPETITION
+
+         The business of providing correctional healthcare services to
+governmental agencies is highly competitive. ASG is in direct competition with
+local, regional and national correctional healthcare providers. ASG believes
+that one competitor has financial and human resources equivalent to those of
+ASG. As the private market for providing correctional healthcare matures, ASG's
+competitors may gain additional experience in bidding and administering
+correctional healthcare contracts. In addition, new competitors, some of whom
+may have extensive experience in related fields or greater financial resources
+than ASG, may enter the market.
+
+MAJOR CONTRACTS
+
+         ASG's operating revenue with respect to its correctional healthcare
+operations is derived primarily from contracts with federal, state, county and
+local governmental agencies. No one contract accounted for 10% of revenues
+during the year ended December 31, 2000; however, the contract with the Maryland
+Department of Public Safety and Correctional Services would have exceeded 10% of
+2000 revenues had the contract been in effect for the entire year. The Company
+expects its contract with Rikers Island to exceed 10% of its revenues for the
+year ending December 31, 2001.
+
+         ASG's correctional contracts typically provide for a monthly fixed fee,
+but certain contracts including some of ASG's largest contracts include
+provisions which mitigate a portion of the Company's risk. For example, the
+contract with the Indiana Department of Corrections provides for fixed payment
+on a per inmate, per day basis. The contract with the City of Philadelphia
+provides for a fixed payment on a fixed dollar basis with additional
+reimbursement for individual event costs exceeding prescribed catastrophic
+limits but subject to a maximum limit. The remainder of ASG's largest existing
+contracts for the year ended December 31, 2000 -- contracts with the
+Pennsylvania Department of Corrections Western Region and Eastern Region, Kansas
+Department of Corrections, and the Maryland Department of Public Safety and
+Correctional Services -- provide for per diem price adjustments based upon
+fluctuations in the size of inmate populations beyond a specified range. The
+fixed fees under all six contracts take into account projected levels of
+inflation.
+
+         Contracts accounting for approximately 57% of revenues for the year
+ended December 31, 2000 contain no limits on ASG's exposure for treatment costs
+related to catastrophic illnesses or injuries to inmates. These contracts
+include the Maryland Department of Corrections, Indiana Department of
+Corrections, Pennsylvania Department of Corrections for the Western Region and
+Eastern Region and Kansas Department of Corrections. Although the cost of
+certain medicines are reimbursed in varying degrees under certain contracts,
+typically a dollar limit is placed on ASG's responsibility for costs related to
+illness of or injury to an individual inmate, injuries to more than one inmate
+resulting from an accident or contagious illnesses affecting more than one
+inmate. When preparing bid proposals, ASG estimates the extent of its exposure
+to cost increases, severe individual cases and catastrophic events and attempts
+to compensate for its exposure in the pricing of its bids. ASG's management has
+experience in evaluating these risks for bidding purposes and maintains an
+extensive database of historical experience. Nonetheless, increased or
+unexpected costs against which ASG is not protected could render a contract
+unprofitable. In an effort to manage risk of catastrophic illness or injury of
+inmates under contracts that do not limit ASG's exposure to such risk, ASG
+maintains stop loss insurance from an unaffiliated insurer covering
+hospitalization for amounts in excess of $200,000 per inmate. Such stop loss
+insurance covers 90% of ASG's exposure for such treatment costs. ASG believes
+this insurance mitigates its exposure to unanticipated expenses of catastrophic
+hospitalization. See "-- Risk Management."
+
+
+                                       5
+<PAGE>   7
+
+
+CAUTIONARY STATEMENTS
+
+         All statements made by ASG that are not historical facts are based on
+current expectations. These statements are forward looking in nature and involve
+a number of risks and uncertainties. Actual results may differ materially. Among
+the factors that could cause actual results to differ materially are the
+following: dependence on major contracts; price competition in the prison
+healthcare industry; ASG's ability to provide adequate staffing to meet its
+contractual commitments; changes in performance bonding requirements;
+substantial damage awards against ASG in connection with medical malpractice
+claims; changes in laws or regulations or the application thereof; general
+business and economic conditions; and the other risk factors described in ASG's
+reports filed from time to time with the Securities and Exchange Commission.
+Certain of these factors are described in greater detail below.
+
+         Dependence on Major Contracts. ASG's operating revenue is derived
+almost exclusively from contracts with federal, state, county and local
+governmental agencies. Generally, contracts may be terminated by the
+governmental agency at will and without cause upon proper notice (typically
+between 30 and 180 days). Governmental agencies may be subject to political
+influences that could lead to termination of a contract through no fault of the
+contractor. Although ASG generally attempts to renew or renegotiate contracts at
+or prior to their termination, contracts that are put out for bid are subject to
+intense competition. The loss of one or more of the major contracts could have a
+material adverse effect on ASG's business.
+
+         Contracts with government agencies are generally complex in nature and
+subject contractors to extensive regulation under federal, state, county and
+local law. Under certain circumstances, a government contractor may be debarred
+or suspended from obtaining future contracts. While ASG considers the
+possibility remote, such debarment or suspension could have a material adverse
+effect on ASG.
+
+         Privatization of Government Services, Competition and Correctional
+Population. ASG's future financial performance will depend in part on continued
+privatization by state, county and local governmental agencies of healthcare
+services for correctional facilities. There can be no assurance that this market
+will continue to grow or that existing contracts will continue to be made
+available to the private sector. The business of providing correctional
+healthcare services to governmental agencies is highly competitive. ASG is in
+direct competition with local, regional and national correctional healthcare
+providers. As the private market for providing correctional healthcare matures,
+ASG's competitors may gain additional experience in bidding and administering
+correctional healthcare contracts. In addition, new competitors, some of whom
+may have extensive experience in related fields or greater financial resources
+than ASG, may enter the market. ASG's business could also be adversely affected
+by material decreases in the inmate population of correctional facilities.
+
+         Acquisitions. ASG's expansion strategy involves both internal growth
+and, as opportunities become available, acquisitions. The Company took
+significant steps toward implementing this strategy with the EMSA acquisition in
+January 1999 and the CPS, CHS and SPP acquisitions during 2000. ASG previously
+had limited experience acquiring businesses and integrating them into its
+operations; however, the successful transitions of the recent acquisitions
+provide valuable frameworks for future acquisition opportunities.
+
+         Catastrophic Limits. Contracts accounting for 57% of revenues for the
+year ended December 31, 2000 contain no limits on ASG's exposure for treatment
+costs related to catastrophic illnesses or injuries to inmates. For those
+contracts that contain no catastrophic limits, ASG maintains stop loss insurance
+for 90% of its exposure with respect to catastrophic illnesses or injuries for
+amounts in excess of $200,000 per inmate. ASG attempts to compensate for the
+increased financial risk when pricing contracts that do not contain catastrophic
+limits. Although the occurrence of severe individual cases without such limits
+could render the contract unprofitable and could have a material adverse effect,
+ASG believes the potential impact of any such occurrences is mitigated by such
+insurance.
+
+         Dependence on Key Personnel. The success of ASG depends in large part
+on the ability and experience of its senior management. The loss of services of
+one or more key employees could adversely affect ASG's operations. ASG has
+employment contracts with Michael Catalano, Chairman, President and Chief
+Executive Officer, Gerard F. Boyle, Executive Vice President and Chief
+Development Officer, Bruce A. Teal, Executive Vice President and Chief Operating
+Officer and S. Walker Choppin, Senior Vice President and Chief Financial
+Officer.
+
+
+                                       6
+<PAGE>   8
+
+
+         Dependence on Healthcare Personnel. ASG's success depends on its
+ability to attract and retain highly skilled healthcare personnel. A shortage of
+trained and competent employees and/or independent contractors may result in
+overtime costs or the need to hire less efficient temporary staff. Attracting
+qualified nurses at a reasonable cost has been and continues to be of concern to
+ASG. There can be no assurance that ASG will be successful in attracting and
+retaining a sufficient number of qualified healthcare personnel in the future.
+
+         Corporate Exposure to Professional Liability. ASG periodically becomes
+involved in medical malpractice claims with the attendant risk of substantial
+damage awards. The most significant source of potential liability in this regard
+is the risk of suits brought by inmates alleging lack of timely or adequate
+healthcare services. ASG may be liable, as employer, for the negligence of
+healthcare professionals who are employees of ASG even though the risk is
+mitigated to a degree as such professionals are required to maintain
+professional liability insurance policies by the Company. ASG may also have
+potential liability for the negligence of healthcare professionals engaged by
+ASG as independent contractors. ASG's contracts generally provide for ASG to
+indemnify the governmental agency for losses incurred related to healthcare
+provided by ASG and its agents. ASG maintains professional liability insurance
+and requires its independent contractors to maintain professional liability
+insurance in amounts deemed appropriate by management based upon ASG's claims
+history and the nature and risks of its business. There can be no assurance that
+a future claim or claims will not exceed the limits of available insurance
+coverage or that such coverage will continue to be available at a reasonable
+cost.
+
+
+                                       7
+<PAGE>   9
+
+
+ITEM 2.  PROPERTIES
+
+         The Company occupies approximately 22,600 square feet of leased office
+space in Brentwood, Tennessee, where it maintains its corporate headquarters.
+The Company's lease on its current headquarters expires in October 2003. The
+Company leases additional office facilities in Franklin, Tennessee; Hanover,
+Maryland; Indianapolis, Indiana; Alameda, California; Topeka, Kansas; Fort
+Lauderdale, Florida; Verona, New Jersey; and Camp Hill and Pittsburgh,
+Pennsylvania. While the Company may open additional offices to meet the local
+needs of future contracts awarded in new areas, management believes that its
+current facilities are adequate for its existing contracts for the foreseeable
+future.
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+         The Company is subject to claims and suits in the ordinary course of
+business. In management's opinion, such currently pending legal proceedings and
+claims against the Company will not, in the aggregate, have a material adverse
+effect on the Company.
+
+ITEM 4.  SUBMISSION OF MATTERS TO VOTE OF SECURITY HOLDERS
+
+    None.
+
+
+                                       8
+<PAGE>   10
+
+
+                                     PART II
+
+ITEM 5.  MARKET FOR REGISTRANT'S COMMON STOCK AND RELATED STOCKHOLDER MATTERS
+
+         The Common Stock is traded on The Nasdaq Stock Market's National Market
+System under the symbol "ASGR." As of March 21, 2001, there were approximately
+55 registered holders of record of the Common Stock. The high and low prices of
+the Common Stock as reported on The Nasdaq Stock Market during each quarter from
+January 1, 1999 through December 31, 2000 are shown below:
+
+<TABLE>
+<CAPTION>
+           QUARTER ENDED                                                                         HIGH          LOW
+           -------------                                                                       --------      --------
+           <S>                                                                                 <C>           <C>
+           March 31, 1999..................................................................    $  13.75      $  11.63
+           June 30, 1999...................................................................       15.25          9.50
+           September 30, 1999..............................................................       17.50         13.25
+           December 31, 1999...............................................................       15.00         11.75
+           March 31, 2000..................................................................       15.00         13.00
+           June 30, 2000...................................................................       20.50         14.13
+           September 30, 2000..............................................................       26.00         17.13
+           December 31, 2000...............................................................       28.00         21.00
+</TABLE>
+
+         The Company did not pay cash dividends on the Common Stock during the
+years ended December 31, 2000 and 1999. The Company does not currently intend to
+pay cash dividends on the Common Stock in the foreseeable future because, under
+the terms of its Credit Facility, the Company is prohibited from paying cash
+dividends on the Common Stock.
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+<TABLE>
+<CAPTION>
+                                                                                 FOR THE YEAR ENDED DECEMBER 31,
+                                                              ------------------------------------------------------------------
+                                                                2000           1999           1998          1997          1996
+                                                              --------       --------       --------      --------      --------
+                                                                               (IN THOUSANDS, EXCEPT PER SHARE DATA)
+<S>                                                           <C>            <C>            <C>           <C>           <C>
+STATEMENT OF OPERATIONS DATA:
+Healthcare revenues ...................................       $381,946       $272,926       $113,287      $129,211      $152,282
+Income (loss) before income taxes (benefits) ..........         13,310          7,731          5,099         1,786        (9,933)
+Net income (loss) .....................................          7,807          4,640          5,724         1,685        (8,686)
+Net income (loss) attributable to common shares .......          7,159          2,328          5,724         1,742        (8,912)
+Net income (loss) per common shares -- basic ...........          1.86           0.64           1.61          0.50         (2.81)
+Net income (loss) per common shares -- diluted .........          1.40           0.60           1.57          0.48         (2.81)
+Weighted average common shares outstanding ............          3,854          3,613          3,554         3,480         3,171
+Weighted average common shares outstanding  and
+  common equivalent shares outstanding ................          5,587          3,877          3,653         3,657         3,171
+Cash dividends per share ..............................             --             --            --            --            --
+</TABLE>
+
+         See Management's Discussion and Analysis of Financial Condition and
+Results of Operations and Notes to Consolidated Financial Statements describing
+the financial impact for 2000 due to the CPS, CHS and SPP acquisitions, for 1999
+due to the EMSA acquisition and for 1998 due to the MedPartners' Settlement.
+
+<TABLE>
+<CAPTION>
+                                                                                         AS OF DECEMBER 31,
+                                                                  -----------------------------------------------------------------
+                                                                    2000          1999           1998          1997          1996
+                                                                  --------      --------      ---------     ---------     ---------
+<S>                                                               <C>           <C>           <C>           <C>           <C>
+BALANCE SHEET DATA:
+Working capital (deficit).....................................    $ 15,573      $  9,498       $ 10,515      $    257     $ (2,434)
+Total assets..................................................     161,402        98,727         28,375        27,754       42,709
+Mandatory redeemable preferred stock..........................      12,397        12,375             --            --           --
+Mandatory redeemable common stock.............................          --         1,842          1,842         1,842        1,916
+Common stock, additional paid-in capital,
+  retained earnings and stockholders'
+  notes receivable............................................      28,965        16,723         10,949         4,799        2,468
+</TABLE>
+
+
+                                       9
+<PAGE>   11
+
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+         OF OPERATIONS
+
+RESULTS OF OPERATIONS
+
+         The following table sets forth, for the years indicated, the percentage
+relationship to total revenue of certain items in the Consolidated Income
+Statements.
+
+<TABLE>
+<CAPTION>
+                                                                                             YEAR ENDED DECEMBER 31,
+                                                                                         -------------------------------
+PERCENTAGE OF TOTAL REVENUES                                                             2000         1999         1998
+----------------------------                                                             -----        -----        -----
+<S>                                                                                      <C>          <C>          <C>
+Healthcare revenue.....................................................................  100.0%       100.0%       100.0%
+Healthcare expenses....................................................................   90.3         90.0         89.9
+                                                                                         -----        -----        -----
+Gross margin...........................................................................    9.7         10.0         10.1
+Selling, general and administrative expenses...........................................    3.6          4.5          8.6
+Depreciation and amortization..........................................................    1.6          1.3          1.1
+MedPartners settlement gain............................................................     --           --         (3.6)
+                                                                                         -----        -----        -----
+Income from operations.................................................................    4.5          4.2          4.0
+Interest expense (income)..............................................................    1.1          1.4         (0.5)
+                                                                                         -----        -----        ------
+Income before taxes....................................................................    3.4          2.8          4.5
+Provision for income taxes (benefits)..................................................    1.4          1.1         (0.6)
+                                                                                         -----        -----        -----
+Net income.............................................................................    2.0          1.7          5.1
+Redeemable preferred stock dividends...................................................    0.1          0.8           --
+                                                                                         -----        -----        -----
+Net income attributable to common stock................................................    1.9%         0.9%         5.1%
+                                                                                         =====        =====        =====
+</TABLE>
+
+2000 Compared to 1999
+
+         Healthcare revenues increased $109.0 million from $272.9 million in
+1999 to $381.9 million in 2000, representing a 40% increase. Approximately $56.6
+million of this increase relates to the acquisitions of CPS, CHS and SPP during
+2000. Additionally, the Company added fourteen new contracts generating revenues
+of $24.7 million in 2000 and experienced $37.7 million of revenue growth from
+existing contracts through contract renegotiations, automatic price adjustments
+and from certain contracts being in effect for the full year. Revenues were
+negatively impacted by the loss of twelve contracts during 2000 resulting in a
+decrease in revenues of approximately $10.0 million from 1999 to 2000.
+
+         The cost of healthcare increased $99.3 million from 1999 to 2000 due
+mainly to the new contracts from both acquisition and marketing activity.
+Healthcare expenses as a percentage of revenues increased by .3% primarily due
+to increased pharmaceutical costs and increased temporary labor utilization due
+to labor shortages in certain geographic areas. Pharmaceutical costs increased
+from 8.9% to 10.4% of revenues (excluding net pharmaceutical sales) from 1999 to
+2000. Temporary labor costs increased from 6.0% to 7.6% of revenues (excluding
+net pharmaceutical sales) from 1999 to 2000.
+
+         Selling, general and administrative expenses were $13.8 million or 3.6%
+of revenue in 2000 compared to $12.3 million or 4.5% of revenue in 1999. The
+percentage decrease reflects the Company's ability to leverage its corporate
+support services to a broader revenue base with the contract gains from 2000
+acquisitions and net marketing activity.
+
+         Earnings before interest, taxes, depreciation and amortization
+increased from $15.1 million in 1999 to $23.3 million in 2000 or an increase as
+a percentage of revenue from 5.5% in 1999 to 6.0% in 2000. This percentage
+increase reflects the Company's ability to effectively manage contract margins
+while leveraging its selling, general and administrative expenses with the
+increased 2000 revenues.
+
+         Depreciation and amortization expenses increased to $6.0 million or
+1.6% of revenue in 2000 from $3.5 million or 1.3% of revenue in 1999. The
+increase is primarily related to the goodwill, contract and non-compete
+amortization expense related to the CPS, CHS and SPP acquisitions during 2000 of
+approximately $1.8 million. Net interest expense increased to $4.1 million or
+1.1% of revenue in 2000 from $3.7 million or 1.4% in 1999. The percentage
+decrease during 2000 demonstrates the Company's ability to manage the additional
+leverage required to finance the 2000 acquisitions.
+
+         The provision for income taxes was $5.5 million in 2000 for an
+effective tax rate of 41%, an increase from the 1999 effective tax rate of 40%.
+The increase in the effective tax rate is due to the non-deductibility of
+certain intangible assets related to the CHS acquisition for tax purposes. The
+preferred stock dividends of $.6 million relate to the redeemable preferred
+stock and have decreased by $1.7 million from 1999 due to a $1.9 million
+noncash, nonrecurring dividend related to a beneficial conversion feature at the
+date the stock was issued, which increased additional paid-in capital during
+1999.
+
+
+                                       10
+<PAGE>   12
+
+
+  1999 Compared to 1998
+
+         Healthcare revenues increased $159.6 million from $113.3 million in
+1998 to $272.9 million in 1999, representing a 141% increase. The increase in
+revenues resulted primarily from the Company's acquisition of EMSA Correctional
+and EMSA Military on January 26, 1999. EMSA Correctional and EMSA Military
+generated revenues of $139.2 million in the year ended December 31, 1999. Apart
+from the EMSA acquisition, the Company added sixteen new contracts in 1999,
+which generated $12.6 million in new revenues, and experienced $8.1 million of
+revenue growth from existing contracts through contract renegotiations,
+automatic price adjustments and from contracts being in effect a full year.
+Revenues were negatively impacted by the loss of two PHS contracts during 1999,
+which generated $1.8 million of revenues in 1999, compared to $2.1 million of
+revenues in 1998.
+
+         The cost of healthcare increased $143.6 million due mainly to the EMSA
+acquisition. Healthcare expenses as a percentage of revenues were relatively
+unchanged at 90.0% in 1999 versus 89.9% in 1998. Personnel costs and fringe
+benefits (including subcontractors) related to inmate care were 61% of revenues
+in 1999 versus 57% of revenues in 1998. The increase is attributable to the
+Company's focus on more fully utilizing its on-site infirmaries. Costs related
+to outside services (defined as hospitalization, emergency room and ambulance
+and outpatient surgeries and visits) were 13% of revenues in 1999 and 15% in
+1998. The Company was also able to improve its pharmacy cost from 10% of revenue
+in 1998 to 9% in 1999.
+
+         Selling, general and administrative expenses were $12.3 million or 4.5%
+of revenue in 1999 compared to $9.8 million or 8.6% of revenue in 1998. The
+dollar increase relates primarily to the EMSA acquisition, but also demonstrates
+the ability to leverage corporate support services.
+
+         Depreciation and amortization increased $2.3 million in 1999 to $3.5
+million. The increase is directly related to the goodwill, contract and
+non-compete amortization expense related to the EMSA acquisition of
+approximately $2.4 million between goodwill, contracts and non-compete
+agreements.
+
+         The provision for income taxes was $3.1 million in 1999 for an
+effective tax rate of 40%, compared to a $0.6 million benefit in 1998, when the
+Company recognized net operating loss carryforwards.
+
+         The preferred stock dividends of $2.3 million relate to the redeemable
+preferred stock and include a $1.9 million noncash nonrecurring dividend,
+related to a beneficial conversion feature at the date the stock was issued,
+which increased additional paid-in capital.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+         The Company's cash and cash equivalents remain basically unchanged from
+$400,000 at December 31, 1999 to $300,000 at December 31, 2000. As part of the
+CPS acquisition, the Company borrowed $14 million under its then existing Senior
+Credit Facility. In order to finance the acquisition of CHS, the Company
+increased its then existing Senior Credit Facility by $15 million to $55 million
+and borrowed $17 million. On August 1, 2000, the Company replaced its existing
+Senior Credit Facility with a $65 million Senior Credit Facility syndicated to a
+group of four commercial banks (referred to as the "2000 Credit Facility" and
+discussed further in Footnote 8 to the consolidated financial statements). As
+part of the SPP acquisition, the Company borrowed $8 million under the 2000
+Credit Facility and expanded the 2000 Credit Facility by $7.5 million through
+December 29, 2000. During the course of the year, however, the Company repaid
+$7.7 million of the net principal amounts borrowed, resulting in a net increase
+in long-term debt of $31.3 million. The principal balance of debt outstanding at
+December 31, 2000 is $56.8 million.
+
+         The Company's working capital increased by $6.1 million during the year
+and each of the underlying components of working capital - accounts receivable,
+inventory, prepaid expenses and other current assets, accounts payable and other
+accrued expenses - increased primarily in proportion to the Company's 40% growth
+in revenues during the year. Management believes that the current levels of
+internally generated funds coupled with cash and the borrowing availability
+under the 2000 Credit Facility (currently $8.2 million) are sufficient to meet
+the Company's immediate foreseeable future cash needs and anticipated contract
+renewal activity. The Company believes that it may have additional borrowing
+availability from one or more of its syndicate banks since it did not use any
+proceeds from the $7.5 million expansion to the 2000 Credit Facility. In fact,
+the expansion was reduced to $5 million as of December 31, 2000 and extended
+through February 15, 2001, upon which time it was canceled by the Company.
+
+
+                                       11
+<PAGE>   13
+
+
+INFLATION
+
+         Some of the Company's contracts provide for annual increases in the
+fixed base fee upon changes in the regional medical care component of the
+Consumer Price Index. In all other contracts that extend beyond one year, the
+Company utilizes a projection of the future inflation rate when bidding and
+negotiating the fixed fee for future years. If the rate of inflation exceeds the
+levels projected, such excess will be absorbed by the Company. Conversely, the
+Company will benefit should the actual rate of inflation fall below the estimate
+used in the bidding and negotiation process.
+
+ITEM 7A.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+         Interest expense represents a significant component of the Company's
+total expenses, 1.1% and 1.4% of the Company's total expenses for 2000 and 1999,
+respectively. As discussed in "Liquidity and Capital Resources" above, long-term
+debt of $56,800 represents 35.2% of the Company's total liabilities and
+stockholders' equity as of December 31, 2000. The 2000 Credit Facility required
+the Company to protect its operating results from increases in interest rates.
+The Company, therefore, hedged $30 million of the $65 million available under
+the 2000 Credit Facility by entering into four separate interest rate collar
+agreements with three of its syndicate banks for notional amounts ranging from
+$6 million to $9 million. These collar agreements are cash flow hedges which
+establish floors and ceilings on the 90-day LIBO rate which reduce the
+volatility of the Company's interest rate.
+
+         For the year ended December 31, 2000, no settlements with any of the
+three syndicate banks were required as the 90-day LIBO rate remained within the
+range of respective floors and ceilings. During January 2001, however, interest
+rates began a significant decline which will result in the 90-day LIBO rate
+falling below the floors of certain of the collar agreements as of the second
+quarter of 2001. The Company will have $24.0 million of long-term debt priced at
+a weighted average interest rate of 8.35% through October 2, 2002, and $9.0
+million priced at 8.25% thereafter and through March 31, 2003. As discussed in
+Note 9 to the consolidated financial statements, the Company recorded a
+liability of $212, net of taxes, on its balance sheet as of January 1, 2001,
+representing the fair market value of the cash flow hedge derivative instruments
+as of such date. The Company expects this liability to fluctuate during 2001 but
+to have a similar fair market value as of December 31, 2001. The Company will
+continue to assess the current interest rate market conditions and to implement
+additional hedging instruments as deemed appropriate.
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+         The Company's Consolidated Financial Statements, together with the
+report thereon of Ernst & Young LLP, dated February 9, 2001, begin on page F-1
+of this Report.
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+         FINANCIAL DISCLOSURE
+
+         There are no disagreements with accountants on accounting and financial
+disclosure required to be reported in this annual report pursuant to Item 304 of
+Regulation S-K.
+
+
+                                       12
+<PAGE>   14
+
+
+                                    PART III
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+         For information regarding the Directors of the Company, the heading
+"Information as to Directors, Nominees and Executive Officers" and the
+subsection "Compliance with Section 16(a) of the Securities Exchange Act" under
+the heading "Additional Information" in the Company's Proxy Statement for its
+2001 Annual Meeting of Stockholders (the "Company's Proxy Statement") and the
+accompanying text are incorporated herein by reference.
+
+ITEM 11.  EXECUTIVE COMPENSATION
+
+         The subsection under the heading "Additional Information" entitled
+"Committees and Meetings" and the heading entitled "Executive Compensation" in
+the Company's 2001 Proxy Statement and the accompanying text are incorporated
+herein by reference.
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+         The headings "Information as to Directors, Nominees and Executive
+Officers" and "Principal Stockholders" in the Company's 2001 Proxy Statement and
+the accompanying text are incorporated herein by reference.
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+         The heading "Certain Transactions" in the Company's 2001 Proxy
+Statement and the accompanying text is incorporated hereby by reference.
+
+
+                                       13
+<PAGE>   15
+                                     PART IV
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULE, AND REPORTS ON FORM 8-K
+
+(a) (1) Financial Statements
+
+    Listed on the Index to the Consolidated Financial Statements and Schedule on
+page F-1 of this Report.
+
+    (2) Financial Statement Schedule
+
+    Listed on the Index to the Consolidated Financial Statements and Schedule on
+page F-1 of this Report.
+
+    (3) Exhibits
+
+<TABLE>
+<CAPTION>
+ EXHIBIT                                         DESCRIPTION
+ -------                                         -----------
+<S>         <C>   <C>
+   2.1      --    Asset Purchase Agreement, dated as of December 18, 1998,
+                  between the Company and InPhyNet Administrative Services, Inc.
+                  (incorporated herein by reference to Exhibit 2.1 to the
+                  Company's Current Report on Form 8-K filed on January 5,
+                  1999).
+
+   2.2      --    First Amendment to Stock Purchase Agreement, dated as of
+                  January 26, 1999, between the Company and InPhyNet
+                  Administrative Services, Inc. (incorporated herein by
+                  reference to Exhibit 99.8 to the Company's Current Report on
+                  Form 8-K filed on February 10, 1999).
+
+   2.3      --    Securities Purchase Agreement, dated as of January 26, 1999,
+                  among the Company, Health Care Capital Partners L.P. and
+                  Health Care Executive Partners L.P. (incorporated herein by
+                  reference to Exhibit 99.2 to the Company's Current Report on
+                  Form 8-K filed on February 10, 1999).
+
+   2.4      --    First Amendment to Securities Purchase Agreement, dated as
+                  of June 17, 1999, among the Company, Health Care Capital
+                  Partners L.P. and Health Care Executive Partners L.P.
+                  (incorporated herein by reference to Exhibit 2.4 to the
+                  Company's Amended Annual Report on Form 10-K/A for the year
+                  ended December 31, 1998, which Amended Annual Report was filed
+                  on July 29, 1999).
+
+   2.5      --    Plan and Agreement of Merger, as amended, dated October 1,
+                  1997, between the Company, MedPartners, Inc. and ASG Merger
+                  Corporation, a wholly-owned subsidiary of MedPartners, Inc.
+                  (incorporated herein by reference to Exhibit 2.1 to the
+                  Company's Current Report on form 8-K filed on October 2, 1997
+                  and Exhibit 2.1 to the Company's Current Report on Form 8-K
+                  filed on December 30, 1997).
+
+   2.6      --    Consent and Agreement, dated January 19, 1998, by and among
+                  the Company, MedPartners, Inc. and ASG Merger Corporation, a
+                  wholly-owned subsidiary of MedPartners, Inc. (incorporated
+                  herein by reference to Exhibit 2.1 to the Company's Current
+                  Report on Form 8-K filed on January 20, 1998).
+
+   2.7      --    Release and Settlement Agreement, dated February 25, 1998, by
+                  and among the Company, MedPartners, Inc. and ASG Merger
+                  Corporation and EMSA Correctional Care, Inc. (incorporated
+                  herein by reference to Exhibit 2.3 to the Company's Annual
+                  Report on Form 10-K for the fiscal year ended December 31,
+                  1997).
+
+    2.8     --    Asset Purchase Agreement, dated as of March 29, 2000, between
+                  the Company and Correctional Physician Services, Inc., Kenan
+                  Umar and Emre Umar, as amended by Amendment One to Asset
+                  Purchase Agreement, dated as of March 29, 2000.
+
+    2.9     --    Stock Purchase Agreement, dated as of April 24, 2000, between
+                  the Company and the Shareholders of Correctional Health
+                  Services, Inc. (incorporated herein by reference to Exhibit
+                  99.1 to the Company's Current Report on Form 8-k filed on July
+                  14, 2000).
+
+   2.10     --    Asset Purchase Agreement, dated September 20, 2000, by and
+                  among Secure Pharmacy Plus, Inc.; Stadtlander Operating
+                  Company L.L.C.; Stadtlander Licensing Company, LLC;
+                  Stadtlander Drug of California, LP and Stadtlander Drug of
+                  Hawaii, LP (incorporated herein by reference to Exhibit 99.1
+                  to the Company's Current Report on From 8-k filed on October
+                  4, 2000).
+
+   3.1      --    Amended and Restated Certificate of Incorporation of America
+                  Service Group Inc. (incorporated herein by reference to
+                  Exhibit 3.1 to the Company's Registration Statement on Form
+                  S-1, Registration No. 33-43306).
+
+   3.2      --    Certificate of Designation of the Series A Convertible
+                  Preferred Stock (incorporated herein by reference to Exhibit
+                  99.3 to the Company's Current Report on Form 8-K filed on
+                  February 10, 1999).
+</TABLE>
+                                       14
+<PAGE>   16
+
+
+<TABLE>
+   <S>            <C>
+   3.3      --    Amended and Restated Bylaws of America Service Group Inc.
+                  (incorporated herein by reference to Exhibit 3.2 to the
+                  Company's Annual Report on Form 10-K for the fiscal year ended
+                  December 31, 1996).
+
+   4.1      --    The Company's 12% Subordinated Convertible Bridge Notes
+                  due January 26, 2000, issued to Health Care Capital Partners
+                  L.P. on January 26, 1999 (incorporated herein by reference to
+                  Exhibit 99.4 to the Company's Current Report on Form 8-K filed
+                  on February 10, 1999).
+
+   4.2      --    Specimen Common Stock Certificate (incorporated by reference
+                  to Exhibit 4.1 to the Company's Registration Statement on Form
+                  S-1, Registration No. 33-43306, as amended).
+
+  10.1      --    Amended and Restated Credit Agreement, dated as of January 26,
+                  1999, among the Company, as Borrower, the Company's
+                  subsidiaries as listed therein, as Guarantors, the Lenders
+                  identified therein and NationsBank, N.A., as Administrative
+                  Agent and as Issuing Bank (incorporated herein by reference to
+                  Exhibit 99.1 to the Company's Current Report on Form 8-K filed
+                  on February 10, 1999).
+
+  10.2      --    Warrant, dated as of January 26, 1999, issued by the Company
+                  to Health Care Capital Partners L.P. to purchase shares of the
+                  Common Stock (incorporated herein by reference to Exhibit 99.6
+                  to the Company's Current Report on Form 8-K filed on February
+                  10, 1999).
+
+  10.2.1    --    Amended and Restated Warrant, dated as of January 26, 1999
+                  and amended and restated on July 2, 1999, issued by the
+                  Company to Health Care Capital Partner L.P.
+
+  10.3      --    Warrant, dated as of January 26, 1999, issued by the Company
+                  to Health Care Executive Partners L.P. to purchase shares of
+                  the Common Stock (incorporated herein by reference to
+                  Exhibit 99.7 to the Company's Current Report on Form 8-K filed
+                  on February 10, 1999).
+
+  10.3.1    --    Amended and Restated Warrant, dated as of January 26, 1999
+                  and amended and restated on July 2, 1999, issued by the
+                  Company to Health Care Executive Partners L.P.
+
+  10.4      --    Registration Rights Agreement, dated as of January 26, 1999,
+                  among the Company, Health Care Capital Partners L.P. and
+                  Health Care Executive Partners L.P. (incorporated herein by
+                  reference to Exhibit 99.8 to the Company's Current Report on
+                  Form 8-K filed on February 10, 1999).
+
+  10.5      --    America Service Group Inc. Amended Incentive Stock Plan
+                  (as adopted by the Board of Directors on March 19, 1996)
+                  (incorporated by reference to Exhibit 10.1 to the Company's
+                  Quarterly Report on Form 10-Q for the three month period
+                  ending June 30, 1996).
+
+  10.6      --    America Service Group Inc. 401(k) Profit Sharing Plan
+                  (incorporated by reference to Exhibit 10.9 to the Company's
+                  Annual Report on Form 10-K for the year ended December 31,
+                  1992).
+
+  10.7      --    Prison Health Services, Inc. Medical Services Agreement
+                  for Alameda County, California, dated July 1, 1992
+                  (incorporated by reference to Exhibit 10.6 to the Company's
+                  Annual Report on Form 10-K for the year ended December 31,
+                  1992).
+
+  10.8      --    Prison Health Services, Inc. Agreement for the Department of
+                  Corrections of the State of Kansas, dated February 22, 1991,
+                  and Amendment thereto, dated August 27, 1991 (incorporated by
+                  reference to Exhibit 10.7 to the Company's Registration
+                  Statement on Form S-1, Registration No. 33-43306, as amended).
+
+  10.9      --    Prison Health Services, Inc. Health Services Contract for
+                  State of Maryland, Department of Public Safety and
+                  Correctional Services dated November 30, 1992 (incorporated by
+                  reference to Exhibit 10.14 to the Company's Annual Report on
+                  Form 10-K for the year ended December 31, 1994).
+
+  10.10     --    Prison Health Services, Inc. Health Services Contract for
+                  the City of Philadelphia Department of Public Health
+                  (incorporated by reference to Exhibit 10.13 to the Company's
+                  Annual Report on Form 10-K for the year ended December 31,
+                  1993).
+
+  10.11     --    Healthcare Services Contract with the State of Delaware,
+                  dated June 3, 1996 (incorporated by reference to Exhibit 10.5
+                  to the Company's Quarterly Report on Form 10-Q for the three
+                  month period ending June 30, 1996).
+
+  10.12     --    Contractual Agreement between the Indiana Department of
+                  Correction and Prison Health Services, Inc. dated April 18,
+                  1997 (incorporated by reference to Exhibit 10.26 to the
+                  Company's Quarterly Report on Form 10-Q for the three month
+                  period ending June 30, 1997).
+
+  10.13     --    Credit Agreement dated May 30, 1997 for $20,000,000 with
+                  NationsBank of Tennessee, N.A. (incorporated by reference to
+                  Exhibit 10.25 to the Company's Quarterly Report on Form 10-Q
+                  for the three month period ending June 30, 1997).
+</TABLE>
+
+                                       15
+<PAGE>   17
+
+  10.14     --    Employment Agreement, dated April 1, 1996, between Scott
+                  L. Mercy and the Company, as amended (incorporated herein by
+                  reference to Exhibit 10.2 to the Company's Quarterly Report on
+                  Form 10-Q for the three month period ended June 30, 1996 and
+                  10.28 to the Company's Quarterly Report on Form 10-Q for the
+                  three month period ended June 30, 1997).
+
+  10.15     --    Amended and Restated Employment Agreement, dated September 1,
+                  1998, between Scott L. Mercy and America Service Group Inc.
+                  (incorporated herein by reference to Exhibit 10.16 to the
+                  Company's Annual Report on Form 10-K for the year ended
+                  December 31, 1999).
+
+  10.16     --    Employment Agreement, dated July 12, 1996, between Michael
+                  Catalano and the Company (incorporated by reference to Exhibit
+                  10.1 to the Company's Quarterly Report on Form 10-Q for the
+                  three month period ending September 31, 1996).
+
+  10.17     --    Amended and Restated Employment Agreement, dated September 1,
+                  1998, between Michael Catalano and the Company (incorporated
+                  by reference to Exhibit 10.1 to the Company's Quarterly Report
+                  on Form 10-Q for the three month period ending September 31,
+                  1998).
+
+  10.18     --    Non-Qualified Stock Option between the Company and Michael
+                  Catalano, dated July 12, 1996, (incorporated by reference to
+                  Exhibit 10.20 to the Company's Annual Report on Form 10-K for
+                  the year ended December 31, 1996).
+
+  10.19     --    Employment Agreement dated February 20, 1998 between Bruce
+                  A. Teal and the Company (incorporated by reference to Exhibit
+                  10.18 to the Company's Annual Report on Form 10-K for the year
+                  ended December 31, 1997).
+
+  10.20     --    Non-Qualified Stock Option between the Company and Bruce
+                  A. Teal dated, December 18, 1996, (incorporated by reference
+                  to Exhibit 10.21 to the Company's Annual Report on Form 10-K
+                  for the year ended December 31, 1996).
+
+  10.21     --    Employment Agreement, dated February 12, 1998, between
+                  Gerard F. Boyle and the Company (incorporated by reference to
+                  Exhibit 10.20 to the Company's Annual Report on Form 10-K for
+                  the year ended December 31, 1997).
+
+  10.22     --    Non-Qualified Stock Option between the Company and Gerard
+                  F. Boyle, dated February 12, 1998 (incorporated by reference
+                  to Exhibit 10.21 to the Company's Annual Report on Form 10-K
+                  for the year ended December 31, 1997).
+
+  10.23     --    Employment Agreement, dated October 10, 2000, between S.
+                  Walker Choppin and the Company.
+
+  10.24     --    Lease by and between Principal Mutual Life Insurance Company
+                  and America Service Group Inc. dated September 6, 1996
+                  (incorporated herein by reference to Exhibit 10.23 to the
+                  Company's Annual Report on Form 10-K for the year ended
+                  December 31, 1997).
+
+  10.25     --    Amended and Restated Incentive Stock Plan of the Company
+                  (incorporated by reference to Exhibit 10.27 to the Company's
+                  Quarterly Report on Form 10-Q for the three months ending June
+                  30, 1997).
+
+  10.26     --    America Service Group Inc. 1999 Incentive Stock Plan
+                  (incorporated by reference to Annex B to the Company's
+                  definitive Proxy Statement for its Annual Meeting of
+                  Stockholders held on August 30, 1999, which definitive Proxy
+                  Statement was filed on July 28, 1999).
+
+  10.27     --    Amended and Restated Credit Agreement, dated as of August 1,
+                  2000, between the Company as Borrower, the Company's
+                  subsidiaries as listed therein, as Guarantors, the Lenders
+                  identified therein and Bank of America, N.A., as
+                  Administrative Agent and as Issuing Bank.
+
+  10.28     --    Overline Agreement, dated September 19, 2000, among the
+                  Company, and its subsidiaries who are parties to the Amended
+                  and Restated Credit Agreement, the several lenders who are
+                  parties to Amended and Restated Credit Agreement, and Bank of
+                  America N.A.
+
+   21.1     --    Subsidiaries of the Company.
+
+   23.1     --    Consent of Ernst & Young LLP.
+
+
+                                       16
+<PAGE>   18
+
+
+(b) Reports on Form 8-K.
+
+         On October 4, 2000, the Company filed Current Report on Form 8-K
+announcing the acquisition by Secure Pharmacy Plus, Inc., a wholly-owned
+subsidiary of America Service Group Inc., of the assets comprising Stadtlanders
+Corrections Division from certain affiliates of Bergen Brunswig Corporation.
+
+
+                                       17
+<PAGE>   19
+
+
+                                   SIGNATURES
+
+         Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registration has duly caused this report to be signed
+on behalf of the undersigned, thereunto duly authorized, on March 30, 2001.
+
+                                      AMERICA SERVICE GROUP INC.
+
+
+                                      By:         /s/ MICHAEL CATALANO
+                                          -------------------------------------
+                                                 Michael Catalano
+                                                Chairman, President and
+                                                Chief Executive Officer
+
+         Pursuant to the Requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons in the capacities
+indicated on March 30, 2001.
+
+<TABLE>
+<CAPTION>
+SIGNATURES                                                                            TITLE
+----------                                                                            -----
+
+<S>                                                                <C>
+                  /s/ MICHAEL CATALANO                             Chairman, President and Chief Executive Officer
+-----------------------------------------------------
+                    Michael Catalano
+
+                  /s/ S. WALKER CHOPPIN                            Senior Vice President and Chief Financial Officer
+-----------------------------------------------------
+                    S. Walker Choppin
+
+                  /s/ WILLIAM D. EBERLE                            Director
+-----------------------------------------------------
+                    William D. Eberle
+
+                  /s/ BURTON EINSPRUCH                             Director
+-----------------------------------------------------
+                    Burton Einspruch
+
+                  /s/ DAVID A. FREEMAN                             Director
+-----------------------------------------------------
+                    David A. Freeman
+
+                  /s/ CAROL R. GOLDBERG                            Director
+-----------------------------------------------------
+                    Carol R. Goldberg
+
+                 /s/ RICHARD M. MASTALER                           Director
+-----------------------------------------------------
+                   Richard M. Mastaler
+
+                 /s/ JEFFREY L. MCWATERS                           Director
+-----------------------------------------------------
+                   Jeffrey L. McWaters
+
+                  /s/ RICHARD D. WRIGHT                            Director
+-----------------------------------------------------
+                    Richard D. Wright
+</TABLE>
+
+
+
+                                       18
+
+
+
+
+<PAGE>   20
+                           AMERICA SERVICE GROUP INC.
+
+             INDEX TO CONSOLIDATED FINANCIAL STATEMENTS AND SCHEDULE
+
+<TABLE>
+<CAPTION>
+                                                                                                                              PAGE
+                                                                                                                              ----
+<S>                                                                                                                           <C>
+FINANCIAL STATEMENTS
+Report of Independent Auditors............................................................................................     F-2
+Consolidated Balance Sheets at December 31, 2000 and 1999.................................................................     F-3
+Consolidated Statements of Income for the years ended December 31, 2000, 1999, and 1998...................................     F-4
+Consolidated Statements of Changes in Stockholders' Equity for the years ended December 31,
+  2000, 1999 and 1998.....................................................................................................     F-5
+Consolidated Statements of Cash Flows for the years ended December 31, 2000, 1999 and 1998................................     F-6
+Notes to Consolidated Financial Statements................................................................................     F-7
+
+FINANCIAL STATEMENT SCHEDULE
+Valuation and qualifying Accounts and Reserves (Schedule II) for the years ended December 31,
+  2000, 1999 and 1998.....................................................................................................     F-19
+</TABLE>
+
+         All other schedules are omitted as the required information is
+inapplicable or is presented in the Company's Consolidated Financial Statements
+or the Notes thereto.
+
+
+                                      F-1
+<PAGE>   21
+
+                         REPORT OF INDEPENDENT AUDITORS
+
+Board of Directors and Stockholders
+America Service Group Inc.
+
+         We have audited the accompanying consolidated balance sheets of America
+Service Group Inc. as of December 31, 2000 and 1999, and the related
+consolidated statements of income, changes in stockholders' equity, and cash
+flows for each of the three years in the period ended December 31, 2000. Our
+audits also included the financial statement schedule listed in the Index at
+Item 14(a). These financial statements and schedule are the responsibility of
+the Company's management. Our responsibility is to express an opinion on these
+financial statements based on our audits.
+
+         We conducted our audits in accordance with auditing standards generally
+accepted in the United States. Those standards require that we plan and perform
+the audit to obtain reasonable assurance about whether the financial statements
+are free of material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements. An
+audit also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis
+for our opinion.
+
+         In our opinion, the financial statements referred to above present
+fairly, in all material respects, the consolidated financial position of America
+Service Group Inc. at December 31, 2000 and 1999, and the consolidated results
+of its operations and its cash flows for each of the three years in the period
+ended December 31, 2000, in conformity with accounting principles generally
+accepted in the United States. Also, in our opinion, the related financial
+statement schedule, when considered in relation to the basic financial
+statements taken as a whole, presents fairly, in all material respects the
+information set forth therein.
+
+                                                 /s/ ERNST & YOUNG LLP
+
+Nashville, Tennessee
+February 9, 2001
+
+
+                                      F-2
+<PAGE>   22
+
+                           AMERICA SERVICE GROUP INC.
+
+                           CONSOLIDATED BALANCE SHEETS
+
+<TABLE>
+<CAPTION>
+                                                                                                 DECEMBER 31,
+                                                                                         ---------------------------
+                                                                                            2000               1999
+                                                                                         ---------          --------
+                                                                                         (SHOWN IN 000'S EXCEPT SHARE
+                                                                                                   AMOUNTS)
+<S>                                                                                      <C>                <C>
+ASSETS
+Current assets:
+  Cash and cash equivalents .................................................            $     256          $    444
+  Accounts receivable: Healthcare and other less allowances of $205
+    and $420 at December 31, 2000 and 1999, respectively ....................               64,053            39,738
+  Inventories ...............................................................                7,497             2,838
+  Prepaid expenses and other current assets .................................                1,427             4,602
+  Current deferred taxes ....................................................                1,143             1,289
+                                                                                         ---------          --------
+Total current assets ........................................................               74,376            48,911
+Property and equipment, net .................................................                8,651             3,932
+Deferred taxes ..............................................................                   --               562
+Goodwill, net ...............................................................               61,358            33,870
+Contracts, net ..............................................................               14,002            10,678
+Other intangibles, net ......................................................                1,925               242
+Other assets ................................................................                1,090               532
+                                                                                         ---------          --------
+Total assets ................................................................            $ 161,402          $ 98,727
+                                                                                         =========          ========
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+  Accounts payable ..........................................................            $  21,664          $ 11,531
+  Medical claims liability ..................................................               11,285            10,436
+  Accrued expenses ..........................................................               24,213            16,555
+  Deferred revenue ..........................................................                1,641               891
+                                                                                         ---------          --------
+Total current liabilities ...................................................               58,803            39,413
+Noncurrent portion of accrued expenses ......................................                3,680             2,874
+Deferred taxes ..............................................................                  757                --
+Long-term debt ..............................................................               56,800            25,500
+Commitments and contingencies
+Mandatory redeemable preferred stock, 500,000 shares authorized;
+  125,000 shares issued and outstanding at December 31, 2000 and 1999 .......               12,397            12,375
+Mandatory redeemable common stock, 186,000 shares issued and
+  outstanding at December 31, 1999 ..........................................                   --             1,842
+Common stock, $.01 par value, 10,000,000 shares authorized; 4,057,000 and
+  3,729,000 shares issued and outstanding at December 31, 2000 and 1999,
+   respectively .............................................................                   41                37
+Additional paid-in capital ..................................................               18,259            12,856
+Stockholders' notes receivable ..............................................               (1,384)           (1,060)
+Retained earnings ...........................................................               12,049             4,890
+                                                                                         ---------          --------
+Total liabilities and stockholders' equity ..................................            $ 161,402          $ 98,727
+                                                                                         =========          ========
+</TABLE>
+
+                             See accompanying notes.
+
+
+                                      F-3
+<PAGE>   23
+
+                           AMERICA SERVICE GROUP INC.
+
+                        CONSOLIDATED STATEMENTS OF INCOME
+
+<TABLE>
+<CAPTION>
+                                                                         YEAR ENDED DECEMBER 31,
+                                                           ---------------------------------------------------
+                                                            (SHOWN IN 000'S EXCEPT SHARE AND PER SHARE AMOUNTS)
+                                                                  2000            1999            1998
+                                                               ----------      ----------      -----------
+<S>                                                            <C>             <C>             <C>
+Healthcare revenue ..............................              $  381,946      $  272,926      $   113,287
+Healthcare expenses .............................                 344,759         245,485          101,884
+                                                               ----------      ----------      -----------
+Gross margin ....................................                  37,187          27,441           11,403
+Selling, general, and administrative expenses ...                  13,838          12,335            9,752
+Depreciation and amortization ...................                   5,962           3,545            1,199
+MedPartners settlement gain .....................                      --              --           (4,047)
+                                                               ----------      ----------      -----------
+Income from operations ..........................                  17,387          11,561            4,499
+Interest expense (income) .......................                   4,077           3,830             (600)
+                                                               ----------      ----------      -----------
+Income before income taxes (benefits) ...........                  13,310           7,731            5,099
+Provision for income taxes (benefits) ...........                   5,503           3,091             (625)
+                                                               ----------      ----------      -----------
+Net income ......................................                   7,807           4,640            5,724
+Preferred stock dividends .......................                     648           2,312               --
+                                                               ----------      ----------      -----------
+Net income attributable to common shares ........              $    7,159      $    2,328      $     5,724
+                                                               ==========      ==========      ===========
+Net income per common share:
+  Basic .........................................              $     1.86      $     0.64      $      1.61
+                                                               ==========      ==========      ===========
+  Diluted .......................................              $     1.40      $     0.60      $      1.57
+                                                               ==========      ==========      ===========
+Weighted average common shares outstanding:
+  Basic .........................................               3,854,000       3,613,000        3,554,000
+                                                               ==========      ==========      ===========
+  Diluted .......................................               5,587,000       3,877,000        3,653,000
+                                                                =========       =========        =========
+</TABLE>
+
+                             See accompanying notes.
+
+
+                                      F-4
+<PAGE>   24
+
+                           AMERICA SERVICE GROUP INC.
+
+           CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY
+
+<TABLE>
+<CAPTION>
+                                                             COMMON STOCK       ADDITIONAL   STOCKHOLDERS'   RETAINED
+                                                         ---------------------   PAID-IN        NOTES        EARNINGS
+                                                          SHARES        AMOUNT   CAPITAL      RECEIVABLES    (DEFICIT)
+                                                         ---------      ------  ----------   -------------   ---------
+<S>                                                      <C>            <C>     <C>          <C>             <C>
+BALANCE AT JANUARY 1, 1998 ..................            3,529,000      $  35     $ 7,926           --       $ (3,162)
+Issuance of common stock under employee
+  stock plan ................................               13,000         --         138           --             --
+Exercise of options and related
+  tax benefits ..............................               31,000          1         287           --             --
+Net income ..................................                   --         --          --           --          5,724
+                                                         ---------      -----     -------      -------       --------
+BALANCE AT DECEMBER 31, 1998 ................            3,573,000         36       8,351           --          2,562
+Issuance of common stock under employee
+  stock plan ................................               26,000         --         310           --             --
+Exercise of options and related
+  tax benefits ..............................               55,000         --         519           --             --
+Issuance of common stock under incentive
+  stock plan ................................               75,000          1       1,075       (1,039)            --
+Issuance of common stock warrants ...........                   --         --         659           --             --
+Noncash, nonrecurring dividend on
+  redeemable preferred stock-- beneficial
+  conversion feature ........................                   --         --       1,942           --         (1,942)
+Dividends on redeemable preferred stock .....                   --         --          --           --           (370)
+Interest income on stockholders' notes
+  receivable ................................                   --         --          --          (21)            --
+Net income ..................................                   --         --          --           --          4,640
+                                                         ---------      -----     -------      -------       --------
+BALANCE AT DECEMBER 31, 1999 ................            3,729,000         37      12,856       (1,060)         4,890
+Issuance of common stock under employee
+  stock plan ................................               38,000          1         615           --             --
+Exercise of options and related
+  tax benefits ..............................              274,000          3       2,646           --             --
+Issuance of common stock under incentive
+  stock plan ................................               16,000         --         300         (263)            --
+  Dividends on redeemable preferred stock ...                   --         --          --           --           (648)
+  Interest income on stockholders' notes
+  receivable ................................                   --         --          --          (61)            --
+Expiration of redemption feature of
+  redeemable common stock ...................                   --         --       1,842           --             --
+Net income ..................................                   --         --          --           --          7,807
+                                                         ---------      -----     -------      -------       --------
+BALANCE AT DECEMBER 31, 2000 ................            4,057,000      $  41     $18,259      $(1,384)      $ 12,049
+                                                         =========      =====     =======      =======       ========
+</TABLE>
+
+                             See accompanying notes.
+
+
+                                      F-5
+<PAGE>   25
+
+                           AMERICA SERVICE GROUP INC.
+
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+<TABLE>
+<CAPTION>
+                                                                                       YEAR ENDED DECEMBER 31,
+                                                                               -------------------------------------
+                                                                                 2000           1999           1998
+                                                                               --------       --------       -------
+                                                                                     (AMOUNTS SHOWN IN 000'S)
+<S>                                                                            <C>            <C>            <C>
+OPERATING ACTIVITIES
+Net income ........................................................            $  7,807       $  4,640       $ 5,724
+Adjustments to reconcile net income to net cash provided by
+  (used in) operating activities:
+  Depreciation and amortization ...................................               5,962          3,545         1,199
+  Accretion of subordinated notes .................................                  --            534            --
+  Amortization of deferred financing costs ........................                 232            121
+  Interest on stockholders' notes receivable ......................                 (61)           (21)           --
+  Provision for doubtful accounts .................................                 142            544            --
+  Deferred income tax provision ...................................               1,464          2,220          (762)
+  Changes in operating assets and liabilities, net of effects
+    of acquisitions:
+    Accounts receivable ...........................................             (22,539)        12,931        (5,518)
+    Prepaid expenses and other current assets .....................               2,533         (5,544)        1,286
+    Other assets ..................................................                   4            216           (52)
+    Accounts payable ..............................................               9,481          9,093          (805)
+    Accrued expenses ..............................................               2,412         (5,525)       (3,314)
+    Deferred revenue ..............................................                 750            891        (1,410)
+                                                                               --------       --------       -------
+Net cash provided by (used in) operating activities ...............               8,187         23,645        (3,652)
+
+INVESTING ACTIVITIES
+Cash paid for acquisitions, net of cash acquired ..................             (38,669)       (66,077)           --
+Capital expenditures ..............................................              (3,089)        (1,910)         (739)
+Proceeds of short-term investments ................................                  --             --         1,559
+Proceeds from maturity or sale of restricted investments ..........                  --             --         7,191
+Purchases of restricted investments ...............................                  --             --        (1,552)
+Proceeds from sale of property and equipment ......................                  --             --           533
+Other .............................................................                  --           (400)           --
+                                                                               --------       --------       -------
+Net cash provided by (used in) investing activities ...............             (41,758)       (68,387)        6,992
+
+FINANCING ACTIVITIES
+Proceeds from long-term debt ......................................              44,606         47,000            --
+Proceeds from subordinated notes ..................................                  --         15,000            --
+Proceeds from mandatory redeemable preferred stock ................                  --          5,000            --
+Payments on long-term debt ........................................             (13,306)       (21,500)           --
+Payment of mandatory redeemable preferred stock dividends .........                (468)          (370)           --
+Payment on subordinated notes .....................................                  --         (7,500)           --
+Deferred financing costs ..........................................                (751)          (520)           --
+Issuance of common stock ..........................................                 653            346           138
+Exercise of stock options .........................................               2,649            519           288
+                                                                               --------       --------       -------
+Net cash provided by financing activities .........................              33,383         37,975           426
+Net increase (decrease) in cash and cash equivalents ..............                (188)        (6,767)        3,766
+Cash and cash equivalents at beginning of year ....................                 444          7,211         3,445
+                                                                               --------       --------       -------
+Cash and cash equivalents at end of year ..........................            $    256       $    444       $ 7,211
+                                                                               ========       ========       =======
+
+SUPPLEMENTAL CASH FLOW INFORMATION
+Cash paid for interest ............................................            $  3,423       $  3,355       $    --
+                                                                               ========       ========       =======
+Cash paid for income taxes ........................................            $  4,870       $    639       $    58
+                                                                               ========       ========       =======
+
+NONCASH TRANSACTIONS
+Conversion of subordinated notes to mandatory redeemable
+  preferred stock .................................................            $     --       $  7,370       $    --
+                                                                               ========       ========       =======
+Discount on subordinated notes for stock warrants issued ..........            $     --       $    659       $    --
+                                                                               ========       ========       =======
+Non-recurring dividend on mandatory redeemable preferred stock ....            $     --       $  1,942       $    --
+                                                                               ========       ========       =======
+Issuance of common stock under Incentive Plan for stockholders'
+  notes receivable ................................................            $    263       $  1,039       $    --
+                                                                               ========       ========       =======
+</TABLE>
+
+                             See accompanying notes.
+
+
+                                      F-6
+<PAGE>   26
+
+                           AMERICA SERVICE GROUP INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                DECEMBER 31, 2000
+           (SHOWN IN 000'S EXCEPT INMATE, SHARE AND PER SHARE AMOUNTS)
+
+1.       DESCRIPTION OF BUSINESS
+
+         America Service Group Inc. (the "Company") and its consolidated
+subsidiaries provide managed healthcare services to correctional facilities
+under capitated contracts (with certain adjustments) with state and local
+governments, certain private entities and medical facilities operated by the
+Department of Defense and Veterans Administration. The health status of inmates
+may impact results of operations under such contractual arrangements.
+
+2.       SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Principles of Consolidation
+
+         The consolidated financial statements include the accounts of the
+Company and its wholly-owned subsidiaries, Prison Health Services, Inc. ("PHS"),
+EMSA Correctional Care, Inc. and EMSA Military Services, Inc. ("EMSA"),
+Correctional Health Services, Inc. ("CHS") and Secure Pharmacy Plus, Inc.
+("SPP") for 2000 and 1999 and its wholly-owned captive insurance subsidiary,
+Harbour Insurance, Inc. ("Harbour"), and its wholly owned captive pharmacy,
+UniSource, Inc. ("UniSource") for 1998. The Company liquidated and dissolved
+Harbour in November 1998 and sold all fixed operating assets of UniSource during
+1998. All significant intercompany transactions and account balances have been
+eliminated.
+
+Use of Estimates
+
+         The preparation of the consolidated financial statements in conformity
+with generally accepted accounting principles in the United States requires
+management to make estimates and assumptions that affect the amounts reported in
+the consolidated financial statements and accompanying notes. Actual results
+could differ from those estimates. Estimates are used primarily in the recording
+of the accruals of unbilled medical services calculated based upon a claims
+payment lag methodology and professional and general liability claims. The
+claims payment lag methodology utilized for recording amounts for unbilled
+medical claims is based upon historical payment patterns using actual
+utilization data including hospitalization, one day surgeries, physician visits
+and emergency room and ambulance visits and their corresponding costs. Estimates
+change as new events occur, more experience is acquired, or additional
+information is obtained. A change in an estimate is accounted for in the period
+of change.
+
+Fair Value of Financial Instruments
+
+         The carrying amounts of the Company's financial instruments reported in
+the Consolidated Balance Sheets, consist of cash and cash equivalents, accounts
+receivable, accounts payable and long-term debt and approximate their fair
+values.
+
+Revenue and Cost Recognition
+
+         The Company engages principally in fixed price contracts with
+correctional institutions adjusted for census fluctuations. Revenues earned
+under contracts with correctional institutions are recognized in the period that
+services are rendered. Cash received in advance for future services is recorded
+as deferred revenue and recognized as income when the service is performed.
+
+         Healthcare expenses include the compensation of physicians, nurses and
+other healthcare professionals including any related benefits and all other
+direct costs of providing the managed care. The cost of healthcare services
+provided or contracted for are recognized in the period in which they are
+provided based in part on estimates, including an accrual for unbilled medical
+services rendered through the balance sheet dates based upon a claims payment
+lag methodology. Additionally, reserves have been recorded for certain reported
+and unreported professional and general liability claims associated with the
+delivery of medical services and included in accrued expenses and noncurrent
+portion of accrued expenses on the accompanying Consolidated Balance Sheets.
+
+         The Company accrues losses under its fixed price contracts when it is
+probable that a loss has been incurred (i.e., expected future healthcare costs
+and maintenance costs will exceed anticipated future revenue and stop-loss
+insurance recoveries if material) and the amount of the loss can be reasonably
+estimated. The Company performs this loss accrual analysis on a specific
+contract basis.
+
+
+                                      F-7
+<PAGE>   27
+
+                           AMERICA SERVICE GROUP INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+
+
+Cash and Cash Equivalents
+
+         Cash and cash equivalents include cash on hand, demand deposits, money
+market funds and investments with original maturities of three months or less
+when purchased.
+
+Accounts Receivable
+
+         Accounts receivable represent amounts due from state and local
+governments and certain private entities for health care services provided by
+the Company and pharmaceutical sales of the Company.
+
+Inventory
+
+         Pharmacy and medical supplies inventory is stated at the lower of cost
+(first-in, first-out method) or market.
+
+Depreciation
+
+         Depreciation is provided using straight-line and accelerated methods
+over the estimated useful lives of the assets which range from three to five
+years.
+
+Intangible Assets
+
+         The unamortized excess of the costs of acquisitions over the fair value
+of the net tangible assets received at the date of acquisition include
+contracts, non-compete agreements and goodwill. Goodwill amortization expense of
+$3,387, $1,654 and $14 for 2000, 1999 and 1998, respectively, was computed using
+the straight-line method over periods from 10 to 20 years. Contract amortization
+expense of $676, $522 and $0 for 2000, 1999 and 1998, respectively, was computed
+using the straight-line method over 20 years as determined by an independent
+appraisal. Amortization of the non-compete agreements is calculated over 2 years
+and approximates $317 and $158 for the years ended December 31, 2000 and 1999,
+respectively. The Company wrote off the unamortized portion of cost in excess of
+net assets acquired of $400 in June 1998 with the sale of UniSource. Accumulated
+amortization of goodwill, contracts and non-compete agreements are $5,041,
+$1,198 and $475 as of December 31, 2000, respectively, and $1,654, $522 and $158
+as of December 31, 1999, respectively.
+
+Other Assets
+
+         Other assets include $1,270 of deferred financing costs related to the
+$65 million syndicated credit facility and previous versions thereof (see Note
+3). Amortization of $232 and $121, for the years ended December 31, 2000 and
+1999 respectively, related to the deferred financing costs is computed using the
+straight-line method over the remaining life of the syndicated credit facility
+and is included in interest expense on the accompanying Consolidated Statements
+of Income. Accumulated amortization as of December 31, 2000 was $353.
+
+Long-Lived Assets
+
+         Statement of Financial Accounting Standards (SFAS) No. 121, Accounting
+for the Impairment of Long-Lived Assets and for Long-Lived Assets to be Disposed
+Of, requires that companies consider whether indicators of impairment of
+long-lived assets held for use are present. If such indicators are present,
+companies determine whether the sum of the estimated undiscounted future cash
+flows attributable to such assets is less than their carrying amount, and if so,
+companies recognize an impairment loss based on the excess of the carrying
+amount of the assets over their fair value. Accordingly, management periodically
+evaluates the ongoing value of property and equipment and intangible assets and
+considers events, circumstances and operating results, including consideration
+of contract performance at the fixed price contract level, to determine if
+impairment exists. If long-lived assets are deemed impaired, management adjusts
+the asset value to fair value.
+
+
+                                      F-8
+<PAGE>   28
+
+                           AMERICA SERVICE GROUP INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+
+Preferred Stock
+
+         The Board of Directors has the power and authority to establish
+preferences related to dividends, redemptions, payment on liquidation,
+conversion privileges and voting rights. During 1999, the Company authorized
+500,000 shares of mandatory redeemable convertible preferred stock, with a $100
+per share liquidation value and a 5% coupon. During 1999, a total of 125,000 of
+such shares were issued as part of the EMSA acquisition discussed in Note 3.
+
+Income Taxes
+
+         The Company uses the liability method of accounting for federal and
+state income taxes. Under the liability method, deferred tax assets and
+liabilities are determined based on the difference between the financial
+statement carrying amounts and tax bases of assets and liabilities using enacted
+tax rates in effect in the years in which the differences are expected to
+reverse. Differences between taxable income and income for financial statement
+purposes result from the recognition of certain income and expense items for tax
+purposes in periods which differ from those used for financial statement
+purposes.
+
+Stock Options
+
+         The Company has elected to follow Accounting Principles Board Opinion
+No. 25, Accounting for Stock Issued to Employees ("APB 25"), and related
+Interpretations in accounting for its employee stock options because the
+alternative fair value accounting provided for under SFAS No. 123, Accounting
+for Stock-Based Compensation, requires use of option valuation models that were
+not developed for use in valuing employee stock options. Under APB 25,
+compensation expense is recognized as the difference between the exercise price
+of the Company's employee stock options and the market price of the underlying
+stock on the date of grant.
+
+Recently Issued Accounting Pronouncements
+
+         In June 1998, the FASB issued Statement of Financial Accounting
+Standards No. 133, Accounting for Derivative Instruments and Hedging Activities
+("SFAS No. 133"), as amended in June 2000 by Statement of Financial Accounting
+Standards No. 138 ("SFAS 138"), Accounting for Certain Derivative Instruments
+and Certain Hedging Activities, which requires the Company to recognize all
+derivatives as assets or liabilities measured at fair value. Changes in fair
+value are recognized through either earnings or other comprehensive income
+dependent on the effectiveness of the hedge instrument. In July 1999, the FASB
+issued Statement of Financial Accounting Standards No. 137, Accounting for
+Derivative Instruments and Hedging Activities - Deferral of Effective Date of
+FASB Statement No. 133, which deferred for one year the effective date of SFAS
+133 to all fiscal quarters of fiscal years beginning after June 15, 2000. The
+Company will adopt SFAS 133 effective January 1, 2001 and such adoption is not
+expected to have a material impact on the Company's consolidated financial
+position and results of operations (see Note 9).
+
+Reclassifications
+
+         Certain prior period amounts have been reclassified in order to conform
+to current period presentation.
+
+3.       ACQUISITIONS
+
+2000 Acquisitions
+
+         On September 20, 2000, the Company acquired certain assets of
+Stadtlanders Corrections Division, a subsidiary of Bergen Brunswig, Inc. and a
+pharmacy company, for $7,900 in cash. The pharmacy division is operated as a
+subsidiary of ASG under the name Secure Pharmacy Plus, Inc. ("SPP"). SPP is the
+largest correctional pharmacy company in the United States servicing over
+300,000 inmates in 41 states. SPP's sales to PHS are eliminated in
+consolidation.
+
+         Effective June 1, 2000, the Company acquired the stock of Correctional
+Health Services, Inc. ("CHS") for $16,662 in cash, net of $338 of cash received.
+The purchase price was financed by advances pursuant to the Company's then
+existing Senior Credit Facility, which was increased in connection with the
+acquisition. CHS, with headquarters in Verona, New Jersey, services twenty-one
+contracts providing health care services to approximately 12,000 inmates.
+
+
+                                      F-9
+<PAGE>   29
+
+                           AMERICA SERVICE GROUP INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+
+On March 29, 2000, the Company acquired the Pennsylvania and New York operations
+of Correctional Physician Services, Inc. ("CPS") for $14,000 in cash. CPS
+assigned its contracts for the Eastern Region of the Pennsylvania Department of
+Corrections and the Yonkers Region of the New York Department of Correctional
+Services to PHS. CPS is a privately held company with headquarters in Blue Bell,
+Pennsylvania. Combined, the Pennsylvania and New York operations of CPS provided
+services to approximately 21,000 inmates and had approximately $41,000 in
+revenue during 1999. Approximately $1,800 of the cash purchase price was placed
+in escrow for payment of a portion of the seller's liability under a contract
+cost sharing provision.
+
+         The 2000 acquisitions were financed under the Company's then existing
+credit facilities or expansions thereof (see Note 8). The acquisitions were
+accounted for using the purchase method of accounting and results of operations
+of the acquired entities or contracts have been included in the accompanying
+Consolidated Income Statements from the respective acquisition dates.
+
+1999 Acquisitions
+
+         On January 26, 1999, the Company purchased all of the outstanding stock
+of EMSA Government Services, Inc. ("EMSA") from InPhyNet Administrative
+Services, Inc. ("InPhyNet") for $63,400 in cash, net of a $3,600 working capital
+payment from InPhyNet. InPhyNet was a wholly-owned subsidiary of MedPartners,
+Inc. ("MedPartners"). EMSA and its subsidiaries provide comprehensive managed
+healthcare solutions to approximately 70,000 inmates housed in state and local
+correctional facilities and provide emergency medicine and primary healthcare
+services to active and retired military personnel and their dependents at
+medical facilities operated by the U.S. Department of Defense and the Veterans
+Administration.
+
+         The EMSA acquisition was financed by (i) funds available under the
+Amended and Restated Credit Agreement, dated January 26, 1999, (ii) $15,000 of
+proceeds from the issuance of the Company's 12% Subordinated Convertible Bridge
+Notes due January 26, 2000 with detachable warrants to purchase an aggregate
+135,000 shares of the Company's common stock, and (iii) $5,000 of proceeds from
+the issuance of the Company's Mandatory Redeemable Preferred Stock. These debt
+and equity instruments are more fully described in Notes 8 and 11, respectively.
+The EMSA acquisition was accounted for using the purchase method of accounting
+and results of operations of the acquired entity have been included in the
+accompanying Consolidated Income Statements from the acquisition date.
+
+         The 2000 and 1999 acquisitions are summarized as follows:
+
+<TABLE>
+<CAPTION>
+
+                                                                  EMSA           CPS          CHS         SPP         TOTAL
+                                                                --------       -------      -------      ------      --------
+         <S>                                                    <C>            <C>          <C>          <C>         <C>
+         Fair value of net operating assets acquired
+          (liabilities assumed) ........................        $ 19,000       $(2,200)     $  (600)     $4,500      $ 20,700
+         Fair value of contracts acquired ..............
+         Non-compete agreements ........................
+         Goodwill ......................................          11,200            --        4,000          --        15,200
+                                                                     400            --        2,000          --         2,400
+         Cost of acquisitions (net of cash acquired) ...          35,500        16,200       11,300       3,400        66,400
+                                                                --------       -------      -------      ------      --------
+                                                                $ 66,100       $14,000      $16,700      $7,900      $104,700
+                                                                ========       =======      =======      ======      ========
+</TABLE>
+
+         The following unaudited pro forma results of operations give effect to
+the operations of EMSA, CHS and SPP as if the acquisitions had occurred at the
+beginning of the year of acquisition and the beginning of the immediately
+preceding year.
+
+<TABLE>
+<CAPTION>
+                                                                  2000             1999             1998
+                                                               -----------      -----------      -----------
+         <S>                                                   <C>              <C>              <C>
+         Healthcare revenue .........................          $   421,049      $   335,927      $   274,067
+         Net income attributable to common shares ...          $     6,303      $     1,593      $     6,229
+         Net income per common share:
+           Basic ....................................          $      1.64      $      0.44      $      1.75
+           Diluted ..................................          $      1.24      $      0.41      $      1.55
+</TABLE>
+
+
+                                      F-10
+<PAGE>   30
+
+                           AMERICA SERVICE GROUP INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+
+4.       RELEASE AND SETTLEMENT AGREEMENT
+
+         On October 1, 1997, the Company entered into a Plan and Agreement of
+Merger (the "Merger Agreement") with MedPartners, Inc., a Delaware corporation
+("MedPartners"), and a wholly owned subsidiary of MedPartners, pursuant to which
+the Company would have been acquired by MedPartners (the "Merger").
+
+         On February 26, 1998, the Company announced the termination of the
+Merger Agreement and the execution of a Release and Settlement Agreement (the
+"Settlement Agreement") with MedPartners relating to the Merger Agreement.
+Pursuant to the Settlement Agreement, MedPartners agreed to pay the Company
+approximately $3,500 in cash and to assume certain other base and employee
+healthcare benefit costs incurred by the Company of approximately $1,500.
+Approximately $1,000 of these payments reimbursed the Company for costs directly
+associated with the terminated Merger that were included in prepaid expenses and
+other current assets at December 31, 1997. The resulting $4,047 is reported in
+1998 as the MedPartners settlement gain.
+
+         In connection with the anticipated Merger, all of the UniSource
+employees were informed of the Company's intent to cease operations and sell or
+dispose of all of UniSource's operating assets. Costs of approximately $600
+associated with the disposal of UniSource, including $400 of unamortized cost in
+excess of net assets acquired, severance and other miscellaneous expenses are
+included in selling, general and administrative expenses in 1998. Also in
+connection with the Merger, the Company incurred employee stay bonuses and
+severance costs of $700, which are included in selling, general and
+administrative expenses in 1998.
+
+5.       PREPAID EXPENSES AND OTHER CURRENT ASSETS
+
+         Prepaid expenses and other current assets are stated at cost and
+comprised of the following:
+
+<TABLE>
+<CAPTION>
+                                                      DECEMBER 31,
+                                                   -----------------
+                                                    2000       1999
+                                                   ------     ------
+         <S>                                       <C>        <C>
+         Prepaid insurance ...........             $  898     $2,517
+
+         Prepaid pharmacy expenses ...                 --      1,626
+         Prepaid performance bonds ...                163        180
+         Prepaid other ...............                366        279
+                                                   ------     ------
+                                                   $1,427     $4,602
+                                                   ======     ======
+</TABLE>
+
+6.       PROPERTY AND EQUIPMENT
+
+         Property and equipment is stated at cost and comprised of the
+following:
+
+<TABLE>
+<CAPTION>
+                                                             DECEMBER 31,
+                                                       -----------------------     ESTIMATED
+                                                         2000           1999      USEFUL LIVES
+                                                       --------       --------    ------------
+         <S>                                           <C>            <C>         <C>
+         Leasehold improvements ...........            $  1,153       $    52       5 years
+         Equipment and furniture ..........               9,156         5,753       5 years
+         Computer software ................               1,122           723       3 years
+         Medical equipment ................               1,833           456       5 years
+         Automobile .......................                  14            12       5 years
+                                                       --------       -------
+                                                         13,278         6,996
+         Less: Accumulated depreciation ...              (4,627)       (3,064)
+                                                       --------       -------
+                                                       $  8,651       $ 3,932
+                                                       ========       =======
+</TABLE>
+
+         Depreciation expense for the years ended December 31, 2000, 1999 and
+1998 was $1,563, $1,200 and $800, respectively.
+
+
+                                      F-11
+<PAGE>   31
+
+                           AMERICA SERVICE GROUP INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+
+7.       ACCRUED EXPENSES
+
+         Accrued expenses consist of the following:
+
+<TABLE>
+<CAPTION>
+                                                                          DECEMBER 31,
+                                                                     -----------------------
+                                                                       2000           1999
+                                                                     --------       --------
+         <S>                                                         <C>            <C>
+         Salaries and employee benefits .................            $ 12,413       $ 13,048
+         Professional liability claims ..................               4,786          4,091
+         Accrued workers' compensation ..................               1,148            856
+         Accrual for impaired contract ..................                  --            855
+         CPS cost sharing liability and other acquisition
+           costs.........................................               3,570             --
+         Other ..........................................               5,976            579
+                                                                     --------       --------
+                                                                       27,893         19,429
+         Less: Noncurrent portion of liability claims ...              (3,680)        (2,874)
+                                                                     --------       --------
+                                                                     $ 24,213       $ 16,555
+                                                                     ========       ========
+</TABLE>
+
+8.       BANKING ARRANGEMENTS
+
+2000 Credit Facility
+
+         On August 1, 2000, the Company entered into the Amended and Restated
+Credit Agreement (the "2000 Credit Facility") with a syndicate of four banks
+with Bank of America, N.A. serving as lead and administrative agent for a total
+of $65,000. The 2000 Credit Facility amended the previous $52 million Credit
+Facility entered into commensurate with the EMSA acquisition. The outstanding
+principal amount under the 2000 Credit Facility matures in August 2003, and
+$8,200 is currently available under the 2000 Credit Facility. The interest rate
+is based on the LIBO rate or the prime rate plus a fixed percentage based upon
+the operating performance of the Company for the immediately preceding six-month
+period. The 2000 Credit Facility is collateralized by all assets and the Company
+and its operating subsidiaries and is subject to certain quarterly financial
+covenants, with which the Company was in compliance throughout 2000. The 2000
+Credit Facility prohibits the Company from undertaking certain transactions such
+as the payment of common stock dividends, the repurchase of common stock and the
+incurrence of additional indebtedness. The 2000 Credit Facility also requires
+the Company to maintain interest rate protection agreements for a minimum
+$30,000 of the $65 million available under the facility for a minimum period of
+two years (see Note 9).
+
+1999 Credit Facility
+
+         In connection with the EMSA acquisition, the Company entered into a
+$52 million Credit Facility ("1999 Credit Facility") expiring September 30,
+2002, which replaced the Company's $20 million Credit Facility dated March 28,
+1997. The 1999 Credit Facility included a $10,000 facility for working capital
+and issuance of letters of credit for performance bonds. The interest rate was
+based on LIBOR or prime rates subject to the quarterly operating performance of
+the Company, as defined in such facility. The Credit Facility was collateralized
+by all assets of the Company and its operating subsidiaries and was also subject
+to certain quarterly financial covenants, with which the Company was in
+compliance throughout 1999. No borrowings were outstanding under the working
+capital portion of the 1999 Credit Facility at December 31, 1999 and 1998.
+
+Letters of Credit
+
+         Although the Company's 2000 Credit Facility includes a $10,000 facility
+for working capital and issuance of letters of credit for performance bonds,
+there were no open letters of credit as of December 31, 2000 or 1999, and only
+$500 outstanding as of December 31, 1998.
+
+
+                                      F-12
+<PAGE>   32
+
+
+                           AMERICA SERVICE GROUP INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+
+9.       DERIVATIVE FINANCIAL INSTRUMENTS
+
+         In order to protect the Company from interest rate volatility and as
+required by the aforementioned 2000 Credit Facility, the Company entered into
+four interest rate collar agreements ("the derivatives") during 2000 and 1999
+with three of its syndicated banks ("the hedging banks") for a notional amount
+of $30,000. The derivatives qualify as cash flows hedges under SFAS 133 and
+expire between May 2001 and March 2003. The derivatives have 90-day settlement
+periods at which time the Company is required to make payments to the hedging
+banks for instances in which the 90-day LIBO rate drops below the designated
+rate floors (generally ranging from 4.95% to 6.375%) or is entitled to receive
+payments from the hedging banks for instances in which the 90-day LIBO rate
+exceeds the designated rate ceilings (generally ranging from 7.25% to 7.75%). In
+accordance with the provisions of SFAS 133, on January 1, 2001, the Company
+recorded a liability for the derivatives of approximately $212, net of tax,
+which represents the fair market value of the derivatives as of the date of
+adoption of SFAS 133. The adjustment to record the derivatives at fair value was
+charged to other comprehensive income as the cumulative effect of a change in
+accounting principle. Subsequent changes to the fair value of the derivatives
+will be charged to earnings to the extent of the derivatives' ineffectiveness,
+with the remainder of the change in fair value charged to other comprehensive
+income.
+
+10.      INCOME TAXES
+
+         Significant components of federal income tax expense are as follows:
+
+<TABLE>
+<CAPTION>
+                                                                                   YEAR ENDED DECEMBER 31,
+                                                                         ------------------------------------------
+                                                                            2000            1999            1998
+                                                                         ----------      ----------      ----------
+    <S>                                                                  <C>             <C>             <C>
+    Current income taxes:
+      Federal........................................................    $    3,534      $      503      $       50
+      State..........................................................           505             368              87
+                                                                         ----------      ----------      ----------
+                                                                              4,039             871             137
+    Deferred taxes:
+      Federal........................................................         1,281           1,942            (682)
+      State..........................................................           183             278             (80)
+                                                                         ----------      ----------      ----------
+                                                                              1,464           2,220            (762)
+                                                                         ----------      ----------      ----------
+    Income taxes (benefits)..........................................    $    5,503      $    3,091      $     (625)
+                                                                         ==========      ==========      ==========
+</TABLE>
+
+         Deferred income taxes reflect the net tax effects of temporary
+differences between the carrying amounts of assets and liabilities for financial
+reporting purposes and the amounts used for income tax purposes. Significant
+components of the Company's deferred tax assets (liabilities) are as follows:
+
+<TABLE>
+<CAPTION>
+                                                         YEAR ENDED DECEMBER 31,
+                                                        ------------------------
+                                                          2000            1999
+                                                        --------        --------
+         <S>                                            <C>             <C>
+         Amortization .......................            $(2,043)       $(1,722)
+         Self-insurance reserves ............              1,845          1,539
+         Accrued vacation ...................              1,158            573
+         Prepaid insurance ..................               (359)            --
+         Depreciation .......................               (204)            29
+         Allowance for doubtful accounts ....                 82            168
+         Accrued legal fees .................                 21             10
+         Executive stock options ............                 --            814
+         Net operating loss carryforwards ...                 --            816
+         State taxes ........................                 --           (286)
+         Other ..............................               (114)           (90)
+                                                         -------        -------
+                                                         $   386        $ 1,851
+                                                         =======        =======
+</TABLE>
+
+         A reconciliation of the federal statutory rate to the effective tax
+rate is as follows:
+
+<TABLE>
+<CAPTION>
+                                                                  YEAR ENDED DECEMBER 31,
+                                                               ------------------------------
+                                                                 2000       1999        1998
+                                                               -------    -------     -------
+<S>                                                            <C>        <C>         <C>
+Federal tax ........................................            35.0%      35.0%       34.0%
+State income taxes .................................             5.2        4.8         4.0
+Alternative minimum tax ............................              --         --         1.0
+Nondeductible goodwill and contract amortization ...             1.2         --          --
+Decrease in valuation allowance ....................              --         --        (52.3)
+Other ..............................................              --        0.2         1.0
+                                                                ----       ----        ----
+                                                                41.4%      40.0%       (12.3)%
+                                                                ====       ====        ====
+</TABLE>
+
+                                      F-13
+<PAGE>   33
+
+                           AMERICA SERVICE GROUP INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+
+11.      MANDATORY REDEEMABLE PREFERRED STOCK
+
+         Mandatory Redeemable Preferred Stock (the "Preferred Stock") consists
+of 50,000 shares issued on January 26, 1999 and 75,000 shares issued on August
+30, 1999 as part of the EMSA acquisition. The Preferred Stock contains a 5%
+coupon rate and is mandatorily redeemable on July 26, 2005. Dividends have been
+paid through September 30, 2000. Each share of Preferred Stock is convertible
+into such number of fully paid and nonassessable shares of common stock as is
+determined by dividing $100.00 by the conversion price ($9.45) at the option of
+the holder at any time after the issue date and prior to the close of business
+on the day prior to a date which the Company has set to redeem such shares of
+Preferred Stock. The Company shall pay to each holder of shares of Preferred
+Stock an amount equal to any accrued and unpaid dividends on the shares of
+Preferred Stock surrendered for conversion to the date of such conversion.
+
+         The 75,000 shares issued on August 30, 1999 related to conversion of
+$7.5 million of subordinated notes which had been issued at a discount.
+Accordingly, the remaining $125,000 discount is being recognized through the
+mandatory redemption date through additional noncash dividends.
+
+         Subsequent to December 31, 2000, the Company achieved the minimum
+market price requirements as outlined in the shareholder agreements with the
+holders of the Preferred Stock resulting in the conversion of the 125,000 shares
+of the Preferred Stock into the 1,322,751 shares of the Company's common stock
+(see Note 20).
+
+12.      MANDATORY REDEEMABLE COMMON STOCK
+
+         During 1996, the Company sold 146,000 shares of mandatory redeemable
+common stock (purchased shares) and awarded 40,000 shares (awarded shares) of
+mandatory redeemable common stock to its then Chief Executive Officer. The
+146,000 shares were sold at the then current fair market value of $8.75 per
+share. The vesting of the awarded shares could be, and was accelerated under the
+terms of the award and a compensation charge of $8.75 per share was recorded
+representing the fair market value of the shares on the date of issuance. During
+1997, the redemption price was fixed at $9.90 per share, through an amendment to
+the employment agreement.
+
+         On July 15, 2000, the outstanding shares of mandatory redeemable common
+stock were sold to an independent third party resulting in the expiration of the
+stock's redemption provision. The shares, accordingly, are reflected as
+additional paid-in capital as of December 31, 2000.
+
+13.      STOCKHOLDERS' NOTES RECEIVABLE
+
+         On August 30, 1999, stockholders of the Company approved the America
+Service Group Inc. 1999 Incentive Stock Plan (the "1999 Plan") to allow for the
+issuance of stock options, restricted stock, stock appreciation rights and for
+the purchase of shares of Common Stock and the extension of recourse loans to
+certain of the Company's key employees and outside directors to permit them to
+purchase such shares of Common Stock. There are 786,000 shares of Common Stock
+available under the 1999 Plan. The Company is permitted to make up to $1,300 in
+loans to fund the purchase of Common Stock pursuant to the 1999 Plan.
+
+         During 1999, a total of $1,039 of loans bearing market interest rates
+and payable five years from the date of issuance were extended in order for
+certain Company employees and directors to purchase 72,895 shares of Common
+Stock. In connection with the purchase of the Common Stock, 225,657
+non-incentive stock options and 63,171 incentive stock options were issued at
+fair market value on the date of grant. Both the non-incentive and incentive
+stock options issued expire ten years from date of grant, with the non-incentive
+stock options vesting pro rata over four years and the incentive stock options
+having a four-year cliff vesting.
+
+         During 2000, the Company extended loans bearing market interest rates
+and payable five years from the date of issuance totaling $263 to certain
+members of management and directors to purchase 16,049 shares of Common Stock.
+In connection with such purchases, the Company issued 148,349 non-incentive
+stock options and 19,010 incentive stock options at fair market value at the
+date of grant with each option vesting ratably over a period of three to four
+years.
+
+
+                                      F-14
+<PAGE>   34
+
+                           AMERICA SERVICE GROUP INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+
+14.      STOCK OPTION PLANS
+
+         In addition to the 1999 Incentive Stock Plan discussed in Note 13, the
+Company has an Incentive Stock Plan which provides for the granting of options,
+stock awards and stock appreciation rights to officers, key employees and
+non-employee directors for up to 1,483,000 shares of the Company's common stock.
+Awards and vesting periods under the plan are discretionary and are administered
+by a committee of the Board of Directors. The exercise price of the options can
+not be less than the fair market value at the date of grant. Options and other
+benefits expire at such times as the committee determines at the time of grant,
+but no later than ten years from the grant date.
+
+The following is a summary of stock option activity under the Plans:
+
+<TABLE>
+<CAPTION>
+                                                                                                                     WEIGHTED
+                                                                                                                     AVERAGE
+                                                                                      OPTIONS       PRICE RANGE   EXERCISE PRICE
+                                                                                    ---------      -------------  --------------
+    <S>                                                                             <C>             <C>           <C>
+    Outstanding, December 31, 1998..............................................      818,000       4.50-- 14.44        10.12
+      Granted...................................................................      587,000      13.00-- 14.81        13.99
+      Exercised.................................................................      (54,000)      4.50-- 13.13         6.84
+      Canceled..................................................................      (86,000)      9.69-- 14.44        13.06
+                                                                                    ---------      -------------      -------
+    Outstanding, December 31, 1999..............................................    1,265,000      $4.50--$14.81      $ 11.85
+                                                                                    =========      =============      =======
+      Granted...................................................................      449,000      13.81-- 20.00        17.15
+      Exercised.................................................................     (274,000)      4.50-- 14.81         9.66
+      Canceled..................................................................      (16,000)      9.50-- 15.63        12.37
+                                                                                    ---------      -------------      -------
+    Outstanding, December 31, 2000..............................................    1,424,000      $4.50--$20.00      $ 13.98
+                                                                                    =========      =============      =======
+</TABLE>
+
+         Total options available for future grants at December 31, 2000 and
+1999, were 133,000 and 566,000, respectively.
+
+         As of December 31, 2000, 503,000 options were exercisable under all
+plans. The Company has reserved 2,543,000 shares of common stock for options
+outstanding and for options which may be granted in the future.
+
+<TABLE>
+<CAPTION>
+                                    OPTIONS OUTSTANDING                                      OPTIONS EXERCISABLE
+                            ------------------------------------                     ---------------------------------
+                                               WEIGHTED AVERAGE                           NUMBER
+         RANGE OF             OUTSTANDING          REMAINING       WEIGHTED AVERAGE   EXERCISABLE AT  WEIGHTED AVERAGE
+      EXERCISE PRICES         AT 12/31/00      CONTRACTUAL LIVE     EXERCISE PRICE       12/31/00      EXERCISE PRICE
+     ------------------     --------------    ------------------  -----------------  --------------- ----------------
+     <S>                    <C>               <C>                 <C>                <C>             <C>
+       $4.50--  6.50               11,000             3.75            $  5.78              11,000          $  5.78
+        8.69-- 11.19              315,000             7.52               9.67             226,000             9.55
+       13.00-- 14.81              658,000             8.61              13.93             227,000            13.65
+       15.00-- 20.00              440,000             8.69              17.35              39,000            15.63
+      --------------            ---------                                                --------
+       $4.50-- 20.00            1,424,000                                                 503,000
+      ==============            =========                                                ========
+</TABLE>
+
+         Options exercisable at December 31, 2000 had a weighted average
+exercise of $11.66.
+
+         Pro forma information regarding net income and earnings per share is
+required by SFAS No. 123 which also requires that the information be determined
+as if the Company has accounted for its employee stock options granted
+subsequent to December 31, 1994 under the fair value method of that Statement.
+The fair value of these options was estimated at the date of grant using a
+Black-Scholes option pricing model with the following weighted-average
+assumptions:
+
+<TABLE>
+<CAPTION>
+                                                                                                 YEAR ENDED
+                                                                                                DECEMBER 31,
+                                                                                           ---------------------
+                                                                                             2000          1999
+                                                                                           -------       -------
+         <S>                                                                               <C>           <C>
+         Volatility....................................................................      0.5           0.5
+         Interest rate.................................................................      6-7%          5-6%
+         Expected life (years).........................................................        3             3
+         Dividend yields...............................................................      0.0%          0.0%
+</TABLE>
+
+         The Black-Scholes option valuation model was developed for use in
+estimating the fair value of traded options, which have no vesting restrictions
+and are fully transferable. In addition, option valuation models require the
+input of highly subjective assumptions including the expected stock price
+volatility. Because the Company's employee stock options have characteristics
+significantly different from those of traded options, and because changes in the
+subjective input assumptions can materially affect the fair value estimate, in
+management's opinion, the existing models do not necessarily provide a reliable
+single measure of the fair value of its employee stock options.
+
+
+                                      F-15
+<PAGE>   35
+
+                           AMERICA SERVICE GROUP INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+
+         For purposes of pro forma disclosures, the estimated fair value of the
+options is amortized to expense over the options' vesting period. The Company's
+pro forma information for the years ended December 31, 2000, 1999 and 1998 are
+as follows:
+
+<TABLE>
+<CAPTION>
+                                                                                  YEAR ENDED DECEMBER 31,
+                                                         ------------------------------------------------------------------
+                                                                2000                       1999                 1998
+                                                         -------------------       -------------------   ------------------
+                                                            AS        PRO             AS        PRO         AS        PRO
+                                                         REPORTED    FORMA         REPORTED    FORMA     REPORTED    FORMA
+                                                         --------   --------       --------   --------   --------   -------
+                                                                         (IN THOUSANDS, EXCEPT PER SHARE DATA)
+<S>                                                      <C>        <C>            <C>        <C>        <C>        <C>
+Net income attributable to common
+  shares .............................................   $ 7,807    $ 5,989        $ 2,328     $ 1,572   $ 5,724    $ 5,231
+Income per common share:
+  Basic ..............................................   $  1.86    $  1.49        $  0.64     $  0.44   $  1.61    $  1.47
+  Diluted ............................................   $  1.40    $  1.03        $  0.60     $  0.41   $  1.57    $  1.44
+</TABLE>
+
+         The resulting pro forma disclosures may not be representative of that
+to be expected in future years. The weighted average fair value of options
+granted during 2000, 1999 and 1998 is $6.88, $5.43, and $4.26, respectively.
+
+15.      NET INCOME PER SHARE
+
+         The table below sets forth the computation of basic and diluted
+earnings per share as required by FASB Statement No. 128 for the three years in
+the period ended December 31, 2000.
+
+<TABLE>
+<CAPTION>
+                                                                      YEAR ENDED DECEMBER 31,
+                                                            ------------------------------------------
+                                                                2000           1999            1998
+                                                            -----------     -----------     ----------
+<S>                                                         <C>             <C>             <C>
+NUMERATOR:
+Net Income .......................................          $     7,807     $     4,640     $    5,724
+Redeemable Preferred Stock dividends .............                 (648)         (2,312)            --
+                                                            -----------     -----------     ----------
+Numerator for basic earnings per share--
+  income available to common stockholders ........          $     7,159     $     2,328     $    5,724
+                                                            ===========     ===========     ==========
+DENOMINATOR:
+Denominator for basic earnings per share--
+  weighted average shares ........................            3,854,000       3,613,000      3,554,000
+Effect of dilutive securities:
+  Mandatory Redeemable Preferred Stock ...........            1,323,000              --             --
+  Warrants .......................................               99,000          58,000             --
+  Employee stock options .........................              311,000         206,000         99,000
+                                                            -----------     -----------     ----------
+Denominator for diluted earnings per share--
+  adjusted weighted average shares and assumed
+  conversions ....................................            5,587,000       3,877,000      3,653,000
+                                                            ===========     ===========     ==========
+Basic earnings per share .........................          $      1.86     $      0.64     $     1.61
+                                                            ===========     ===========     ==========
+Diluted earnings per share .......................          $      1.40     $      0.60     $     1.57
+                                                            ===========     ===========     ==========
+</TABLE>
+
+         During any given quarter for the years ended December 31, 2000, 1999,
+and 1998 there were no more than 398,000, 4,000 and 388,000 options,
+respectively, to purchase common stock with weighted average exercise prices of
+$14.97, $14.38 and $12.04, respectively, not included in the computation of
+diluted earnings per share because the options' exercise price was greater than
+the average market price for the period of the common shares and, therefore, the
+effect would be antidilutive. For the year ended December 31, 1999, the effect
+of converting 125,000 shares of preferred stock into 1,322,751 shares of common
+stock is not included in the compution of diluted earnings per share because the
+effect would be antidilutive.
+
+         Under Financial Accounting Standards Board Statement No. 128, Earnings
+Per Share, when one or more quarters has a loss available to common
+stockholders, the treasury stock method of computing earnings per share may
+yield diluted earnings per share amounts for annual periods that do not equal
+the sum of the individual quarter's diluted earnings per share amounts, as is
+the case for the Company in 1999.
+
+
+                                      F-16
+<PAGE>   36
+
+                           AMERICA SERVICE GROUP INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+
+16.      EMPLOYEE BENEFIT PLAN
+
+         The Company has a 401(k) Retirement Savings Plan (the "Plan") covering
+substantially all employees who have completed one year and 1,000 hours of
+service. The Plan permits eligible employees to defer and contribute to the plan
+a portion of their compensation. The Company matches such employee contributions
+to the Plan ranging from 1% to 3% of eligible compensation, depending on his or
+her years of participation. The Company recorded an expense of $889, $700 and
+$300 for the years ended December 31, 2000, 1999 and 1998, respectively, related
+to the matching contributions of the Plan.
+
+         The Company instituted an Employee Stock Purchase Plan during 1996. The
+Employee Stock Purchase Plan allows full-time employees to elect to purchase
+shares of Common Stock through voluntary automatic payroll deductions of up to
+10% of his or her annual salary. Purchases of stock under the plan are made at
+the end of two six month offering periods each year, one beginning on January 1
+and one beginning on July 1. At the end of each six-month period, the employee's
+contributions during that six-month period are used to purchase shares of Common
+Stock from the Company at 85% of the fair market value of the Common Stock on
+the first day of that six-month period. The employee may elect to discontinue
+participation in the plan for future periods at the end of any six-month period.
+
+17.      PROFESSIONAL AND GENERAL LIABILITY INSURANCE
+
+         During the years ended December 31, 2000, 1999 and 1998, the Company
+maintained third party commercial insurance on a claims-made basis with primary
+limits of $1 million each occurrence and $3 million in the aggregate. In
+addition, the Company maintained excess liability insurance of $15 million for
+each claim and $15 million annual aggregate. Any liabilities in excess of the
+third-party insurance limits are assumed by the Company.
+
+         The Company records a liability for reported and unreported
+professional and general liability claims based upon an actuarial estimate of
+the cost of settling losses and loss adjustment expenses. Amounts accrued were
+$4,786 and $4,091 at December 31, 2000 and 1999, respectively, and are included
+in accrued expenses and non-current portion of accrued expenses. Changes in
+estimates of losses resulting from the continuous review process and differences
+between estimates and loss payments are recognized in the period in which the
+estimates are changed or payments are made. Reserves for medical malpractice
+exposures are subject to fluctuations in frequency and severity. Given the
+inherent degree of variability in any such estimates, the reserves reported at
+December 31, 2000 represent management's best estimate of the amounts necessary
+to discharge the Company's obligations.
+
+18.      COMMITMENTS AND CONTINGENCIES
+
+Operating Leases
+
+         The Company leases office space and equipment under certain
+noncancelable operating leases.
+
+         In connection with the MedPartners Settlement Agreement, the Company
+closed its regional offices in Atlanta, Georgia, and Newark, Delaware and
+assigned future lease payments to MedPartners.
+
+         Future minimum annual lease payments at December 31, 2000 are as
+follows:
+
+<TABLE>
+<CAPTION>
+                YEAR ENDING DECEMBER 31:
+                <S>                                                                                    <C>
+                  2001..............................................................................   $ 1,167
+                  2002..............................................................................       962
+                  2003..............................................................................       637
+                  2004..............................................................................       237
+                  2005..............................................................................       217
+                  Thereafter........................................................................       630
+                                                                                                       -------
+                                                                                                       $ 3,850
+                                                                                                       =======
+</TABLE>
+
+         Rental expense under operating leases was $1,612, $1,200 and $400 for
+the years ended December 2000, 1999 and 1998, respectively.
+
+
+                                      F-17
+<PAGE>   37
+
+                           AMERICA SERVICE GROUP INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (CONTINUED)
+
+Catastrophic Limits
+
+         Many of the Company's contracts require reimbursement to the Company
+for all treatment costs or, in some cases, only out-of-pocket treatment costs
+related to certain catastrophic events, and/or for AIDS or AIDS-related
+illnesses. Certain contracts do not contain such limits. The Company attempts to
+compensate for the increased financial risk when pricing contracts that do not
+contain individual, catastrophic or AIDS-related limits. However, the occurrence
+of severe individual cases, AIDS-related illnesses or a catastrophic event in a
+facility governed by a contract without such limitations could render the
+contract unprofitable and could have a material adverse effect on the Company's
+operations. The Company maintains insurance from an unaffiliated insurer for
+contracts that do not contain catastrophic protection for hospitalization
+amounts in excess of $125 per inmate through September 1998 and $200 per inmate
+thereafter. The Company believes this insurance significantly mitigates its
+exposure to unanticipated expenses of catastrophic hospitalization. Catastrophic
+insurance premiums and recoveries, neither of which are significant, are
+included in healthcare expenses. Receivables for insurance recoveries, which are
+not significant, are included in accounts receivable.
+
+Litigation and Claims
+
+         The Company is a party to various legal proceedings incidental to its
+business. Certain claims, suits and complaints arising in the ordinary course of
+business have been filed or are pending against the Company. An estimate of the
+amounts payable on existing claims for which the liability of the Company is
+probable is included in accrued expenses at December 31, 2000 and 1999. The
+Company is not aware of any material unasserted claims and, based on its past
+experience, would not anticipate that potential future claims would have a
+material adverse effect on its consolidated financial position or results of
+operations.
+
+19.      MAJOR CUSTOMERS AND GEOGRAPHICAL CONCENTRATIONS
+
+         The Company generally views its operating segments on a managed
+healthcare contract basis. The Company considers its managed healthcare services
+contract business to be one reportable segment under Financial Accounting
+Standards Board Statement No. 131, Disclosures about Segments of an Enterprise
+and Related Information, as the economic characteristics, the nature of the
+services, and type and class of customers for the services and the methods used
+to provide the services are similar. Consequently, other than the following
+enterprise-wide disclosures relating to major customers and geographic
+concentrations, reportable segment information is not applicable. The following
+is a summary of revenues from major customers:
+
+<TABLE>
+<CAPTION>
+                                                            YEAR ENDED DECEMBER 31,
+                                    ------------------------------------------------------------------------
+                                             2000                     1999                     1998
+                                    ----------------------    ---------------------    ---------------------
+                                     REVENUE      PERCENT      REVENUE     PERCENT      REVENUE     PERCENT
+                                    ---------    ---------    ---------   ---------    ---------   ---------
+<S>                                 <C>          <C>          <C>         <C>          <C>         <C>
+State of Pennsylvania ...            $45,478       11.9%       $20,036       7.3%       $    --        0.0%
+State of Maryland .......             31,654        8.3             --       0.0             --        0.0
+State of Indiana ........             26,996        7.1         24,804       9.1         23,968       21.2
+City of Philadelphia ....             22,260        5.8         10,174       3.7         17,966       15.9
+State of Kansas .........             21,434        5.6         20,450       7.5         19,223       17.0
+County of Alameda .......             11,507        3.0         12,499       4.9         12,122       10.7
+</TABLE>
+
+         Estimated credit losses associated with the receivables are provided
+for in the consolidated financial statements.
+
+20.      SUBSEQUENT EVENTS
+
+         The Company's shareholder agreement with the holders of the Preferred
+Stock includes market price provisions which, if met, provide the Company the
+right to force conversion of the Preferred Stock into shares of Common Stock. On
+January 4, 2001, the market price of the Company's Common Stock exceeded 225% of
+the initial conversion price ($9.45 per share) for 45 consecutive Trading Days
+triggering the Company's ability to force conversion of the Preferred Stock into
+a number of shares of Common Stock as is determined by dividing $100,000 by the
+conversion price ($9.45). The holders of the Preferred Stock converted all
+125,000 shares of Preferred Stock into 1,322,751 shares of the Company's Common
+Stock on February 5, 2001 resulting in amortization of the remaining preferred
+stock discounts.
+
+
+                                      F-18
+</TEXT>
+</DOCUMENT>

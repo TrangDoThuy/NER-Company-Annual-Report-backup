@@ -1,0 +1,712 @@
+<DOCUMENT>
+<TYPE>10-K/A
+<SEQUENCE>1
+<FILENAME>d10ka.txt
+<DESCRIPTION>AMENDMENT TO FORM 10-K
+<TEXT>
+<PAGE>
+
+               UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+                             Washington, DC 20549
+                                  FORM 10-K/A
+
+ X   Annual Report Under Section 13 or 15(d) of The Securities Exchange Act of
+ -
+     1934 (Fee Required) for the Fiscal Year Ended September 30, 2001
+
+ -   Transition Report Under Section 13 or 15(d) of The Securities Exchange Act
+     of 1934 (No Fee Required) for the Transition Period from ________
+     to ________
+
+                        Commission file number 0-26362
+
+                         ADVANCED NUTRACEUTICALS, INC.
+                         -----------------------------
+            (Exact name of Registrant as specified in its charter)
+
+               Texas                                   76-0642336
+               -----                                   ----------
+  (State or other jurisdiction of          (I.R.S. Employer Identification No.)
+   incorporation or organization)
+
+      106 South University Blvd., Unit 14
+               Denver, Colorado                                 80209
+               ----------------                                 -----
+         (Address of principal executive office)               (Zip Code)
+
+        Issuer's telephone number, including area code: (303) 722-4008
+
+
+          Securities Registered Pursuant to Section 12(b) of the Act:
+
+                                                  Name of each Exchange
+         Title of each Class                       on Which Registered
+         -------------------                       -------------------
+
+                None                                      None
+
+          Securities Registered Pursuant to Section 12(g) of the Act:
+
+                          $.01 par value common stock
+                          ---------------------------
+
+                               (Title of Class)
+
+                                  SIGNATURES
+
+In accordance with Section 13 or 15(d) of the Exchange Act, the Registrant
+caused this report to be signed on its behalf by the undersigned, thereunto duly
+authorized.
+
+                                              ADVANCED NUTRACEUTICALS, INC.
+                                                     (Registrant)
+
+  Date: January 28, 2002                       By: /s/ John R. Brown, Jr.
+                                                   -------------------------
+                                                   John R. Brown, Jr.,
+                                                   Vice President - Finance
+
+<PAGE>
+
+                                   PART III
+
+           ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF REGISTRANT
+
+Directors
+---------
+
+  Set forth below is biographical information regarding the members of the Board
+of Directors of Advanced Nutraceuticals, Inc. ("ANI" or the "Company")
+References to the "Company" include Nutrition For Life International, Inc.
+("NFLI"). The Company sold NFLI in June 2001.
+
+  F. Wayne Ballenger, age 55, has served in various financial consulting
+capacities since 2000. He served as President of First Commercial Capital from
+1995 to 2000. He has also served as President of Puncture Guard LLC since
+December 1994. From March 1992 to December 1994, he served as director of sales
+and marketing for Petrolon, Inc., a multi-level marketing organization.
+Immediately prior thereto, he served as a vice president of Southwest Bank of
+Texas with commercial lending responsibilities. Mr. Ballenger received a B.B.A.
+degree from the University of the South in 1968. Mr. Ballenger became a director
+of the Company in November 1995.
+
+  M. F. Florence, age 64, has served as President of Sherfam Inc. since 1989.
+Sherfam Inc. is a holding company, principally of pharmaceutical companies, and
+is the parent of Shermfin Inc., which is a principal shareholder of the Company.
+From 1958 to 1989, Mr. Florence was associated with the firm of Wm. Eisenberg &
+Co., a firm of Chartered Accountants in Canada. He served as a partner of the
+firm from 1964 to 1989. Mr. Florence received a Bachelor of Commerce degree from
+the University of Toronto. He is the recipient of a Chartered Accountants degree
+from the Institute of Chartered Accountants of Ontario. Mr. Florence is
+President of Citadel Gold Mines, Inc. Mr. Florence is also a Director of Barr
+Laboratories, Inc., a publicly held corporation whose common shares are listed
+on the New York Stock Exchange. Mr. Florence has served as a director of the
+Company since 1994.
+
+  Randall D. Humphreys, age 46, has served as Chairman and as Managing Director
+of Enterprise Merchant Banc, L. L. C., since 1997. During 1997 he led the
+diversification effort of St. Joseph Light and Power, a New York Stock Exchange
+listed utility. During 1996 he served as a financial consultant. From 1986
+through 1995, Mr. Humphreys served as the Senior Operations officer of Brierly
+Investments Limited. In addition, Mr. Humphreys currently serves on the Board of
+Directors of the following companies: Enterbank Holdings, Inc., Acousti Seal
+Corporation, Permalock Corporation, GSC Industries, and Mirror Image Holdings,
+Inc. Mr. Humphreys is a graduate of Kansas State University. Mr. Humphreys
+became a director of the Company in June 2001.
+
+  Gregory Pusey, age 49, has served as Chairman of the Board of Directors of the
+Company since November 1999. Mr. Pusey served as an officer and director of
+Advanced Nutraceuticals, Inc. since December 1997. He has served as President of
+Livingston Capital, Ltd. since 1987 and President and the general partner of
+Graystone Capital, Ltd. from 1987 to 1999, both venture capital firms. From June
+1994 to August 1998, he served as a director and consultant to the Company.
+Since 1988, Mr. Pusey has been the President and a director of Cambridge
+Holdings, Ltd., a publicly held real estate development firm. Mr. Pusey
+graduated summa cum laude from Boston College with a B.S. degree in finance in
+1974.
+
+  Pailla M. Reddy, age 42, is currently Chairman of the Board of Directors,
+Chief Executive Officer and President of Bactolac Pharmaceutical Inc. The
+Company acquired Bactolac in November 1999. Dr. Reddy founded Bactolac and has
+served as an officer and director of Bactolac, since 1995. From 1991 to 1995, he
+was production manager for Max Pharmaceutical, Inc. From 1983 to 1991, Dr. Reddy
+held various positions with Wellcome Pharmaceuticals Ltd., including research
+chemist and production manager. Dr. Reddy received a B.Sc. degree in chemistry
+from Osmania University in India, and M.Sc. and Ph.D. degrees in organic
+chemistry from Kanpur University in India.
+
+  Neil S. Sirkin, age 38, is currently the Vice President of Contract Sales of
+ANI Pharmaceuticals, Inc. ("ANIP"), the successor to ASHCO, a division of
+Bactolac. The Company acquired ASHCO in December 1999. Mr. Sirkin was co-founder
+of ASHCO and served as an officer and director of ASHCO since 1996. He
+previously performed a variety of consulting and special project activities
+while affiliated with Sirkin Enterprises, Inc. Mr. Sirkin attended the
+University of Miami.
+
+  The Company entered into an agreement in 1995 with Shermfin Inc. wherein it
+agreed that, for so long as Shermfin Inc. owns 10% or more of the outstanding
+Common Stock of the Company, Shermfin Inc. will be entitled to designate one
+person to serve as a member of the Company's Board of Directors. Shermfin Inc.'s
+designee is M. F. Florence. See Item 13.
+
+Officers
+--------
+
+  The Board of Directors of the Company has elected the following executive
+officers. It is expected that the Board will elect officers annually following
+each Annual Meeting of Shareholders. Information is provided below regarding the
+names and ages of all
+
+<PAGE>
+
+executive officers of the Company who are not directors of the Company, their
+position with the Company and the period they have served as executive officers
+of the Company.
+
+  John R. Brown, Jr., age 64, became Vice President-Finance of the Company in
+September 1996, and had previously served the Company on a part-time basis
+commencing in December 1995. Mr. Brown also serves as Treasurer and Assistant
+Secretary of the Company. From April 1989 until he joined the Company, Mr. Brown
+was a management consultant performing merger and acquisition services, systems
+analyses, financial reporting assistance, and other services for both publicly
+and privately held companies. From June, 1987 to March 1989 he was Vice
+President-Finance & Administration for Environmental Protective Industries,
+Inc., an environmental services organization. Mr. Brown is a Certified Public
+Accountant and has over 20 years experience in public accounting with both
+national and local firms. Mr. Brown received a B.S. degree in mechanical
+engineering from Stanford University and a M.B.A. degree from the University of
+Texas at Austin.
+
+  Jeffrey G. McGonegal, age 50, became Senior Vice President - Finance of the
+Company in February 2000. Mr. McGonegal also serves as Secretary of the Company
+and as President of ANIP. From 1997 to 2000, Mr. McGonegal served as Managing
+Director of McGonegal and Co., a company engaged in providing accounting and
+business consulting services. Mr. McGonegal served as a consultant to the
+Company in connection with the acquisitions made in 1999. From 1974 to 1997, Mr.
+McGonegal was an accountant with BDO Seidman LLP. While at BDO Seidman LLP, Mr.
+McGonegal served as managing partner of the Denver, Colorado office. Mr.
+McGonegal is a member of the board of directors of The Rockies Venture Club,
+Inc. and Colorado Venture Centers, Inc. He received a B.A. degree in accounting
+from Florida State University.
+
+Compliance with Section 16(a) of the Exchange Act
+-------------------------------------------------
+
+  Based solely on the Company's review of copies of Section 16(a) reports filed
+by officers, directors and greater than 10% shareholders with the Securities and
+Exchange Commission, which have been received by the Company and written
+representations from these persons that no other reports were required for those
+persons, the Company believes that all filing requirements applicable to those
+persons were complied with for the fiscal year ended September 30, 2001.
+
+<PAGE>
+
+                        ITEM 11. EXECUTIVE COMPENSATION
+
+  The following table sets forth certain information regarding compensation paid
+by the Company and its subsidiaries to the chief executive officer and each of
+the other executive officers of the Company (the "named executive officers")
+during the fiscal years ended September 30, 1999, 2000 and 2001.
+
+Summary Compensation Table
+--------------------------
+
+<TABLE>
+<CAPTION>
+                                                ANNUAL COMPENSATION                       AWARDS               PAYOUTS
+                                   --------------------------------------------- ------------------------  ----------------------
+                                                                      Other        Restricted                         All Other
+        Name and Principal                                            Annual         Stock      Options/     LTIP    Compensation
+             Position                Year     Salary      Bonus    Compensation      Awards      SAR's      Payouts
+-------------------------------------------------------------------------------- ------------------------  ----------------------
+<S>                                  <C>     <C>         <C>       <C>           <C>            <C>        <C>       <C>
+Greg Pusey (3)
+President, Chief Executive           1999    $      -    $     -    $         -        -              -        -       $       -
+Officer and Chairman of the          2000      94,769          -              -        -         12,500        -               -
+Board of Directors of ANI            2001      88,696     50,000                                 62,500        -               -
+
+David P. Bertrand (1)
+Former Vice Chairman of the Board    1999     318,269          -              -        -          6,250        -           6,744
+of Directors of ANI; President       2000     241,703          -              -        -         25,901        -           6,744
+Chief Executive Officer of NFLI      2001      96,769     75,000              -        -              -        -           2,810
+
+Jana Mitcham (1)
+Former Executive Vice President      1999     298,378          -              -        -          6,250        -           5,184
+and Secretary of NFLI                2000     242,143          -              -        -         25,901        -           5,184
+                                     2001      96,846          -              -        -              -        -           2,160
+
+Jeffrey McGonegal (3)
+Senior Vice President                1999           -          -              -        -              -        -               -
+of Finance of ANI                    2000      56,558          -              -        -         25,000        -               -
+                                     2001      99,712     30,000              -        -         75,000        -               -
+
+John R. Brown, Jr.
+Vice President Finance,              1999      96,067          -              -        -          2,500        -               -
+Assistant Secretary and              2000     109,899          -              -        -          5,500        -               -
+Treasurer of ANI                     2001     107,048          -              -        -          6,250        -               -
+
+David O. Rodrigue (2)
+Former Vice President and            1999     117,760          -              -        -          3,750        -               -
+Chief Financial Officer of           2000     120,295          -              -        -          8,750        -               -
+ANI and NFLI                         2001           -          -              -        -              -        -               -
+
+Pailla Reddy (3) (4)
+President, Chief Executive           1999           -          -              -        -              -        -               -
+Officer and Chairman of the          2000     218,750          -              -        -              -        -               -
+Board of Directors of                2001     221,795          -              -  103,000         75,000        -               -
+Bactolac
+
+Neil Sirkin (3)
+Vice President of ANIP               1999           -          -              -        -              -        -               -
+                                     2000     125,000          -              -        -              -        -               -
+                                     2001     138,470          -              -        -         30,000        -               -
+
+====================================================================================================================================
+</TABLE>
+
+____________
+
+(1)  As a result of the completion of the sale of NFLI to Everest Group
+     Holdings, Inc. Mr. Bertrand and Ms. Mitcham declined to stand for re-
+     election at the Company's 2001 annual meeting.
+
+<PAGE>
+
+(2)  Mr. Rodrigue resigned from the Company in September 2000.
+
+(3)  Messrs. Pusey, McGonegal, Reddy and Sirkin became officers during the first
+     quarter of the fiscal year ended September 30, 2000.
+
+(4)  The Company has obtained a life insurance policy on Dr. Reddy. The benefit
+     amount of $7,000,000 constitutes "key-man" insurance and is payable to the
+     Company.
+
+Employment Agreements
+---------------------
+
+In connection with the acquisition of Bactolac in 1999, the Company entered into
+a two year employment agreement with Dr. Pailla Reddy, the President of
+Bactolac. In November 2001 a new two year agreement was signed. Dr. Reddy
+currently receives an annual salary of $250,000 and may receive a performance
+bonus at the Company's discretion. He is also entitled to continued use of the
+vehicle that is leased by Bactolac.
+
+  In connection with the acquisition of Ash Corp. through Bactolac, Bactolac
+entered into three-year employment agreements with Neil S. Sirkin and his
+father, Allan I. Sirkin. Both individuals receive an annual salary of $150,000
+and may receive a performance bonus at the Company's discretion. During July
+2001, Allan I. Sirkin agreed to the termination of his employment agreement.
+
+Option Grants in Fiscal Year Ended September 30, 2001
+-----------------------------------------------------
+
+  The following table sets forth information with respect to stock option grants
+to the named executive officers during the fiscal year ended September 30, 2001.
+
+<TABLE>
+<CAPTION>
+                                                        Percent                                          Potential Realizable
+                                   Number of             Total                                                 Value at
+                                   Securities         options/SARs                                       Assumed Annual Rates
+                                   Underlying          granted to       Exercise or                       Stock Appreciation
+                                  Options/SARs         Employees         base price    Expiration           For Option Term
+                                                                                                   -------------------------------
+         Name                     granted (#)       in fiscal year        ($/Sh)          date            5%              10%
+-----------------------       ----------------------------------------------------------------------------------------------------
+<S>                           <C>                   <C>                 <C>            <C>         <C>                  <C>
+Greg Pusey                           62,500             13.3%              $1.16         4/26/11       $118,095         $188,046
+
+Jeffrey McGonegal                    50,000             10.6%              $1.16         4/26/11         94,476          150,437
+                                     25,000              5.3%              $2.25        11/16/05         47,238           75,219
+John R. Brown, Jr.                    6,250              1.3%              $1.16         4/26/11         11,809           18,805
+Pailla Reddy                         75,000             15.9%              $1.16         4/26/11        141,714          225,656
+Neil Sirkin                          30,000              6.4%              $1.26         8/20/11         56,686           90,262
+</TABLE>
+
+<PAGE>
+
+Options Exercises and Year-End Values
+-------------------------------------
+
+  The following table shows options exercises by the named executive officers
+during the fiscal year ended September 30, 2001 and the number and value of the
+unexercised options at September 30, 2001.
+
+<TABLE>
+<CAPTION>
+                                                                                                                   Value of
+                                                                                                                Unexercisable
+                                                                                          Number of              In-the-Money
+                                                Number of                            Unexercised Options          Options at
+                                            Shares Underlying          Value           At Year End (#)           Year End ($)
+                                                 Options             Realized           Exercisable/             Exercisable/
+                  Name                          Exercised               ($)             Unexercisable           Unexercisable (1)
+           --------------------            --------------------------------------------------------------------------------------
+           <S>                             <C>                       <C>             <C>                        <C>
+           Greg Pusey                               0                    0              4,167/70,833                  0/0
+
+           Jeffrey McGonegal                        0                    0              8,334/91,666                  0/0
+
+           John R. Brown, Jr.                       0                    0              6,001/10,749                  0/0
+           Pailla Reddy                             0                    0                  0/75,000                  0/0
+           Neil Sirkin                              0                    0                  0/30,000                  0/0
+</TABLE>
+
+__________________
+(1)  Based on the price of the Common Stock of $.95 on September 28, 2001 as
+     reported by The NASDAQ Stock Market.
+
+Compensation Committee Report
+-----------------------------
+
+  The Compensation Committee (the "Committee") of the Board of Directors has
+been established by the Board to periodically review the compensation philosophy
+for the Company's executives, and to recommend to the Board compensation
+packages for the Company's executives. The Committee also reviews and recommends
+to the Board any additions to or revisions of the Company's stock option plans.
+The Committee consists exclusively of non-employee directors, appointed by
+resolution of the entire Board.
+
+  The Committee's objective is to set executive compensation at levels which (i)
+are fair and reasonable to the shareholders, (ii) link executive compensation to
+long-term and short-term interest of the shareholders, and (iii) are sufficient
+to attract, motivate and retain outstanding individuals for executive positions.
+
+  Fairness to the shareholders is balanced with the need to attract, retain and
+motivate outstanding individuals by comparing the Company's executive
+compensation with the compensation of executives at other companies. The
+Committee's overall goal is to achieve strong performance by the Company and its
+executives by affording the executives the opportunity to be rewarded for strong
+performance. The Committee attempts to provide both short-term and long-term
+incentive pay. To accomplish its objectives, the Committee has structured the
+executive compensation program with three primary components. These primary
+components are base salary, annual incentives, and long-term incentives.
+
+  In late 1999, the Company finalized acquisitions of three companies. In
+connection with those acquisitions, the Company entered into employment
+agreements with the officers of those companies, Gregory Pusey, Barry Loder,
+Pailla Reddy, Neil Sirkin and Allan Sirkin, to continue serving as officers.
+
+  As a result of the Company's worsening financial condition, in September 2000,
+Mr. Bertrand, Ms. Mitcham, Mr. Pusey and Mr. Loder, as well as Jeff McGonegal,
+the Company's Senior Vice President of Finance, agreed to terminate their
+respective employment agreements or arrangements and to substantial reductions
+in their salaries.
+
+  The Committee periodically reviews executive salaries. In addition to the
+external competitive compensation market, base salary levels reflect each
+officer's performance over time and each individual's role in the Company.
+Consequently, employees with higher levels of sustained performance over time
+and/or employees assuming greater responsibilities will typically be paid
+correspondingly higher salaries. Individual performance criteria used to assess
+performance include leadership, professionalism, initiative and dependability.
+However, individual performance assessments are made qualitatively and in total,
+and no specific weightings are attached to these performance indicators, nor is
+a formula utilized in determining appropriate salary increases or salary levels.
+
+<PAGE>
+
+  The Committee periodically reviews the performance of executive officers to
+determine whether bonuses should be paid to those persons. The Committee has not
+established specific performance measures for determining the award of bonuses.
+The Committee believes that bonuses should be provided to reward key employees
+based on Company and individual performance and to provide competitive cash
+compensation opportunities to the Company's executives. During June 2001,
+following the closing of the sale of NFLI, bonuses of $75,000, $50,000 and
+$30,000 were paid to Messrs. Bertrand, Pusey and McGonegal, respectively. In
+September 2001, a bonus of 103,000 shares of the Company's Common Stock (valued
+at $97,850) was approved for Dr. Reddy, and the shares were issued subsequent to
+the fiscal year-end.
+
+  The Company's stock option plans are designed to focus executive efforts on
+long-term goals of the Company and to maximize total return to the Company's
+shareholders. The Committee believes that stock options advance the interests of
+employees and shareholders by providing value to the executives through stock
+price appreciation only. Options terminate if the employee's employment with the
+Company is terminated. All options awarded must have an exercise price of at
+least 100% of fair market value on the date of grant.
+
+  The exact number of shares actually granted to a particular participant
+reflects both the participant's performance and role in the Company, as well as
+the Company's financial success, and its future business plans. All of these
+factors are assessed subjectively and are not weighted. In determining each
+grant, the Committee also considers the number of stock options, which are
+outstanding, and the total number of options to be awarded.
+
+  In making grants during the fiscal year ended September 30, 2001, the
+Committee also considered the number of outstanding options previously granted
+to each officer. Due to the decline in the Company's stock price during the
+year, all of the options granted to executive officers of the Company in fiscal
+2001 were "out-of-the-money" at the fiscal year end of September 30, 2001. The
+Committee believes that its awards were consistent with the Company's
+compensation philosophy to increase the emphasis placed on long-term incentives
+and to be competitive in its total compensation program.
+
+  Under Section 162(m) of the Internal Revenue Code of 1986, as amended, public
+companies are precluded from receiving a tax deduction on compensation paid to
+executive officers in excess of $1,000,000, unless the compensation is excluded
+from the $1,000,000 limit as a result of being classified performance- based. At
+this time, the Company's executive officers cash compensation levels do not
+exceed the payment limit and will most likely not be affected by the regulations
+in the near future. Nonetheless, the Committee intends to review its executive
+pay plans over time in light of these regulations.
+
+                                    COMPENSATION COMMITTEE
+
+                                    F. Wayne Ballenger
+                                    M. F. Florence
+
+Compensation of Directors
+-------------------------
+
+  Effective in November 2001, the Company's policy is paying Directors who are
+not employees of the Company $12,000 per year. Prior to November 2001, Directors
+received $18,000 per year, $400 for each Board meeting attended, and $200 for
+each committee meeting attended. Directors who are also employees of the Company
+receive no additional compensation for serving as Directors. The Company
+reimburses its Directors for travel and out-of-pocket expenses in connection
+with their attendance at meetings of the Board of Directors.
+
+  During the fiscal year ended September 30, 2001, the Company granted options
+to purchase 12,500 shares of Common Stock at a price of $1.16 per share to F.
+Wayne Ballenger, 12,500 shares of Common Stock at a price of $1.16 per share to
+M.F. Florence, and 12,500 shares of Common Stock at a price of $1.26 per share
+to Randall D. Humphreys. The option grants were made pursuant to the Company's
+1995 Stock Option Plan, as amended. Each option will expire ten years from the
+date of grant, except that an option will expire, if not exercised, 30 days
+after the optionee ceases to be a consultant to the Company.
+
+Corporate Performance Graph
+----------------------------
+
+<PAGE>
+
+  The following graph compares the yearly cumulative return on the Company's
+Common Stock since September 30, 1996 with that of the Index for The NASDAQ
+Stock Market (U.S. Companies), Peer Group #1 (pre-NFLI sale) which includes the
+following companies: BeautiControl Cosmetics, Inc., Herbalife International,
+Inc., Nature's Sunshine Products, Inc and Reliv' International, Inc., and Peer
+Group #2 (post NFLI sale) which includes the following companies: Del
+Laboratories, Hi Tech, Natrol, Natural Alternatives, Inc., and Nutraceuticals,
+Inc.
+
+                         Total Return to Stockholders
+                     (Assumes $100 investment on 9/30/96)
+                                    [GRAPH]
+
+<TABLE>
+<CAPTION>
+-----------------------------------------------------------------------------------------------------------------------------
+              Total Return Analysis
+                                                 09/30/1996    09/30/1997   09/30/1998   09/30/1999   09/30/2000   09/30/2001
+-----------------------------------------------------------------------------------------------------------------------------
+<S>                                             <C>           <C>          <C>          <C>          <C>          <C>
+       Advanced Nutraceuticals, Inc.            $    100.00   $     54.72  $     20.72  $     16.84  $      5.61  $      1.64
+-----------------------------------------------------------------------------------------------------------------------------
+                      Peer Group #1             $    100.00   $     97.52  $     52.79  $     72.05  $     62.27  $     81.18
+-----------------------------------------------------------------------------------------------------------------------------
+                      Peer Group #2             $    100.00   $    164.12  $    103.98  $     78.28  $     57.18  $     78.37
+-----------------------------------------------------------------------------------------------------------------------------
+               Nasdaq Composite (US)            $    100.00   $    137.38  $    138.04  $    224.52  $    300.83  $    122.76
+-----------------------------------------------------------------------------------------------------------------------------
+           Source: Carl Thompson Associates www.ctaonline.com (800) 959-9677. Data from BRIDGE Information Systems, Inc.
+</TABLE>
+
+    ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+<PAGE>
+
+  The following table sets forth, as of December 26, 2001, the ownership of the
+Company's Common Stock held by: (i) each person who owns of record or who is
+known by the Company to own beneficially more than 5% of such stock, (ii) each
+of the directors of the Company, (iii) each of the current executive officers of
+the Company and (iv) all of the Company's directors and executive officers as a
+group. The number of shares and the percentage of the class beneficially owned
+by the persons named in the table and by all directors and executive officers as
+a group, includes, in addition to shares actually issued and outstanding,
+unissued shares which are subject to issuance upon exercise of options or
+warrants.
+
+                                   Number of Shares           Percentage of
+            Beneficial Owner            Owned                   Ownership
+            ----------------            -----                   ---------
+
+     Apotex Foundation                   162,500 (1)                 6.8%
+     150 Signet Dr.
+     Weston, Ontario, Canada
+     9M9 1T9
+
+     Bernard Sherman                     303,848 (1)                12.7%
+     150 Signet Dr.
+     Weston, Ontario, Canada
+     9M9 1T9
+
+     Shermfin Inc.                       141,348 (1)                 5.9%
+     150 Signet Dr.
+     Weston, Ontario, Canada
+     9M9 1T9
+
+     M.F. Florence                       163,262 (1)(2)              6.9%
+     150 Signet Dr.
+     Weston, Ontario, Canada
+     9M9 1T9
+
+     F. Wayne Ballenger                   22,500 (3)                 0.9%
+     3134 Meadway Drive
+     Houston, TX 77082
+
+     Gregory Pusey                       289,083 (4)                12.1%
+     106 S. University, # 14
+     Denver, CO 80209
+
+     Pailla M. Reddy                     464,100 (5)                19.5%
+     25507 Williston Avenue
+     Floral Park, NY 11001
+
+     Neil Sirkin                          60,810 (6)                 2.6%
+     3600 25th Avenue
+     Gulfport, MS 39501
+
+     John R. Brown, Jr.                   17,550 (7)                 0.7%
+     2534 Pomeran
+     Houston, TX 77080
+
+     Jeffrey G. McGonegal                127,363 (8)                 5.3%
+     1905 West Valley Vista Drive
+     Castle Rock, CO 80104
+
+     Randall D. Humphreys                 12,500 (9)                 0.5%
+
+<PAGE>
+
+        9150 Glenwood
+        Overland Park, Kansas 66212
+
+
+        All Officers and Directors as       1,157,168                    48.5%
+        a Group (8 persons)
+
+_______________________________
+
+(1)   Mr. Sherman may be deemed a beneficial owner of the shares held by the
+Apotex Foundation due to his affiliations with the Apotex Foundation. Messrs.
+Sherman and Florence may be deemed beneficial owners of the shares held by
+Shermfin Inc. due to their affiliations with Shermfin Inc.
+
+(2)   Includes options to acquire (i) 1,250 shares of Common Stock at $49.50 per
+share, (ii) 1,250 shares of Common Stock at $28.00 per share, (iii) 1,250 shares
+of Common Stock at $9.52 per share (iv) 1,915 shares of Common Stock at $8.50
+per share of which options to acquire 638 shares become exercisable in October
+2002, (v) 3,750 shares at $11.36 per share of which options to acquire 1,250
+shares become exercisable in December 2002, and (vi) 12,500 shares at $1.16 per
+share which become exercisable in one-third annual installments commencing in
+April 2002.
+
+(3)   Includes options to acquire (i) 1,250 shares of Common Stock at $49.50 per
+share; (ii) 1,250 shares of Common Stock at $28.00 per share, (iii) 1,250 shares
+of Common Stock at $11.00 per share and (iv) 6,250 shares of Common Stock at
+$11.36 per share of which options to acquire 2,083 shares become exercisable in
+December 2002 and (v) 12,500 shares of Common Stock at $1.16 per share which
+become exercisable in one-third annual installments commencing in April 2002.
+
+(4)   Includes 18,828 shares held by his wife, individually and as custodian for
+their minor children, 96,313 shares held by a corporation in which he is a
+principal shareholder and warrants to purchase 3,750 shares of Common Stock at
+$15.00 per share. Includes options to acquire (i) 12,500 shares of Common Stock
+at $11.36 per share of which options to acquire 4,166 shares become exercisable
+in December 2002 and (ii) 62,500 shares of Common Stock at $1.16 per share which
+become exercisable in one-third annual installments commencing in April 2002.
+
+(5)   Includes options to acquire 75,000 shares of common Stock at $1.16 per
+share, which become exercisable in one-third annual installments commencing in
+April 2002. Does not include any shares that may be earned pursuant to earnout
+agreements. See Item 13.
+
+(6)   Includes options to acquire 30,000 shares of Common Stock at $1.26 per
+share, which become exercisable in one-third annual installments commencing in
+August 2002. Does not include any shares, which may be earned pursuant to
+earnout agreements. See Item 13.
+
+(7)   Includes options to acquire (i) 2,500 shares of Common Stock at $46.00 per
+share and (ii) 2,500 shares of Common Stock at $11.88 per share of which options
+to acquire 833 shares become exercisable in December 2001, (iii) 5,500 shares at
+$11.36 per share of which options to acquire 1,833 shares become exercisable in
+each of December 2001 and 2002, and (iv) 6,250 shares at $1.16 per share which
+become exercisable in one-third annual installments commencing in April 2002.
+
+(8)   Includes 2,663 shares held in the name of McGonegal Family Partnership and
+options to acquire (i) 25,000 shares of Common Stock at $9.00 per share of which
+options to acquire 8,333 shares becomes exercisable in each of February 2002 and
+2003 (ii) 25,000 shares at $2.25 per share which become exercisable in one-third
+annual installments commencing in November 2001 and (iii) 50,000 shares of
+Common Stock at $1.16 per share which become exercisable in one-third annual
+installments commencing in April 2002.
+
+(9)   Includes options to acquire 12,500 shares of common Stock at $1.26 per
+share, which become exercisable in one-third annual installments commencing in
+August 2002.
+
+            ITEM 13. CERTAIN RELATIONSHPS AND RELATED TRANSACTIONS
+
+<PAGE>
+
+  In March 1995, the Company entered into an agreement with Shermfin Corp.
+regarding conversion to Common Stock of debt owed by the Company to Shermfin
+Corp. The Company and Shermfin Corp. also agreed that, for so long as Shermfin
+Corp. owns 10% or more of the outstanding Common Stock of the Company, Shermfin
+Corp. will be entitled to designate one person to serve as a member of the
+Company's Board of Directors. Shermfin Corp. designated M.F. Florence to serve
+on the Board.
+
+  Bactolac, headquartered in Hauppauge, New York, conducts its operations in a
+facility leased from its President, Pailla M. Reddy, comprising approximately
+25,000 square feet. Bactolac's current monthly rental is approximately $26,000,
+of which $6,000 pertains to improvement made by an entity owned by Dr. Reddy,
+that escalates over the 5 year term remaining on the lease. Bactolac has two
+five-year renewal options and a purchase option on the facility.
+
+During July 2001, the Company negotiated a settlement of the $500,000 purchase
+notes and accrued interest payable to Allan I. Sirkin and Neil Sirkin issued in
+connection with the Company's acquisition of ASHCO. The balance then outstanding
+including interest, totaled $556,191, which was settled in full with a payment
+of $435,000, resulting in a gain of $121,191. Allan I. Sirkin also agreed at
+that time to void the remainder of his employment contract and retire from the
+Company.
+
+In September 2001 the Company entered into an agreement to acquire certain
+assets of York Pharmaceuticals, Inc. ("York"), including equipment and customer
+list. Although the agreement has expired, the Company is continuing its efforts
+to conclude the transaction. Randall D. Humphreys, a Director of the Company,
+controls York.
+
+During September 2001, the Board of Directors of the Company approved a bonus of
+103,000 shares of Common Stock, payable to Dr. Reddy, for his achievements. The
+shares were issued subsequent to year-end.
+
+During November 2001, an agreement was entered into with Dr. P. M. Reddy, to
+extend the second $1,000,000 principal and interest payment otherwise due on
+November 17, 2001, resulting from the November 1999, purchase of Bactolac, for
+one year. As part of the agreement, the Company agreed to a conversion option on
+the deferred principal and interest to allow the holder to convert such amounts
+into shares of the Company's Common Stock at the rate of $1.00 per share, during
+the extension period. The Company intends to seek shareholder approval of the
+conversion option.
+
+During November 2001, Bactolac and Dr. Reddy entered into a new two-year
+employment agreement. In addition to a base annual salary of $250,000, and
+performance bonus features, the agreement contains customary confidentiality and
+benefit provisions.
+
+During January 2002, the Company borrowed $250,000 from Cambridge Holdings, Ltd.
+The 7% note matures in one year, is convertible at the option of the holder into
+shares of ANI Common Stock at $1.00 per share. The Company also issued a warrant
+to allow Cambridge to acquire 50,000 shares of ANI Common Stock at $1.00 per
+share, through June 2004. Greg Pusey and Jeff McGonegal, officers of the
+Company, are also officers and directors of Cambridge. These transactions were
+approved by a disinterested majority of the Company's Board and the Board
+believes that the terms are at least as favorable as could have been obtained
+from an unaffiliated party.
+
+
+</TEXT>
+</DOCUMENT>

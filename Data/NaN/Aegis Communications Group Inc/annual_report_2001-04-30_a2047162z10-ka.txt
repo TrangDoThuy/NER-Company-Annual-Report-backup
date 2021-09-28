@@ -1,0 +1,1115 @@
+<DOCUMENT>
+<TYPE>10-K/A
+<SEQUENCE>1
+<FILENAME>a2047162z10-ka.txt
+<DESCRIPTION>10-K/A
+<TEXT>
+
+<PAGE>
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             WASHINGTON, D.C. 20549
+
+                            ------------------------
+
+                                  FORM 10-K/A
+                                AMENDMENT NO. 1
+
+FOR ANNUAL AND TRANSITION REPORTS PURSUANT TO SECTION 13 OR 15(D) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+(Mark One)
+
+<TABLE>
+<C>        <S>
+   /X/     Annual report pursuant to Section 13 or 15(d) of the
+           Securities Exchange Act of 1934 for the fiscal year ended
+           DECEMBER 31, 2000.
+</TABLE>
+
+                                       OR
+
+<TABLE>
+<C>        <S>
+   / /     Transition report pursuant to Section 13 or 15(d) of the
+           Securities Exchange Act of 1934 for the transition period
+           from to
+</TABLE>
+
+                        Commission file number: 0-14315
+
+                            ------------------------
+
+                        AEGIS COMMUNICATIONS GROUP, INC.
+
+             (Exact name of registrant as specified in its charter)
+
+<TABLE>
+<S>                             <C>
+        DELAWARE                           75-2050538
+(State of Incorporation)        (IRS Employer Identification No.)
+</TABLE>
+
+             7880 BENT BRANCH DRIVE, SUITE 150, IRVING, TEXAS 75063
+               (Address of principal executive offices, Zip Code)
+
+    Registrant's telephone number, including area code: (972) 830-1800
+
+    Securities registered pursuant to Section 12(b) of the Act: None
+
+    Securities registered pursuant to Section 12(g) of the Act: COMMON STOCK,
+$.01 PAR VALUE
+
+    Indicate by check mark whether the Registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months, and (2) has been subject to such filing
+requirements for the past 90 days.  Yes /X/  No / /
+
+    Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of Registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K.  / /
+
+    The aggregate market value of the Company's Common Stock held by
+non-affiliates of the Registrant as of April 26, 2001 was approximately
+$21.0 million.
+
+    As of April 26, 2001, 52,116,134 shares of Common Stock were outstanding.
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+<PAGE>
+REASON FOR AMENDMENT
+
+    Items previously incorporated by reference in Part III of this report to the
+Registrant's Proxy Statement for the 2001 Annual Meeting of Stockholders, are
+now disclosed in Part III of this report.
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE COMPANY
+
+    The following table sets forth the names and ages of all directors and
+executive officers of the Company as of April 18, 2001, as well as all positions
+and offices held by each person and his term in each position or office.
+
+<TABLE>
+<CAPTION>
+NAME                                 AGE      POSITION WITH THE COMPANY OR SUBSIDIARY      SINCE
+----                               --------   ---------------------------------------  --------------
+<S>                                <C>        <C>                                      <C>
+John R. Birk                          49      Chairman of the Board                       May 1999
+
+Hugh E. Sawyer                        47      President and Chief Executive Officer      April 2000
+                                              and Director
+                                                                                          May 2000
+
+Michael J. Graham                     40      Executive Vice President and Chief          May 2000
+                                              Financial Officer
+
+Richard Interdonato                   52      Executive Vice President and Chief         March 1999
+                                              Operating Officer
+
+Donald L. Jones                       52      Executive Vice President--Client           March 2000
+                                              Development
+
+Thomas P. Franklin                    52      Executive Vice President--               November 2000
+                                              Administration
+
+Herman M. Schwarz                     38      President--Elrick and Lavidge Marketing  November 2000
+                                              Research Division
+
+Dean Anderson                         35      Director                                 December 1999
+
+Stanton D. Anderson                   60      Director                                   March 2001
+
+Edward Blank                          65      Director                                   July 1998
+
+Henry L. Druker                       47      Director                                 December 1999
+
+Peter D. Fitzsimmons                  44      Director                                 December 1999
+
+Frederic V. Malek                     64      Director                                   July 1998
+
+Kevin J. Prokop                       33      Director                                 December 1999
+
+Paul G. Stern                         62      Director                                   July 1998
+
+David M. Wathen                       48      Director                                    May 2000
+
+Josh S. Weston                        72      Director                                 December 2000
+</TABLE>
+
+    JOHN R. BIRK was elected as Chairman of the Board of the Company in
+May 1999. Since February 1996, Mr. Birk has been an operating executive with
+Evercore Partners, Inc., which, in addition to making private equity
+investments, provides merger, acquisition and strategic restructuring advice to
+Fortune 500 companies. From 1995 to February 1996, Mr. Birk served as President
+of Ideon Group, Inc. following Ideon's acquisition of Wright Express Corp.,
+where he was President, CEO and a
+
+                                       2
+<PAGE>
+director from 1992 through 1995. From 1988 to 1992, Mr. Birk was President, COO
+and a director of ADVO, Inc., a publicly-traded direct mail and marketing
+services company. Prior to that, he served in a variety of senior executive
+positions with Sprint, Inc. including Group President--Western Group,
+President--US Sprint Northeast Division, and President of US Telecom
+Communications Services Co. Mr. Birk also has held executive and management
+positions with MCI, the Pepsi Cola Company and Procter & Gamble. Mr. Birk is a
+past Chairman of National Leisure Group, Inc. and Wright Express Corp. He
+currently serves on the boards of Specialty Products & Insulation Co., and T. O.
+Richardson Mutual Funds.
+
+    HUGH E. SAWYER was named President and Chief Executive Officer of the
+Company on April 17, 2000 and was elected to the Board of Directors in
+May 2000. Most recently Mr. Sawyer served as President of Allied Automotive
+Group, Inc., a subsidiary of Allied Holdings, Inc. From 1996 to 1999 he served
+as President and Chief Executive Officer of National Linen Service, a subsidiary
+of National Service Industries, Inc. From 1995 to 1996, he was President of the
+Cunningham Group. From 1988 to 1995, Mr. Sawyer served as President and Chief
+Operating Officer of Wells Fargo Armored Services Corp., a subsidiary of Borg
+Warner.
+
+    MICHAEL J. GRAHAM joined Aegis as Executive Vice President and Chief
+Financial Officer in May of 2000. From 1997 to May 2000, Mr. Graham served as
+Vice President and Chief Financial Officer of Club Sports International. From
+1996 to 1997, he was Vice President and Chief Financial Officer for Sunbeam
+Outdoor Products, a division of Sunbeam Corporation. Prior to joining the
+Sunbeam Corporation, Mr. Graham served in several senior finance positions with
+Quaker Oats Company from 1989 to 1996.
+
+    RICHARD INTERDONATO was named Executive Vice President and Chief Operating
+Officer in March of 1999. From 1996 through 1998, Mr. Interdonato was Principal
+of RMI Associates, Inc., which provided management consulting services,
+including strategic planning, product development and the expansion of business
+opportunities, to companies including American Express, Fidelity Investments and
+Credentials International. From 1994 through 1996, Mr. Interdonato was Executive
+Vice President of Operations for Safecard Services, Inc. From 1973 through 1992,
+he held a variety of positions of increasing responsibility with American
+Express Company, including a position in which he lead the development of
+systems and operational structure to support the launch of the Optima Card in
+the U.S., as well as the Gold Card in Tokyo, Japan.
+
+    DONALD L. JONES was named Executive Vice President--Client Development in
+March of 2000. From 1996 to 2000, Mr. Jones served as Vice President for Cap
+Gemini America, Inc., a provider of information technology and management
+consulting services. From 1994 to 1996, Mr. Jones served as Vice President of
+Business Development for Transaction Strategies, Inc. From 1979 to 1994,
+Mr. Jones served in a variety of management roles with Digital Equipment
+Corporation, including U.S. Sales Manager for Small and Mid-Sized Enterprises
+and Director of Sales for the Americas' Components Products Group.
+
+    THOMAS P. FRANKLIN was named Executive Vice President--Administration in
+November of 2000. From 1996 to 2000, Mr. Franklin served as Vice
+President--Employee Relations/Labor & Employment Counsel with National Linen
+Service. From 1994 to 1996, Mr. Franklin was Associate General Counsel, Human
+Resources for Central Health Services, Inc. Prior to this role, Mr. Franklin
+held senior human resources and counsel positions with Wells Fargo Armored
+Service Corp., Russell Stover Candies, and Shughart, Thomson & Kilroy P.C.
+
+    HERMAN M. SCHWARZ was named President of our Elrick and Lavidge Marketing
+Research Division in November 2000. From 1992 to 2000, Mr. Schwarz held several
+senior management positions with National Service Industries, including
+President of Selig Industries, a $32 million specialty chemical company, and
+Senior Vice President responsible for sales and marketing for National Linen
+Service.
+
+                                       3
+<PAGE>
+Mr. Schwarz also served as Vice President--Healthcare and Vice
+President--Strategic Planning while with National Service Industries.
+
+    DEAN ANDERSON has been a Managing Director of Questor Management Company,
+LLC ("Questor Management") since January 2001. Questor Management manages
+Questor Partners Fund II, L.P., Questor Side-by-Side Partners II, L.P. and
+Questor Side-by-Side Partners II 3(c)(1), L.P. (collectively the "Questor
+Funds"), which hold all of the Company's outstanding shares of Series F
+Convertible Preferred Stock. From January 1998 through December 2000,
+Mr. Anderson served as a Vice President of Questor Management and was an
+Associate of Questor Management from December 1995 to December 1997.
+
+    STANTON D. ANDERSON is a partner in the Federal Regulatory Group in
+McDermott, Will, & Emery's Washington D.C. office, and has been with the firm
+since February 1995. Mr. Anderson represents a number of international clients
+as well as a number of start-up, high-tech Internet companies for the firm. He
+is also Chairman of the board of directors of Global USA, Inc, a member of the
+board of directors of CB Richard Ellis, Inc. and of The Center for International
+Private Enterprise, legal counsel to Jobs for America's Graduates, and serves as
+a member of the Board of Advisors of Westmont College.
+
+    EDWARD BLANK, former Vice Chairman and founder of IQI, Inc. is one of the
+pioneers of the telemarketing industry. He founded IQI's predecessor company in
+1968, and, under his direction, IQI grew to be one of the largest telemarketers
+in the U.S. Prior to establishing IQI, Mr. Blank was associated with Litton
+Industries, Benton & Bowles Advertising and NBC in senior marketing research
+capacities.
+
+    HENRY L. DRUKER has been a Principal of Questor Management since
+January 1999. Mr. Druker was a Managing Director of Questor Management from 1995
+to January 1999. Prior to joining Questor Management, Mr. Druker was a Principal
+with Jay Alix & Associates, a turnaround and crisis management firm, from 1992
+to 1995. Previously, he held positions as an Associate in corporate finance at
+Goldman, Sachs & Co., a Managing Director and head of the leveraged buyout group
+at L.F. Rothschild, Inc. and a Partner in the New York office of Toronto-based
+merchant bank Gordon Capital.
+
+    PETER D. FITZSIMMONS has been a Principal of Jay Alix & Associates since
+November 1997. Prior to joining Jay Alix & Associates as a Senior Associate in
+November 1995, Mr. Fitzsimmons was a Senior Manager with Ernst & Young, LLP's
+Restructuring Consulting Group from August 1990 through October 1995.
+
+    FREDERIC V. MALEK has been a Director since July 1998. Mr. Malek founded
+Thayer Capital Partners in 1991 and co-founded Thayer Equity Investors III, L.P.
+("Thayer Equity") in 1995. From 1989 to 1991, Mr. Malek was President and then
+Vice-Chairman of Northwest Airlines. Prior to that time, Mr. Malek served as
+President of Marriott Hotels and Resorts from 1980 to 1988. Mr. Malek currently
+serves as a director of American Management Systems, Inc., Automatic Data
+Processing Corp., CB Richard Ellis Services, Inc., FPL Group, Inc., Global
+Vacation Group, Inc., HCR Manor Care, Inc., Northwest Airlines Corp., and
+various PaineWebber mutual funds.
+
+    KEVIN J. PROKOP has been a Vice President of Questor Management since
+January 2001. He served as an Associate of Questor Management between
+January 1999 and December 2000. Prior to joining Questor Management, Mr. Prokop
+was an Associate with Jay Alix & Associates from December 1997 through
+December 1998. From August 1995 to December 1997, he was an Associate and
+Engagement Manager at McKinsey & Company. Previously he was an Associate at
+Kleinwort Benson, Ltd. and First Chicago-NBD Capital Markets, where he worked on
+buyouts and middle market mergers and acquisitions.
+
+                                       4
+<PAGE>
+    PAUL G. STERN has been a Director of the Company since July 1998 and served
+as Co-Chairman of our Board of Directors from that time through May 1999.
+Dr. Stern is a founding partner of Arlington Capital Partners, which was
+established in 1999, and he co-founded Thayer Equity in 1995. Prior to that,
+Dr. Stern was a Special Limited Partner at Forstmann Little & Co. From 1989
+until 1993, Dr. Stern served as the Chairman and CEO of Northern Telecom Ltd.
+Prior to that time, Dr. Stern served as President and Chief Operating Officer of
+Burroughs (later Unisys) Corporation, Corporate Vice President and later
+President of Commercial Electronics Operations at Rockwell International
+Corporation and Chairman and Chief Executive Officer of Braun AG in Germany.
+Dr. Stern serves on the Boards of Dow Chemical Company and Whirlpool
+Corporation.
+
+    DAVID M. WATHEN has been a Principal of Questor Management since
+January 2000. Prior to joining Questor Management, from October 1997 through
+December 1999, Mr. Wathen served as Senior Vice President and Group Executive of
+Eaton Corporation, where he had primary responsibility for Eaton's electrical
+business, comprised of Cutler-Hammer and the former Westinghouse electrical
+business. From April 1996 through October 1997, Mr. Wathen was President of
+AlliedSignal's Friction Materials Division, and from January 1992 through
+April 1996, Mr. Wathen was president of several divisions of Emerson Electric.
+Mr. Wathen began his career at General Electric in 1978 and left GE to join
+Emerson Electric in 1990.
+
+    JOSH S. WESTON retired as active Chairman of the Board for Automatic Data
+Processing, Inc. (ADP) and was named Honorary Chairman in 1998. In addition to
+his previous role as Chairman, Mr. Weston held various positions with ADP
+including Chief Operating Officer from 1977 to 1982 and Chief Executive Officer
+from 1982 to 1996. Mr. Weston serves on the Boards of Directors of ADP, Russ
+Berrie & Co., Inc., Gentiva Health Services and J. Crew and is also active on
+other pro bono and advisory boards.
+
+    Each director serves until the next annual meeting of the Company's
+shareholders and until the director's successor is duly elected. Officers serve
+at the discretion of the Board of Directors. There is no family relationship
+among any of the above named officers and directors of the Company.
+
+STOCKHOLDERS AGREEMENT
+
+    In the Questor transaction, the Questor Investors and a group of related
+investment funds we refer to as the Thayer Investors signed a Stockholder's
+Agreement. The Stockholders Agreement provides that the Thayer Investors and the
+Questor Investors must satisfy a "right of first offer" to the other prior to a
+transfer of its shares to a third party. The Stockholders Agreement also
+provides that the Questor Investors and the Thayer Investors will provide each
+other with certain "tag-along" rights in the event of a sale or transfer of
+shares to a third party. The Thayer Investors and the Questor Investors are
+required to use their best efforts to vote all of their shares to elect and
+continue in office twelve directors, six of whom are nominated by the Questor
+Investors and six of whom are nominated by Thayer.
+
+    The Questor Investors have agreed that they will use their best efforts to
+cause their Board designees to abstain from voting on any Board action in
+connection with the optional redemption of the Preferred F Shares. Further, the
+Thayer Investors have agreed that they will use their best efforts to cause
+their Board designees to abstain from voting on any Board action in connection
+with the repayment of the Promissory Note by and among IQI, Blank and the Blank
+Trust dated April 16, 1998, in the original aggregate principal amount of
+$1.0 million, and the Promissory Note by and between IQI and Thayer Equity dated
+April 16, 1998, in the original principal amount of $2.0 million, or the
+redemption or repurchase of any or all of either the Series D Preferred Stock or
+the Series E Preferred Stock. Additionally, each committee of the Board will be
+constituted so that the number of Questor Designees (as defined in the
+Stockholders Agreement) and Thayer Stockholder Designees (as defined
+
+                                       5
+<PAGE>
+in the Stockholders' Agreement) on any such committee is as nearly as possible
+in the same proportion as the number of Questor Designees and Thayer Stockholder
+Designees on the entire Board.
+
+    The Stockholders Agreement and the Bylaws also provide that certain major
+decisions will require the affirmative vote of not less than three-fourths of
+the directors of the Board. Those decisions consist of the following:
+
+    1.  Issuing shares, including any indebtedness convertible into shares, or
+       any other form of equity in the Company or any subsidiary of the Company
+       other than a) granting options to directors or employees of the Company
+       pursuant to any incentive or other benefit plan adopted by the Board,
+       b) issuing shares of Common Stock pursuant to the exercise of such
+       options and c) issuing shares of Common Stock or any security, including
+       any debt convertible into shares of Common Stock, or any other form of
+       equity in the Company, in one or more offerings, where the aggregate
+       purchase price for all such issuances does not exceed $500,000.
+
+    2.  Adoption of any stock-based employee benefit plan by the Company.
+
+    3.  Incurring debt or entering into guarantees for borrowed money (excluding
+       trade payables) in excess of $2,500,000 in a 12-month period, subject to
+       certain exceptions.
+
+    4.  Selling, leasing, pledging or granting a security interest or
+       encumbrance in all or substantially all of the Company's or any
+       subsidiary of the Company's assets, except in connection with the
+       incurrence of indebtedness for borrowed money that does not involve a
+       major decision under 3 above.
+
+    5.  Acquiring (whether through an asset purchase, merger, equity purchase or
+       otherwise) any assets (excluding acquisitions of raw materials and
+       supplies in the ordinary course of business) having a value, individually
+       or in the aggregate for any series of related transactions, in excess of
+       $2,000,000.
+
+    6.  Selling or otherwise disposing of any assets (excluding sales or other
+       dispositions of inventory in the ordinary course of business) having a
+       value, individually or in the aggregate for any series of related
+       transactions, in excess of $2,000,000.
+
+    7.  Amending the By-laws or the Certificate of Incorporation of the Company.
+
+    8.  Any Change of Control Transaction (as defined in the Stockholders
+       Agreement).
+
+    9.  Executing or delivering any assignment for the benefit of creditors of
+       the Company
+
+    10. Filing any voluntary petition in bankruptcy or receivership with respect
+       to the Company.
+
+    11. Taking any action while there is a vacancy on the Board, including
+       without limitation the filling of such vacancy.
+
+COMPLIANCE WITH SEC REPORTING REQUIREMENTS
+
+    Under the securities laws of the United States, our directors, executive
+officers, and any persons holding more than 10% of our outstanding Common Stock
+(collectively, "insiders") are required to report their initial ownership of the
+Company's Common Stock and any subsequent changes in their ownership to the
+Securities and Exchange Commission ("SEC" or the "Commission"). The SEC's rules
+require insiders to provide us with copies of all Section 16(a) reports that the
+insiders file with the Commission. Specific due dates have been established by
+the SEC, and we are required to disclose in this proxy statement any failure to
+file by those dates. Based solely upon our review of copies of Section 16(a)
+reports that we received from insiders for their 2000 transactions, we believe
+that our insiders have complied with all Section 16(a) filing requirements
+applicable to them during 2000.
+
+                                       6
+<PAGE>
+ITEM 11. EXECUTIVE COMPENSATION
+
+  SUMMARY COMPENSATION TABLE
+
+    This table provides individual compensation information for the last three
+fiscal years on persons serving as Chief Executive Officer of the Company, and
+the four other most highly compensated executive officers of the Company during
+the fiscal year ended December 31, 2000. Bonus amounts are the dollar value of
+bonus earned (but not necessarily paid) in the year covered.
+
+                                       7
+<PAGE>
+                           SUMMARY COMPENSATION TABLE
+
+<TABLE>
+<CAPTION>
+                                                                                   LONG-TERM
+                                                                                    COMPEN-
+                                                                                     SATION
+                                               ANNUAL COMPENSATION                   AWARDS
+                                  ----------------------------------------------   ----------
+                                                                         OTHER     LONG-TERM      ALL
+                                                                        ANNUAL     SECURITIES    OTHER
+                                   FISCAL                               COMPEN-    UNDERLYING   COMPEN-
+NAME AND PRINCIPAL POSITION         YEAR      SALARY $     BONUS $     SATION $     OPTIONS     SATION $
+---------------------------       --------   ----------   ----------   ---------   ----------   --------
+<S>                               <C>        <C>          <C>          <C>         <C>          <C>
+STEPHEN A. McNEELY .............    2000        350,000      100,000      12,000(1)              14,513
+  Former Chief Executive            1999        350,000      225,000      26,119(1)              15,236
+  Officer and President             1998        325,000
+
+HUGH E. SAWYER .................    2000        264,600(3)    750,000(4)                             --
+  Chief Executive Officer           1999             --                                              --
+  and President                     1998             --                                              --
+
+RICHARD INTERDONATO ............    2000        268,558      275,000      85,000(6)                  --
+  Executive Vice President and      1999        233,951(5)    125,000                                --
+  Chief Operating Officer           1998             --           --                                 --
+
+MICHAEL J. GRAHAM ..............    2000        142,789(7)    273,750(8)    87,391(9)                --
+  Executive Vice President and      1999             --           --                                 --
+  Chief Financial Officer           1998             --           --                                 --
+
+THOMAS J. FLYNN ................    2000        200,962(10)     50,000    25,000(12)                 --
+  Former President of               1999        190,000       47,500                                 --
+  Elrick & Lavidge                  1998         36,538(11)         --                               --
+  Marketing Research Division
+
+DONALD L. JONES ................    2000        177,404(13)    205,630(14)                           --
+  Executive Vice President          1999             --           --                                 --
+  Client Development                1998             --           --                                 --
+</TABLE>
+
+------------------------
+
+(1) Includes a $12,000 car allowance in 1999, and a $15,246 car allowance and
+    $10,873 in relocation costs in 1998 paid by Aegis on Mr. McNeely's behalf.
+    Mr. McNeely resigned from Aegis effective April 17, 2000.
+
+(2) Includes $14,513 in 1999 and $15,236 in 1998 paid for additional life
+    insurance and long-term disability coverage and other perquisites paid to or
+    on behalf of Mr. McNeely.
+
+(3) The amount indicated is the salary paid to Mr. Sawyer from the commencement
+    of his employment with Aegis, on April 17, 2000 through December 31, 2000.
+
+(4) Includes $250,000 sign-on bonus, a $375,000 incentive bonus earned in 2000,
+    and paid in March 2001, and a $125,000 discretionary bonus earned in 2000,
+    and paid in March 2001.
+
+(5) The amount indicated is the salary paid to Mr. Interdonato from the
+    commencement of his employment with Aegis, on March 9, 1999, through
+    December 31, 1999.
+
+(6) Includes $85,000 in relocation costs paid by Aegis on Mr. Interdonato's
+    behalf.
+
+(7) Mr. Graham joined Aegis as Executive Vice President and Chief Financial
+    Officer on May 8, 2000. The amount indicated is the salary paid to
+    Mr. Graham from the commencement of his employment with Aegis through
+    December 31, 2000.
+
+                                       8
+<PAGE>
+(8) Includes $5,000 sign-on bonus, a $168,750 incentive bonus earned in 2000,
+    and paid in March 2001, and a $100,000 discretionary bonus earned in 2000,
+    and paid in March 2001.
+
+(9) Includes $87,391 in relocation costs paid by Aegis on Mr. Graham's behalf.
+
+(10) Mr. Flynn executed a separation agreement with the Company on February 26,
+    2001, to be effective April 1, 2001.
+
+(11) The amount indicated is the salary paid to Mr. Flynn from the commencement
+    of his employment with Aegis, on October 21, 1998, through December 31,
+    1998.
+
+(12) Includes $25,000 in relocation costs paid by Aegis on Mr. Flynn's behalf.
+
+(13) The amount indicated is the salary paid to Mr. Jones from the commencement
+    of his employment with Aegis, on March 13, 2000, through December 31, 2000.
+
+(14) Includes $65,000 paid as a sign-on bonus and a $140,630 incentive bonus
+    earned in 2000, and paid in March 2001.
+
+STOCK OPTION PLANS
+
+    On July 9, 1998 we completed the acquisition of IQI, Inc., a New York
+corporation ("IQI").
+
+    In November 1996, IQI established its 1996 Incentive Stock Option Plan. The
+IQI Plan provided for the award of incentive stock options to directors,
+officers, key employees and members of Thayer's Advisory Board. The IQI Plan was
+administered by a compensation committee, as established by IQI's board of
+directors. IQI reserved 3,929,774 shares of common stock for issuance under the
+IQI Plan. The IQI Plan remains in place, although Aegis common shares are
+substituted for IQI shares upon exercise of options.
+
+    Prior to the merger with IQI, our shareholders approved two stock option
+plans, which provided for the granting of options to purchase up to 5,000,000
+shares of our common stock to key employees, officers and directors. When we
+completed the merger with IQI, options to purchase 4,447,000 shares of Common
+Stock granted pursuant to these two plans were outstanding.
+
+    In September 1998, we adopted the Aegis Communications Group, Inc. 1998
+Stock Option and Restricted Stock Plan, which allows us to grant options to
+purchase up to a maximum of 9,000,000 shares of Common Stock to key employees,
+officers and directors. These options are generally exercisable for 10 years
+from the date of the grant, subject to vesting schedules. We may grant options
+under this plan at any time prior to September 2008. Because we have the 1998
+Plan, we do not intend to grant any future options to purchase shares of Common
+Stock pursuant to the IQI Plan or our two older Company Plans.
+
+                                       9
+<PAGE>
+OPTION GRANTS AND HOLDINGS
+
+2000 OPTION GRANTS
+
+    We made the following grants of stock options to our "named executive
+officers" in 2000.
+
+<TABLE>
+<CAPTION>
+                                                 % OF TOTAL                           POTENTIAL REALIZABLE VALUE AT
+                                    NUMBER OF     OPTIONS                                ASSUMED ANNUAL RATES OF
+                                    SECURITIES   GRANTED TO                           STOCK PRICE APPRECIATION FOR
+                                    UNDERLYING   EMPLOYEES                                 OPTION TERM (1)(2)
+                                     OPTIONS     IN FISCAL    EXERCISE   EXPIRATION   -----------------------------
+NAME                                 GRANTED        YEAR       PRICE        DATE          5%              10%
+----                                ----------   ----------   --------   ----------   -----------   ---------------
+<S>                                 <C>          <C>          <C>        <C>          <C>           <C>
+Hugh E. Sawyer....................  3,000,000       46.9%       1.81       4/17/10     (848,734)       1,864,901
+                                      250,000        3.9%       0.87      12/12/10      112,887          248,077
+
+Richard Interdonato...............    100,000        1.6%       1.94       2/24/10      (41,291)          49,163
+
+                                       50,000        0.8%       0.70      12/13/10       22,011           55,781
+
+Michael J. Graham.................    350,000        5.5%       1.19        5/8/10      296,141          718,262
+
+                                      100,000        1.6%       0.70      12/13/10       44,023          111,562
+
+Thomas J. Flynn (3)...............     50,000        0.8%       1.94        5/1/01      (47,781)         (45,438)
+
+Donald L. Jones...................    350,000        5.5%       1.56        3/7/10      309,170          815,715
+
+                                       50,000        0.8%       0.70      12/13/10       22,011           55,781
+</TABLE>
+
+------------------------
+
+(1) Potential realizable value is based on the assumption that the Company's
+    Common Stock price appreciates at the annual rate shown (compounded
+    annually) from the date of the grant until the end of the option term. The
+    amounts have been calculated based on the requirements promulgated by the
+    Securities and Exchange Commission. The actual value, if any, a named
+    executive officer may realize will depend on the excess of the stock price
+    over the exercise price on the date the option is exercised (if the
+    executive were to sell the shares on the date of exercise). Accordingly,
+    there is no assurance that the value actually realized will be at or near
+    the potential realizable value as calculated in this table.
+
+(2) These options have a term of 10 years from the date of grant.
+
+(3) Mr. Flynn entered into a separation agreement with the Company on
+    February 26, 2001, to be effective April 1, 2001.
+
+                                       10
+<PAGE>
+2000 YEAR-END OPTION VALUES
+
+    The following table sets forth certain information with respect to the
+shares underlying unexercised options held as of December 31, 2000, by our
+"named executive officers.
+
+<TABLE>
+<CAPTION>
+                                                  NUMBER OF SECURITIES
+                                                       UNDERLYING                VALUE OF UNEXERCISED "IN-THE-
+                                               UNEXERCISED OPTIONS AS OF              MONEY" OPTIONS AS OF
+                                                   DECEMBER 31, 2000                  DECEMBER 31, 2000(1)
+                                             ------------------------------      ------------------------------
+NAME                                         EXERCISABLE      UNEXERCISABLE      EXERCISABLE      UNEXERCISABLE
+----                                         -----------      -------------      -----------      -------------
+<S>                                          <C>              <C>                <C>              <C>
+Stephen A. McNeely.........................   1,121,936                --           $ --             $   --
+
+Hugh E. Sawyer.............................     500,000         2,750,000           $ --             $   --
+
+Richard Interdonato........................     300,000           350,000           $ --             $4,845
+
+Michael J. Graham..........................     116,667           333,333           $ --             $9,690
+
+Thomas J. Flynn(2).........................      83,334            91,666           $ --             $   --
+
+Donald L. Jones............................     116,667           283,333           $ --             $4,845
+</TABLE>
+
+------------------------
+
+(1) Based on the closing price per share of the Common Stock on December 29,
+    2000, as reported by the NASD's Electronic Over-the-Counter Bulletin Board,
+    which was $0.7969, less the exercise price payable for such shares.
+
+(2) Mr. Flynn entered into a separation agreement with the Company on
+    February 26, 2001, to be effective April 1, 2001.
+
+EMPLOYMENT AGREEMENTS
+
+    JOHN R. BIRK entered into an employment agreement effective May 28, 1999,
+pursuant to which he serves as our Chairman of the Board. Under the employment
+agreement, Mr. Birk is entitled to receive annual compensation, which was
+$174,180 in 2000. Mr. Birk's options vest immediately in the event of a change
+in control (as defined in the option agreement) of the Company and accelerate
+upon his removal as Chairman (as defined in his employment agreement). Mr. Birk
+also has incidental registration rights with respect to 100,000 shares of Common
+Stock he purchased from the Company when he was elected Chairman of the Board.
+
+    HUGH E. SAWYER entered into an employment agreement, effective April 17,
+2000, pursuant to which he serves as President and Chief Executive Officer.
+Under the employment agreement, Mr. Sawyer received a signing bonus, and is
+entitled to receive a minimum base salary and an incentive bonus based upon
+certain financial performance targets of the Company. The employment agreement
+provides for the payment to Mr. Sawyer of up to twenty-four months' salary as
+severance compensation if the company terminates Mr. Sawyer's employment without
+cause or in certain other employment related events (as detailed in the
+employment agreement). Mr. Sawyer also agreed to purchase from the Company
+83,000 shares of the company's Common Stock at a price per share of $1.812 or
+$150,396 total. In connection with the employment agreement, the Company also
+granted Mr. Sawyer two options to purchase up to 1,500,000 shares each, or
+3,000,000 shares in the aggregate, at $1.812 per share. One option, (the
+"time-based" option) vests in three installments of 500,000 shares each on
+April 17, 2001, April 17, 2002, and April 17, 2003. The time-based options vest
+immediately in the event of a change in control of the Company or a termination
+of Mr. Sawyer's employment without cause (as each is defined in the option
+agreement). The other option (the "performance option") vests in increments of
+333,333 shares depending on the percentage level of the internal rate of return
+that the Questor Investors recognize upon a liquidation event, and if such
+options have not otherwise vested by such date and Mr. Sawyer is still serving
+as President and Chief Executive Officer of the Company, the options vest on
+October 17, 2009. The performance option also vests immediately in the event of
+a
+
+                                       11
+<PAGE>
+termination without cause or in certain other employment related events (as
+detailed in the option agreement).
+
+    RICHARD INTERDONATO entered into an employment agreement effective March 9,
+1999, pursuant to which he serves as Chief Operating Officer of the Company.
+Under the employment agreement, Mr. Interdonato is entitled to receive an annual
+base salary of $250,000 and an incentive bonus depending on whether we achieve
+certain financial performance targets of the Company. The employment agreement
+provides for the payment to Mr. Interdonato of one times his base annual
+compensation and prior year bonus if the Company terminates Mr. Interdonato's
+employment without cause (as defined in the employment agreement) or in the
+event that he is terminated after a change in control (as defined in the
+employment agreement) of the Company. Mr. Interdonato's options vest immediately
+in the event of a change in control (as defined in the option agreement) of the
+Company.
+
+    MICHAEL J. GRAHAM entered into an employment agreement effective May 8, 2000
+pursuant to which he serves as Executive Vice President and Chief Financial
+Officer for the Company. Under the employment agreement, Mr. Graham receives a
+minimum annual base salary and an incentive bonus based upon certain financial
+performance targets of the Company. The employment agreement provides for the
+payment to Mr. Graham of one times his base annual compensation if the Company
+terminates Mr. Graham's employment without cause (as defined in the employment
+agreement) or in the event that he is terminated after a change in control (as
+defined in the employment agreement). Mr. Graham's options also vest immediately
+in the event of a change in control (as defined in the option agreement) of the
+Company or in the event that he is terminated after a change in control (as
+defined in the option agreement).
+
+    DONALD L. JONES entered into an employment agreement effective March 2, 2000
+pursuant to which he serves as Executive Vice President, Client Development for
+the Company. Under the employment agreement, Mr. Jones receives a minimum annual
+base salary and an incentive bonus based upon certain financial performance
+targets of the Company. The employment agreement provides for the payment to
+Mr. Jones of one times his base annual compensation if the Company terminates
+Mr. Jones employment without cause (as defined in the employment agreement) or
+in the event that he is terminated after a change in control (as defined in the
+employment agreement). Mr. Jones' options also vest immediately in the event of
+a change in control (as defined in the option agreement) of the Company or in
+the event that he is terminated after a change in control (as defined in the
+option agreement).
+
+SEPARATION AGREEMENTS
+
+    STEPHEN A. MCNEELY entered into a separation agreement as of April 17, 2000
+pursuant to which Mr. McNeely continued to serve as a Senior Consultant until
+December 31, 2000. Mr. McNeely received his annual base salary payable in
+accordance with the Company's standard payroll practices until December 31,
+2000. The Company also provided Mr. McNeely with continued health benefits and
+executive support through December 31, 2000. The Company also extended
+Mr. McNeely's stock option expiration date to March 31, 2001.
+
+    THOMAS J. FLYNN entered into a separation agreement as of February 26, 2001
+pursuant to which Mr. Flynn agreed to continue being employed by the Company
+through March 31, 2001. Mr. Flynn will be paid an amount equal to his current
+gross salary on a bi-weekly pay period, less lawful withholding for twelve
+months to a maximum gross payment of $200,000. Such payments commenced on the
+separation date. To the extent Mr. Flynn is able to mitigate the amount of such
+severance compensation by earning compensation through other employment during
+the twelve months following termination, the Company's severance obligation will
+be reduced accordingly. The Company will, however, pay Mr. Flynn a minimum of
+six month's salary as severance compensation.
+
+                                       12
+<PAGE>
+    MATTHEW S. WALLER entered into an a separation agreement in September 1999,
+pursuant to which Mr. Waller agreed to continue working full-time for the
+Company as its Chief Financial Officer through December 31,1999, and resigned as
+a director effective as of the election of the new slate of directors at the
+Annual Meeting of Shareholders on December 10, 1999. From January 1, 2000
+through March 31, 2000, Mr. Waller worked part-time for the Company, with
+primary responsibility to complete the Company's 1999 audit. Mr. Waller received
+severance compensation equal, in the aggregate, to his annual base salary
+through December 31, 2000.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+    Set forth below is information as of March 31, 2001 concerning:
+
+    - each stockholder known by us to beneficially own more than 5% of each
+      class of our voting securities;
+
+    - each director and each named executive officer; and
+
+    - all directors and executive officers as a group.
+
+    We based the percentage of ownership in the table on the following number of
+shares of capital stock:
+
+    - 52,171,168 shares of common stock (this number excludes 475,600 shares of
+      unretired treasury stock held by the Company);
+
+    - 96,407 shares of Series D Preferred Stock convertible into 4,998,691
+      shares of common stock;
+
+    - 54,898 shares of Series E Preferred Stock convertible into 2,397,001
+      shares of common stock; and
+
+    - 46,750 shares of Series F Preferred Stock convertible into 53,289,099
+      shares of common stock.
+
+    We determine beneficial ownership based on the rules and regulations of the
+Securities and Exchange Commission. We consider all shares of common stock that
+can be issued under convertible securities, warrants or options currently or
+within 60 days to be outstanding for the purpose of computing the percentage
+ownership of the person holding those securities, but do not consider those
+securities to be outstanding for computing the percentage ownership of any other
+person. Each owner's percentage is calculated by dividing the number of shares
+beneficially held by that owner by the sum of 52,171,168 and the number of
+shares that owner has the right to acquire within 60 days.
+
+                                       13
+<PAGE>
+         SECURITY OWNERSHIP OF MANAGEMENT AND CERTAIN BENEFICIAL OWNERS
+
+<TABLE>
+<CAPTION>
+                                      NUMBER OF
+                                        COMMON
+                                        SHARES      PERCENT    SERIES D    PERCENT    SERIES E    PERCENT    SERIES F    PERCENT
+                                     BENEFICIALLY      OF      PREFERRED      OF      PREFERRED      OF      PREFERRED      OF
+BENEFICIAL OWNER                        OWNED       CLASS(1)     STOCK     CLASS(1)     STOCK     CLASS(1)     STOCK     CLASS(1)
+----------------                     ------------   --------   ---------   --------   ---------   --------   ---------   --------
+<S>                                  <C>            <C>        <C>         <C>        <C>         <C>        <C>         <C>
+Questor Partners Fund II, L.P. and
+  its affiliates(2)(3).............   53,289,099      50.5%         --        0.0%         --        0.0%     46,750      100.0%
+Dean Anderson(3)(4)(6).............   53,289,099      50.5%         --        0.0%         --        0.0%     46,750      100.0%
+Henry L. Druker(3)(4)(6)...........   53,289,099      50.5%         --        0.0%         --        0.0%     46,750      100.0%
+Peter D. Fitzsimmons(3)(4)(6)......   53,289,099      50.5%         --        0.0%         --        0.0%     46,750      100.0%
+Kevin J. Prokop(3)(5)(6)...........   53,289,099      50.5%         --        0.0%         --        0.0%     46,750      100.0%
+David M. Wathen(3)(5)(6)...........   53,289,099      50.5%         --        0.0%         --        0.0%     46,750      100.0%
+Thayer Equity Investors III, L.P.
+  and its affiliates(7)(8).........   34,382,528      50.9%     99,973      100.0%     42,492       74.6%         --        0.0%
+Frederic V. Malek(6)(7)(8).........   34,382,528      50.9%     99,973      100.0%     42,492       74.6%         --        0.0%
+Paul G. Stern(6)(7)(9).............   34,382,528      50.9%     99,973      100.0%     42,492       74.6%         --        0.0%
+Edward Blank(6)(10)(11)............    4,388,122       8.3%         --        0.0%      8,170       14.4%         --        0.0%
+ITC Service Company(12)............    3,130,579       6.0%         --        0.0%      6,267       11.0%         --        0.0%
+William H. Scott, III(12)(13)......    3,130,579       6.0%         --        0.0%      6,267       11.0%         --        0.0%
+Stanton D. Anderson(6)(14).........           --       0.0%         --        0.0%         --        0.0%         --        0.0%
+Josh S. Weston(6)(15)..............           --       0.0%         --        0.0%         --        0.0%         --        0.0%
+Stephen A. McNeely(16).............      236,967       0.5%         --        0.0%         --        0.0%         --        0.0%
+John R. Birk(6)(17)................      733,332       1.4%         --        0.0%         --        0.0%         --        0.0%
+Richard Interdonato(18)............      310,000       0.6%         --        0.0%         --        0.0%         --        0.0%
+Hugh E. Sawyer(19).................      660,400       1.3%         --        0.0%         --        0.0%         --        0.0%
+Donald L. Jones(20)................      166,667       0.3%         --        0.0%         --        0.0%         --        0.0%
+Michael J. Graham(21)..............      191,667       0.4%         --        0.0%         --        0.0%         --        0.0%
+Thomas J. Flynn(22)................       83,334       0.2%         --        0.0%         --        0.0%         --        0.0%
+  All executive officers and
+  directors as a group (18
+  persons)(23).....................   94,205,149      76.4%     99,973      100.0%     50,661       89.0%     46,750      100.0%
+</TABLE>
+
+------------------------------
+
+(1) Reported in accordance with the beneficial ownership rules of the Securities
+    and Exchange Commission. Unless otherwise noted, the shareholders listed in
+    the table have both sole voting power and sole dispositive power with
+    respect to such shares, subject to community property laws where applicable
+    and the information contained in the other footnotes to the table.
+
+(2) The address for Questor Partners Fund II, L.P. and its affiliates is 3411
+    Silverside Rd., Wilmington, Delaware 19810.
+
+(3) Includes 51,989,142 shares issuable upon conversion of redeemable
+    convertible preferred stock held by Questor Partners Fund II, L.P., Questor
+    Side-by-Side Partners II, L.P. and Questor Side-by-Side Partners II 3
+    (c) (1), L.P. (collectively together with Questor Management Company, LLC,
+    the manager of the foregoing private equity funds, "Questor"). Each of
+    Messrs. Dean Anderson, Druker, Fitzsimmons, Prokop and Wathen are members of
+    Questor or its affiliates and may be deemed to be the beneficial owner of
+    its shares and those of its affiliates. Messrs. Druker, Wathen, Fitzsimmons,
+    Anderson and Prokop disclaim such beneficial ownership.
+
+(4) The address for Messrs. Anderson, Druker and Fitzsimmons is 9 West 57th
+    Street 34th Floor, New York, New York 10019.
+
+(5) The address for Messrs. Prokop and Wathen is 4000 Town Center, Suite 530,
+    Southfield, Michigan 48075.
+
+(6) Director.
+
+(7) The address for Thayer Equity Investors III, L.P. and its affiliates and
+    Mr. Malek is 1445 Pennsylvania Ave., NW, Suite 350, Washington, DC 20004.
+
+(8) Includes (a) 18,906,369 shares owned by Thayer Equity, (b) 2,269,224 shares
+    subject to warrants held by Thayer Equity and exercisable within 60 days,
+    (c) 6,085,789 shares issuable upon conversion of convertible subordinated
+    debt held by Thayer Equity, (d) 6,545,652 shares issuable upon conversion of
+    convertible preferred stock held by Thayer Equity, and (e) 150,821 shares
+    owned by TC Co-Investors, which may be deemed to be an affiliate of Thayer
+    Equity. Each of Dr. Stern and Mr. Malek are members of the general partner
+    of Thayer Equity, and may be deemed to be the beneficial owner of its shares
+    and those of its affiliates. Dr. Stern and Mr. Malek disclaim such
+    beneficial ownership.
+
+(9) The address for Dr. Stern is 600 New Hampshire Ave., NW, 6th Floor,
+    Washington, DC 20037.
+
+(10) The address for Mr. Blank is 1250 Broadway, 37th Floor, New York, New York
+    10001.
+
+(11) Includes (a) 2,939,671 shares owned by Ed Blank, (b) 330,403 shares subject
+    to warrants held by Ed Blank and exercisable within 60 days, (c) 268,132
+    shares issuable upon conversion of convertible preferred stock held by Ed
+    Blank, (d) 695,818 shares owned by the Edward Blank 1995 Grantor Retained
+    Annuity Trust (the "Blank Trust"), (e) 78,238 shares subject to
+
+                                       14
+<PAGE>
+    warrants exercisable within 60 days held by the Blank Trust, and (f) 63,591
+    shares issuable upon conversion of convertible preferred stock held by the
+    Blank Trust. Mr. Blank is the trustee of the Blank Trust and therefore may
+    be deemed to beneficially own its shares.
+
+(12) The address for ITC Service Company and Mr. Scott is 1239 O.G. Skinner
+    Drive, West Point, Georgia 31833.
+
+(13) Includes (a) 2,788,208 shares owned by ITC Service Company ("ITC"), for
+    which Mr. Scott serves as President, (b) 78,482 shares subject to warrants
+    held by ITC and exercisable within 60 days, and (c) 254,477 shares issuable
+    upon conversion of convertible preferred stock held by ITC. Mr. Scott
+    disclaims any and all beneficial ownership associated with such shares owned
+    by ITC.
+
+(14) The address for Mr. Anderson is 600 13th Street Northwest, Washington, DC
+    20005.
+
+(15) The address for Mr. Weston is One ADP Boulevard, Roseland, New Jersey
+    07068.
+
+(16) Includes 236,967 shares subject to a purchase option agreement with Thayer
+    Equity for shares of Common Stock held by the Thayer Equity fund.
+
+(17) Includes 100,000 shares of Common Stock purchased from the Company (out of
+    the Company's unretired treasury shares) at the closing price on May 27,
+    1999, $1.03125, and 633,332 shares of Common Stock issuable upon exercise of
+    stock options granted pursuant to the 1998 Plan and exercisable within
+    60 days.
+
+(18) Includes 300,000 shares of Common Stock issuable upon exercise of stock
+    options granted pursuant to the 1998 Plan and exercisable within 60 days.
+
+(19) Includes 500,000 shares of Common Stock issuable upon exercise of stock
+    options granted pursuant to the 1998 plan and exercisable within 60 days.
+
+(20) Includes 116,667 shares of Common Stock issuable upon exercise of stock
+    options granted pursuant to the 1998 plan and exercisable within 60 days.
+
+(21) Includes 116,667 shares of Common Stock issuable upon exercise of stock
+    options granted pursuant to the 1998 plan and exercisable within 60 days.
+
+(22) Subject to options exercisable within 60 days.
+
+(23) Includes beneficial ownership of 71,696,408 shares subject to warrants or
+    options exercisable within 60 days and shares issuable upon conversion of
+    convertible subordinated debt and convertible preferred stock as set forth
+    in footnotes (3), (8), and (13) above.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+    As of December 31, 2000, Michael G. Santry, a former director of the
+Company, owed the Company approximately $2.2 million, including accrued
+interest, under a secured promissory note dated September 16, 1997. The note
+bears interest at an annual rate of 7% and is secured by 7,000 shares of our
+Common Stock, options to purchase 1,750,000 shares of our Common Stock held by
+Mr. Santry and other collateral. On May 26, 2000, under the terms of an amended
+and restated promissory note and an amended pledge agreement, the Company
+extended the term of the loan until March 31, 2001 and Mr. Santry agreed to pay
+accrued but unpaid interest on the loan for the period October 1, 1999 through
+September 30, 2000, pay rent on office space sub-leased from the Company, and
+make certain other payments to the Company. On July 1, 2000, October 1, 2000,
+January 1, 2001 and April 1, 2001, Mr. Santry defaulted on certain payment
+conditions of the amended and restated secured promissory note. As a result, the
+Company exercised its rights under the amended and restated secured promissory
+note to cancel the options to purchase 1,750,000 shares of our Common Stock held
+by Mr. Santry. Mr. Santry resigned as a director of the Company on August 9,
+2000. Mr. Santry remains obligated under the promissory note, which remains
+secured by the collateral described above, less the cancelled options. Because
+Mr. Santry was an affiliate of the Company and the amount of the loan had been
+outstanding for more than one year, the balance of the note receivable was
+reclassified as a reduction to additional paid-in capital in shareholders'
+equity in the fourth quarter of 1999.
+
+    Aegis provides services to certain clients, including its most significant
+client, who, directly or through affiliates, have non-controlling ownership
+interests in Thayer Equity. In addition, the Company provides services to
+certain clients, who, directly or through affiliates, have non-controlling
+ownership interests in Questor.
+
+                                       15
+<PAGE>
+    In connection with the IQI merger, the Thayer Investors provided the Company
+with $6.8 million in subordinated indebtedness due August 31, 2003, bearing
+interest at a 12% annual rate as well as a guarantee for $2.0 million in bridge
+financing to assist in funding the Company's working capital needs. In
+connection with the guarantee, and for additional consideration of $110,000, the
+Company issued to Thayer warrants to purchase 1,100,000 shares of the Company's
+Common Stock at an exercise price of $1.96 (the "First Warrant").
+
+    Prior to the IQI merger, on July 2, 1998, the Company received an additional
+financing commitment from Thayer and certain other shareholders of IQI. Under
+the commitment, the Thayer-led group agreed to lend the Company, at its
+election, up to an additional $4.0 million in subordinated indebtedness at any
+time within 90 days after the merger. As of October 23, 1998, the Company had
+drawn the full commitment amount of $4.0 million. In connection with this
+commitment and effective upon the merger, the Company issued the Thayer-led
+group additional warrants to purchase up to 350,000 shares of the Company's
+Common Stock at an exercise price of $2.375 per share and provided certain
+anti-dilution protection (the "Second Warrant"). This indebtedness is
+convertible into the Company's Common Stock at a conversion price of $2.375 per
+share. This debt is in addition to, and on the same basic terms as, the
+subordinated debt that Thayer had previously loaned to the Company.
+
+    On March 30, 1999, Thayer Equity provided the Company with approximately
+$5.7 million in additional subordinated indebtedness. Approximately one-half of
+the proceeds from this financing were used to pay down bank debt and the
+remainder for working capital purposes. The additional indebtedness is
+convertible into the Company's Common Stock at a conversion price of $1.15 per
+share. This debt is in addition to, and on the same basic terms as, the
+subordinated debt that Thayer Equity had previously loaned to the Company.
+
+    In an effort to reduce debt and improve the Company's balance sheet,
+effective June 30, 1999, the Thayer-led group agreed to convert approximately
+$12.1 million of its subordinated debt into two new series of convertible
+preferred stock. The 77,300 shares of new Series D Preferred Stock ($.01 par
+value per share, $100 per share liquidation preference) are convertible into
+Company Common Stock at $2.00 per share, and the 44,018 shares of new Series E
+Preferred ($.01 par value per share, $100 per share liquidation preference) are
+convertible into Company Common Stock at $2.375 per share. Both series earn
+cumulative dividends (payable-in-kind in additional shares of the respective
+series of preferred stock) at the annual rate of 15%, and are non-voting except
+on specified matters. In consideration of the conversion of the subordinated
+debt into preferred stock, the Company issued the Thayer-led group warrants to
+purchase an additional 1,000,000 shares of Company Common Stock (the "Third
+Warrant") at $0.90625 per share, the closing price of such stock on the date the
+debt was converted into equity.
+
+    On December 17, 1997, IQI issued warrants to Ed Blank to purchase 25,403
+shares for $808,600 and 6,013 shares for $191,400, both of which were converted
+upon the IQI merger into warrants to purchase 306,347 shares of Company Common
+Stock at an exercise price of $3.26 per share (the "Fourth Warrant").
+
+    Paul G. Stern and Frederic V. Malek, each directors of the Company, are
+partners in and/or advisors to Thayer Equity.
+
+    Henry L. Druker, Peter D. Fitzsimmons, Dean Anderson, Kevin J. Prokop and
+David M. Wathen, each directors of the Company, are partners or affiliates of
+Questor.
+
+    As previously noted, on December 10, 1999, we completed the sale of 46,750
+shares of newly issued Series F Preferred Stock to the Questor Investors for
+$46,750,000 in cash. The Company used this money to repay outstanding bank debt
+and pay transaction expenses, including a $1.7 million transaction fee to
+Questor Management Company. The Series F Preferred Stock votes on an
+as-converted basis (approximately 1000 votes per share) and represents
+approximately 50% of our
+
+                                       16
+<PAGE>
+voting equity stock. In that transaction, the Questor Investors and the Thayer
+Investors signed a Stockholder's Agreement that we have described earlier in
+this Proxy Statement.
+
+    In addition, we granted the Questor Investors certain registration rights
+with respect to the shares of Common Stock underlying the Series F Preferred
+Stock. We agreed that, upon written request from the holders of more than 50% of
+the Series F Preferred Stock, we would file and cause to become effective one
+registration on a form other than Form S-3 and up to three registrations on
+Form S-3 covering the Common Stock issued or issuable upon exercise or
+conversion of the Series F Preferred Stock held by the Questor Investors. The
+Questor Investors may require a "shelf" registration that would remain effective
+for at least one year. The Company further agreed to provide the Questor
+Investors with certain "incidental", or "piggyback" registration rights, subject
+to rights of the Company's underwriters to "cut back" the number of shares to be
+included in such registrations. At the same time the Company granted these
+rights to the Questor Investors, the Company also granted the same rights to the
+Thayer Investors. Previously, the Company had granted the Thayer Investors
+certain demand and piggyback registration rights, but with respect only to
+certain shares issued in the subordinated debt and warrant transactions
+described above. The new grant extends these rights to all shares of Common
+Stock held by the Thayer Investors, including shares issued in connection with
+the IQI merger.
+
+    On March 1, 2001, the Company received an offer from an acquisition group
+made up of its principal shareholders for the purchase of all of the outstanding
+shares of Common Stock not already owned by the acquisition group at a price of
+$1.00 per share in cash. Questor and certain affiliated funds are leading the
+acquisition group and are expected to fund the transaction. The acquisition
+group will include Thayer and certain affiliated funds and is expected to
+include certain other significant shareholders. It is anticipated that Thayer
+and certain other significant shareholders would receive approximately
+$10 million of cash in exchange for certain of the Company's securities held by
+such shareholders.
+
+    The offer was made to the Company's Board of Directors. On March 15, 2001,
+the Board established a special committee of two independent directors to
+consider the offer. The special committee has engaged Robert Baird and
+Company, Inc., as its independent financial advisor and McDermott, Will and
+Emery as its legal counsel in connection with the proposed transaction.
+Questor's proposal also indicates that Questor is interested only in acquiring
+the publicly held shares, and is not interested in selling its interest in
+Aegis.
+
+SIGNATURES
+
+    Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned, hereunto duly authorized.
+
+<TABLE>
+<S>                                                    <C>  <C>
+                                                       AEGIS COMMUNICATIONS GROUP, INC.
+                                                       (The Registrant)
+
+                                                       By:            /s/ MICHAEL J. GRAHAM
+                                                            -----------------------------------------
+                                                                        Michael J. Graham
+                                                                   EXECUTIVE VICE PRESIDENT AND
+Dated: April 30, 2001                                                CHIEF FINANCIAL OFFICER
+</TABLE>
+
+                                       17
+</TEXT>
+</DOCUMENT>

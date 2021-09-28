@@ -1,0 +1,3415 @@
+<DOCUMENT>
+<TYPE>10-K405
+<SEQUENCE>1
+<FILENAME>d90244e10-k405.txt
+<DESCRIPTION>FORM 10-K FOR FISCAL YEAR ENDED JUNE 30, 2001
+<TEXT>
+<PAGE>   1
+================================================================================
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                   ----------
+
+                                    FORM 10-K
+
+                                   ----------
+
+MARK ONE       ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+  [X]                   SECURITIES EXCHANGE ACT OF 1934
+                     FOR THE FISCAL YEAR ENDED JUNE 30, 2001
+                                       OR
+  [ ]        TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+                 For the transition period from _____ to _____.
+                         Commission file number 0-24787
+
+                       AFFILIATED COMPUTER SERVICES, INC.
+             (Exact name of registrant as specified in its charter)
+
+         Delaware                                        51-0310342
+------------------------------              ------------------------------------
+State or other jurisdiction of              (I.R.S. Employer Identification No.)
+incorporation or organization
+
+                               2828 NORTH HASKELL
+                               DALLAS, TEXAS 75204
+                    (Address of principal executive offices)
+                                   (Zip Code)
+
+                                  214-841-6111
+              (Registrant's telephone number, including area code)
+
+                                   ----------
+
+           SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT:
+
+                                                         Name of exchange on
+  Title of each class                                     which registered
+-------------------------                              -----------------------
+Class A common stock, par                              New York Stock Exchange
+  value $.01 per share
+
+           SECURITIES REGISTERED PURSUANT TO SECTION 12(g) OF THE ACT:
+                                      NONE
+
+                                   ----------
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements the past 90 days.
+
+                                  Yes  X   No
+                                      ---     ---
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K. [X]
+
+     As of August 24, 2001, 47,592,056 shares of Class A common stock were
+outstanding. The aggregate market value of the Class A common voting stock held
+by nonaffiliates of Affiliated Computer Services, Inc. as of such date,
+approximated $3,843,709,000.
+
+DOCUMENTS INCORPORATED BY REFERENCE: Proxy Statement for 2001 Annual Meeting -
+Part III.
+
+================================================================================
+
+<PAGE>   2
+
+                       AFFILIATED COMPUTER SERVICES, INC.
+
+                                    FORM 10-K
+                                  JUNE 30, 2001
+
+<Table>
+<S>                                                                                                       <C>
+PART I
+    Item 1.   Business.................................................................................... 1
+    Item 2.   Properties.................................................................................. 7
+    Item 3.   Legal Proceedings........................................................................... 7
+    Item 4.   Submission of Matters to a Vote of Security Holders......................................... 8
+
+PART II
+    Item 5.   Market for Our Common Equity and Related Stockholder Matters................................ 9
+    Item 6.   Selected Consolidated Financial Data........................................................10
+    Item 7.   Management's Discussion and Analysis of Financial Condition and Results of Operations.......11
+    Item 8.   Financial Statements and Supplementary Data.................................................17
+    Item 9.   Changes in and Disagreements with Accountants on Accounting and Financial Disclosure........43
+
+PART III
+    Item 10.  Directors and Executive Officers of the Registrant..........................................43
+    Item 11.  Executive Compensation......................................................................43
+    Item 12.  Security Ownership of Certain Beneficial Owners and Management..............................43
+    Item 13.  Certain Relationships and Related Transactions..............................................43
+
+PART IV
+    Item 14.  Exhibits, Financial Statements, Financial Statement Schedule and Reports
+                   on Form 8-K............................................................................43
+</Table>
+
+<PAGE>   3
+
+                                     PART I
+
+ITEM 1. BUSINESS
+
+GENERAL
+
+     We are a global, Fortune 1000 company delivering comprehensive business
+process outsourcing and information technology outsourcing solutions, as well as
+system integration services, to both commercial and federal government clients.
+We are based in Dallas, Texas and have offices primarily in North America, as
+well as Central America, South America, Europe, Africa and the Middle East. Our
+clients have time-critical, transaction-intensive information processing needs
+and we typically service these needs through long-term contracts. Approximately
+89% of our revenues for the past three fiscal years were recurring revenues,
+which are revenues derived from services that our clients use each year in
+connection with their ongoing businesses.
+
+     We were formed in 1988 to participate in the trend to outsource information
+processing requirements to third parties. This outsourcing enables businesses to
+focus on core operations, respond to rapidly changing technologies and reduce
+expenses associated with business processes and data processing. Our business
+strategy is to expand our client base and enhance our service offerings through
+both internal marketing and the acquisition of complementary companies. Our
+marketing efforts focus on developing long-term relationships with clients that
+choose to outsource mission critical business processes and information
+technology requirements. Our focus over the last several years has been to
+participate in the expanding business process outsourcing market. Our business
+expansion has been accomplished both from internal growth as well as through
+acquisition. Since inception through June 30, 2001, we have completed 53
+acquisitions, which have resulted in geographic expansion, growth and
+diversification of our customer base, expansion of services and products
+offered, and increased economies of scale. Our revenues have increased from $534
+million in fiscal year 1995 to $2.1 billion in fiscal year 2001, a compound
+growth rate of 25%. Of this growth, approximately one-half resulted from
+internal growth and the other half resulted from growth through acquisitions.
+
+     On August 24, 2001 we acquired 100% of the stock of Lockheed Martin IMS
+Corporation ("IMS"), a wholly-owned subsidiary of Lockheed Martin Corporation
+for $825 million in cash plus transaction costs. IMS, with its principal office
+located in Washington D.C. and approximately 4,800 employees throughout the
+country, primarily provides business process outsourcing services to state and
+local government agencies focusing on health and human services, transportation,
+public safety and child support. IMS' revenues for the twelve-month period
+ending June 30, 2001 were approximately $620 million.
+
+     We serve two primary markets. Our largest market is the commercial sector,
+which during fiscal year 2001 accounted for approximately 64% of our annual
+revenues. After the IMS acquisition, we believe our commercial sector now
+approximates 75% of our revenues. Within the commercial sector, which includes
+state and local governments, we provide business process outsourcing, systems
+integration services and technology outsourcing to a variety of clients
+nationwide, including healthcare providers, retailers, local municipalities,
+state agencies, wholesale distributors, manufacturers, utilities, financial
+institutions and insurance companies.
+
+     We also serve the federal government market, which during fiscal year 2001
+accounted for approximately 36% of our annual revenues. Following the IMS
+acquisition, we believe our federal government market now approximates 25% of
+our revenues. Our services in this market are comprised of business process
+outsourcing, systems integration services and technology outsourcing. Within our
+federal government business, approximately half of our revenues are derived from
+civilian agencies, including the Department of Education, with the remaining
+half from Department of Defense agencies.
+
+MARKET OVERVIEW
+
+     The demand for our services has grown substantially in recent years, and we
+believe that this will continue to increase in the future as a result of
+financial, strategic and technological factors. These factors include:
+
+                                       1
+<PAGE>   4
+
+     o    the increasing desire by businesses and government to drive process
+          improvements and improve the speed of and reduce the cost of
+          execution;
+
+     o    the increasing complexity of information technology systems and the
+          need to connect electronically with clients, suppliers, and other
+          internal systems;
+
+     o    the increasing requirements for rapid processing of information and
+          the instantaneous communication of large amounts of data to multiple
+          locations;
+
+     o    the desire of business and government organizations to focus on their
+          core competencies;
+
+     o    the desire by businesses and government to take advantage of the
+          latest advances in technology without the cost and resource commitment
+          required to maintain an in-house system;
+
+     o    the desire by business and government to have a workforce that is able
+          to expand and contract in relation to their business volumes; and
+
+     o    the proliferation of web-based and wireless technologies.
+
+BUSINESS STRATEGY
+
+     The key components of our business strategy include the following:
+
+     o    Expand Client Base - We seek to develop long-term relationships with
+          new clients by leveraging our subject matter expertise, world-wide
+          data manufacturing capabilities and infrastructure of information
+          technology products and services. Our primary focus is to increase our
+          revenues by obtaining new clients with recurring requirements for
+          business process and information technology services.
+
+     o    Expand Existing Client Relationships - We seek to expand existing
+          client relationships by increasing the scope and breadth of services
+          we provide.
+
+     o    Build Recurring Revenues - We seek to enter into long-term
+          relationships with clients to provide services that meet their ongoing
+          business requirements while supporting their mission critical business
+          process or information technology needs.
+
+     o    Invest in Technology - We respond to technological advances and the
+          rapid changes in the requirements of our clients by committing
+          substantial amounts of our resources to the operation of multiple
+          hardware platforms, the customization of products and services that
+          incorporate new technology on a timely basis and the continuous
+          training of our personnel.
+
+     o    Provide Flexible Solutions - We offer custom-tailored business process
+          and information technology solutions using a variety of proprietary
+          and third-party licensed software on multiple hardware and systems
+          software platforms and domestic and international workforces that are
+          able to expand and contract in relation to clients' business volumes.
+
+     o    Maximize Economies of Scale - Our strategy is to develop and maintain
+          a significant client and account/transaction base to create sufficient
+          economies of scale that enable us to achieve competitive costs.
+
+     o    Complete Strategic and Tactical Acquisitions - Our acquisition
+          strategy is to acquire companies to expand our geographic presence, to
+          expand the products and services we offer to existing clients, and to
+          obtain a presence in new, complementary markets.
+
+                                       2
+<PAGE>   5
+
+     o    Attract, Train and Retain Employees - We believe that attracting,
+          training, and retaining high quality employees are essential to our
+          growth. We seek to hire motivated individuals with strong character
+          and leadership traits and provide them with ongoing technological and
+          leadership skills training. We emphasize retaining our employees with
+          challenging work assignments and incentive programs.
+
+     During the last three fiscal years, our revenues by market was as follows
+(in thousands):
+
+<Table>
+<Caption>
+                                      Year ended June 30,
+                            ----------------------------------------
+                               2001           2000           1999
+                            ----------     ----------     ----------
+
+<S>                         <C>            <C>            <C>
+Commercial(1)               $1,315,893     $1,344,671     $1,091,417
+Federal Government             747,666        617,871        550,799
+                            ----------     ----------     ----------
+         Total Revenues     $2,063,559     $1,962,542     $1,642,216
+                            ==========     ==========     ==========
+</Table>
+
+     (1)  Includes $7,500, $298,600 and $315,180 of revenues from divested
+          companies for the fiscal years 2001, 2000 and 1999, respectively.
+
+COMMERCIAL
+
+     In the commercial sector we provide our clients with business process
+outsourcing, systems integration services and technology outsourcing.
+
+Business Process Outsourcing
+
+     Business process outsourcing is defined as the delegation of one or more
+information technology intensive business processes to an external provider who
+owns and manages the selected processes based on measurable performance metrics.
+Clients outsource business processes to gain efficiencies, increase productivity
+and lower costs. More and more companies are concluding that it is more
+efficient to focus on their core competencies and to outsource their non-core
+but mission-critical business processes. We developed our business process
+outsourcing services to capitalize on a growing trend by business to outsource
+entire processes, including the technology requirements of the business
+function.
+
+     The business process outsourcing market can generally be divided into four
+different areas: business administration, customer care, manufacturing and
+supply chain management. Today, we are primarily focused on business
+administration and customer care. We provide several important services to our
+clients, including healthcare claims processing for insurance companies,
+accounts payable processing, document management, loan and mortgage processing,
+billing, customer service, customer analysis and call centers. We receive client
+information in all media formats such as over the web, EDI, fax, voice, paper,
+microfilm, computer tape, optical disk or CD ROM. Information is typically
+digitized upon receipt and sent through our proprietary workflow process, which
+is tailored to our clients' requirements. Using image transmission, storage and
+retrieval technology, we digitize, process and transmit millions of information
+records daily for our clients utilizing variable workforces both domestically
+and internationally. In many instances, we perform quality assurance functions
+and store the information for our clients on a long-term basis.
+
+     We are also a leading provider of program management, back-office
+processing services and consulting for state and local governments' health and
+human services agencies. We design, develop, implement and operate large scale
+health and human services programs and the information technology solutions that
+support those programs. Today, we process over 234 million Medicaid healthcare
+claims annually on behalf of eight states using our proprietary Medicaid
+management information system. In addition, in July 2001, we were selected by
+the state of Georgia to be the prime contractor for the development and
+operation of the state's health insurance system and program. This five-year,
+$350 million contract is unique because it combines the state's health insurance
+programs for its public employees as well as its Medicaid and children's health
+insurance program recipients.
+
+                                       3
+<PAGE>   6
+
+     Our recent acquisition of Lockheed Martin IMS has significantly expanded
+our business process outsourcing offerings, including the support of state and
+local government in four key areas:
+
+     o    Children and Family Services - We provide two principal offerings
+          including child support payment processing where we process over $7
+          billion annually, and electronic benefit payment processing for the
+          paperless distribution of government benefits, such as food stamps.
+
+     o    Welfare and Workforce Services - We provide job-related services to
+          assist people in leaving and returning to work.
+
+     o    Municipal Services - We process traffic and parking tickets collecting
+          over $500 million on behalf of our clients. In addition, we operate
+          traffic safety programs that use photographic functionality to
+          automate the enforcement of traffic violations.
+
+     o    Transportation Systems and Services - We process more than 25% of the
+          state issued operating credentials and support the operation of over
+          30% of the motor carriers operating in the United States.
+          Additionally, we provide Electronic Toll Collection Services
+          processing over $1.2 billion in toll revenues annually on behalf of
+          our clients, which include E-Z Pass New York, the largest electronic
+          toll collection operation in the world. We also operate a nationwide
+          network that electronically checks safety credentials and weighs
+          trucks at highway speed, granting carriers authorization to bypass
+          weigh stations without stopping.
+
+     Pricing for business process outsourcing services is typically determined
+on the basis of the number of accounts or transactions processed.
+
+Technology Outsourcing
+
+     We offer a complete range of technology outsourcing solutions to commercial
+businesses desiring to improve the performance of their information technology
+organizations. Our technology outsourcing solutions include the delivery of
+information processing services on a remote basis from host data centers with
+tremendous processing capacity, network management and desktop support.
+Information processing services include mainframe, mid-range, desktop, network
+and web-hosting solutions.
+
+     We provide our technology outsourcing solutions through an extensive data
+center network, which is comprised of five host data centers and six remote
+data centers. Our data centers and clients are connected via an extensive
+telecommunication network. We monitor and maintain local and wide area networks
+on a seven-day, 24-hour basis and provide shared hub satellite transmission
+service as an alternative to multi-drop and point-to-point hard line
+telecommunications networks.
+
+     Our target market for technology outsourcing services consists of
+medium-to-large-sized commercial organizations with time-critical,
+transaction-intensive information processing needs. We typically provide our
+technology outsourcing services pursuant to multi-year contracts, which are
+typically priced on a resource utilization basis. Resources utilized include
+processing time, the number of desktops managed, professional services, data
+storage and retrieval utilization and output media utilized.
+
+Systems Integration Services
+
+     Our systems integration services include application development and
+implementation, applications outsourcing, technical support and training, as
+well as network design and installation services. Our systems integration
+services include the development of web-based applications and web-enablement of
+information technology assets, allowing our clients to conduct business with
+their customers and business partners via the Internet. We also provide systems
+integration services to clients, who are deploying client/server architectures,
+advanced networks and outsourcing legacy applications maintenance. We believe
+our ability to deliver high-level skill sets and proven methodologies across a
+variety of technologies enhances our ability to help clients and
+
+                                       4
+<PAGE>   7
+
+prospects deal with technological change. Due to the nature of the work, we
+generally offer our systems integration services on a time and materials basis
+to a changing client base under short-term contractual arrangements.
+
+FEDERAL GOVERNMENT
+
+     Within the federal government sector, we also provide business process
+outsourcing and systems integration services. Our civilian agency clients
+account for about half of our federal government revenues and Department of
+Defense agencies account for the remaining half.
+
+Business Process Outsourcing
+
+     Our business process outsourcing services consist primarily of loan
+servicing for federal agencies. Our services generally include billing, lock-box
+payment processing, related accounting and reconciliation and client service
+call center and web-site operations. Our largest contract for these services is
+with the Department of Education, for which we service student loans under the
+Department of Education's Direct Student Loan program. Under this contract, we
+currently provide loan servicing to over 5.2 million borrowers, or over 19
+million loans with an aggregate value of $79 billion. During fiscal year 2001,
+revenue from this contract was approximately $148 million. This contract is
+scheduled to expire in September 2003. We also have contracts with the Small
+Business Administration, Housing and Urban Development, and Ginnie Mae. Pricing
+is typically determined on the basis of the number of accounts and/or
+transactions processed.
+
+Systems Integration Services
+
+     We provide applications development, applications outsourcing, network
+implementation and maintenance, desktop services, technical staff augmentation,
+and training. We develop and outsource many applications including legacy, ERP,
+and web-based systems. The Department of Defense and civilian agencies generally
+either contract directly with us or through the General Services Administration
+for these services. The General Services Administration performs the procurement
+function for many civilian and Department of Defense agencies. Approximately 23%
+of these services for fiscal year 2001 were provided pursuant to three contracts
+with the General Services Administration. We also provide our services directly
+to a variety of civilian agencies such as the Departments of Labor, NASA, FAA,
+Treasury, Transportation, the U.S. Senate, the U.S. Postal Service, the Federal
+Energy Regulatory Commission and the National Drug Intelligence Center. In
+addition, we provide these services to a variety of Department of Defense
+agencies such as Strategic Command, Air Combat Command, the National Security
+Agency and the Defense Special Weapons Agency. We generally price these services
+on a time and materials basis.
+
+REVENUES
+
+     Our revenues by service line are shown in the following table (in
+thousands):
+
+<Table>
+<Caption>
+                                                           Year ended June 30,
+                                 ----------------------------------------------------------------------
+                                    2001           2000           1999           1998           1997
+                                 ----------     ----------     ----------     ----------     ----------
+
+<S>                              <C>            <C>            <C>            <C>            <C>
+Business process outsourcing     $  974,244     $  948,010     $  696,976     $  468,175     $  385,937
+Systems integration services        648,244        604,841        570,168        390,221        245,720
+Technology outsourcing              441,071        409,691        375,072        330,727        297,268
+                                 ----------     ----------     ----------     ----------     ----------
+  Total                          $2,063,559     $1,962,542     $1,642,216     $1,189,123     $  928,925
+                                 ==========     ==========     ==========     ==========     ==========
+</Table>
+
+CLIENT BASE
+
+     We achieve growth in our client base through internal marketing and
+acquisitions of other business process and information technology services
+companies. We have a diverse client base. Within the commercial segment, we
+serve all of the major vertical markets that spend heavily on technology
+including the healthcare, retail, transportation and financial industries.
+However, during fiscal year 2001, our largest commercial vertical market
+accounted for only 20%
+
+                                       5
+<PAGE>   8
+
+of our consolidated revenues and no single commercial client accounts for more
+than 2% of our consolidated revenues. Within the federal government segment, our
+clients are evenly divided between the Department of Defense agencies and the
+civilian agencies. Our largest federal government client represents 7% of our
+consolidated revenues. In addition, over 99% of our consolidated revenues are
+derived from domestic clients. Clients may be lost due to merger, business
+failure or conversion to a competing processor or to an in-house system. Our
+business with the federal government is subject to various risks, including the
+reduction or modification of contracts due to changing government needs and
+requirements. Government contracts, by their terms, generally can be terminated
+for convenience by the government, which means that the government may terminate
+the contract at any time, without cause, and in certain instances we would be
+entitled to receive compensation only for the services provided or stranded
+asset costs incurred at the time of termination.
+
+     Approximately 89%, 88% and 89% of our revenues for fiscal years 2001, 2000
+and 1999, respectively, were recurring. We define recurring revenues as revenues
+derived from services that are used by our clients each year in connection with
+their ongoing businesses, and accordingly exclude conversion and deconversion
+fees, software license fees, product installation fees and hardware sales.
+
+     Our five largest customers accounted for approximately 18%, 18% and 19% of
+our fiscal years 2001, 2000 and 1999 revenues, respectively.
+
+COMPETITION
+
+     The markets for our services are intensely competitive and highly
+fragmented. The most significant competitive factors are reliability and quality
+of services, technical competence and price of services.
+
+     We believe we compete successfully in the business process outsourcing
+business by offering high quality services and favorable pricing by leveraging
+our technical skills, process knowledge, and economics of scale. Competition is
+highly fragmented and depends on the specific business process. Principal
+competitors include Electronic Data Systems (EDS), IBM, Unisys, Maximus,
+Transcore, FYI, Inc., National Processing Company, First Health, Lason, Inc. and
+several other small-to-medium-sized local and regional competitors.
+
+     We compete successfully for technology outsourcing contracts by offering
+high quality services and favorable pricing by leveraging our technical skills,
+infrastructure, and achieving economics of scale. We may be required to purchase
+technology assets from prospective clients or to provide financial assistance to
+prospective clients in order to obtain their contracts. Many of our competitors
+have substantially greater resources and thus, may have a greater ability to
+obtain client contracts where sizable asset purchases or investments are
+required. To maintain competitive prices, we operate with efficient and low
+overhead and maintain a significant client base and account/transaction base to
+achieve sufficient economies of scale. Our competition for technology
+outsourcing contracts consists of:
+
+     o    the first-tier outsourcers, including IBM, EDS and Computer Sciences
+          Corporation (CSC);
+
+     o    mid-sized divisions of large corporations such as Siemens, Perot
+          Systems; and
+
+     o    other smaller, regional competitors.
+
+     In the future, we expect competition to emerge from new players (e.g.
+Hewlett Packard, Compaq) as they shift their business strategy from hardware to
+both services and hardware.
+
+     In systems integration services markets, we actively compete with small
+specialized firms as well as with large competitors with a wider range of
+systems integration services. We believe that the key competitive factors in
+obtaining and retaining clients include the ability to understand project
+requirements, deliver appropriate skill sets in a timely manner and price
+services effectively. We must also compete for qualified personnel through
+competitive wages and by maintaining a consistent demand for the skills
+recruited. Our competition in systems integration services includes EDS, CSC,
+Science Applications International Corporation, and a wide variety of web
+hosting and development companies.
+
+                                       6
+<PAGE>   9
+
+SALES AND MARKETING
+
+     We market our services through field sales forces located throughout the
+United States. In order to enhance our sales and marketing efforts, we seek to
+hire sales representatives who have significant technical and subject matter
+expertise in the industries to which they will be marketing. Our sales forces
+are focused on specific service offerings or vertical markets, allowing our
+representatives to keep abreast of technology and industry developments.
+
+EMPLOYEES
+
+     We believe that our success depends on our continuing ability to attract
+and retain skilled technical, marketing and management personnel. As of June 30,
+2001, we had approximately 21,000 full-time equivalent employees, including
+approximately 17,000 employed domestically, with the balance employed in our
+international operations. Of the domestic employees, approximately 200 are
+represented by a union. Approximately 2,400 of our international full-time
+equivalent employees are represented by unions, primarily in Mexico, and we have
+had no work stoppages or strikes by these employees. Management considers its
+relations with employees to be good.
+
+     As of June 30, 2001, approximately 15,200 full-time equivalent employees
+provide business process, technology outsourcing and systems integration
+services to our commercial clients and approximately 5,300 full-time equivalent
+employees provide business process outsourcing and systems integration services
+to our federal government clients, including approximately 1,800 employees who
+have government security clearance. With the recent IMS acquisition, we have
+increased our workforce to approximately 26,000 employees.
+
+GOVERNMENT CONTRACTS AND REGULATION
+
+     After the IMS acquisition, approximately 25% of our revenues are derived
+from contracts and subcontracts with federal government agencies. Our allowable
+federal government contract costs and fees are subject to audit by the Defense
+Contract Audit Agency ("DCAA"). These audits may result in non-reimbursement of
+some contract costs and fees. To date, we have experienced no material
+adjustments as a result of audits by the DCAA. The DCAA has completed audits of
+the Company's federal contracts through fiscal year 1999 for a majority of the
+federal government contracts.
+
+     We are not directly subject to federal or state regulations specifically
+applicable to financial institutions. As a provider of services to financial
+institutions, however, our technology outsourcing and business process
+outsourcing solutions operations are examined periodically by various state and
+federal regulatory agencies. These agencies make recommendations regarding
+various aspects of our operations, and generally, we implement such
+recommendations. We also arrange for annual independent examinations of our
+major data processing facilities.
+
+ITEM 2. PROPERTIES
+
+     As of June 30, 2001, we have approximately 182 locations in the United
+States and 12 locations in 6 other countries. Approximately 1.1 million square
+feet is owned and approximately 2.7 million square feet is leased. The leases
+expire from 2001 to 2011 and we do not anticipate any significant difficulty in
+obtaining lease renewals or alternate space. Our executive offices are located
+in Dallas, Texas at a company-owned facility of approximately 621,000 square
+feet, which also houses a host data center and other operations. Our federal
+government sector executive offices are located in Rockville, Maryland in a
+company-owned facility of approximately 130,000 square feet. We believe that our
+current facilities are suitable and adequate for our business. With the IMS
+acquisition we have added 120 locations in the United States and two locations
+in other countries, which collectively encompass over 1.0 million square feet of
+leased space.
+
+ITEM 3. LEGAL PROCEEDINGS
+
+     On December 16, 1998, a state district court in Houston, Texas entered
+final judgment against us in a lawsuit brought by twenty-one former employees of
+Gibraltar Savings Association and/or First Texas Savings Association
+
+                                       7
+<PAGE>   10
+
+(collectively, "GSA/FTSA"). The GSA/FTSA employees alleged that they were
+entitled to the value of 401,541 shares of our stock pursuant to options issued
+to the GSA/FTSA employees in 1988 in connection with a former data processing
+services agreement between GSA/FTSA and us. The judgment against us was for
+approximately $17 million, which includes attorneys' fees and pre-judgment
+interest, but excludes additional attorneys' fees of approximately $850,000 and
+post-judgement interest at the statutorily mandated rate, which could be awarded
+in the event the plaintiffs are successful upon appeal and final judgment. We
+continue to believe that we have a meritorious defense to all or a substantial
+portion of the plaintiffs' claims. We filed our appeal of the judgment on March
+15, 1999 and a brief in support of such appeal has been filed. We plan to
+vigorously pursue the appeal. The plaintiffs also have filed a notice of appeal.
+A hearing has been set for September 20, 2001 for oral arguments on the parties'
+appeals. Should the proceedings not be favorably resolved on appeal, we would be
+subject to a material charge.
+
+     In addition to the foregoing, we are subject to certain other legal
+proceedings, claims and disputes which arise in the ordinary course of our
+business. Although we cannot predict the outcomes of these legal proceedings, we
+do not believe these actions, in the aggregate, will have a material adverse
+effect on our financial position, results of operations or liquidity.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     During the fiscal fourth quarter covered by this report, no matter was
+submitted to a vote of our security holders.
+
+                                       8
+<PAGE>   11
+
+                                     PART II
+
+ITEM 5. MARKET FOR OUR COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+     Our Class A common stock is traded on the New York Stock Exchange ("NYSE")
+under the symbol "ACS." The following table sets forth the high and low sales
+prices of our Class A common stock for the last two fiscal years as reported on
+NYSE.
+
+<Table>
+<Caption>
+Fiscal year ended June 30, 2001                                          High                 Low
+-------------------------------                                         ------               ------
+
+<S>                                                                     <C>                  <C>
+First Quarter                                                           $51.31               $32.63
+
+Second Quarter                                                           62.63                46.50
+
+Third Quarter                                                            68.60                53.63
+
+Fourth Quarter                                                           77.68                59.50
+
+<Caption>
+Fiscal year ended June 30, 2000                                          High                 Low
+-------------------------------                                         ------               ------
+
+<S>                                                                     <C>                  <C>
+First Quarter                                                           $53.00               $38.50
+
+Second Quarter                                                           46.00                31.75
+
+Third Quarter                                                            49.00                31.00
+
+Fourth Quarter                                                           39.88                31.75
+</Table>
+
+     On August 24, 2001, the last reported sales price of our Class A common
+stock as reported on the New York Stock Exchange was $85.25 per share.
+
+     Except for the dividends paid by ACS Government Solutions Group, Inc. prior
+to its becoming part of our company by a December 1997 merger, we have not paid
+any dividends to date on our common stock. We intend to continue to retain
+earnings for use in the operation of our business and, therefore, do not
+anticipate paying any dividends in the foreseeable future. Under the terms of
+our unsecured revolving credit agreement we are prohibited from paying dividends
+in any fiscal year in a total amount that would exceed 50% of our net income for
+the preceding fiscal year. Any future determination to pay dividends will be at
+the discretion of our Board of Directors and will be dependent upon our
+financial condition, results of operations, contractual restrictions, capital
+requirements, business prospects and such other factors as the Board of
+Directors deems relevant.
+
+                                       9
+<PAGE>   12
+
+ITEM 6. SELECTED CONSOLIDATED FINANCIAL DATA
+
+     The following selected consolidated financial data are qualified by
+reference to and should be read in conjunction with our Consolidated Financial
+Statements and Notes thereto and "Management's Discussion and Analysis of
+Financial Condition and Results of Operations" included elsewhere in this
+document.
+
+(In thousands, except per share amounts)
+
+<Table>
+<Caption>
+                                                              As of and for the year ended June 30,
+                                          ----------------------------------------------------------------------------
+                                             2001           2000              1999           1998              1997
+                                          ----------     ----------        ----------     ----------        ----------
+
+<S>                                       <C>            <C>               <C>            <C>               <C>
+RESULTS OF OPERATIONS DATA:
+
+Revenues                                  $2,063,559     $1,962,542        $1,642,216     $1,189,123        $  928,925
+Net income                                $  134,292     $  109,312(1)     $   86,230     $   54,422(3)     $   49,666
+Earnings per common share - basic         $     2.69     $     2.22(1)     $     1.77     $     1.14(3)     $     1.08
+Earnings per common share -
+   assuming dilution                      $     2.46     $     2.07(1)     $     1.66     $     1.11(3)     $     1.05
+
+Weighted average shares outstanding -
+   basic                                      49,879         49,244            48,839         47,599            46,136
+Weighted average shares outstanding
+   assuming dilution                          58,228         55,806            55,668         50,487            47,452
+
+BALANCE SHEET DATA:
+
+Working capital                           $  528,563     $  413,632(2)     $  194,226     $  198,118        $  110,866
+
+Total assets                              $1,891,687     $1,656,446        $1,223,600     $  949,798        $  761,477
+
+Total long-term debt
+   (less current portion)                 $  649,313     $  525,619        $  349,106     $  234,848        $  130,680
+
+Stockholders' equity                      $  885,515     $  711,377        $  607,421     $  503,670        $  427,481
+</Table>
+
+     (1)  Net income for fiscal year 2000 includes $1,055,000, or $.02 per
+          share, of net non-operating gains resulting from divestiture and
+          restructuring activities.
+
+     (2)  Working capital includes $180,335,000 of receivables from the
+          divestiture of business units prior to June 30, 2000 and $43,362,000
+          of net assets held-for-sale from business units to be divested
+          subsequent to June 30, 2000.
+
+     (3)  Net income for fiscal year 1998 includes $12,974,000 ($8,880,000 net
+          of tax) or $.19 and $.18 per basic and diluted share, respectively, of
+          merger costs we incurred in connection with the December 1997
+          Government Solutions Group merger.
+
+                                       10
+<PAGE>   13
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+FORWARD-LOOKING STATEMENTS
+
+     Management's Discussion and Analysis of Financial Condition and Results of
+Operations ("MD&A") includes "forward-looking statements" within the meaning of
+Section 27A of the Securities Act of 1933, as amended, and Section 21E of the
+Securities Exchange Act of 1934, as amended. All statements, other than
+statements of historical facts included in this MD&A regarding our financial
+position, business strategy and plans and objectives of our management for
+future operations, are forward-looking statements. These forward-looking
+statements rely on a number of assumptions concerning future events and are
+subject to a number of uncertainties and other factors, many of which are
+outside of our control, that could cause actual results to materially differ
+from such statements. While we believe that the assumptions concerning future
+events are reasonable, we caution that there are inherent difficulties in
+predicting certain important factors, especially the timing and magnitude of
+technological advances; the performance of recently acquired businesses; the
+prospects for future acquisitions; the possibility that a current customer could
+be acquired or otherwise affected by a future event that would diminish its
+information technology requirements; the competition in the information
+technology industry and the impact of such competition on pricing, revenues and
+margins; the degree to which business entities continue to outsource information
+technology and business processes; uncertainties surrounding budget reductions
+or changes in funding priorities for existing federal, state or local government
+programs; and the cost of attracting and retaining highly skilled personnel.
+
+GENERAL
+
+     We derive our revenues from delivering information technology services,
+including technology outsourcing, business process outsourcing and systems
+integration services, to the commercial sector and to the federal government. A
+substantial portion of our revenues is derived from recurring monthly charges to
+our customers under service contracts with initial terms that vary from one to
+ten years. For the fiscal year ended June 30, 2001, approximately 89% of our
+revenues were recurring. We define recurring revenues as revenues derived from
+services that are used by our customers each year in connection with their
+ongoing businesses, and accordingly exclude conversion and deconversion fees,
+software license fees, short-term contract programming engagements, product
+installation fees and hardware sales. Since the inception of our company through
+June 30, 2001, we have purchased 53 information technology services companies,
+resulting in geographic expansion, growth and diversification of our customer
+base, expansion of services offered and increased economies of scale.
+Approximately half of the increase in revenues since June 30, 1994 has been
+attributable to these acquisitions.
+
+RECENT EVENT
+
+     On August 24, 2001 we acquired Lockheed Martin IMS Corporation ("IMS") a
+wholly-owned subsidiary of Lockheed Martin Corporation for approximately $825
+million in cash plus transaction costs. The transaction was accounted for under
+the purchase method of accounting, and therefore unless specifically stated, the
+following Management's Discussion and Analysis does not include IMS operations.
+
+SIGNIFICANT DEVELOPMENTS - FISCAL YEAR 2001
+
+     During fiscal year 2001, we acquired five companies, all of which serve our
+commercial sector. We also signed contracts for a company record $345.0 million
+of annual recurring new business during fiscal year 2001.
+
+     In the third quarter of fiscal year 2001, we sold a new issue of $317
+million of 3.5% Convertible Subordinated Notes due February 15, 2006 (the "3.5%
+Notes"). The 3.5% Notes are convertible at any time prior to the maturity date,
+unless redeemed or repurchased, into our Class A common stock at a conversion
+rate of 11.5117 shares of Class A common stock for each $1,000 principal amount
+of 3.5% Notes (equivalent to a conversion price of $86.87 per share of Class A
+common stock), subject to adjustments in certain events. The 3.5% Notes may be
+redeemed at our option on or after February 18, 2004, in whole or in part, at
+the redemption prices set forth in the 3.5% Notes.
+
+                                       11
+<PAGE>   14
+
+     During the first quarter of fiscal year 2001, we recorded a $12.8 million
+gain in other non-operating income related to the sale of a non-strategic
+minority investment in ACS Merchant Services, Inc. Also during the quarter, we
+recorded a $10.4 million charge in connection with the termination of certain
+hardware leases and disaster recovery contracts (reflected in rent, lease and
+maintenance expense) and a $2.1 million charge for non-recurring litigation
+costs and the writedown of property held-for-sale (reflected in other operating
+expense).
+
+SIGNIFICANT DEVELOPMENTS - FISCAL YEAR 2000
+
+     In May 2000, we entered into a formal plan to divest certain non-strategic
+units consisting primarily of our ATM processing business and our commercial
+staffing business. These business units, which were no longer considered
+strategic to our long-term goal of providing information technology and business
+process outsourcing services, along with other smaller divested business units,
+accounted for approximately 15% of our fiscal year 2000 revenues. In June 2000,
+we sold the ATM processing business for cash proceeds of approximately $179.8
+million. The proceeds from this transaction were received in July 2000. In June
+2000, we also completed the sale of two small professional services and systems
+integration businesses resulting in cash proceeds of approximately $0.8 million.
+As a result of these divestiture transactions, we recorded a net pretax gain of
+$85.8 million during the fourth quarter of fiscal year 2000. The cash proceeds
+from these divestitures were used to pay down amounts outstanding under our
+existing credit facility.
+
+     During the fourth quarter of fiscal year 2000, we initiated a formal plan
+to divest the commercial staffing business and two other smaller business units.
+As a result, we recorded a $43.9 million pretax impairment charge for goodwill
+associated with the commercial staffing business and the net assets were
+reclassified into the balance sheet caption "Net Assets Held for Sale."
+Subsequently, the sale of these units was completed in the first quarter of
+fiscal year 2001 with proceeds of approximately $47.0 million.
+
+     At June 30, 2000, we recorded a $4.4 million pretax impairment charge for
+software and other intangibles associated with two other smaller businesses.
+
+     During the fourth quarter of fiscal year 2000, we recorded other
+non-recurring pretax charges of approximately $23.7 million related to the
+impairment of certain other intangibles, primarily customer contracts, charges
+associated with loss contracts, a contractual dispute with a client,
+non-recurring litigation and severance.
+
+     During fiscal year 2000, we acquired three companies, two serving our
+commercial segment and one serving the federal government segment. All of these
+acquisition transactions expanded our existing market expertise. Also during
+fiscal year 2000, we signed $232.0 million of annual recurring new business.
+
+                                       12
+<PAGE>   15
+
+RESULTS OF OPERATIONS
+
+     The following table sets forth certain items from our Consolidated
+Statements of Income expressed as a percentage of revenues and includes the
+non-recurring charges mentioned above in "Significant Developments":
+
+<Table>
+<Caption>
+                                         Percentage of Revenues
+                                           Year ended June 30,
+                                      -----------------------------
+                                      2001        2000        1999
+                                      -----       -----       -----
+
+<S>                                   <C>         <C>         <C>
+Revenues                              100.0%      100.0%      100.0%
+                                      -----       -----       -----
+Operating expenses:
+    Wages and benefits                 43.8        43.5        43.5
+    Services and supplies              29.0        31.0        30.5
+    Rent, lease and maintenance        10.8        10.5        11.1
+    Depreciation and amortization       4.5         4.3         4.0
+    Impairment charges                   --         2.9          --
+    Other operating expenses            0.9         1.5         1.2
+                                      -----       -----       -----
+Total operating expenses               89.0        93.7        90.3
+                                      -----       -----       -----
+Operating income                       11.0         6.3         9.7
+
+Interest expense                        1.2         1.2         1.1
+Net gain from divestitures               --        (4.4)         --
+Other non-operating income, net        (1.0)       (0.5)       (0.3)
+                                      -----       -----       -----
+Pretax profit                          10.8        10.0         8.9
+Income tax expense                      4.2         4.4         3.6
+                                      -----       -----       -----
+Net income                              6.6%        5.6%        5.3%
+                                      =====       =====       =====
+</Table>
+
+COMPARISON OF FISCAL 2001 TO FISCAL 2000
+
+     Excluding revenues from divested units of $7.5 million and $298.6 million
+in fiscal years 2001 and 2000, respectively, revenues increased $392.1 million,
+or 24%, from $1.66 billion to $2.01 billion. Internal growth for fiscal year
+2001 was 14%, while growth from acquisitions was 10%. Revenues in our commercial
+segment, excluding the fiscal year 2000 divestitures, rose 25%, or $262.3
+million, primarily due to new contracts in state Medicaid and Welfare benefit
+program management, as well as growth from new and existing business process
+outsourcing and technology outsourcing contracts. Revenues from our federal
+segment increased $129.8 million, or 21%, due to the full year impact of the
+acquisition of Intellisource in the fourth quarter of fiscal year 2000 and
+growth in our Department of Education contract.
+
+     Excluding the non-recurring charges of $12.5 million (see Significant
+Developments - Fiscal Year 2001) and $75.0 million (see Significant Developments
+- Fiscal Year 2000) in fiscal years 2001 and 2000, respectively, total operating
+expenses increased $63.2 million, or 3.6%, to $1.8 billion due to our growth in
+new business. As a percentage of revenues, wages and benefits increased from
+43.5% to 43.8% primarily as a result of the fiscal year 2000 divestitures, which
+had a smaller component of wages and benefits. In addition, the growth of our
+business process outsourcing services, which has a higher labor component, has
+increased this percentage. Services and supplies decreased as a percentage of
+revenues from 31.0% to 29.0% as a result of the divestiture of the ATM
+processing business, which had a large component of interchange fees paid to ATM
+distributors. Excluding the non-recurring items, rent, lease and maintenance
+remained relatively constant as a percentage of revenues. Excluding
+non-recurring items, other operating expenses decreased from 1.1% to 0.8% as a
+percentage of revenues due to legal and other expenses recorded in June 2000.
+
+     Other non-operating income, net includes a non-recurring gain of $12.8
+million in fiscal year 2001 related to the sale of an investment. Net gain from
+divestitures represents an $85.8 million gain in fiscal year 2000 as a result of
+the divestiture program completed in early fiscal year 2001 (see Significant
+Developments - Fiscal Year 2000).
+
+                                       13
+<PAGE>   16
+
+     Our effective tax rate of approximately 39.25% in fiscal year 2001 exceeded
+the federal statutory rate of 35% due primarily to the amortization of certain
+acquisition-related costs that are non-deductible for tax purposes, plus the net
+effect of state income taxes.
+
+COMPARISON OF FISCAL 2000 TO FISCAL 1999
+
+     Revenues increased $320.3 million, or 20%, for fiscal year 2000 to $1.96
+billion from $1.64 billion for fiscal year 1999. Of the 20% increase in
+revenues, approximately 10% was from internal growth and 10% from acquisitions.
+Revenues from our commercial segment increased $253.3 million, or 23%, over
+fiscal year 1999 primarily due to acquisitions and new business process
+outsourcing and technology outsourcing contracts with customers in the
+insurance, retail, healthcare and financial services industries. Revenues from
+our federal government segment increased $67.0 million, or 12%, over fiscal year
+1999 due primarily to increased requirements under the Department of Education's
+contract, new task orders under civilian agency contracts and the Intellisource
+acquisition.
+
+     Fiscal year 2000 results of operations include several non-recurring pretax
+charges totaling $72.0 million and a non-operating net pretax gain from
+divestitures of $85.8 million that are discussed above in Significant
+Developments - Fiscal Year 2000 and for purposes of the following discussion
+have been excluded. The net effect of these non-recurring transactions increased
+our basic and diluted earnings per share by approximately $0.02 for fiscal year
+2000.
+
+     Total operating expenses increased $283.5 million, or 19%, to $1.77 billion
+for fiscal year 2000 as compared to fiscal year 1999, due to our increase in
+revenues. As a percentage of revenues, operating expenses decreased slightly in
+fiscal year 2000 to 90.0% from 90.3% in fiscal year 1999 as a result of
+expansion through internal growth and acquisitions in our business process
+outsourcing service lines. Service and supplies as a percentage of revenues
+increased from 30.5% in fiscal year 1999 to 30.8% in fiscal year 2000 due to a
+higher component of subcontractor costs on the Department of Education contract
+and increased ATM transactions. Rent, lease and maintenance expense decreased as
+a percentage of revenues to 10.5% in fiscal year 2000 from 11.1% in fiscal year
+1999 due to current year acquisitions having a lower component of rent, lease
+and maintenance expense. Depreciation and amortization increased as a percentage
+of revenues to 4.3% in fiscal year 2000 compared to 4.0% in fiscal year 1999
+primarily due to the amortization of current year acquisition costs.
+
+     Operating income increased $36.8 million, or 23%, for fiscal year 2000 as
+compared to fiscal year 1999.
+
+     Interest expense increased $6.4 million to $24.0 million in fiscal year
+2000, compared to $17.6 million in fiscal year 1999, primarily due to an
+increase in interest rates and additional debt incurred for acquisitions.
+
+     Other non-operating income for fiscal year 2000 includes the recognition of
+a $3.0 million gain on the collection of a fully reserved note receivable from
+the sale of a business unit in fiscal year 1999 and the recognition of a $1.8
+million net gain on the sale of a minority investment.
+
+     Excluding the non-recurring transactions discussed in Significant
+Developments - Fiscal Year 2000, the effective tax rate for fiscal year 2000 was
+approximately 40.3% and exceeded the federal statutory rate of 35% due primarily
+to the amortization of certain acquisition-related costs that are non-deductible
+for tax purposes, plus the net effect of state income taxes.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+     At June 30, 2001, we had cash and cash equivalents totaling $242.5 million
+compared to $44.5 million at June 30, 2000. Included in the cash balances at
+June 30, 2001 and 2000 are $4.9 million and $22.3 million, respectively, of
+restricted cash held on behalf of governmental customers. Working capital
+increased to $528.6 million at June 30, 2001 from $413.6 million at June 30,
+2000 due primarily to the collection of proceeds from divestitures and the
+issuance of our 3.5% Notes, partially offset by the subsequent repayment of
+long-term debt under our credit facility.
+
+                                       14
+<PAGE>   17
+
+     Net cash provided by operating activities for fiscal year 2001 decreased to
+$141.9 million as compared with $157.8 million in fiscal year 2000. During the
+first quarter of fiscal year 2001, we paid approximately $50.0 million in income
+taxes related to the net gain from our divestiture activity and approximately
+$10.4 million of non-recurring lease termination charges, which are included in
+cash flow from operations. After adjusting for these items and divestiture
+activity, our net cash flow from operating activities would have been $200.6
+million for fiscal year 2001, an increase of $42.8 million over fiscal year
+2000. Net cash flow used in investing activities decreased by $246.7 million in
+fiscal year 2001 compared to fiscal year 2000 primarily due to the receipt of
+proceeds from divestitures of $202.8 million and a decrease in acquisition
+payments from $232.9 million to $173.4 million. Net cash provided by financing
+activities in fiscal year 2001 was $125.1 million as compared to $173.9 million
+in fiscal year 2000, and decreased due to repayments of our credit facility less
+the issuance of our 3.5% Notes.
+
+     In the third quarter of fiscal year 2001, we sold a new issue of $317
+million of 3.5% Notes, which allowed us to repay borrowings from our existing
+credit facility and to fund current and future acquisitions. As of June 30,
+2001, we had $340.8 million of availability under our $450 million credit
+facility.
+
+     As discussed in Recent Events, we funded the purchase of IMS through a
+combination of an 18-month $550 million interim facility lead by Bear, Stearns &
+Co. Inc. and Wells Fargo, N.A., available cash on hand and borrowings under our
+existing credit facility. We have announced plans to refinance the interim
+facility by using proceeds we receive from the issuance of equity and long-term
+debt. While the precise mix, size and timing are subject to market conditions,
+we expect to offer $500 million of our Class A common stock and $300 million of
+long-term debt. No assurance can be given to our refinancing plans and how or
+when they will be completed. Absent a refinancing, we would be subject to
+incremental interest on the interim facility and would most likely jeopardize
+our investment grade ratings.
+
+     Excluding the item discussed above, our management believes that available
+cash and cash equivalents, together with cash generated from operations and
+available borrowings under our credit facility, will provide adequate funds for
+our anticipated internal growth needs, including working capital expenditures.
+Our management also believes that cash provided by operations will be sufficient
+to satisfy all existing debt obligations as they become due. However, we intend
+to continue our growth through acquisitions and from time to time to engage in
+discussions with potential acquisition candidates. In order to pursue such
+opportunities, which could require significant commitments of capital, we may be
+required to incur debt or to issue additional potentially dilutive securities in
+the future. No assurance can be given as to our future acquisition and expansion
+opportunities and how such opportunities will be financed.
+
+NEW ACCOUNTING STANDARDS
+
+     In June 2001, the Financial Accounting Standards Board (the "FASB") issued
+Statement of Financial Accounting Standards No. 142, "Goodwill and Other
+Intangible Assets." SFAS 142 addresses the accounting and reporting of acquired
+goodwill and other intangible assets. SFAS 142 discontinues amortization of
+acquired goodwill and instead requires annual impairment testing of acquired
+goodwill. Intangible assets will be amortized over their useful economic life
+and tested for impairment in accordance with SFAS 121 "Accounting for the
+Impairment of Long-Lived Assets and for Long-Lived Assets to Be Disposed Of."
+Intangible assets with an indefinite useful economic life should not be
+amortized until the life of the asset is determined to be finite. We have
+adopted SFAS 142 effective July 1, 2001. SFAS 142 will have a significant
+favorable impact on our fiscal year 2002 financial results. See Note 1 of the
+Notes to Consolidated Financial Statements for further discussion of the impact
+of SFAS 142.
+
+     Also in June 2001, the FASB issued Statement of Financial Accounting
+Standards No. 141, "Business Combinations." SFAS 141 requires that all business
+combinations be accounted for under the purchase method and defines the criteria
+for identifying intangible assets for recognition apart from goodwill. SFAS 141
+applies to all business combinations initiated after June 30, 2001 and all
+business combinations accounted for using the purchase method for which the
+acquisition date is July 1, 2001 or later. We have adopted SFAS 141 effective
+July 1, 2001. We are currently evaluating the impact of SFAS 141 on our future
+earnings and financial position.
+
+                                       15
+<PAGE>   18
+
+     In December 1999, the Securities and Exchange Commission issued Staff
+Accounting Bulletin 101, "Revenue Recognition in Financial Statements". SAB 101
+provides guidance on the recognition, presentation and disclosure of revenue in
+financial statements and requires adoption no later than the fourth quarter of
+fiscal year 2001. We have adopted the provisions of SAB 101 and do not believe
+the adoption of SAB 101 has had a material impact on our earnings and financial
+position.
+
+     In June 1999, the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standards No. 137, "Accounting for Derivative Instruments
+and Hedging Activities - Deferral of the Effective Date of the FASB Statement
+No. 133". SFAS 137 deferred the effective date of SFAS 133, "Accounting for
+Derivatives and Hedging Activities" to fiscal years beginning after June 15,
+2000. We adopted SFAS 133 on July 1, 2000. We do not believe the adoption of
+SFAS 133 has had a material impact on our earnings and financial position.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+DERIVATIVE FINANCIAL INSTRUMENTS
+
+     We have fixed rate and variable rate debt instruments. Our variable rate
+debt instruments are subject to market risk from changes in interest rates. In
+order to manage interest costs and exposure to changing interest rates, we hold
+two interest rate hedges initiated in December 1998 and expiring in December
+2001. Each hedge is designated a cash flow hedge and is structured such that we
+pay a fixed rate of interest of 4.54%, and receive a floating rate of interest
+based on one month LIBOR. The notional amount of the two hedges totals
+$100,000,000, and the fair market value of the two hedges at June 30, 2001 is
+($355,000). The fair value of each interest rate hedge reflects termination cash
+value. The fair value of the interest rate hedges, net of $139,000 tax benefit,
+is reflected in accumulated other comprehensive income.
+
+     To protect ourselves from the volatility of the value of our marketable
+security investment, we entered into a no-cost collar agreement in June 2001,
+which matures in March 2002. The collar, a fair value hedge, is structured so
+that all fluctuations in the price of the marketable security above or below
+100% or 102.5% of its value on the date the collar was entered into are hedged.
+As of June 30, 2001, the collar had a fair market value of $27,000.
+
+     We do not hold or issue derivative financial instruments for trading
+purposes and are not a party to any leveraged derivative transactions.
+Sensitivity analysis is one technique used to measure the impact of changes in
+the interest rates on the value of market-risk sensitive financial instruments.
+A hypothetical 10% movement in interest rates would not have a material impact
+on our future earnings, fair value or cash flows.
+
+                                       16
+<PAGE>   19
+
+<Table>
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA                                    PAGE
+---------------------------------------------------                                    ----
+
+<S>                                                                                    <C>
+Report of Independent Accountants                                                       18
+
+Consolidated Balance Sheets                                                             19
+
+Consolidated Statements of Income                                                       20
+
+Consolidated Statements of Changes in Stockholders' Equity                              21
+
+Consolidated Statements of Cash Flows                                                   22
+
+Notes to the Consolidated Financial Statements                                          23
+
+Schedule II - Valuation and Qualifying Accounts                                         42
+</Table>
+
+                                       17
+<PAGE>   20
+
+                        REPORT OF INDEPENDENT ACCOUNTANTS
+
+To the Board of Directors and Stockholders of Affiliated Computer Services, Inc.
+
+In our opinion, the consolidated financial statements listed in the accompanying
+index present fairly, in all material respects, the financial position of
+Affiliated Computer Services, Inc. and its subsidiaries at June 30, 2001 and
+2000, and the results of their operations and their cash flows for each of the
+three years in the period ended June 30, 2001 in conformity with accounting
+principles generally accepted in the United States of America. In addition, in
+our opinion, the financial statement schedule listed in the accompanying index
+presents fairly, in all material respects, the information set forth therein
+when read in conjunction with the related consolidated financial statements.
+These financial statements and financial statement schedule are the
+responsibility of the Company's management; our responsibility is to express an
+opinion on these financial statements and financial statement schedule based on
+our audits. We conducted our audits of these statements in accordance with
+auditing standards generally accepted in the United States of America, which
+require that we plan and perform the audit to obtain reasonable assurance about
+whether the financial statements are free of material misstatement. An audit
+includes examining, on a test basis, evidence supporting the amounts and
+disclosures in the financial statements, assessing the accounting principles
+used and significant estimates made by management, and evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+
+PricewaterhouseCoopers LLP
+
+Dallas, Texas
+July 31, 2001 except for Note 19, as to which the date is August 24, 2001
+
+                                       18
+<PAGE>   21
+
+               AFFILIATED COMPUTER SERVICES, INC. AND SUBSIDIARIES
+                           CONSOLIDATED BALANCE SHEETS
+                                 (IN THOUSANDS)
+
+<Table>
+<Caption>
+                                                                                     JUNE 30,
+                                                                           ----------------------------
+                                                                              2001             2000
+                                                                           -----------      -----------
+
+<S>                                                                        <C>              <C>
+                           ASSETS
+
+Current assets:
+    Cash and cash equivalents                                              $   242,458      $    44,521
+     Accounts receivable, net                                                  472,042          399,853
+     Receivable from divestitures                                                   --          180,335
+     Inventory                                                                   8,591            7,324
+     Prepaid expenses and other current assets                                  77,572           71,290
+     Net assets held for sale                                                       --           43,362
+     Deferred taxes                                                              8,952           25,189
+                                                                           -----------      -----------
+         Total current assets                                                  809,615          771,874
+
+Property and equipment and software, net                                       237,563          194,034
+Goodwill and other intangibles, net                                            794,920          650,263
+Long-term investments and other assets                                          49,589           40,275
+                                                                           -----------      -----------
+         Total assets                                                      $ 1,891,687      $ 1,656,446
+                                                                           ===========      ===========
+
+              LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Current liabilities:
+     Accounts payable                                                      $    40,265      $    47,901
+     Accrued compensation and benefits                                          82,043           69,208
+     Other accrued liabilities                                                 126,875          156,720
+     Income taxes payable                                                        7,742           60,671
+     Current portion of long-term debt                                           3,362            2,877
+     Current portion of unearned revenue                                        20,765           20,865
+                                                                           -----------      -----------
+         Total current liabilities                                             281,052          358,242
+
+Convertible notes                                                              546,927          230,000
+Long-term debt                                                                 102,386          295,619
+Deferred taxes                                                                  55,601           35,316
+Other long-term liabilities                                                     20,206           25,892
+                                                                           -----------      -----------
+         Total liabilities                                                   1,006,172          945,069
+                                                                           -----------      -----------
+
+Commitments and contingencies
+
+Stockholders' equity:
+      Class A common stock, $.01 par value, 500,000 shares authorized,
+            47,282 and 46,281 shares outstanding, respectively                     473              463
+      Class B common stock, $.01 par value, 14,000 shares authorized,
+             3,300 shares outstanding                                               33               33
+      Additional paid-in capital                                               350,767          321,525
+      Retained earnings                                                        534,374          400,200
+      Accumulated other comprehensive income, net                                 (132)              --
+      Treasury stock, at cost (0 and 246 shares, respectively)                      --          (10,844)
+                                                                           -----------      -----------
+         Total stockholders' equity                                            885,515          711,377
+                                                                           -----------      -----------
+
+         Total liabilities and stockholders' equity                        $ 1,891,687      $ 1,656,446
+                                                                           ===========      ===========
+</Table>
+
+        The accompanying notes are an integral part of these consolidated
+                             financial statements.
+
+                                       19
+<PAGE>   22
+
+               AFFILIATED COMPUTER SERVICES, INC. AND SUBSIDIARIES
+                        CONSOLIDATED STATEMENTS OF INCOME
+                     (IN THOUSANDS EXCEPT PER SHARE AMOUNTS)
+
+<Table>
+<Caption>
+                                                                     YEAR ENDED JUNE 30,
+                                                        ---------------------------------------------
+                                                           2001             2000             1999
+                                                        -----------      -----------      -----------
+
+<S>                                                     <C>              <C>              <C>
+Revenues                                                $ 2,063,559      $ 1,962,542      $ 1,642,216
+
+Operating expenses:
+     Wages and benefits                                     904,684          854,162          713,984
+     Services and supplies                                  598,797          608,401          500,631
+     Rent, lease and maintenance                            223,679          206,330          183,116
+     Depreciation and amortization                           93,617           84,752           66,723
+     Impairment charges                                          --           56,571               --
+     Other operating expenses                                19,056           28,918           19,178
+                                                        -----------      -----------      -----------
+         Total operating expenses                         1,839,833        1,839,134        1,483,632
+                                                        -----------      -----------      -----------
+
+Operating income                                            223,726          123,408          158,584
+
+Interest expense                                             23,742           23,979           17,594
+Net gain on divestitures                                         --          (85,846)              --
+Other non-operating income                                  (21,076)          (9,995)          (4,547)
+                                                        -----------      -----------      -----------
+     Pretax profit                                          221,060          195,270          145,537
+                                                        -----------      -----------      -----------
+
+Income tax expense                                           86,768           85,958           59,307
+                                                        -----------      -----------      -----------
+
+     Net income                                         $   134,292      $   109,312      $    86,230
+                                                        ===========      ===========      ===========
+
+Earnings per common share:
+     Basic                                              $      2.69      $      2.22      $      1.77
+                                                        ===========      ===========      ===========
+     Diluted                                            $      2.46      $      2.07      $      1.66
+                                                        ===========      ===========      ===========
+Shares used in computing earnings per common share:
+     Basic                                                   49,879           49,244           48,839
+     Diluted                                                 58,228           55,806           55,668
+</Table>
+
+        The accompanying notes are an integral part of these consolidated
+                             financial statements.
+
+                                       20
+<PAGE>   23
+
+               AFFILIATED COMPUTER SERVICES, INC. AND SUBSIDIARIES
+           CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY
+                                 (IN THOUSANDS)
+
+<Table>
+<Caption>
+                                                    Common Stock
+                                   ------------------------------------------------                                Accumulated
+                                        Class A                      Class B           Additional                      Other
+                                   --------------------         -------------------      Paid-in       Retained    Comprehensive
+                                   Shares      Amount           Shares     Amount        Capital       Earnings        Income
+                                   ------     ---------         ------    ---------     ---------      ---------   -------------
+
+<S>                                <C>        <C>               <C>       <C>           <C>            <C>            <C>
+Balance at June 30, 1998           44,938     $     449         3,300     $      33     $ 298,393      $ 204,795      $      --
+
+Comprehensive income:
+       Net income                                                                                         86,230
+
+ Total comprehensive income
+
+Employee stock
+    transactions and
+    related tax benefits              387             4            --            --         6,658             --             --
+Stock issued in connection
+    with an acquisition               273             3            --            --        11,197             --             --
+
+Other, net                            347             4            --            --           (46)             4             --
+                                   ------     ---------         -----     ---------     ---------      ---------      ---------
+Balance at June 30, 1999           45,945           460         3,300            33       316,202        291,029             --
+
+Comprehensive income:
+       Net income                                                                                        109,312
+
+ Total comprehensive income
+
+
+Employee stock
+    transactions and
+    related tax benefits              332             3            --            --         5,157             --             --
+Stock purchased in
+    connection with an
+    acquisition                        --            --            --            --            --             --             --
+
+Purchase of treasury shares            --            --            --            --            (2)            --             --
+
+Other, net                              4            --            --            --           168           (141)            --
+                                   ------     ---------         -----     ---------     ---------      ---------      ---------
+Balance at June 30, 2000           46,281           463         3,300            33       321,525        400,200             --
+
+Comprehensive income:
+    Unrealized gains on
+    marketable securities              --            --            --            --            --             --             84
+
+    Interest rate hedge                --            --            --            --            --             --           (216)
+       Net income                                                                                        134,292
+
+ Total comprehensive income
+
+
+Employee stock
+    transactions and
+    related tax benefits            1,000            10            --            --        29,179             --             --
+Conversion of 4%
+    Convertible
+    Subordinated Notes                  1            --            --            --            63             --             --
+
+Other, net                             --            --            --            --            --           (118)            --
+                                   ------     ---------         -----     ---------     ---------      ---------      ---------
+Balance at June 30, 2001           47,282     $     473         3,300     $      33     $ 350,767      $ 534,374      $    (132)
+                                   ======     =========         =====     =========     =========      =========      =========
+
+<Caption>
+
+
+
+                                     Treasury
+                                      Shares        Amount          Total
+                                     --------      ---------      ---------
+
+<S>                                  <C>           <C>            <C>
+Balance at June 30, 1998                   --      $      --      $ 503,670
+
+Comprehensive income:
+       Net income                                                    86,230
+                                                                  ---------
+ Total comprehensive income                                          86,230
+                                                                  ---------
+Employee stock
+    transactions and
+    related tax benefits                   (8)          (303)         6,359
+Stock issued in connection
+    with an acquisition                    --             --         11,200
+
+Other, net                                 --             --            (38)
+                                      -------      ---------      ---------
+Balance at June 30, 1999                   (8)          (303)       607,421
+
+Comprehensive income:
+       Net income                                                   109,312
+                                                                  ---------
+ Total comprehensive income                                         109,312
+                                                                  ---------
+
+Employee stock
+    transactions and
+    related tax benefits                   38          1,576          6,736
+Stock purchased in
+    connection with an
+    acquisition                          (273)       (12,020)       (12,020)
+
+Purchase of treasury shares                (3)           (97)           (99)
+
+Other, net                                 --             --             27
+                                      -------      ---------      ---------
+Balance at June 30, 2000                 (246)       (10,844)       711,377
+
+Comprehensive income:
+    Unrealized gains on
+    marketable securities                  --             --             84
+
+    Interest rate hedge                    --             --           (216)
+       Net income                                                   134,292
+                                                                  ---------
+ Total comprehensive income                                         134,160
+                                                                  ---------
+
+Employee stock
+    transactions and
+    related tax benefits                  246         10,844         40,033
+Conversion of 4%
+    Convertible
+    Subordinated Notes                     --             --             63
+
+Other, net                                 --             --           (118)
+                                      -------      ---------      ---------
+Balance at June 30, 2001                   --      $      --      $ 885,515
+                                      =======      =========      =========
+</Table>
+
+        The accompanying notes are an integral part of these consolidated
+                             financial statements.
+
+                                       21
+<PAGE>   24
+
+               AFFILIATED COMPUTER SERVICES, INC. AND SUBSIDIARIES
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                 (In thousands)
+
+<Table>
+<Caption>
+                                                                                               Year ended June 30,
+                                                                                      ---------------------------------------
+                                                                                        2001           2000           1999
+                                                                                      ---------      ---------      ---------
+
+<S>                                                                                   <C>            <C>            <C>
+CASH FLOWS FROM OPERATING ACTIVITIES:
+     Net income                                                                       $ 134,292      $ 109,312      $  86,230
+                                                                                      ---------      ---------      ---------
+     Adjustments to reconcile net income to net cash provided by operating
+        activities:
+             Depreciation and amortization                                               93,617         84,752         66,723
+             Impairment charges                                                              --         56,571             --
+             Net gain on divestitures                                                        --        (85,846)            --
+             Gain on collection of note receivable                                       (1,713)        (3,000)            --
+             Gain on sale of investment                                                 (12,785)        (1,892)            --
+             Other                                                                          526         (1,483)           910
+             Changes in assets and liabilities, net of effects from acquisitions:
+                  Decrease in ATM cash                                                       --            100          3,900
+                  Increase in accounts receivable                                       (45,745)       (49,436)       (43,483)
+                  (Increase) decrease in inventory                                       (1,160)             3         (1,868)
+                  Increase in prepaid expenses and other current assets                  (2,965)       (28,747)        (3,768)
+                  Change in deferred taxes                                               37,359        (14,612)        28,667
+                  (Increase) decrease in other long-term assets                           3,449           (418)        (3,494)
+                  Increase (decrease) in accounts payable                               (11,273)         9,929           (882)
+                  Increase (decrease) in accrued compensation and benefits               13,190         (4,018)        14,129
+                  Increase (decrease) in other accrued liabilities                      (23,357)        22,565         (7,011)
+                  Increase (decrease) in income taxes payable                           (32,258)        62,978          8,354
+                  Decrease in other long-term liabilities                                (1,069)           (54)        (5,835)
+                  Increase (decrease) in unearned revenue                                (8,194)         1,119             78
+                                                                                      ---------      ---------      ---------
+                      Total adjustments                                                   7,622         48,511         56,420
+                                                                                      ---------      ---------      ---------
+                      Net cash provided by operating activities                         141,914        157,823        142,650
+                                                                                      ---------      ---------      ---------
+CASH FLOWS FROM INVESTING ACTIVITIES:
+     Purchases of property, equipment and software, net                                 (99,070)       (71,548)       (61,141)
+     Additions to other intangible assets                                               (21,695)        (9,100)       (11,962)
+     Payments for acquisitions, net of cash acquired                                   (173,402)      (232,888)      (231,274)
+     Proceeds from divestitures, net of transaction costs                               202,718             99          1,200
+     Payment for investments                                                               (500)       (12,620)            --
+     Proceeds from sale of investments                                                   17,100          2,731             --
+     Additions to notes receivable                                                       (3,781)        (2,038)            --
+     Proceeds from notes receivable                                                       9,492          9,586          2,822
+                                                                                      ---------      ---------      ---------
+                       Net cash used in investing activities                            (69,138)      (315,778)      (300,355)
+                                                                                      ---------      ---------      ---------
+CASH FLOWS FROM FINANCING ACTIVITIES:
+     Proceeds from issuance of long-term debt, net                                      674,893        657,040        206,052
+     Payments of long-term debt                                                        (566,912)      (485,116)       (93,284)
+     Employee stock transactions, net of related tax benefits                            17,829          3,185          1,829
+     Net borrowings (payments) of ATM debt                                                   --           (100)        (3,900)
+     Other, net                                                                            (649)        (1,113)          (300)
+                                                                                      ---------      ---------      ---------
+                       Net cash provided by financing activities                        125,161        173,896        110,397
+                                                                                      ---------      ---------      ---------
+     Net increase (decrease) in cash and cash equivalents                               197,937         15,941        (47,308)
+     Cash and cash equivalents at beginning of year                                      44,521         28,580         75,888
+                                                                                      ---------      ---------      ---------
+     Cash and cash equivalents at end of year                                         $ 242,458      $  44,521      $  28,580
+                                                                                      =========      =========      =========
+</Table>
+
+      See supplemental cash flow information in Notes 2, 6, 7, 8, 9 and 10.
+       The accompanying notes are an integral part of these consolidated
+                             financial statements.
+
+                                       22
+<PAGE>   25
+
+               AFFILIATED COMPUTER SERVICES, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+1. BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Description of business and basis of presentation
+
+     We are a Fortune 1000 company comprised of approximately 21,000 people in
+23 countries providing business process and technology outsourcing solutions to
+world-class commercial and government clients. We were incorporated on June 8,
+1988.
+
+     The consolidated financial statements are comprised of our accounts and our
+majority-owned subsidiaries. All significant intercompany accounts and
+transactions have been eliminated in consolidation. Our fiscal year ends on June
+30. The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the amounts reported in the consolidated financial
+statements and accompanying notes. Actual results could differ from these
+estimates.
+
+Cash and cash equivalents
+
+     Cash and cash equivalents consist primarily of short-term investments in
+commercial paper. Such investments have an initial maturity of three months or
+less. Included in cash and cash equivalents are $4,856,000 and $22,283,000 at
+June 30, 2001 and 2000, respectively, of restricted cash held on behalf of
+governmental customers.
+
+Inventory
+
+     Inventories consist primarily of micrographics supplies and equipment,
+network computer hardware, computer maintenance parts and bindery materials
+which are generally recorded at the lower of cost or market (net realizable
+value) using the first-in, first-out method.
+
+Marketable Securities
+
+     Marketable securities are recorded in prepaid expenses and other current
+assets at June 30, 2001 and consists of a single corporate equity security
+investment which is classified as available-for-sale. The investment is recorded
+at fair market value, and changes in unrealized holding gains or losses are
+reported as a component of other comprehensive income in stockholders' equity
+until realized.
+
+Property and equipment, net
+
+     Property and equipment are recorded at cost. The cost of property and
+equipment held under capital leases, primarily computer equipment, is equal to
+the lower of the net present value of the minimum lease payments or the fair
+value of the leased property at the inception of the lease. Depreciation is
+computed using the straight-line method over the estimated useful lives of the
+assets, which for equipment ranges primarily from three to ten years and for
+buildings and improvements up to forty years.
+
+Software
+
+     Costs incurred to develop computer software to be sold as a separate
+product are capitalized only after technological feasibility has been
+established. Purchased computer software and internally developed computer
+software purchased through acquisitions are amortized using the straight-line
+method over expected useful lives which range from two to five years.
+Amortization of computer software was $5,978,000, $6,489,000 and $5,094,000 in
+fiscal 2001, 2000 and 1999, respectively.
+
+     In accordance with Statement of Position ("SOP") 98-1, "Accounting for
+Costs of Computer Software Developed or Obtained for Internal Use", certain
+costs related to the development or purchase of internal-use software are
+capitalized and amortized over the estimated useful life of the software. During
+fiscal 2001 and 2000, we capitalized approximately $7,726,000 and $1,179,000,
+respectively, in software costs under SOP 98-1, which are being amortized over a
+three-year life.
+
+                                       23
+<PAGE>   26
+
+               AFFILIATED COMPUTER SERVICES, INC. AND SUBSIDIARIES
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+Goodwill
+
+     Goodwill represents the excess of the purchase price over the fair value of
+net assets acquired and is amortized using the straight-line method over the
+expected useful lives which range from ten to forty years. It is our policy to
+periodically review the net realizable value of our intangible assets, including
+goodwill, through an assessment of the estimated future cash flows related to
+such assets. Each business unit to which these intangible assets relate is
+reviewed to determine whether future cash flows over the remaining estimated
+useful lives of the long-lived assets provide for recovery of the carrying value
+of the assets. In the event that assets are found to be carried at amounts which
+are in excess of estimated undiscounted future cash flows, then the intangible
+assets are adjusted for impairment to a level commensurate with a discounted
+cash flow analysis of the underlying assets.
+
+     In June 2001, the Financial Accounting Standards Board (the "FASB") issued
+Statement of Financial Accounting Standards No. 142, "Goodwill and Other
+Intangible Assets." SFAS 142 addresses the accounting and reporting of acquired
+goodwill and other intangible assets. SFAS 142 discontinues amortization of
+acquired goodwill and instead requires annual impairment testing of acquired
+goodwill. Intangible assets will be amortized over their useful economic life
+and tested for impairment in accordance with SFAS 121 "Accounting for the
+Impairment of Long-Lived Assets and for Long-Lived Assets to Be Disposed Of."
+Intangible assets with an indefinite useful economic life should not be
+amortized until their life is determined to be finite.
+
+     The provisions of SFAS 142 will be effective for fiscal years beginning
+after December 31, 2001. However, early adoption of SFAS 142 is permitted for
+companies with a fiscal year beginning after March 15, 2001. We have adopted
+SFAS 142 effective July 1, 2001. SFAS 142 will have a significant impact on our
+financial results based on the historical amortization of goodwill. During
+fiscal years 2001, 2000 and 1999, we had after-tax goodwill amortization expense
+of $20,711,000, $18,824,000, and $10,776,000, respectively, which, beginning
+July 1, 2001, will no longer be expensed under SFAS 142.
+
+Other intangible assets
+
+     Other intangible assets consist primarily of customer contracts, which are
+recorded at cost and amortized using the straight-line method over the contract
+terms, which range from three to ten years.
+
+Derivative financial instruments
+
+     We use derivative financial instruments for the purpose of hedging specific
+exposures, and hold all derivatives for purposes other than trading. All
+derivative financial instruments held reduce the risk of the underlying hedged
+item and are designated at inception as hedges with respect to the underlying
+hedged item. Such instruments to date have been limited to interest rate swap
+contracts and a no-cost equity collar (see Note 14).
+
+Long-term investments and other assets
+
+     Long-term investments consist primarily of equity investments accounted for
+using the cost method. Deferred annuity contracts included in long-term
+investments are carried at cost plus accrued interest, which approximates fair
+market value. It is our policy to periodically review the net realizable value
+of our long-term investments through an assessment of the recoverability of the
+carrying amount of each investment. Each investment is reviewed to determine if
+events or changes in circumstances of the issuer have occurred which indicate
+that the recoverability of the carrying amount may be uncertain. In the event
+that an investment is found to be carried at an amount in excess of its
+recoverable amount, the asset is adjusted for impairment to a level commensurate
+with the recoverable amount of the underlying asset.
+
+     Other assets consist primarily of deferred debt issuance costs and
+long-term receivables. The deferred debt issuance costs are being amortized
+using the straight-line method over the life of the related debt, which
+approximates the effective interest method.
+
+                                       24
+<PAGE>   27
+
+               AFFILIATED COMPUTER SERVICES, INC. AND SUBSIDIARIES
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+Revenue recognition
+
+     During fiscal year 2001, we adopted Staff Accounting Bulletin 101 "Revenue
+Recognition in Financial Statements." SAB 101 provides guidance on the
+recognition, presentation and disclosure of revenue in financial statements. The
+adoption of SAB 101 did not have a material impact on our financial statements.
+We recognize revenues when persuasive evidence of an arrangement exists, the
+product has been shipped or the services have been provided to the client, the
+sales price is fixed or determinable and collectibility is reasonably assured.
+
+     Generally, information technology processing revenues are recognized as
+services are provided to the client. Revenues from annual maintenance contracts
+are deferred and recognized ratably over the maintenance period. Revenues from
+hardware sales are recognized upon delivery to the client and uncertainties
+regarding customer acceptance have expired.
+
+     In the federal government segment, our contracts are typically cost
+reimbursable, fixed price, unit price or time and material contracts. Revenues
+on cost reimbursable contracts are recognized by applying an estimated factor to
+costs as incurred, such factor being determined by the contract provisions and
+prior experience. Revenues on fixed price contracts are recognized over the
+contract term based on the percentage of services that are provided during the
+period compared with the total estimated services to be provided over the entire
+contract. Revenues on unit-price contracts are recognized at the contractual
+selling prices of work completed and accepted by the customer. Revenues on time
+and material contracts are recognized at the contractual rates as the labor
+hours and direct expenses are incurred.
+
+     Revenues earned in excess of related billings are accrued, whereas billings
+in excess of revenues earned are deferred until the related services are
+provided. Immediate recognition is made of any anticipated losses.
+
+     Revenues earned from our five largest customers each year together
+comprised 18%, 18% and 19% of revenues for the years ended June 30, 2001, 2000
+and 1999, respectively. Trade accounts receivable from these customers
+aggregated $43,687,000 at June 30, 2001 and $44,642,000 at June 30, 2000.
+
+Income taxes
+
+     Deferred income taxes provided in the accompanying financial statements are
+determined based on the difference between financial statement and tax bases of
+assets and liabilities using enacted tax rates in effect for the years in which
+such differences are expected to reverse.
+
+Earnings per common share
+
+     Basic earnings per share is computed using the weighted average number of
+common shares outstanding during the period. Diluted earnings per share is
+computed using the combination of dilutive common share equivalents and the
+weighted average number of common shares outstanding during the period. See Note
+13 for the computation of earnings per share.
+
+Stock-based compensation
+
+     We adopted the disclosure-only provisions of Statement of Financial
+Accounting Standards No. 123, "Accounting for Stock-Based Compensation" ("SFAS
+123"), which establishes accounting and reporting standards for stock-based
+employee compensation plans. As permitted by the standard, we have elected not
+to adopt the fair value based method of accounting for stock-based employee
+compensation and will continue to account for such arrangements under Accounting
+Principles Board Opinion No. 25, "Accounting for Stock Issued to Employees"
+("APB 25") and apply SFAS 123 on a disclosure basis only.
+
+Reclassifications
+
+     Certain reclassifications have been made to prior period financial
+statements to conform to current presentation.
+
+                                       25
+<PAGE>   28
+
+               AFFILIATED COMPUTER SERVICES, INC. AND SUBSIDIARIES
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+2. BUSINESS COMBINATIONS
+
+     From our inception through June 30, 2001, we have acquired 53 businesses in
+the information technology services industry that were accounted for under the
+purchase accounting method. Our recent acquisition activity is summarized as
+follows:
+
+<Table>
+<Caption>
+Year ended June 30,                          2001         2000         1999
+-------------------                        --------     --------     --------
+
+<S>                                        <C>          <C>          <C>
+Purchase consideration (in thousands):
+    Net cash paid                          $166,108     $211,355     $230,269
+    Amounts due to seller                     1,536          708           --
+    Stock issued                                 --           --       11,500
+    Liabilities assumed                      19,220       59,759       39,439
+    Other                                        --           --          575
+                                           --------     --------     --------
+         Fair value of assets acquired
+             (including intangibles)       $186,864     $271,822     $281,783
+                                           ========     ========     ========
+</Table>
+
+     During fiscal year 2001, we completed five acquisitions, all of which serve
+our commercial segment. The most significant of these increased our presence in
+the state and local government sector. We acquired the Global Government
+Solutions division of Systems & Computer Technology Corporation, which delivers
+state and local government outsourcing solutions. We also acquired Business
+Resources Corporation, which provides outsourced records management, document
+workflow imaging systems and services, and real estate title plant services to
+state and local governments. We established goodwill lives of twenty to thirty
+years on fiscal year 2001 acquisitions based on management's knowledge of these
+types of businesses. These acquisitions are not considered material to our
+results of operations; therefore, no proforma information is presented.
+
+     During fiscal year 2000, we acquired three companies, two serving our
+commercial markets and one serving the federal government market. The
+Intellisource Group, Inc. is a leading provider of information technology
+solutions to the federal, state and local government and utility markets. Birch
+& Davis Holdings, Inc. provides program management operations and consulting
+services related to healthcare delivery and reform issues, primarily to federal
+and state government agencies. Consultec, LLC provides design, development and
+operation of decision support, claims administration and managed care support
+systems to over twenty state Medicaid programs. We established goodwill lives of
+twenty to thirty years on fiscal year 2000 acquisitions based on management's
+knowledge of these types of businesses.
+
+     During fiscal year 2000 we purchased 273,000 shares of our Class A common
+stock pursuant to a contractual right associated with the State Street
+acquisition completed in fiscal year 1999. We purchased these shares, which are
+accounted for as treasury shares, at an average price of $44 per share.
+
+     We are obligated to make certain contingent payments to former owners based
+on the achievement of specified profit levels in conjunction with certain
+acquisitions. During fiscal 2001, we paid $1,870,000 in contingent consideration
+related to acquisitions made in prior years. As of June 30, 2001, the maximum
+aggregate amount of the outstanding contingent obligations is approximately
+$6,212,000, none of which has been earned to date. Any such payments result in a
+corresponding increase in goodwill.
+
+     In June 2001, the FASB issued Statement of Financial Accounting Standards
+No. 141 "Business Combinations," which is effective July 1, 2001. SFAS 141
+requires that all business combinations be accounted for under the purchase
+method, and defines the criteria for identifying intangible assets for
+recognition apart from goodwill. SFAS 141 applies to all business combinations
+initiated after June 30, 2001 and all business combinations accounted for using
+the purchase method for which the acquisition date is July 1, 2001 or later. We
+
+                                       26
+<PAGE>   29
+
+               AFFILIATED COMPUTER SERVICES, INC. AND SUBSIDIARIES
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+have adopted SFAS 141 effective July 1, 2001. We are currently evaluating the
+impact of SFAS 141 on our future earnings and financial position.
+
+3. DIVESTITURES, ASSETS HELD FOR SALE AND ASSOCIATED IMPAIRMENTS
+
+     During the first quarter of fiscal 2001, we received proceeds of
+$15,000,000 and recorded a $12,800,000 gain in other non-operating income
+related to the sale of a non-strategic minority investment in ACS Merchant
+Services, Inc.
+
+     In May 2000, we completed and executed a plan to divest certain
+non-strategic operations in order to focus on our core information technology
+outsourcing and business process outsourcing operations. When completed, this
+plan resulted in divestitures comprising approximately 15% of fiscal year 2000
+revenues.
+
+     In June 2000, we completed the sale of business units consisting primarily
+of our ATM processing business and two other smaller professional services
+businesses. The total cash proceeds from these transactions were $180,641,000
+and resulted in a net pretax gain of $85,846,000. The proceeds from these
+transactions were fully collected during July and August 2000. We also signed a
+letter of intent to sell our commercial staffing business for cash proceeds of
+approximately $46,000,000 and initiated plans to sell two other business units
+with expected cash consideration of $1,318,000. In connection with the sale of
+our commercial staffing business, we recorded a $43,899,000 pretax impairment
+charge for goodwill. In addition, we recorded a $4,389,000 pretax impairment
+charge for software and other intangibles associated with the other pending
+divestitures. As these divestitures were not final at June 30, 2000, we
+reclassified the net assets into the balance sheet caption "Net Assets Held for
+Sale". The assets of these businesses were recorded at the expected proceeds
+less costs associated with the transactions. The sale of the commercial staffing
+business and two other business units were completed in the first quarter of
+fiscal year 2001.
+
+4. ACCOUNTS RECEIVABLE
+
+The components of accounts receivable are as follows (in thousands):
+
+<Table>
+<Caption>
+                                                                         June 30,
+                                                                 ------------------------
+                                                                   2001           2000
+                                                                 ---------      ---------
+
+<S>                                                              <C>            <C>
+Amounts Billed:
+      Commercial sector                                          $ 180,973      $ 144,669
+      Federal government                                            98,796         95,771
+                                                                 ---------      ---------
+                                                                   279,769        240,440
+                                                                 ---------      ---------
+
+Amounts Unbilled:
+      Amounts currently billable                                   192,277        162,005
+      Excess of actual indirect costs over amounts currently
+           billable under cost reimbursable contracts                4,912          1,743
+Contract retainages not currently billable                             704            311
+                                                                 ---------      ---------
+                                                                   197,893        164,059
+                                                                 ---------      ---------
+
+Total accounts receivable                                          477,662        404,499
+Allowances for doubtful accounts                                    (5,620)        (4,646)
+                                                                 ---------      ---------
+                                                                 $ 472,042      $ 399,853
+                                                                 =========      =========
+</Table>
+
+     To the extent not currently billable at June 30, 2001 and 2000, unbilled
+costs and accrued profits above are billable upon delivery or acceptance of
+services, upon receipt of contract funding or upon contract completion. Of
+
+                                       27
+<PAGE>   30
+
+               AFFILIATED COMPUTER SERVICES, INC. AND SUBSIDIARIES
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+the above unbilled costs and accrued profits at June 30, 2001, approximately
+$5,616,000 are not expected to be billed and collected within one year.
+
+5. MARKETABLE SECURITIES
+
+     Marketable securities consist of a single investment in a corporate equity
+security. The security is classified as available for sale recorded at its fair
+value as of June 30, 2001 of $1,320,000. At June 30, 2001, unrealized gains of
+$84,000 were recorded as a component of accumulated other comprehensive income.
+
+     We have entered into a no-cost equity collar related to this equity
+security to ensure protection from the volatility of its fair value. The collar
+is accounted for as a fair value hedge, and all gains or losses of the hedge are
+recognized in earnings in the period of change together with the offsetting
+gains or losses on the equity security outside the collar. Unrealized gains or
+losses on the equity security within the collar are recorded in accumulated
+other comprehensive income.
+
+6. PROPERTY, EQUIPMENT AND SOFTWARE
+
+Property, equipment and software consists of the following (in thousands):
+
+<Table>
+<Caption>
+                                                     June 30,
+                                              ------------------------
+                                                2001            2000
+                                              ---------      ---------
+<S>                                           <C>            <C>
+Land                                          $  19,753      $  21,211
+Buildings and improvements                       73,814         65,098
+Computer equipment and software                 268,899        200,701
+Furniture and fixtures                           89,455         70,805
+Construction in progress                          2,452          1,777
+                                              ---------      ---------
+                                                454,373        359,592
+Accumulated depreciation and amortization      (216,810)      (165,558)
+                                              ---------      ---------
+                                              $ 237,563      $ 194,034
+                                              =========      =========
+</Table>
+
+     In June 2001, we sold a facility in Dearborn, Michigan for $5,800,000. We
+received cash consideration of $800,000 and a $5,000,000 note, which is due in
+December 2002. We recorded a $241,000 loss on the sale of this facility at that
+time.
+
+7. GOODWILL AND OTHER INTANGIBLES
+
+     Goodwill and other intangibles consist of the following (in thousands):
+
+<Table>
+<Caption>
+                                    June 30,
+                             ------------------------
+                               2001           2000
+                             ---------      ---------
+<S>                          <C>            <C>
+Goodwill                     $ 773,587      $ 667,617
+Other intangibles              136,555         62,984
+                             ---------      ---------
+                               910,142        730,601
+Accumulated amortization      (115,222)       (80,338)
+                             ---------      ---------
+                             $ 794,920      $ 650,263
+                             =========      =========
+</Table>
+
+                                       28
+<PAGE>   31
+
+               AFFILIATED COMPUTER SERVICES, INC. AND SUBSIDIARIES
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+8. LONG-TERM INVESTMENTS
+
+     Long-term investments consist primarily of investments in preferred stock
+accounted for at cost, as these securities are not considered marketable equity
+securities. Also included in long-term investments are deferred annuity
+contracts carried at cost plus accrued interest which approximates fair market
+value and various bonds carried at cost. Dividend income recognized from such
+securities, which is reflected in the consolidated financial statements as a
+component of other non-operating income, was approximately $0, $110,000 and
+$110,000 during fiscal 2001, 2000 and 1999, respectively.
+
+9. NOTES PAYABLE AND LONG-TERM DEBT
+
+     A summary of notes payable and long-term debt follows (in thousands):
+
+<Table>
+<Caption>
+                                                                                   June 30,
+                                                                             ------------------------
+                                                                               2001           2000
+                                                                             ---------      ---------
+<S>                                                                          <C>            <C>
+3.5% Convertible Subordinated Notes due February 2006 ("3.5% Notes")(a)      $ 316,990      $      --
+4% Convertible Subordinated Notes due March 2005 ("4% Notes")(b)               229,937        230,000
+Unsecured $450,000 revolving credit agreement ("Credit Facility")
+          payable to banks, due in December 2004(c)                            100,000        294,190
+Capitalized lease obligations at various interest rates,
+          payable through 2004                                                   4,483          2,286
+Other                                                                            1,265          2,020
+                                                                             ---------      ---------
+                                                                               652,675        528,496
+Less current portion                                                            (3,362)        (2,877)
+                                                                             ---------      ---------
+                                                                             $ 649,313      $ 525,619
+                                                                             =========      =========
+</Table>
+
+     Maturities of notes payable and long-term debt at June 30, 2001 are as
+follows (in thousands):
+
+<Table>
+<Caption>
+Year ending June 30,
+--------------------
+<S>                                                        <C>
+2002                                                       $   3,362
+2003                                                           1,835
+2004                                                             551
+2005                                                         329,937
+2006                                                         316,990
+                                                           ---------
+Total                                                      $ 652,675
+                                                           =========
+</Table>
+
+     (a)  The 3.5% Notes are convertible at any time prior to the maturity date,
+          unless redeemed or repurchased, into Class A common stock at a
+          conversion rate of 11.5117 shares of Class A common stock for each
+          $1,000 principal amount of 3.5% Notes (equivalent to a conversion
+          price of $86.87 per share of Class A common stock), subject to
+          adjustments in certain events. Interest on the 3.5% Notes is payable
+          semi-annually on February 15 and August 15 of each year commencing
+          August 15, 2001. The 3.5% Notes may be redeemed at our option on or
+          after February 18, 2004, in whole or in part, at the redemption prices
+          set forth in the 3.5% Notes. The redemption price set forth in the
+          3.5% Notes is 101.4% and 100.7% of the principal amount for the
+          twelve-month periods beginning February 15, 2004 and 2005,
+          respectively.
+
+     (b)  The 4% Notes are convertible, at any time prior to the maturity date,
+          unless redeemed or repurchased, into Class A common stock at a
+          conversion rate of 23.4432 shares of Class A common stock for each
+          $1,000 principal amount of 4% Notes (equivalent to a conversion price
+          of $42.66 per share of Class A common stock), subject to adjustments
+          in certain events. Interest on the 4% Notes is payable semi-annually
+          on March 15 and September 15 of each year commencing on September 15,
+          1998. The 4% Notes may be redeemed at our option on or after March 15,
+          2002, in whole or in part, at the redemption prices set forth in the
+          4% Notes. The redemption price set forth in the 4% Notes is 101.71%,
+          101.14% and 100.57% of the principal amount for the twelve-month
+          periods beginning March 15, 2002, 2003 and 2004, respectively.
+
+     (c)  Interest on the Credit Facility is payable monthly at LIBOR (3.86% at
+          June 30, 2001) plus a range of .625% to 1.125% depending on a defined
+          debt to EBITDA ratio. The Credit Facility contains covenants which
+          require that we comply with certain negative, affirmative and
+          financial covenants customary in facilities of this nature, including
+          but not limited to the maintenance of fixed charge ratios, limitations
+          on acquisitions and minimum net worth requirements. The agreement also
+          has provisions which would permit acceleration of the maturity of the
+          borrowings after the occurrence of certain defined events of default.
+          During fiscal 2000, we entered into this Credit Facility, which
+          increased the amount of availability from $200,000,000 to
+          $450,000,000.
+
+                                       29
+<PAGE>   32
+
+               AFFILIATED COMPUTER SERVICES, INC. AND SUBSIDIARIES
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+     During the year ended June 30, 2001, $63,000 of the 4% Notes were redeemed
+and converted into 1,476 shares of common stock.
+
+     Cash payments for interest for the years ended June 30, 2001, 2000 and 1999
+were $19,258,000, $21,495,000 and $14,636,000, respectively. Interest income was
+$8,745,000, $3,139,000 and $3,864,000 for the years ended June 30, 2001, 2000
+and 1999, respectively.
+
+     At June 30, 2001, we have $340,800,000 available for use under the
+$450,000,000 revolving credit agreement after considering outstanding letters of
+credit.
+
+10. INCOME TAXES
+
+     Income tax expense (benefit) is comprised of the following (in thousands):
+
+<Table>
+<Caption>
+                                                      Year ended June 30,
+                                             -----------------------------------
+                                               2001         2000          1999
+                                             --------     --------      --------
+
+<S>                                          <C>          <C>           <C>
+Current:
+    U.S. Federal                             $ 50,022     $ 88,439      $ 27,344
+    Foreign                                     1,689        1,480         1,039
+    State                                       6,131        6,913         3,763
+                                             --------     --------      --------
+        Total current expense                  57,842       96,832        32,146
+                                             --------     --------      --------
+Deferred:
+    U.S. Federal                               27,417      (11,210)       23,328
+    Foreign                                        24          151           700
+    State                                       1,485          185         3,133
+                                             --------     --------      --------
+        Total deferred expense (benefit)       28,926      (10,874)       27,161
+                                             --------     --------      --------
+        Total expense for income taxes       $ 86,768     $ 85,958      $ 59,307
+                                             ========     ========      ========
+</Table>
+
+     In fiscal years 2001 and 2000, the deferred state tax expense was
+significantly impacted by the fiscal year 2000 divestiture accruals.
+
+     Deferred tax assets (liabilities) consist of the following (in thousands):
+
+<Table>
+<Caption>
+                                                                  June 30,
+                                                            ----------------------
+                                                              2001          2000
+                                                            --------      --------
+<S>                                                         <C>           <C>
+Deferred tax assets:
+   Accrued expenses not yet deductible for tax purposes     $  4,878      $  7,916
+   Loss carrybacks                                             6,596            --
+   Loss carry-forwards                                         1,468         2,282
+   Basis differences in capital assets                            --        14,402
+   Divestiture-related accruals                                5,078         8,344
+   Unearned revenue                                               --         5,871
+                                                            --------      --------
+       Total deferred tax assets                              18,020        38,815
+                                                            --------      --------
+Deferred tax liabilities:
+   Depreciation and amortization                             (62,050)      (46,665)
+   Section 481 Adjustment                                       (603)         (919)
+   Unearned revenue                                             (204)           --
+   Other                                                      (1,678)         (659)
+                                                            --------      --------
+       Total deferred tax liabilities                        (64,535)      (48,243)
+
+   Deferred tax assets valuation allowance                      (135)         (699)
+                                                            --------      --------
+       Net deferred tax liabilities                         $(46,650)     $(10,127)
+                                                            ========      ========
+</Table>
+
+                                       30
+<PAGE>   33
+
+               AFFILIATED COMPUTER SERVICES, INC. AND SUBSIDIARIES
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+     At June 30, 2001, the Company had available unused domestic net operating
+loss carry-forwards ("NOLs"), net of Internal Revenue Code Section 382
+limitations, of approximately $3,697,000, which will expire in years 2002
+through 2010. The valuation allowance at June 30, 2001 exists principally due to
+tax benefits of acquired corporations for which realization of any future
+benefit is uncertain due to taxable income limitations. The valuation allowance
+for deferred tax assets decreased by $564,000 during the year ended June 30,
+2001 due to the disposition of the stock of a subsidiary.
+
+     Income tax expense varies from the amount computed by applying the
+statutory federal income tax rate to income before income taxes as follows (in
+thousands):
+
+<Table>
+<Caption>
+                                             Year ended June 30,
+                                      -------------------------------
+                                       2001        2000        1999
+                                      -------     -------     -------
+<S>                                   <C>         <C>         <C>
+Statutory U.S. Federal income tax     $77,371     $68,345     $50,938
+Goodwill amortization                   4,305      12,405       3,443
+State income taxes, net                 4,950       4,614       4,482
+Other                                     142         594         444
+                                      -------     -------     -------
+Total expense for income taxes        $86,768     $85,958     $59,307
+                                      =======     =======     =======
+</Table>
+
+     Cumulative undistributed earnings of non-U.S. subsidiaries for which U.S.
+taxes have not been provided are included in consolidated retained earnings in
+the amount of $6,105,000 as of June 30, 2001. If such earnings were distributed,
+U.S. income taxes would be partially reduced by available credits for taxes paid
+to the jurisdictions in which the income was earned.
+
+     Federal, state and foreign income tax payments during the years ended June
+30, 2001, 2000 and 1999 were approximately $80,960,000, $37,197,000 and
+$23,854,000, respectively.
+
+11. COMMON STOCK
+
+     Our Class B common stock is entitled to ten votes per share. Class B shares
+are convertible, at the holder's option, into Class A shares, but until
+converted carry significant transfer restrictions.
+
+     In February 2001, we completed the sale of a new issue of $316,990,000
+aggregate principal amount of our 3.5% Notes due February 15, 2006 (see Note 9).
+The 3.5% Notes are convertible into Class A common stock at a conversion rate of
+11.5117 shares for each $1,000 principal amount of the 3.5% Notes (equivalent to
+a conversion price of $86.87 per share of Class A common stock), subject to
+adjustments in certain events, none of which have occurred as of June 30, 2001.
+
+     In fiscal 2001, $63,000 of our 4% Notes were converted into 1,476 shares of
+Class A common stock. The 4% Notes, issued in fiscal year 1998, are convertible
+into Class A common stock at a conversion rate of 23.4432 shares for each $1,000
+principal amount of the 4% Notes (equivalent to a conversion price of $42.66 per
+share of Class A common stock), subject to certain events, none of which have
+occurred as of June 30, 2001.
+
+     In January 1989, we issued warrants to purchase 793,188 additional shares
+of Class A common stock to a data processing customer. The warrants were
+exercisable at an aggregate price of $4,700,000 plus $230,000 for each year that
+elapses after December 31, 1988, plus interest at 10% per annum. The warrants
+were exercised during fiscal year 1999 by the issuance of 380,000 shares of
+Class A common stock, representing the net value to the warrant holder.
+
+                                       31
+<PAGE>   34
+
+               AFFILIATED COMPUTER SERVICES, INC. AND SUBSIDIARIES
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+12. EMPLOYEE BENEFIT PLANS
+
+     Under our 1997 Employee Stock Option Plan (the "1997 Plan"), we have
+reserved 3,675,000 shares of Class A common stock for issuance to key employees
+at exercise prices determined by the Board of Directors. In May 2000 and
+February 2001, the Board of Directors approved the additional allotment of
+865,749 and 804,313 shares, respectively, to the 1997 Plan in accordance with
+the terms and conditions of the November 14, 1997 Proxy Statement under which
+the 1997 Plan was authorized. Our 1988 Employee Stock Option Plan (the "1988
+Plan"), which originally reserved 6,000,000 shares of Class A common stock for
+issuance, was discontinued for new grants during fiscal 1998 and terminated
+(except for the exercise of then existing option grants in September 1997) and
+subsequently, 1,593,231 unissued shares expired. Generally, the options under
+each plan vest in varying increments over a five-year period, expire ten years
+from the date of grant and are issued at exercise prices no less than 100% of
+the fair market value of Class A common stock at the time of the grant. As
+reported in Note 1, we have elected to adopt the disclosure-only provisions of
+SFAS 123 and will continue to account for stock-based employee compensation
+plans in accordance with APB 25. As a result, no compensation cost has been
+recognized in the periods presented for stock option or employee stock purchase
+plans.
+
+     The Long-term Incentive Plan approved in 1991 (the "1991 Plan") provides
+for the granting of options to various employees, officers and directors of ACS
+Government Solutions. This plan was discontinued for new grants effective with
+the December 1997 Government Solutions merger. All options issued under the 1991
+Plan were fully vested as of the effective date of the merger. Exercise prices
+of options awarded in all years were equal to the market price of the stock on
+the date of the grant; therefore, no compensation costs have been recognized for
+awards under this plan.
+
+     Pro forma information regarding net income and earnings per share is
+required by SFAS 123 and has been determined as if we had accounted for our
+stock-based compensation plans under the fair value method. The fair value of
+each option grant was estimated at the date of grant using a separate
+Black-Scholes option pricing calculation for each grant. The following weighted
+average assumptions were used for grants in fiscal 2001, 2000 and 1999: dividend
+yield of 0% in all years for the 1997 and 1988 Plans; volatility of 35.84%,
+36.11% and 33.18% for fiscal 2001, 2000 and 1999, respectively, for all Plans;
+risk-free interest rates of 4.76%, 6.25% and 5.07% for fiscal 2001, 2000 and
+1999, respectively, in the 1997 and 1988 Plans; and weighted average expected
+option life of 5.5 years for the 1997 and 1988 Plans and 3 years for the 1991
+Plan for all years presented. The average fair values of the options granted
+during fiscal 2001, 2000 and 1999 are estimated at $19.86, $15.16 and $14.01,
+respectively, for the combined Plans.
+
+     Had compensation cost for our stock-based compensation plans been
+determined in accordance with SFAS 123, our net income and earnings per share
+would have been reduced to the pro forma amounts indicated below (in thousands,
+except per share amounts):
+
+<Table>
+<Caption>
+                                                                          Year ended June 30,
+                                                              -------------------------------------------
+                                                                 2001            2000            1999
+                                                              -----------     -----------     -----------
+
+<S>                                                           <C>             <C>             <C>
+Net income:
+    As reported                                               $   134,292     $   109,312     $    86,230
+    Pro forma                                                     127,257         102,566          80,591
+Basic earnings per common share:
+    As reported                                               $      2.69     $      2.22     $      1.77
+    Pro forma                                                        2.55            2.08            1.65
+Diluted earnings per common and common equivalent shares:
+    As reported                                               $      2.46     $      2.07     $      1.66
+    Pro forma                                                        2.35            1.96            1.57
+</Table>
+
+                                       32
+<PAGE>   35
+
+               AFFILIATED COMPUTER SERVICES, INC. AND SUBSIDIARIES
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+     Option activity for the years ended June 30, 1999, 2000 and 2001 is
+summarized as follows:
+
+<Table>
+<Caption>
+                                             Weighted Average
+                                    Options    Option Price
+                                   --------- ----------------
+
+<S>                                <C>       <C>
+Outstanding at June 30, 1998:      4,400,184      19.01
+
+    Granted                        1,674,000      34.72
+    Exercised                       (412,409)      9.93
+    Canceled                        (404,900)     26.03
+                                   ---------
+Outstanding at June 30, 1999:      5,256,875      24.18
+                                   =========
+
+    Granted                        1,182,962      33.92
+    Exercised                       (332,460)      9.58
+    Canceled                        (501,707)     29.77
+                                   ---------
+Outstanding at June 30, 2000       5,605,670      26.61
+                                   =========
+
+    Granted                        1,324,000      47.70
+    Exercised                     (1,194,008)     14.91
+    Canceled                        (379,617)     36.35
+                                   ---------
+Outstanding at June 30, 2001       5,356,045      33.74
+                                   =========
+
+Exercisable at June 30, 2001         647,945      18.13
+</Table>
+
+     Further information regarding outstanding and exercisable stock options by
+exercise price range as of June 30, 2001 is disclosed below:
+
+<Table>
+<Caption>
+                              Options Outstanding                   Options Exercisable
+                    ----------------------------------------    ---------------------------
+                                    Weighted
+                                     Average       Weighted                       Weighted
+                                    Remaining       Average                       Average
+   Range of            Number      Contractual     Exercise       Number          Exercise
+Exercise Prices     Outstanding        Life          Price      Exercisable         Price
+---------------     -----------    -----------     ---------    -----------       ---------
+<S>                 <C>            <C>             <C>          <C>               <C>
+$  8.00-17.76          393,945         4.29         $ 15.00       393,945         $   15.00
+  19.63-26.88        1,533,500         6.30           22.82       254,000             22.98
+  31.31-41.88        2,720,100         8.09           35.75            --                --
+  55.13-69.20          708,500         9.69           60.05            --                --
+                     ---------                                    -------         ---------
+                     5,356,045         7.51           33.74       647,945         $   18.13
+                     =========                                    =======         =========
+</Table>
+
+     Under our 1995 Employee Stock Purchase Plan, a maximum of 1,000,000 shares
+of Class A common stock can be issued to substantially all full-time employees.
+Through payroll deductions, eligible participants may purchase our stock at a
+15% discount to market value. The stock is purchased by the Plan in the open
+market, and our contributions for the years ended June 30, 2001, 2000 and 1999
+which were charged to additional paid-in capital, were $1,268,000, $1,372,000
+and $1,045,000, respectively.
+
+     We have contributory retirement and savings plans which cover all employees
+and allow for discretionary matching contributions by us as determined by our
+Board of Directors. Contributions made by us to certain plans during the years
+ended June 30, 2001, 2000 and 1999 were $10,498,000, $10,043,000 and $6,465,000,
+respectively.
+
+13. EARNINGS PER SHARE
+
+     Basic earnings per share of common stock is computed using the weighted
+average number of our common shares outstanding during the period. Diluted
+earnings per share is adjusted for the after-tax impact of interest on the 3.5%
+Notes and the 4% Notes and reflects the incremental shares available for issue
+upon the assumed exercise of stock options and conversion of the 3.5% Notes and
+the 4% Notes.
+
+                                       33
+<PAGE>   36
+
+               AFFILIATED COMPUTER SERVICES, INC. AND SUBSIDIARIES
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+     The following table sets forth the computation of basic and diluted
+earnings per share (in thousands, except per share amounts):
+
+<Table>
+<Caption>
+                                                                Year ended June 30,
+                                                         ----------------------------------
+                                                           2001         2000         1999
+                                                         --------     --------     --------
+
+<S>                                                      <C>          <C>          <C>
+Numerator:
+      Numerator for earnings per share (basic) -
+           income available to common stockholders       $134,292     $109,312     $ 86,230
+      Effect of dilutive securities:
+           Interest on Convertible debt                     9,036        6,155        6,149
+                                                         --------     --------     --------
+Numerator for earnings per share assuming dilution -
+Income available to common stockholders                  $143,328     $115,467     $ 92,379
+                                                         --------     --------     --------
+
+Denominator:
+      Weighted average shares outstanding (basic)          49,879       49,244       48,839
+      Effect of dilutive securities:
+           Convertible debt                                 6,677        5,392        5,392
+           Stock options                                    1,672        1,170        1,341
+           Warrants and other                                  --           --           96
+                                                         --------     --------     --------
+           Total potential common shares                    8,349        6,562        6,829
+                                                         --------     --------     --------
+Denominator for earnings per share assuming dilution       58,228       55,806       55,668
+                                                         --------     --------     --------
+Earnings per common share (basic)                        $   2.69     $   2.22     $   1.77
+                                                         ========     ========     ========
+Earnings per common share assuming dilution              $   2.46     $   2.07     $   1.66
+                                                         ========     ========     ========
+</Table>
+
+14. FINANCIAL INSTRUMENTS
+
+     As of June 30, 2001 and 2000, the fair values of our revolving credit
+balances and other variable-rate debt instruments approximated the related
+carrying values. The fair values of our fixed-rate debt instruments also
+approximated the related carrying values, as determined based upon relative
+changes in our variable borrowing rates, whether the borrowings occurred
+recently or if the borrowings were repaid after the fiscal year ended. As of
+June 30, 2001, we estimated the fair value of our 4% Notes at approximately
+$399,832,000 and the fair value of the 3.5% Notes at approximately $340,954,000,
+based on the trading price on that day.
+
+     In June 1998, the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standards No. 133, "Accounting for Derivatives and Hedging
+Activities." The statement requires us to record all derivatives on the balance
+sheet at fair value. If the derivative is a hedge, depending on the nature of
+the hedge, changes in the fair value of the derivatives are either recognized in
+earnings or are recognized in other comprehensive income until the hedged item
+is recognized in earnings. We adopted SFAS 133 effective July 1, 2000.
+
+     In order to manage interest costs and exposure to changing interest rates,
+we hold two interest rate hedges, designated as cash flow hedges, initiated in
+December 1998 and expiring in December 2001. Each hedge is structured such that
+we pay a fixed rate of interest of 4.54%, and receive a floating rate of
+interest based on one month LIBOR. The notional amount of the two hedges totals
+$100,000,000 and the fair market value of the two hedges at June 30, 2001 is
+($355,000). The fair value of each interest rate hedge reflects termination cash
+value. The fair value of the interest rate hedges, net of $139,000 tax benefit,
+is reflected in accumulated other comprehensive income.
+
+     In order to manage the volatility of the value of our marketable security
+investment, we entered into a no-cost collar agreement in June 2001 which
+matures in March 2002. The collar, a fair value hedge, is structured so that all
+fluctuations in the price of the marketable security above or below 100% or
+102.5% of its value on the date the collar was entered into are hedged. As of
+June 30, 2001, the collar had a fair market value of $27,000.
+
+                                       34
+<PAGE>   37
+
+               AFFILIATED COMPUTER SERVICES, INC. AND SUBSIDIARIES
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+15. RELATED PARTY TRANSACTIONS
+
+     Effective April 1996, we sold ACS Merchant Services, Inc. ("Merchant
+Services"), a start-up operation of the electronic commerce business line, to a
+former officer and director for consideration in the form of a note receivable
+of $500,000. There was no gain or loss recognized on the sale. Simultaneous with
+the sale, we contributed an additional $1,500,000 and the unpaid balance of an
+intercompany note due from Merchant Services of approximately $712,000 in
+exchange for 1,000 shares of Merchant Services' 5% cumulative convertible
+preferred stock, which is convertible after five years into approximately 55% of
+the ownership of Merchant Services on a fully diluted basis, with 44% of the
+voting common stock and 100% of the non-voting common stock. During fiscal year
+2000, we provided guarantees to two banks on Merchant Services' debt up to
+$9,000,000. In July 2000, we completed the sale of our convertible preferred
+stock investment in Merchant Services for $15,000,000, resulting in a
+non-operating pretax gain of approximately $12,800,000.
+
+     We, our Chairman of the Board, and three other investors (who are also key
+employees), are the stockholders in DDH Aviation, Inc. ("DDH"), a corporate
+airplane brokerage firm organized in late 1997. DDH has a $47 million line of
+credit with Citicorp USA, Inc., for which we and our Chairman of the Board, in
+exchange for warrants to acquire additional voting stock, act as guarantors with
+our guaranty making us liable for up to approximately $11.5 million of the line
+of credit. Assuming that all warrants are exercised and all shares to be issued
+to certain key employees of DDH (upon the attainment of certain performance
+goals) have been issued, our Chairman owns approximately 44% of the equity
+interests in DDH and we own approximately 6%. Our Chairman, along with two of
+our officers are also directors of DDH. Our Chairman also serves as the Chairman
+of the Board of DDH. We have access to aircraft from DDH. On August 21, 2001, we
+entered into an Agreement for Purchase with DDH Aviation, Inc. for the purchase
+of a Challenger 600 aircraft. The purchase price of the aircraft is $8.5
+million, which includes refurbishment of the interior and exterior of the
+aircraft. A deposit of $1.7 million was made with DDH Aviation when we executed
+the agreement and an additional deposit of $2.5 million will be due on October
+1, 2001, with the balance due when the aircraft is delivered to us on November
+24, 2001.
+
+16. COMMITMENTS AND CONTINGENCIES
+
+     We have various operating lease agreements for information technology
+equipment and facilities. A summary of the lease commitments under noncancelable
+operating leases at June 30, 2001 is as follows (in thousands):
+
+<Table>
+<Caption>
+Year ending June 30,
+<S>                                                                 <C>
+2002                                                                $  66,792
+2003                                                                   43,024
+2004                                                                   26,202
+2005                                                                   18,023
+2006                                                                   11,193
+Thereafter                                                             44,896
+                                                                    ---------
+                                                                    $ 210,130
+                                                                    =========
+</Table>
+
+     Lease expense for information technology equipment and facilities was
+$81,215,000, $80,813,000 and $78,709,000 for the years ended June 30, 2001, 2000
+and 1999, respectively.
+
+     On December 16, 1998, a state district court in Houston, Texas entered
+final judgment against us in a lawsuit brought by twenty-one former employees of
+Gibraltar Savings Association and/or First Texas Savings Association
+(collectively, "GSA/FTSA"). The GSA/FTSA employees alleged that they were
+entitled to the value of 401,541 shares of our stock pursuant to options issued
+to the GSA/FTSA employees in 1988 in connection with a former data processing
+services agreement between GSA/FTSA and us. The judgment against us was for
+approximately $17 million, which includes attorneys' fees and pre-judgment
+interest, but excludes additional attorneys' fees of approximately $850,000 and
+post-judgement interest at the statutorily mandated rate, which could be awarded
+in the event the plaintiffs are successful upon appeal and final judgment. We
+continue to believe that we have a meritorious defense to all or a substantial
+portion of the plaintiffs' claims. We filed our appeal of the judgment on March
+15, 1999 and a brief in support of such appeal has been filed.
+
+                                       35
+<PAGE>   38
+
+               AFFILIATED COMPUTER SERVICES, INC. AND SUBSIDIARIES
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+We plan to vigorously pursue the appeal. The plaintiffs also have filed a notice
+of appeal. Should the proceedings not be favorably resolved on appeal, we would
+be subject to a material charge.
+
+     Government contracts are subject to review and audit by various
+governmental authorities in the normal course of our business. Cost audits have
+been completed through fiscal 1999 for a majority of the federal government
+business operations. In management's opinion, any such reviews and the results
+of cost audits for subsequent fiscal years will not have a material effect on
+our financial position or results of operations.
+
+     We are subject to certain other legal proceedings, claims and disputes
+which arise in the ordinary course of business. Although we cannot predict the
+outcomes of these legal proceedings, management does not believe these actions
+will have a material adverse effect on our financial position, results of
+operations or liquidity. However, if unfavorably resolved, these proceedings
+could have a material adverse effect on our financial position, results of
+operations and liquidity.
+
+17. IMPAIRMENT, MERGER EXPENSES AND OTHER CHARGES
+
+     During the first quarter of fiscal 2001, we recorded a $12,800,000 gain in
+other non-operating income related to the sale of a non-strategic minority
+investment in ACS Merchant Services, Inc. (see Note 15). Also, during the
+quarter, we recorded a $10,400,000 charge in connection with the termination of
+certain hardware leases and disaster recovery contracts (reflected in rent,
+lease and maintenance expense) and a $2,100,000 charge for non-recurring
+litigation and the writedown of property held-for-sale (reflected in other
+operating expenses).
+
+     During the fourth quarter of fiscal 2000 and as a result of our periodic
+review of the net realizable value of intangible assets, we recorded a pretax
+impairment charge for $8,283,000 for certain intangible assets, primarily
+customer contracts. The impairment charge was calculated based on discounted net
+cash flows.
+
+     During the fourth quarter of fiscal 2000, we recorded a pretax charge of
+approximately $15,395,000 for estimated losses on contracts, a non-recurring
+charge related to a contractual dispute with a client, non-recurring litigation
+and severance. These losses were recorded in the following income statement
+categories: Wages and benefits - $4,991,000; Services and supplies - $2,987,000;
+Rent, lease and maintenance - $100,000; Depreciation and amortization -
+$265,000; and Other operating expenses - $7,052,000.
+
+     In the third quarter of fiscal 2000, we recorded a $1,800,000 net gain
+related to the divestiture of a minority investment, which was recorded in other
+non-operating income.
+
+     In the second quarter of fiscal 2000, we recorded a $3,000,000 pretax
+charge in connection with the consolidation of certain business process
+outsourcing operations. These expenses include approximately $2,600,000 related
+to duplicate software and production facilities (reflected in rent, lease and
+maintenance expense), $200,000 of unamortized leasehold improvements and
+write-offs of excess equipment (reflected in depreciation and amortization
+expense) and $200,000 for severance payments for reductions in staff (reflected
+in wages and benefits expense).
+
+     In January 1999, we sold a business unit of an acquired company to
+CyberPlus Corporation ("Cyberplus"). As part of the consideration, we received a
+$3,200,000 promissory note due March 2000 and 2,100,000 warrants to purchase
+CyberPlus common stock. Given the financial uncertainty surrounding CyberPlus,
+the note receivable was fully reserved. In November 1999, CyberPlus obtained
+financing and repaid $3,000,000 on the promissory note in full, resulting in a
+$3,000,000 gain recorded in Other non-operating income.
+
+                                       36
+<PAGE>   39
+
+               AFFILIATED COMPUTER SERVICES, INC. AND SUBSIDIARIES
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+
+18. COMPREHENSIVE INCOME
+
+     Statement of Financial Accounting Standards No. 130 "Reporting
+Comprehensive Income" establishes standards for reporting and display of
+comprehensive income and its components in financial statements. The objective
+of SFAS 130 is to report a measure of all changes in equity of an enterprise
+that result from transactions and other economic events of the period other than
+transactions with owners. Comprehensive income is the total of net income and
+all other non-owner changes within a company's equity.
+
+     In order to manage interest costs and exposure to changing interest rates,
+we hold two interest rate hedges, designated as cash flow hedges, initiated in
+December 1998 and expiring in December 2001. Each hedge is structured such that
+we pay a fixed rate of interest of 4.54%, and receive a floating rate of
+interest based on one month LIBOR. The notional amount of the two hedges totals
+$100,000,000 and the fair market value of the two hedges at June 30, 2001 is
+($355,000). The fair value of each interest rate hedge reflects termination cash
+value. The fair value of the interest rate hedges, net of $139,000 tax benefit,
+is reflected in accumulated other comprehensive income.
+
+     We entered into a no-cost collar agreement in relation to our investment in
+a marketable security in June 2001, which matures in March 2002. The collar, a
+fair value hedge, is structured so that all fluctuations in the price of the
+marketable security above or below 100% or 102.5% of its value on the date the
+collar was entered into are hedged. As of June 30, 2001, the collar had a fair
+market value of $27,000 and is recorded in other current assets.
+
+     Our marketable security investment had a fair market value of $1,320,000.
+Unrealized gains of $84,000 are recorded as a component of accumulated other
+comprehensive income.
+
+     The components of comprehensive income are as follows (in thousands):
+
+<Table>
+<Caption>
+                                                                   Year ended June 30,
+                                                          --------------------------------------
+                                                            2001           2000          1999
+                                                          ---------      ---------     ---------
+
+<S>                                                       <C>            <C>           <C>
+Net income                                                $ 134,292      $ 109,312     $  86,230
+
+Change in fair value of derivatives (net of $139 tax)          (216)            --            --
+Unrealized gain on marketable security                           84             --            --
+                                                          ---------      ---------     ---------
+Comprehensive income                                      $ 134,160      $ 109,312     $  86,230
+                                                          =========      =========     =========
+</Table>
+
+19. SUBSEQUENT EVENTS
+
+     In the first quarter of fiscal 2002, we acquired Lockheed Martin IMS
+Corporation ("IMS"), a wholly-owned subsidiary of Lockheed Martin Corporation.
+IMS, located in Washington D.C., provides services to state and local government
+agencies in health and human services, transportation, public safety and child
+support. The transaction, valued at $825 million plus related transaction costs,
+was funded initially through a combination of a new $550 million, 18-month
+credit facility from Bear, Stearns & Co. Inc. and Wells Fargo N.A., borrowings
+on our existing credit facility and existing cash on hand. We have announced
+plans to refinance the interim facility by using proceeds we receive from
+issuance of equity and long-term debt. While the precise mix, size and timing
+are subject to market conditions, we expect to offer $500 million of our Class A
+common stock and $300 million of long-term debt. No assurance can be given to
+our refinancing plans and how or when they will be completed. Absent a
+refinancing, we would be subject to incremental interest on the interim facility
+and would most likely jeopardize our investment grade ratings.
+
+     Also in the first quarter of fiscal 2002, we announced a definitive
+agreement to acquire the Business Process Outsourcing services unit of National
+Processing Company. NPC's BPO unit provides healthcare claims
+
+                                       37
+<PAGE>   40
+
+               AFFILIATED COMPUTER SERVICES, INC. AND SUBSIDIARIES
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+processing, credit card application processing and airline lift ticket
+processing. As part of the transaction, we will acquire all of NPC's offshore
+operations in Jamaica, the Dominican Republic and Barbados and a majority of
+NPC's Mexican operations. The transaction, valued at $43 million, is expected to
+close in the first quarter of fiscal 2002.
+
+20. SEGMENT INFORMATION
+
+     We are organized into the commercial and the federal government segments
+due to the different operating environments, in part caused by the different
+types of customers, differing economic characteristics and the nature of
+regulatory environments. Within the commercial segment, we provide technology
+outsourcing, business process outsourcing and systems integration services to
+clients in such industries as insurance, utilities, manufacturing, financial
+institutions, telecommunications, healthcare, retail and transportation. In the
+federal government segment, we provide systems integration services, business
+process outsourcing and technology outsourcing to federal agencies.
+
+     The accounting policies of each segment are the same as those described in
+the summary of significant accounting policies (see Note 1). Intersegment sales
+and transfers are priced as if the sales or transfers were to third parties.
+However, these amounts during the three years presented were immaterial to the
+individual segments.
+
+     We use earnings before interest and taxes (operating income) to measure
+segment profit. Segment operating income includes selling, general and
+administrative expenses directly attributable to that segment. Corporate
+includes general and administrative services shared by all of our segments such
+as treasury, legal, corporate accounting, human resources and facilities. Where
+practical, shared expenses are allocated based on measurable drivers of expense
+(e.g., human resource costs are allocated on headcount).
+
+     Certain reclassifications have been made to the segment disclosures as the
+result of changes to our operating structure. Prior years' results have been
+restated for comparison purposes. The following tables reflect the results of
+the segments consistent with our management system (in thousands):
+
+                                       38
+<PAGE>   41
+
+               AFFILIATED COMPUTER SERVICES, INC. AND SUBSIDIARIES
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+<Table>
+<Caption>
+                                                           Federal
+                                          Commercial      Government       Corporate       Consolidated
+                                          -----------     -----------     -----------      ------------
+
+<S>                                       <C>             <C>             <C>              <C>
+FISCAL 2001
+Revenues                                  $ 1,315,893     $   747,666     $        --      $ 2,063,559
+Operating expenses(a)                       1,049,117         676,728          20,371        1,746,216
+                                          -----------     -----------     -----------      -----------
+EBITDA(c)                                     266,776          70,938         (20,371)         317,343
+Depreciation and amortization expense
+   (excluding goodwill amortization)           55,654          11,809           1,700           69,163
+Goodwill amortization expense                  19,750           4,704              --           24,454
+                                          -----------     -----------     -----------      -----------
+Operating income                          $   191,372     $    54,425     $   (22,071)     $   223,726
+                                          ===========     ===========     ===========      ===========
+Total assets                              $ 1,171,051     $   392,391     $   328,245      $ 1,891,687
+                                          ===========     ===========     ===========      ===========
+Capital expenditures                      $    79,552     $    15,268     $     4,250      $    99,070
+                                          ===========     ===========     ===========      ===========
+
+FISCAL 2000
+Revenues                                  $ 1,344,671     $   617,871     $        --      $ 1,962,542
+Operating expenses (excluding
+   impairment charges)(a)                   1,113,778         568,252          15,781        1,697,811
+Impairment charges(b)                          56,571              --              --           56,571
+                                          -----------     -----------     -----------      -----------
+EBITDA(c)                                     174,322          49,619         (15,781)         208,160
+Depreciation and amortization expense
+   (excluding goodwill amortization)           52,722           9,342           1,115           63,179
+Goodwill amortization expense                  19,035           2,538              --           21,573
+                                          -----------     -----------     -----------      -----------
+Operating income                          $   102,565     $    37,739     $   (16,896)     $   123,408
+                                          ===========     ===========     ===========      ===========
+Total assets                              $ 1,221,205     $   357,836     $    77,405      $ 1,656,446
+                                          ===========     ===========     ===========      ===========
+Capital expenditures                      $    63,104     $     6,778     $     1,666      $    71,548
+                                          ===========     ===========     ===========      ===========
+FISCAL 1999
+Revenues                                  $ 1,091,417     $   550,799     $        --      $ 1,642,216
+Operating expenses                            904,095         498,041          14,773        1,416,909
+                                          -----------     -----------     -----------      -----------
+EBITDA(c)                                     187,322          52,758         (14,773)         225,307
+Depreciation and amortization expense
+   (excluding goodwill amortization)           42,244           7,863             952           51,059
+Goodwill amortization expense                  13,393           2,271              --           15,664
+                                          -----------     -----------     -----------      -----------
+Operating income                          $   131,685     $    42,624     $   (15,725)     $   158,584
+                                          ===========     ===========     ===========      ===========
+Total assets                              $   920,522     $   264,806     $    38,272      $ 1,223,600
+                                          ===========     ===========     ===========      ===========
+Capital expenditures                      $    44,441     $    13,689     $     3,011      $    61,141
+                                          ===========     ===========     ===========      ===========
+</Table>
+
+     (a)  Operating expenses during fiscal 2001 include a $10,400,000 charge in
+          connection with the termination of certain hardware leases and
+          disaster recovery contracts and a $2,100,000 charge for non-recurring
+          litigation costs and the writedown of property held-for-sale.
+          Operating expenses during fiscal year 2000 include a $15,395,000
+          charge ($7,078,000 relates to the federal government segment),
+          associated with loss contracts, a non-recurring charge related to a
+          contractual dispute with a client, non-recurring litigation and
+          severance (see Note 17). Operating expenses during fiscal year 2000 in
+          the commercial segment also include a $3,000,000 charge in connection
+          with the consolidation of certain business process outsourcing
+          operations (see Note 17).
+
+     (b)  Impairment charges of $48,288,000 during fiscal year 2000 result from
+          the writedown of goodwill and other intangibles to estimated market
+          value associated with divestitures not completed at June 30, 2000 (see
+          Note 3). In addition, certain other intangibles, primarily customer
+          contracts, were written down based on discounted net cash flows in the
+          amount of $8,283,000 (see Note 17).
+
+                                       39
+<PAGE>   42
+
+               AFFILIATED COMPUTER SERVICES, INC. AND SUBSIDIARIES
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+     (c)  EBITDA consists of earnings before interest income, interest expense,
+          other non-operating income and expense, income taxes, depreciation and
+          amortization. EBITDA is not a measure of financial performance under
+          generally accepted accounting principles and should not be considered
+          in isolation or as an alternative to net income as an indicator of a
+          company's performance or to cash flows from operating activities as a
+          measure of liquidity.
+
+     The following reconciles consolidated operating income to pretax profit (in
+thousands):
+
+<Table>
+<Caption>
+                                             Year ended June 30,
+                                    ---------------------------------------
+                                      2001           2000           1999
+                                    ---------      ---------      ---------
+
+<S>                                 <C>            <C>            <C>
+Consolidated operating income       $ 223,726      $ 123,408      $ 158,584
+
+Interest expense                      (23,742)       (23,979)       (17,594)
+
+Net gain on divestitures                   --         85,846             --
+
+Other non-operating income, net        21,076          9,995          4,547
+                                    ---------      ---------      ---------
+Consolidated pretax profit          $ 221,060      $ 195,270      $ 145,537
+                                    =========      =========      =========
+</Table>
+
+     We derive a substantial majority of our revenues from companies
+headquartered in the United States. In fiscal years 2001, 2000 and 1999, no
+single customer exceeded 10% of our revenues.
+
+                                       40
+<PAGE>   43
+
+               AFFILIATED COMPUTER SERVICES, INC. AND SUBSIDIARIES
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+21. QUARTERLY RESULTS OF OPERATIONS (UNAUDITED)
+    (in thousands, except per share amounts)
+
+<Table>
+<Caption>
+                                                                       Quarter ended
+                        ------------------------------------------------------------------------------------------------------------
+                                            Fiscal 2001                                             Fiscal 2000
+                        ---------------------------------------------------     ----------------------------------------------------
+                        June 30,       Mar. 31,     Dec. 31,      Sept. 30,     June 30,       Mar. 31,      Dec. 31,      Sept. 30,
+                          2001          2001          2001          2001          2000           2000          2000          2000
+                        ---------     ---------     ---------     ---------     ---------      ---------     ---------     ---------
+
+<S>                     <C>           <C>           <C>           <C>           <C>            <C>           <C>           <C>
+Revenues                $ 550,477     $ 533,574     $ 500,882     $ 478,626     $ 528,409      $ 510,439     $ 476,008     $ 447,686
+Operating income           63,059        61,767        56,727        42,173(a)    (17,683)(b)     50,004        45,410(c)     45,677
+Net income                 36,552        35,193        31,992        30,555(a)     30,004(d)      27,836        26,446        25,026
+
+Earnings per common
+share (basic)           $     .73     $     .70     $     .64     $     .62     $     .61      $     .57     $     .54     $     .51
+Weighted average
+shares outstanding         50,307        49,964        49,811        49,438        49,255         49,319        49,319        49,261
+
+Earnings per common
+share assuming dilution $     .66     $     .64     $     .59     $     .57     $     .57      $     .53     $     .50     $     .47
+
+Weighted average
+shares outstanding
+assuming dilution          61,189        58,673        56,881        56,207        55,606         55,658        55,866        56,095
+</Table>
+
+     (a)  The first quarter of fiscal 2001 includes a $12,800,000 gain in other
+          non-operating income related to the sale of a non-strategic minority
+          investment in ACS Merchant Services, Inc. Also during the quarter, we
+          recorded a $10,400,000 charge in connection with the termination of
+          certain hardware leases and disaster recovery contracts and a
+          $2,100,000 charge for non-recurring litigation costs and the writedown
+          of property held-for-sale.
+
+     (b)  The fourth quarter of fiscal 2000 includes impairment charges of
+          $48,288,000, or $0.64 per diluted share, resulting from the writedown
+          of goodwill and other intangibles (see Note 3), impairment charges of
+          $8,283,000, or $0.09 per diluted share, related to certain other
+          intangibles, primarily customer contracts (see Note 17) and a
+          $15,395,000, or $0.18 per diluted share, charge associated with loss
+          contracts, a non-recurring charge related to a contractual dispute
+          with a client, non-recurring litigation and severance (See Note 17).
+
+     (c)  The second quarter of fiscal 2000 includes a $3,000,000 charge in
+          connection with the consolidation of certain business process
+          outsourcing operations.
+
+     (d)  Net income for the fourth quarter of fiscal 2000 includes the
+          $71,966,000 of charges described in (a) above, $50,479,000 after tax,
+          offset by a net pretax gain on divestitures of $85,846,000,
+          $51,534,000 after tax. This impacted basic and diluted earnings per
+          share for the fourth quarter of fiscal 2000 by $0.02.
+
+                                       41
+<PAGE>   44
+
+                       AFFILIATED COMPUTER SERVICES, INC.
+                 SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+                FOR THE YEARS ENDED JUNE 30, 2001, 2000 AND 1999
+                                 (in thousands)
+
+<Table>
+<Caption>
+                                                  Balance                           Balances of                          Balance
+                                                at Beginning    Charged to Costs      Divested                           at End
+                  Description                    of Period        and Expenses      Businesses(1)      Deductions       of Period
+                  -----------                   ------------    ----------------    -------------      ----------       ---------
+
+<S>                                             <C>             <C>                 <C>                <C>              <C>
+Year ended June 30, 2001 Deducted from asset accounts:
+
+       Accounts receivable                        $  4,646          $  2,062          $     --          $  1,088(2)      $  5,620
+       Property and equipment, software            165,558            56,628                --             5,376(3)       216,810
+       Goodwill                                     51,771            24,468                --               412(3)        75,827
+       Other intangible assets                      28,568            12,521                --             1,694(3)        39,395
+                                                  --------          --------          --------          --------         --------
+           Total                                  $250,543          $ 95,679          $     --          $  8,570         $337,652
+                                                  ========          ========          ========          ========         ========
+
+Year ended June 30, 2000 Deducted from asset accounts:
+
+       Accounts receivable                        $  4,633          $  7,295          $    794          $  6,488(2)      $  4,646
+       Property and equipment, software            139,000            49,975            14,523             8,894(3)       165,558
+       Goodwill                                     41,779            21,573            11,581                --(3)        51,771
+       Other intangible assets                      25,006            13,204             2,351             7,291(3)        28,568
+                                                  --------          --------          --------          --------         --------
+           Total                                  $210,418          $ 92,047          $ 29,249          $ 22,673         $250,543
+                                                  ========          ========          ========          ========         ========
+
+Year ended June 30, 1999 Deducted from asset accounts:
+
+       Accounts receivable                        $  2,840          $  3,673                --          $  1,880(2)      $  4,633
+       Property and equipment, software            101,125            40,435                --             2,560(3)       139,000
+       Goodwill                                     25,846            15,664                --              (269)(3)       41,779
+       Other intangible assets                      14,414            10,624                --                32           25,006
+                                                  --------          --------          --------          --------         --------
+           Total                                  $144,225          $ 70,396          $     --          $  4,203         $210,418
+                                                  ========          ========          ========          ========         ========
+</Table>
+
+     (1)  Allowances associated with divested and held-for-sale business units
+          at June 30, 2000.
+
+     (2)  Uncollectible accounts written off, net of recoveries and allowances
+          of acquired businesses.
+
+     (3)  Retirements.
+
+                                       42
+<PAGE>   45
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+        FINANCIAL DISCLOSURE
+
+     Not applicable.
+
+                                    PART III
+
+     Pursuant to Instruction G(3) to Form 10-K, the information required in
+ITEMS 10 THROUGH 13 is incorporated by reference from our definitive proxy
+statement, which is incorporated herein by reference.
+
+                                     PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENTS, FINANCIAL SCHEDULES AND REPORTS ON FORM
+         8-K
+
+     (a) Financial Statements and Financial Schedules
+
+         The following consolidated financial statements of Affiliated Computer
+         Services, Inc. and Subsidiaries are included in Part II, Item 8:
+
+              Report of Independent Accountants
+              Consolidated Balance Sheets
+              Consolidated Statements of Income
+              Consolidated Statements of Changes in Stockholders' Equity
+              Consolidated Statements of Cash Flows
+              Notes to the Consolidated Financial Statements
+
+     (b) The following financial schedule of Affiliated Computer Services, Inc.
+         and Subsidiaries is included in Part II, Item 8:
+
+         Schedule II - Valuation and Qualifying Accounts
+
+     (c) Reports on Form 8-K
+
+         Current Report on Form 8-K dated February 15, 2001 related to the
+         Company's registration of approximately $317 million of 3.5%
+         Convertible Subordinated Notes due February 15, 2006 and 3,649,094
+         shares of Class A common stock.
+
+     (d) Exhibits
+
+         Reference is made to the Index to Exhibits beginning on page 45 for a
+         list of all exhibits filed as part of this report.
+
+                                       43
+<PAGE>   46
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, we have duly caused this Report to be signed on our behalf
+by the undersigned thereunto duly authorized representative.
+
+                                       Affiliated Computer Services, Inc.
+
+Date: August 27, 2001
+                                       By: /s/ Warren D. Edwards
+                                           ------------------------------------
+                                           Warren D. Edwards
+                                           Executive Vice President and
+                                           Chief Financial Officer
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, this
+Report has been signed below by the following persons on behalf of the
+registrant and in the capacities indicated on the 27th day of August, 2001.
+
+<Table>
+<Caption>
+           Signature                                            Title
+           ---------                                            -----
+
+<S>                                         <C>
+       /s/ Darwin Deason                    Director, Chairman of the Board
+------------------------------------
+        (Darwin Deason)
+
+      /s/ Jeffrey A. Rich                   Director, President and Chief Executive Officer
+------------------------------------
+      (Jeffrey A. Rich)
+
+       /s/ Mark A. King                     Director, Chief Operating Officer
+------------------------------------
+        (Mark A. King)
+
+     /s/ Warren D. Edwards                  Executive Vice President and Chief Financial Officer
+------------------------------------
+      (Warren D. Edwards)
+
+    /s/ Henry G. Hortenstine                Director, Executive Vice President
+------------------------------------
+     (Henry G. Hortenstine)
+
+   /s/ William L. Deckelman, Jr.            Director, Executive Vice President, Corporate Secretary and
+------------------------------------            General Counsel
+   (William L. Deckelman, Jr.)
+
+       /s/ Peter A. Bracken                 Director
+------------------------------------
+       (Peter A. Bracken)
+
+      /s/ Joseph P. O'Neill                 Director
+------------------------------------
+      (Joseph P. O'Neill)
+
+       /s/ Frank A. Rossi                   Director
+------------------------------------
+       (Frank A. Rossi)
+
+    /s/ Clifford M. Kendall                 Director
+------------------------------------
+    (Clifford M. Kendall)
+</Table>
+
+                                       44
+<PAGE>   47
+
+                                INDEX TO EXHIBITS
+
+<Table>
+<Caption>
+EXHIBIT
+NUMBER          EXHIBIT NAME
+------          ------------
+
+<S>             <C>
+ 2.1            Agreement and Plan of Merger, dated as of September 20, 1997, by
+                and among the Company, ACS Acquisition Corp. and Computer Data
+                Systems, Inc., filed as Exhibit 2.1 to the Company's Form S-4
+                (Registration No. 333-40351) ("Form S-4") and incorporated
+                herein by reference.
+
+ 3.1            Certificate of Incorporation of the Company, filed as Exhibit
+                3.1 to the Company's Registration Statement on Form S-3 dated
+                March 30, 2001 (Registration No. 333-58038) ("Form S-3")and
+                incorporated herein by reference.
+
+ 3.2            Bylaws of the Company, as amended and in effect on May 3, 2000,
+                filed as Exhibit 3.2 to the Company's Annual Report on Form 10-K
+                for the year ended June 30, 2000 and incorporated herein by
+                reference.
+
+
+ 4.1            Form of New Class A Common Stock Certificate, filed as Exhibit
+                4.3 to the Company's Form S-1 (Registration No. 333-79394)
+                ("Form S-1") and incorporated herein by reference.
+
+ 4.2            Rights Agreement, dated April 2, 1999, between the Company and
+                First City Transfer Company, as Rights Agent, filed as Exhibit
+                4.1 to the Company's Report on Form 8-K dated May 19, 1999 and
+                incorporated herein by reference.
+
+ 4.3            Indenture, dated as of March 20, 1998, between Affiliated
+                Computer Services, Inc., as issuer and U.S. Trust Company of
+                Texas, N.A. as trustee, filed as Exhibit 4.1 to the Company's
+                Report on Form 8-K dated March 20, 1998 and incorporated herein
+                by reference.
+
+ 4.4            Registration Rights Agreement, dated as of March 17, 1998,
+                between Affiliated Computer Services, Inc. and Goldman, Sachs &
+                Co., Bear, Stearns & Co. Inc., Smith Barney Inc., Hambrecht &
+                Quist LLC, Donaldson, Lufkin & Jenrette Securities Corporation
+                and Prudential Securities Incorporated, filed as Exhibit 4.2 to
+                the Company's Report on Form 8-K dated March 20, 1998 and
+                incorporated herein by reference.
+
+ 4.5            Indenture dated as of February 21, 2001, by and between the
+                Company, as Issuer, and U.S. Trust Company of Texas, N.A., as
+                Trustee, relating to the Company's 3.5% Convertible Subordinated
+                Notes due February 15, 2006, filed as Exhibit 4.1 to the
+                Company's Form S-3 and incorporated herein by reference.
+
+ 4.6            Registration Rights Agreement, dated February 21,2001, by and
+                between the Company and Goldman, Sachs & Co., as representative
+                of the several purchasers named therein relating to the
+                Company's 3.5% Convertible Subordinated Notes due February 15,
+                2006, filed as Exhibit 4.4 to the Company's Form S-3 and
+                incorporated herein by reference.
+
+ 4.7            Specimen Note for the Company's 3.5% Convertible Subordinated
+                Notes due February 15, 2006, filed as Exhibit 4.2 to the
+                Company's Form S-3 and incorporated herein by reference.
+
+10.1            Amended Stock Option Plan of the Company, filed as Exhibit 10.1
+                to the Company's Form S-1 and incorporated herein by reference.
+
+10.2            1997 Stock Incentive Plan of the Company, filed as Appendix to
+                the Company's Joint Proxy Statement / Prospectus filed as Form
+                14A dated November 14, 1997 and incorporated herein by
+                reference.
+
+10.3            Reciprocal Services Agreement, dated June 30, 1994, between the
+                Company and Precept, filed as Exhibit 10.15 to the Company's
+                Form S-1 and incorporated herein by reference.
+</Table>
+
+                                       45
+<PAGE>   48
+
+<Table>
+<S>             <C>
+10.4            Mutual Indemnification Agreement, dated June 30, 1994, between
+                the Company and Precept, filed as Exhibit 10.18 to the Company's
+                Form S-1 and incorporated herein by reference.
+
+10.5            Stockholders Tax Indemnification Agreement, dated June 30, 1994,
+                between the Company and the Stockholders named therein, filed as
+                Exhibit 10.19 to the Company's Form S-1 and incorporated herein
+                by reference.
+
+10.6            Form of Directors Indemnification Agreement, filed as Exhibit
+                10.20 to the Company's Form S-1 and incorporated herein by
+                reference.
+
+10.7            Credit Agreement dated December 15, 1995 the Company, Bank One,
+                Texas, N.A., as Documentation Agent and Co-Agent, First
+                Interstate Bank of Texas N.A., as Administrative Agent and
+                Co-Agent and Certain Lenders filed as Exhibit 10.1 to the
+                Company's Third Quarter Report on Form 10-Q for the quarter
+                ended March 31, 1996 and incorporated herein by reference.
+
+10.8            Restated Credit Agreement dated June 20, 1996 between the
+                Company, Borrower, Wells Fargo Bank (Texas), N.A., Agent, Bank
+                One, Texas, N.A., Co-Agent, and Certain Lenders for $160,000,000
+                Revolving Facility filed as Exhibit 10.19 to the Company's
+                Annual Report on Form 10-K for the year ended June 30, 1996 and
+                incorporated herein by reference.
+
+10.9            First Amendment to Restated Credit Agreement dated July 29, 1997
+                the Company, Wells Fargo Bank (Texas) N.A., Agent; Bank One,
+                Texas, N.A., Co-Agent; and Certain Lenders for $200,000,000
+                Revolving Facility filed as Exhibit 10.14 to the Company's
+                Annual Report on Form 10-K for the year ended June 30, 1997 and
+                incorporated herein by reference.
+
+10.10           Second Amendment to Restated Credit Agreement dated March 20,
+                1998 between the Company, Wells Fargo Bank (Texas) N.A., Agent;
+                Bank One, Texas, N.A., Co-Agent; and Certain Lenders for
+                $200,000,000 Revolving Credit Facility filed as Exhibit 10.10 to
+                the Company's Annual Report on Form 10-K for the year ended June
+                30, 1999 and incorporated herein by reference.
+
+10.11           Third Amendment to Restated Credit Agreement dated September 24,
+                1999 between the Company; Wells Fargo Bank (Texas), N.A., Agent;
+                Bank One, Texas, N.A., Co-Agent; and certain Lenders for
+                $200,000,000 Revolving Credit Facility filed as Exhibit 10.11 to
+                the Company's Annual Report on Form 10-K for the year ended June
+                30, 2000 and incorporated herein by reference.
+
+10.12           Credit Agreement dated September 27, 1999 between the Company;
+                Wells Fargo Bank (Texas), N.A., Agent and Arranger; and certain
+                Lenders for $50,000,000 Revolving Credit Facility filed as
+                Exhibit 10.12 to the company's Annual Report on Form 10-K for
+                the year ended June 30, 2000 and incorporated herein by
+                reference.
+
+10.13           First Amendment to Credit Agreement dated February 24, 2000
+                between the Company; Wells Fargo Bank (Texas), N.A., Agent and
+                Arranger; and certain lenders for $50,000,000 Revolving Credit
+                Facility filed as Exhibit 10.13 to the Company's Annual Report
+                on Form 10-K for the year ended June 30,2000 and incorporated
+                herein by reference.
+
+10.14           Credit Agreement dated May 12, 2000 between the Company; Wells
+                Fargo Bank Texas, National Association, Administrative Agent and
+                Co-Lead Arranging Agent; Bank One, N.A., Syndication Agent and
+                Co-Lead Arranging Agent; SunTrust Bank, Documentation Agent: The
+                Bank of Tokyo-Mitsubishi, Ltd., Co-Agent; and certain Lenders
+                and certain Subsidiary Guarantors for $450,000,000 Revolving
+                Credit Facility filed as Exhibit 10.14 to the Company's Annual
+                Report on form 10-K for the year ended June 30, 2000 and
+                incorporated herein by reference.
+
+10.15           Form of Severance Agreement by and between the Company and
+                Certain Executive Officers of the Company filed as Exhibit 10.15
+                to the Company's Annual Report on Form 10-K for the year ended
+                June 30, 1997 and incorporated herein by reference.
+</Table>
+
+                                       46
+<PAGE>   49
+
+<Table>
+<S>             <C>
+10.16           U.S. Department of Education Contract No. PM94017001 (portions
+                of which are subject to an Order for Confidential Treatment
+                pursuant to Rule 24b-2) included as an exhibit to the Form
+                10-Q/A filed August 24, 1994 by ACS Government Solutions, Inc.
+                (formerly known as Computer Data Systems, Inc.) and incorporated
+                herein by reference.
+
+10.17           Supplemental Executive Retirement Agreement by and between the
+                Company and the Company's Chairman of the Board filed as Exhibit
+                10.13 to the Company's Annual Report on Form 10-K for the year
+                ended June 30, 1999 and incorporated herein by reference.
+
+10.18           Employment Agreement by and between the Company and the
+                Company's Chairman of the Board filed as Exhibit 10.(iii)(A) to
+                the Company's Third Quarter Report on Form 10-Q for the quarter
+                ended March 31, 1999 and incorporated herein by reference.
+
+10.19           Guaranty of Affiliated Computer Services, Inc. of Citibank loan
+                to DDH Aviation filed as Exhibit 1.0.1 to the Company's Form
+                10-Q for the period ended December 31, 2000 and incorporated
+                herein by reference.
+
+o  21.1         Subsidiaries of the Company
+
+o  23.1         Consent of PricewaterhouseCoopers LLP
+</Table>
+
+     o    Filed herewith
+
+                                       47
+
+</TEXT>
+</DOCUMENT>

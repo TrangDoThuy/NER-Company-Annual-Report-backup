@@ -1,0 +1,3537 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>aci032283_10k.txt
+<TEXT>
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+                            ------------------------
+
+                                    FORM 10-K
+
+                ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+                       THE SECURITIES EXCHANGE ACT OF 1934
+
+                   FOR THE FISCAL YEAR ENDED DECEMBER 31, 2002
+
+                         Commission File No.: 000-21557
+
+                             ACI TELECENTRICS, INC.
+             (Exact name of registrant as specified in its charter)
+
+            MINNESOTA                                            41-1572571
+(State or other jurisdiction of                                (IRS Employer
+ incorporation or organization)                           Identification Number)
+
+         3100 WEST LAKE STREET, SUITE 300, MINNEAPOLIS, MINNESOTA 55416
+               (Address of principal executive offices)        (Zip Code)
+
+         Issuer's telephone number, including area code: (612) 928-4700
+
+    Securities registered pursuant to Section 12(b) of the Exchange Act: None
+
+      Securities registered pursuant to Section 12(g) of the Exchange Act:
+                      Common Stock, no par value per share
+
+Check whether the Issuer (1) has filed all reports required to be filed by
+Section 13 or 15(d) of the Exchange Act during the past 12 months (or for such
+shorter period that the Registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days.
+Yes [X] No [ ]
+
+Check if disclosure of delinquent filers in response to Item 405 of Regulation
+S-B is not contained herein, and will not be contained, to the best of
+Registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-KSB or any amendment to
+this Form 10-KSB. [ ]
+
+Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Exchange Act Rule 12b-2) Yes [ ] No [X]
+
+Issuer's revenues for its most recent fiscal year:  $30,320,788.
+
+The aggregate market value of the Common Stock held by non-affiliates of the
+Registrant as of June 28, 2002, was approximately $690,743 based upon the
+average of the closing bid and asked prices of the Registrant's Common Stock on
+such date.
+
+There were 5,781,485 shares of Common Stock, no par value, outstanding as of May
+12, 2003.
+                            ------------------------
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+None
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+Description                                                                                                  Page
+-----------                                                                                                  ----
+<S>               <C>                                                                                         <C>
+PART I
+       ITEM 1.    BUSINESS ....................................................................................1
+       ITEM 2.    PROPERTIES...................................................................................5
+       ITEM 3.    LEGAL PROCEEDINGS............................................................................6
+       ITEM 4.    SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS..........................................6
+
+PART II
+       ITEM 5.    MARKET FOR RETISTRANT'S COMMON EQUITY
+                  AND RELATED STOCKHOLDER MATTERS..............................................................6
+       ITEM 6.    SELECTED FINANCIAL DATA......................................................................7
+       ITEM 7.    MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+                    AND RESULTS OF OPERATIONS..................................................................8
+       ITEM 7A.   QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK..................................17
+       ITEM 8.    FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.................................................18
+       ITEM 9.    CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+                    ACCOUNTING AND FINANCIAL DISCLOSURE.......................................................41
+
+PART III
+       ITEM 10.   DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT..........................................42
+       ITEM 11.   EXECUTIVE COMPENSATION......................................................................44
+       ITEM 12.   SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+                    MANAGEMENT AND RELATED STOCKHOLDER MATTERS................................................49
+       ITEM 13.   CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS..............................................50
+       ITEM 14.   CONTROLS AND PROCEDURES.....................................................................51
+
+PART IV
+       ITEM 15.   EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND
+                     REPORTS ON FORM 8-K......................................................................51
+</TABLE>
+
+
+
+
+
+                                       i
+<PAGE>
+
+                                     PART I
+
+ITEM 1. BUSINESS
+
+GENERAL
+
+        ACI Telecentrics, Inc. (ACI) was incorporated under the name Automated
+Communications, Incorporated under Minnesota law on January 13, 1987, and
+changed its name to ACI Telecentrics, Inc. on July 26, 1996. ACI provides
+inbound and outbound outsourced telephone-based sales and marketing services,
+broadly defined as teleservices. In 2000, we established a wholly owned
+subsidiary, Corporation ACI Telecentrics du Quebec, Inc., to manage and operate
+all of our Canadian contact centers. As of December 31, 2002, we operated 801
+workstations in 8 call centers located in Minnesota, North Dakota, Nebraska,
+Indiana, California, and Quebec, Canada.
+
+        We provide telemarketing services primarily in the telecommunications,
+financial services and publishing industries. In the telecommunications
+industry, we market long distance and a variety of network services to the
+customers of Regional Bell Operating Companies (RBOCs) and support customer
+service functions for Competitive Local Exchange Carriers (CLECs). In the
+financial services industry, we conduct telemarketing projects for banks and
+financial services companies in the areas of insurance; credit card customer
+acquisition, retention, and renewal; credit card enhancement services; account
+generation and retention; and customer service and inbound sales support. In the
+publishing industry, our telemarketing programs assist magazine publishers in
+acquiring new subscribers and soliciting subscription renewals. For the year
+ended December 31, 2002, our revenue and loss from operations were $30,320,788
+and $2,370,437, respectively. This represents a decrease in revenue of 8%
+compared to 2001. The loss from operations in 2002 compares to an income from
+operations of $389,448 in 2001.
+
+Our web address is www.acitel.com. Investors may request a copy of our reports
+by requesting a copy through our website.
+
+INDUSTRY AND MARKET
+
+        We believe that the telemarketing sector of marketing expenditures will
+continue to grow and that the trend toward outsourcing telemarketing programs
+will continue. Many companies choose to use telemarketing for customer
+retention, customer service, and customer care programs, in addition to the
+traditional sales programs. The telecommunications and financial services
+industries, which ACI already serves, are undergoing deregulation or
+consolidation, which may provide us with additional growth opportunities as
+these businesses search for low-cost solutions for their marketing, sales, and
+customer support needs. In 2002, businesses within the financial services,
+telecommunications, and publishing industries accounted for most of our
+revenues. The industries targeted by us, and the principal services provided,
+are described below.
+
+FINANCIAL SERVICES. ACI entered the financial services segment of the market in
+1988. We provide telemarketing services for the credit card and noncredit card
+financial segments, as well as fee-based segments such as membership clubs.
+Types of telemarketing services performed for these clients include customer
+acquisition, activation and retention, selling of discounted travel and shopping
+clubs, debit card acquisition or upgrade, home equity loan lead generation,
+mortgage lead generation, and pre-approved lines of credit. We support this
+industry with both inbound and outbound services. Inbound programs include
+enrollments in mortgage acceleration programs and sales of fee based products.
+
+TELECOMMUNICATIONS. ACI entered the telecommunications segment of the market in
+1987. We currently
+
+                                       1
+<PAGE>
+
+provide telemarketing services for network services, long distance, Caller ID,
+and enhanced consumer premise equipment (CPE products). In addition, we support
+customer service, repair and billing inquiry functions for CLECs.
+
+PUBLISHING. ACI provides telemarketing services to publishers, including
+subscription renewals, subscription sales, and customer services. Our program
+managers work closely with publishing clients to develop individually tailored
+programs to enhance their marketing and sales efforts.
+
+SALES AND MARKETING
+
+        We strive to enhance the sales and service experiences of our client's
+customers. Our marketing strategy emphasizes customized marketing solutions
+tailored to meet the individual client's needs. We attract clients through
+direct prospecting by our sales force, encouraging referrals from existing
+clients who are satisfied with our quality service and gaining business through
+other divisions of companies who are current clients.
+
+PRINCIPAL CUSTOMERS
+
+        We rely on several clients for a significant portion of our revenues. In
+2002, three clients accounted for 41% of our total revenue. Two of the three
+clients (17% and 14% of total revenue, respectively) are two of the nation's
+largest telephone operating companies. The third client (10% of total revenue)
+is a marketer of credit card and mortgage loan services. In 2001, five clients
+accounted for 66% of total revenue. Two of the five clients (12% and 11% of
+total revenue, respectively) are two of the nations top credit card issuers; one
+client (16% of total revenue) is one of the nation's largest providers of
+consumer membership programs; one client (11% of total revenue) is one of the
+nation's largest diversified financial services companies. The fifth client (16%
+of total revenue) is one of the nation's largest telephone operating companies.
+
+COMPETITION
+
+        The telemarketing industry is highly competitive, but also continues to
+be highly fragmented. We compete with both in-house telemarketing organizations
+as well as other independent outsource telemarketing operations. In-house
+telemarketing organizations provide a variety of services to their organizations
+and comprise the majority of the telemarketing industry. Independent
+telemarketing organizations range from numerous small, single-facility
+operations to large, multifacility operations, such as SITEL Corporation, APAC
+Teleservices Inc., Sykes Enterprises, RMH Teleservices, Inc. and West
+Telemarketing Corporation. We also compete with other forms of marketing, such
+as direct mail, television, and radio. We believe that the primary competitive
+factors in the telephone-based marketing industry are reputation for quality
+service, marketing results, technological expertise, price, the ability to
+support inbound sales efforts, and the ability to design customized marketing
+programs that address the needs of our clients. We believe that most of our
+competitors are, like us, highly dependent on a small number of clients for a
+large percentage of their business.
+
+GOVERNMENT REGULATION
+
+        Telemarketing practices are regulated in the United States and Canada as
+discussed below.
+
+                                       2
+<PAGE>
+
+        UNITED STATES
+
+        The telemarketing industry is subject to a significant amount of federal
+and state regulation. The federal Telephone Consumer Protection Act of 1991 (the
+TCPA) prohibits telemarketers from using automated telephone dialing equipment
+to call certain types of telephone numbers, such as hospital emergency room
+telephone numbers. In addition, the TCPA prohibits the initiation of telephone
+calls to any residential telephone line using an artificial or prerecorded voice
+to deliver a message without the prior consent of the called party. The federal
+Telemarketing and Consumer Fraud and Abuse Prevention Act of 1994 (the TCFAPA)
+broadly authorizes the Federal Trade Commission (the FTC) to issue regulations
+prohibiting misrepresentation in telemarketing sales. In August 1995, the FTC
+issued regulations under the TCFAPA which, among other things, prohibits
+initiating an outbound telephone call to a person that has stated that he or she
+does not wish to receive an outbound call on behalf of the seller whose goods or
+services are being offered, prohibit calls at any time other than between 8:00
+A.M. and 9:00 P.M. local time, require a telemarketer to make certain
+disclosures to the person receiving the call, and prohibit misrepresentations
+regarding the cost, terms, restrictions, or performance of products or services
+offered by phone.
+
+        The FTC also administers the Fraud Prevention Act under which the FTC
+has issued the Telemarketing Sales Rule (TSR) prohibiting a variety of
+deceptive, unfair or abusive practices in direct telephone sales. These rules
+prohibit misrepresentations of the cost, quality, terms, restrictions,
+performance or characteristics of products or services offered by telephone
+solicitation or of refund, cancellation or exchange policies. The regulations
+also require that a telemarketer identify promptly and clearly the seller on
+whose behalf the representative is calling, the purpose of the call, and the
+nature of the good or services offered.
+
+        In December of 2002, the FTC amended the TSR. Excluding two provisions,
+which are addressed below, the amended Rule becomes effective on October 1,
+2003. The excluded provisions are as follows:
+
+        1. Telemarketers must be able to transmit data that is readable by
+        caller ID devices. The effective date for full compliance with the
+        caller identification transmission provision is January 29, 2004.
+
+        2. A centralized national Do Not Call (DNC) registry will be
+        implemented. The effective date for full compliance with the national
+        DNC list provision has not been announced, but this date may be as early
+        as September 2003. AT&T has been awarded the contract to create the
+        national list. A consumer who receives a telemarketing call despite
+        being on the registry will be able to file a complaint with the FTC.
+        Violators could be fined up to $11,000 per incident.
+
+         The balance of the amended Rule gives the vendor two seconds from the
+consumer's completed greeting to connect the call to the sales person.
+
+         However, the FTC has provided a safe harbor provision for the "two
+second" rule in that no enforcement action will be taken against a client or
+vendor for violation if we meet the following standards designed to minimize
+call abandonment:
+
+        1. Telemarketers must employ technology that ensures no more than a 3%
+        abandonment rate, measured per day per calling campaign.
+
+        2. Telemarketers must allow each call placed to ring for at least 15
+        seconds or four complete rings before disconnecting.
+
+                                       3
+<PAGE>
+
+        3. Whenever a sales representative is not available within two seconds
+        to speak to the consumer answering the call, we must promptly play a
+        recorded message that contains the seller's name and telephone number.
+        Failure to provide this recorded message will result in the call being
+        considered abandoned, and it will be counted against the 3% daily
+        maximum.
+
+        4. Records, which prove telemarketers compliance of items one through
+        three above, must be retained for 24 months.
+
+        A number of states have enacted or are considering legislation to
+regulate telemarketing. For example, several states impose license or bond
+requirements upon telemarketers. There are also several states that publish and
+maintain a state run "Do Not Call List." ACI subscribes to these lists. All
+telephone numbers to be called by ACI are cross referenced against the "Do Not
+Call" lists. "Do Not Call" numbers are then stricken from the lists of telephone
+numbers to be called by us. From time to time, bills are introduced in the U.S.
+Congress or state legislatures that could further regulate certain aspects of
+the telemarketing business. We cannot predict whether any such proposed
+legislation will become law or what affect such laws would have on our business.
+
+        ACI is currently administering Do Not Call lists from over 24 states and
+is technically and procedurally prepared to adhere to the amended Rule. To the
+best of our knowledge, our telemarketing procedures comply with all state and
+federal rules.
+
+        Several of the industries served by us are subject to varying degrees of
+government regulation, particularly the financial services industry. Clients in
+these industries are obligated to provide us with scripts for our telemarketers,
+which comply with applicable industry regulations. Although compliance with
+these regulations is generally the responsibility of our clients, we could be
+subject to a variety of enforcement or private actions for our failure or the
+failure of our clients to comply with such regulations as the same relate to
+telemarketing operations.
+
+        CANADA
+
+        In Canada, the Canadian Radio-Television and Telecommunications
+Commission enforces rules regarding unsolicited communications using automatic
+dialing and announcing devices, live voice and fax. Companies that violate any
+of the restrictions on unsolicited calls may have their telephone service
+terminated after two business days' notice from the telephone company.
+
+        In 2001, the federal government of Canada enacted the Personal
+Information Protection and Electronic Documents Act (Federal Act). Effective
+January 1, 2004, the Federal Act requires companies to obtain consent for the
+collection, use, and disclosure of an individual's personal information. If the
+Federal Act is determined to be applicable to us, it may have an adverse affect
+on our current or future operations. The Federal Act permits any Province of
+Canada to enact legislation governing the subject matter of the Federal Act, in
+which case the legislation of the Province will apply. Our Canadian operations
+are located in Quebec. The province of Quebec may enact legislation governing
+the subject matter of the Federal Act. If the province of Quebec were to enact
+such legislation, there can be no assurance that any such laws will not
+adversely affect or limit our current or future operations.
+
+        The Federal Competition Act contains a number of provisions that
+regulate the conduct of telemarketers in Canada, in particular the manner in
+which outbound calls are to be conducted. Failure to comply with such
+legislation could adversely affect our business.
+
+                                       4
+<PAGE>
+
+PERSONNEL
+
+        As of December 31, 2002, we had approximately 1,600 full and part-time
+employees. None of our employees are subject to a collective bargaining
+agreement. We believe our relationship with our employees is good.
+
+AVAILABLE INFORMATION
+
+        All reports filed electronically by ACI Telecentrics, Inc., with the
+Securities and Exchange Commission ("SEC"), including its annual reports on Form
+10-K and Form 10-KSB, quarterly reports on Form 10-Q and Form 10-QSB, current
+reports on Form 8-K and proxy statements, and other information and amendments
+to those reports filed (if applicable), are accessible on the SEC's web site at
+www.sec.gov. The public may read and copy any materials filed by the Company
+with the SEC at the SEC's Public Reference Room at 450 Fifth Street NW,
+Washington, DC 20549. They may obtain information from the Public Reference Room
+by calling the SEC at 1-800-SEC-0330. These filings are also available at no
+cost by contacting the Company at rjackson@acitel.com or calling 612-928-4700.
+
+ITEM 2. PROPERTIES
+
+FACILITIES
+
+        Our corporate headquarters is located in Minneapolis, Minnesota in a
+leased facility consisting of approximately 12,000 square feet of office space.
+The lease expires on March 31, 2004.
+
+        We also lease 8 contact center facilities in the Midwest, California,
+and Quebec, Canada. Information related to those call centers is as follows:
+
+<TABLE>
+<CAPTION>
+                              Year Opened/                                                            Number of
+      Location                  Acquired                   Term                 Expires             Workstations
+<S>                              <C>                       <C>                   <C>                       <C>
+Twin Valley, MN                  1993                      5 yr                  8/03                      40
+
+Devils Lake, ND                  1996                 Month to Month              N/A                      32
+
+Chadron, NE                      1997                      10 yr                 7/07                      60
+
+Schererville, IN                 1997                      6 yr                  3/07                     113
+
+Redding, CA                      1999                      5 yr                  8/04                     144
+
+Sherbrooke, PQ                   2000                      7 yr                  5/07                     194
+
+Vaudreuil, PQ                    2001                      7 yr                  12/07                    104
+
+Caplan, PQ                       2002                      7 yr                  5/09                     114
+                                                                                                        -----
+
+Total workstations at December 31, 2002                                                                   801
+                                                                                                        =====
+</TABLE>
+
+                                       5
+<PAGE>
+
+ITEM 3. LEGAL PROCEEDINGS
+
+        We are periodically involved in legal actions in the ordinary course of
+its business. As of December 31, 2002, there are no pending legal
+proceedings-against or involving the Company for which the outcome is likely to
+have a material adverse effect upon our financial position or results of
+operations.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+        There were no matters submitted to a vote of the shareholders of the ACI
+during the fourth quarter of 2002.
+
+
+                                     PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+        Since June 11, 1999, our Common Stock has been traded on the
+over-the-counter markets of the National Association of Securities Dealer's
+Electronic Bulletin Board under the symbol ACIT. On June 10, 1999, Nasdaq
+informed us that we were being delisted from the Nasdaq SmallCap Market where
+our Common Stock had been traded since October 21, 1996. Prior to October 21,
+1996, our Common Stock was not publicly traded. The following table sets forth
+the high and low bid prices and the closing sales prices for our Common Stock as
+reported by OTC Bulletin Board. The bid quotations represent interdealer prices
+without retail mark-ups, mark-downs or commissions and may not necessarily
+represent actual transactions.
+
+Year Ended December 31, 2002             High             Low             Close
+
+        First Quarter                 $  1.30          $ 0.85          $  0.85
+        Second Quarter                   0.95            0.50             0.50
+        Third Quarter                    0.51            0.22             0.30
+        Fourth Quarter                   0.38            0.11             0.23
+
+Year Ended December 31, 2001             High             Low             Close
+
+        First Quarter                 $  1.56          $ 0.81          $  0.91
+        Second Quarter                   2.00            0.85             1.60
+        Third Quarter                    2.35            0.80             0.80
+        Fourth Quarter                   1.15            0.80             1.00
+
+        On May 8, 2003, the aggregate market value of our Common Stock was
+$635,963 based on the average of the closing bid and asked prices on that date.
+As of May 8, 2003, we had approximately 150 shareholders of record. We estimate
+that an additional 400 stockholders own stock held for their accounts at
+brokerage firms and financial institutions (commonly known as "in street name").
+
+        We have not paid cash dividends on our Common Stock since our initial
+public offering of stock. The Board of Directors presently intends to retain
+earnings for use in our business and does not anticipate paying cash dividends
+on Common Stock in the foreseeable future. Any future determinations as to the
+payment of dividends will depend on our financial condition and such other
+factors as are deemed relevant by the Board of Directors. Our credit line
+prohibits the payment of cash dividends without the lender's consent.
+
+                                       6
+<PAGE>
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+         The following selected financial data should be read in conjunction
+with "Management's Discussion and Analysis of Financial Condition and Results of
+Operations" and with our financial statements and notes thereto included
+elsewhere in this report. The selected consolidated statements of operations
+data for 2002, 2001, and 2000 and the selected consolidated balance sheets data
+for 2002 and 2001 are derived from our audited consolidated financial statements
+included herein. The selected consolidated statements of operations data for
+1999 and 1998 and the selected consolidated balance sheets data for 2000, 1999,
+and 1998 are derived from our audited consolidated financial statements not
+included herein.
+
+<TABLE>
+<CAPTION>
+                                                                   FOR THE YEARS ENDED DECEMBER 31,
+                                                 --------------------------------------------------------------------
+                                                   2002           2001           2000           1999           1998
+                                                 --------      ---------       --------       --------       --------
+<S>                                              <C>            <C>            <C>            <C>            <C>
+Consolidated Statements of Operations Data:
+(in thousands, except per share data)
+Total revenues                                   $ 30,321       $ 32,894       $ 31,495       $ 22,943       $ 15,036
+                                                ---------       --------       --------       --------       -------
+Operating expenses:
+   Cost of services                                17,816         17,342         17,657         13,537          8,396
+   Selling, general, and administrative            14,281         15,085         11,545          8,486          8,009
+   Restructuring costs                                 11             --             --             --             65
+   Impairment costs                                   583             78            847             --             --
+                                                 --------       --------       --------       --------       --------
+Total operating expenses                           32,691         32,505         30,049         22,023         16,470
+                                                 --------       --------       --------       --------       --------
+
+Operating income (loss)                            (2,370)           389          1,446            920         (1,434)
+
+Interest income                                         8             25             16             16             39
+Interest expense                                      218            277            194             94             59
+Other expense                                          39             69             10              6              2
+                                                 --------       --------       --------       --------       --------
+
+Income (loss) before income taxes                  (2,619)            68          1,258            836         (1,456)
+
+Income tax expense (benefit)                          205             27            497            309           (550)
+                                                 --------       --------       --------       --------       --------
+
+Net income (loss)                                $ (2,824)      $     41       $    761       $    527       $   (906)
+                                                 ========       ========       ========       ========       ========
+
+Basic and diluted income (loss) per share        $   (.49)      $    .01       $    .13       $    .09       $   (.16)
+                                                 ========       ========       ========       ========       ========
+
+<CAPTION>
+
+                                                                             DECEMBER 31,
+                                                 --------------------------------------------------------------------
+                                                   2002           2001           2000           1999           1998
+                                                 --------       --------       --------       --------       --------
+<S>                                              <C>            <C>            <C>            <C>            <C>
+Consolidated Balance Sheets Data:
+(in thousands)
+Working capital                                  $    505       $  2,539       $  3,033       $  3,581       $  2,305
+Total assets                                     $ 11,846       $ 13,116       $ 14,063       $ 10,021       $  7,342
+Revolving line of credit                         $  1,808             --       $  2,502       $    850             --
+Shareholders' equity                             $  4,096       $  6,921       $  6,872       $  6,096       $  5,551
+</TABLE>
+
+                                       7
+<PAGE>
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+OVERVIEW
+
+        ACI provides telephone-based sales and marketing services primarily to
+the telecommunications, publishing, and financial services industries. We
+operate eight contact centers. Five of the contact centers are located in the
+United States, and three are located in Quebec, Canada. Four of the United
+States contact centers are located in Midwest states with one located in
+California. The Canadian contact centers are located in Sherbrooke, Vaudreuil
+and Caplan, Quebec. As of December 31, 2002, we had 801 outbound and inbound
+calling workstations and approximately 1,600 full and part-time employees.
+
+        Revenues from telemarketing services are recognized as these services
+are performed and are generally based on an hourly rate. Certain telemarketing
+service revenues are performance-based. Cost of services includes compensation
+and commissions for telephone sales representatives, payroll taxes, and other
+benefits associated with such personnel, telephone expenses, and other direct
+costs associated with providing services to customers. Selling, general, and
+administrative expenses include administrative, sales, marketing, occupancy,
+depreciation, and other indirect costs.
+
+        One of our strategies is to locate our contact centers in smaller, more
+rural communities, because many of these communities offer higher quality labor
+and reduced operating expenses, as well as, economic incentives for locating
+facilities in their communities. We receive incentive payments from certain
+federal, state, local, and provincial governments in the United States and
+Canada that help offset payroll and start-up costs associated with opening new
+customer contact centers.
+
+CRITICAL ACCOUNTING POLICIES
+
+        In preparing our financial statements, we follow accounting principles
+generally accepted in the United States of America, which in many cases require
+assumptions, estimates and judgments that affect the amounts reported. Many of
+these policies are relatively straightforward. There are, however, a few
+policies that are critical because they are important in determining the
+financial condition and results of operations, and they can be difficult to
+apply. The most critical accounting policies applied in the preparation of the
+Company's financial statements relate to:
+
+        REVENUE RECOGNITION - We provide outbound and inbound telephone-based
+sales and marketing services (outsourced services) for a variety of companies in
+the telecommunications, financial services, and publishing industries. Outbound
+telemarketing services are performed when our customer sales representatives
+place a telephone call, from a list supplied by our client company, to a
+telephone number at a personal residence or business location. Inbound
+telemarketing services are performed when our customer sales representatives
+receive a call, on a toll-free telephone number, from an individual or business
+that is seeking to obtain information or purchase a product or service from our
+client company.
+
+        We recognize revenues from outbound and inbound services when those
+services are provided. Revenue is recognized based on telemarketing hours
+incurred or, if revenue is recognized on performance based criteria, when sales
+are verified.
+
+        Outbound and inbound services revenue is treated as one segment. Related
+costs and expenses are not tracked separately because we do not have dedicated
+inbound customer contact centers, we have no dedicated inbound telemarketing
+personnel, and employees in our customer contact centers perform both
+
+                                       8
+<PAGE>
+
+outbound and inbound telemarketing services.
+
+        ECONOMIC DEVELOPMENT GRANTS - We receive incentive payments from certain
+state, local and provincial governments in the United States and Canada to help
+offset payroll and start-up costs associated with opening new customer contact
+centers. These various governmental agencies reserve the right to require
+repayment of all or a portion of the incentive payments if the Company does not
+meet certain performance criteria as defined in the incentive agreements, such
+as, creating a certain, or minimum, number of new jobs, maintaining certain
+levels of employment over a period of time or paying minimum average salaries.
+
+        Incentive payments are recorded as a reduction to payroll and start-up
+expenses when performance criteria are satisfied. In the event that performance
+criteria have been satisfied prior to receipt of the incentive payment, payroll
+and start-up expenses are reduced and a receivable from the governmental agency
+is recorded. If an incentive payment is received prior to the satisfaction of
+all required performance criteria, the incentive payment is deferred and
+recorded as a liability. If an incentive payment is received for which an
+incremental portion of the performance criteria is satisfied then the
+incremental portion of the incentive payment is recorded as a reduction to
+payroll and start-up costs and the incremental portion of the incentive payment
+not earned is deferred and recorded as a liability.
+
+        LONG-LIVED ASSETS - We review our long-lived assets, such as fixed
+assets and goodwill for impairment whenever events or changes in circumstances
+indicate the book value of an asset or group of assets may not be recoverable.
+We consider a history of operating losses to be a primary indicator of potential
+asset impairment. Assets are grouped and evaluated for impairment at the lowest
+level for which there are identifiable cash flows. Fixed assets or goodwill is
+deemed to be impaired if a forecast of undiscounted future operating cash flows,
+directly related to such assets, is less than its carrying amount.
+
+        INCOME TAXES - We evaluate a variety of factors in determining the
+amount of income tax assets and liabilities to be reported in our consolidated
+balance sheets, including our earnings history, the number of years our
+operating loss and tax credits can be carried forward, the existence of taxable
+temporary differences, and near-term earnings expectations. In assessing our
+ability to utilize deferred tax assets, we consider whether it is more likely
+than not that some portion or all of the deferred tax assets will not be
+realized. We consider the scheduled reversal of deferred tax liabilities,
+projected future taxable income, and tax planning strategies in making this
+assessment.
+
+CONTRACTUAL OBLIGATIONS
+
+        We are committed to making cash payments in the future in connection
+with operating leases, capital lease obligations (including principal and
+interest), and our Revolving Credit and Forbearance Loan Agreement. We have no
+off-balance sheet debt or other unrecorded obligations nor do we guarantee the
+debt of any party. Below is a schedule of the future payments that we are
+obligated to make based on agreements in place as of December 31, 2002 (amounts
+in thousands).
+
+<TABLE>
+<CAPTION>
+                                 Total        2003        2004        2005         2006       2007    Thereafter
+                                -------     -------     -------     -------     --------    -------     -------
+<S>                             <C>         <C>         <C>         <C>         <C>         <C>         <C>
+Minimum lease payments
+   under capital leases         $ 1,247     $   660     $   351     $   187     $    49     $    --     $    --
+
+Operating leases                  4,239       1,096         903         772          766        472         230
+Revolving credit and
+   forbearance agreement          1,808       1,808          --          --           --         --          --
+                                -------     -------     -------     -------     --------    -------     -------
+Total                           $ 7,294     $ 3,564     $ 1,254     $   959     $    815    $   472     $   230
+                                =======     =======     =======     =======     ========    =======     =======
+</TABLE>
+
+                                       9
+<PAGE>
+
+RESULTS OF OPERATIONS
+
+        The following table sets forth items from ACI's Consolidated Statements
+of Operations as percentages of total revenues:
+
+Years ended December 31,                               2002      2001      2000
+                                                      -----     -----     -----
+
+Telemarketing revenues                                100.0%    100.0%    100.0%
+Cost of services                                       58.8      52.7      56.0
+Selling, general, and administrative expenses          47.1      45.9      36.7
+Impairment cost                                         1.9       0.2       2.7
+Operating income (loss)                                (7.8)      1.2       4.6
+Other expense                                          (0.8)     (1.0)     (0.6)
+Income (loss) before income taxes                      (8.6)      0.2       4.0
+Income tax expense                                      0.7       0.1       1.6
+Net income (loss)                                      (9.3)      0.1       2.4
+
+YEAR ENDED DECEMBER 31, 2002 COMPARED TO YEAR ENDED DECEMBER 31, 2001
+
+        REVENUES. Revenues for the year ended December 31, 2002 were
+$30,320,788, a decrease of $2,573,128 or 8% when compared to 2001 revenues of
+$32,893,916. The decreases in revenues and billable hours can primarily be
+attributed to our financial services clients scaling back their marketing
+campaigns due to the general instability of the economy during 2002.
+
+        Telecommunications clients provided the largest portion of revenues
+during 2002, providing approximately 46% of revenues compared to approximately
+27% of revenues in 2001. During 2001, financial services clients provided 63% of
+revenues compared to approximately 44% during 2002. Other industry segments and
+their percentages of revenues in 2002 and 2001 included publishing (4% and 6%)
+and other miscellaneous (6% and 4%), respectively. During 2002, the Company's
+largest client represented 17% of total revenue. During 2001, the Company's
+largest client represented 16% of total revenue.
+
+        In 2002, billable telemarketing hours decreased 5% when compared to
+2001; however, net revenue per billable telemarketing hour decreased by 3%.
+During 2002, the Company opened one contact center in Caplan, Quebec, Canada. As
+of December 31, 2002, the Company operated a combined total of 801 inbound and
+outbound contact center workstations compared to 887 inbound and outbound call
+center workstations at December 31, 2001.
+
+        COST OF SERVICES. Cost of services increased 3% to $17,816,607 in 2002
+from $17,342,050 in 2001. Telemarketing sales representatives (TSR's) labor and
+benefit costs increased by 5% to $14,349,573, or 47% of total revenue in 2002 as
+compared to $13,727,502, or 42% of total revenue in 2001. As a percentage of
+revenue, long distance telephone costs increased from 10% in 2001 to 11% in
+2002. Without the effect of the economic development grant reimbursements earned
+(see Note 6 of Notes to Consolidated Financial Statements), cost of services
+would have increased another $335,647 in 2002, to $18,152,254 compared to an
+additional increase of $1,783,765 to $19,125,815 in 2001. Economic development
+grant reimbursements earned are from the governments of Quebec and Canada for
+new jobs created at the Company's Sherbrooke, Vaudreuil and Caplan contact
+centers.
+
+                                       10
+<PAGE>
+
+        SELLING, GENERAL, AND ADMINISTRATIVE EXPENSES. Selling, general, and
+administrative expenses for 2002 decreased by $792,316, or 5% to $14,291,900,
+compared to $15,084,216 in 2001. As a percentage of revenue, selling, general,
+and administrative expenses increased 1% to 47% in 2002 as compared to 46% in
+2001. The increase in expenses in 2002, as a percentage of revenue, can
+primarily be attributed to expenses associated with the June 2002 opening of our
+new customer contact center in Caplan, Quebec; increased travel costs of
+corporate personnel associated with the opening of our new customer contact
+center; and upgraded technology installed during 2002 and 2001. During 2002,
+there was no effect on selling, general and administrative expenses from
+economic development grant reimbursements earned. During 2001, without the
+effect of the economic development grant reimbursements earned (see Note 6 of
+Notes to Consolidated Financial Statements), selling, general and administrative
+expenses would have been $15,338,959. For 2001, selling, general and
+administrative expenses were reduced by $254,743 for economic development grant
+reimbursements earned.
+
+        IMPAIRMENT COST. During the fourth quarter of 2002, we recorded a
+non-cash impairment charge of $532,743 for the write-down of long-lived assets
+related to the reduction of excess production capacity in our call centers.
+During the third quarter of 2002, the Company also recorded a non-cash
+impairment of asset charge of $49,975 related to the closing of two small call
+centers. During the fourth quarter of 2001, the Company recorded a non-cash
+impairment of asset charge of $78,202 related to the write-down of long-lived
+assets of call centers sold during the first quarter of 2002.
+
+        OPERATING INCOME (LOSS). As a result of the factors discussed above, the
+Company recorded an operating loss in 2002 of $2,370,437 compared to 2001
+operating income of $389,448. Operating losses for 2002 and 2001 would have been
+$2,706,084 and $1,649,060, respectively, when the effect of the economic
+development grant reimbursements earned is not considered.
+
+        OTHER INCOME AND EXPENSES, NET. Other expenses were $248,905 in 2002
+compared to $320,968 in 2001. Net interest expense of $210,098 in 2002,
+decreased by $41,727 compared to net interest expense of $251,825 in 2001. This
+decrease was the result of a decrease in borrowing activity under the Company's
+line of credit and a reduction in equipment lease financing as a result of
+leases becoming fully paid. Other expenses also decreased as a result of a
+decrease in foreign currency translation expense when compared to 2001.
+
+        INCOME TAX EXPENSE. The Company recorded income tax expense of $205,000
+in 2002 compared to $27,000 in 2001. The 2002 provision is net of a $1,900,000
+valuation allowance charge and a $568,000 benefit resulting from a change in
+Canadian tax strategy. The 2002 expense was recorded at 7.8%, which is estimated
+to be the effective rate for federal and state taxes verses 39.4% used in 2001.
+
+        NET INCOME (LOSS). Net loss for 2002 was $2,824,342, or $0.49 per share
+on a basic and diluted basis compared to net income of $41,480 or $0.01 per
+share in 2001. When the effect of the economic development grants is not
+considered, the net loss for 2002 would have been $3,184,989, or $0.55 per share
+on a basic and diluted basis as compared to net loss for 2001 of $1,193,294, or
+$0.21 per share on a basic and diluted basis.
+
+YEAR ENDED DECEMBER 31, 2001 COMPARED TO YEAR ENDED DECEMBER 31, 2000
+
+        REVENUES. Revenues for the year ended December 31, 2001 were
+$32,893,916, an increase of $1,398,577 or 4% when compared to 2000 revenues of
+$31,495,339. The increases in revenues and billable hours can primarily be
+attributed to increased internal capacity that was the result of opening a
+
+                                       11
+<PAGE>
+
+new contact center in January 2001. Because of the increased capacity, revenues
+derived from outsourcing in 2001 decreased to less than 1% compared to 13% in
+2000.
+
+        Financial services clients provided 63% and 51% of total 2001 and 2000
+revenues, respectively. Other industry segments for 2001 included
+telecommunications (27%) and publishing (6%). During 2001, the Company's largest
+client represented 16% of total revenue. During 2000, the Company's largest
+client represented 21% of total revenue.
+
+        In 2001, billable telemarketing hours increased 9% when compared to
+2000; however, net revenue per billable telemarketing hour decreased by 4%.
+During 2001, the Company opened one contact center in Vaudreuil, Quebec, Canada.
+As of December 31, 2001, the Company operated a combined total of 887 inbound
+and outbound contact center workstations compared to 775 inbound and outbound
+call center workstations at December 31, 2000.
+
+        COST OF SERVICES. Cost of services decreased 2% to $17,342,050 in 2001
+from $17,657,512 in 2000. The decrease in costs of services is primarily the
+result of the 99% decrease in outsourcing costs. The reduced utilization of
+outsourcing was due to the Company's increased internal capacity that was the
+result of opening a new contact center in January 2001. Outsourcing costs are
+costs associated with the utilization of other telemarketing companies for
+telemarketing some of the Company's clients' programs. Outsourcing costs
+decreased to less than 1%, as a percentage, of total revenue in 2001 compared to
+11% of total 2000 revenue. Increases in TSR's labor and benefit costs and long
+distance telephone costs partially offset the decrease in outsourcing costs.
+TSR's labor and benefit costs increased by 22% to $13,727,502, or 42% of total
+revenue in 2001 as compared to $11,247,055, or 36% of total revenue in 2000. As
+a percentage of revenue, long distance telephone costs increased from 8% in 2000
+to 10% in 2001. Without the effect of the economic development incentives of
+$1,783,765 and $1,151,728 in 2001 and 2000, respectively, (see Note 6 of Notes
+to Consolidated Financial Statements), cost of services would have increased
+$316,575 or 2% to $19,125,815 from $18,809,240 in 2000. For the year 2001, cost
+of services was reduced by $1,783,765 for the economic development grants from
+the governments of Quebec and Canada for new jobs created at the Company's
+Sherbrooke and Vaudreuil contact centers. For the year 2000, cost of services
+was reduced by $1,151,728 for the economic development grant from the government
+of Quebec, Canada for new jobs created at the Company's Sherbrooke, Quebec
+contact center.
+
+        SELLING, GENERAL, AND ADMINISTRATIVE EXPENSES. Selling, general, and
+administrative expenses for 2001 increased by $3,539,641, or 31% to $15,084,216,
+compared to $11,544,575 in 2000. As a percentage of revenue, selling, general,
+and administrative expenses increased 9% to 46% in 2001 as compared to 37% in
+2000. The increase in expenses in 2001 can primarily be attributed to expenses
+associated with the contact centers that were opened in April 2000 and January
+2001; an increase in costs of corporate personnel hired to handle increased
+capacity and expansion of future product lines; and an increase in depreciation
+expense associated with the contact centers opened in April 2000 and January
+2001, relocation of the Merrillville, IN contact center to Schererville, IN, and
+upgraded technology installed during 2001 and 2000. During 2001, without the
+effect of the economic development grants (see Note 6 of Notes to Consolidated
+Financial Statements), selling, general and administrative expenses would have
+been $15,338,959, an increase of $3,567,548, or 30%, as compared to 2000. For
+2001 and 2000, selling, general and administrative expenses were reduced by
+$254,743 and $226,836, respectively, for the net economic development grants.
+
+        IMPAIRMENT COST. During the fourth quarter of 2001, the Company recorded
+a non-cash impairment of asset charge of $78,202 related to the write-down of
+long-lived assets during the first quarter of 2002. During the third quarter of
+2000, the Company recorded an impairment of asset charge of
+
+                                       12
+<PAGE>
+
+$846,745 related to goodwill recorded from its August 1997 acquisition. See
+discussion in Note 1 of Notes to Consolidated Financial Statements.
+
+        OPERATING INCOME (LOSS). As a result of the factors discussed above, the
+Company recorded operating income of $389,448 compared to 2000 operating income
+of $1,446,507. Operating loss for 2001 would have been $1,649,060 and operating
+income for 2000 would have been $67,943 when the effect of the economic
+development grant is not considered.
+
+        OTHER INCOME AND EXPENSES, NET. Other expenses were $320,968 in 2001
+compared to $188,226 in 2000. Net interest expense of $251,825 in 2001 compared
+to net interest expense of $178,138 in 2000 was the result of an increase in
+borrowing activity under the Company's line of credit and an increase in
+equipment lease financing. Other expenses increased due to an increase in
+foreign currency translation expense as a result of the opening of two contact
+centers in Canada; one in April 2000 and the other in January 2001.
+
+        INCOME TAX EXPENSE. The Company recorded income tax expense of $27,000
+in 2001 compared to $497,000 in 2000. The 2001 expense was recorded at 39.4%,
+which is estimated to be the effective rate for federal and state taxes verses
+39.5% used in 2000.
+
+        NET INCOME (LOSS). Net income for 2001 was $41,480, or $0.01 per share
+on a basic and diluted basis compared to net income of $761,281 or $0.13 per
+share in 2000. When the effect of the economic development grants is not
+considered, net loss for 2001 would have been $1,193,294, or $0.21 per share on
+a basic and diluted basis as compared to net loss for 2000 of $72,773 or $0.01
+per share on a basic and diluted basis.
+
+        LIQUIDITY AND CAPITAL RESOURCES
+
+        At December 31, 2002, the Company had cash and cash equivalents of
+$797,626 compared to $1,459,215 and $100,607 at December 31, 2001 and 2000,
+respectively. Cash used by operating activities in 2002 was $1,758,740, compared
+to cash provided by operating activities of $6,729,210, and $1,725,318,
+respectively, in 2001 and 2000. Cash used by operating activities in 2002 was
+from the net loss of $2,824,342, and net changes in working capital components
+of $1,221,190 (primarily an increase in trade receivables). Cash provided by
+depreciation of $2,083,635, and other non-cash charges of $203,157 partially
+offset the cash used by operating activities in 2002. Cash provided by operating
+activities in 2001 was primarily from $4,384,453 of changes in working capital
+components related to the cash received from trade and grant receivable,
+depreciation of $2,106,281, net income of $41,480 and other non-cash charges of
+$196,996. Cash provided by operating activities in 2000 was primarily from net
+income of $761,281, plus depreciation of $1,320,660 and other noncash charges of
+$1,081,976. Cash used by operating activities in 2000 was $1,438,599 of changes
+in working capital components related to the growth of the Company.
+
+        Net cash provided by investing activities in 2002 was $19,915, compared
+to cash used by investing activities of $2,449,594 and $3,102,514 in 2001, and
+2000, respectively. During 2002, cash provided by investing activities was
+primarily from government reimbursements against property and equipment of
+$388,645, which was partially offset by purchases of property and equipment of
+$355,158 primarily related to the new Caplan contact center opened in June 2002.
+The primary use of
+
+                                       13
+<PAGE>
+
+cash by investing activities in 2001 was expenditures for property and equipment
+of $3,056,539 related to the new Vaudreuil contact center opened in January 2001
+and upgrades on equipment and technology, which was partially offset by a
+decrease of $606,945 in deposits on equipment and technology. The primary use of
+cash by investing activities in 2000 was expenditures for property and equipment
+of $2,412,643 related to the opening of the Sherbrooke call center in April 2000
+and deposits of approximately $544,000 on equipment for the setup of the new
+Vaudreuil call center in January 2001 and the expansion of current call centers.
+
+        Net cash provided by financing activities in 2002 was $1,077,237
+compared to net cash used in 2001 of $2,921,009 and net cash provided by
+financing activities in 2000 of $1,278,508. Net cash provided by financing
+activities in 2002 consisted of net borrowings from the revolving line of credit
+totaling $1,807,571. The primary use of cash by financing activities in 2002 was
+repayments on capital leases of $730,334. During 2001, the primary use of cash
+by financing activities was net repayments of $2,501,617 on the revolving line
+of credit plus capital lease repayments of $628,660. These uses of cash were
+offset by proceeds of $202,634 from equipment acquired through capital leases
+and proceeds of $6,634 from the issuance of common stock in the Employee Stock
+Purchase Plan. Net cash provided by financing activities in 2000 consisted of
+net borrowings from the revolving line of credit totaling $1,651,617 plus
+proceeds of $14,824 from the issuance of common stock in the Employee Stock
+Purchase Plan and exercise of stock options. The primary use of cash by
+financing activities in 2000 was the repayments of long-term debt and capital
+leases of $387,933. As a result, net cash and cash equivalents decreased
+$661,588 in 2002, increased $1,358,607 in 2001 and decreased by $98,688 in 2000.
+
+        We have historically used cash from operating activities including
+public sector economic development grants, bank borrowings, capital leases, and
+private sector financing as our primary sources of liquidity. Over the last
+year, we have not generated sufficient cash from operating activities to meet
+our liquidity requirements. In 2002, the Company financed its activities with
+borrowings against its line of credit, grant monies received from the provincial
+government of Quebec, Canada and the federal government of Canada, and the
+financing of $414,784 of asset purchases through capital leases. As of December
+31, 2002, we operated under a $2,700,000 Revolving Credit and Forbearance Loan
+Agreement dated December 2002, that expires on April 30, 2003. The loan accrues
+interest at the prime rate plus 3% on outstanding borrowings (prime rate was
+4.25% and 4.75% at December 31, 2002 and 2001, respectively). Borrowings are
+collateralized by certain trade receivables. In addition, the loan agreement
+contains provisions requiring compliance with certain financial covenants based
+upon total debt levels, tangible net worth, debt service, capital expenditures,
+and working capital, including prohibiting the payment of cash dividends without
+the bank's consent. In addition, the loan agreement limits the 2002 net loss.
+The agreement further stipulates that during 2003, we will not have a net loss
+of more than $400,000 as of January 31, 2003, and a cumulative net loss of more
+than $600,000 as of the end of each month thereafter. At December 31, 2002, we
+had outstanding borrowings of $1,807,571 under the Revolving Credit and
+Forbearance Loan Agreement with an available credit line of $892,429. At
+December 31, 2001, we had no outstanding borrowings under our Revolving Credit
+Loan Agreement with an available credit line of $4,000,000.
+
+        On April 29, 2003, we signed a Financing Agreement with a new lender
+that provides a credit line of up to $3,500,000. The agreement expires on
+January 29, 2004. Borrowings are limited to 80% of qualifying trade receivables.
+Certain trade receivable, contract rights and other rights to payments,
+equipment and general intangibles collateralize the note. The loan accrues
+interest at the prime rate plus 3.5%. The agreement also requires a minimum
+interest charge payable to the lender of $3,500 per month and also includes a 1%
+origination fee.
+
+                                       14
+<PAGE>
+
+        We believe that funds generated from future operations, amounts
+available under our Financing Agreement, and amounts receivable from economic
+development grants for new jobs created will be sufficient to finance our
+current and future business operations, including working capital requirements.
+
+OUTLOOK
+
+        Certain of the statements contained in this section are "forward-looking
+statements." The Private Securities Litigation Reform Act of 1995 provides a
+"safe harbor" for certain forward-looking statements. This report on Form 10-K
+and other documents we file with the SEC contain forward-looking statements that
+reflect our current views with respect to future events and financial
+performance. These forward-looking statements are subject to certain risks and
+uncertainties, which could cause future results to differ materially from those
+expressed or implied by such statements. Readers are cautioned not to place
+undue reliance on these forward-looking statements. Except as required under the
+Federal securities laws and rules and regulation of the SEC, we undertake no
+obligation to publicly update or revise any forward-looking statements in
+connection with new information or future events.
+
+         We believe that telemarketing will remain an integral part of our
+client's marketing budgets and that revenues will remain relatively stable in
+2003. However, there is no assurance that businesses will continue to outsource
+their telemarketing needs or that our marketing efforts will generate new
+business. As is common in the telemarketing industry, our customer contracts do
+not designate us as the client's exclusive service provider, do not assure us of
+a specific level of revenue, and are terminable by the client on relatively
+short notice and sometimes without penalty.
+
+        During the past year, we have not generated sufficient cash flows from
+operations to support our liquidity requirements. In 2002, we experienced a
+decrease in revenues that was primarily due to our financial services clients
+scaling back their marketing campaigns because of the general instability of the
+economy. We also incurred a net loss of $2,824,342 in 2002 compared to net
+income of $41,480 in 2001 after the effect of $335,647 and $2,038,508 in expense
+reductions for economic development incentives earned in years 2002 and 2001,
+respectively. Because of these factors, we have had to utilize our credit line
+to meet our cash needs. At December 31, 2002, the remaining receivable under the
+incentive agreements was $380,562. The various governmental agencies granting
+the incentive payments reserve the right to require repayment of all or a
+portion of the incentive payments, if we do not meet certain performance
+criteria as defined in the incentive agreements, such as creating a certain, or
+minimum, number of new jobs, maintaining certain levels of employment over a
+period of time, or paying minimum average salaries. As of December 31, 2002, we
+had created a total of 1,115 jobs that are subject to certain performance
+criteria, for which we had filed financial reimbursement claims. As of December
+31, 2002, the actual number of jobs existing was 885. We do not believe that any
+economic development incentives received will be refundable. This belief depends
+on our ability to meet designated job creation and other requirements, which in
+turn depends on general business, economic and competitive conditions. Should we
+be required to repay all, or any portion, of the economic incentives received it
+could have a material adverse effect on our cash position.
+
+        In addition to the risks and uncertainties of ordinary business
+operations, the forward-looking statements in this report on Form 10-K are also
+subject to the following risks and uncertainties:
+
+CLIENT CONCENTRATION; CONTRACT TERMS
+
+        Substantial portions of our revenues are generated from a few key
+clients. As noted in Part I, Item 1 "Business-Principal Customers," three
+clients accounted for 41% of our 2002 revenues. In 2001, five clients accounted
+for 66% of total revenue. As is common in the telemarketing industry, our
+customer
+
+                                       15
+<PAGE>
+
+contracts do not designate us as the client's exclusive service provider, do not
+assure us of a specific level of revenue, and are terminable by the client on
+relatively short notice and sometimes without penalty. In addition, the amount
+of revenue we generate from a particular client is dependent upon the interest
+of their customer in, and use of, the client's product or service. There can be
+no assurance that we will be able to retain any of our larger clients or that
+these clients will not reduce their call volumes due to a downturn in their
+industries. A reduction in call volumes, or the loss of one or more significant
+clients, could have a material adverse effect on our business, results of
+operations and financial condition.
+
+GOVERNMENT REGULATION
+
+        We are subject to an increasing amount of Governmental regulation in
+both the United States and Canada. For example, several states impose license or
+bond requirements upon telemarketers. There are also several states that publish
+and maintain a state run "Do Not Call List." In addition, several of the
+industries served by the Company are subject to varying degrees of governmental
+regulation, particularly the financial services industry. We believe that our
+telemarketing procedures comply with all current US and Canadian rules. Future
+laws and regulations may require us to modify our operations in order to
+effectively meet our clients' service requirements, and there can be no
+assurance that additional regulations would not limit our activities or
+significantly increase the cost of regulatory compliance. See Part I, Item I for
+further discussion of Government Regulations.
+
+COMPETITION; INTERNATIONAL CAPACITY
+
+         As noted in Part I, Item 1 "Business-Competition," the telemarketing
+industry is highly competitive, but also continues to be highly fragmented. A
+number of our competitors have capabilities and resources equal to or greater
+than ours, and there can be no assurance that additional competitors with
+greater resources will not enter the industry. These include telemarketing firms
+of various sizes, in house telemarketing organizations, and other forms of
+marketing such as direct mail, television and radio.
+
+         We also face competition from offshore locations that provide service
+to our markets at reduced costs. The potential movement of business to offshore
+locations, at reduced prices, may result in pressure on us to match rates,
+thereby eroding gross profit margins, or resulting in the loss of business to
+these competitors.
+
+DEPENDENCE ON LABOR FORCE AND TELECOMMUNICATIONS SERVICES
+
+         Our most significant operating cost is our labor force. Due to the
+traditionally high turnover rates in the telemarketing industry, we are
+constantly required to recruit and train new employees. There can be no
+assurance that we will be able to recruit, train and retain a sufficient number
+of qualified employees within our present wage structure. An increase in hourly
+wages, incentives or unemployment taxes could have a material adverse effect on
+our financial condition.
+
+         Our second largest operating cost is telecommunications. Our business
+is dependent on telephone services provided by various local and long distance
+companies. To reduce our exposure to rate fluctuations, we enter into contracts
+with our telecommunications service providers. All contracts are subject to
+renewal negotiations, which may result in increased rates. Any change to the
+telecommunications market that would disrupt services or limit our ability to
+obtain services at favorable rates could have an adverse impact on the Company.
+
+                                       16
+<PAGE>
+
+NEW ACCOUNTING PRONOUNCEMENTS
+
+        In June 2001, the Financial Accounting Standards Board (FASB) issued
+Statement of Financial Accounting Standards (SFAS) No. 142 (SFAS 142), GOODWILL
+AND OTHER INTANGIBLE ASSETS. This statement requires that goodwill and
+intangible assets deemed to have an indefinite life not be amortized. Instead of
+amortizing goodwill and intangible assets deemed to have an indefinite life, the
+statement requires a test for impairment to be performed annually, or
+immediately if conditions indicate that such an impairment could exist. We
+adopted the provisions of SFAS 142 on January 1, 2002, which did not have a
+material effect on our consolidated results of operations, financial position,
+and cash flow.
+
+        In June 2001, the FASB issued SFAS No. 143 (SFAS 143), ACCOUNTING FOR
+ASSET RETIREMENT OBLIGATIONS. SFAS 143 was effective for the Company on January
+1, 2003. SFAS 143 requires entities to record the fair value of a liability for
+an asset retirement obligation in the period in which it is incurred. We do not
+expect SFAS 143 to have a material effect on the Company's financial position or
+results of operations.
+
+        In August 2001, the FASB issued SFAS No. 144 (SFAS 144), ACCOUNTING FOR
+THE IMPAIRMENT OR DISPOSAL OF LONG-LIVED ASSETS, which addresses financial
+accounting and reporting for the impairment or disposal of long-lived assets.
+While SFAS 144 supersedes SFAS No. 121, ACCOUNTING FOR THE IMPAIRMENT OF
+LONG-LIVED ASSETS AND FOR LONG-LIVED ASSETS TO BE DISPOSED OF, it retains many
+of the fundamental provisions of that statement. SFAS 144 was effective for the
+Company on January 1, 2002. During 2002, the Company recognized a non-cash
+impairment charge of $49,975 related to the closing of two small call centers
+and an additional non-cash impairment charge of $532,743 related to certain
+long-lived assets whose carrying value was in excess of expected future cash
+flows from the use of those assets.
+
+        In June 2002, the FASB issued SFAS No. 146 (SFAS 146), ACCOUNTING FOR
+COSTS ASSOCIATED WITH EXIT OR DISPOSAL ACTIVITIES, which addresses financial
+accounting and reporting for costs associated with exit or disposal activities.
+SFAS 146 requires costs associated with the following restructuring activities
+to be recognized and measured at fair value (except for one-time termination
+benefits) and recorded when such changes occur: one-time termination benefits,
+costs to terminate contracts other than capital leases, and costs to consolidate
+facilities and/or relocate employees. SFAS 146 is effective for exit or disposal
+activities initiated after December 31, 2002, with early application encouraged.
+
+INFLATION
+
+        Inflation has not had a material impact on operating results, and the
+Company does not expect it to have a significant impact in the future. However,
+there can be no assurance that the Company's business will not be affected by
+inflation in the future.
+
+QUARTERLY RESULTS
+
+        The telemarketing industry tends to be slower in the first and third
+quarters of the year because client marketing and customer service programs are
+typically slower in the post holiday and summer months. The Company has
+experienced and expects to continue to experience quarterly variations in
+revenues and operating income principally as a result of the timing of clients'
+telemarketing campaigns,
+
+                                       17
+<PAGE>
+
+the commencement of new contracts, changes in the Company's revenue mix, and the
+additional selling, general, and administrative expenses to acquire and support
+such new business.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+        INTEREST RATE RISK - We have exposure to changing interest rates and are
+not currently engaged in hedging activities to mitigate this risk. Interest on
+the variable rate debt outstanding on our Revolving Credit and Forbearance Loan
+Agreement bears interest at the bank's prime rate plus 3%. As the prime rate
+increases or decreases our interest expense, on an annual basis, will also
+increase or decrease accordingly. As of December 31, 2002, our indebtedness
+under the Revolving Credit and Forbearance Loan Agreement was $1,807,571. Our
+capital lease obligations represent fixed rate indebtedness with interest rates
+ranging from 8.05% to 11.31%. We had $1,128,398 in capital lease obligations at
+December 31, 2002.
+
+        FOREIGN CURRENCY EXCHANGE RATE RISK - Transactions with international
+customers are entered into in U.S. dollars, precluding the need for foreign
+currency hedges. As a result, the exposure to market risk is not material.
+
+        DERIVATIVE INSTRUMENTS - We have no history of, and do not anticipate
+that in the future, investing in derivative financial instruments, derivative
+commodity instruments or other such financial instruments.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+        Financial statements and supplementary financial information specified
+by this Item, together with the report of our independent public accountants
+thereon, are included in this Annual Report on Form 10-K. The following
+financial statements of the Company are included herein:
+
+        Independent Auditor's Report
+        Consolidated Balance Sheets - December 31, 2002 and 2001
+        Consolidated Statements of Operations - December 31, 2002, 2001, and
+          2000
+        Consolidated Statements of Shareholders' Equity - December 31, 2002,
+          2001, and 2000
+        Consolidated Statements of Cash Flows - December 31, 2002, 2001, and
+          2000
+        Notes to Consolidated Financial Statements - December 31, 2002, 2001,
+          and 2000
+
+
+
+
+                                       18
+<PAGE>
+
+
+
+
+
+
+
+                          INDEPENDENT AUDITOR'S REPORT
+
+
+
+Board of Directors and Shareholders
+ACI Telecentrics, Inc.
+Minneapolis, Minnesota
+
+
+We have audited the accompanying consolidated balance sheet of ACI Telecentrics,
+Inc. and subsidiary (the Company) as of December 31, 2002, and the related
+consolidated statements of operations, shareholders' equity, and cash flows for
+the year then ended. These consolidated financial statements are the
+responsibility of the Company's management. Our responsibility is to express an
+opinion on these consolidated financial statements based on our audit.
+
+We conducted our audit in accordance with auditing standards generally accepted
+in the United States of America. Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether the consolidated
+financial statements are free of material misstatement. An audit includes
+examining, on a test basis, evidence supporting the amounts and disclosures in
+the consolidated financial statements. An audit also includes assessing the
+accounting principles used and significant estimates made by management, as well
+as evaluating the overall financial statement presentation. We believe that our
+audit provides a reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above present
+fairly, in all material respects, the financial position of the Company as of
+December 31, 2002, the results of their operations and their cash flows for the
+year then ended in conformity with accounting principles generally accepted in
+the United States of America.
+
+
+                                        /s/ Lurie Besikof Lapidus & Company, LLP
+
+
+Minneapolis, Minnesota
+February 28, 2003, except for Note 13,
+  as to which the date is April 29, 2003
+
+
+
+                                       19
+<PAGE>
+
+
+
+
+
+INDEPENDENT AUDITORS' REPORT
+
+
+
+Board of Directors and Shareholders of ACI Telecentrics, Inc.
+
+
+We have audited the accompanying consolidated balance sheets of ACI
+Telecentrics, Inc. and subsidiary (the Company) as of December 31, 2001, and the
+related consolidated statements of operations, shareholders' equity and cash
+flow for the years ended December 31, 2001 and 2000. These consolidated
+financial statements are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these consolidated financial
+statements based on our audits.
+
+We conducted our audits in accordance with auditing standards generally accepted
+in the United States of America. Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether the consolidated
+financial statements are free of material misstatement. An audit includes
+examining, on a test basis, evidence supporting the amounts and disclosures in
+the consolidated financial statements. An audit also includes assessing the
+accounting principles used and significant estimates made by management, as well
+as evaluating the overall financial statement presentation. We believe that our
+audits provide a reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above present
+fairly, in all material respects, the financial position of the Company as of
+December 31, 2001, and the results of its operations and its cash flows for each
+of the years ended December 31, 2001 and 2000, in conformity with accounting
+principles generally accepted in the United States of America.
+
+
+/s/ Deloitte & Touche LLP
+
+
+Minneapolis, Minnesota
+March 27, 2002
+
+
+
+                                       20
+<PAGE>
+
+ACI TELECENTRICS, INC. AND SUBSIDIARY
+
+CONSOLIDATED BALANCE SHEETS
+DECEMBER 31, 2002 AND 2001
+--------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+                                                                              2002             2001
+                                                                          ------------     ------------
+<S>                                                                       <C>              <C>
+ASSETS
+
+CURRENT ASSETS
+   Cash and cash equivalents                                              $    797,626     $  1,459,214
+   Trade receivables, less allowance for doubtful accounts of $206,000
+     and $199,000, respectively                                              6,299,990        3,691,111
+   Grant receivables                                                           380,562          677,341
+   Prepaid expenses and other current assets                                   232,714          142,230
+   Deferred income taxes                                                            --          911,000
+                                                                          ------------     ------------
+           Total current assets                                              7,710,892        6,880,896
+
+PROPERTY AND EQUIPMENT, NET OF ACCUMULATED DEPRECIATION                      3,763,545        6,094,392
+
+OTHER ASSETS                                                                   371,282          140,360
+                                                                          ------------     ------------
+                                                                          $ 11,845,719     $ 13,115,648
+                                                                          ============     ============
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+
+CURRENT LIABILITIES
+   Revolving line of credit                                               $  1,807,571     $         --
+   Trade accounts payable                                                    1,386,755        1,481,408
+   Accrued compensation                                                      1,056,717          746,630
+   Accrued expenses                                                            299,452          281,266
+   Income taxes payable                                                        527,376           92,282
+   Current maturities capital lease obligations                                585,223          669,731
+   Current maturities of deferred grant expense reimbursements               1,543,208        1,070,530
+                                                                          ------------     ------------
+           Total current liabilities                                         7,206,302        4,341,847
+                                                                          ------------     ------------
+
+LONG-TERM LIABILITIES
+   Capital lease obligations, less current maturities                          543,175          774,217
+   Deferred grant expense reimbursements, less current maturities                   --           20,000
+   Deferred income taxes                                                            --        1,059,000
+                                                                          ------------     ------------
+           Total long-term liabilities                                         543,175        1,853,217
+                                                                          ------------     ------------
+
+COMMITMENTS AND CONTINGENCIES
+
+SHAREHOLDERS' EQUITY
+   Common stock, no par value; 15,000,000 shares authorized;
+     5,781,485 shares issued and outstanding                                 6,659,989        6,659,989
+   Retained earnings (accumulated deficit)                                  (2,563,747)         260,595
+                                                                          ------------     ------------
+           Total shareholders' equity                                        4,096,242        6,920,584
+                                                                          ------------     ------------
+                                                                          $ 11,845,719     $ 13,115,648
+                                                                          ============     ============
+</TABLE>
+
+See notes to consolidated financial statements.
+
+                                       21
+<PAGE>
+
+ACI TELECENTRICS, INC. AND SUBSIDIARY
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+YEARS ENDED DECEMBER 31, 2002, 2001, AND 2000
+--------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+                                                        2002             2001             2000
+                                                    ------------     ------------     ------------
+<S>                                                 <C>              <C>              <C>
+TELEMARKETING REVENUES
+   Outbound revenue                                 $ 26,597,970     $ 31,739,390     $ 31,369,848
+   Inbound revenue                                     3,722,818        1,154,526          125,491
+                                                    ------------     ------------     ------------
+            Total revenues                            30,320,788       32,893,916       31,495,339
+                                                    ------------     ------------     ------------
+
+OPERATING EXPENSES
+   Cost of services                                   17,816,607       17,342,050       17,657,512
+   Selling, general, and administrative expenses      14,291,900       15,084,216       11,544,575
+   Impairment costs                                      582,718           78,202          846,745
+                                                    ------------     ------------     ------------
+            Total costs                               32,691,225       32,504,468       30,048,832
+                                                    ------------     ------------     ------------
+
+OPERATING INCOME (LOSS)                               (2,370,437)         389,448        1,446,507
+                                                    ------------     ------------     ------------
+
+OTHER INCOME (EXPENSE)
+   Interest income                                         8,163           25,482           16,353
+   Interest expense                                     (218,261)        (277,307)        (194,491)
+   Other, net                                            (38,807)         (69,143)         (10,088)
+                                                    ------------     ------------     ------------
+            Total other expense                         (248,905)        (320,968)        (188,226)
+                                                    ------------     ------------     ------------
+
+INCOME (LOSS) BEFORE INCOME TAXES                     (2,619,342)          68,480        1,258,281
+
+INCOME TAX EXPENSE                                       205,000           27,000          497,000
+                                                    ------------     ------------     ------------
+
+NET INCOME (LOSS)                                   $ (2,824,342)    $     41,480     $    761,281
+                                                    ============     ============     ============
+
+BASIC AND DILUTED NET INCOME
+   (LOSS) PER SHARE                                 $       (.49)    $        .01     $        .13
+                                                    ============     ============     ============
+
+WEIGHTED AVERAGE COMMON SHARES
+     OUTSTANDING
+   Basic                                               5,781,485        5,781,468        5,770,910
+                                                    ============     ============     ============
+   Diluted                                             5,781,485        5,869,049        5,995,260
+                                                    ============     ============     ============
+</TABLE>
+
+See notes to consolidated financial statements.
+
+                                       22
+<PAGE>
+
+ACI TELECENTRICS, INC. AND SUBSIDIARY
+
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+--------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+                                                                            RETAINED
+                                                    COMMON STOCK            EARNINGS
+                                            --------------------------   (ACCUMULATED
+                                               SHARES         AMOUNT        DEFICIT)          TOTAL
+                                            -----------    -----------    -----------     -----------
+<S>                                           <C>          <C>            <C>             <C>
+BALANCES AT DECEMBER 31, 1999                 5,756,267    $ 6,638,531    $  (542,166)    $ 6,096,365
+
+   Proceeds from stock options exercised          1,000            500             --             500
+   Issuance of common stock under the
+     Employee Stock Purchase Plan                17,974         14,324             --          14,324
+   Net income                                        --             --        761,281         761,281
+                                            -----------    -----------    -----------     -----------
+
+BALANCES AT DECEMBER 31, 2000                 5,775,241      6,653,355        219,115       6,872,470
+
+   Issuance of common stock under the
+     Employee Stock Purchase Plan                 6,244          6,634             --           6,634
+   Net income                                        --             --         41,480          41,480
+                                            -----------    -----------    -----------     -----------
+
+BALANCES AT DECEMBER 31, 2001                 5,781,485      6,659,989        260,595       6,920,584
+
+   Net loss                                          --             --     (2,824,342)     (2,824,342)
+                                            -----------    -----------    -----------     -----------
+
+BALANCES AT DECEMBER 31, 2002                 5,781,485    $ 6,659,989    $(2,563,747)    $ 4,096,242
+                                            ===========    ===========    ===========     ===========
+</TABLE>
+
+See notes to consolidated financial statements.
+
+
+
+
+
+
+
+                                       23
+<PAGE>
+
+ACI TELECENTRICS, INC. AND SUBSIDIARY
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+YEARS ENDED DECEMBER 31, 2002, 2001, AND 2000
+--------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+                                                                              2002             2001             2000
+                                                                         ------------     ------------     ------------
+<S>                                                                      <C>              <C>              <C>
+OPERATING ACTIVITIES
+   Net income (loss)                                                     $ (2,824,342)    $     41,480     $    761,281
+   Adjustments to reconcile net income (loss) to net cash provided by
+       (used in) operating activities:
+     Depreciation                                                           2,083,635        2,106,281        1,320,660
+     Provision for losses on accounts receivable                               60,000           41,668          200,000
+     Amortization of deferred grant expense reimbursements                   (120,002)        (140,000)        (150,700)
+     Deferred income taxes                                                   (349,000)         178,000          186,000
+     Noncash impairment cost                                                  582,718           78,202          846,745
+     Loss (gain) on disposal of assets                                         29,441           39,126              (69)
+     Changes in operating assets and liabilities:
+       Trade receivables                                                   (2,668,879)       2,763,467       (1,282,895)
+       Grant receivables                                                      296,778          335,664       (1,013,005)
+       Prepaid expenses and other current assets                              (90,484)         541,807         (475,700)
+       Accounts payable, accrued compensation
+         and accrued expenses                                                 233,621         (180,067)       1,193,459
+       Income taxes                                                           435,094          (26,948)         139,542
+       Deferred grant expense reimbursements                                  572,680          950,530               --
+                                                                         ------------     ------------     ------------
+            Net cash provided by (used in) operating activities            (1,758,740)       6,729,210        1,725,318
+                                                                         ------------     ------------     ------------
+
+INVESTING ACTIVITIES
+   Purchases of property and equipment                                       (355,158)      (3,056,539)      (2,412,643)
+   Government reimbursements against property and equipment                   388,645               --               --
+   Proceeds from sale of assets                                                16,350               --               --
+   Decrease (increase) in deposits                                            (29,922)         606,945         (689,871)
+                                                                         ------------     ------------     ------------
+            Net cash provided by (used in) investing activities                19,915       (2,449,594)      (3,102,514)
+                                                                         ------------     ------------     ------------
+
+FINANCING ACTIVITIES
+   Net proceeds from issuance of common stock                                      --            6,634           14,824
+   Proceeds from revolving line of credit                                  18,033,631       13,106,221       19,015,556
+   Payments on revolving line of credit                                   (16,226,060)     (15,607,838)     (17,363,939)
+   Payments on capital leases                                                (730,334)        (628,660)        (387,933)
+   Proceeds from equipment acquired through capital leases                         --          202,634               --
+                                                                         ------------     ------------     ------------
+            Net cash provided by (used in) financing activities             1,077,237       (2,921,009)       1,278,508
+                                                                         ------------     ------------     ------------
+
+NET INCREASE (DECREASE) IN CASH AND
+    CASH EQUIVALENTS                                                         (661,588)       1,358,607          (98,688)
+
+CASH AND CASH EQUIVALENTS AT BEGINNING OF YEAR                              1,459,214          100,607          199,295
+                                                                         ------------     ------------     ------------
+
+CASH AND CASH EQUIVALENTS AT END OF YEAR                                 $    797,626     $  1,459,214     $    100,607
+                                                                         ============     ============     ============
+</TABLE>
+
+See notes to consolidated financial statements.
+
+                                       24
+<PAGE>
+
+ACI TELECENTRICS, INC. AND SUBSIDIARY
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+YEARS ENDED DECEMBER 31, 2002, 2001 AND 2000
+--------------------------------------------------------------------------------
+
+1.   DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+     ORGANIZATION AND NATURE OF BUSINESS - ACI Telecentrics, Incorporated (ACI)
+     provides telephone-based sales and marketing services primarily to the
+     telecommunications, publishing and financial services industries. ACI was
+     established in 1987 in Minneapolis, Minnesota. Since that time, the Company
+     has opened additional contact center locations in Twin Valley, Minnesota;
+     Valley City and Devils Lake, North Dakota; Redfield and Pierre, South
+     Dakota; Chadron, Valentine, and Ogallala, Nebraska; Redding, California;
+     Sherbrooke, Vaudreuil and Caplan, Quebec. The Company's contact center in
+     Schererville, Indiana was acquired as a result of an acquisition in 1997.
+     During 2002, ACI transferred certain assets and operations of the Valley
+     City, Pierre and Ogallala contact centers to new owners. In addition, ACI
+     closed contact centers in Redfield and Valentine because all five contact
+     centers were outside of ACI's long-term operational strategy. In 2000, ACI
+     established the wholly owned subsidiary Corporation ACI Telecentrics du
+     Quebec, Inc.
+
+     PRINCIPLES OF CONSOLIDATION - The consolidated financial statements include
+     the accounts of ACI and its wholly owned subsidiary after elimination of
+     intercompany transactions.
+
+     REVENUE RECOGNITION - Revenues from telemarketing services are recognized
+     as services are provided, primarily based on hours incurred. Performance
+     based revenues are recognized when sales are verified.
+
+     Outbound telemarketing services are performed when our customer sales
+     representatives place a telephone call, from a list supplied by our client
+     company, to a telephone number at a personal residence or business
+     location. Inbound telemarketing services are performed when our customer
+     sales representatives receive a call, on a toll-free telephone number, from
+     an individual or business that is seeking to obtain information or purchase
+     a product or service from our client company.
+
+     USE OF ESTIMATES - The preparation of financial statements in conformity
+     with accounting principles generally accepted in the United States of
+     America requires management to make estimates and assumptions that affect
+     the reported amounts of assets and liabilities and disclosure of contingent
+     assets and liabilities at the date of the financial statements and the
+     reported amounts of revenues and expenses during the reporting period.
+     Actual results could differ from those estimates. Significant management
+     estimates relate to grant agreements accounting and the valuation allowance
+     against net deferred income tax assets.
+
+     CASH AND CASH EQUIVALENTS - Short-term investments, generally with an
+     original maturity of three months or less from the date of purchase, are
+     classified as cash equivalents.
+
+     The Company maintains cash accounts that, at times, may exceed federally
+     insured limits. The Company has not experienced any losses from maintaining
+     cash accounts in excess of such limits. The Company does not believe that
+     it is exposes to any significant credit risks on its cash accounts.
+
+     TRADE RECEIVABLES AND CREDIT RISK - The Company generally does not require
+     collateral or other security from clients. The Company reports receivables
+     net of an allowance for doubtful accounts,
+
+                                       25
+<PAGE>
+
+     which represents the Company's estimate of the amount of receivables that
+     may not be collectible. The Company conducts periodic reviews of its
+     clients' financial condition and payment practices, and uses various
+     remedies where appropriate to minimize collection risks.
+
+     The Company is dependent on several large clients for a significant portion
+     of its revenue. The inability to collect amounts owed by one or more of
+     these clients could have a material adverse effect on the financial
+     position of the Company.
+
+     ECONOMIC DEVELOPMENT GRANTS - The Company receives incentive payments from
+     certain state, local and provincial governments in the United States and
+     Canada to help offset payroll and start-up costs associated with opening
+     new customer contact centers. These various governmental agencies reserve
+     the right to require repayment of all or a portion of the incentive
+     payments if the Company does not meet certain performance criteria as
+     defined in the incentive agreements, such as, creating a certain, or
+     minimum, number of new jobs, maintaining certain levels of employment over
+     a period of time or paying minimum average salaries.
+
+     Incentive payments are recorded as a reduction to payroll and start-up
+     expenses when performance criteria are satisfied. In the event that
+     performance criteria have been satisfied prior to receipt of the incentive
+     payment, payroll and start-up expenses are reduced and a receivable from
+     the governmental agency is recorded. If an incentive payment is received
+     prior to the satisfaction of all required performance criteria, the
+     incentive payment is deferred and recorded as a liability. If an incentive
+     payment is received for which an incremental portion of the performance
+     criteria is satisfied, then the incremental portion of the incentive
+     payment is recorded as a reduction to payroll and start-up costs, and the
+     incremental portion of the incentive payment not earned is deferred and
+     recorded as a liability.
+
+     PROPERTY AND EQUIPMENT - Property and equipment are carried at cost.
+     Depreciation is based on the straight-line method over estimated useful
+     lives of the assets, generally three to seven years for furniture and
+     equipment and from three to ten years for leasehold improvements.
+
+     GOODWILL - Goodwill represents the difference between the purchase price of
+     an acquired business and the fair value of its net assets when accounted
+     for by the purchase method. Goodwill was amortized on a straight-line basis
+     over 15 years. An impairment loss of $846,745 was recognized during 2000
+     related to goodwill recorded from a 1997 acquisition.
+
+     IMPAIRMENT OF LONG-LIVED ASSETS - The Company periodically reviews property
+     and equipment to determine potential impairment by comparing the carrying
+     values with estimated future cash flows expected to result from the use of
+     assets. Should the sum of the expected future cash flows be less than the
+     carrying value, the Company would recognize an impairment loss.
+
+     During 2002, the Company recorded a non-cash impairment charge of $532,743
+     for the write-down of long-lived assets related to the reduction of excess
+     production capacity in our call centers. In addition, the Company also
+     recorded in 2002, a non-cash impairment of asset charge of $49,975 related
+     to the closing of two small call centers.
+
+     In 2001, the Company transferred certain assets and the operations of three
+     of its smaller contact centers to new owners because the facilities were
+     outside of the Company's long-term operational strategy, and, as a result,
+     the Company recorded a non-cash impairment charge of $78,202 in 2001 based
+     on projected future cash flows on the assets to be transferred.
+
+                                       26
+<PAGE>
+
+     FAIR VALUE DISCLOSURES OF FINANCIAL INSTRUMENTS - The fair value of capital
+     lease obligations approximates carrying value due to interest rates that
+     approximate current market rates. The fair value of other financial
+     instruments approximates the carrying value due to their short-term nature.
+
+     INCOME TAXES - Deferred income tax assets and liabilities are recognized
+     for the future tax consequences attributable to differences between
+     financial statement carrying amounts of assets and liabilities and their
+     respective tax bases. Deferred tax assets and liabilities are measured
+     using enacted tax rates expected to apply to taxable income in the years in
+     which those temporary differences are expected to be recovered or settled.
+     Income tax expense is the tax payable for the year and the change in
+     deferred income tax assets and liabilities during the year.
+
+     SEGMENT INFORMATION - The Company manages its business as one operating
+     segment and does not separately track sources of costs and expenses related
+     to outbound and inbound revenue.
+
+     FOREIGN CURRENCY TRANSACTIONS - Transactions with Canadian vendors and
+     employees are recorded in U.S. dollars at the time of settlement.
+     Accordingly, the Company has no foreign currency translation adjustments.
+
+     NEW ACCOUNTING PRONOUNCEMENTS - In June 2001, the Financial Accounting
+     Standards Board (FASB) issued Statement of Financial Accounting Standards
+     (SFAS) No. 142 (SFAS 142), GOODWILL AND OTHER INTANGIBLE ASSETS. This
+     statement requires that goodwill and intangible assets deemed to have an
+     indefinite life not be amortized. Instead of amortizing goodwill and
+     intangible assets deemed to have an indefinite life, the statement requires
+     a test for impairment to be performed annually, or immediately if
+     conditions indicate that such an impairment could exist. SFAS 142 did not
+     have a material impact on the Company's financial position or results of
+     operations.
+
+     In June 2001, the FASB issued SFAS No. 143, ACCOUNTING FOR ASSET RETIREMENT
+     OBLIGATIONS. SFAS 143 is effective on January 1, 2003. SFAS 143 requires
+     entities to record the fair value of a liability for an asset retirement
+     obligation in the period in which it is incurred. The Company does not
+     expect SFAS 143 to have a material effect on the Company's financial
+     position or results of operations.
+
+     In August 2001, the FASB issued SFAS No. 144, ACCOUNTING FOR THE IMPAIRMENT
+     OR DISPOSAL OF LONG-LIVED ASSETS, which addresses financial accounting and
+     reporting for the impairment or disposal of long-lived assets. While SFAS
+     144 supersedes SFAS No. 121, ACCOUNTING FOR THE IMPAIRMENT OF LONG-LIVED
+     ASSETS AND FOR LONG-LIVED ASSETS TO BE DISPOSED OF, it retains many of the
+     fundamental provisions of that statement. SFAS 144 was effective on January
+     1, 2002 (see impairment of long-lived assets).
+
+     In June 2002, the FASB issued SFAS No. 146, ACCOUNTING FOR COSTS ASSOCIATED
+     WITH EXIT OR DISPOSAL ACTIVITIES, which addresses financial accounting and
+     reporting for costs associated with exit or disposal activities. SFAS 146
+     requires costs associated with the following restructuring activities to be
+     recognized and measured at fair value (except for one-time termination
+     benefits) and recorded when such changes occur: one-time termination
+     benefits, costs to terminate contracts other than capital leases, and costs
+     to consolidate facilities and/or relocate employees. SFAS 146 is effective
+     for exit or disposal activities initiated after December 31, 2002, with
+     early application encouraged.
+
+                                       27
+<PAGE>
+
+2.   PROPERTY AND EQUIPMENT
+
+     Property and equipment consists of the following at December 31:
+
+                                                         2002            2001
+                                                    ------------    ------------
+
+     Furniture                                      $  1,639,545    $  1,862,921
+     Equipment                                         8,166,396       8,988,406
+     Leasehold improvements                              292,809         415,340
+                                                    ------------    ------------
+                                                      10,098,750      11,266,667
+     Less accumulated depreciation                     6,335,205       5,172,275
+                                                    ------------    ------------
+     Net property and equipment                     $  3,763,545    $  6,094,392
+                                                    ============    ============
+
+     CAPITALIZED LEASES - At December 31, 2002 and 2001, the Company had
+     equipment under capitalized leases totaling $2,888,107 and $2,534,748,
+     respectively. Related accumulated depreciation of the equipment under
+     capitalized leases totaled $1,512,868 and $936,093 at December 31, 2002 and
+     2001, respectively.
+
+     CAPITALIZED SOFTWARE - The Company capitalizes certain costs related to
+     purchased and developed computer software for internal use. At December 31,
+     2002 and 2001, the Company had capitalized software of $623,807. Related
+     accumulated depreciation totaled $348,226 and $140,291, respectively.
+
+3.   CAPITAL LEASE OBLIGATIONS
+
+     Capitalized lease obligations consist of the following at December 31:
+
+                                                         2002            2001
+                                                     -----------     -----------
+
+     Capitalized leases                              $ 1,128,398     $ 1,443,948
+     Less current maturities                             585,223         669,731
+                                                     -----------     -----------
+                                                     $   543,175     $   774,217
+                                                     ===========     ===========
+
+     Maturities of capitalized lease obligations are as follows:
+
+     Year
+     ----
+
+     2003                                                            $   660,130
+     2004                                                                351,487
+     2005                                                                186,531
+     2006                                                                 48,566
+                                                                     -----------
+     Total                                                             1,246,714
+     Less amounts representing interest                                  118,316
+                                                                     -----------
+     Present value of net minimum lease payments                     $ 1,128,398
+                                                                     ===========
+
+                                       28
+<PAGE>
+
+     Capital lease obligations represent fixed rate indebtedness with interest
+     rates ranging from 8.05% to 11.31%.
+
+4.   REVOLVING CREDIT AND FORBEARANCE LOAN AGREEMENT
+
+     The Company has a $2,700,000 Revolving Credit and Forbearance Loan
+     Agreement dated December 2002, that expires on April 30, 2003. The loan
+     accrues interest at the prime rate plus 3% on outstanding borrowings (prime
+     rate was 4.25% and 4.75% at December 31, 2002 and 2001, respectively).
+     Borrowings are collateralized by certain trade receivables. In addition,
+     the loan agreement contains provisions requiring compliance with certain
+     financial covenants based upon total debt levels, tangible net worth, debt
+     service, capital expenditures, and working capital, including prohibiting
+     the payment of cash dividends without the bank's consent. In addition, the
+     loan agreement limits the 2002 net loss. The agreement further stipulates
+     that during 2003, the Company will maintain a net loss of not more than
+     $400,000 as of January 31, 2003, and a cumulative net loss of not more than
+     $600,000 as of the end of each month thereafter. The Company has not
+     obtained waivers for covenants for which it was not in compliance. At
+     December 31, 2002, the Company had outstanding borrowings of $1,807,571
+     under the Revolving Credit and Forbearance Loan Agreement with an available
+     credit line of $892,429. As a result, the Company is seeking an alternative
+     lender to replace the current credit facility, and provide additional
+     capital to meet current liquidity needs; however, there is no assurance
+     that the Company can reach an agreement.
+
+     Maximum borrowings on the credit facility were $2,540,899 and $3,494,375 in
+     2002, and 2001, respectively. Average borrowings and the weighted average
+     interest rate were $1,249,842 and $1,063,977, and 4.92% and 6.92% in 2002,
+     and 2001, respectively.
+
+     See Note 13 - SUBSEQUENT EVENTS.
+
+5.   OPERATING LEASES
+
+     The Company has various operating leases for our corporate office and eight
+     contact centers. Several of the operating leases contain renewal
+     provisions.
+
+     Future minimum lease payments under operating and capital leases that have
+     initial noncancelable lease terms in excess of one year, not including
+     shared operating costs, are as follows:
+
+     Year
+     ----
+     2003                                                            $ 1,095,655
+     2004                                                                902,646
+     2005                                                                771,973
+     2006                                                                766,132
+     2007                                                                472,277
+     Thereafter                                                          230,525
+                                                                     -----------
+                                                                     $ 4,239,208
+                                                                     ===========
+
+     Rent expense on all operating leases was approximately $1,214,000,
+     $1,339,000, and $832,000 for the years ended December 31, 2002, 2001, and
+     2000, respectively.
+
+                                       29
+<PAGE>
+
+6.   GRANT AGREEMENTS
+
+     One of the Company's strategies is to locate its call centers in smaller,
+     more rural communities because many of these communities offer higher
+     quality labor and reduced operating expenses, as well as, economic
+     incentives for locating facilities in their communities. The Company
+     receives incentive payments from certain state, local, and provincial
+     governments in the United States and Canada to help offset payroll and
+     start-up costs associated with opening new customer contact centers. These
+     various governmental agencies reserve the right to require repayment of all
+     or a portion of the incentive payments if the Company does not meet certain
+     performance criteria as defined in the incentive agreements, such as
+     creating a certain, or minimum, number of new jobs, maintaining certain
+     levels of employment over a period of time, or paying minimum average
+     salaries.
+
+     Incentive payments are recorded as a reduction to payroll and start-up
+     expenses when performance criteria are satisfied. In the event that
+     performance criteria have been satisfied prior to receipt of the incentive
+     payment, payroll and start-up expenses are reduced and a receivable from
+     the governmental agency is recorded. If an incentive payment is received
+     prior to the satisfaction of all required performance criteria, the
+     incentive payment is deferred and recorded as a liability. If an incentive
+     payment is received for which a portion of the performance criteria is
+     satisfied, then the payment is recorded as a reduction to payroll and
+     start-up costs for the year, and the portion of the payment not earned is
+     deferred and recorded as a liability.
+
+     To this extent, the Company undertakes a rigorous analysis of each
+     government grant, which it receives. Each grant has its own distinct terms
+     because of the different government jurisdictions involved. Each grant is
+     accounted for separately in accordance with the preceding criteria and its
+     grant terms so as to appropriately match all incentive payments with the
+     respective payroll and start-up expenses.
+
+     CAPLAN, QUEBEC CANADA
+     PROVINCIAL GOVERNMENT OF QUEBEC - During the second quarter of 2002, the
+     Company entered into a financial incentives agreement with the Government
+     of Quebec, Canada. Under the agreement the Company agreed to open a contact
+     center in Caplan, Quebec for certain financial incentives. To receive
+     financial incentives the Company must create a minimum of 50 jobs by April
+     30, 2004, but can create up to 500 jobs for which it will receive incentive
+     payments. These incentives are based on maintaining certain eligibility
+     requirements for each job created, including a minimum number of hours
+     worked per week and maintaining minimum average annual salaries. In
+     addition, for each job that the Company receives a financial contribution,
+     the agreement requires that the job be maintained for a minimum period of
+     two years from the date of its creation.
+
+     As of December 31, 2002, the Company created 180 jobs and received
+     reimbursement for 164 of those jobs created. At December 31, 2002, the
+     receivable under the agreement was $56,732. Should future employment levels
+     fall below the 180, the provincial government reserves the right to apply a
+     proportionate amount of the financial contribution already paid toward the
+     replacement of each new job once employment levels exceed 180. The
+     proportionate amount is defined as the number of months remaining in the
+     24-month job existence requirement at the time employment levels fell below
+     180, divided by 24 months. Due to this provision, the Company is reducing
+     payroll costs for each of the 180 jobs created evenly over 24 months from
+     the date that each job is created. During 2002, the Company reduced payroll
+     costs by a total of $102,669 for the portion of the financial incentives
+     earned. The Company recorded a deferred grant expense reimbursements
+     liability of $463,468 as of December 31, 2002, for the portion of the
+     financial incentives not earned.
+
+                                       30
+<PAGE>
+
+     EMPLOI QUEBEC - During the second quarter of 2002, the Company entered into
+     a financial incentive agreement, which under the terms of the agreement,
+     Emploi Quebec agreed to subsidize up to 50% of wages for the first 40 weeks
+     of employment for each new employee, training costs and human resources
+     management costs for two years. The financial incentive is linked to the
+     creation of up to 500 jobs at the Company's new customer contact center
+     located in Caplan, Quebec. During 2002, the Company recorded $184,676 as a
+     reduction to payroll costs. At December 31, 2002, the receivable under this
+     agreement was $54,636.
+
+     VAUDREUIL, QUEBEC CANADA
+     PROVINCIAL GOVERNMENT OF QUEBEC - During the first quarter of 2001, the
+     Company entered into a financial incentive agreement with the Government of
+     Quebec, Canada. Under the agreement the Company agreed to open a contact
+     center in Vaudreuil, Quebec, for certain financial incentives. To receive
+     financial incentives the Company must create a minimum of 50 jobs by
+     October 15, 2002, but can create up to 626 jobs for which it will receive
+     incentive payments. These incentives are based on maintaining certain
+     eligibility requirements for each job created, including a minimum number
+     of hours worked per week and maintaining minimum average annual salaries.
+     In addition, for each job that the Company receives a financial incentive,
+     the agreement requires that the job be maintained for a minimum period of
+     three years from the date of its creation.
+
+     As of December 31, 2002, the Company filed financial reimbursement claims
+     for 389 jobs created for which it has received reimbursement for 348 of
+     those jobs. At December 31, 2002, $186,891 in incentives is receivable
+     under the agreement. As of December 31, 2002, the actual number of jobs
+     existing at the contact center was 291. According to the terms of the
+     agreement, the provincial government reserves the right to apply financial
+     incentives already paid toward new jobs should employment levels fall below
+     the total number of jobs for which it has already reimbursed the Company.
+     As a result of current employment levels being lower than the number of
+     jobs for which the Company has received financial incentives, the Company
+     has a deferred grant expense reimbursements liability of $527,939 as of
+     December 31, 2002. Increases in future employment levels will allow the
+     Company to reduce additional payroll costs and reduce the deferred grant
+     expense reimbursements liability. During 2002, the Company did not record
+     any reduction in payroll costs under this agreement. This compares to a
+     reduction in payroll costs of $1,085,278 during 2001.
+
+     SHERBROOKE, QUEBEC CANADA
+     FEDERAL GOVERNMENT OF CANADA - During the first quarter of 2001, the
+     Company entered into a financial incentives agreement with the Federal
+     Government of Canada. Under the agreement, the Company agreed to create 437
+     fulltime equivalent jobs by March 31, 2002. During 2002, the Company
+     recorded $48,302 in reductions to payroll costs compared to $781,714 during
+     2001. Payment of all incentive amounts have been received.
+
+     PROVINCIAL GOVERNMENT OF QUEBEC TRAINING GRANT -During the first quarter of
+     2001, the Company entered into a financial incentive agreement, which under
+     the terms of the agreement, the Provincial Government of Quebec agreed to
+     subsidize up to 50% of certain training costs associated with the opening
+     of the Sherbrooke contact center. Reductions in startup expenses were $0
+     and $107,780 in 2002 and 2001, respectively.
+
+     PROVINCIAL GOVERNMENT OF QUEBEC - During the year ended 2000, the Company
+     entered into a financial incentives agreement with the Government of
+     Quebec, Canada. Under the agreement the Company agreed to open a contact
+     center in Sherbrooke, Quebec, for certain financial incentives.
+
+                                       31
+<PAGE>
+
+     To receive financial incentives the Company must create a minimum of 50
+     jobs by March 14, 2002, but can create up to 600 jobs for which it will
+     receive incentive payments. These incentives are based on maintaining
+     certain eligibility requirements for each job created, including a minimum
+     number of hours worked per week and maintaining minimum average annual
+     salaries. In addition, for each job that the Company receives a financial
+     incentive, the agreement requires that the job be maintained for a minimum
+     of two years from the date of its creation.
+
+     As of December 31, 2002, the Company filed financial reimbursement claims
+     for 546 jobs created for which it received reimbursement for 526 of those
+     jobs. At December 31, 2002, the receivable under the agreement was $82,303.
+     As of December 31, 2002, the actual number of jobs existing at the contact
+     center was 414. According to the terms of the agreement, the provincial
+     government reserves the right to apply financial incentives already paid
+     toward new jobs should employment levels fall below the total number of
+     jobs for which it has already reimbursed the Company. As a result of
+     current employment levels being lower than the number of jobs for which the
+     Company has received financial incentives, the Company has a deferred grant
+     expense reimbursements liability of $531,803 as of December 31, 2002.
+     Increases in future employment levels will allow the Company to reduce
+     additional payroll costs and reduce the deferred grant expense
+     reimbursements liability. During 2002, the Company did not record any
+     reduction in payroll costs under this agreement. This compares to a
+     reduction in payroll costs of $63,736 during 2001.
+
+7.   SIGNIFICANT CUSTOMERS AND CREDIT CONCENTRATIONS
+
+     Revenues and year-end accounts receivable from major customers were as
+     follows as of and for the years ended December 31:
+
+                        2002                  2001                  2000
+                --------------------  --------------------  --------------------
+                Revenues Receivables  Revenues Receivables  Revenues Receivables
+                -------- -----------  -------- -----------  -------- -----------
+     Customer A    17%        22%          0%         0%          0%         1%
+     Customer B    14          6          16         17          13          8
+     Customer C    10         18           5         13           1          2
+     Customer D     7         12          11          7          13         14
+     Customer E     6          4          11         11           4          6
+     Customer F     4          3          16         13          21         20
+     Customer G     1          0          12          0           3          7
+
+     Historically, the Company has not experienced write-offs related to these
+     major customers.
+
+8.   SHAREHOLDERS' EQUITY
+
+     EMPLOYEE STOCK PURCHASE PLAN - The Company adopted the 1996 Employee Stock
+     Purchase Plan (Stock Purchase Plan), which allows participants to purchase
+     common stock at 85% of the common stock's fair market value at the
+     commencement or termination of two six-month phases each year. Employees
+     must have six months of service to be eligible to participate in the Stock
+     Purchase Plan. The Board of Directors has reserved 100,000 shares of common
+     stock for issuance under the Stock Purchase Plan. The Company did not issue
+     any shares under the plan in 2002. The Company issued 6,244 and 17,974
+     shares under the plan in 2001 and 2000, respectively. In November 2000, the
+     Board of Directors authorized a change to the Plan allowing for the
+     purchase of shares on the open market. The Company purchased 45,761 and
+     20,343 shares on the open market for individual participants during 2002
+     and 2001, respectively. The cost to the Company was $16,251 and $16,857 in
+     2002 and 2001, respectively, which included the difference between the
+     employee
+
+                                       32
+<PAGE>
+
+     purchase price and the open market price of the shares plus broker fees
+     which were charged to operations.
+
+     STOCK OPTION PLAN - The Company has a Stock Option Plan (Stock Option
+     Plan), which reserved 1,000,000 shares of the Company's common stock in the
+     form of incentive stock options and nonqualified stock options for
+     employees and investors. The Stock Option Plan requires that the exercise
+     price of all options granted be the fair market value of the Company's
+     common stock on the date of grant. Vesting and exercise periods for
+     individual options vary by grant.
+
+     The following table summarizes stock option activity:
+
+                                                Shares Under    Weighted Average
+                                                   Option       Price per Share
+                                                ------------    ---------------
+
+     Balance at December 31, 1999                  292,500         $   1.34
+
+     Granted in 2000                               515,000             1.07
+     Exercised in 2000                              (1,000)             .50
+     Canceled in 2000                               (6,000)             .67
+                                                  --------         --------
+     Balance at December 31, 2000                  800,500             1.17
+
+     Granted in 2001                                22,000             1.50
+     Canceled in 2001                              (56,500)             .82
+                                                  --------         --------
+     Balance at December 31, 2001                  766,000             1.21
+
+     Granted in 2002                               118,000             0.38
+     Canceled in 2002                              (72,500)            1.05
+                                                  --------         --------
+     Balance at December 31, 2002                  811,500         $   1.10
+                                                  ========         ========
+
+     Shares exercisable at December 31, 2000       541,834         $   1.21
+                                                  ========         ========
+
+     Shares exercisable at December 31, 2001       737,667         $   1.22
+                                                  ========         ========
+
+     Shares exercisable at December 31, 2002       713,500         $   1.21
+                                                  ========         ========
+
+
+
+
+                                       33
+<PAGE>
+
+     The following table summarizes information about stock options outstanding
+     at December 31, 2002:
+
+<TABLE>
+<CAPTION>
+                            Outstanding                                      Exercisable
+     --------------------------------------------------------------   --------------------------
+                                        Weighted Average
+       Range of        Number     ---------------------------------                  Weighted
+       Exercise      of Shares                        Remaining         Number       Average
+        Prices      Outstanding   Exercise Price   Contractual Life   of Shares   Exercise Price
+     ------------   -----------   --------------   ----------------   ---------   --------------
+<S>  <C>                 <C>         <C>                 <C>              <C>         <C>
+     $0.00 - 0.50        96,250      $   0.24            7.0              8,250       $ 0.50
+     $0.51 - 0.81         2,500          0.81            7.9              2,500         0.81
+     $0.82 - 0.88        95,000          0.87            8.8             85,000         0.87
+     $0.89 - 1.00         2,500          1.00            7.2              2,500         1.00
+     $1.01 - 1.06       152,500          1.06            8.1            152,500         1.06
+     $1.07 - 1.17       220,000          1.17            3.5            220,000         1.17
+     $1.18 - 1.50       242,750          1.50            6.7            242,750         1.50
+                    -----------                                       ---------
+                        811,500          1.10            6.4            713,500         1.21
+                    ===========                                       =========
+</TABLE>
+
+     The Company adopted SFAS No. 123, ACCOUNTING FOR STOCK-BASED COMPENSATION,
+     and elected to continue following the accounting guidance of Accounting
+     Principles Board Opinion No. 25, ACCOUNTING FOR STOCK ISSUED TO EMPLOYEES,
+     for measurement and recognition of stock-based transactions with employees.
+     No compensation cost was recognized for options issued under the Stock
+     Option Plan because the exercise price of all options granted was at least
+     equal to the fair value of the common stock on the grant date. Had
+     compensation cost for the stock options been determined based on the fair
+     value at the grant date, consistent with the provisions of SFAS No. 123,
+     the Company's pro forma net income (loss) and per share amounts would have
+     been as indicated below:
+
+<TABLE>
+<CAPTION>
+                                                            2002             2001             2000
+                                                       ------------     ------------     ------------
+<S>                                                    <C>              <C>              <C>
+     Net income (loss) applicable to common stock:
+       As reported                                     $ (2,824,342)    $     41,480     $    761,281
+                                                       ============     ============     ============
+
+       Pro forma                                       $ (2,805,490)    $    (77,364)    $    581,531
+                                                       ============     =============    ============
+
+     Basic and diluted net income (loss) per share:
+       As reported                                     $       (.49)    $        .01     $        .13
+                                                       ============     ============     ============
+
+       Pro forma                                       $       (.49)    $       (.01)    $        .10
+                                                       =============    ============     ============
+</TABLE>
+
+     The fair value of each option grant is estimated on the date of grant using
+     the Black-Scholes Option-Pricing Model with the following weighted-average
+     assumptions and results:
+
+                                                2002         2001          2000
+                                             ---------    ---------    ---------
+
+     Dividend yield                                 0%           0%           0%
+     Expected volatility                           93%         105%         109%
+     Risk free interest rate                     3.58%        4.73%        6.05%
+     Expected life of options                6.4 Years    6.4 Years    7.2 Years
+     Fair value of options on grant dates     $   0.30     $   1.26      $  1.01
+
+                                       34
+<PAGE>
+
+     STOCK WARRANTS - On October 21, 1996, warrants to purchase 140,000 shares
+     of common stock were issued in connection with the initial public offering.
+     The warrants expired on October 21, 2001. The warrants had an exercise
+     price of $6.00 per share. No warrants were exercised.
+
+9.   COMMITMENTS AND CONTINGENCIES
+
+     EMPLOYMENT AGREEMENTS - Each of the two majority shareholders entered into
+     an employment agreement with the Company providing a minimum annual base
+     salary of $175,000. These agreements have automatic one-year extensions,
+     unless terminated in writing. The agreements require the Company to pay
+     premiums for life insurance intended to fund the buy/sell agreements to
+     which the two majority shareholders are parties. If employment is
+     terminated by either party, the two majority shareholders will receive 12
+     months' salary and health benefits. These agreements require each of the
+     two majority shareholders to vote his shares for election of the other to
+     serve on the Company's Board of Directors. Each of these agreements include
+     confidentiality protections and prohibits each of the two majority
+     shareholders from competing with the Company for a period equal to the
+     period during which the Company is obligated to make severance payments.
+
+     BUY/SELL AGREEMENTS - Each of the two majority shareholders has entered
+     into a Buy/Sell Agreement with the Company and each other. Under this
+     agreement, the Company has the option to purchase shares from the two
+     shareholders.
+
+     CONTINGENCIES - The Company is also involved in legal actions in the
+     ordinary course of its business. Although the outcomes of any such legal
+     actions cannot be predicted, management believes that there is no pending
+     legal proceeding against or involving the Company for which the outcome is
+     likely to have a material adverse effect upon the Company's financial
+     position or results of operations.
+
+10.  INCOME TAXES
+
+     The provision for income taxes consists of the following for the year ended
+     December 31:
+
+                                     2002          2001           2000
+                                  ----------    ----------     ----------
+
+     Current:
+       Federal                    $       --    $  172,000     $  285,000
+       State                           3,000        33,000         26,000
+       Foreign                       551,000            --             --
+                                  ----------    ----------     ----------
+                                     554,000       205,000        311,000
+     Deferred                       (349,000)     (178,000)       186,000
+                                  ----------    ----------     ----------
+     Total income tax expense     $  205,000    $   27,000     $  497,000
+                                  ==========    ==========     ==========
+
+     Differences between the provisions for income taxes at the federal
+     statutory rate and the recorded provision are summarized as follows for the
+     year ended December 31:
+
+                                       35
+<PAGE>
+
+                                                     2002       2001      2000
+                                                    ------     ------    ------
+
+     Income tax expense (benefit) at
+       federal statutory rate                        (34.0)%     34.0%     34.0%
+     State income tax, net of
+       federal benefit (cost)                         (4.8)       4.0       4.0
+     Change in Canadian tax strategy                 (21.7)        --        --
+     Change in valuation allowance, net of net
+       operating loss carryforwards not utilized      69.8         --        --
+     Other                                            (1.5)       1.4       1.5
+                                                    ------     ------    ------
+     Effective income tax rate                         7.8%      39.4%     39.5%
+                                                    ======     ======    ======
+
+     Net deferred tax assets (liabilities) at December 31, are comprised of the
+     following:
+
+<TABLE>
+<CAPTION>
+                                                                       2002             2001
+                                                                   ------------     ------------
+<S>                                                                <C>              <C>
+     Current deferred tax assets (liabilities):
+       Allowance for doubtful accounts                             $     80,000     $     77,000
+       Benefit of net operating loss carryforwards and credits               --          885,000
+       Other, net                                                       (31,000)         (51,000)
+                                                                   ------------     ------------
+     Net current deferred tax assets                                     49,000          911,000
+                                                                   ------------     ------------
+
+     Noncurrent deferred tax assets (liabilities):
+       Benefit of net operating loss carryforwards and credits        1,874,000               --
+       Excess of tax over book depreciation                             (42,000)        (117,000)
+       Canadian basis differences                                       201,000         (942,000)
+       Other                                                             19,000               --
+                                                                   ------------     ------------
+     Net noncurrent deferred tax assets (liabilities)                 2,052,000       (1,059,000)
+                                                                   ------------     ------------
+
+     Valuation allowance                                             (1,900,000)              --
+                                                                   ------------     ------------
+
+     Net deferred tax assets (liabilities)                         $    201,000     $   (148,000)
+                                                                   ============     ============
+</TABLE>
+
+     The 2002 net deferred tax assets are included with other assets on the
+     balance sheet.
+
+     During 2002, the Company changed its strategy regarding Canadian income
+     taxes resulting in approximately $568,000 in reduced income taxes. Since
+     realization of deferred tax assets associated with the net operating loss
+     carryforwards is dependent upon generating sufficient taxable income prior
+     to their expiration, management has provided a valuation allowance at
+     December 31, 2002, against all US federal and state net deferred tax
+     assets, which was a $1,900,000 increase over December 31, 2001.
+
+     As of December 31, 2002, the Company had net operating loss carryforwards
+     for federal and state tax purposes of approximately $3,000,000. The net
+     operating loss carryforwards will expire beginning in 2018. In addition, at
+     December 31, 2002, the Company had tax credits of approximately $698,000,
+     which will expire beginning in 2017.
+
+     State tax effects are deemed insignificant and are not separately disclosed
+     in most areas.
+
+11.  RETIREMENT PLAN
+
+     The Company has a 401(k) pension plan covering substantially all of its
+     employees who are at least 21 years of age and have completed at least nine
+     months continuous employment. Participants may elect to defer from 1% to
+     15% of their salary and are 100% vested in their own contributions. The
+
+                                       36
+<PAGE>
+
+     plan allows for the Company to make discretionary matching contributions.
+     These contributions, if any, vest to the employee at 20% per year of
+     employment so that the employee will be fully vested in the Company's
+     discretionary contribution upon attaining five years of employment of
+     greater than 1000 hours per year. The Board of Directors determines the
+     Company's discretionary contributions to the plan annually. Discretionary
+     contributions were $15,318 for the year ended December 31, 2000. There were
+     no discretionary contributions made in 2002 or 2001.
+
+12.  NET INCOME (LOSS) PER SHARE
+
+     Basic earnings per share are computed by dividing earnings available to
+     common shareholders by the weighted average number of shares outstanding
+     during the year. Diluted earnings per share are computed after giving
+     effect to the exercise of all dilutive outstanding options and warrants.
+     Both basic and diluted earnings per share for 2001 and 2000 were the same
+     because the exercise price of substantially all options and warrants was in
+     excess of the weighted average market price during the year. Because of the
+     net loss in 2002, all options were antidilutive and excluded from the
+     calculation. For the reasons discussed above, options and warrants of
+     811,500, 243,750, and 140,000 were excluded from the calculation of diluted
+     shares outstanding in 2002, 2001, and 2000, respectively. The following
+     table reconciles the denominators used in computing basic and diluted
+     earnings per share for the years ended December 31:
+
+<TABLE>
+<CAPTION>
+                                                        2002          2001          2000
+                                                     ---------     ---------     ---------
+<S>                                                  <C>           <C>           <C>
+     Weighted average common shares outstanding      5,781,485     5,781,468     5,770,910
+     Effect of dilutive stock options and warrants          --        87,581       224,350
+                                                     ---------     ---------     ---------
+                                                     5,781,485     5,869,049     5,995,260
+                                                     =========     =========     =========
+</TABLE>
+
+13.  SUBSEQUENT EVENTS
+
+     On April 29, 2003, the Company signed a Financing Agreement with a new
+     lender that provides a credit line of up to $3,500,000. The agreement
+     expires on January 29, 2004. Borrowings are limited to 80% of qualifying
+     trade receivables. Certain trade receivables, contract rights and other
+     rights to payments, equipment and general intangibles collateralize the
+     note. The loan accrues interest at the prime rate plus 3.5%. The agreement
+     also requires a minimum interest charge payable to the lender of $3,500 per
+     month and also includes a 1% origination fee.
+
+     On April 7, 2003, the Company announced that it is negotiating an agreement
+     to transfer its Redding, California contact center to another company. The
+     Company expects to continue its operations at the site over next few months
+     until the transfer is completed. As a result of the transfer, the Company
+     expects to incur a loss of $250,000 related to the disposal of assets.
+
+14.  SUPPLEMENTAL CASH FLOW INFORMATION
+
+     Supplemental disclosures on cash flow information for the years ended
+     December 31 are as follows:
+
+<TABLE>
+<CAPTION>
+                                                                 2002          2001          2000
+                                                              ---------     ---------     ---------
+<S>                                                           <C>           <C>           <C>
+     Interest paid                                            $ 218,261     $ 277,307     $ 194,491
+
+     Income taxes paid (refunds received)                       168,202       (87,371)      190,583
+
+     Noncash investing and financing activities included:
+      Equipment acquired through capital leases                 414,784       826,193       602,745
+</TABLE>
+
+                                       37
+<PAGE>
+
+15.  FOREIGN OPERATIONS
+
+     The following table summarizes selected financial information related to
+     the Company's foreign operations. The Company's foreign subsidiary manages
+     and operates all of the Company's Canadian contact centers. All client
+     contracts are with the parent company. Revenue is recognized by the foreign
+     subsidiary at 105% of the foreign expenses. The accounting policies of the
+     foreign subsidiary are the same as those of the consolidated company.
+
+                                              Years Ended December 31,
+                                    --------------------------------------------
+                                         2002            2001            2000
+                                    -------------   ------------    ------------
+     Revenues                       $ 13,419,214    $  8,887,033    $  1,696,085
+
+     Expenses                         12,780,204       8,463,841       1,615,319
+                                    ------------    ------------    ------------
+
+     Net income                     $    434,010    $    423,192    $     80,766
+                                    ============    ============    ============
+
+     Net property and equipment     $  1,439,807    $  2,469,775    $  1,884,751
+                                    ============    ============    ============
+
+16.  SUPPLEMENTAL QUARTERLY FINANCIAL DATA (unaudited)
+
+     Summarized, unaudited quarterly financial data is summarized in the tables
+     below for the years ended December 31, 2002, and 2001 (amounts in
+     thousands, except per share data):
+
+<TABLE>
+<CAPTION>
+                                            MAR 31,    JUNE 30,    SEPT 30,     DEC 31,
+                                             2002        2002        2002        2002
+                                           --------    --------    --------    --------
+<S>                                        <C>         <C>         <C>         <C>
+     Total revenues                        $  7,245    $  7,728    $  7,048    $  8,300
+                                           --------    --------    --------    --------
+     Operating expenses:
+        Cost of services                      4,358       4,501       4,389       4,569
+        Selling, general, and
+           administrative                     3,661       3,559       3,799       3,273
+        Impairment costs                         --          --          50         532
+                                           --------    --------    --------    --------
+     Total operating expenses                 8,019       8,060       8,238       8,374
+                                           --------    --------    --------    --------
+
+     Operating income (loss)                   (774)       (332)     (1,190)        (74)
+
+     Interest income                              2           4          --           1
+     Interest expense                            45          46          58          69
+     Other expense (income)                      23          34         (58)         39
+                                           --------    --------    --------    --------
+
+     Income (loss) before income taxes         (840)       (408)     (1,190)       (181)
+
+     Income tax expense (benefit)              (322)       (728)      1,245          10
+                                           --------    --------    --------    --------
+
+     Net income (loss)                     $   (518)   $    320    $ (2,435)   $   (191)
+                                           ========    ========    ========    ========
+
+     Basic and diluted income (loss)
+          per share                        $   (.09)   $    .06    $   (.42)   $   (.04)
+                                           ========    ========    ========    ========
+</TABLE>
+
+                                       38
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                            MAR 31,    JUNE 30,    SEPT 30,     DEC 31,
+                                             2001        2001        2001        2001
+                                           --------    --------    --------    --------
+<S>                                        <C>         <C>         <C>         <C>
+     Total revenues                        $  8,336    $  9,132    $  8,267    $  7,159
+                                           --------    --------    --------    --------
+     Operating expenses:
+        Cost of services                      4,161       4,604       4,390       4,187
+        Selling, general, and
+              administrative                  3,520       3,941       3,946       3,677
+        Impairment costs                         --          --          --          78
+                                           --------    --------    --------    --------
+     Total operating expenses                 7,681       8,545       8,336       7,942
+                                           --------    --------    --------    --------
+
+     Operating income (loss)                    655         586         (69)       (783)
+
+     Interest income                              3          12           3           7
+     Interest expense                            95          75          59          48
+     Other expense (income)                      51          21          64         (66)
+                                           --------    --------    --------    --------
+
+     Income (loss) before income taxes          512         502        (188)       (758)
+
+     Income tax expense (benefit)               200         196         (72)       (297)
+                                           --------    --------    --------    --------
+
+     Net income (loss)                     $    312    $    306    $   (116)   $   (461)
+                                           ========    ========    ========    ========
+
+     Basic and diluted income (loss)
+           per share                       $    .05    $    .05    $   (.02)   $   (.07)
+                                           ========    ========    ========    ========
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+                                       39
+<PAGE>
+
+            INDEPENDENT AUDITORS' REPORT ON SUPPLEMENTARY INFORMATION
+
+
+Board of Directors and Shareholders
+ACI Telecentrics, Inc.
+Minneapolis, Minnesota
+
+Our report on our audit of the basic consolidated financial statements of ACI
+Telecentrics, Inc. and subsidiary for the year ended December 31, 2002, appears
+on page 19. The audit was made for the purpose of forming an opinion on the
+basic consolidated financial statements taken as a whole. The supplementary
+information on page 41 is presented for purposes of additional analysis and is
+not a required part of the basic consolidated financial statements. Such
+information has been subjected to the auditing procedures applied in the audits
+of the basic consolidated financial statements and, in our opinion, is fairly
+stated in all material respects in relation to the basic consolidated financial
+statements taken as a whole.
+
+                                        /s/ Lurie Besikof Lapidus & Company, LLP
+
+
+Minneapolis, Minnesota
+February 28, 2003, except for Note 13,
+  as to which the date is April 29, 2003
+
+
+
+INDEPENDENT AUDITORS' REPORT ON SUPPLEMENTARY INFORMATION
+
+
+Board of Directors and Shareholders of ACI Telecentrics, Inc.
+
+Our report on our audit of the basic consolidated financial statements of ACI
+Telecentrics, Inc. and subsidiary for the year ended December 31, 2001 and 2000,
+appears on page 20. The audit was made for the purpose of forming an opinion on
+the basic consolidated financial statements taken as a whole. The supplementary
+information on page 41 is presented for purposes of additional analysis and is
+not a required part of the basic consolidated financial statements. Such
+information has been subjected to the auditing procedures applied in the audits
+of the basic consolidated financial statements and, in our opinion, is fairly
+stated in all material respects in relation to the basic consolidated financial
+statements taken as a whole.
+
+/s/ Deloitte & Touche LLP
+
+Minneapolis, Minnesota
+March 27, 2002
+
+                                       40
+<PAGE>
+
+ACI TELECENTRICS, INC. AND SUBSIDIARY
+
+VALUATION AND QUALIFYING ACCOUNTS
+YEARS ENDED DECEMBER 31, 2002, 2001 AND 2000
+
+<TABLE>
+<CAPTION>
+                                              BALANCE AT                              BALANCE AT
+                                              BEGINNING    CHARGED TO      (A)          END OF
+YEARS ENDED DECEMBER 31,                       OF YEAR      EXPENSE     DEDUCTIONS       YEAR
+------------------------                      ----------   ----------   -----------   ----------
+<S>                                           <C>          <C>          <C>           <C>
+ALLOWANCE FOR DOUBTFUL ACCOUNTS RECEIVABLE
+
+   2002                                       $  198,874   $   60,000   $    53,002   $  205,872
+
+   2001                                          230,726       41,668        73,520      198,874
+
+   2000                                          140,000      200,000       109,274      230,726
+</TABLE>
+
+(A) Represents accounts written off.
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+        FINANCIAL DISCLOSURE
+
+     On December 9, 2002, Deloitte & Touche LLP resigned as ACI's independent
+accountant. We had engaged Deloitte & Touche LLP as our independent accountant
+for prior fiscal years.
+
+     There were not, in connection with the audits of the two most recent fiscal
+years and any subsequent interim period preceding the resignation of Deloitte &
+Touche LLP, any disagreements between the Registrant and Deloitte & Touche LLP,
+on any matters of accounting principles or practices, financial statement
+disclosure, or auditing scope or procedure which, if not resolved to Deloitte &
+Touche LLP's satisfaction, would have caused it to make reference to the subject
+matter of the disagreement in connection with its report. Deloitte & Touche
+LLP's audit reports on the financial statements of ACI for the two years ended
+December 31, 2001, did not contain an adverse opinion or disclaimer of opinion
+or been qualified as to uncertainty, audit scope or accounting principles, nor
+were there any other events requiring disclosure.
+
+Effective December 23, 2002, our Board of Directors, upon recommendation of our
+Audit Committee, engaged Lurie Besikof Lapidus & Company, LLP as the
+Registrant's independent auditors for the year ending December 31, 2002.
+
+
+                                       41
+<PAGE>
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+EXECUTIVE OFFICERS OF THE COMPANY
+
+     The name and ages of all our executive officers and the positions held by
+them are listed below.
+
+Name                    Age                      Position
+
+Rick N. Diamond         40       Chairman of the Board, Chief Executive Officer,
+                                 Secretary, and Director
+
+Gary B. Cohen           41       President and Director
+
+Lois J. Dirksen         47       Executive Vice President of Client Services
+
+Jill Hackenmueller      34       Executive Vice President of Operations
+
+     RICK N. DIAMOND is cofounder of ACI and has served as our Chief Executive
+Officer and as a director since we were founded in 1987. Mr. Diamond holds a
+B.A. degree from the University of Wisconsin and J.D. degree from Washington
+University in St. Louis, Missouri. Prior to and since founding ACI, he has been
+active in community and business affairs.
+
+     GARY B. COHEN is cofounder of ACI and has served as our President and as a
+director since we were founded in 1987. Mr. Cohen holds a B.S. degree from the
+University of Minnesota. Prior to and since founding ACI, he has been active in
+community and business affairs.
+
+     LOIS J. DIRKSEN joined ACI as a Vice President in May 1995 and became
+Executive Vice President of Client Services in August 2001. Prior to joining
+ACI, Ms. Dirksen was Vice President of Sales for Rezound International, a
+publisher of audio books, from April 1994 to May 1995 and Director of Direct
+Response for Minnesota Mutual from March 1990 to April 1994. Ms. Dirksen holds a
+B.S. degree in Political Science from Arizona State University.
+
+     JILL HACKENMUELLER joined ACI in February 1994, serving as Program Manager
+before becoming Minneapolis Facility Manager in June 1995, Operations Manager in
+April 1997 and Executive Vice President of Operations in August 2001. Ms.
+Hackenmueller attended the University of Minnesota, where she received her
+degree in Business Administration.
+
+DIRECTORS OF THE COMPANY
+
+     The Company's Board of Directors consists of six directors. Each director
+serves on the Board until his successor is duly elected and qualified.
+
+Name of                                Current Position       Director
+Director/Nominee        Age            with the Company         Since
+----------------        ---            ----------------         -----
+
+Rick N. Diamond         40      Chairman of the Board, Chief
+                                Executive Officer                1987
+
+                                       42
+<PAGE>
+
+Gary B. Cohen           41      President and Director           1987
+
+Seymour Levy            79      Director                         1996
+
+Douglas W. Franchot     57      Director                         1996
+
+Phillip T. Levin        59      Director                         1996
+
+Gary S. Kohler          47      Director                         2003
+
+     The Bylaws of the Company provide that the number of directors, which shall
+be not less than one, shall be the number set by the shareholders.
+
+BUSINESS EXPERIENCE OF THE DIRECTORS
+
+     RICK N. DIAMOND is co-founder of the Company and has served as the Chief
+Executive Officer and a director of the Company since its inception in 1987. Mr.
+Diamond holds a B.A. degree from the University of Wisconsin-Madison and J.D.
+degree from Washington University-School of Law in St. Louis, Missouri. Prior to
+and since founding the Company, he has been active in community and business
+affairs.
+
+     GARY B. COHEN is co-founder of the Company and has served as the Company's
+President and as a director since its inception in 1987. Mr. Cohen holds a B.S.
+degree from the University of Minnesota. Prior to and since founding the
+Company, he has been active in community and business affairs.
+
+     SEYMOUR LEVY has served as President of Sy Levy & Associates, Inc., a
+management and organizational consulting firm since 1974.
+
+     DOUGLAS W. FRANCHOT has served as President of Franchot, Cohen &
+Associates, an executive search consulting company since August 1999. Prior to
+this time Mr. Franchot had served as President of Wood, Franchot Inc., a
+management and organizational consulting firm since 1974.
+
+     PHILLIP T. LEVIN has served as a director and officer of Metacom, a
+distributor of audio cassettes, since he co-founded it in 1970. Mr. Levin has
+also served as Chairman of the Board of Directors of Zomax, Incorporated, a
+manufacturer of compact discs, since April 1996.
+
+     GARY S. KOHLER has served as a director of Sontra Medical, Inc., a medical
+technology company in Boston, MA since June 2002. Since December 1999, Mr.
+Kohler has been a partner of Pyramid Trading, LLC, an investment partnership
+that invests in publicly traded micro-cap companies. Mr. Kohler holds an M.B.A.
+degree from Cornell University.
+
+SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+
+     Section 16(a) of the Securities Exchange Act of 1934 requires the Company's
+officers and directors, and persons who own more than 10 percent of a registered
+class of the Company's equity securities, to file reports of ownership and
+changes in ownership with the SEC. Officers, directors and greater than
+ten-percent shareholders are required by SEC regulation to furnish the Company
+with copies of all Section 16(a) forms they file. Based solely on its review,
+the Company believes that, during fiscal year 2002, officers Lois Dirksen and
+Jill Hackenmueller and all directors of the Company did not file required forms
+for options granted to them during the year.
+
+                                       43
+<PAGE>
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+SUMMARY COMPENSATION TABLE
+
+     The following table sets forth certain information regarding compensation
+paid or accrued during each of the Company's last three fiscal years to the
+Chief Executive Officer, and the four other most highly compensated executive
+officers of the company whose salary and bonus exceeded $100,000 in the last
+fiscal year.
+
+<TABLE>
+<CAPTION>
+                                                       Annual Compensation            Long Term Compensation
+                                                 ----------------------------------   ----------------------
+Name And Principal Position        Fiscal Year    Salary($)   Bonus($)   Other($)(1)         Options
+--------------------------------   -----------   ----------   --------   -----------         -------
+<S>                                   <C>        <C>            <C>       <C>                <C>
+Rick N. Diamond,                      2002       300,000            --     25,712(1)
+Chief Executive Officer               2001       287,308            --     28,434                 --
+                                      2000       249,135        14,653     24,260            100,000
+
+Gary B. Cohen,                        2002       300,000            --     19,472(1)              --
+President                             2001       287,308            --     27,613                 --
+                                      2000       249,135        14,653     22,432            100,000
+
+Dana A. Olson,                        2002       200,000(2)         --      6,500(1)              --
+Former Chief Operating Officer        2001       187,462            --      6,500                 --
+                                      2000       179,417        14,653      5,500             45,000
+
+Lois J. Dirksen,                      2002       150,000            --         --                 --
+Executive Vice President of           2001       150,000            --         --                 --
+     Client Services                  2000       147,538        14,653         --             30,000
+
+William E. Sorenson,                  2002       116,442(3)         --         --                 --
+Chief Information Officer             2001       175,000            --         --                 --
+                                      2000       159,120            --         --             40,000
+</TABLE>
+
+(1)  Other compensation reported represents (a) the premiums paid by the company
+     for life and disability insurance for the benefit of such officer, (b)
+     value of personal use portion of company provided automobile, (c) auto
+     allowance, and (d) personal expenses paid for by the Company. The dollar
+     value of each such benefit for the year ended December 31, 2002 is R.
+     Diamond (a) $18,382, (b) $7,330, (c) $0; and (d) $0; G. Cohen (a) $11,963,
+     (b) $7,509, (c) $0, and (d) $0; and D. Olson (a) $0, (b) $0, (c) $6,500,
+     and (d) $0.
+(2)  Mr. Olsen's employment the Company terminated during October 2002.
+(3)  Mr. Sorenson's employment with the Company terminated in July 2002.
+
+OPTION GRANTS DURING 2002 FISCAL YEAR
+
+        The following table provides information regarding stock options granted
+during fiscal 2002 to the named executive officers in the Summary Compensation
+Table. The Company has not granted any stock appreciation rights.
+
+                                       44
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                 Individual Grants
+                        --------------------------------------------------------------------
+                                    Percent of Total       Exercise or
+                        Options      Options Granted       Base Price          Expiration
+Name                    Granted      in Fiscal Year      per Share($)(1)          Date
+----                    -------      --------------      ---------------          ----
+<S>                          <C>             <C>                <C>                <C>
+Rick N.  Diamond             --              --                 --                 --
+
+Gary B. Cohen                --              --                 --                 --
+
+Dana A. Olson            20,000            16.9               0.22            August 6, 2012
+
+Lois J. Dirksen          20,000            16.9               0.22            August 6, 2012
+
+William E. Sorenson          --              --                 --                 --
+</TABLE>
+
+(1)  All of these options were granted pursuant to the Company's 1996 Stock
+     Option Plan.
+
+     These options become exercisable over a five year vesting period. Each year
+one-fifth of the options becomes exercisable, beginning on the first year
+anniversary of the stock grant date.
+
+OPTION EXERCISES DURING 2002 FISCAL YEAR AND FISCAL YEAR-END OPTION VALUES
+
+     No options were exercised during fiscal 2002 by the named executive
+officers in the Summary Compensation Table. The following table provides
+information as to the number and value of options held by such persons at
+December 31, 2002. The Company does not have any outstanding stock appreciation
+rights.
+
+                                                              Value of
+                                                             Unexercised
+                      Number of Unexercised                 in-the-Money
+                           Options at                       Options as of
+                        December 31, 2002                December 31, 2002(1)
+Name                Exercisable/Unexercisable          Exercisable/Unexercisable
+----                -------------------------          -------------------------
+
+Rick N. Diamond       100,000            --               $ --          $ --
+Gary B. Cohen         100,000            --                 --            --
+Dana A. Olson         182,000        28,000                 --           200
+Lois J. Dirksen        68,500        22,000                 --           200
+
+(1)  The closing price of the Common Stock on December 31, 2002 was $.23 per
+     share.
+
+COMPENSATION TO DIRECTORS
+
+     Non-employee members of the Board of Directors receive a per-meeting
+payment of $750 for formal meetings. In addition, the Board of Directors has
+granted nonqualified options to purchase shares of Common Stock. Mr. Franchot
+was granted 8,000 shares and Mr. Levin and Mr. Levy were each granted 6,000
+shares. All these options became exercisable immediately.
+
+EMPLOYMENT AGREEMENTS AND BUY/SELL ARRANGEMENTS
+
+     Each of Mr. Diamond and Mr. Cohen has entered into an employment agreement
+dated June 30, 1996, with the Company. These agreements have an initial term of
+two years with automatic one year extensions, unless terminated in writing
+within sixty (60) days prior to the renewal date. The agreements provide for a
+minimum annual base salary, currently at $300,000. If employment is terminated
+by either party following the initial two-year term, Mr. Diamond and Mr. Cohen
+will receive 12 months salary and health benefits. These agreements require each
+of Mr. Diamond and Mr. Cohen to vote his shares for election of the other to
+serve on the Company's Board of Directors. Each of these agreements includes
+strict confidentiality protections and prohibits each of Mr. Diamond and Mr.
+Cohen from competing with
+
+                                       45
+<PAGE>
+
+the Company for a period equal to the period during which the Company is
+obligated to make severance payments.
+
+        Each of Mr. Diamond and Mr. Cohen has entered into a Buy/Sell Agreement
+with the Company and each other. These Agreements give each of Mr. Diamond and
+Mr. Cohen the option to purchase shares of the Company's stock from the other in
+the event the other dies, attempts a voluntary sale of stock, or is subject to a
+possible involuntary transfer of the stock. In addition, these Agreements
+require each of Mr. Diamond and Mr. Cohen to maintain life insurance on each
+other and to use the proceeds thereof to purchase shares from the decedent's
+estate at fair market value. The Company has an option to purchase any shares
+not purchased by Mr. Diamond or Mr. Cohen, as the case may be. In all instances,
+purchase options are at fair market value, as measured by the average market
+price of the Company's publicly traded common stock over a period of 90 days
+prior to the event giving rise to an option.
+
+REPORT OF THE COMPENSATION COMMITTEE OF THE BOARD OF DIRECTORS
+
+        The Compensation Committee of the Board of Directors consists of
+directors who are not employees of the Company. The Committee is currently
+comprised of Douglas W. Franchot, Seymour Levy and Phillip T. Levin. This
+Committee is responsible for reviewing and approving the Company's compensation
+policies and recommends to the Board of Directors the salaries to be paid to
+executive officers of the Company and any plan for additional compensation it
+deems appropriate. In addition, this Committee is vested with the same authority
+as the Board of Directors with respect to the granting of options and the
+administration of the Company's 1996 Stock Option Plan.
+
+SALARY
+
+        Mr. Diamond's compensation for serving as Chief Executive Officer of the
+Company, including salary and benefit, is and will generally be governed by the
+terms of his employment agreement with the Company. See "Employment Agreements
+and Buy/Sell Agreements" set forth above. The Compensation Committee determined,
+after consideration of competitive levels of compensation for chief executive
+officers of industry competitors, knowledge and experience of the telemarketing
+industry, his contribution to the Company's growth and success and as one of its
+two founding members, the financial performance of the Company during the prior
+year and the financial condition of the Company, to maintain his base salary at
+the same level as at the end of the previous year. In determining Mr. Diamond's
+bonus potential for the year 2002, the Committee established that Mr. Diamond
+would receive a bonus equal to 5 percent (5%) of the Company's 2002 EBITDA that
+was in excess of year 2001 EBITDA.
+
+        Mr. Cohen's compensation for serving as President of the Company,
+including salary and benefit, is and will generally be governed by the terms of
+his employment agreement with the Company. See "Employment Agreements and
+Buy/Sell Agreements" set forth above. The Compensation Committee determined,
+after consideration of competitive levels of compensation for presidents of
+industry competitors, knowledge and experience of the telemarketing industry,
+his contribution to the Company's growth and success and as one of its two
+founding members, the financial performance of the Company during the prior year
+and the financial condition of the Company, to maintain his base salary at the
+same level as at the end of the previous year. In determining Mr. Cohen's bonus
+potential for the year 2002, the Committee established that Mr. Cohen would
+receive a bonus equal to 5 percent (5%) of the Company's 2002 EBITDA that was in
+excess of year 2001 EBITDA.
+
+        The Compensation Committee determined that salaries for remaining
+executive officers of the Company will continue to be set at levels that are
+intended to reward achievement of individual and Company goals and to motivate
+and retain highly qualified executives whom the Committee believes are
+
+                                       46
+<PAGE>
+
+important to the success of the Company. While these compensation decisions are
+not based on strict formulas, the Committee considers various measures of
+individual and Company performance and financial condition in establishing these
+salaries. Bonuses are typically calculated at a certain percentage of each
+executive's base salary only when the Company's actual performance exceeds
+budgetary goals.
+
+INCENTIVE COMPENSATION
+
+As with salary and bonuses, decisions regarding incentive compensation, in the
+form of grants of stock options, are not based on strict formulas but are based
+on several factors including individual and Company performance. The
+Compensation Committee awarded stock options totaling 40,000 shares to two of
+the named executive officers in 2002.
+
+STOCK PERFORMANCE GRAPH
+
+        The following performance graph compares the cumulative shareholder
+return on our Common Stock with the cumulative total return of the Standard &
+Poor's 500 Index and an index of peer group companies consisting of teleservices
+companies for the period from December 31, 1997 to December 31, 2002. This graph
+assumes that $100 was invested in the Common Stock, the S&P 500 Index and the
+peer group index on December 31, 1997 and that any dividends were reinvested.
+
+        This peer group is one with which our management believes ACI to be
+most aligned and consists of the following: APAC Teleservices, Inc.; ICT Group,
+Inc.; RMH Teleservices, Inc.; Sitel Corp; Teletech Holdings, Inc.; and West
+Teleservices Corp.
+
+                      COMPARISON OF TOTAL CUMULATIVE RETURN
+                          AMONG ACI TELECENTRICS, INC.,
+                    THE S&P 500 INDEX AND A PEER GROUP INDEX
+
+                              [PLOT POINTS GRAPH]
+<TABLE>
+<CAPTION>
+---------------------------------------------------------------------------------------
+                              12/31/97   12/98     12/99     12/00     12/01     12/02
+---------------------------------------------------------------------------------------
+<S>                           <C>       <C>       <C>       <C>       <C>       <C>
+ACI TELECENTRICS, INC.        $100.00   $ 10.70   $ 26.80   $ 35.70   $ 28.60   $  6.60
+S&P 500 STOCKS                $100.00   $183.80   $162.00   $149.20   $131.60   $100.80
+SELF-DETERMINED PEER GROUP    $100.00   $ 54.30   $171.90   $126.50   $144.10   $ 87.00
+---------------------------------------------------------------------------------------
+</TABLE>
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND
+         RELATED STOCKHOLDER MATTERS
+
+     The following table shows information concerning the beneficial ownership
+of the outstanding shares of Common Stock as of April 4, 2003 by (i) the persons
+known by the Company to own more than 5% of the Company's outstanding Common
+Stock, (ii) each director of the Company, (iii) the named executive officers in
+the Summary Compensation Table, and (iv) all directors and executive officers as
+a group. Except as otherwise indicated, the persons named in the table have sole
+voting and investment power with respect to all shares of Common Stock owned by
+them.
+
+Name (and Address of 5%                    Number of Shares        Percent
+Owner) or Identity of Group              Beneficially Owned(1)     of Class
+---------------------------              ---------------------     --------
+
+Rick N. Diamond                              2,200,000(2)            35.3%
+3100 West Lake Street. Suite 300
+Minneapolis, MN 55416
+
+Gary B. Cohen                                2,200,000(3)            35.3%
+3100 West Lake Street, Suite 300
+Minneapolis, MN 55416
+
+Lois J. Dirksen                                 72,908(4)             1.2%
+
+Phillip T. Levin                                82,000(5)             1.3%
+
+Douglas W. Franchot                             43,000(6)              *
+
+Seymour Levy                                    42,000(7)              *
+
+Gary S. Kohler                                      --                 *
+
+All Executive Officers and Directors         4,639,908               72.4%
+as a Group (7 Individuals)
+
+                                       47
+<PAGE>
+
+*    Less than 1%.
+
+(1)  Under the rules of the Securities and Exchange Commission (SEC), shares not
+     actually outstanding are nevertheless deemed to be beneficially owned by a
+     person if such person has the right to acquire the shares within 60 days.
+     Pursuant to such SEC rules, shares deemed beneficially owned by virtue of a
+     person's right to acquire them are also treated as outstanding when
+     calculating the percent of class owned by such person and when determining
+     the percentage owned by a group.
+
+(2)  Includes 100,000 shares which may be purchased by Mr. Diamond upon exercise
+     of currently exercisable options.
+
+(3)  Includes 40,000 shares held by the Cohen Family Trust U/A dated 6/11/99 and
+     100,000 shares which may be purchased by Mr. Cohen upon exercise of
+     currently exercisable options.
+
+(4)  Includes 68,500 shares which may be purchased by Ms. Dirksen upon exercise
+     of currently exercisable options.
+
+(5)  Includes 41,000 shares which may be purchased by Mr. Levin upon exercise of
+     currently exercisable options.
+
+(6)  Includes 43,000 shares which may be purchased by Mr. Franchot upon exercise
+     of currently exercisable options.
+
+(7)  Includes 41,000 shares which may be purchased by Mr. Levy upon exercise of
+     currently exercisable options.
+
+INFORMATION REGARDING EQUITY COMPENSATION PLANS
+
+     The following table provides information concerning the Company's equity
+compensation plans as of December 31, 2002.
+
+<TABLE>
+<CAPTION>
+                                                                            Number of securities remaining
+                        Number of securities to      Weighted-average        available for future issuance
+                        be issued upon exercise      exercise price of        under equity compensation
+                        of outstanding options,     outstanding options      plans (excluding securities
+Plan Category             warrants and rights       warrants and rights        reflected in column (a))
+-------------             -------------------       -------------------       ------------------------
+<S>                             <C>                        <C>                          <C>
+                                  (a)                       (b)                           (c)
+Equity compensation
+plans approved
+by security holders             811,500                    $1.21                        214,015(1)
+
+Equity compensation
+plans not approved
+by security holders                 --                        --                              --
+
+Total                           811,500                    $1.21                        214,015
+</TABLE>
+
+                                       48
+<PAGE>
+
+(1)  Includes 25,515 shares of common stock available for issuance under the
+     Company's Employee Stock Purchase Plan.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+        STOCK OPTION VOTING AGREEMENT. Each holder of stock options under the
+Company's 1996 Stock Option Plan has entered into a voting agreement which
+grants to Mr. Diamond and Mr. Cohen (acting jointly) the voting rights for all
+shares acquired pursuant to exercise of such options, until the earlier of five
+years from date of exercise or until the holder sells such shares in the public
+market. Shares sold into the public market will not thereafter be subject to the
+voting agreement.
+
+        Franchot Cohen & Associates, an executive search firm, billed the
+Company $0, $0, and $59,000 for services provided to the Company in 2002, 2001
+and 2000, respectively. Douglas W. Franchot, a director of the Company, is
+President of Franchot, Cohen & Associates.
+
+ITEM 14. CONTROLS AND PROCEDURES
+
+        Our management, including our Chief Executive Officer and Principal
+Financial and Accounting Officer, have evaluated our disclosure controls and
+procedures within the 90 days preceding the date of this filing. Under rules
+promulgated by the SEC, disclosure controls and procedures are defined as those
+"controls or other procedures of an issuer that are designed to ensure that
+information required to be disclosed by the issuer in the reports filed or
+submitted by it under the Exchange Act is recorded, processed, summarized and
+reported, within the time periods specified in the Commission's rules and
+forms." Based on the evaluation of our disclosure controls and procedures,
+management determined that such controls and procedures were effective as of the
+evaluation date.
+
+        Since the evaluation date there have not been any significant changes in
+the internal controls or in other factors that could significantly affect these
+controls, including any corrective actions with regard to significant
+deficiencies and material weaknesses.
+
+ITEM 15. EXHIBITS, FINANCIAL SCHEDULES, AND REPORTS ON FORM 8-K
+
+(a)  Exhibits. Exhibits are numbered in accordance with Item 601 of Regulation
+     S-K. See "Exhibit Index" immediately following Section 302 Certifications
+     of this Form 10-K.
+
+(b)  Reports on Form 8-K. We filed the following reports on Form 8-K during the
+     fourth quarter of the year ended December 31, 2002:
+
+1.   Change in ACI's Certifying Accountant filed on December 13, 2002.
+2.   Form 8-K/A filed on December 17, 2002, amending Current Report on Form 8-K,
+     which was originally filed on December 13, 2002.
+3.   Engagement of Lurie Besikof Lapidus & Company, LLP as ACI's certifying
+     Accountant filed on December 30, 2002.
+
+                                       49
+<PAGE>
+
+SIGNATURES
+
+     In accordance with Section 13 or 15(d) of the Securities Exchange Act of
+1934, the registrant caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+                                    ACI TELECENTRICS, INC.
+
+Dated: June 2, 2003                 By: /s/ RICK N. DIAMOND
+                                        ----------------------------------------
+                                        Rick N. Diamond, Chief Executive Officer
+
+     Pursuant to the requirements of the Securities Exchange Act 1934, this
+Report has been signed by the following persons on behalf of the Company, in the
+capacities, and on the dates, indicated.
+
+POWER OF ATTORNEY
+-----------------
+
+        Each person whose signature appears below constitutes and appoints RICK
+N. DIAMOND and GARY B. COHEN as true and lawful attorneys-in-fact and agents,
+each acting alone, with full power of substitution and resubstitution, for him
+and in his name, place and stead, in any and all capacities, to sign any or all
+amendments to this Annual Report on Form 10-K and to file the same, with all
+exhibits thereto, and other documents in connection thereto, and other documents
+in connection therewith, with the Securities and Exchange Commission, granting
+unto said attorneys-in-fact and agents, each acting alone, full power and
+authority to do and perform each and every act and thing requisite and necessary
+to be done in and about the premises, as fully to all intents and purposes as he
+might or could do in person, hereby ratifying and confirming all said
+attorneys-in-fact and agents, each acting alone, or his substitute or
+substitutes, may lawfully do or cause to be done by virtue thereof.
+
+           Signature and Title                          Date
+
+/s/ RICK N. DIAMOND                                 June 2, 2003
+--------------------------------------------
+Rick N. Diamond, Chief Executive Officer and
+Director (principal executive officer)
+
+/s/ GARY B. COHEN                                   June 2, 2003
+--------------------------------------------
+Gary B. Cohen, President and Director
+
+/s/ RUSSELL JACKSON                                 June 2, 2003
+--------------------------------------------
+Russell Jackson, Controller
+(principal financial and accounting officer)
+
+/s/ DOUGLAS W. FRANCHOT                             June 2, 2003
+--------------------------------------------
+Douglas W. Franchot, Director
+
+/s/ PHILLIP T. LEVIN                                June 2, 2003
+--------------------------------------------
+Phillip T. Levin, Director
+
+/s/ SEYMOUR LEVY                                    June 2, 2003
+--------------------------------------------
+Seymour Levy, Director
+
+/s/ GARY S. KOHLER                                  June 2, 2003
+--------------------------------------------
+Gary S. Kohler, Director
+
+                                       50
+<PAGE>
+
+SECTION 302 CERTIFICATION
+-------------------------
+
+I, Rick N. Diamond, the Chief Executive Officer of ACI Telecentrics, Inc.,
+certify that:
+
+1. I have reviewed this annual report on Form 10-K of ACI Telecentrics, Inc.;
+
+2. Based on my knowledge, this quarterly report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this quarterly
+report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this quarterly report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this quarterly report;
+
+4. The registrant's other certifying officers and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-14 and 15d-14) for the registrant and have:
+
+a) designed such disclosure controls and procedures to ensure that material
+information relating to the registrant, including its consolidated subsidiaries,
+is made known to us by others within those entities, particularly during the
+period in which this quarterly report is being prepared;
+
+b) evaluated the effectiveness of the registrant's disclosure controls and
+procedures as of a date within 90 days prior to the filing date of this
+quarterly report (the "Evaluation Date"); and
+
+c) presented in this quarterly report our conclusions about the effectiveness of
+the disclosure controls and procedures based on our evaluation as of the
+Evaluation Date;
+
+5. The registrant's other certifying officers and I have disclosed, based on our
+most recent evaluation, to the registrant's auditors and the audit committee of
+registrant's board of directors (or persons performing the equivalent
+functions):
+
+a) all significant deficiencies in the design or operation of internal controls
+which could adversely affect the registrant's ability to record, process,
+summarize and report financial data and have identified for the registrant's
+auditors any material weaknesses in internal controls; and
+
+b) any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal controls; and
+
+6. The registrant's other certifying officers and I have indicated in this
+quarterly report whether or not there were significant changes in internal
+controls or in other factors that could significantly affect internal controls
+subsequent to the date of our most recent evaluation, including any corrective
+actions with regard to significant deficiencies and material weaknesses.
+
+
+Dated: /s/ June 2, 2003                              By: /s/ RICK N. DIAMOND
+        -------------------                              -----------------------
+                                                         Rick N. Diamond
+                                                         Chief Executive Officer
+
+                                       51
+<PAGE>
+
+SECTION 302 CERTIFICATION
+-------------------------
+
+I, Russell Jackson, Principal Financial and Accounting Officer of ACI
+Telecentrics, Inc., certify that:
+
+1. I have reviewed this annual report on Form 10-K of ACI Telecentrics, Inc.;
+
+2. Based on my knowledge, this quarterly report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this quarterly
+report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this quarterly report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this quarterly report;
+
+4. The registrant's other certifying officers and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-14 and 15d-14) for the registrant and have:
+
+a) designed such disclosure controls and procedures to ensure that material
+information relating to the registrant, including its consolidated subsidiaries,
+is made known to us by others within those entities, particularly during the
+period in which this quarterly report is being prepared;
+
+b) evaluated the effectiveness of the registrant's disclosure controls and
+procedures as of a date within 90 days prior to the filing date of this
+quarterly report (the "Evaluation Date"); and
+
+c) presented in this quarterly report our conclusions about the effectiveness of
+the disclosure controls and procedures based on our evaluation as of the
+Evaluation Date;
+
+5. The registrant's other certifying officers and I have disclosed, based on our
+most recent evaluation, to the registrant's auditors and the audit committee of
+registrant's board of directors (or persons performing the equivalent
+functions):
+
+a) all significant deficiencies in the design or operation of internal controls
+which could adversely affect the registrant's ability to record, process,
+summarize and report financial data and have identified for the registrant's
+auditors any material weaknesses in internal controls; and
+
+b) any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal controls; and
+
+6. The registrant's other certifying officers and I have indicated in this
+quarterly report whether or not there were significant changes in internal
+controls or in other factors that could significantly affect internal controls
+subsequent to the date of our most recent evaluation, including any corrective
+actions with regard to significant deficiencies and material weaknesses.
+
+
+Dated: /s/ June 2, 2003           By: /s/ Russell Jackson
+       -------------------            --------------------------------
+                                      Russell Jackson
+                                      Principal Financial and Accounting Officer
+
+                                       52
+<PAGE>
+
+                                  EXHIBIT INDEX
+
+                             ACI TELECENTRICS, INC.
+
+                   FORM 10-K FOR YEAR ENDED DECEMBER 31, 2002
+
+EXHIBIT
+NUMBER                          DESCRIPTION
+
+3.1      Restated Articles of Incorporation (Incorporated by reference to
+         Exhibit 3.1 to Registration Statement on Form SB-2, SEC File No.
+         333-05370)
+
+3.2      Restated Bylaws (Incorporated by reference to Exhibit 3.2 to
+         Registration Statement on Form SB-2, SEC File No. 333-05370)
+
+4.1      Form of Stock Certificate (Incorporated by reference to Exhibit 4.1 to
+         Registration Statement on Form SB-2, SEC File No. 333-05370)
+
+4.2      Articles of Incorporation (filed as Exhibit 3.1)
+
+4.3      Bylaws (filed as Exhibit 3.2)
+
+10.1     1996 Stock Option Plan (Incorporated by reference to Exhibit 10.1 to
+         Registration Statement on Form SB-2, SEC File No. 333-05370)**
+
+10.2     1996 Employee Stock Purchase Plan (Incorporated by reference to Exhibit
+         10.2 to Registration Statement on Form SB-2, SEC File No. 333-05370)**
+
+10.3     Employment Agreement with Rick N. Diamond, dated June 30, 1996
+         (Incorporated by reference to Exhibit 10.3 to Registration Statement on
+         Form SB-2, SEC File No. 333-05370)**
+
+10.4     Employment Agreement with Gary B. Cohen, dated June 30, 1996
+         (Incorporated by reference to Exhibit 10.4 to Registration Statement on
+         Form SB-2, SEC File No. 333-05370)**
+
+10.5     Buy/Sell Agreement by and among Automated Communications, Incorporated,
+         Rick N. Diamond and Gary B. Cohen, dated June 30, 1996 (Incorporated by
+         reference to Exhibit 10.5 to Registration Statement on Form SB-2, SEC
+         File No. 333-05370)**
+
+10.6     Lease Agreement by and between ACKY-3100 Lake Limited Partnership and
+         Automated Communications, Incorporated, dated June 13, 1995
+         (Incorporated by reference to Exhibit 10.12 to Registration Statement
+         on Form SB-2, SEC File No. 333-05370)
+
+10.7     Sublease by and between Valley City-Barnes County Development
+         Corporation and Valley City Communications, Incorporated, dated April
+         24, 1995 (Incorporated by reference to Exhibit 10.13 to Registration
+         Statement on Form SB-2, SEC File No. 333-05370)
+
+10.8     Lease by and between Twin Valley-Ulen Telephone Company, Inc. and Twin
+         Valley Communications, Incorporated, dated September 1, 1993
+         (Incorporated by reference to Exhibit 10.15 to Registration Statement
+         on Form SB-2, SEC File No. 333-05370)
+
+10.9     Lease Agreement by and between Kay Barth and ACI Telecentrics,
+         Incorporated dated April 13, 1997. (Incorporated by reference to
+         Exhibit 10.31 to Form 10-KSB for the year ended December 31, 1998)
+
+                                       53
+<PAGE>
+
+EXHIBIT
+NUMBER                          DESCRIPTION
+
+10.10    Lease Agreement by and between C. H. Young, Trustee, and Mary M. Young,
+         Trustee and ACI Telecentrics dated September 5, l997. (Incorporated by
+         reference to Exhibit 10.32 to Form 10-KSB for the year ended December
+         31, 1998)
+
+10.11    Lease Agreement by and between Wilkinson Development, Inc. and ACI
+         Telecentrics, Incorporated dated September 9, 1997. (Incorporated by
+         reference to Exhibit 10.33 to Form 10-KSB for the year ended December
+         31, 1998)
+
+10.12    Memorandum of Understanding for Project #97-ED-008 between the Nebraska
+         Department of Economic Development, the City of Chadron Nebraska, Dawes
+         County Nebraska and ACI Telecentrics, Incorporated. (Incorporated by
+         reference to Exhibit 10.34 to Form 10-KSB for the year ended December
+         31, 1998)
+
+10.13    Memorandum of Understanding for Project # 97-ED-014 between Nebraska
+         Department of Economic Development, the City of Ogallala Nebraska and
+         ACI Telecentrics, Incorporated. (Incorporated by reference to Exhibit
+         10.35 to Form 10-KSB for the year ended December 31, 1998)
+
+10.14    Memorandum of Understanding for project # 97-ED-015 between Nebraska
+         Department of Economic Development, the City of Valentine Nebraska and
+         ACI Telecentrics, Incorporated. (Incorporated by reference to Exhibit
+         10.36 to Form 10-KSB for the year ended December 31, 1998)
+
+10.15    Lease Agreement by and between Lease Finance Group, Inc. and ACI
+         Telecentrics, Inc. dated October 19, 1999 (Incorporated by reference to
+         Exhibit 10.32 to Form 10-KSB for the year ended December 31,1999)
+
+10.16    Lease Agreement by and between DNS Investments, Inc. and ACI
+         Telecentrics, Inc. dated August 3, 1999 (Incorporated by reference to
+         Exhibit 10.33 to Form 10-KSB for the year ended December 31,1999)
+
+10.17    Lease Agreement by and between Lease Finance Group, Inc. and ACI
+         Telecentrics, Inc. dated March 20, 2000. (Incorporated by reference to
+         Exhibit 10.34 to Form 10-QSB for the quarter ended March 31, 2000)
+
+10.18    Lease Agreement by and between Investissements Rene St-Pierre Ltee and
+         ACI Telecentrics, Inc. dated April 13, 2000. (Incorporated by reference
+         to Exhibit 10.35 to Form 10-QSB for the quarter ended June 30, 2000)
+
+10.19    Financial Contribution Agreement by and between Investissement Quebec
+         and ACI Telecentrics, Inc. dated April 20, 2000. (Incorporated by
+         reference to Exhibit 10.36 to Form 10-QSB for the quarter ended June
+         30, 2000)
+
+10.20    Lease Agreement by and between Lease Finance Group, Inc. and ACI
+         Telecentrics, Inc. dated May 15, 2000. (Incorporated by reference to
+         Exhibit 10.1 to Form 10-QSB for the quarter ended September 30, 2000)
+
+10.21    Lease Agreement by and between CIT Financial LTD. and ACI Telecentrics,
+         Inc. dated December 13, 2000 (Incorporated by reference to Exhibit
+         10.39 to Form 10-KSB for the year ended December 31, 2000)
+
+                                       54
+<PAGE>
+
+EXHIBIT
+NUMBER                          DESCRIPTION
+
+10.23    Lease Agreement by and between 9G's+, Inc. and ACI Telecentrics, Inc.
+         dated November 23, 2000 (Incorporated by reference to Exhibit 10.40 to
+         Form 10-KSB for the year ended December 31, 2000)
+
+10.23    Financial Contribution Agreement by and between Investissement Quebec
+         and ACI Telecentrics, Inc. dated December 18, 2000 (Incorporated by
+         reference to Exhibit 10.41 to Form 10-KSB for the year ended December
+         31, 2000)
+
+21       Subsidiaries: Corporation ACI Telecentrics Du Quebec, Inc.
+
+23.1*    Consent of Lurie Besikof Lapidus & Company, LLP, independent public
+         accountants
+
+23.2*    Consent of Deloitte & Touche LLP, independent public accountants
+
+24*      Power of Attorney (included on signature page of this Report)
+
+99.1*    Section 906 Certification by Chief Executive Officer
+
+99.2*    Section 906 Certification by Principal Financial and Accounting Officer
+
+---------------------
+
+*        Filed herewith
+**       Indicates a management contract or compensatory plan or arrangement
+         required to be filed as an exhibit to the Form 10-K
+
+
+
+
+
+
+
+
+                                       55
+
+</TEXT>
+</DOCUMENT>

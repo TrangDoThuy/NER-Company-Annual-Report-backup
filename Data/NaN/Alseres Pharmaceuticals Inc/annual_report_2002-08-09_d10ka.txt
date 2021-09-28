@@ -1,0 +1,125 @@
+<DOCUMENT>
+<TYPE>10-K/A
+<SEQUENCE>1
+<FILENAME>d10ka.txt
+<DESCRIPTION>FORM 10-K/A--BOSTON LIFE SCIENCES INC
+<TEXT>
+<PAGE>
+
+================================================================================
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             Washington, D.C. 20549
+
+                              -------------------
+
+                                   FORM 10-K/A
+
+|X| ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT
+    OF 1934 FOR THE FISCAL YEAR ENDED DECEMBER 31, 2001
+
+                                       OR
+
+|_| TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+    ACT OF 1934 FOR THE TRANSITION PERIOD
+
+                          Commission file number 0-6533
+
+                           BOSTON LIFE SCIENCES, INC.
+             (Exact name of registrant as specified in its charter)
+
+                          DELAWARE                               87-0277826
+              (State or other jurisdiction of                (I.R.S. Employer
+               incorporation or organization)              Identification No.)
+
+          20 NEWBURY STREET, 5th FLOOR                         02116
+              BOSTON, MASSACHUSETTS                          (Zip Code)
+   (Address of principal executive offices)
+
+       Registrant's telephone number, including area code: (617) 425-0200
+
+        Securities registered pursuant to Section 12(b) of the Act: NONE
+
+           Securities registered pursuant to Section 12(g) of the Act:
+
+                     Common Stock, Par Value $.01 Per Share
+                        Warrants to Purchase Common Stock
+                       Rights to Purchase Preferred Stock
+                                (Title of Class)
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes |X| No |_|
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K ((ss.) 229.405 of this chapter) is not contained herein,
+and will not be contained, to the best of registrant's knowledge, in definitive
+proxy or information statements incorporated by reference in Part III of this
+Form 10-K or any amendment to this Form 10-K. |X|
+
+     Based on the last sales price of the Registrant's Common Stock as reported
+on the Nasdaq National Market on March 22, 2002, the aggregate market value of
+the 22,123,580 outstanding shares of voting stock held by nonaffiliates of the
+Registrant was $54,202,771.
+
+     As of March 22, 2002, there were 22,374,210 shares of the Registrant's
+Common Stock issued and outstanding.
+
+================================================================================
+
+<PAGE>
+
+                           BOSTON LIFE SCIENCES, INC.
+
+                          AMENDMENT NO. 2 TO FORM 10-K
+                      FOR THE YEAR ENDED DECEMBER 31, 2001
+
+      This Amendment No. 2 on Form 10-K/A amends the registrant's Annual Report
+on Form 10-K for the fiscal year ended December 31, 2001, as filed by the
+registrant on March 28, 2000 and as amended on April 30, 2002, and is being
+filed to amend and restate Exhibits 10.15 and 10.16 in their entirety.
+
+      PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+     (a) (3)  Exhibits
+
+The following exhibits replace those previously filed as exhibits to the Form
+10-K:
+
+EXHIBIT NO.  DESCRIPTION
+
+10.15        Manufacturing Agreement dated August 9, 2000 between Boston Life
+             Sciences, Inc. and MDS Nordion, Inc.*
+
+10.16        Amendment dated August 23, 2001 to Manufacturing Agreement dated
+             August 9, 2000 between Boston Life Sciences, Inc. and MDS Nordion,
+             Inc.
+
+* Confidential status has been requested for certain portions thereof pursuant
+to an Application for Confidential Treatment, which portions have been
+separately filed with the Securities and Exchange Commission.
+
+<PAGE>
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+                                         Boston Life Sciences, Inc.
+                                         (Registrant)
+
+August 9, 2002                           By: /s/ Mark E. Lanser
+                                            ------------------------------------
+                                                 Mark E. Lanser
+                                            Executive Vice President &
+                                              Chief Scientific Officer
+
+</TEXT>
+</DOCUMENT>

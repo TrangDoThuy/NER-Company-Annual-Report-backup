@@ -1,0 +1,1103 @@
+<DOCUMENT>
+<TYPE>10-K/A
+<SEQUENCE>1
+<FILENAME>ten-ka.txt
+<DESCRIPTION>10-K/A
+<TEXT>
+<PAGE>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                   FORM 10-K/A
+                                (AMENDMENT NO. 1)
+
+(Mark One)
+|X| ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+    ACT OF 1934
+                  For the fiscal year ended December 31, 2005
+
+                                       OR
+
+|_| TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES
+    EXCHANGE ACT OF 1934
+
+For the transition period from ____________________ to ________________________
+
+                        Commission file number 000-23157
+                                               ---------
+
+                         A.C. MOORE ARTS & CRAFTS, INC.
+             -----------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+<TABLE>
+<CAPTION>
+                            PENNSYLVANIA                                                  22-3527763
+   --------------------------------------------------------------            ------------------------------------
+<S>                                                                                            <C>
+   (State or other jurisdiction of incorporation or organization)            (I.R.S. Employer Identification No.)
+
+        130 A.C. MOORE DRIVE, BERLIN, NEW JERSEY                                            08009
+        ----------------------------------------                                          ----------
+        (Address of principal executive offices)                                          (Zip Code)
+</TABLE>
+
+
+       Registrant's telephone number, including area code: (856) 768-4930
+                                                           --------------
+
+        Securities registered pursuant to Section 12(b) of the Act: None
+                                                                    ----
+
+           Securities registered pursuant to Section 12(g) of the Act:
+                           Common stock, no par value
+                           --------------------------
+                                (Title of class)
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as
+defined in Rule 405 of the Securities Act |_| Yes     |X| No
+
+Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act. |_| Yes      |X| No
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. |X| Yes |_| No
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K (ss.229.405 of this Chapter) is not contained herein, and will
+not be contained, to the best of the registrant's knowledge, in definitive proxy
+or information statements incorporated by reference in Part III of this Form
+10-K or any amendment to this Form 10-K.  |X|
+
+Indicate by check mark whether the registrant is a large accelerated filer, an
+accelerated filer, or a non-accelerated filer. See definition of "accelerated
+filer and large accelerated filer" in Rule 12b-2 of the Exchange Act. (Check
+one):
+|_| Large accelerated filer   |X| Accelerated filer    |_| Non-accelerated filer
+
+Indicate by check mark whether the registrant is a shell company (as defined in
+Rule 12b-2 of the Act). |_| Yes     |X| No
+
+
+As of June 30, 2005, the aggregate market value of the voting stock held by
+non-affiliates of the registrant was approximately $485,000,000 based on $31.61,
+the closing price per share of the registrant's common stock on such date, as
+reported on the Nasdaq Stock Market. (1)
+
+
+The number of shares of the registrant's common stock outstanding as of March 6,
+2006 was 19,852,075.
+
+
+<PAGE>
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+None.
+
+-------------------------
+(1) The aggregate market value of the voting stock set forth above equals the
+number of shares of the registrant's common stock outstanding, reduced by the
+number of shares of common stock held by executive officers, directors and
+shareholders owning in excess of 10% of the registrant's common stock,
+multiplied by the last reported sale price for the registrant's common stock on
+the last business day of the registrant's most recently completed second fiscal
+quarter. The information provided shall in no way be construed as an admission
+that any person whose holdings are excluded from this figure is an affiliate of
+the registrant or that any person whose holdings are included in this figure is
+not an affiliate of the registrant and any such admission is hereby disclaimed.
+The information provided herein is included solely for record keeping purposes
+of the Securities and Exchange Commission.
+
+
+                                       2
+<PAGE>
+
+
+
+                                EXPLANATORY NOTE
+
+         This amendment on Form 10-K/A (Amendment No. 1) amends our annual
+report on Form 10-K for the fiscal year ended December 31, 2005, as filed with
+the Securities and Exchange Commission on March 13, 2006, and is being filed to
+include the information required by Part III of Form 10-K. The information
+required by Items 10 through 14 of Part III is no longer being incorporated by
+reference to our Proxy Statement. This amendment is not intended to update other
+information presented in the annual report as originally filed.
+
+
+
+
+                                       3
+<PAGE>
+
+
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+
+OUR DIRECTORS
+
+         The following table sets forth information, as of April 21, 2006,
+concerning our directors:
+<TABLE>
+<CAPTION>
+                                                                                            DIRECTOR       TERM
+              NAME                 AGE                      POSITION                       SINCE (1)      EXPIRES
+--------------------------------- ----  -----------------------------------------------    ----------     -------
+<S>                                <C>   <C>                                                  <C>          <C>
+William Kaplan...................  78   Chairman of the Board                                 1984         2006
+John E. ("Jack") Parker..........  64   Chief Executive Officer and Director                  1984         2006
+Richard J. Bauer.................  80   Director                                              1990         2007
+Richard J. Drake.................  72   Director                                              1984         2007
+Lawrence H. Fine.................  52   President, Chief Operating Officer and Director       2002         2008
+Michael J. Joyce.................  64   Director                                              2004         2007
+Richard Lesser ..................  71   Director                                              1993         2008
+Lori J. Schafer..................  43   Director                                              2005(2)      2006
+</TABLE>
+-----------------
+(1)  Includes service as a director of A.C. Moore Incorporated, our wholly-owned
+     operating subsidiary.
+(2)  On September 1, 2005, the Board of Directors, by resolution, appointed Lori
+     J. Schafer as a member of our Board of Directors.
+
+         The following information about our directors is based, in part, upon
+information supplied by such persons. Unless otherwise indicated, each
+individual has had the same principal occupation for more than five years.
+
+         Mr. Kaplan, our co-founder, has been the Chairman of our Board of
+Directors since inception. Mr. Kaplan also serves as the Chairman of the Board
+of Directors and an executive officer of Regal Bag Corporation, an importer and
+distributor of women's handbags and leather accessories, which he co-founded in
+1992.
+
+         Mr. Parker, our co-founder, has been our Chief Executive Officer and a
+director since inception and was our President from inception until June 2001.
+From 1959 to 1984, Mr. Parker worked for the F.W. Woolworth Company, a general
+merchandise retailer, in various management positions, most recently as
+President and Chief Executive Officer of the United States General Merchandise
+Group where he was responsible for more than 1,000 stores, including the entire
+domestic chain of Woolworth retail stores. Mr. Parker is the husband of Patricia
+A. Parker, our Executive Vice President, Merchandising, and the father of Janet
+Parker, our Executive Vice President, Merchandising and Marketing.
+
+         On November 28, 2005, Mr. Parker announced his intention to retire from
+his position as our Chief Executive Officer by December 31, 2006. Mr. Parker
+will continue to serve as our Chief Executive Officer during 2006 until the
+Board of Directors appoints a new Chief Executive Officer. Our Board of
+Directors has engaged the firm of Korn/Ferry International to conduct a search
+for a successor. The search will include internal as well as external
+candidates.
+
+
+                                       4
+<PAGE>
+
+         Mr. Bauer has been a member of our Board of Directors since September
+1990. Mr. Bauer is the Chairman and Chief Executive Officer of Eastern Alloys,
+Inc., an independent zinc alloyer, which he founded in 1965. Mr. Bauer is the
+co-founder and current Chairman of the Board of Service Aluminum Corporation, an
+aluminum trading company.
+
+         Mr. Drake has been a member of our Board of Directors since our
+founding. Since March 2006, he has been a member of Drake, Loeb, Heller,
+Kennedy, Gogerty, Gaba & Rodd, P.L.L.C., a professional limited liability
+company which renders legal services. From June 1978 to March 2006, he was the
+Chairman of Drake, Sommers, Loeb, Tarshis, Catania & Liberth, P.L.L.C., a
+professional limited liability company which rendered legal services.
+
+         Mr. Fine has been a member of our Board of Directors since August 2002.
+Mr. Fine has served as our President since June 2001 and our Chief Operating
+Officer since February 2003. Previously Mr. Fine was Executive Vice President -
+General Merchandise Manager for arts and crafts retailer Michaels Stores, Inc.,
+a position he held since November 1996. From 1995 until joining Michaels in
+November 1996, he was Senior Vice President of Merchandising for Party City
+Corp., a specialty retailer of party merchandise. Prior to joining Party City,
+Mr. Fine held a variety of merchandising positions with the Jamesway
+Corporation, a retail mass-merchandiser, for nearly 16 years.
+
+         Mr. Joyce has been a member of our Board of Directors since June 2004.
+From 1975 through May 2004, Mr. Joyce was a partner in the public accounting
+firm of Deloitte & Touche, LLP and served as the New England Managing Partner
+from May 1995 until his retirement in May 2004. Mr. Joyce is a director of each
+of Brandywine Realty Trust, a New York Stock Exchange traded real estate
+investment trust, Heritage Property Investment Trust, Inc., a New York Stock
+Exchange traded real estate investment trust, and Allegheny Technologies
+Incorporated, a New York Stock Exchange traded specialty materials producer.
+
+         Mr. Lesser has been a member of our Board of Directors since March
+1993. He was a Senior Corporate Adviser to The TJX Companies, Inc., a New York
+Stock Exchange traded retail company, from December 2001 until his retirement in
+February 2005. He served as The TJX Companies' Executive Vice President from
+1991 until December 2001 and Chief Operating Officer from 1994 to 1999. Mr.
+Lesser also served as the Chairman of The Marmaxx Group, a division of The TJX
+Companies that operates TJ Maxx and Marshalls, from February 2001 to December
+2001 and was President of The Marmaxx Group from 1995 through 2001. Mr. Lesser
+held various other executive and merchandising positions with The TJX Companies
+from 1981 to 1993. Mr. Lesser is a director of The TJX Companies and Dollar Tree
+Stores, Inc., a Nasdaq traded retail company.
+
+         Ms. Schafer has been a member of our Board of Directors since September
+2005. Ms. Schafer has served as the President of Marketmax, Inc., the retail
+division of SAS Institute, Inc., a provider of business intelligence software
+and analytics, since SAS' acquisition of Marketmax in October 2003. From October
+1996 to October 2003, Ms. Schafer served as Marketmax's Chairman, President and
+Chief Executive Officer. Prior to October 1996, Ms. Schafer held various
+positions at The Procter & Gamble Company, a New York Stock Exchange traded
+provider of consumer products. Ms. Schafer is a director of Trans World
+Entertainment Corporation, a Nasdaq traded retail company, and geoVue, Inc., a
+private intelligence software provider.
+
+AUDIT COMMITTEE AND AUDIT COMMITTEE FINANCIAL EXPERT
+
+         Our Board of Directors has a separately-designated standing Audit
+Committee. The current members of the Audit Committee are Messrs. Bauer and
+Joyce (Chairman) and Ms. Schafer. Ms. Schafer was appointed to the Audit
+Committee in September 2005. Mr. Lesser served as a member of the Audit
+
+
+                                       5
+<PAGE>
+
+Committee during 2005 and resigned from his position as a member of the Audit
+Committee in September 2005. The Board of Directors has determined that Mr.
+Joyce qualifies as an "audit committee financial expert" as that term is defined
+in SEC regulations.
+
+DIRECTOR NOMINATION PROCESS
+
+         Director Qualifications. Nominees for director will be selected on the
+basis of outstanding achievement in their careers; broad experience; education;
+independence under applicable Nasdaq Stock Market and SEC rules; financial
+expertise; integrity; financial integrity; ability to make independent,
+analytical inquiries; understanding of the business environment; and willingness
+to devote adequate time to Board of Directors and committee duties. Nominees
+should also have experience in the retail industry and knowledge about the
+issues affecting the retail industry. Finally, the proposed nominee should be
+free of conflicts of interest that could prevent such nominee from acting in the
+best interest of shareholders. Additional special criteria apply to directors
+being considered to serve on a particular committee of the Board of Directors.
+For example, members of the Audit Committee must meet additional standards of
+independence and have the ability to read and understand our financial
+statements.
+
+         Director Nominee Selection Process. In the case of an incumbent
+director whose term of office expires, the Nominating and Corporate Governance
+Committee reviews such director's service to us during the past term, including,
+but not limited to, the number of board and committee meetings attended, as
+applicable, quality of participation and whether the candidate continues to meet
+the general qualifications for a director outlined above, including the
+director's independence, as well as any special qualifications required for
+membership on any committees on which such director serves.
+
+         In the case of a new director candidate, the selection process for
+director candidates includes the following steps:
+
+         o  identification of director candidates by the Nominating and
+            Corporate Governance Committee based upon suggestions from current
+            directors and executives and recommendations received from
+            shareholders;
+
+         o  possible engagement of a director search firm;
+
+         o  interviews of candidates by the Nominating and Corporate Governance
+            Committee;
+
+         o  reports to the Board of Directors by the Nominating and Corporate
+            Governance Committee on the selection process;
+
+         o  recommendations by the Nominating and Corporate Governance
+            Committee; and
+
+         o  formal nominations by the Board of Directors for inclusion in the
+            slate of directors at the annual meeting.
+
+         The Nominating and Corporate Governance Committee will consider
+recommending properly submitted shareholder nominations for director candidates.
+Director candidates recommended by shareholders are given the same consideration
+by the Nominating and Corporate Governance Committee as candidates suggested by
+directors and executive officers.
+
+         Consideration of Director Candidates Recommended by Shareholders. A
+shareholder who wishes to recommend a prospective director nominee should submit
+their recommendation to the Chairman of the Nominating and Corporate Governance
+
+                                       6
+<PAGE>
+
+
+
+Committee in writing c/o A.C. Moore Arts & Crafts, Inc., 130 A.C. Moore Drive,
+Berlin, New Jersey 08009. The following information must be included in or
+attached to the letter:
+
+         o  the name and address of the shareholder making the recommendation
+            and each recommended nominee;
+
+         o  a representation that the shareholder is a holder of record of our
+            capital stock entitled to vote at such meeting and intends to appear
+            in person or by proxy at the meeting to vote for the person or
+            persons recommended for nomination;
+
+         o  a description of all arrangements and understandings between the
+            shareholder and each recommended nominee and any other person or
+            persons (naming such person or persons) pursuant to which the
+            recommendation was made by the shareholder;
+
+         o  such other information regarding each recommended nominee as would
+            be required to be included in a proxy statement filed pursuant to
+            the proxy rules of the SEC if the nominee were to be nominated by
+            the Board of Directors; and
+
+         o  the consent of each recommended nominee to serve as a director of us
+            if so nominated and elected.
+
+         Shareholder recommendations of director nominees for our 2007 annual
+meeting of shareholders must be received not less than 120 calendar days before
+the date of our proxy statement relating to our 2006 annual meeting of
+shareholders. All shareholder recommendations which are late will be rejected.
+
+         In addition, under our bylaws, shareholders are permitted to nominate
+directors to be elected at a meeting of shareholders by providing notice and the
+other required information specified in the bylaws. Our bylaws are available, at
+no cost, at the SEC's website, www.sec.gov, as Exhibit 3.3 to our Form 8-K filed
+on August 27, 2004 or upon the shareholder's written request to Leslie H.
+Gordon, A.C. Moore Arts & Crafts, Inc., 130 A.C. Moore Drive, Berlin, New Jersey
+08009. Nominations with respect to our 2007 annual meeting of shareholders must
+be received not less than 120 calendar days before the date of our proxy
+statement relating to our 2006 annual meeting of shareholders. All late or
+non-conforming nominations will be rejected.
+
+OUR EXECUTIVE OFFICERS WHO ARE NOT ALSO DIRECTORS
+
+         The following table sets forth information, as of April 21, 2006,
+concerning our executive officers who are not also directors:
+<TABLE>
+<CAPTION>
+                 NAME                     AGE                      POSITION
+--------------------------------------   ----    -----------------------------------------------------
+<S>                                       <C>     <C>
+Patricia A. Parker....................    63     Executive Vice President, Merchandising
+Leslie H. Gordon......................    62     Executive Vice President and Chief Financial Officer
+Janet Parker .........................    43     Executive Vice President, Merchandising and Marketing
+Jeffrey C. Gerstel.................       42     Executive Vice President, Store Operations
+</TABLE>
+
+         Ms. Patricia Parker has served as our Executive Vice President,
+Merchandising since September 1990. From 1985 to 1990, she served as our Vice
+President. Ms. Parker is responsible for purchasing all of our floral and
+seasonal merchandise and our import purchasing program. Ms. Parker served as a
+director of us until August 2002. Ms. Parker is the wife of Jack Parker and the
+mother of Janet Parker.
+
+                                       7
+<PAGE>
+
+
+         Mr. Gordon has served as our Executive Vice President and Chief
+Financial Officer since February 1999. From March 1996 to January 1999, Mr.
+Gordon served as our Senior Vice President, Treasurer and Chief Financial
+Officer. From 1992 to 1995, Mr. Gordon was Senior Vice President, Finance of C &
+J Clark America, Inc., a shoe manufacturer, wholesaler and retailer. From 1986
+to 1992, Mr. Gordon served as Senior Vice President, Finance, of SILO, Inc., an
+electronics retailer.
+
+         Ms. Janet Parker has served as our Executive Vice President,
+Merchandising and Marketing since February 2003. From 2001 to January 2003 Ms.
+Parker served as our Senior Vice President, Merchandising and Marketing and from
+1994 to 2001 Ms. Parker served as our Senior Vice President, Merchandising. From
+1990 to 1994, Ms. Parker served as our Vice President of Administration and from
+1985 to 1990, she served as our Accounting Manager. Ms. Parker is the daughter
+of Jack and Patricia A. Parker.
+
+         Mr. Gerstel has served as our Executive Vice President, Store
+Operations since January 2005. Previously Mr. Gerstel was President/Chief
+Operating Officer for fabrics and crafts retailer Rag Shops, Inc., a position he
+held since 2001. From 1999 until joining Rag Shops in 2001, he was Chief
+Operating Officer for The Parts Plus Group, Inc., a distributor/retailer of
+automotive replacement parts, and from 1997 to 1999 he was their Chief Financial
+Officer. In March 2003, The Parts Plus Group, Inc. filed a voluntary petition
+for reorganization under Chapter 11 of the U.S. Bankruptcy Code. Prior to
+joining The Parts Plus Group, Mr. Gerstel held a variety of financial and
+operating positions with Family Bargain Corporation, an off-price apparel
+retailer, for seven years.
+
+SECTION 16(A) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+
+         Section 16(a) of the Exchange Act requires our directors and executive
+officers, and persons who beneficially own more than ten percent of our common
+stock, no par value (the "Common Stock") to file with the SEC initial reports of
+ownership and reports of changes in ownership of the Common Stock and other
+equity securities. Executive officers, directors and greater than ten percent
+shareholders are required by regulation of the SEC to furnish us with copies of
+all Section 16(a) reports they file.
+
+         To our knowledge, based solely on a review of the copies of such
+reports furnished to us and written representations that no other reports were
+required during 2005, all Section 16(a) filing requirements applicable to our
+executive officers, directors and greater than ten-percent beneficial owners
+were complied with during 2005.
+
+CODE OF ETHICS
+
+         We have adopted a Code of Business Ethics and Conflict of Interest
+Policy that applies to all of our directors and employees including, without
+limitation, our principal executive officer, our principal financial officer,
+our principal accounting officer and all of our employees performing similar
+functions. Our Code of Business Ethics and Conflict of Interest Policy is
+available on our website, located at www.acmoore.com/corporate.asp. We intend to
+satisfy the disclosure requirement under Item 5.05 of Form 8-K regarding an
+amendment to a provision of our Code of Business Ethics and Conflict of Interest
+Policy by posting such information on our website at the location specified
+above.
+
+         The information on the website listed above is not, and should not be,
+considered part of this Amendment No. 1 to Annual Report on Form 10-K/A and is
+not incorporated by reference in this document. This website is, and is only
+intended to be, an inactive textual reference.
+
+                                       8
+<PAGE>
+
+ITEM 11. EXECUTIVE COMPENSATION.
+
+COMPENSATION OF EXECUTIVE OFFICERS
+
+         SUMMARY COMPENSATION TABLE
+
+         The following table sets forth the compensation earned during each of
+the last three years by our Chief Executive Officer and the four other most
+highly compensated executive officers (collectively, the "Named Executive
+Officers") whose aggregate salaries and bonuses exceeded $100,000 for services
+rendered in all capacities to us during 2005:
+
+<TABLE>
+<CAPTION>
+                                                                          LONG-TERM
+                                              ANNUAL COMPENSATION       COMPENSATION
+                                             ----------------------     ------------
+                                                                         SECURITIES
+                                                                         UNDERLYING          ALL OTHER
+  NAME AND PRINCIPAL POSITION     YEAR        SALARY         BONUS         OPTIONS          COMPENSATION
+-----------------------------     ----       ---------       ------      -----------        -------------
+<S>                                <C>            <C>          <C>            <C>                   <C>
+Jack Parker..................     2005       $ 380,000       $   --             --             $ 54,606(1)
+Chief Executive Officer           2004         280,000           --             --               50,141
+                                  2003         380,000           --             --               46,141
+
+Lawrence H. Fine.............     2005       $ 350,000       $   --         25,000             $  1,500(2)
+President and                     2004         350,000           --         50,000                1,500
+Chief Operating Officer           2003         350,000           --        100,000                1,500
+
+Leslie H. Gordon.............     2005       $ 244,625       $   --         15,000             $  1,500(2)
+Executive Vice President and      2004         244,625           --         15,000                1,500
+Chief Financial Officer           2003         244,625           --         20,000                1,500
+
+Patricia A. Parker...........     2005       $ 215,000       $   --          7,500             $  2,285(3)
+Executive Vice President,         2004         215,000           --             --                2,285
+Merchandising                     2003         215,000           --         10,000                2,285
+
+Jeffrey C. Gerstel (4).......     2005       $ 197,596       $   --         22,500             $  1,500(2)
+Executive Vice President,
+Store Operations
+</TABLE>
+------------------------
+(1)  Includes (i) $53,106 of life insurance premiums paid by us and (ii) $1,500
+     annual contribution by us pursuant to our 401(k) Plan.
+(2)  Represents annual contribution by us pursuant to our 401(k) Plan.
+(3)  Includes (i) $785 of life insurance premiums paid by us and (ii) $1,500
+     annual contribution by us pursuant to our 401(k) Plan.
+(4)  Mr. Gerstel joined us on January 10, 2005.
+
+
+                                       9
+
+<PAGE>
+
+         OPTION GRANTS IN LAST FISCAL YEAR
+
+         The following table sets forth certain information concerning stock
+options granted during 2005 to the Named Executive Officers. All options were
+granted at the fair market value of the Common Stock on the date of grant and
+become exercisable in three equal annual installments beginning one year after
+the date of grant.
+<TABLE>
+<CAPTION>
+                                                 INDIVIDUAL GRANTS
+                                ------------------------------------------------------------
+                                                                                                 POTENTIAL REALIZABLE VALUE
+                                                    PERCENT OF                                   AT ASSUMED ANNUAL RATES OF
+                                                      TOTAL                                    STOCK PRICE APPRECIATION FOR
+                                    NUMBER OF        OPTIONS                                          OPTION TERM(1)
+                                    SECURITIES      GRANTED TO      EXERCISE                   -----------------------------
+                                    UNDERLYING     EMPLOYEES IN     PRICE        EXPIRATION
+             NAME                OPTIONS GRANTED    FISCAL YEAR    ($/SHARE)        DATE              5%         10%
+-------------------------------  ---------------   -------------  ----------    ------------      --------     -------
+<S>                                     <C>              <C>           <C>            <C>             <C>         <C>
+Jack Parker....................           --             --            --               --              --          --
+Lawrence H. Fine...............       25,000(2)        11.0%        $23.51       8/26/2015        $369,750     $936,750
+Leslie H. Gordon...............       15,000(2)         6.6          23.51       8/26/2015         221,850      562,050
+Patricia A. Parker.............        7,500(2)         3.3          23.51       8/26/2015         110,925      281,025
+Jeffrey C. Gerstel.............       15,000(3)         6.6          27.15       1/10/2015         256,117      649,052
+                                       7,500(2)         3.3          23.51       8/26/2015         110,925      201,025
+</TABLE>
+--------------
+(1)  This column shows the hypothetical gain or option spreads of the options
+     granted based on assumed annual compound stock appreciation rates of 5% and
+     10% over the full term of the options. The 5% and 10% assumed rates of
+     appreciation are mandated by the rules of the SEC and do not represent our
+     estimate or projection of future Common Stock prices. The gains shown are
+     net of the option exercise price, but do not include deductions for taxes
+     or other expenses associated with the exercise of the option or the sale of
+     the underlying shares, or reflect non-transferability, vesting or
+     termination provisions. The actual gains, if any, on the exercise of stock
+     options will depend on the future performance of the Common Stock.
+
+(2)  This option was granted on August 26, 2005.
+
+(3)  This option was granted on January 10, 2005.
+
+
+         AGGREGATED OPTION EXERCISES IN LAST FISCAL YEAR AND FISCAL YEAR-END
+         OPTION VALUES
+
+         The following table sets forth certain information concerning the
+number and value of unexercised options to purchase Common Stock held at the end
+of 2005 by the Named Executive Officers.
+<TABLE>
+<CAPTION>
+
+                                                               NUMBER OF SECURITIES          VALUE OF UNEXERCISED
+                                                              UNDERLYING UNEXERCISED       IN-THE MONEY OPTIONS AT
+                                                            OPTIONS AT FISCAL YEAR END       FISCAL YEAR END (1)
+                                                           ---------------------------- ---------------------------
+                                SHARES
+                             ACQUIRED ON
+            NAME               EXERCISE   VALUE REALIZED   EXERCISABLE   UNEXERCISABLE   EXERCISABLE  UNEXERCISABLE
+ --------------------------- -----------  --------------   -----------   -------------   -----------  -------------
+  <S>                              <C>          <C>             <C>           <C>             <C>          <C>
+ Jack Parker................        --             --              --           --               --         --
+ Lawrence H. Fine...........    10,000     $  147,316         184,167       91,668         $204,759         --
+ Leslie H. Gordon...........    52,000      1,134,680          38,333       31,667               --         --
+ Patricia A. Parker.........        --             --          51,666       10,834          392,650         --
+ Jeffrey C. Gerstel.........        --             --              --       22,500               --         --
+</TABLE>
+
+--------------
+(1)  Based upon the latest reported sale price on the Nasdaq National Market on
+     December 31, 2005 ($14.55 per share) less the option exercise price.
+
+                                       10
+<PAGE>
+
+         2006 BONUS PLAN
+
+         On February 20, 2006, the Compensation Committee of our Board of
+Directors approved the 2006 Bonus Plan, which is not set forth in a written
+agreement, for certain management-level employees, including the Named Executive
+Officers. Under the 2006 Bonus Plan, if we achieve certain pre-tax profit
+targets approved by the Compensation Committee, we will pay bonuses to eligible
+participants at pre-determined amounts which increase as our pre-tax profit
+increases. The amounts paid to eligible participants vary based upon that
+participant's job responsibility. The pre-tax profit targets approved by the
+Compensation Committee are based on our net income.
+
+         2005 BONUS PLAN
+
+         On April 19, 2005, the Compensation Committee approved the 2005 Bonus
+Plan, which is not set forth in a written agreement, for certain
+management-level employees, including the Named Executive Officers. Under the
+2005 Bonus Plan, if the Company achieved certain pre-tax profit targets approved
+by the Compensation Committee, the Company would pay bonuses to eligible
+participants at pre-determined amounts which increase as the Company's pre-tax
+profit increases. The amounts paid to eligible participants vary based upon that
+participant's job responsibility. The pre-tax profit targets approved by the
+Compensation Committee were based on the Company's pre-tax profit before any
+potential impact from the expensing of stock-based compensation as a result of
+FASB Statement No. 123(R). None of our executive officers received bonus
+compensation under the 2005 Bonus Plan because we did not meet the targets
+approved by the Compensation Committee.
+
+         SEVERANCE ARRANGEMENT
+
+         We have agreed to pay Mr. Gordon a sum equal to one year of his then
+current salary if his employment is terminated by us without cause.
+
+         STOCK OPTION PLANS
+
+         Our stock option plans consist of the 2002 Stock Option Plan (the "2002
+Plan") and the 1997 Employee, Director and Consultant Stock Option Plan (the
+"1997 Plan") (each, a "Plan" and together, the "Option Plans"). The purpose of
+the Option Plans is to encourage ownership of the Common Stock by our employees
+and directors (and by certain consultants in the case of the 1997 Plan) in order
+to attract such persons, induce them to work for our benefit and provide
+additional incentive for them to promote our success. Options granted under each
+Plan may be incentive stock options intended to qualify under Section 422 of the
+Internal Revenue Code of 1986, as amended, or options not intended to so
+qualify, except that incentive stock options may only be granted to employees.
+The maximum total number of shares of the Common Stock for which awards may be
+granted under the 2002 Plan and 1997 Plan is 1,500,000 and 2,000,000 shares,
+respectively, subject to adjustment in a manner determined by the Compensation
+Committee of the Board of Directors to reflect changes in the Common Stock.
+Payment of the exercise price for options granted under the Option Plans may be
+made in cash, shares of Common Stock or a combination of both. All options
+granted pursuant to the Plans are exercisable in accordance with a vesting
+schedule and prior to an expiration date, each of which are set at the time of
+the issuance of the option.
+
+         As of December 31, 2005, there were options to purchase 858,266 and
+626,801 shares of Common Stock outstanding under the 2002 Plan and 1997 Plan,
+respectively. Shares available for future grants under the 2002 Plan and 1997
+Plan amounted to 627,283 and 9,877 shares, respectively, as of December 31,
+2005.
+
+                                       11
+<PAGE>
+
+         All, directors, officers and key employees (and certain consultants in
+the case of the 1997 Plan) are eligible to receive options under the Option
+Plans. The Options Plans are administered by the Compensation Committee or, at
+the option of the Board of Directors, the Board of Directors may administer the
+Option Plans. The Compensation Committee approves the optionees and determines
+the nature of the option granted, the number of shares subject to each option,
+the option vesting schedule and other terms and conditions of each option. The
+Compensation Committee may modify or amend each Plan, provided that without the
+consent of the participant, such action may not affect a participant's rights
+under previously granted options. With the consent of a participant, the
+Compensation Committee may amend outstanding options in a manner not
+inconsistent with the applicable Plan.
+
+COMPENSATION OF DIRECTORS
+
+         In 2005, the compensation payable to all of our non-employee directors,
+other than William Kaplan, was as follows:
+
+         o  An annual cash retainer of $30,000;
+
+         o  An additional annual cash retainer of $12,500 for the chair of the
+            Audit Committee and $5,000 for each other member of the Audit
+            Committee;
+
+         o  An additional annual cash retainer of $5,000 for the chair of the
+            Compensation Committee and $2,500 for each other member of the
+            Compensation Committee;
+
+         o  An additional annual cash retainer of $3,500 for the chair of the
+            Nominating and Corporate Governance Committee and $2,500 for each
+            other member of the Nominating and Corporate Governance Committee;
+            and
+
+         o  An additional annual cash retainer of $100,000 for our former Lead
+            Director, Eli J. Segal.
+
+Mr. Kaplan did not receive any compensation in 2005 for serving as a member of
+our Board of Directors. Ms. Schafer's compensation was pro-rated based upon the
+portion of the year during which she served as a director.
+
+         Effective January 1, 2006, the compensation payable to all of our
+non-employee directors is as follows:
+
+         o  An annual cash retainer of $30,000;
+
+         o  An additional annual cash retainer of $15,000 for the chair of the
+            Audit Committee and $5,000 for each other member of the Audit
+            Committee;
+
+         o  An additional annual cash retainer of $5,000 for the chair of the
+            Compensation Committee and $2,500 for each other member of the
+            Compensation Committee; and
+
+         o  An additional annual cash retainer of $3,500 for the chair of the
+            Nominating and Corporate Governance Committee and $2,500 for each
+            other member of the Nominating and Corporate Governance Committee.
+
+Michael J. Joyce will also receive a $25,000 fee in 2006 for his services as
+chair of the board committee conducting a search for our new Chief Executive
+Officer. Eli J. Segal, Lead Director, passed away on February 20, 2006. In
+
+
+                                       12
+<PAGE>
+
+
+consideration of Mr. Segal's prior services as our Lead Director, on March 9,
+2006, the Board of Directors approved an award to Mr. Segal's estate of a death
+benefit equal to $50,000 in cash. In addition, the Board of Directors agreed to
+have us continue to pay the expenses related to Mr. Segal's secretary for a
+period of two months from the date of his death.
+
+       Stock Options. Messrs. Bauer, Drake, Joyce, Lesser and Segal and Ms.
+Schafer, each a non-employee director of us in 2005, were each granted an option
+to acquire 10,000 shares of Common Stock in 2005 under our 2002 Stock Option
+Plan. In 2006, non-employee directors will each receive an annual stock option
+grant pursuant to our 2002 Stock Option Plan. The amount of shares subject to
+the option grant and the exercise price are expected to be determined by the
+Compensation Committee of the Board of Directors in August 2006.
+
+COMPENSATION COMMITTEE INTERLOCKS AND INSIDER PARTICIPATION
+
+         The Compensation Committee of our Board of Directors consisted of
+Messrs. Bauer, Joyce, Lesser and Segal in 2005. No person who served as a member
+of the Compensation Committee during 2005 was a current or former officer or
+employee of us or, except as described below in Item 13 of this Form 10-K/A,
+engaged in certain transactions with us required to be disclosed by regulations
+of the SEC. Additionally, there were no compensation committee "interlocks"
+during 2005, which generally means that none of our executive officers served as
+a director or member of the compensation committee of another entity, one of
+whose executive officers served as a director or member of the Compensation
+Committee of our Board of Directors.
+
+
+
+
+
+                                       13
+
+<PAGE>
+
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND
+         RELATED STOCKHOLDER MATTERS.
+
+         The following table sets forth, as of April 21, 2006, certain
+information with respect to the beneficial ownership of the Common Stock by (i)
+each person who is known by us to be the beneficial owner of more than 5% of the
+Common Stock, (ii) each of our directors, (iii) each of our executive officers
+named in the Summary Compensation Table and (iv) all of our directors and
+executive officers as a group. Except as otherwise indicated, to our knowledge,
+the beneficial owners of the Common Stock listed below have sole investment and
+voting power with respect to such shares.
+<TABLE>
+<CAPTION>
+                                                             SHARES BENEFICIALLY OWNED(1)
+                                                             -----------------------------
+            NAME OF BENEFICIAL OWNER                             NUMBER          PERCENT
+-----------------------------------------------------        --------------     ----------
+<S>                                                            <C>                 <C>
+William Kaplan (2)...................................          2,000,000(3)        10.1%
+Jack Parker (2)......................................          2,192,899(4)        11.0
+Patricia A. Parker ..................................             51,666(5)         *
+Lawrence H. Fine.....................................            201,670(6)         1.0
+Leslie H. Gordon.....................................             73,333(7)         *
+Jeffrey C. Gerstel...................................              7,253(8)         *
+Richard J. Bauer.....................................             93,667(9)         *
+Richard J. Drake.....................................            120,667(10)        *
+Michael J. Joyce.....................................              3,333(11)        *
+Richard Lesser.......................................            100,667(12)        *
+Lori J. Schafer......................................                  0            *
+T. Rowe Price Associates, Inc.
+  T. Rowe Price New Horizons Fund, Inc...............          2,040,760(13)       10.3
+The Bank of New York Co., Inc.
+  The Bank of New York...............................          2,046,907(14)       10.3
+Massachusetts Financial Services Company ............          2,408,590(15)       12.1
+William Kaplan 2006 GRAT.............................          1,740,699(16)        8.8
+All executive officers and
+  directors as a group (12 persons)..................          4,954,111(17)       24.1%
+</TABLE>
+
+-----------------
+*  Denotes less than 1%.
+
+(1)  Beneficial ownership is determined in accordance with the rules of the SEC
+     and includes voting or investment power with respect to the Common Stock.
+     Shares of Common Stock issuable upon the exercise of securities currently
+     exercisable or exercisable within 60 days of April 21, 2006 are deemed
+     outstanding for computing the share ownership and percentage ownership of
+     the person holding such securities, but are not deemed outstanding for
+     computing the percentage of any other person.
+
+(2)  The address of each of Messrs. Kaplan and Parker is c/o, A.C. Moore Arts &
+     Crafts, Inc., 130 A.C. Moore Drive, Berlin, New Jersey 08009.
+
+(3)  Includes: (i) 259,301 shares held by the William Kaplan 2005 GRAT (the
+     "2005 GRAT") and (ii) 1,740,699 shares held by the William Kaplan 2006 GRAT
+     (the "2006 GRAT" and together with the 2005 GRAT, the "GRATs"). Mr. Kaplan
+     is the Investment Trustee of the GRATs, in which capacity Mr. Kaplan has
+     the sole power to vote and dispose of the shares owned of record by the
+     GRATs.
+
+(4)  Does not include 51,666 shares subject to presently exercisable options
+     owned by Patricia A. Parker, Mr. Parker's spouse, as to which Mr. Parker
+     disclaims beneficial ownership.
+
+(5)  Includes 51,666 shares subject to presently exercisable options. Does not
+     include 2,192,899 shares owned of record by Jack Parker, Ms. Parker's
+     spouse, as to which Ms. Parker disclaims beneficial ownership.
+
+
+                                       14
+<PAGE>
+
+
+(6)  Includes: (i) 161,666 shares subject to presently exercisable options, (ii)
+     4 shares of Common Stock allocated to Mr. Fine's account under A.C. Moore's
+     401(k) Plan and (iii) 600 shares held in custody for the benefit of Mr.
+     Fine's child for which Mr. Fine is custodian. This information related to
+     the 401(k) Plan is based on a plan statement dated as of March 31, 2006.
+
+(7)  Includes 38,333 shares subject to presently exercisable options.
+
+(8)  Includes: (i) 5,000 shares subject to presently exercisable options and
+     (ii) 253 shares of Common Stock allocated to Mr. Gerstel's account under
+     A.C. Moore's 401(k) Plan. This information related to the 401(k) Plan is
+     based on a plan statement dated as of March 31, 2006.
+
+(9)  Includes 90,667 shares subject to presently exercisable options. Does not
+     include 9,800 shares owned of record by Mr. Bauer's spouse, as to which Mr.
+     Bauer disclaims beneficial ownership.
+
+(10) Includes: (i) 116,667 shares subject to presently exercisable options and
+     (ii) 4,000 shares held jointly with his spouse.
+
+(11) Includes 3,333 shares subject to presently exercisable options.
+
+(12) Includes 100,667 shares subject to presently exercisable options.
+
+(13) Information with respect to T. Rowe Price Associates, Inc. ("Price
+     Associates") is derived from Price Associates' Schedule 13G/A relating to
+     A.C. Moore filed with the SEC. The address of Price Associates is 100 E.
+     Pratt Street, Baltimore, Maryland 21202. These securities are owned by
+     various individual and institutional investors including T. Rowe Price New
+     Horizons Fund, Inc. (which owns 1,000,000 shares representing 5.0% of the
+     shares outstanding), which Price Associates serves as investment adviser
+     with power to direct investments and/or sole power to vote the securities.
+     For purposes of the reporting requirements of the Exchange Act, Price
+     Associates is deemed to be a beneficial owner of such securities; however,
+     Price Associates expressly disclaims that it is, in fact, the beneficial
+     owner of such securities.
+
+(14) Based solely on a Schedule 13G/A filed with the SEC on February 15, 2006 by
+     The Bank of New York Co., Inc. and The Bank of New York (collectively,
+     "BNY"). The filing indicates that, as of December 31, 2005, BNY had sole
+     voting power for no shares, shared voting power for 2,046,907 shares, sole
+     dispositive power for no shares and shared dispositive power for 2,046,907
+     shares. The address of BNY is One Wall Street, New York, New York 10004.
+
+(15) Based solely on a Schedule 13G/A filed with the SEC on February 10, 2006 by
+     Massachusetts Financial Services Company ("MFS"). The filing indicates
+     that, as of December 31, 2005, MFS had sole voting power for 2,351,010
+     shares, shared voting power for no shares, sole dispositive power for
+     2,408,590 shares and shared dispositive power for no shares. The filing
+     also indicates that shares reported as beneficially owned by MFS are also
+     beneficially owned by certain other non-reporting entities. The address of
+     MFS is 500 Boylston Street, Boston, Massachusetts 02116.
+
+(16) The address of the William Kaplan 2006 GRAT is c/o Anne L. Stallman, V.P.,
+     J.P. Morgan Trust Company of Delaware, 500 Stanton Christiana Road, Newark,
+     Delaware 19713. William Kaplan is the Investment Trustee of the William
+     Kaplan 2006 GRAT, in which capacity Mr. Kaplan has the sole power to vote
+     and dispose of the shares owned of record by the William Kaplan 2006 GRAT.
+
+(17) Includes 667,999 shares subject to presently exercisable options and 7,213
+     shares of Common Stock allocated to the accounts of our executive officers
+     under our 401(k) Plan.
+
+
+                                       15
+<PAGE>
+
+EQUITY COMPENSATION PLAN INFORMATION
+
+         The following table details information regarding our existing equity
+compensation plans as of December 31, 2005:
+<TABLE>
+<CAPTION>
+                                                                                                          (C)
+                                                        (A)                                       NUMBER OF SECURITIES
+                                                NUMBER OF SECURITIES            (B)             REMAINING AVAILABLE FOR
+                                                 TO BE ISSUED UPON        WEIGHTED-AVERAGE        FUTURE ISSUANCE UNDER
+                                                    EXERCISE OF          EXERCISE PRICE OF      EQUITY COMPENSATION PLANS
+                                                OUTSTANDING OPTIONS,    OUTSTANDING OPTIONS,      (EXCLUDING SECURITIES
+             PLAN CATEGORY                      WARRANTS AND RIGHTS     WARRANTS AND RIGHTS      REFLECTED IN COLUMN (A))
+-------------------------------------------     --------------------    --------------------     ------------------------
+<S>                                                      <C>                    <C>                        <C>
+Equity compensation plans approved by
+security holders (1)......................           1,485,067                 $ 16.97                   637,160
+
+Equity compensation plans not approved by
+security holders..........................                   -                       -                         -
+
+Total.....................................           1,485,067                 $ 16.97                   637,160
+</TABLE>
+---------------
+(1)  These plans are our 1997 Employee, Director and Consultant Stock Option
+     Plan and our 2002 Stock Option Plan.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.
+
+         Richard J. Drake, a member of our Board of Directors, is a member of a
+law firm which we retained during 2005 and which we intend to retain during
+2006. We paid fees to Mr. Drake's firm in the amount of $112,000 during 2005.
+
+         Michael J. Joyce, a member of our Board of Directors and chair of the
+Audit Committee of our Board of Directors, is a director of Heritage Property
+Investment Trust, Inc. ("Heritage"). In 2005 we leased one of our store
+locations from Heritage and paid rent to Heritage in the amount of $206,250.
+
+         Janet Parker is employed by us as Executive Vice President,
+Merchandising and Marketing. Ms. Parker received salary and bonus totaling
+$175,000 in 2005, $185,000 in 2004 and $175,000 in 2003. Ms. Parker was awarded
+options to purchase shares of Common Stock for 7,500 shares in each of 2005,
+2004 and 2003. Ms. Parker also received life insurance premiums paid by us in
+the amount of $716 in each of 2005, 2004 and 2003. Ms. Parker is the daughter of
+Jack Parker, our Chief Executive Officer and a director of us, and Patricia A.
+Parker, our Executive Vice President, Merchandising. We believe that the
+compensation paid to Ms. Parker is comparable with compensation paid to other
+employees with similar levels of responsibility and years of service.
+
+         Michael Kott is employed by us as Vice President, Store Operations. Mr.
+Kott received salary and bonus totaling $178,629 in 2005, $181,629 in 2004 and
+$170,745 in 2003. Mr. Kott was awarded options to purchase shares of Common
+Stock for 1,500 shares in each of 2005, 2004 and 2003. Mr. Kott is the
+son-in-law of Jack Parker and Patricia A. Parker and the brother-in-law of Janet
+Parker. We believe that the compensation paid to Mr. Kott is comparable with
+compensation paid to other employees with similar levels of responsibility and
+years of service.
+
+         Jill Kott is employed by us as Cash Office Manager for one of our
+stores. She also serves as a trainer and advisor for our store level systems.
+Ms. Kott received salary and bonus totaling $69,325 in 2005, $67,248 in 2004
+
+
+                                       16
+<PAGE>
+
+
+and $58,825 in 2003. Ms. Kott is the daughter of Jack Parker and Patricia A.
+Parker and the sister of Janet Parker. We believe that the compensation paid to
+Ms. Kott is comparable with compensation paid to other employees with similar
+levels of responsibility and years of service.
+
+ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES.
+
+PRINCIPAL ACCOUNTANT FEES AND SERVICES
+
+         Aggregate fees for professional services rendered for us by
+PricewaterhouseCoopers LLP, our independent registered public accounting firm
+("PricewaterhouseCoopers"), as of or for the years ended December 31, 2005 and
+2004 were:
+<TABLE>
+<CAPTION>
+SERVICES RENDERED (1)                                             2005          2004
+---------------------------------------------------------      ---------     ---------
+<S>                                                            <C>           <C>
+Audit Fees...............................................      $ 590,000     $ 815,650
+Audit Related Fees.......................................             --        38,300
+Tax Fees.................................................             --        42,009
+                                                               ---------     ---------
+Total....................................................      $ 590,000     $ 895,959
+                                                               =========     =========
+</TABLE>
+
+--------------
+(1)  The aggregate fees included in Audit fees are fees billed for the fiscal
+     years. The aggregate fees included in each of the other categories are fees
+     billed in the fiscal years.
+
+         Audit fees for the years ended December 31, 2005 and 2004,
+respectively, were for professional services rendered for the audits of our
+consolidated financial statements, and for the audit of our internal control
+over financial reporting as required by the Sarbanes-Oxley Act of 2002,
+quarterly reviews, issuance of consents, and assistance with review of documents
+filed with the SEC.
+
+         Audit related fees for the year ended December 31, 2004 were for
+assurance and related services that are reasonably related to the performance of
+the audit or review of our consolidated financial statements and are not
+reported under "Audit Fees."
+
+         Tax fees for the year ended December 31, 2004 were for services
+relating to tax advice and tax planning other than those directly related to the
+audit of the income tax accrual.
+
+         The Audit Committee has considered and determined that the services
+provided by PricewaterhouseCoopers are compatible with PricewaterhouseCoopers
+maintaining its independence.
+
+         The Audit Committee has adopted a policy that requires advance approval
+of all audit, audit related, tax services and other services performed by the
+independent registered public accounting firm. The policy provides for
+pre-approval by the Audit Committee of specifically defined audit and non-audit
+services. Unless the specific service has been previously pre-approved with
+respect to that year, the Audit Committee must approve the permitted service
+before the independent registered public accounting firm is engaged to perform
+it. The Audit Committee pre-approved all of the audit and non-audit services
+provided to us by PricewaterhouseCoopers in 2005 and 2004.
+
+
+                                       17
+<PAGE>
+
+
+                                     PART IV
+
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES.
+
+         (a)(3)  Exhibits:
+
+                 The exhibits filed as part of this Amendment No. 1 on
+                 Form 10-K/A are listed under exhibits at subsection
+                 (b) of this Item 15.
+
+         (b) Exhibits:
+
+             EXHIBIT NUMBER         DESCRIPTION
+             --------------         --------------------------------------------
+                  31.3              Certification of Chief Executive Officer
+                                    pursuant to Rule 13a-14(a) promulgated under
+                                    the Securities Exchange Act of 1934, as
+                                    amended (the "Exchange Act")
+
+                  31.4              Certification of Chief Financial Officer
+                                    pursuant to Rule 13a-14(a) promulgated under
+                                    the Exchange Act
+
+
+                                       18
+
+
+
+
+<PAGE>
+
+                                    SIGNATURE
+
+         Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+                                              A.C. MOORE ARTS & CRAFTS, INC.
+
+
+Date: April 26, 2006                          By:   /s/ John E. Parker
+                                                    -------------------------
+                                                    John E. Parker
+                                                    Chief Executive Officer
+
+
+
+
+<PAGE>
+
+
+                                  EXHIBIT INDEX
+
+
+
+                 EXHIBIT NUMBER     DESCRIPTION
+                 --------------     --------------------------------------------
+                     31.3           Certification of Chief Executive Officer
+                                    pursuant to Rule 13a-14(a) promulgated under
+                                    the Securities Exchange Act of 1934, as
+                                    amended (the "Exchange Act")
+
+                     31.4           Certification of Chief Financial Officer
+                                    pursuant to Rule 13a-14(a) promulgated under
+                                    the Exchange Act
+</TEXT>
+</DOCUMENT>

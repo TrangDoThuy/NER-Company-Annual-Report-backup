@@ -1,0 +1,108 @@
+<DOCUMENT>
+<TYPE>10-K/A
+<SEQUENCE>1
+<FILENAME>a2074370z10-ka.txt
+<DESCRIPTION>10-K/A
+<TEXT>
+<PAGE>
+
+
+--------------------------------------------------------------------------------
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+
+                                   FORM 10-K/A
+                                 AMENDMENT NO. 1
+
+
+              ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+
+For the fiscal year ended December 31, 2001       Commission file number 0-16018
+
+
+                             ABINGTON BANCORP, INC.
+
+             (Exact name of registrant as specified in its charter)
+
+
+         MASSACHUSETTS                                    04-3334127
+  (State or jurisdiction of                    (I.R.S. Employer incorporation or
+incorporation or organization)                 organization Identification No.)
+
+
+      536 WASHINGTON STREET
+           ABINGTON, MA                                       02351
+(Address of principal executive offices)                   (Zip Code)
+
+
+                                 (617) 982-3200
+              (Registrant's telephone number, including area code)
+
+
+             Securities registered pursuant to Section 12(b) of the
+          Act: None Securities registered pursuant to Section 12(g) of
+                            the Act (TITLE OF CLASS):
+                     Common Stock, par value $0.10 per share
+
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+                                  Yes  X    No
+                                      ---      ---
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy of information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. ( )
+
+The aggregate market value of the voting stock of the registrant held by
+non-affiliates of the registrant, based on the closing sales price for the
+Registrant's common stock on February 28, 2002, as reported by the Nasdaq Stock
+Market, was $49,739,578.
+
+The number of shares outstanding of the Registrant's Common Stock as of
+February 28, 2002: 3,184,352 shares
+
+--------------------------------------------------------------------------------
+
+
+<PAGE>
+
+
+Part IV of the Registrant's Annual Report on Form 10-K is hereby amended by
+adding the following new Exhibit:
+
+(a)(3) Exhibits
+
+99.1     Letter from the Company to the SEC with respect to representations
+         received from Arthur Andersen LLC.
+
+
+
+                                   SIGNATURES
+
+         Pursuant to the requirements of Section 13 of the Securities Exchange
+Act of 1934, the Company has duly caused this report to be signed on its behalf
+by the undersigned, thereunto duly authorized.
+
+                                                 ABINGTON BANCORP, INC.
+
+
+Date: March 22, 2002                             By: /s/ James P. McDonough
+                                                     -------------------------
+                                                     James P. McDonough,
+                                                     President and Chief
+                                                     Executive Officer
+
+
+</TEXT>
+</DOCUMENT>

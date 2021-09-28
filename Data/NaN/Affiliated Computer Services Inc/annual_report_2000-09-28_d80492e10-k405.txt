@@ -1,0 +1,1177 @@
+<DOCUMENT>
+<TYPE>10-K405
+<SEQUENCE>1
+<FILENAME>d80492e10-k405.txt
+<DESCRIPTION>FORM 10-K FOR FISCAL YEAR END JUNE 30, 2000
+<TEXT>
+
+<PAGE>   1
+================================================================================
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC. 20549
+
+                              ---------------------
+
+                                    FORM 10-K
+
+                              ---------------------
+
+MARK ONE      ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+  [X]                    SECURITIES EXCHANGE ACT OF 1934
+                     FOR THE FISCAL YEAR ENDED JUNE 30, 2000
+                                       OR
+  [ ]        TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+                 For the transition period from _____ to _____.
+                         Commission file number 0-24787
+
+                       AFFILIATED COMPUTER SERVICES, INC.
+             (Exact name of registrant as specified in its charter)
+
+               Delaware                                 51-0310342
+     ------------------------------         ------------------------------------
+     State or other jurisdiction of         (I.R.S. Employer Identification No.)
+     incorporation or organization
+
+                               2828 NORTH HASKELL
+                               DALLAS, TEXAS 75204
+                    (Address of principal executive offices)
+                                   (Zip Code)
+
+                                  214-841-6111
+              (Registrant's telephone number, including area code)
+
+                              ---------------------
+
+           SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT:
+
+                                                  Name of exchange on
+           Title of each class                      which registered
+     ------------------------------         ------------------------------------
+        Class A common stock, par
+           value $.01 per share                  New York Stock Exchange
+
+           SECURITIES REGISTERED PURSUANT TO SECTION 12(g) OF THE ACT:
+                                      NONE
+
+                              ---------------------
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements the past 90 days.
+
+                                 Yes [X]     No [ ]
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K. [X]
+
+     As of September 26, 2000, 46,482,456 shares of Class A common stock were
+outstanding. The aggregate market value of the Class A common voting stock held
+by nonaffiliates of Affiliated Computer Services, Inc. as of such date,
+approximated $2,323,555,000.
+
+DOCUMENTS INCORPORATED BY REFERENCE: Fiscal 2000 Annual Report to
+Stockholders - Parts I, II and IV; Proxy Statement for October 26, 2000 Annual
+Meeting - Part III.
+
+================================================================================
+<PAGE>   2
+
+
+                       AFFILIATED COMPUTER SERVICES, INC.
+
+                                    FORM 10-K
+                                  JUNE 30, 2000
+
+<TABLE>
+<S>                                                                                                    <C>
+PART I
+    Item 1.   Business................................................................................  1
+    Item 2.   Properties..............................................................................  7
+    Item 3.   Legal Proceedings.......................................................................  7
+    Item 4.   Submission of Matters to a Vote of Security Holders.....................................  7
+
+PART II
+    Item 5.   Market for the Registrant's Common Equity and Related Stockholder Matters...............  8
+    Item 6.   Selected Consolidated Financial Data....................................................  9
+    Item 7.   Management's Discussion and Analysis of Financial Condition and Results of Operations... 10
+    Item 8.   Financial Statements and Supplementary Data............................................. 10
+    Item 9.   Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.... 10
+
+PART III
+    Item 10.  Directors and Executive Officers of the Registrant...................................... 10
+    Item 11.  Executive Compensation.................................................................. 10
+    Item 12.  Security Ownership of Certain Beneficial Owners and Management.......................... 10
+    Item 13.  Certain Relationships and Related Transactions.......................................... 10
+
+PART IV
+    Item 14.  Exhibits, Financial Statements, Financial Statement Schedule and Reports
+                   on Form 8-K........................................................................ 10
+</TABLE>
+
+<PAGE>   3
+
+
+                                     PART I
+
+ITEM 1.  BUSINESS
+
+GENERAL
+
+     We are based in Dallas, Texas and have offices primarily in North America,
+as well as Central America, South America, Europe, Africa and the Middle East.
+We provide a full range of information technology services to clients which have
+time-critical, transaction-intensive information processing needs. Our services
+include technology outsourcing, business process outsourcing and systems
+integration services. Approximately 89% of our revenues for the past three
+fiscal years were recurring revenues, which are revenues derived from services
+that our clients use each year in connection with their ongoing businesses.
+
+     We were formed in 1988 to participate in the trend to outsource information
+processing requirements to third parties which enables businesses to focus on
+core operations, respond to rapidly changing technologies and reduce data
+processing expenses. Our business strategy is to expand our client base and
+enhance our service offerings through both internal marketing and the
+acquisition of complementary companies. Our marketing efforts focus on
+developing long-term relationships with clients that choose to outsource mission
+critical business processes and information technology requirements. Since
+inception through June 30, 2000, we have completed 48 acquisitions, which have
+resulted in geographic expansion, growth and diversification of our customer
+base, expansion of services and products offered, and increased economies of
+scale. Our revenues have increased from $534 million in fiscal year 1995 to
+$1.96 billion in fiscal year 2000, a compound growth rate of 30%. Of this
+growth, approximately 14% resulted from internal growth and 16% resulted from
+growth through acquisitions.
+
+     Our largest transaction occurred in December 1997, when we acquired ACS
+Government Solutions, Inc., formerly known as Computer Data Systems, Inc., a
+provider of information technology solutions to federal government agencies. We
+accounted for this transaction as a pooling of interests, and as a result, we
+have restated our historical financial statements prior to this merger to
+reflect the combined operations of both companies.
+
+     In May 2000, we executed a plan to divest certain non-strategic operations
+in order to focus on our core information technology outsourcing and business
+process outsourcing operations. Prior to June 30, 2000, we completed the sale of
+our ATM processing business and two small professional services businesses. At
+June 30, 2000, we also had our commercial staffing business and two other small
+businesses for sale. In August 2000, we completed the sale of our commercial
+staffing business and we expect to divest the two other small businesses in the
+first or second quarter of fiscal 2001. These business units collectively
+comprised approximately 15% of fiscal year 2000 consolidated revenues.
+
+     We serve two primary markets. Our largest market is the commercial sector,
+which accounts for approximately two-thirds of our annual revenues. Within the
+commercial sector, we provide business process outsourcing, systems integration
+services and technology outsourcing to a variety of clients nationwide,
+including retailers, local municipalities, state agencies, healthcare providers,
+telecommunications companies, wholesale distributors, manufacturers, utilities,
+financial institutions and insurance companies.
+
+     We also serve the federal government market, which accounts for
+approximately one-third of our annual revenues. Our services in this market are
+comprised of business process outsourcing, systems integration services and
+technology outsourcing. Within our federal government business, approximately
+half of our revenues are derived from civilian agencies with the remaining half
+from Department of Defense agencies.
+
+MARKET OVERVIEW
+
+     We believe that the demand for our services has grown substantially in
+recent years and will continue to increase in the future as a result of
+financial, strategic and technological factors. These factors include:
+
+     o    the increasing desire by businesses and government to drive process
+          improvements and improve speed of execution;
+
+                                       1
+<PAGE>   4
+
+
+
+     o    the desire by businesses and government to take advantage of the
+          latest advances in technology without the cost and resource commitment
+          required to maintain an in-house system;
+
+     o    the increasing complexity of information technology systems and the
+          need to connect electronically with clients, suppliers, and other
+          internal systems;
+
+     o    the proliferation of web-based and wireless technologies;
+
+     o    the increasing requirements for rapid processing of information and
+          the instantaneous communication of large amounts of data to multiple
+          locations;
+
+     o    the desire of business and government organizations to focus on their
+          core competencies.
+
+BUSINESS STRATEGY
+
+     The key components of our business strategy include the following:
+
+     o    Expand Client Base - We seek to develop long-term relationships with
+          new clients by leveraging our expertise and infrastructure of
+          information technology products and services. Our primary focus is to
+          increase our revenues by obtaining new clients with recurring
+          requirements for information technology services.
+
+     o    Expand Existing Client Relationships - We seek to expand existing
+          client relationships by increasing the scope and breadth of services
+          we provide.
+
+     o    Build Recurring Revenues - We seek to enter into long-term
+          relationships with clients to provide services that meet their ongoing
+          information technology needs.
+
+     o    Invest in Technology - We respond to technological advances and the
+          rapid changes in the requirements of our clients by committing
+          substantial amounts of our resources to the operation of multiple
+          hardware platforms, the customization of products and services that
+          incorporate new technology on a timely basis and the continuous
+          training of our personnel.
+
+     o    Provide Flexible Solutions - We offer custom-tailored information
+          technology solutions using a variety of proprietary and third-party
+          licensed software on multiple hardware and systems software platforms.
+
+     o    Maximize Economies of Scale - Our strategy is to develop and maintain
+          a significant client and account/transaction base to create sufficient
+          economies of scale that enable us to achieve competitive costs.
+
+     o    Complete Strategic and Tactical Acquisitions - Our acquisition
+          strategy is to acquire companies to expand our geographic presence, to
+          expand the products and services we offer to existing clients, and to
+          obtain a presence in new, complementary markets.
+
+     o    Attract, Train, and Retain Employees - We believe that attracting,
+          training, and retaining high quality employees are essential to our
+          growth. We hire motivated individuals with strong character and
+          leadership traits and provide them with ongoing technological and
+          leadership skills training. We emphasize retaining our associates with
+          challenging work assignments and incentive programs.
+
+
+                                       2
+<PAGE>   5
+
+
+     During the last three fiscal years, our revenue by market was as follows
+(in thousands):
+
+<TABLE>
+<CAPTION>
+                                        Year Ended June 30,
+                            ----------------------------------------
+                               2000           1999            1998
+                            ----------     ----------     ----------
+<S>                         <C>            <C>            <C>
+     Commercial             $1,344,671     $1,091,417     $  789,452
+     Federal Government        617,871        550,799        399,671
+                            ----------     ----------     ----------
+          Total Revenue     $1,962,542     $1,642,216     $1,189,123
+                            ==========     ==========     ==========
+</TABLE>
+
+COMMERCIAL
+
+     In the commercial sector we provide our clients with business process
+outsourcing, systems integration services and technology outsourcing.
+
+Business Process Outsourcing
+
+         We are a leader of the business process outsourcing market. We
+developed our business process outsourcing services to capitalize on a growing
+trend by business to outsource entire processes, including the technology
+requirements of the business function. More and more companies are concluding
+that it is more efficient to focus on their core competencies and to outsource
+their non-core but mission-critical business processes. As a result, they turn
+to companies such as ours to manage their processes and improve them. We provide
+several important services to our clients, including loan and mortgage
+processing, healthcare claims processing for insurance companies, accounts
+payable processing, and data capture, storage and retrieval services for
+financial institutions. We typically receive client information in all media
+formats such as over the web, EDI, fax, voice, paper, microfilm, computer tape,
+optical disk or CD ROM. It is critical that we are able to handle all media
+types. Upon receipt, information is immediately digitized and sent through our
+proprietary workflow process, which is tailored to client's requirements. Using
+state-of-the-art image transmission, storage and retrieval technology, we
+digitize, process and transmit millions of information records daily for our
+clients. In many instances, we perform quality assurance functions and store the
+information for our clients on a long-term basis.
+
+     We are also a leading provider of consulting, program management and
+back-office processing services for state and local governments' health and
+human services agencies. We design, develop, implement and operate large scale
+health and human services programs and the information technology solutions that
+support those programs. Today, we process over 200 million Medicaid healthcare
+claims on behalf of 8 states using our state of the art proprietary Medicaid
+management information system. In addition, we design and manage children's
+health insurance programs for 3 states with estimated uninsured lives of
+totaling nearly 3 million. These children's health insurance programs were
+created at the federal level in 1997 to provide federal matching funds to enable
+states to expand healthcare to targeted uninsured children. Within these
+programs we interface with and train community based organizations to help
+inform the public of these programs, operate call centers, process enrollment
+applications using our proprietary eligibility determination software and match
+providers with children participants.
+
+     Pricing is typically determined on the basis of the number of accounts or
+transactions processed.
+
+Systems Integration Services
+
+     Our systems integration services include application development and
+implementation, applications outsourcing, technical support and training, as
+well as network design and installation services. Our systems integration
+services include the development of web-based applications and web-enablement of
+information technology assets, allowing our clients to conduct business with
+their customers and business partners via the Internet. We also provide systems
+integration services to clients, who are deploying client/server architectures,
+advanced networks and outsourcing legacy applications maintenance. Our ability
+to deliver high-level skill sets and proven methodologies across a variety of
+technologies enhances our ability to help clients and prospects deal
+
+                                       3
+<PAGE>   6
+
+with technological change. Due to the nature of the work, we generally offer our
+systems integration services on a time and materials basis to a changing client
+base under short-term contractual arrangements.
+
+     We generally price these services on a time and materials basis.
+
+Technology Outsourcing
+
+     We offer a complete range of technology outsourcing solutions to commercial
+businesses desiring to improve the performance of their information technology
+organizations. Our technology outsourcing solutions include the delivery of
+information processing services on a remote basis from host data centers with
+tremendous processing capacity, network management and desktop support.
+Information processing services include mainframe, mid-range, and web-hosting
+solutions.
+
+     We provide our technology outsourcing solutions through an extensive data
+center network, which is comprised of five host data centers and seven remote
+data centers. Our data centers and clients are connected via an extensive
+telecommunication network. We monitor and maintain local and wide area networks
+on a seven-day, 24-hour basis and provide shared hub satellite transmission
+service as an alternative to multi-drop and point-to-point hard line
+telecommunications networks.
+
+     Our target market for technology outsourcing services consists of medium-
+to large-sized commercial organizations with time-critical, transaction-
+intensive information processing needs. We typically provide our technology
+outsourcing services pursuant to multi-year contracts, which are typically
+priced on a resource utilization basis. Resources utilized include processing
+time, the number of desktops managed, professional services, data storage and
+retrieval utilization and output media utilized.
+
+     We currently have over 13,000 employees providing services to our
+commercial clients.
+
+FEDERAL GOVERNMENT
+
+     Within the federal government sector, we also provide business process
+outsourcing, systems integration services and technology outsourcing. Our
+civilian agency clients account for about half of our federal government
+revenues and Department of Defense agencies account for the remaining half.
+
+Business Process Outsourcing
+
+     Our business process outsourcing services consist primarily of loan
+servicing for federal agencies. Our services generally include billing, lockbox
+payment processing, related accounting and reconciliation and client service
+call center and web-site operations. Our largest contract for these services is
+with the Department of Education, for which we service student loans under the
+Department of Education's Direct Student Loan program. Under this contract, we
+currently provide loan servicing to over 4.7 million borrowers, or over 17.3
+million loans with an aggregate value of $66 billion. During fiscal year 2000,
+revenue from this contract was approximately $139 million. This contract is
+scheduled to expire September 2003. We also have contracts with the Small
+Business Administration, Housing and Urban Development, Ginnie Mae and
+Department of Veterans Affairs. Pricing is typically determined on the basis of
+the number of accounts or transactions processed.
+
+Systems Integration Services
+
+     We provide applications development, applications outsourcing, network
+implementation and maintenance, desktop services, technical staff augmentation,
+and training. We develop and outsource many applications including legacy, ERP,
+and web-based systems. The Department of Defense and civilian agencies generally
+either contract directly with us or through the General Services Administration
+for these services. The General Services Administration performs the procurement
+function for many civilian and Department of Defense agencies. Approximately 38%
+of these services for fiscal 2000 were provided pursuant to three contracts with
+the General Services Administration. We also provide our services directly to a
+variety of civilian agencies such as the Departments
+
+
+                                       4
+<PAGE>   7
+
+of Labor, NASA, FAA, Treasury, Transportation, the U.S. Senate, the U.S. Postal
+Service, the Federal Energy Regulatory Commission and the National Drug
+Intelligence Center. In addition, we also provide these services to a variety of
+Department of Defense agencies such as Strategic Command, Air Combat Command,
+the National Security Agency and the Defense Special Weapons Agency. We
+generally price these services on a time and materials basis.
+
+Technology Outsourcing
+
+         We offer a complete range of technology outsourcing solutions to
+commercial businesses desiring to improve the performance of their information
+technology organizations. Our technology outsourcing solutions include the
+delivery of information processing services on a remote basis from host data
+centers with tremendous processing capacity, network management and desktop
+support. Information processing services include mainframe, mid-range, and
+web-hosting solutions.
+
+     We currently have over 5,300 employees providing these services to our
+federal government clients and approximately 1,662 of these employees have
+security clearance.
+
+CLIENT BASE
+
+     We achieve growth in our client base through internal marketing and
+acquisitions of other information technology services companies. We have a
+diverse client base. Within the commercial segment, we serve all of the major
+vertical markets that spend heavily on technology including healthcare, retail,
+transportation and financial industries. However, our largest vertical market is
+only 20% of our consolidated revenues and no single commercial client accounts
+for more than 2% of our consolidated revenues. Within the federal government
+segment, our clients are evenly divided between the Department of Defense
+agencies and the civilian agencies. Our largest federal government client
+represents 7% of our consolidated revenues. In addition, over 95% of our
+consolidated revenues are derived from domestic clients. Clients may be lost due
+to merger, business failure or conversion to a competing processor or to an
+in-house system. Our business with the federal government is subject to various
+risks, including the reduction or modification of contracts due to changing
+government needs and requirements. Government contracts, by their terms,
+generally can be terminated for convenience by the government, which means that
+the government may terminate the contract at any time, without cause, and in
+certain instances we would be entitled to receive compensation only for the
+services provided or stranded asset costs incurred at the time of termination.
+
+     Approximately 88%, 89% and 89% of our revenues for fiscal 2000, 1999 and
+1998, respectively, were recurring. We define recurring revenues as revenues
+derived from services that are used by our clients each year in connection with
+their ongoing businesses, and accordingly exclude conversion and deconversion
+fees, software license fees, product installation fees and hardware sales.
+
+     Our five largest customers accounted for approximately 18%, 19% and 25% of
+our fiscal 2000, 1999 and 1998 revenues, respectively.
+
+     Our revenues derived from information technology services described herein
+are shown in the following table:
+
+<TABLE>
+<CAPTION>
+                                                             Year Ended June 30,
+                                    ----------------------------------------------------------------------
+                                       2000           1999           1998            1997           1996
+                                    ----------     ----------     ----------     ----------     ----------
+                                                               (in thousands)
+<S>                                 <C>            <C>            <C>            <C>            <C>
+   Business process outsourcing     $  948,010     $  696,976     $  468,175     $  385,937     $  260,220
+   Systems integration services        604,841        570,168        390,221        245,720        201,443
+   Technology outsourcing              409,691        375,072        330,727        297,268        185,945
+                                    ----------     ----------     ----------     ----------     ----------
+     Total                          $1,962,542     $1,642,216     $1,189,123     $  928,925     $  647,608
+                                    ==========     ==========     ==========     ==========     ==========
+</TABLE>
+
+COMPETITION
+
+     The markets for our services are intensely competitive and highly
+fragmented. The most significant competitive factors are reliability and quality
+of services, technical competence and price of services.
+
+
+                                       5
+<PAGE>   8
+
+     We compete successfully in the business process outsourcing business by
+offering high quality services and favorable pricing by leveraging our technical
+skills, process knowledge, and economics of scale. Competition is highly
+fragmented and depends on the specific business process. Principal competitors
+include Electronic Data Systems (EDS), First Health, Unisys, Maximus, FYI, Inc.,
+National Processing Company, Lason, Inc. and several other small- to
+medium-sized local and regional competitors.
+
+     We compete successfully for technology outsourcing contracts by offering
+high quality services and favorable pricing by leveraging our technical skills,
+infrastructure, and achieving economics of scale. We may be required to purchase
+technology assets from prospective clients or to provide financial assistance to
+prospective clients in order to obtain their contracts. Many of our competitors
+have substantially greater resources and thus, may have a greater ability to
+obtain client contracts where sizable asset purchases or investments are
+required. To maintain competitive prices, we operate with efficient and low
+overhead and maintain a significant client base and account/transaction base to
+achieve sufficient economies of scale. Our competition for technology
+outsourcing contracts consists of:
+
+     o    the first-tier outsourcers, including IBM Global Services, EDS and
+          Computer Sciences Corporation (CSC);
+
+     o    mid-sized divisions of large corporations, such as Lockheed-Martin,
+          Siemens; and
+
+     o    other smaller, regional competitors.
+
+     In systems integration services markets, we actively compete with small
+specialized firms as well as with large competitors with a wider range of
+systems integration services. We believe that the key competitive factors in
+obtaining and retaining clients include the ability to understand project
+requirements, deliver appropriate skill sets in a timely manner and price
+services effectively. We must also compete for qualified personnel through
+competitive wages and by maintaining a consistent demand for the skills
+recruited. Our competition in systems integration services includes EDS, CSC,
+Science Applications International Corporation, and a wide variety of web
+hosting and development companies such as Exodus, Viant, Scient, and Razorfish
+and several other local and regional players.
+
+SALES AND MARKETING
+
+     We market our services through field sales forces located throughout the
+United States. In order to enhance our sales and marketing efforts, we hire
+sales representatives who have significant technical experience in the
+industries to which they will be marketing. Our sales forces are focused on
+specific service offerings or vertical markets, allowing our representatives to
+keep abreast of technology and industry developments.
+
+EMPLOYEES
+
+     We believe that our success depends on our continuing ability to attract
+and retain skilled technical, marketing and management personnel. While
+technology professionals are in high demand, we believe that, to date, we have
+been able to attract and retain highly qualified personnel. As of June 30, 2000,
+we had over 18,500 full-time equivalent employees, including over 15,000
+employed domestically with the balance in our international operations. Of these
+employees, approximately 4,200 are represented by unions, primarily in Mexico,
+and there have been no work stoppages or strikes. Management considers its
+relations with employees to be good.
+
+GOVERNMENT CONTRACTS AND REGULATION
+
+     Approximately one-third of our revenues are derived from contracts and
+subcontracts with federal government agencies. Our allowable federal government
+contract costs and fees are subject to audit by the Defense Contract Audit
+Agency ("DCAA"). These audits may result in non-reimbursement of some contract
+costs and fees. To date, we have experienced no material adjustments as a result
+of audits by the DCAA. The DCAA has completed audits of the Company's federal
+contracts through fiscal 1998, for a majority of the federal government
+contracts.
+
+     We are not directly subject to federal or state regulations specifically
+applicable to financial institutions. As a provider of services to financial
+institutions, however, our technology outsourcing and business process
+outsourcing solutions operations are examined periodically by various state and
+federal regulatory agencies. These agencies make
+
+
+                                       6
+<PAGE>   9
+
+recommendations regarding various aspects of our operations, and generally, we
+implement such recommendations. We also arrange for annual independent
+examinations of our major data processing facilities.
+
+
+ITEM 2.  PROPERTIES
+
+     Excluding business units divested and to be divested of at June 30, 2000,
+we had approximately 207 locations in the United States and 11 locations in 6
+other countries. Approximately 1.1 million square feet is owned and
+approximately 2.0 million square feet is leased. The leases expire from 2000 to
+2011 and we do not anticipate any significant difficulty in obtaining lease
+renewals or alternative space. Our executive offices are located in Dallas,
+Texas at a company-owned facility of approximately 612,000 square feet, which
+also houses a host data center and other operations. Our federal government
+sector executive offices are located in Rockville, Maryland in a company-owned
+facility of approximately 130,000 square feet. We believe that our current
+facilities are suitable and adequate for our business.
+
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+     On December 16, 1998, a state district court in Houston, Texas entered
+final judgment against us in a lawsuit brought by twenty-one former employees of
+Gibraltar Savings Association and/or First Texas Savings Association
+(collectively, "GSA/FTSA"). The GSA/FTSA employees alleged that they were
+entitled to the value of 401,541 shares of our stock pursuant to options issued
+to the GSA/FTSA employees in 1988 in connection with a former data processing
+services agreement between GSA/FTSA and us. The judgment against us was for
+approximately $17 million, which includes attorneys' fees and pre-judgment
+interest, but excludes additional attorneys' fees of approximately $850,000
+which could be awarded in the event the plaintiffs are successful upon appeal
+and final judgment. We continue to believe that we have a meritorious defense to
+all or a substantial portion of the plaintiffs' claims. We filed our appeal of
+the judgment on March 15, 1999 and plan to vigorously pursue the appeal. The
+plaintiffs also have filed a notice of appeal. Should the proceedings not be
+favorably resolved on appeal, we would be subject to a material charge.
+
+     On February 11, 1999, and on or about April 16, 1999, Caremark, Inc.,
+one of our significant outsourcing clients, filed separate lawsuits in Federal
+District Court in Illinois alleging that we had breached contractual obligations
+to provide certain information and pricing reductions and a price quote for cost
+plus pricing to Caremark. Caremark sought to terminate the contract, which
+comprised approximately 1.2% of our revenues for the year ended June 30, 2000.
+Caremark's pleadings also requested damages in the millions of dollars, without
+further specificity. We believed that we had complied with all contractual
+obligations, provided the required information and were not contractually
+obligated to provide the price reduction alleged by Caremark to be required. On
+February 25, 1999, we filed a lawsuit in County Court in Dallas, Texas against
+Caremark and its parent, Caremark Rx (formerly known as MedPartners, Inc.),
+alleging that Caremark has caused us significant injury by trying to manufacture
+a basis to repudiate this contract and to avoid payment and other obligations.
+On September 13, 2000, these lawsuits were settled by agreement of the parties,
+which resulted in a contract extension through August 31, 2006, and a dismissal
+of all claims.
+
+    In addition to the foregoing, we are subject to certain other legal
+proceedings, claims and disputes which arise in the ordinary course of our
+business. Although we cannot predict the outcomes of these legal proceedings, we
+do not believe these actions, in the aggregate, will have a material adverse
+effect on our financial position, results of operations or liquidity.
+
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     During the fiscal fourth quarter covered by this report, no matter was
+submitted to a vote of our security holders.
+
+
+                                       7
+<PAGE>   10
+
+
+                                     PART II
+
+
+ITEM 5.  MARKET FOR OUR COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+
+     Our Class A common stock is traded on the New York Stock Exchange under the
+symbol "ACS." The following table sets forth the high and low sales prices of
+our Class A common stock for the last two fiscal years as reported on NYSE.
+
+<TABLE>
+<CAPTION>
+      Fiscal year ended June 30, 1999               High           Low
+      -------------------------------             --------       -------
+<S>                                               <C>            <C>
+      First Quarter                               38 3/4         29 3/4
+
+      Second Quarter                              45             22 3/8
+
+      Third Quarter                               51 3/4         34 1/2
+
+      Fourth Quarter                              50 11/16       38 1/4
+</TABLE>
+
+<TABLE>
+<CAPTION>
+      Fiscal year ended June 30, 2000               High           Low
+      -------------------------------             --------       -------
+<S>                                               <C>            <C>
+      First Quarter                               53             38 1/2
+
+      Second Quarter                              46             31 3/4
+
+      Third Quarter                               49             31
+
+      Fourth Quarter                              39 7/8         31 3/4
+</TABLE>
+
+     On September 25, 2000, the last reported sales price of our Class A common
+stock as reported on the New York Stock Exchange was $50.25 per share.
+
+     Except for the dividends paid by ACS Government Solutions Group, Inc. prior
+to its becoming part of our company by a December 1997 merger, we have not paid
+any dividends to date on our common stock. We intend to continue to retain
+earnings for use in the operation of our business and, therefore, do not
+anticipate paying any dividends in the foreseeable future. Under the terms of
+our unsecured revolving credit agreement with Wells Fargo Bank (Texas), N.A.,
+Bank One, Texas N.A. SunTrust Bank and the Bank of Tokyo-Mitsubishi, LTD, we
+are prohibited from paying dividends in any fiscal year in a total amount that
+would exceed 50% of our net income for the preceding fiscal year. Any future
+determination to pay dividends will be at the discretion of our Board of
+Directors and will be dependent upon our financial condition, results of
+operations, contractual restrictions, capital requirements, business prospects
+and such other factors as the Board of Directors deems relevant.
+
+
+                                       8
+<PAGE>   11
+
+
+ITEM 6. SELECTED CONSOLIDATED FINANCIAL DATA
+
+     The following selected consolidated financial data are qualified by
+reference to and should be read in conjunction with our Consolidated Financial
+Statements and Notes thereto and "Management's Discussion and Analysis of
+Financial Condition and Results of Operations" included elsewhere in this
+document.
+
+<TABLE>
+<CAPTION>
+(in thousands, except per share amounts)
+                                                            As of and for the year ended June 30,
+                                           ----------------------------------------------------------------------
+                                              2000           1999           1998           1997           1996
+                                           ----------     ----------     ----------     ----------     ----------
+<S>                                        <C>            <C>            <C>            <C>            <C>
+RESULTS OF OPERATIONS DATA:
+
+Revenues                                   $1,962,542     $1,642,216     $1,189,123     $  928,925     $  647,608
+
+Earnings from continuing operations        $  109,312(1)  $   86,230     $   54,422(3)  $   49,666     $   33,525
+
+Earnings per common share - basic          $     2.22(1)  $     1.77     $     1.14(3)  $     1.08     $     0.88
+
+Earnings per common share
+   assuming dilution                       $     2.07(1)  $     1.66     $     1.11(3)  $     1.05     $     0.85
+
+Weighted average shares outstanding -
+   basic                                       49,244         48,839         47,599         46,136         38,228
+Weighted average shares outstanding
+   assuming dilution                           55,806         55,668         50,487         47,452         39,320
+
+BALANCE SHEET DATA:
+
+Working capital                            $  413,632(2)  $  194,226     $  198,118     $  110,866     $   79,928
+
+Total assets                               $1,656,446     $1,223,600     $  949,798     $  761,477     $  636,098
+
+Total long-term debt
+   (less current portion)                  $  525,619     $  349,106     $  234,848     $  130,680     $   57,208
+
+Cumulative redeemable
+   preferred stock                         $       --     $       --     $       --     $       --     $    1,100
+
+Stockholders' equity                       $  711,377     $  607,421     $  503,670     $  427,481     $  363,204
+</TABLE>
+
+     (1)  Net income for fiscal 2000 includes $1,055,000, or $.02 per share, of
+          net non-operating gains resulting from divestiture and restructuring
+          activities.
+
+     (2)  Working capital includes $180,335,000 of receivables from the
+          divestiture of business units prior to June 30, 2000 and $43,362,000
+          of net assets held-for-sale from business units to be divested
+          subsequent to June 30, 2000.
+
+     (3)  Includes $12,974,000, $8,880,000 net of tax, or $.19 and $.18 per
+          basic and diluted share, respectively, of merger costs we incurred in
+          connection with the December 1997 Government Solutions merger.
+
+          This Annual Report includes "forward-looking statements" within the
+meaning of Section 27A of the Securities Act of 1933, as amended, and Section
+21E of the Securities Exchange Act of 1934, as amended. All statements, other
+than statements of historical facts included in this Annual Report regarding our
+financial position, business strategy and plans and objectives of our management
+for future operations, are forward-looking statements including statements
+regarding our Year 2000 exposure. These forward-looking statements rely on a
+number of
+
+                                       9
+<PAGE>   12
+
+assumptions concerning future events and are subject to a number of
+uncertainties and other factors, many of which are outside of our control, that
+could cause actual results to materially differ from such statements. While we
+believe that the assumptions concerning future events are reasonable, we caution
+that there are inherent difficulties in predicting certain important factors,
+especially the timing and magnitude of technological advances; the performance
+of recently acquired businesses; the prospects for future acquisitions; the
+possibility that a current customer could be acquired or otherwise affected by a
+future event that would diminish its information technology requirements; the
+competition in the information technology industry and the impact of such
+competition on pricing, revenues and margins; the degree to which business
+entities continue to outsource information technology and business processes;
+uncertainties surrounding budget reductions or changes in funding priorities for
+existing federal, state or local government programs; and the cost of attracting
+and retaining highly skilled personnel.
+
+     Pursuant to Instruction G(2) to Form 10-K, the information required in
+Items 7 and 8 are incorporated by reference from pages 18 through 41 of our
+Fiscal 2000 Annual Report to Stockholders, included in this Form 10-K Annual
+Report as Exhibit 13.1.
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+        FINANCIAL DISCLOSURE
+
+         Not applicable.
+
+                                    PART III
+
+     Pursuant to Instruction G(3) to Form 10-K, the information required in
+ITEMS 10 THROUGH 13 is incorporated by reference from our definitive proxy
+statement, which is incorporated herein by reference.
+
+                                     PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENTS, FINANCIAL STATEMENT SCHEDULE AND
+         REPORTS ON FORM 8-K
+
+     (a) (1) Financial Statements
+
+          Our consolidated financial statements as of June 30, 2000 and 1999 and
+          for each of the three years in the period ended June 30, 2000,
+          together with the report of PricewaterhouseCoopers LLP dated July 31,
+          2000, except for Notes 15 and 18, as to which the date is September
+          13, 2000, appear on pages 18 to 41 of our Fiscal 2000 Annual Report to
+          Stockholders, Exhibit 13.1 to this Form 10-K Annual Report, and are
+          incorporated herein by reference.
+
+     (a) (2) Financial Statement Schedule
+
+          Schedule II- Valuation and Qualifying Accounts for the three years in
+          the period ended June 30, 2000, together with the report of
+          PricewaterhouseCoopers LLP dated July 31, 2000 appear on pages F-1 and
+          F-2 and are filed as part of this Form 10-K Annual Report.
+
+          All other financial statement schedules are omitted for the reason
+          that they are either not applicable or not required or because the
+          information required is contained in the consolidated financial
+          statements or notes thereto.
+
+     (b) Reports on Form 8-K
+
+          None
+
+     (c) Exhibits
+
+          Reference is made to the Index to Exhibits beginning on page 12 for a
+          list of all exhibits filed as part of this report.
+
+
+                                       10
+<PAGE>   13
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, we have duly caused this Report to be signed on our behalf
+by the undersigned thereunto duly authorized representative.
+
+                                              Affiliated Computer Services, Inc.
+
+Date:  September 28, 2000
+
+                                              By: /s/  Mark A. King
+                                                  ------------------------------
+                                                  Mark A. King
+                                                  Executive Vice President and
+                                                  Chief Financial Officer
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, this
+Report has been signed below by the following persons on behalf of the
+registrant and in the capacities indicated on the 28th day of September 2000.
+
+<TABLE>
+<CAPTION>
+             Signature                               Title
+             ---------                               -----
+<S>                                     <C>
+         /s/ Darwin Deason              Director, Chairman of the Board
+----------------------------------
+          (Darwin Deason)
+
+
+        /s/ Jeffrey A. Rich             Director, President and Chief Executive
+----------------------------------      Officer
+        (Jeffrey A. Rich)
+
+
+         /s/ Mark A. King               Director, Executive Vice President
+----------------------------------      and Chief Financial Officer
+          (Mark A. King)
+
+
+     /s/ Henry G. Hortenstine           Director, Executive Vice President
+----------------------------------
+       (Henry G. Hortenstine)
+
+
+    /s/ William L. Deckelman, Jr.       Director, Executive Vice President,
+----------------------------------      Corporate Secretary and General Counsel
+     (William L. Deckelman, Jr.)
+
+
+     /s/ Peter A. Bracken               Director and Vice-Chairman,
+----------------------------------      ACS Government Solutions Group, Inc.
+        (Peter A. Bracken)
+
+
+      /s/ Joseph P. O'Neill             Director
+----------------------------------
+       (Joseph P. O'Neill)
+
+
+        /s/ Frank A. Rossi              Director
+----------------------------------
+         (Frank A. Rossi)
+
+
+      /s/ Clifford M. Kendall           Director
+----------------------------------
+       (Clifford M. Kendall)
+</TABLE>
+
+
+                                       11
+<PAGE>   14
+
+        REPORT OF INDEPENDENT ACCOUNTANTS ON FINANCIAL STATEMENT SCHEDULE
+
+
+
+
+     To the Board of Directors of Affiliated Computer Services, Inc.
+
+     Our audits of the consolidated financial statements referred to in our
+report dated July 31, 2000, except as to Notes 15 and 18 as to which the date is
+September 13, 2000, appearing in the 2000 Annual Report to Stockholders of
+Affiliated Computer Services, Inc. (which report and consolidated financial
+statements are incorporated by reference in this Annual Report on Form 10-K)
+also included an audit of the financial statement schedule listed in Item
+14(a)(2) of this Form 10-K. In our opinion, this financial statement schedule
+presents fairly, in all material respects, the information set forth therein
+when read in conjunction with the related consolidated financial statements.
+
+
+
+     PricewaterhouseCoopers LLP
+
+
+    Dallas, Texas
+    July 31, 2000
+
+
+                                      F-1
+<PAGE>   15
+
+
+
+                       AFFILIATED COMPUTER SERVICES, INC.
+                 SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+                FOR THE YEARS ENDED JUNE 30, 2000, 1999 AND 1998
+                                 (in thousands)
+
+
+<TABLE>
+<CAPTION>
+                                             Balance                         Balances of                      Balance
+                                          at Beginning   Charged to Costs     Divested                        at End
+            Description                    of Period       and Expenses     Businesses (1)   Deductions      of Period
+-------------------------------------    -------------   ----------------   --------------   -----------     ---------
+<S>                                        <C>              <C>               <C>             <C>            <C>
+Year ended June 30, 2000
+   Deducted from asset accounts:
+      Accounts receivable                  $   4,633        $   7,295         $     794       $   6,488 (2)  $   4,646
+       Property and equipment                123,944           42,395            10,006           7,746 (3)    148,587
+       Software                               15,056            7,580             4,517           1,148 (3)     16,971
+       Goodwill                               41,779           21,573            11,581              -- (3)     51,771
+       Other intangible assets                25,006           13,204             2,351           7,291 (3)     28,568
+                                           ---------        ---------         ---------       ---------      ---------
+           Total                           $ 210,418        $  92,047         $  29,249       $  22,673      $ 250,543
+                                           =========        =========         =========       =========      =========
+Year ended June 30, 1999
+   Deducted from asset accounts:
+       Accounts receivable                 $   2,840        $   3,673                --       $   1,880 (2)  $   4,633
+       Property and equipment                 90,096           35,342                --           1,494 (3)    123,944
+       Software                               11,029            5,093                --           1,066 (3)     15,056
+       Goodwill                               25,846           15,664                --            (269)(3)     41,779
+       Other intangible assets                14,414           10,624                --              32         25,006
+                                           ---------        ---------         ---------       ---------      ---------
+           Total                           $ 144,225        $  70,396         $      --       $   4,203      $ 210,418
+                                           =========        =========         =========       =========      =========
+Year ended June 30, 1998
+   Deducted from asset accounts:
+       Accounts receivable                 $   1,964        $     998                --       $     122 (2)  $   2,840
+       Property and equipment                 66,302           25,493                --           1,699 (3)     90,096
+       Software                                9,436            3,661                --           2,068 (3)     11,029
+       Goodwill                               15,504           10,432                --              90 (3)     25,846
+       Other intangible assets                 7,100            7,888                --             574 (3)     14,414
+                                           ---------        ---------         ---------       ---------      ---------
+           Total                           $ 100,306        $  48,472         $      --       $   4,553      $ 144,225
+                                           =========        =========         =========       =========      =========
+</TABLE>
+
+
+          (1)  Allowances associated with divested and held-for-sale business
+               units at June 30, 2000.
+
+          (2)  Uncollectible accounts written off, net of recoveries and
+               allowances of acquired businesses.
+
+          (3)  Retirements
+
+                                      F-2
+<PAGE>   16
+
+
+                                INDEX TO EXHIBITS
+<TABLE>
+<CAPTION>
+   EXHIBIT
+   NUMBER                        EXHIBIT NAME
+   -------                       ------------
+<S>           <C>
+       2.1    Agreement and Plan of Merger, dated as of September 20, 1997, by
+              and among the Company, ACS Acquisition Corp. and Computer Data
+              Systems, Inc., filed as Exhibit 2.1 to the Company's Form S-4
+              (Registration No. 333-40351) ("Form S-4") and incorporated herein
+              by reference.
+
+       3.1    Charter of Incorporation of the Company, filed as Exhibit 3.1 to
+              the Company's Form S-4 and incorporated herein by reference.
+
+      *3.2    Bylaws of the Company, as amended and in effect on May 3, 2000.
+
+       4.1    Form of New Class A Common Stock Certificate, filed as Exhibit 4.3
+              to the Company's Form S-1 (Registration No. 333-79394) (the "Form
+              S-1") and incorporated herein by reference.
+
+       4.2    Rights Agreement, dated April 2, 1999, between the Company and
+              First City Transfer Company, as Rights Agent, filed as Exhibit 4.1
+              to the Company's Report on Form 8-K dated May 19, 1999 and
+              incorporated herein by reference.
+
+       4.3    Indenture, dated as of March 20, 1998 between Affiliated Computer
+              Services, Inc., as issuer and U.S. Trust Company of Texas, N.A. as
+              trustee, filed as Exhibit 4.1 to the Company's Report on Form 8-K
+              dated March 20, 1998 and incorporated herein by reference.
+
+       4.4    Registration Rights Agreement, dated as of March 17, 1998 between
+              Affiliated Computer Services, Inc. and Goldman, Sachs & Co., Bear,
+              Stearns & Co., Inc., Smith Barney Inc., Hambrecht & Quist LLC,
+              Donaldson, Lufkin & Jenrette Securities Corporation and Prudential
+              Securities Incorporated, filed as Exhibit 4.2 to the Company's
+              Report on Form 8-K dated March 20, 1998 and incorporated herein by
+              reference.
+
+      10.1    Amended Stock Option Plan of the Company, filed as Exhibit 10.1 to
+              the Company's Form S-1 and incorporated herein by reference.
+
+      10.2    1997 Stock Incentive Plan of the Company, filed as Appendix to the
+              Company's Joint Proxy Statement / Prospectus filed as Form 14A
+              dated November 14, 1997 and incorporated herein by reference.
+
+      10.3    Reciprocal Services Agreement, dated June 30, 1994, between the
+              Company and Precept, filed as Exhibit 10.15 to the Company's
+              Form S-1 and incorporated herein by reference.
+
+      10.4    Mutual Indemnification Agreement, dated June 30, 1994, between the
+              Company and Precept, filed as Exhibit 10.18 to the Company's
+              Form S-1 and incorporated herein by reference.
+
+      10.5    Stockholders Tax Indemnification Agreement, dated June 30, 1994,
+              between the Company and the Stockholders named therein, filed as
+              Exhibit 10.19 to the Company's Form S-1 and incorporated herein by
+              reference.
+
+      10.6    Form of Directors Indemnification Agreement, filed as
+              Exhibit 10.20 to the Company's Form S-1 and incorporated herein by
+              reference.
+
+      10.7    Credit Agreement dated December 15, 1995 the Company, Bank One,
+              Texas, N.A., as Documentation Agent and Co-Agent, First Interstate
+              Bank of Texas N.A., as Administrative Agent and Co-Agent and
+              Certain Lenders filed as Exhibit 10.1 to the Company's Third
+              Quarter Report on Form 10-Q for the quarter ended March 31, 1996
+              and incorporated herein by reference.
+</TABLE>
+
+
+<PAGE>   17
+
+
+<TABLE>
+<S>           <C>
+      10.8    Restated Credit Agreement dated June 20, 1996 between the Company,
+              Borrower, Wells Fargo Bank (Texas), N.A., Agent, Bank One, Texas,
+              N.A., Co-Agent, and Certain Lenders for $160,000,000 Revolving
+              Facility filed as Exhibit 10.19 to the Company's Annual Report on
+              Form 10-K for the year ended June 30, 1996 and incorporated herein
+              by reference.
+
+      10.9    First Amendment to Restated Credit Agreement dated July 29, 1997
+              the Company, Wells Fargo Bank (Texas) N.A., Agent; Bank One,
+              Texas, N.A., Co-Agent; and Certain Lenders for $200,000,000
+              Revolving Facility filed as Exhibit 10.14 to the Company's Annual
+              Report on Form 10-K for the year ended June 30, 1997 and
+              incorporated herein by reference.
+
+     10.10    Second Amendment to Restated Credit Agreement dated March 20, 1998
+              between the Company, Wells Fargo Bank (Texas) N.A., Agent; Bank
+              One, Texas, N.A., Co-Agent; and Certain Lenders for $200,000,000
+              Revolving Credit Facility filed as Exhibit 10.10 to the Company's
+              Annual Report on Form 10-K for the year ended June 30, 1999 and
+              incorporated herein by reference.
+
+    *10.11    Third Amendment to Restated Credit Agreement dated September 24,
+              1999 between the Company; Wells Fargo Bank (Texas), N.A., Agent;
+              Bank One, Texas, N.A., Co-Agent; and certain Lenders for
+              $200,000,000 Revolving Credit Facility.
+
+    *10.12    Credit Agreement dated September 27, 1999 between the Company;
+              Wells Fargo Bank (Texas), N.A., Agent and Arranger; and certain
+              Lenders for $50,000,000 Revolving Credit Facility.
+
+    *10.13    First Amendment to Credit Agreement dated February 24, 2000
+              between the Company; Wells Fargo Bank (Texas), N.A., Agent and
+              Arranger; and certain lenders for $50,000,000 Revolving Credit
+              Facility.
+
+    *10.14    Credit Agreement dated May 12, 2000 between the Company; Wells
+              Fargo Bank Texas, National Association, Administrative Agent and
+              Co-Lead Arranging Agent; Bank One, N.A., Syndication Agent and
+              Co-Lead Arranging Agent; SunTrust Bank, Documentation Agent: The
+              Bank of Tokyo-Mitsubishi, Ltd., Co-Agent; and certain Lenders and
+              certain Subsidiary Guarantors for $450,000,000 Revolving Credit
+              Facility.
+
+     10.15    Form of Severance Agreement by and between the Company and Certain
+              Executive Officers of the Company filed as Exhibit 10.15 to the
+              Company's Annual Report on Form 10-K for the year ended June 30,
+              1997 and incorporated herein by reference.
+
+     10.16    U.S. Department of Education Contract No. PM94017001 (portions of
+              which are subject to an Order for Confidential Treatment pursuant
+              to Rule 24b-2) included as an exhibit to the Form 10-Q/A filed
+              August 24, 1994 by ACS Government Solutions, Inc. (formerly known
+              as Computer Data Systems, Inc.) and incorporated herein by
+              reference.
+
+     10.17    Supplemental Executive Retirement Agreement by and between the
+              Company and the Company's Chairman of the Board filed as
+              Exhibit 10.13 to the Company's Annual Report on Form 10-K for the
+              year ended June 30, 1999 and incorporated herein by reference.
+
+     10.18    Employment Agreement by and between the Company and the Company's
+              Chairman of the Board filed as Exhibit 10.(iii)(A) to the
+              Company's Third Quarter Report on Form 10-Q for the quarter ended
+              March 31, 1999 and incorporated herein by reference.
+
+     *13.1    Excerpt of the Fiscal 2000 Annual Report to Stockholders, pages 18
+              through 40.
+
+     *21.1    Subsidiaries of the Company
+
+     *23.1    Consent of PricewaterhouseCoopers LLP
+
+     *27.1    Financial Data Schedule
+</TABLE>
+
+*  Filed herewith
+</TEXT>
+</DOCUMENT>

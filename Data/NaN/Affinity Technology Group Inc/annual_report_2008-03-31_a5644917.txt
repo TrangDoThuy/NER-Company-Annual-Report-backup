@@ -1,0 +1,3098 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>a5644917.txt
+<DESCRIPTION>AFFINITY TECHNOLOGY GROUP, INC. 10-K
+<TEXT>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+(Mark One)
+[X] ANNUAL REPORT  PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES  EXCHANGE
+ACT OF 1934 For the fiscal year ended December 31, 2007
+
+[_] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+For the transition period from ____________ to _____________.
+
+                         Commission file number 0-28152
+
+                         Affinity Technology Group, Inc.
+             (Exact name of registrant as specified in its charter)
+
+                                    Delaware
+         (State or other jurisdiction of incorporation or organization)
+
+                                   57-0991269
+                      (I.R.S. Employer Identification No.)
+
+                           1310 Lady Street, Suite 601
+                               Columbia, SC 29201
+                    (Address of principal executive offices)
+                                   (Zip code)
+
+                                (803) 758-2511  (Registrant's  telephone number,
+             including area code)
+
+         Securities registered pursuant to Section 12(b) of the Act:
+                                      None
+
+         Securities registered pursuant to Section 12(g) of the Act:
+                   Common Stock, par value $.0001 per share
+                                (Title of class)
+
+      Indicate by check mark if the registrant is a well-known seasoned
+issuer, as defined in Rule 405 of the Securities Act. Yes [_]   No [X]
+
+      Indicate by check mark if the registrant is not required to file
+reports pursuant to Section 13 or Section 15(d) of the Act. Yes [_]   No [X]
+
+      Indicate by check mark  whether the  registrant  (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the  Securities  Exchange  Act of
+1934  during  the  preceding  12 months  (or for such  shorter  period  that the
+registrant was required to file such reports),  and (2) has been subject to such
+filing requirements for the past 90 days. Yes [X] No [_]
+
+
+                                       1
+<PAGE>
+
+
+
+      Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's  knowledge,  in definitive proxy or information  statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [_]
+
+      Indicate  by check mark  whether  the  registrant  is a large  accelerated
+filer, an accelerated  filer, a  non-accelerated  filer, or a smaller  reporting
+company.  See the definitions of "large accelerated filer,"  "accelerated filer"
+and "smaller reporting company" in Rule 12b-2 of the Exchange Act. (Check one):
+
+            Large Accelerated Filer [_]      Accelerated Filer [_]
+            Non-Accelerated Filer   [_]      Smaller Reporting Company [X]
+
+      Indicate by check mark whether the registrant is a shell company (as
+defined in Rule 12b-2 of the Exchange Act).  Yes [_]   No [X]
+
+      The aggregate  market value of the Registrant's  outstanding  Common Stock
+held by non-affiliates of the Registrant was approximately $2,991,000 as of June
+29, 2007.  For purposes of such  calculation,  persons who hold more than 10% of
+the outstanding shares of Common Stock, directors and officers of the Registrant
+and certain of their  immediate  family members have been treated as affiliates.
+This determination is not conclusive.
+
+      There were 47,142,398 shares of the Registrant's  Common Stock outstanding
+as of March 15, 2008.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+      Certain portions of the  Registrant's  proxy statement with respect to the
+2008 Annual Meeting of Stockholders of the Registrant have been  incorporated by
+reference herein in response to certain Items in Part III of this report.
+
+
+                                       2
+<PAGE>
+
+
+                                  Introduction
+
+      As used in this report,  unless the context otherwise requires,  the terms
+"we,"  "our," "us" (or similar  terms),  the  "Company"  or  "Affinity"  include
+Affinity Technology Group, Inc. and its subsidiaries, except that when used with
+reference to common stock or other securities described herein and in describing
+the positions held by management of the Company, the term includes only Affinity
+Technology Group, Inc. The Company maintains a web site at  http://www.affi.net,
+although  the contents of such web site are not  incorporated  into this report.
+The Company has made its annual reports on Form 10-K,  quarterly reports on Form
+10-Q,  and  current  reports  on Form 8-K and any  amendments  to these  reports
+available  through  its web site free of charge  through a link to the SEC's web
+site. These documents are available for access as soon as reasonably practicable
+after we electronically file these documents with the SEC.
+
+                             Forward-Looking Statements
+
+      Statements  in this report,  including in Part I, Item 1,  "Business"  and
+Part II, Item 7,  "Management's  Discussion and Analysis of Financial  Condition
+and Results of Operations,"  that are not descriptions of historical facts, such
+as statements about the Company's future  prospects and cash  requirements,  are
+forward-looking  statements and are made pursuant to the safe harbor  provisions
+of  the  Private  Securities  Litigation  Reform  Act of  1995.  Forward-looking
+statements  typically are identified by words such as "may,"  "will,"  "should,"
+"anticipate,"  "estimate,"  "expect," "plan," "believe," predict,"  "potential,"
+"intend,"  "continue"  and similar  expressions,  although some  forward-looking
+statements may be expressed differently.  Forward-looking statements are subject
+to known and unknown risks, assumptions that may prove inaccurate, uncertainties
+and other  factors,  including  those set forth below in Part I, Item 1A,  "Risk
+Factors,"  that  could  cause  actual  results to differ  materially  from those
+expressed or implied by these forward-looking  statements. You are cautioned not
+to place undue reliance on these forward-looking statements, which speak only as
+of the date they are made.  The  Company  undertakes  no ongoing  obligation  to
+update  these   forward-looking   statements   if  we  learn  that  any  of  the
+forward-looking statements or the underlying assumptions are incorrect.
+
+Part I
+
+Item 1. Business
+
+        Overview
+
+      Affinity   Technology   Group,  Inc.  was  incorporated  as  a  Delaware
+corporation  in 1994.  Its  principal  executive  offices  are located at 1310
+Lady Street,  Suite 601,  Columbia,  South Carolina  29201,  and its telephone
+number is (803) 758-2511.
+
+      Affinity  was  formed to  develop  and  market  technologies  that  enable
+financial  institutions  and other  businesses  to  provide  consumer  financial
+services  electronically  with  reduced or no human  intervention.  Products and
+services  previously  offered by Affinity include its DeciSys/RT loan processing
+system,  which automated the processing and  consummation of consumer  financial
+services  transactions;  the Affinity  Automated  Loan Machine (the ALM),  which
+allowed an applicant  to apply for and, if approved,  obtain a loan in as little
+as ten minutes;  the  Mortgage  ALM,  which  allowed an applicant to apply for a
+mortgage loan;  e-xpertLender,  which permitted a financial  institution to make
+automated lending decisions through its call centers and branches;  iDEAL, which
+permitted  automobile  lenders to make  automobile  lending  decisions  for loan
+applications originated at automobile dealers; and rtDS, which permitted lenders
+to deliver  credit  decisions to applicants  over the  Internet.  Due to capital
+constraints,  we have  suspended  all  efforts  to further  develop,  market and
+operate these products and services.  Our last processing contract terminated in
+late 2002,  and we have no plans in the near term to engage in further  sales or
+other activities  related to our products or services,  other than to attempt to
+license certain of the patents that we own.  Currently,  our business activities
+consist  exclusively of attempting to enter into license  agreements  with third
+parties to license our rights  under  certain of our patents and in pursuing the
+patent  litigation  described  below in an effort to  protect  our  intellectual
+property and obtain  recourse  against alleged  infringement of our patents.  In
+2007, our sole revenues from  operations  were  generated  from one  outstanding
+license of our patents.
+
+
+                                       3
+<PAGE>
+
+
+      Patents and Legal Matters
+
+      In conjunction with our product development activities, we applied for and
+obtained  three  patents.   We  have  been  granted  two  patents  covering  our
+fully-automated  loan  processing  systems  (U.S.  Patent Nos.  5,870,721 C1 and
+5,940,811  C1). In August 2000,  the U.S.  Patent and Trademark  Office  ("PTO")
+issued to us a patent covering the fully-automated  establishment of a financial
+account including credit accounts (U.S. Patent No. 6,105,007 C1).
+
+      All of these  patents have been subject to  reexamination  by the PTO as a
+result of challenges to such patents by third  parties.  On January 28, 2003, we
+received a Reexamination  Certificate  (U. S. Patent No.  5,870,721 C1) from the
+PTO which formally concluded the reexamination of U. S. Patent No. 5,870,721. On
+December 20, 2005,  we received a  Reexamination  Certificate  (U.S.  Patent No.
+5,940,811 C1) from the PTO which formally  concluded the  reexamination  of U.S.
+Patent No. 5,940,811. On July 25, 2006, we received a Reexamination  Certificate
+(U.S.  Patent  No.  6,105,007  C1) from the PTO  which  formally  concluded  the
+reexamination  of U.S.  Patent  No.  6,105,007  and  which  indicated  that  the
+reexamination  resulted in the full  allowance of all the claims of this patent.
+It is possible that third parties may bring additional actions to contest all or
+some of our patents. We can give no assurances that we will not lose all or some
+of the claims covered by our existing patents.
+
+      In June 2003, we filed a lawsuit against Federated Department Stores, Inc.
+("Federated"), and certain of its subsidiaries alleging that Federated infringed
+one of our patents (U. S. Patent No.  6,105,007).  In September 2003, we filed a
+similar  lawsuit  against  Ameritrade  Holding  Corporation  and its subsidiary,
+Ameritrade, Inc. (collectively "Ameritrade"),  alleging infringement of the same
+patent.  Both  lawsuits  were  filed  in the  United  States  District  Court in
+Columbia,  South  Carolina  (the  "Columbia  Federal  Court"),  and both  sought
+unspecified  damages.  In 2004, at the request of Federated and Ameritrade,  the
+PTO  determined  to  reexamine  U.S.  Patent No.  6,105,007.  As a result of the
+reexamination  of U.S.  Patent No.  6,105,007,  we,  jointly with  Federated and
+Ameritrade,  requested the Columbia  Federal Court to stay the lawsuits  against
+Federated and Ameritrade pending resolution of the reexamination of U. S. Patent
+No.  6,105,007.  In March 2006,  we were notified that the PTO had concluded the
+reexamination of U.S. Patent No. 6,105,007 and that such reexamination  resulted
+in the full  allowance  of all the  claims  of this  patent.  As a result of the
+completion of the PTO's reexamination of U.S. Patent No. 6,105,007,  the stay of
+these lawsuits against  Federated and Ameritrade was automatically  lifted,  and
+the lawsuits proceeded.
+
+      In November 2003,  Household  International,  Inc.  ("Household")  filed a
+declaratory  judgment  action against us in the United States  District Court in
+Wilmington,  Delaware (the "Delaware Federal Court"). In its complaint Household
+requested the Delaware  Federal Court to rule that  Household was not infringing
+any of the claims of our patents (U.S.  Patent No. 5,870,721 C1, No.  5,940,811,
+and No.  6,105,007) and that the patents were not valid. We filed  counterclaims
+against Household  claiming that Household  infringed U. S. Patent No. 5,870,721
+C1, No. 5,940,811,  and No. 6,105,007.  We also filed a motion with the Delaware
+Federal Court to transfer the case to the Columbia Federal Court. In April 2004,
+the Delaware  Federal  Court granted our motion to transfer the case to Columbia
+Federal Court. As a result of the  reexamination  of U.S. Patent No.  6,105,007,
+we,  jointly with  Household,  requested  and  received a stay of the  Household
+action from the  Columbia  Federal  Court  pending the  resolution  of the PTO's
+reexamination  of  U.S.  Patent  No.  6,105,007.  As  discussed  above,  the PTO
+subsequently   concluded  the   reexamination  of  U.S.  Patent  No.  6,105,007.
+Accordingly,  the stay of this lawsuit was automatically lifted, and the lawsuit
+proceeded.
+
+      In accordance with the patent  infringement  lawsuits with  Federated,  TD
+Ameritrade  (formerly  Ameritrade) and HSBC (formerly  Household),  as described
+above,  a "Markman  Hearing"  was held in December  2006.  Markman  hearings are
+proceedings  under U.S.  patent law in which  plaintiffs and defendants  present
+their  arguments to the court as to how they  believe the patent  claims - which
+define  the scope of the  patent  holder's  rights  under the patent - should be
+interpreted  for purposes of  determining at trial whether the patents have been
+infringed. For purposes of the Markman hearing, the Federated, TD Ameritrade and
+HSBC cases were  consolidated  into one hearing and held by the Columbia Federal
+Court.  As a result  of the  Markman  proceedings  the  Columbia  Federal  Court
+interpreted  and construed the meaning of numerous claim terms which bear on the
+scope of our patents.  Although  most claim terms were  construed in a manner we
+believe are favorable,  the trial judge  interpreted and construed certain claim
+terms,  most notably those related to the term "remote  interface" as claimed in
+our  second  loan  processing  patent  (U.S.  Patent No.  5,940,811  C1) and our
+financial   account  patent  (U.S.   Patent  No.  6,105,007  C1),  in  a  manner
+unacceptable and unfavorable to us. In these patents,  the Court interpreted and
+construed  "remote  interface" to mean computer  equipment,  including  personal
+computer equipment,  that is not owned by a consumer.  The Court applied no such
+limitation  in  construing  the term  "remote  interface"  under our first  loan
+processing patent (U.S. Patent No. 5,870,721 C1).
+
+
+                                       4
+<PAGE>
+
+
+      Subsequent to the Markman  ruling,  Federated,  Ameritrade  and HSBC filed
+summary  judgment  motions with the Columbia  Federal Court  requesting that the
+lawsuits be  dismissed.  In March 2007,  the Columbia  Federal Court granted the
+summary  judgment motions filed by Federated and Ameritrade and in April 2007 it
+granted the summary  judgment  motions filed by HSBC.  Accordingly,  our lawsuit
+with each of the  defendants was  dismissed.  The basis of the Columbia  Federal
+Court's rulings stemmed from the interpretation and application of certain claim
+terms the Court  interpreted  and  defined as part of the  Markman  Hearing,  as
+discussed above.
+
+We have  appealed  to the U.S.  Court of Appeals for the  Federal  Circuit  (the
+"Federal Appeals Court") and have requested the Federal Appeals Court to reverse
+certain of the Markman  rulings made by the Columbia  Federal Court and grant to
+us more  favorable  interpretations  and  definitions  related to certain of the
+claim terms in our patents.  Additionally,  the  defendants  have  requested the
+Federal  Appeals Court to reverse  certain  Markman rulings that we believe were
+favorable to us. Oral  arguments in our cases were heard by the Federal  Appeals
+Court on December 3, 2007. Unless we can obtain a more favorable  interpretation
+of certain claim terms and maintain the favorable rulings we obtained during the
+Markman hearing,  it is possible the scope of our patents could be significantly
+limited. Furthermore, we believe it is unlikely that the U.S. Supreme Court, the
+only  further  appeals  body beyond the Federal  Appeals  Court,  will review or
+reconsider  their rulings and,  therefore,  we believe that the Federal  Appeals
+Court's rulings will be dispositive  and will probably  determine the outcome of
+our business. Moreover, we believe that the rulings made by the Columbia Federal
+Court, including the Markman rulings that necessitated our appeal to the Federal
+Appeals  Court,  has and will  continue  to hinder our  ability  to license  our
+patents.  Further, our appeal will likely require substantial  resources and may
+require  an  extended  period of time to  complete,  which  will in turn  likely
+increase the already  significant  costs and expected time required to prosecute
+our existing  infringement  actions.  We do not believe  that our existing  cash
+resources  will be  sufficient  to enable us to  complete  our  appeal  and,  if
+successful,  to complete the  prosecution  of our  lawsuits  against the alleged
+infringers. Accordingly, to remain viable in the near term, it is likely that we
+will be required  to raise  additional  capital  through the sale of debt and/or
+equity securities or from licensing our patents.  We can give no assurance that,
+in such event, we will be able to raise the resources  necessary to complete our
+appeal.  We also can give no assurance  that, even if we are able to finance our
+appeal to completion, such appeal will result in a favorable outcome. Even if we
+are successful in pursuing our appeal to completion and a favorable outcome,  we
+cannot  assure you that we will then have  sufficient  funding to  continue  our
+underlying lawsuits or that such lawsuits would succeed in obtaining a favorable
+outcome for us.
+
+      In addition, we and our founder, Jeff Norris, were defendants in a lawsuit
+filed by Temple  Ligon on November 30, 1996 in the Court of Common Pleas for the
+County of Richland in Columbia,  South Carolina.  Mr. Ligon claimed, among other
+things,  that  Affinity  and Mr.  Norris  breached an agreement to give him a 1%
+equity  interest in Affinity in  consideration  of services  Mr. Ligon claims to
+have performed in 1993 and 1994 in  conjunction  with the formation of Affinity,
+and sought monetary damages of $5,463,000.  This lawsuit initially resulted in a
+jury verdict against us of $68,000.  However,  Mr. Ligon subsequently  requested
+and was granted a new trial. In January 2004,  this lawsuit  resulted in another
+jury verdict  against us of $382,148.  In connection with the litigation and the
+resulting  jury  verdict,  we filed  post-trial  motions with the trial court in
+which, among other things, we claimed that the jury verdict should be set aside.
+On July 23,  2004,  the trial  judge  granted  our  motions,  set aside the jury
+verdict,  and ordered entry of a judgment in favor of us. The plaintiff appealed
+the trial  judge's  ruling to the South  Carolina  Court of Appeals  (the "South
+Carolina Appeals Court").  On October 30, 2006, the South Carolina Appeals Court
+reversed the trial judge's decision and reinstated the jury verdict of $382,148.
+Our petition to the South  Carolina  Appeals  Court for a rehearing of this case
+was denied, and we petitioned the South Carolina Supreme Court to hear this case
+and to grant us relief from this ruling.  In October 2007, we were notified that
+the South  Carolina  Supreme  Court had denied our  petition  to hear this case.
+Accordingly,  we have no further  legal  recourse and a judgment will be entered
+against us of $382,148,  plus accrued interest. At this time, we do not have the
+cash resources to pay this judgment. We will continue to evaluate our options to
+resolve or postpone any  payments  related to this  matter;  however,  if we are
+required  to pay more  than an  insignificant  amount  in  connection  with this
+judgment  in the near  term,  we would be forced to  consider  alternatives  for
+winding down our  business,  which may include  offering our patents for sale or
+filing for bankruptcy protection.
+
+
+                                       5
+<PAGE>
+
+
+      To date,  we have  generated  substantial  operating  losses and have been
+required to use a substantial  amount of cash resources to fund our  operations.
+At December 31, 2007, we had cash and cash  equivalents of $50,217 and a working
+capital  deficit of  $4,257,741.  We  generally  have been  unable to enter into
+licensing  agreements with potential licensees upon terms that are acceptable to
+us and, as discussed  above,  we have sought  recourse  through  litigation with
+alleged infringers of our patents. Additionally and as also discussed above, our
+lawsuits  against the alleged  infringers  have been  dismissed  by the Columbia
+Federal Court,  and we have appealed to the Federal  Appeals  Court.  We are not
+certain as to the length of time it will take to complete our appeal.  We do not
+believe that our existing  cash  resources  will be  sufficient  to complete the
+appeals  process and, if successful,  to allow us to complete the prosecution of
+our lawsuits against the alleged  infringers.  Accordingly,  to remain viable in
+the near term, it is likely that we will be required to raise additional capital
+through the sale of debt and/or equity securities or from licensing our patents.
+We can give no  assurances,  however,  that we will be able to raise  additional
+capital or  generate  capital  from our patent  licensing  business at all or in
+amounts sufficient to complete our appeal.  Unless we raise additional  capital,
+we may have to consider  alternatives  for winding down our business,  which may
+include offering our patents for sale or filing for bankruptcy protection.
+
+      Patent Licensing Agent
+
+      On May 27, 2003,  our  decisioning.com,  Inc.  subsidiary,  which owns our
+patent portfolio,  entered into a legal representation  agreement with Withrow &
+Terranova,  PLLC ("W&T"), pursuant to which decisioning.com appointed W&T as its
+exclusive  representative  for the solicitation and negotiation of agreements to
+license our patents.  (This  arrangement  replaced the former  patent  licensing
+agent agreement between  decisioning.com and Information  Ventures LLC d/b/a LPS
+Group, which was terminated on April 30, 2003.) Under the agreement,  W&T agreed
+to promote,  market,  solicit,  and  negotiate the licensing of our patents with
+third  parties and to represent  decisioning.com  as legal counsel in connection
+with any patent  litigation  associated with the enforcement of our patents.  As
+compensation for its services under the agreement, W&T was to receive 25% of all
+revenues received by decisioning.com  under any patent agreements and 25% of all
+amounts   paid  in   settlement   of  any   patent   litigation   commenced   by
+decisioning.com.  The  term of the  agreement  is for the  life of the  patents,
+subject to either  party's  right to  terminate  the  agreement  for "cause," as
+specified in the agreement, and without cause following the third anniversary of
+the agreement.  If the agreement is terminated by  decisioning.com,  W&T will be
+entitled to continue to receive  compensation  attributable to patent agreements
+negotiated  prior to  termination  and, if such  termination  is without  cause,
+compensation for certain future patent agreements.
+
+      In July 2006, we engaged McBride Law, PC (the "McBride Firm") to assist us
+and W&T in connection with our patent licensing program and related  litigation.
+In conjunction  with the engagement of the McBride Firm we amended our agreement
+with W&T and agreed to pay W&T and the  McBride  Firm a fee equal to 19% and 6%,
+respectively,  of all  amounts  received  from  parties  against  whom  we  have
+commenced  litigation,  all other revenues received by us pursuant to any patent
+agreements  (subject to reduction in certain  events),  and all amounts received
+from the sale of our  patents.  We have also  agreed to pay W&T and the  McBride
+Firm 50% of their billing rates for their services.  Otherwise, the terms of the
+agreements  with W&T and McBride  Law are  consistent  with the terms  discussed
+above.
+
+      Competition
+
+      The market for  technologies  that  enable  electronic  commerce is highly
+competitive  and is  subject  to  rapid  innovation  and  technological  change,
+shifting consumer  preferences,  new product  introductions and competition from
+traditional  methods  having all or some of the same  features  as  technologies
+enabling electronic  commerce.  Competitors in this market have frequently taken
+different  strategic  approaches  and  have  launched  substantially   different
+products or services in order to exploit the same perceived market  opportunity.
+Until the market actually validates a strategy through widespread  acceptance of
+a product or  service,  it is  difficult  to identify  all current or  potential
+market participants.  There can be no assurance that the technologies covered by
+our patents will be competitive technologically or otherwise.
+
+
+                                       6
+<PAGE>
+
+
+      Electronic commerce technologies in general, including the methods covered
+by our  patents,  compete  with  traditional  methods for  processing  financial
+transactions. The success of our patent licensing efforts will depend in part on
+consumer  acceptance of electronic commerce and industry use of systems that are
+covered by our patents.
+
+      Intellectual Property
+
+      We were  issued two  patents in 1999  covering  systems  and  methods  for
+real-time loan  processing over a computer  network  without human  intervention
+("System and Method for Real-time Loan Approval," U.S. Patent No. 5,870,721, and
+"Closed-loop  Financial  Transaction  Method  and  Apparatus,"  U.S.  Patent No.
+5,940,811). Both of our patents covering fully automated loan processing systems
+expire in 2013 and have been subject to  reexamination by the PTO at the request
+of third  parties who  challenged  the validity of the  patents.  On January 28,
+2003, we received a Reexamination  Certificate  (U.S.  Patent No.  5,870,721 C1)
+relating  to the  completion  of the PTO's  reexamination  of U. S.  Patent  No.
+5,870,721.  On December 20, 2005, we received a Reexamination  Certificate (U.S.
+Patent No.  5,940,811 C1) relating to the completion of the PTO's  reexamination
+of U.S. Patent No. 5,940,811.
+
+      In  August  2000,   we  were  issued  a  patent   covering  the  automated
+establishment  of a financial  account  without human  intervention  ("Automatic
+Financial Account Processing  System," U.S. Patent No.  6,105,007).  This patent
+also expires in 2013.  On June 23, 2004, we were notified by the PTO that it had
+granted a reexamination  request previously filed by Federated and Ameritrade to
+reexamine  U. S.  Patent  No.  6,105,007.  On  July  25,  2006,  we  received  a
+Reexamination  Certificate  (U.S.  Patent No.  6,105,007  C1) from the PTO which
+formally  concluded the  reexamination  of U.S.  Patent No.  6,105,007 and which
+indicated  that the  reexamination  resulted  in the full  allowance  of all the
+claims of this patent.
+
+      As  discussed  above,  we  had  lawsuits  pending  against  Federated  and
+Ameritrade in the Columbia Federal Court involving our claim that both Federated
+and  Ameritrade  infringed  U.  S.  Patent  No.  6,105,007  C1.  We had  similar
+litigation  pending  against  Household   International,   Inc.   ("Household"),
+involving our claim that Household  infringed U.S. Patent No.  5,870,721 C1, No.
+5,940,811 C1 and No. 6,105,007 C1. As also explained above, the Columbia Federal
+Court has  dismissed  those  lawsuits  and we are in the  process  of  appealing
+certain Markman rulings made by the Columbia Federal Court which we believe were
+the basis of the dismissal of our lawsuits.
+
+      Other  parties may take actions to challenge  our patents.  We can make no
+assurances  that we will  not  lose  all or some of the  claims  covered  by our
+existing patents as the result of such challenges or other litigation, including
+actions initiated by us, regarding our patents.
+
+      Our success is completely dependent upon our ability to defend and license
+our  patents.  There can be no  assurance  that we will be able to  protect  our
+intellectual  property  rights  under  our  patents.  Moreover,  there can be no
+assurance that new  technological  innovations  will not be developed and widely
+accepted  by the market  which will  render  obsolete  the types of systems  and
+methods over which we believe we have proprietary intellectual property rights.
+
+      Employees
+
+      At December 31, 2007 and 2006, we employed 2 full-time employees.  We have
+no collective bargaining agreements.
+
+
+                                       7
+<PAGE>
+
+
+Item 1A. Risk Factors
+
+      An investment in our common stock  involves  numerous types of risks and a
+high degree of risk generally.  You should carefully consider the following risk
+factors,  in addition to the other  information  contained  in this  report,  in
+evaluating our Company and any potential  investment in our common stock. If any
+of  the  following  risks  or  uncertainties  occurs,  our  business,  financial
+condition and operating results could be materially and adversely affected,  the
+trading price of our common stock could decline and you could lose all or a part
+of your investment in our common stock. The risks and uncertainties described in
+this section are not the only ones facing us. Additional risks and uncertainties
+not  presently  known  to us or that  we  currently  deem  immaterial  may  also
+materially and adversely  affect our business,  operating  results and financial
+condition.
+
+      We have limited capital  resources and have continued to incur significant
+operating  losses,  all of which threaten and raise  substantial doubt about our
+ability to continue as a going concern.
+
+      We have generated net losses of  $73,422,095  since our inception and have
+financed our operations  primarily  through net proceeds from our initial public
+offering in May 1996 and cash  generated  from  operations  and other  financing
+transactions. Net proceeds from our initial public offering were $60,088,516.
+
+      Our  substantial  operating  losses have  required us to use a substantial
+amount of cash  resources to fund our  operations.  Net cash used by  operations
+during the year ended December 31, 2007, was $976,761, and at December 31, 2007,
+we had a working capital  deficit of $4,257,741.  See Part 1, Item 1, "Business"
+and  Part  II,  Item 7,  "Management's  Discussion  and  Analysis  of  Financial
+Condition and Results of  Operations--Liquidity."  We generally have been unable
+to enter into licensing  agreements with potential licensees upon terms that are
+acceptable to us, and have pursued  litigation  against alleged  infringers,  as
+described  further  in Part 1,  Item 1,  "Business."  To  pursue  an  appeal  of
+unfavorable  rulings  issued  in  December  2006 in a  Markman  hearing,  and to
+continue vigorously pursue these lawsuits generally,  we anticipate that we will
+need to increase our operating  expenses due to, among other  things,  increased
+litigation  costs and related  expenses.  Accordingly,  to remain viable through
+2008, it is critical that we raise  additional  capital through the sale of debt
+and/or equity  securities or from  licensing our patents.  No assurances  can be
+given that we will be able to raise additional  capital or generate capital from
+our patent licensing  business.  Unless we raise additional capital, we may have
+to  consider  alternatives  for  winding  down our  business,  which may include
+offering our patents for sale or filing for bankruptcy protection.
+
+      The report of our  independent  registered  public  accounting firm on our
+audited  financial  statements  included  with this report  contains a statement
+noting that our recent  history of losses,  combined with other  factors,  raise
+substantial doubt about our ability to continue as a going concern. Although our
+plans to address these issues are  discussed in Note 1 to the audited  financial
+statements included in this report and elsewhere in this report, these plans are
+subject  to  numerous  risks and  contingencies,  many of which are  beyond  our
+control,  and we can give no  assurance as to whether or how long we may be able
+to succeed in addressing  these issues and  maintaining our viability as a going
+concern.
+
+      We have  incurred and continue to incur  significant  debt relative to our
+revenues  and if we  are  unable  to  repay  this  debt  when  due,  as we  have
+experienced in the past, our  operations and  flexibility  may be restricted and
+the viability of our Company may be threatened.
+
+      In 2002,  we  initiated a  convertible  note  program  under which we were
+authorized  to issue up to  $1,500,000  principal  amount of our 8%  convertible
+secured notes (the "notes").  In February 2006, the convertible note program was
+amended  to allow us to issue up to  $3,000,000  of our  notes.  Prior to August
+2006, we had issued an aggregate of $1,575,336  principal  amount of notes under
+this program,  including  notes with an aggregate  principal  amount of $536,336
+that have been converted into shares of our common stock.
+
+      These notes bear interest at 8%, are convertible  into our common stock at
+a  conversion  rate of $.20 per share (for notes  issued prior to the April 2006
+amendment to the program) or $.50 per share (for notes issued in May 2006),  and
+are secured by our equity  interest  in our  decisioning.com,  Inc.  subsidiary,
+which owns our patent  portfolio.  Principal  and  interest  under  these  notes
+generally becomes payable in full on the second anniversary of the date on which
+these notes were issued.  However, under the terms of the notes, the full amount
+of principal and interest  under all notes may be declared  immediately  due and
+payable in certain events, including bankruptcy or similar proceedings involving
+us, a default in the payment of  principal  and  interest  under any note,  or a
+change in control of the Company.
+
+
+                                       8
+<PAGE>
+
+
+       From June 2004 through August 2006, we were in default  regarding payment
+of principal and interest due under certain of the notes. Accordingly,  the full
+amount of principal and interest  outstanding under all notes was payable at the
+option of all  noteholders.  At December 31, 2005,  the amount of principal  and
+accrued interest outstanding under all of the notes was $1,595,906.
+
+      In August 2006, we and the holders of all  outstanding  notes entered into
+an amended and restated note purchase  agreement under which such holders agreed
+to extend the maturity  date of such notes by  exchanging  them  (including  all
+interest  accrued  thereon)  for new  two-year  notes due in August  2008 in the
+aggregate  principal  amount of  $1,268,027.  Under the  amended  note  purchase
+agreement,  we may  issue  notes  in the  aggregate  principal  amount  of up to
+$5,000,000  (including the notes issued to current noteholders,  as described in
+the  preceding  sentence)  having an exercise  price  determined  by us and each
+investor at the time of issuance.
+
+      The new notes  issued in August  2006 have the same terms as the old notes
+exchanged therefor, except that the new notes will mature in August 2008. Of the
+new notes issued,  notes with a principal  amount of $1,115,068 are  convertible
+into  shares of our common  stock at $.20 per share,  and notes with a principal
+amount of $152,959 are  convertible  into shares of our common stock at $.50 per
+share.  The new notes include a note in the principal  amount of $166,863 issued
+to our Chief  Executive  Officer and a note in the principal  amount of $122,115
+issued to a subsidiary of The South Financial  Group.  The South Financial Group
+Foundation,  a non-profit  foundation  established by the South Financial Group,
+owns approximately 10% of our outstanding capital stock.
+
+      In September 2006, we sold additional  convertible  notes in the aggregate
+principal  amount of  $1,905,000.  The terms of these  notes are the same as the
+notes we previously  issued,  except that they may be converted  into our common
+stock at a rate of $.42 per share.
+
+      Although our  refinancing in August 2006 (due in August 2008) of the notes
+under which we were  previously in default and our additional  issuance of notes
+in September 2006 (due in September  2008) have afforded us additional  time and
+resources to execute our  business  strategy,  we can give no assurance  that we
+will be  successful in doing so or in  generating  revenues  sufficient to repay
+this  indebtedness  when due. In such an event,  the  lenders  under these notes
+would have the option to declare  all amounts  under the notes due and  payable,
+and our resulting inability to pay could force us to liquidate or otherwise wind
+down our  business  operations,  including  our possible  filing for  bankruptcy
+protection and the potential loss of our patents  through sale or foreclosure by
+the holders of the notes pursuant to their security interest in our patents.
+
+      Our business  depends  exclusively on the success of our patent  licensing
+program, which if unsuccessful, will threaten our survival.
+
+      Due to capital  constraints,  we have suspended efforts to deploy our loan
+processing  products and services.  Our business  activities  currently  consist
+exclusively of attempting to license  certain of our patents.  Our prospects are
+wholly  dependent  on our ability to finance and  execute a  sustainable  patent
+licensing program.  Even though we believe there are companies that may be using
+systems,  processes and methods covered by our patents,  it is not known whether
+we will be able to enter into any new licensing agreements. Moreover, we may not
+have the resources to sustain our patent licensing  program,  enforce our patent
+rights,  finance  any  related  litigation,  or  successfully  negotiate  patent
+licenses on terms that will generate meaningful future revenues.
+
+      We are  further  subject  to the risk that  negotiations  to  license  our
+patents may be lengthy and that it may be necessary for us to become involved in
+additional litigation to assert and protect our intellectual property rights. To
+date,  we generally  have been unable to enter into  licensing  agreements  with
+potential  licensees upon terms that are acceptable to us. As a result,  we have
+been forced to become involved in litigation with alleged infringers. Currently,
+we are  involved  in the  appeal of  adverse  rulings  related  to three  patent
+litigation actions. We believe that this appeal and, if successful,  the related
+lawsuits,  may  take an  extended  period  of time to  complete.  We can give no
+assurance that we will have the resources  necessary to complete our appeal and,
+if successful, the related lawsuits or that we will be successful in obtaining a
+favorable  outcome.  Prolonged  patent  litigation could have a material adverse
+effect on our business, operating results and financial position.
+
+
+                                       9
+<PAGE>
+
+
+      Challenges  to our patents could  significantly  diminish or eliminate any
+potential value these patents may have to us.
+
+      All of our  patents  have been  subject to  reexamination  by the PTO as a
+result of challenges  to such patents by third  parties.  Additionally,  we have
+pursued lawsuits against alleged infringers of our patents. For more information
+regarding these reexaminations and lawsuits,  see Part I, Item 1, "Business." In
+conjunction with these lawsuits, a Markman hearing was held in December 2006, in
+which the court  interpreted  certain of our  patent's  claim  terms in a manner
+unacceptable  and  unfavorable  to us.  Unless  we can  obtain a more  favorable
+interpretation of the claim terms,  through our appeal of the ruling,  which may
+require substantial  resources and extended time to complete,  it is likely that
+the scope of our patents would be significantly limited.
+
+      Defendants in these  lawsuits have  challenged the validity of our patents
+by requesting reexaminations and otherwise, and we expect that current or future
+defendants  will  continue to  challenge  the validity of our patents and assert
+non-infringement  as a defense. It is also possible that other third parties may
+bring additional actions to contest all or some of our patents.  We may lose all
+or some of the claims covered by our existing patents as a result of existing or
+future  challenges.  The  loss  of all or some of our  claims  or a  significant
+limitation of such claims could have a material adverse effect on our ability to
+execute a  successful  patent  licensing  program.  Moreover,  if other  parties
+request  reexaminations of or otherwise  challenge our patents in the future, we
+are  subject  to the  risk  that  such  proceeding  may not be  resolved  to our
+satisfaction  on a  timely  basis,  if at all.  Any such  proceeding  may have a
+material  adverse  effect  on our  business,  operating  results  and  financial
+position.  Further,  in the  event  a  challenge  to our  patents  results  in a
+significant loss of all or some of our claims, our only remedy may be to contest
+the  decision,  which  would  likely be a lengthy  process.  Due to our  limited
+capital resources,  we do not believe that we could successfully  contest such a
+decision without additional cash resources.
+
+      If the  e-commerce  channels and processes on which our patents depend are
+rendered  obsolete,  incompatible,  or undesirable due to changes in technology,
+the  underlying  laws  governing  patents,   shifting  consumer  preferences  or
+competition  from products and services  delivered by more  traditional or other
+means,  our business and the potential  value of our patents would be materially
+and adversely affected.
+
+      Our patents are specific to the  e-commerce  businesses  of the  financial
+services  industry and  generally  cover the automated  establishment  of loans,
+financial  accounts  and  credit  accounts  using  specific  e-commerce  related
+systems, processes and methods. The market for products and services that enable
+e-commerce is subject to change and technological development, shifting consumer
+preferences, new product introductions and competition from traditional products
+and  services  having all or some of the same  features as products and services
+which enable e-commerce. It is possible that new products or technologies may be
+developed that may render obsolete the systems, processes and methods over which
+we believe we have  intellectual  property  rights.  Moreover,  the  delivery of
+products and services through  e-commerce  channels is not fully developed,  and
+competition  from  traditional  channels  to  deliver  these same  products  and
+services  is  intense.  Any  wide-scale  rejection  of  e-commerce  channels  by
+consumers will have a material adverse effect on our business, operating results
+and financial position.
+
+      Because  of the  highly  technical  and  specialized  business  of  patent
+licensing,  our success depends on the expertise and efforts of third parties we
+engage at significant expense.
+
+      Patent  licensing is a highly  technical and  specialized  business  which
+requires  that we rely on the  services  of  third  parties.  We have  appointed
+Withrow & Terranova, PLLC ("W&T") as our exclusive patent licensing agent. Under
+the terms of the  agreement,  W&T has  agreed,  among other  things,  to perform
+market  research,  initiate the sales of patent  license  agreements,  negotiate
+patent  licensing  arrangements  with third  parties,  and represent us as legal
+counsel in connection with the enforcement of our patents.  Accordingly,  we are
+dependent  on the efforts of W&T to  successfully  execute our patent  licensing
+program.  Additionally,  the agreement requires W&T to coordinate the engagement
+of experts,  on terms  satisfactory  to us, if litigation  becomes  necessary to
+enforce  our patent  rights.  Moreover,  experts  frequently  request and charge
+significant fees. In addition,  because of the specialized knowledge required to
+perform  these  duties,  we may not be able to  critically  evaluate the advice,
+efforts,  judgments and recommendations of these experts and to know whether our
+interests would be better served by additional or different advice or expertise.
+To the extent the advice,  efforts,  judgments or  recommendations  of our third
+party  experts  prove  inferior  to other  alternatives,  our  patent  licensing
+program,  business  prospects  and financial  condition  may be  materially  and
+adversely affected.
+
+
+                                       10
+<PAGE>
+
+
+      Our quarterly results tend to fluctuate significantly,  which could have a
+material adverse effect on the price of our common stock.
+
+      Since inception,  our quarterly  results have fluctuated and have not been
+susceptible to meaningful  period-to-period  comparisons. We believe that we may
+continue to  experience  significant  fluctuations  in our  quarterly  operating
+results in the  foreseeable  future.  We  anticipate  that our  period-to-period
+revenue and  operating  results will depend on numerous  factors,  including our
+ability to successfully negotiate and enter into patent licensing agreements and
+the timing, terms and the pricing attributes of any such agreements.
+
+      We believe that period-to-period  comparisons of our operating results are
+not  meaningful  and  should  not be  relied  upon as an  indication  of  future
+performance.  The  uncertainty  regarding the extent and timing of our revenues,
+coupled with the risk of  substantial  fluctuations  in our quarterly  operating
+results may have a material adverse effect on the price of our common stock.
+
+      The loss of the services of our Chairman,  President  and Chief  Executive
+Officer  could have a material  adverse  effect on our business and our existing
+financial  condition and adversely  affect our ability to recruit and retain key
+employees and executives to further our business interests.
+
+      We are highly  dependent on the services of our  Chairman,  President  and
+Chief  Executive  Officer,  Joseph  A.  Boyle,  but do not  have  an  employment
+agreement  with Mr. Boyle or "key man"  insurance on his life. The complete loss
+of the  services  of Mr.  Boyle  could  have a  material  adverse  effect on our
+business,  operating  results and  financial  condition.  Based on our  existing
+financial condition,  we maintain a minimal staff and have not sought to recruit
+new key  employees  and  executives  who possess the  experience,  knowledge and
+skills to assist us in  furthering  our  business  interests  or  expanding  our
+operations.  In any event,  we believe that it would be difficult to attract and
+retain such employees in light of our existing financial condition.
+
+      We  have  a  significant   number  of  securities   outstanding  that  are
+convertible  into our common stock, and the conversion of these securities could
+result in substantial dilution to existing stockholders.
+
+      We have issued  notes that are  convertible  into  common  stock at $0.20,
+$0.50 and $0.42 per share,  which conversion prices could be substantially  less
+than the  market  price of the  common  stock  at the  time of  conversion.  The
+issuance  of stock at a price that is less than the market  price  could have an
+immediate  adverse effect on the market price of our common stock.  In addition,
+we have issued options and warrants to acquire  shares of our common stock.  See
+Notes 4 & 5 to our audited financial statements included in this report for more
+information  regarding these  convertible  notes,  options and warrants.  We may
+issue  additional  convertible  notes or warrants in connection  with  financing
+arrangements  and may grant additional stock options that may further dilute our
+common stock.  The exercise of such  securities  would have a dilutive effect on
+our common stock.  Also, to the extent that persons who acquire shares under all
+the foregoing  agreements sell those shares in the open market, the price of our
+shares may decrease due to additional shares in the market.
+
+      Our  common  stock is  subject to  significant  fluctuations  in price and
+volume,  which  could  cause  rapid and  significant  losses in the value of our
+common stock and subject us to litigation from stockholders.
+
+      Our common stock price has been volatile and has  experienced  substantial
+and  sudden  fluctuations  in  response  to a number of events and  factors.  In
+addition,  the  stock  market  has  experienced  significant  price  and  volume
+fluctuations  that  have  especially   affected  the  market  prices  of  equity
+securities of many companies directly and indirectly  involved in the technology
+sector, and that often have been unrelated to the operating  performance of such
+companies.  These broad  market  fluctuations  have  adversely  affected and may
+continue to adversely  affect the market price of our common stock. In the past,
+following  periods of volatility in the market price of a company's  securities,
+securities  class action  litigation  has often been  instituted  against such a
+company.  The  institution  of  such  litigation  against  us  could  result  in
+substantial costs and a diversion of management's attention and resources, which
+would have a material  adverse  effect on our  business,  operating  results and
+financial condition.
+
+
+                                       11
+<PAGE>
+
+
+      Our  common  stock is  considered  a penny  stock  and is not  traded on a
+regulated  market such as NASDAQ or a major  stock  exchange.  Accordingly,  our
+common stock may be more difficult to trade,  and investors may lose the benefit
+of certain  rules and  regulations  that govern  securities  traded in regulated
+markets.
+
+      Our common stock is traded on the OTC Bulletin  Board.  Securities  in the
+OTC  market  are  generally  more  difficult  to trade  than those on the NASDAQ
+National  Market,  the NASDAQ SmallCap Market or the major stock  exchanges.  In
+addition, accurate price quotations are also more difficult to obtain.
+
+      The  trading  market  for our  common  stock is also  subject  to  special
+regulations  governing  the sale of penny stock.  A "penny  stock" is defined by
+regulations of the Securities and Exchange Commission as an equity security with
+a market  price of less than $5.00 per share.  If you buy or sell a penny  stock
+from a broker or dealer,  these regulations  require that you receive,  prior to
+the transaction,  a disclosure  explaining the penny stock market and associated
+risks.  Furthermore,  trading in our common stock is  generally  subject to Rule
+15g-9 of the Exchange  Act.  Under this rule,  broker-dealers  who recommend our
+securities to persons other than established  customers and accredited investors
+must make a special  written  suitability  determination  for the  purchaser and
+receive the purchaser's written agreement to a transaction prior to sale.
+
+      Penny stock  regulations  tend to reduce  market  liquidity  of our common
+stock,  because  they  limit  the  broker-dealers'   ability  to  trade,  and  a
+purchaser's  ability to sell the stock in the secondary market. The low price of
+our common  stock will have a negative  effect on the amount and  percentage  of
+transaction costs paid by individual  shareholders.  The low price of our common
+stock  may also  limit  our  ability  to raise  additional  capital  by  issuing
+additional shares.
+
+      In  addition,  companies  whose  securities  are listed on NASDAQ or other
+major stock exchanges are required to comply with certain  corporate  governance
+and  disclosure  requirements  that are  designed to protect  investors in those
+stocks. Because our common stock is not so regulated,  our observance of many of
+these requirements and practices is not mandated, and to the extent we determine
+not  to  observe  such  practices  or  are  unable  to do  so  because  of  cost
+constraints,  investors  in our common  stock will not have the benefit of these
+protections,  and the price of our common stock may be materially  and adversely
+affected.
+
+      Certain  provisions  of Delaware  law and our  governing  documents  could
+prevent or delay a change in control of our Company,  and could adversely affect
+the value of our common stock.
+
+      Certain  provisions  of  Delaware  law and the  Company's  Certificate  of
+Incorporation and bylaws could have the effect of making it more difficult for a
+third party to acquire,  or of  discouraging  a third party from  attempting  to
+acquire,  control of the  Company.  Such  provisions  could limit the price that
+certain investors might be willing to pay in the future for shares of our common
+stock. These provisions of Delaware law and our Certificate of Incorporation and
+bylaws may also have the effect of discouraging  or preventing  certain types of
+transactions  involving an actual or threatened change of control of the Company
+(including  unsolicited  takeover attempts),  even though such a transaction may
+offer our  stockholders the opportunity to sell their stock at a price above the
+prevailing market price. Certain of these provisions allow us to issue preferred
+stock with  rights  senior to those of the common  stock and other  rights  that
+could  adversely  affect the  interests of holders of common  stock  without any
+further vote or action by our stockholders. The issuance of preferred stock, for
+example,  could  decrease  the  amount  of  earnings  or  assets  available  for
+distribution to the holders of common stock or could adversely affect the rights
+and powers,  including  voting  rights,  of the holders of the common stock.  In
+certain  circumstances,  such issuance  could have the effect of decreasing  the
+market price of the common stock,  as well as having the  anti-takeover  effects
+discussed above.
+
+
+                                       12
+<PAGE>
+
+
+Item 1B.  Unresolved Staff Comments
+
+      Not applicable.
+
+Item 2.  Properties
+
+      Our  principal  executive  offices are located at 1310 Lady Street,  Suite
+601, in Columbia,  South Carolina.  Such office space encompasses  approximately
+900 square  feet and is  currently  under a prepaid  two-year  lease  which will
+expire in December  2008.  We also lease  warehouse  space  located in Columbia,
+South Carolina, which encompasses approximately 4,000 square feet. Such space is
+under a month-to-month lease.
+
+Item 3.  Legal Proceedings
+
+      The  information  above in Part I,  Item 1,  "Business--Patents  and Legal
+Matters," is incorporated herein by reference in response to this Item 3.
+
+Item 4.  Submission of Matters to a Vote of Security Holders
+
+      Not applicable.
+
+Item 4A.  Executive Officers
+
+      The  information  regarding our executive  officers set forth in Part III,
+Item  10  of  this  report  under  "Directors  and  Executive  Officers  of  the
+Registrant" is incorporated herein in response to this Item 4A.
+
+
+                                       13
+<PAGE>
+
+
+Part II
+
+Item 5. Market for Registrant's  Common Equity,  Related  Stockholder  Matters
+and Issuer Purchases of Equity Securities
+
+(a)   Since  February  12,  2001,  our  common  stock  has  traded  on the OTC
+         Bulletin  Board under the symbol  "AFFI." Our common  stock traded on
+         the Nasdaq  SmallCap  Market  from  March 27,  2000 to  February  12,
+         2001.  Prior to March  27,  2000,  the  Company's  common  stock  was
+         traded on the Nasdaq  National  Market.  The following table presents
+         the high and low sales  prices of our  Common  Stock for the  periods
+         indicated  during  2007  and  2006 as  reported  by the OTC  Bulletin
+         Board. The quotations  reflect  inter-dealer  prices,  without retail
+         mark-up,  mark-down  or  commissions  and  may not  represent  actual
+         transactions.  As of March 13,  2008,  there were  approximately  415
+         stockholders of record of our Common Stock.
+
+                                                   Sales Price Per
+                                                   ---------------
+                                                        Share
+                                                        -----
+                                                     High        Low
+                                                     ----        ---
+                     2007
+                     First Quarter                   0.20       0.07
+                     Second Quarter                  0.16       0.06
+                     Third Quarter                   0.10       0.07
+                     Fourth Quarter                  0.19       0.07
+                     2006
+                     First Quarter                   0.85       0.08
+                     Second Quarter                  0.82       0.16
+                     Third Quarter                   0.60       0.15
+                     Fourth Quarter                  0.50       0.15
+
+         On March 13, 2008, the high and low sales prices of our common stock on
+         the OTC Bulletin Board were $ 0.14 and $ 0.13, respectively.
+
+         We have never paid dividends on our capital stock.  We intend to retain
+         earnings,  if any, for use in our business and do not anticipate paying
+         any cash dividends in the foreseeable future.
+
+         On November 22, 2007, The Company issued 1,875,000 shares of its common
+         stock to Withrow and Terranova, PLLC ("W&T), the Company's patent agent
+         and counsel in consideration of $150,000 in legal services  provided in
+         connection  with our appeal to the Federal Appeals Court of the adverse
+         rulings of the Columbia  Federal Court as described  under Part I, Item
+         I, "Business - Patents and Legal Matters." These securities were issued
+         in an exempt private  transaction  not involving any public offering in
+         reliance on  exemptions  under  Section 4(2) of the  Securities  Act of
+         1933.
+
+(b)   Not applicable
+
+(c)   Not applicable
+
+
+                                       14
+<PAGE>
+
+
+Item 6.  Selected Financial Data
+
+      The following  table presents  selected  financial data of the Company for
+the  periods  indicated.   The  following  financial  data  should  be  read  in
+conjunction  with the information set forth under  "Management's  Discussion and
+Analysis of Financial  Condition and Results of  Operations,"  our  Consolidated
+Financial  Statements and Notes thereto and other information included elsewhere
+in this report.
+
+<TABLE>
+<CAPTION>
+<S>                            <C>           <C>             <C>            <C>            <C>
+                                                       Year Ended December 31,
+                                  2007          2006           2005           2004           2003
+                              ------------- -------------- -------------- -------------- --------------
+Statement of Operations Data:
+Revenues                       $    33,333   $     33,333    $    20,261    $   287,298    $   517,647
+                              ------------- -------------- -------------- -------------- --------------
+Cost and expenses:
+    Cost of revenues                 3,333          3,333          2,026         64,265          1,765
+    General and administrative
+      expenses                   1,271,864      2,606,386        486,607        732,285        996,711
+                              ------------- -------------- -------------- -------------- --------------
+Total costs and expenses         1,275,197      2,609,719        488,633        796,550        998,476
+                              ------------- -------------- -------------- -------------- --------------
+Operating loss                  (1,241,864)    (2,576,386)      (468,372)      (509,252)      (480,829)
+Interest income                     14,964         17,907            182          1,967            694
+Interest expense                  (251,254)      (141,043)       (98,197)       (95,990)       (80,373)
+Litigation accrual reversal              -              -              -        386,148              -
+                              ------------- -------------- -------------- -------------- --------------
+Net loss                       $(1,478,154)  $ (2,699,522)   $  (566,387)   $  (217,127)   $  (560,508)
+                              ============= ============== ============== ============== ==============
+Loss per share - basic and
+ diluted                       $     (0.03)  $      (0.06)   $     (0.01)   $     (0.01)   $     (0.01)
+                              ============= ============== ============== ============== ==============
+Shares used in computing
+    net loss per share          45,467,740     44,194,562     42,207,884     41,926,272     41,512,897
+                              ============= ============== ============== ============== ==============
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+<S>                             <C>                <C>            <C>               <C>               <C>
+                                                                     December 31,
+                                    2007               2006           2005              2004              2003
+                                ----------------- -------------- -------------- ----------------- --------------------
+Balance Sheet Data:
+Cash and cash equivalents       $     50,217       $  1,026,978   $     13,776      $     62,756      $    578,398
+Working capital                   (4,257,741)           (34,451)    (1,992,056)       (1,524,772)         (909,356)
+Total assets                         133,712          1,112,246        152,311           121,240           618,002
+Convertible notes and accrued
+ interest                          3,476,342  (2)     3,225,089      1,595,906   (2)   1,383,149  (2)    1,291,841 (1)
+Stockholder's deficiency          (4,251,364)        (3,279,752)    (2,048,371)       (1,513,523)       (1,329,579)
+</TABLE>
+--------------------------------
+(1)  Of the amount  outstanding  under the convertible  notes as of December 31,
+     2003, $756,336 was classified as a current liability and,  accordingly,  is
+     included in the working  capital of the Company at December 31,  2003,  set
+     forth above.
+
+(2)  All amounts  outstanding  under the  convertible  notes as of December  31,
+     2007,  2005  and  2004,  were  classified  as  a  current   liability  and,
+     accordingly, are included in the working capital of the Company at December
+     31, 2007, 2005 and 2004, set forth above.
+
+
+                                       15
+<PAGE>
+
+
+Item 7.     Management's Discussion and Analysis of Financial Condition and
+Results of Operations
+
+Overview
+
+      Affinity was formed in 1994 to develop and market technologies that enable
+financial  institutions  and other  businesses  to  provide  consumer  financial
+services  electronically with reduced or no human  intervention.  Due to capital
+constraints,  we have suspended efforts to deploy products and services that use
+our  loan  processing  system,   DeciSys/RT,  in  order  to  focus  our  efforts
+exclusively  on attempting  to license  certain of our patents.  Currently,  our
+business  activities  consist  exclusively  of  attempting to enter into license
+agreements with third parties to license our rights under certain of our patents
+and in  pursuing  patent  litigation  in an effort to protect  our  intellectual
+property  and obtain  recourse  against  alleged  infringement  of our  patents.
+Accordingly,  our prospects are wholly dependent on these efforts to finance and
+execute a sustainable patent licensing program.
+
+      As more fully  described above in Part I, Item 1,  "Business--Patents  and
+Legal  Matters" in  conjunction  with our  product  development  activities,  we
+applied for and obtained three patents, two of which cover  fully-automated loan
+processing systems and one of which covers the fully-automated  establishment of
+a financial account,  including credit accounts.. All of these patents have been
+subject to  reexamination  by the U.S. Patent and Trademark  Office ("PTO") as a
+result of third party  challenges.  It is possible  that third parties may bring
+additional  actions to contest  all or some of our  patents,  and we can give no
+assurance  that we will  not  lose  all or some  of the  claims  covered  by our
+existing patents.
+
+      In  addition,   as  described   more  fully  above  in  Part  I,  Item  1,
+"Business--Patents  and Legal  Matters,"  we have been  involved  in lawsuits to
+determine whether our patents are being infringed.  In December 2006, a "Markman
+Hearing"  was  held in  connection  with  these  infringement  actions.  Markman
+hearings  are  proceedings  under  U.S.  patent  law  in  which  plaintiffs  and
+defendants  present  their  arguments  to the court as to how they  believe  the
+patent claims - which define the scope of the patent  holder's  rights under the
+patent - should be interpreted  for purposes of determining at trial whether the
+patents have been infringed. For purposes of the Markman hearing, the Federated,
+TD Ameritrade and HSBC cases were  consolidated into one hearing and held by the
+United States  District  Court for the State of South  Carolina  (the  "Columbia
+Federal Court").  As a result of the Markman  proceedings,  the Columbia Federal
+Court  interpreted  and construed the meaning of numerous claim terms which bear
+on the scope of the  patents.  Although  most claim  terms were  construed  in a
+manner we believe are  favorable,  the trial  judge  interpreted  and  construed
+certain claim terms,  most notably those related to the term "remote  interface"
+as claimed in our second loan processing  patent (U.S.  Patent No. 5,940,811 C1)
+and our financial  account  patent (U.S.  Patent No.  6,105,007 C1), in a manner
+unacceptable and unfavorable to us. In these patents,  the Court interpreted and
+construed  "remote  interface" to mean computer  equipment,  including  personal
+computer equipment,  that is not owned by a consumer.  The Court applied no such
+limitation  in  construing  the term  "remote  interface"  under our first  loan
+processing patent (U.S. Patent No. 5,870,721 C1).
+
+      We appealed to the U.S.  Court of Appeals  for the  Federal  Circuit  (the
+"Federal Appeals Court") and have requested the Federal Appeals Court to reverse
+certain of the Markman  rulings made by the Columbia  Federal Court and grant to
+us more  favorable  interpretations  and  definitions  related to certain of the
+claim terms in our patents.  Additionally,  the  defendants  have  requested the
+Federal  Appeals Court to reverse  certain  Markman rulings that we believe were
+favorable to us. Oral  arguments in our cases were heard by the Federal  Appeals
+Court on December 3, 2007. Unless we can obtain a more favorable  interpretation
+of certain claim terms and maintain the favorable rulings we obtained during the
+Markman hearing,  it is possible the scope of our patents could be significantly
+limited. Furthermore, we believe it is unlikely that the U.S. Supreme Court, the
+only  further  appeals  body beyond the Federal  Appeals  Court,  will review or
+reconsider  their rulings and,  therefore,  we believe that the Federal  Appeals
+Court's rulings will be dispositive  and will probably  determine the outcome of
+our business. Moreover, we believe that the rulings made by the Columbia Federal
+Court, including the Markman rulings that necessitated our appeal to the Federal
+Appeals  Court,  has and will  continue  to hinder our  ability  to license  our
+patents.  Further, our appeal will likely require substantial  resources and may
+require  an  extended  period of time to  complete,  which  will in turn  likely
+increase the already  significant  costs and expected time required to prosecute
+our existing  infringement  actions.  We do not believe  that our existing  cash
+resources  will be  sufficient  to enable us to  complete  our  appeal  and,  if
+successful,  to complete the  prosecution  of our  lawsuits  against the alleged
+infringers.  Accordingly,  to remain  viable in the near term, it is likely that
+the Company  will be required to raise  additional  capital  through the sale of
+debt and/or  equity  securities or from  licensing  our patents.  We can give no
+assurance that, in such event, we will be able to raise the resources  necessary
+to complete our appeal.  We also can give no assurance that, even if we are able
+to finance  our appeal to  completion,  such  appeal  will result in a favorable
+outcome.  Even if we are  successful in pursuing our appeal to completion  and a
+favorable  outcome,  we cannot  assure  you that we will  then  have  sufficient
+funding to continue our underlying  lawsuits or that such lawsuits would succeed
+in obtaining a favorable outcome for us.
+
+
+                                       16
+<PAGE>
+
+
+      In addition, we and our founder, Jeff Norris, were defendants in a lawsuit
+filed by Temple  Ligon on November 30, 1996 in the Court of Common Pleas for the
+County of Richland in Columbia,  South Carolina.  Mr. Ligon claimed, among other
+things,  that  Affinity  and Mr.  Norris  breached an agreement to give him a 1%
+equity  interest in Affinity in  consideration  of services  Mr. Ligon claims to
+have performed in 1993 and 1994 in  conjunction  with the formation of Affinity,
+and sought monetary damages of $5,463,000.  This lawsuit initially resulted in a
+jury verdict against us of $68,000.  However,  Mr. Ligon subsequently  requested
+and was granted a new trial. In January 2004,  this lawsuit  resulted in another
+jury verdict  against us of $382,148.  In connection with the litigation and the
+resulting  jury  verdict,  we filed  post-trial  motions with the trial court in
+which, among other things, we claimed that the jury verdict should be set aside.
+On July 23,  2004,  the trial  judge  granted  our  motions,  set aside the jury
+verdict,  and ordered entry of a judgment in favor of us. The plaintiff appealed
+the trial  judge's  ruling to the South  Carolina  Court of Appeals  (the "South
+Carolina Appeals Court").  On October 30, 2006, the South Carolina Appeals Court
+reversed the trial judge's decision and reinstated the jury verdict of $382,148.
+Our petition to the South  Carolina  Appeals  Court for a rehearing of this case
+was denied, and we petitioned the South Carolina Supreme Court to hear this case
+and to grant us relief from this ruling.  In October 2007, we were notified that
+the South  Carolina  Supreme  Court had denied our  petition  to hear this case.
+Accordingly,  we have no further  legal  recourse and a judgment will be entered
+against us of $382,148,  plus accrued interest. At this time, we do not have the
+cash resources to pay this judgment. We will continue to evaluate our options to
+resolve or postpone any  payments  related to this  matter;  however,  if we are
+required  to pay more  than an  insignificant  amount  in  connection  with this
+judgment  in the near  term,  we would be forced to  consider  alternatives  for
+winding down our  business,  which may include  offering our patents for sale or
+filing for bankruptcy protection.
+
+      To date,  we have  generated  substantial  operating  losses and have been
+required to use a substantial  amount of cash resources to fund our  operations.
+At December 31, 2007, we had cash and cash  equivalents of $50,217 and a working
+capital  deficit of  $4,257,741.  We  generally  have been  unable to enter into
+licensing  agreements with potential licensees upon terms that are acceptable to
+us and, as discussed  above,  we have sought  recourse  through  litigation with
+alleged infringers of our patents. Additionally and as also discussed above, our
+lawsuits  against the alleged  infringers  have been  dismissed  by the Columbia
+Federal Court,  and we have initiated an appeal to the Federal Appeals Court. We
+are not certain as to the length of time it will take to complete our appeal. We
+do not believe that our existing cash  resources  will be sufficient to complete
+the appeals process and, if successful,  to allow us to complete the prosecution
+of our lawsuits against the alleged infringers. Accordingly, to remain viable in
+the near term, it is likely that we will be required to raise additional capital
+through the sale of debt and/or equity securities or from licensing our patents.
+We can give no  assurances,  however,  that we will be able to raise  additional
+capital or  generate  capital  from our patent  licensing  business at all or in
+amounts sufficient to complete our appeal.  Unless we raise additional  capital,
+we may have to consider  alternatives  for winding down our business,  which may
+include offering our patents for sale or filing for bankruptcy protection.
+
+      The report of our  independent  registered  public  accounting firm on our
+audited  financial  statements  included  with this report  contains a statement
+noting that our recent  history of losses,  combined with other  factors,  raise
+substantial doubt about our ability to continue as a going concern. Although our
+plans to address these issues are  discussed in Note 1 to the audited  financial
+statements included in this report and elsewhere in this report, these plans are
+subject  to  numerous  risks and  contingencies,  many of which are  beyond  our
+control,  and we can give no  assurance as to whether or how long we may be able
+to succeed in addressing  these issues and  maintaining our viability as a going
+concern.
+
+Critical Accounting Policies
+
+      We apply certain accounting  policies which are important in understanding
+our results of  operations  and the  information  presented in the  consolidated
+financial statements.  We consider critical accounting policies to be those that
+require more  significant  judgments  and  estimates in the  preparation  of our
+financial  statements  and include the  valuation  reserve on net  deferred  tax
+assets. We record a valuation allowance to reduce our deferred tax assets to the
+amount that we estimate is more likely than not to be  realized.  As of December
+31, 2007, we recorded a valuation allowance that reduced our deferred tax assets
+to zero.
+
+
+                                       17
+<PAGE>
+
+
+Results of Operations
+
+      Revenues.  Our revenues from continuing  operations were $33,333,  $33,333
+and $20,261 for the years ended December 31, 2007, 2006 and 2005,  respectively.
+The types of revenue we recognized are as follows:
+
+<TABLE>
+<CAPTION>
+<S>                     <C>             <C>     <C>            <C>     <C>                 <C>
+                                            Years ended December 31,
+                              2007                    2006                     2005
+                      ----------------------- ---------------------- ---------------------------
+                          Amount       % of      Amount      % of       Amount         % of
+                                      Total                  Total                     Total
+                      -------------- -------- ------------ --------- ------------- -------------
+Patent license revenue  $     33,333    100.0   $   33,333     100.0   $    20,261         100.0
+</TABLE>
+
+      Patent license revenue. We recognized patent licensing revenue of $33,333,
+$33,333  and $20,261 in 2007,  2006 and 2005,  respectively.  In 2007,  2006 and
+2005, we recognized patent licensing revenue associated with the annual fee from
+one patent license agreement executed in 1999.
+
+
+Costs and Expenses
+
+      Costs of  Revenues.  Costs of revenues  for the years ended  December  31,
+2007,  2006 and 2005  were  $3,333  $3,333  and  $2,026,  respectively.  Cost of
+revenues consists of commissions paid to our patent licensing agents.
+
+      General and Administrative  Expenses.  General and administrative  ("G&A")
+expenses  for the year ended  December  31,  2007 were  $1,271,864,  compared to
+$2,606,386  and  $486,607  for the  years  ended  December  31,  2006 and  2005,
+respectively.  G&A expenses have  fluctuated  significantly  over the past three
+years and depend to a great extent on the level of our business  activities  and
+particularly,  the level of litigation in which we are involved in a period. The
+components of G&A expenses incurred in 2007, 2006 and 2005 are as follows:
+
+<TABLE>
+<CAPTION>
+<S>                       <C>                   <C>        <C>         <C>   <C>               <C>
+                                       Years ended December 31,
+                                    2007                      2006                   2005
+                        ---------------------------- ---------------------- -----------------------
+                           Amount          % of          Amount      % of     Amount       % of
+                                          Total                      Total                 Total
+                        ------------- -------------- -------------- ------- ----------- -----------
+Salaries and benefits     $   400,846           31.5       $268,381    10.3  $  248,415        51.1
+Stock-based compensation      356,542           28.0        874,081    33.5           -           -
+Professional fees             416,583           32.8        971,773    37.3     138,768        28.5
+Litigation accrual                  -              -        382,148    14.7           -           -
+Insurance                      47,530            3.7         47,078     1.8      54,251        11.1
+Rent                           29,184            2.3         20,518     0.8      25,820         5.3
+Other                          21,179            1.7         42,407     1.6      19,353         4.0
+                        ------------- -------------- -------------- ------- ----------- -----------
+                          $ 1,271,864          100.0     $2,606,386   100.0  $  486,607       100.0
+                        ============= ============== ============== ======= =========== ===========
+</TABLE>
+
+
+      G&A expenses decreased by $1,334,522 in 2007 compared to 2006. The overall
+decrease was primarily  attributable  to decreases in stock-based  compensation,
+professional fees and a nonrecurring  litigation accrual which was recognized in
+2006 and explained further below. The overall decrease was offset by an increase
+of $132,465 in salaries and  benefits  expenses in 2007  compared to 2006.  This
+increase was due to the full-time  employment of our Chief Executive  Officer in
+2007 (compared to part-time  employment in 2006) and higher rates of pay for our
+employees in 2007  compared to 2006.  Professional  fees  decreased in 2007 as a
+result of lower levels of activity associated with our patent litigation in 2007
+compared to 2006.  In 2007,  stock-based  compensation  consisted  solely of the
+recognition of expenses associated with stock options issued in periods prior to
+2007. As more fully  explained  below,  we issued a substantive  number of stock
+options and warrants in 2006.
+
+
+                                       18
+<PAGE>
+
+
+      G&A expenses  increased  $2,119,779 in 2006 compared to 2005. As indicated
+in the above table, G&A expenses increased $2,089,234 as a result of an increase
+in stock  compensation,  professional fees and a litigation accrual. In 2006, we
+issued  options  to  our   executives  and  directors  in  conjunction   with  a
+non-qualified  option  plan  adopted by our Board of  Directors.  We also issued
+warrants to our investment  advisor for services  associated with the investment
+advisor's assistance in raising capital and other advisory services. As a result
+of  the  option  and  warrant  grants,   we  recognized   non-cash   stock-based
+compensation  expense of $874,081.  Professional fees increased $833,005 in 2006
+compared to 2005, most of which was related to our patent infringement lawsuits.
+In March 2006,  we were notified by the PTO that the  reexamination  of our U.S.
+Patent No.  6,105,007 had been  concluded.  The conclusion of the  reexamination
+resulted in the lifting of the stays of our patent  infringement  lawsuits  with
+Federated,  TD Ameritrade and HSBC. The lawsuits  proceeded during the remainder
+of 2006 with a corresponding  increase in legal and other  professional fees. We
+also accrued  $382,148 to reflect the  reinstatement by the South Carolina Court
+of Appeals of a jury verdict previously set aside by the trial judge in 2004.
+
+Interest Income
+
+      Interest  income was  $14,964,  $17,907  and $182 in 2007,  2006 and 2005,
+respectively,  and primarily  reflects interest income  attributable to our cash
+balances. The decrease in interest income in 2007 compared to 2006 is related to
+lower  average cash  balances in 2007.  The increase in interest  income in 2006
+over 2005, is related to the interest  earned on cash balances  associated  with
+the sale of our convertible  notes in September 2006 in the aggregate  principal
+amount of $1,905,000.
+
+Interest Expense
+
+      Interest  expense was  $251,254,  $141,043  and $98,197 in 2007,  2006 and
+2005,  respectively.  Interest expense is primarily associated with the interest
+on  $3,480,336  aggregate  principal  amount  of  convertible  notes  issued  in
+installments  in June  2002  ($830,336),  March  2003  ($200,000),  August  2003
+($25,000),  November  2003  ($150,000),  December 2003  ($50,000),  January 2004
+($25,000),  May  2005  ($75,000),   August  2005  ($45,000)  and  December  2005
+($25,000), May 2006 ($150,000) and September 2006 ($1,905,000). Of the aggregate
+note principal  issued,  aggregate  principal in the amount of $568,697 has been
+converted into shares of our common stock. Additionally,  in August 2006, and in
+accordance  with  the  issuance  of  new  notes  in  satisfaction  of  our  then
+outstanding  notes,  $229,027  of  accrued  interest  was  converted  into  note
+principal.  The increase in interest  expense in 2007  compared to 2006 and 2006
+compared to 2005 is  attributable  to the increase in the average amounts of the
+convertible notes outstanding.
+
+Litigation Accrual Reversal
+
+      We have been a defendant  in a lawsuit  which  resulted in a jury  verdict
+against us in January  2004. We had recorded a reserve in 2003 for the estimated
+loss in this  litigation  of $386,148 as a result of the jury  verdict.  In July
+2004, the trial judge ruled on post-trial  motions submitted by us and set aside
+the jury verdict,  and  accordingly,  in the third quarter of 2004,  the Company
+reversed the $386,148  accrual and recognized a like amount as other income.  As
+discussed  above under the caption  "General and  Administrative  Expenses," the
+South Carolina Court of Appeals reinstated the jury verdict in 2006.
+
+Income Taxes
+
+      We have  recorded a  valuation  allowance  for the full  amount of our net
+deferred  income tax assets as of December 31, 2007,  2006,  and 2005,  based on
+management's evaluation of the recognition criteria as set forth in Statement of
+Financial Accounting Standards No. 109, "Accounting for Income Taxes."
+
+
+                                       19
+<PAGE>
+
+
+Liquidity and Capital Resources
+
+      We have generated net losses of  $73,422,095  since our inception and have
+financed our operations  primarily  through net proceeds from our initial public
+offering in May 1996 and cash  generated  from  operations  and other  financing
+transactions. Net proceeds from our initial public offering were $60,088,516.
+
+      Net cash used by operations  during the year ended  December 31, 2007, was
+$976,761,  compared to  $1,058,217  and $194,285  used by operations in 2006 and
+2005, respectively.  The decrease in cash used by operations in 2007 compared to
+2006 was primarily the result of a decrease in professional fees associated with
+our patent litigation,  offset by an increase in employee  compensation expense.
+Our patent  lawsuits were stayed in 2004 and during 2005 pending the  conclusion
+of the  reexamination  of U.S.  Patent No.  6,105,007,  our patent  covering the
+automated  establishment of financial accounts.  As discussed in Part 1, Item 1,
+"Business--Patents  and Legal Matters," the reexamination was concluded in 2006,
+the stay of the  lawsuits  was lifted  and the  lawsuits  proceeded.  As further
+discussed in Part 1, Item 1,  "Business--Patents and Legal Matters," we received
+an adverse  Markman  ruling in December 2006 which led to less legal activity in
+2007.  At December  31,  2007,  cash and liquid  investments  were  $50,217,  as
+compared to  $1,026,978  at December  31, 2006.  At December  31, 2007,  working
+capital  was a deficit  of  $4,257,741  as  compared  to a deficit of $34,451 at
+December 31, 2006. For purposes of determining  working  capital at December 31,
+2007,  $3,476,342 of principal and accrued interest under our convertible  notes
+are  included as current  liabilities.  At December  31, 2006 such  amounts were
+classified as non-current liabilities.
+
+      To date,  we have  generated  substantial  operating  losses and have been
+required to use a substantial  amount of cash resources to fund our  operations.
+At December 31, 2007, we had cash and cash  equivalents of $50,217 and a working
+capital  deficit of  $4,257,741.  We  generally  have been  unable to enter into
+licensing  agreements with potential licensees upon terms that are acceptable to
+us and, as discussed  above,  we have sought  recourse  through  litigation with
+alleged infringers of our patents. Additionally and as also discussed above, our
+lawsuits  against the alleged  infringers  have been  dismissed  by the Columbia
+Federal Court,  and we have appealed to the Federal  Appeals  Court.  We are not
+certain as to the length of time it will take to complete our appeal.  We do not
+believe that our existing  cash  resources  will be  sufficient  to complete the
+appeals  process and, if successful,  to allow us to complete the prosecution of
+our lawsuits against the alleged  infringers.  Accordingly,  to remain viable in
+the near term, it is likely that we will be required to raise additional capital
+through the sale of debt and/or equity securities or from licensing our patents.
+We can give no  assurances,  however,  that we will be able to raise  additional
+capital or  generate  capital  from our patent  licensing  business at all or in
+amounts sufficient to complete our appeal.  Unless we raise additional  capital,
+we may have to consider  alternatives  for winding down our business,  which may
+include offering our patents for sale or filing for bankruptcy protection.
+
+      The report of our  independent  registered  public  accounting firm on our
+audited  financial  statements  included  with this report  contains a statement
+noting that our recent  history of losses,  combined with other  factors,  raise
+substantial doubt about our ability to continue as a going concern. Although our
+plans to address these issues are  discussed in Note 1 to the audited  financial
+statements included in this report and elsewhere in this report, these plans are
+subject  to  numerous  risks and  contingencies,  many of which are  beyond  our
+control,  and we can give no  assurance as to whether or how long we may be able
+to succeed in addressing  these issues and  maintaining our viability as a going
+concern.
+
+      In 2002,  we  initiated a  convertible  note  program  under which we were
+authorized  to issue up to  $1,500,000  principal  amount of our 8%  convertible
+secured notes (the "notes").  In February 2006, the convertible note program was
+amended  to allow us to issue up to  $3,000,000  of our  notes.  Prior to August
+2006, we had issued an aggregate of $1,575,336  principal  amount of notes under
+this program,  including  notes with an aggregate  principal  amount of $536,336
+that have been converted into shares of our common stock.
+
+      These notes bear interest at 8%, are convertible  into our common stock at
+a  conversion  rate of $.20 per share (for notes  issued prior to the April 2006
+amendment to the program) or $.50 per share (for notes issued in May 2006),  and
+are secured by our equity  interest  in our  decisioning.com,  Inc.  subsidiary,
+which owns our patent  portfolio.  Principal  and  interest  under  these  notes
+generally becomes payable in full on the second anniversary of the date on which
+these notes were issued.  However, under the terms of the notes, the full amount
+of principal and interest  under all notes may be declared  immediately  due and
+payable in certain events, including bankruptcy or similar proceedings involving
+us, a default in the payment of  principal  and  interest  under any note,  or a
+change in control of the Company.
+
+
+                                       20
+<PAGE>
+
+
+       From June 2004 through August 2006, we were in default  regarding payment
+of principal and interest due under certain of the notes. Accordingly,  the full
+amount of principal and interest  outstanding under all notes was payable at the
+option of all  noteholders.  At December 31, 2005,  the amount of principal  and
+accrued interest outstanding under all of the notes was $1,595,906.
+
+      In August 2006, we and the holders of all  outstanding  notes entered into
+an amended and restated note purchase  agreement under which such holders agreed
+to extend the maturity  date of such notes by  exchanging  them  (including  all
+interest  accrued  thereon)  for new  two-year  notes due in August  2008 in the
+aggregate  principal  amount of  $1,268,027.  Under the  amended  note  purchase
+agreement,  we may  issue  notes  in the  aggregate  principal  amount  of up to
+$5,000,000  (including the notes issued to current noteholders,  as described in
+the  preceding  sentence)  having an exercise  price  determined  by us and each
+investor at the time of issuance.
+
+      The new notes  issued in August  2006 have the same terms as the old notes
+for which they were  exchanged,  except that the new notes will mature in August
+2008. Of the new notes issued,  notes with a principal  amount of $1,115,068 are
+convertible  into shares of our common stock at $.20 per share, and notes with a
+principal  amount of $152,959 are convertible into shares of our common stock at
+$.50 per share. The new notes include a note in the principal amount of $166,863
+issued to our Chief  Executive  Officer  and a note in the  principal  amount of
+$122,115  issued  to a  subsidiary  of The  South  Financial  Group.  The  South
+Financial Group  Foundation,  a non-profit  foundation  established by the South
+Financial Group,  owns  approximately 10% of the Company's  outstanding  capital
+stock.
+
+      In September 2006, we sold additional  convertible  notes in the aggregate
+principal  amount of  $1,905,000.  The terms of these  notes are the same as the
+notes previously issued by us, except that they may be converted into our common
+stock at a rate of $.42 per share.
+
+Contractual Obligations
+
+      The following table sets forth our long-term debt and other obligations at
+December 31, 2007.
+
+<TABLE>
+<CAPTION>
+<S>               <C>         <C>           <C>             <C>          <C>       <C>
+                                                       Payment Due By Period
+                                           ------------------------------------------------
+                                Total       Less than 1           1-3   3-5 years More than
+                                                 year             years            5 years
+                            -------------- --------------- ------------ --------- ---------
+Convertible Notes (1)         $  3,476,342  $    3,476,342            -  $      -  $      -
+Operating Lease Obligations          1,200           1,200            -         -         -
+                            -------------- --------------- ------------ --------- ---------
+Total                         $  3,477,542  $    3,477,542  $         -  $      -  $      -
+                            ============== =============== ============ ========= =========
+</TABLE>
+
+(1)  Convertible  notes consist of the Company's  convertible  notes,  including
+     accrued interest.
+
+
+Item 7A.  Quantitative and Qualitative Disclosures about Market Risk
+
+Not applicable.
+
+Item 8.  Financial Statements and Supplementary Data
+
+      The  report  of  Independent   Registered   Public   Accounting  Firm  and
+consolidated  financial  statements are set forth below (see item 15(a) for list
+of financial statements):
+
+
+                                       21
+<PAGE>
+
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+Board of Directors and Shareholders
+Affinity Technology Group, Inc.
+Columbia, South Carolina
+
+      We have audited the accompanying  consolidated  balance sheets of Affinity
+Technology  Group,  Inc. and  subsidiaries  (collectively,  the "Company") as of
+December  31,  2007  and  2006,  and  the  related  consolidated  statements  of
+operations,  changes in stockholders'  equity  (deficiency),  and cash flows for
+each of the years in the  three-year  period  ended  December  31,  2007.  These
+financial  statements are the  responsibility of the Company's  management.  Our
+responsibility  is to express an opinion on these financial  statements based on
+our audits.
+
+      We conducted  our audits in  accordance  with the  standards of the Public
+Company Accounting Oversight Board (United States). Those standards require that
+we plan and perform the audit to obtain  reasonable  assurance about whether the
+financial  statements  are free of  material  misstatement.  An  audit  includes
+consideration  of  internal  control  over  financial  reporting  as a basis for
+designing audit  procedures that are appropriate in the  circumstances,  but not
+for the purpose of expressing an opinion on the  effectiveness  of the Company's
+internal  control  over  financial  reporting.  Accordingly,  we express no such
+opinion. An audit also includes examining,  on a test basis, evidence supporting
+the  amounts  and  disclosures  in  the  financial  statements,   assessing  the
+accounting principles used and significant estimates made by management, as well
+as evaluating the overall financial statement presentation.  We believe that our
+audits provide a reasonable basis for our opinion.
+
+      We  were  not  engaged  to  examine   management's   assertion  about  the
+effectiveness  of  Affinity  Technology  Group,  Inc.'s  internal  control  over
+financial  reporting as of December 31, 2007 included in the  accompanying  Form
+10-K and, accordingly, we do not express an opinion thereon.
+
+      In our opinion,  the consolidated  financial  statements referred to above
+present fairly, in all material respects, the consolidated financial position of
+the Company as of December 31, 2007 and 2006,  and the  consolidated  results of
+its operations and its cash flows for each of the years in the three-year period
+ended  December 31, 2007, in conformity  with  accounting  principles  generally
+accepted in the United States of America.
+
+      The accompanying financial statements have been prepared assuming that the
+Company  will  continue  as a  going  concern.  As  discussed  in  Note 1 to the
+financial  statements,  the Company has limited capital resources,  has incurred
+recurring operating losses and has an accumulated  deficit.  These matters raise
+substantial  doubt  about the  ability  of the  Company to  continue  as a going
+concern.  Management's  plans in regard to these  matters are also  discussed in
+Note 1. The  financial  statements  do not  include any  adjustments  that might
+result from the outcome of this uncertainty.
+
+
+                                    /s/ SCOTT McELVEEN, L.L.P.
+
+
+Columbia, South Carolina
+March 26, 2008
+
+
+                                       22
+<PAGE>
+
+<TABLE>
+<CAPTION>
+<S>                                                    <C>                  <C>
+               Affinity Technology Group, Inc. and Subsidiaries
+
+                           Consolidated Balance Sheets
+
+                                                                   December 31,
+                                                            2007                 2006
+                                                       -----------------------------------
+Assets
+Current assets:
+  Cash and cash equivalents                            $      50,217        $   1,026,978
+  Prepaid expenses                                            77,118               77,702
+                                                       -----------------------------------
+Total current assets                                         127,335            1,104,680
+Property and equipment, net                                    6,377                7,566
+                                                       -----------------------------------
+Total assets                                           $     133,712        $   1,112,246
+                                                       ===================================
+
+
+Liabilities and stockholders' deficiency
+Current liabilities:
+  Accounts payable                                     $      19,681        $     248,834
+  Accrued expenses                                           786,046              445,284
+  Accrued compensation and related benefits                  410,905              411,680
+  Convertible notes                                        3,140,666                    -
+  Current portion of deferred revenue                         27,778               33,333
+                                                       -----------------------------------
+Total current liabilities                                  4,385,076            1,139,131
+Non-current liabilities:
+  Convertible notes                                                -            3,140,666
+  Accrued interest                                                 -               84,423
+  Deferred revenue                                                 -               27,778
+                                                       -----------------------------------
+Total non-current liabilities                                      -            3,252,867
+                                                       -----------------------------------
+Total liabilities                                          4,385,076            4,391,998
+                                                       -----------------------------------
+Commitments and contingent liabilities
+Stockholders' deficiency:
+  Common stock, par value $0.0001; authorized
+   100,000,000 shares, issued 49,310,406 shares in
+   2007 and 47,435,406 shares in 2006                          4,931                4,744
+  Additional paid-in capital                              72,671,087           72,164,732
+  Treasury stock, at cost (2,168,008 shares at
+   December 31, 2007 and 2006)                            (3,505,287)          (3,505,287)
+  Accumulated deficit                                    (73,422,095)         (71,943,941)
+                                                       -----------------------------------
+Total stockholders' deficiency                            (4,251,364)          (3,279,752)
+                                                       -----------------------------------
+Total liabilities and stockholders' deficiency         $     133,712        $   1,112,246
+                                                       ===================================
+</TABLE>
+
+See accompanying notes.
+
+
+                                       23
+<PAGE>
+
+
+               Affinity Technology Group, Inc. and Subsidiaries
+
+                      Consolidated Statements of Operations
+
+<TABLE>
+<CAPTION>
+<S>                                        <C>                 <C>                 <C>
+                                                           Years ended December 31,
+                                                2007               2006                2005
+                                          ------------------ -----------------   -----------------
+Revenues:
+   Patent license revenue                  $         33,333    $       33,333      $       20,261
+
+Costs and expenses:
+   Cost of revenues                                   3,333             3,333               2,026
+   General and administrative expenses            1,271,864         2,606,386             486,607
+                                          ------------------ -----------------   -----------------
+                                                  1,275,197         2,609,719             488,633
+                                          ------------------ -----------------   -----------------
+Operating loss                                   (1,241,864)       (2,576,386)           (468,372)
+Other income (expenses):
+   Interest income                                   14,964            17,907                 182
+   Interest expense                                (251,254)         (141,043)            (98,197)
+                                          ------------------ -----------------   -----------------
+Net loss                                   $     (1,478,154)   $   (2,699,522)     $     (566,387)
+                                          ================== =================   =================
+Net loss per share - basic and diluted     $          (0.03)   $        (0.06)     $        (0.01)
+                                          ================== =================   =================
+Shares used in computing net loss per
+ share                                           45,467,740        44,194,562          42,207,884
+                                          ================== =================   =================
+</TABLE>
+
+
+See accompanying notes.
+
+
+                                       24
+<PAGE>
+
+
+                  Affinity Technology Group, Inc. and Subsidiaries
+
+            Consolidated Statements of Stockholders' Equity (Deficiency)
+
+<TABLE>
+<CAPTION>
+
+                                         Common Stock
+                                  --------------------------
+                                      Shares       Amount    Additional Paid- Treasury Stock    Accumulated         Total
+                                                                in Capital                         Deficit       Stockholders'
+                                                                                                                    Equity
+                                                                                                                  (Deficiency)
+                                  -------------- ----------- ---------------- --------------- ---------------- -----------------
+
+<S>                                   <C>         <C>         <C>              <C>             <C>              <C>
+Balance at December 31, 2004          44,230,910  $    4,423  $    70,665,373  $  (3,505,287)  $  (68,678,032)  $    (1,513,523)
+Note payable conversion to
+    common stock                         152,194          15           30,424              -                -            30,439
+Issuance of common stock
+    as finder's fees                      10,000           1            1,099              -                -             1,100
+Net loss                                       -           -                -              -         (566,387)         (566,387)
+                                  -------------- ----------- ---------------- --------------- ---------------- -----------------
+Balance at December 31, 2005          44,393,104       4,439       70,696,896     (3,505,287)     (69,244,419)       (2,048,371)
+Note payable conversion to
+    common stock                       2,834,302         284          566,576              -                -           566,860
+Issuance of common stock
+    as finder's fees                       8,000           1            3,199              -                -             3,200
+Stock option exercise                    200,000          20           23,980              -                -            24,000
+Amortization of stock options                  -           -          674,081              -                -           674,081
+Amortization of warrants                       -           -          200,000              -                -           200,000
+Net loss                                       -           -                -              -       (2,699,522)       (2,699,522)
+                                  -------------------------- ---------------- --------------- ---------------- -----------------
+Balance at December 31, 2006          47,435,406       4,744       72,164,732     (3,505,287)     (71,943,941)       (3,279,752)
+Amortization of stock options                  -           -          356,542              -                -           356,542
+Issuance of common stock
+    as legal fees                      1,875,000         187          149,813              -                -           150,000
+Net loss                                       -           -                -              -       (1,478,154)       (1,478,154)
+                                  -------------------------- ---------------- --------------- ---------------- -----------------
+Balance at December 31, 2007          49,310,406  $    4,931  $    72,671,087  $  (3,505,287)  $  (73,422,095)  $    (4,251,364)
+                                  ============== =========== ================ =============== ================ =================
+</TABLE>
+
+See accompanying notes.
+
+
+                                       25
+<PAGE>
+
+
+               Affinity Technology Group, Inc. and Subsidiaries
+                      Consolidated Statements of Cash Flows
+
+<TABLE>
+<CAPTION>
+<S>                                           <C>               <C>                <C>
+                                                          Years ended December 31,
+                                                  2007              2006               2005
+                                            ----------------- ------------------ ------------------
+Operating activities
+Net loss                                      $   (1,478,154)   $    (2,699,522)   $      (566,387)
+Adjustments to reconcile net loss to net
+ cash used in operating activities:
+    Depreciation and amortization                      1,189              4,360              6,453
+    Common stock issued for legal services           150,000                  -                  -
+    Amortization of stock compensation               356,542            874,081                  -
+    Deferred revenue                                 (33,333)           (33,333)            79,738
+    Other                                                  -              3,651                796
+    Changes in current assets and
+     liabilities:
+       Accounts receivable                                 -            100,000           (100,000)
+       Prepaid expenses                                  584            (43,963)            13,496
+       Accounts payable                             (229,153)           129,066             98,266
+       Accrued expenses                              256,339            518,880             90,127
+       Accrued compensation and related
+        benefits                                        (775)            88,563            183,226
+                                            ----------------- ------------------ ------------------
+Net cash used in operating activities               (976,761)        (1,058,217)          (194,285)
+                                            ----------------- ------------------ ------------------
+
+Investing activities
+Purchases of property and equipment                        -             (7,581)                 -
+Proceeds from sale of property and equipment               -                  -                305
+                                            ----------------- ------------------ ------------------
+Net cash (used in) provided by investing
+ activities                                                -             (7,581)               305
+                                            ----------------- ------------------ ------------------
+
+Financing activities
+Proceeds from convertible notes                            -          2,055,000            145,000
+Exercise of stock options                                  -             24,000                  -
+                                            ----------------- ------------------ ------------------
+Net cash provided by financing activities                  -          2,079,000            145,000
+                                            ----------------- ------------------ ------------------
+Net increase (decrease) in cash                     (976,761)         1,013,202            (48,980)
+Cash and cash equivalents at beginning of
+ year                                              1,026,978             13,776             62,756
+                                            ----------------- ------------------ ------------------
+Cash and cash equivalents at end of year      $       50,217    $     1,026,978    $        13,776
+                                            ================= ================== ==================
+</TABLE>
+
+See accompanying notes.
+
+
+                                       26
+<PAGE>
+
+
+               Affinity Technology Group, Inc. and Subsidiaries
+
+                  Notes to Consolidated Financial Statements
+
+
+1.    The Company - Going Concern
+
+      Affinity Technology Group, Inc., (the "Company") was formed to develop and
+market  technologies that enable financial  institutions and other businesses to
+provide  consumer  financial  services  electronically  with reduced or no human
+intervention.  Products and services  previously  offered by the Company include
+its  DeciSys/RT  loan  processing  system,  which  automated the  processing and
+consummation of consumer financial services transactions; the Affinity Automated
+Loan  Machine  (the  "ALM"),  which  allowed an  applicant  to apply for and, if
+approved,  obtain a loan in as little as ten minutes;  the Mortgage  ALM,  which
+allowed  an  applicant  to  apply  for a  mortgage  loan;  e-xpertLender,  which
+permitted a financial  institution to make automated  lending  decisions through
+its call centers and branches; iDEAL, which permitted automobile lenders to make
+automobile  lending  decisions  for loan  applications  originated at automobile
+dealers;  and rtDS,  which  permitted  lenders to deliver  credit  decisions  to
+applicants  over the  Internet.  Due to capital  constraints,  the  Company  has
+suspended all efforts to further develop,  market and operate these products and
+services.  The Company's last processing  contract  terminated in late 2002, and
+the  Company  has no plans in the near term to engage in further  sales or other
+activities related to its products or services, other than to attempt to license
+certain  of  the  patents  that  it  owns.  Currently,  the  Company's  business
+activities  consist  exclusively of attempting to enter into license  agreements
+with third parties to license the Company's  rights under certain of its patents
+and in pursuing the patent  litigation in an effort to protect this intellectual
+property and obtain recourse against alleged infringement of these patents.
+
+      To date, the Company has generated  substantial  operating  losses and has
+been  required  to use a  substantial  amount  of cash  resources  to  fund  its
+operations.  At December 31, 2007, the Company had cash and cash  equivalents of
+$50,217 and a working capital deficit of $4,257,741.  The Company  generally has
+been unable to enter into licensing  agreements  with  potential  licensees upon
+terms that are acceptable to it and has sought recourse through  litigation with
+alleged  infringers of its patents.  The Company's  lawsuits against the alleged
+infringers  have been dismissed by the United States District Court in Columbia,
+South  Carolina,  and the Company has appealed to United States Court of Appeals
+for the Federal  Circuit (the "Federal  Court of  Appeals").  The Company is not
+certain  as to the  length  of time it will take to  complete  its  appeal.  The
+Company does not believe that its existing cash  resources will be sufficient to
+complete  the appeals  process and, if  successful,  to allow it to complete the
+prosecution  of its lawsuits  against the alleged  infringers.  Accordingly,  to
+remain  viable in the near term,  it is likely that the Company will be required
+to raise additional capital through the sale of debt and/or equity securities or
+from licensing its patents. The Company can give no assurances, however, that it
+will be able to raise  additional  capital or generate  capital  from its patent
+licensing  business  at all or in amounts  sufficient  to  complete  its appeal.
+Unless  it  raises  additional  capital,   the  Company  may  have  to  consider
+alternatives  for winding  down its  business,  which may include  offering  its
+patents for sale or filing for bankruptcy protection.
+
+      In addition,  the Company and its founder, Jeff Norris, were defendants in
+a lawsuit  filed by Temple  Ligon on  November  30,  1996 in the Court of Common
+Pleas for the County of Richland in Columbia, South Carolina. Mr. Ligon claimed,
+among other things,  that Affinity and Mr. Norris  breached an agreement to give
+him a 1% equity  interest in Affinity in  consideration  of services  Mr.  Ligon
+claims to have performed in 1993 and 1994 in  conjunction  with the formation of
+Affinity,  and sought  monetary  damages of $5,463,000.  This lawsuit  initially
+resulted  in  a  jury  verdict  against  us  of  $68,000.   However,  Mr.  Ligon
+subsequently  requested  and was  granted a new  trial.  In January  2004,  this
+lawsuit  resulted in another jury verdict against us of $382,148.  In connection
+with the litigation and the resulting jury verdict, the Company filed post-trial
+motions with the trial court in which,  among other things,  it claimed that the
+jury verdict should be set aside.  On July 23, 2004, the trial judge granted the
+Company's motions,  set aside the jury verdict,  and ordered entry of a judgment
+in favor of the Company.  The plaintiff appealed the trial judge's ruling to the
+South Carolina Court of Appeals (the "South Carolina Appeals Court"). On October
+30, 2006, the South Carolina  Appeals Court reversed the trial judge's  decision
+and reinstated the jury verdict of $382,148. The Company's petition to the South
+Carolina  Appeals  Court  for a  rehearing  of  this  case  was  denied,  and it
+petitioned  the South  Carolina  Supreme Court to hear this case and to grant it
+relief from this ruling.  In October  2007,  the Company was  notified  that the
+South  Carolina  Supreme  Court had  denied  its  petition  to hear  this  case.
+Accordingly,  the Company has no further  legal  recourse and a judgment will be
+entered against it of $382,148, plus accrued interest. At this time, the Company
+does not have the cash resources to pay this judgment. The Company will continue
+to  evaluate  its options to resolve or postpone  any  payments  related to this
+matter;  however, if it is required to pay more than an insignificant  amount in
+connection  with this  judgment in the near term, it would be forced to consider
+alternatives  for winding  down its  business,  which may include  offering  its
+patents for sale or filing for bankruptcy protection.
+
+
+                                       27
+<PAGE>
+
+
+      Management's  plans with respect to addressing the matters discussed above
+are to continue to pursue its appeal  through the Federal Court of Appeals,  and
+if  successful,  to continue its patent  infringement  lawsuits.  The  Company's
+currently limited capital resources will not be sufficient to enable the Company
+to complete its appeal and, if  successful,  to complete its  prosecution of its
+infringement  lawsuits. In the event the Company's current capital resources are
+not sufficient,  management  intends to attempt to raise  additional  capital to
+continue the  prosecution  of its appeal and patent  infringement  lawsuits.  No
+assurance can be given that management will be successful in raising  additional
+capital if needed to continue the operations of the Company.
+
+      There is  substantial  doubt about the Company's  ability to continue as a
+going  concern.  The  financial  statements  do not include any  adjustments  to
+reflect the possible future effects on the  recoverability and classification of
+assets or amounts and  classification  of liabilities  that may result from this
+uncertainty.  However,  management  believes that any adjustments to reflect the
+possible future effects on the  recoverability  and classification of assets and
+amounts of  liabilities  would not  materially  change the  Company's  financial
+position.
+
+2.    Summary of Significant Accounting Policies
+
+Principles of Consolidation
+
+      The consolidated  financial  statements include the accounts of Affinity
+Technology  Group,  Inc.  and  its  subsidiaries,   Affinity  Bank  Technology
+Corporation,  Affinity Clearinghouse Corporation, Affinity Credit Corporation,
+Affinity  Processing   Corporation,   Affinity  Mortgage   Technology,   Inc.,
+decisioning.com,  Inc.  ("decisioning.com"),  and  Multi  Financial  Services,
+Inc.  All  significant  inter-company  balances  and  transactions  have  been
+eliminated in consolidation.
+
+Cash and Cash Equivalents
+
+      The Company  considers  all highly liquid  investments  with a maturity of
+three months or less when purchased to be cash equivalents.
+
+Fair Value of Financial Instruments
+
+      The  carrying  amounts  reported  in the  balance  sheet for cash and cash
+equivalents, accounts payable and notes payable approximate their fair values.
+
+
+                                       28
+<PAGE>
+
+
+Property and Equipment
+
+      Property and equipment are recorded at cost. Depreciation and amortization
+are computed using the  straight-line  method over the estimated useful lives of
+the  assets.  Estimated  useful  lives  range  from five to ten years for office
+furniture and fixtures and three to five years for all other depreciable assets.
+Depreciation  expense was approximately  $1,000,  $4,000 and $6,000 during 2007,
+2006 and 2005, respectively.
+
+Revenue Recognition
+
+      Patent  licensing - The Company  recognizes  revenue from patent licensing
+activities  pursuant to the provisions of each license  agreement  which specify
+the periods to which the related license and corresponding revenue applies.
+
+      Deferred   revenues  -  Deferred   revenues  relate  to  unearned  revenue
+associated with cash received for patent licenses. Such revenue is recognized in
+the period the patent license entitles the licensee to use technology covered by
+the Company's patents.
+
+Cost of Revenues
+
+      Cost of revenues  consists  solely of  commissions  paid to the  Company's
+patent  licensing  agents.  Commissions  paid or accrued by the Company  totaled
+$3,333, $3,333 and $2,026 for the years ended December 31, 2007, 2006, and 2005,
+respectively.
+
+Stock Based Compensation
+
+      The Company adopted Statement of Financial  Accounting  Standards ("SFAS")
+No.  123R,  "Share-Based  Payments"  ("SFAS  123R"),  on January  1, 2006.  This
+statement  requires the Company to  recognize  the cost of employee and director
+services  received in exchange for the stock options it has awarded.  Under SFAS
+123R the Company is required to recognize  compensation  expense over an award's
+vesting period based on the award's fair value at the date of grant. The Company
+has elected to adopt SFAS 123R on a modified prospective basis; accordingly, the
+financial  statements  for the  periods  prior to January 1, 2006 do not include
+stock based  compensation  under the fair value  method.  The  Company  uses the
+Black-Scholes option pricing model to value its stock option grants.
+
+      Prior to  January  1,  2006,  the  Company  applied  APB  Opinion  No. 25,
+"Accounting  for Stock Issued to Employees" for  measurement  and recognition of
+stock based  transactions  with its employees and directors.  If the Company had
+recognized  compensation  expense for its stock based  transactions based on the
+fair value method  prescribed by SFAS 123R,  net loss and net loss per share for
+the year ended December 31, 2005 would have been as follows:
+
+                                             2005
+                                     ---------------------
+Net loss:
+As reported                            $         (566,387)
+Add: stock-based compensation expense
+ included in reported net income                        -
+Deduct: stock-based compensation
+ expense determined under the fair
+ value based method for all awards                 (6,543)
+                                     ---------------------
+Pro forma net loss                     $         (572,930)
+                                     =====================
+
+Net loss per common share:
+  As reported:
+    Basic and diluted                  $            (0.01)
+                                     =====================
+  Pro forma:
+    Basic and diluted                  $            (0.01)
+                                     =====================
+
+
+                                       29
+<PAGE>
+
+
+      See Note 5 for more information regarding the Company's stock compensation
+plans and the assumptions  used to prepare the pro forma  information  presented
+above.
+
+Net Loss Per Share of Common Stock
+
+      All net loss  per  share of  Common  Stock  amounts  presented  have  been
+computed  based on the  weighted  average  number  of  shares  of  Common  Stock
+outstanding  in accordance  with SFAS 128.  Stock warrants and stock options are
+not included in the  calculation  of dilutive  loss per common share because the
+Company  has  experienced   operating  losses  in  all  periods  presented  and,
+therefore, the effect would be antidilutive.
+
+New Accounting Standards
+
+      The  following is a summary of recent  authoritative  pronouncements  that
+affect  accounting,  reporting,  and disclosure of financial  information by the
+Company:
+
+      In September  2006,  the Financial  Accounting  Standards  Board  ("FASB")
+issued Statement of Financial Accounting Standards ("SFAS") No. 157, "Fair Value
+Measurement,"  effective  for our fiscal year  beginning  January 1, 2008.  This
+Statement  defines fair value,  establishes a framework for measuring fair value
+and expands disclosures about fair value  measurements.  This Statement does not
+require any new fair value  measurements,  but simplifies  and codifies  related
+guidance   within  GAAP.   This   Statement   applies  under  other   accounting
+pronouncements that require or permit fair value measurements.  The Company does
+not  expect  this  pronouncement  to have a  material  impact  on its  financial
+statements.
+
+      In February 2007, the FASB issued SFAS No. 159, "The Fair Value Option for
+Financial  Assets and  Financial  Liabilities"  ("SFAS No.  159"),  which  gives
+companies the option to measure eligible financial assets, financial liabilities
+and firm  commitments  at fair  value  (i.e.,  the  fair  value  option),  on an
+instrument-by-instrument basis, that are otherwise not permitted to be accounted
+for at fair value under other accounting standards. The election to use the fair
+value option is available when an entity first  recognizes a financial  asset or
+financial liability or upon entering into a firm commitment.  Subsequent changes
+in fair value must be  recorded  in  earnings.  SFAS No.  159 is  effective  for
+financial  statements issued for fiscal years beginning after November 15, 2007.
+The Company is in the process of  evaluating  the  impacts,  if any, of adopting
+this pronouncement.
+
+      Other  accounting  standards that have been issued or proposed by the FASB
+or other  standards-setting  bodies that do not require  adoption until a future
+date are not expected to have a material  impact on the  Company's  consolidated
+financial statements upon adoption.
+
+Income Taxes
+
+      Deferred income taxes are calculated using the liability method prescribed
+by Statement of Financial  Accounting  Standards No. 109, "Accounting for Income
+Taxes" ("SFAS 109").
+
+
+Concentrations of Credit Risk
+
+      The Company is not exposed to any concentration of credit risk.
+
+Use of Estimates
+
+      The  preparation  of financial  statements  in conformity  with  generally
+accepted  accounting  principles  requires  management  to  make  estimates  and
+assumptions  that affect the amounts  reported in the financial  statements  and
+accompanying notes. Actual results could differ from those estimates.
+
+
+                                       30
+<PAGE>
+
+
+Reclassification
+
+      Certain amounts in 2005 and 2006 have been reclassified to conform to 2007
+presentations  for  comparability.  These  reclassifications  have no  effect on
+previously reported stockholders' equity (deficiency) or net loss.
+
+3.    Property and Equipment
+
+Property and equipment consists of the following:
+
+<TABLE>
+<CAPTION>
+<S>                                              <C>               <C>
+                                                           December 31,
+                                                     2007               2006
+                                               -------------------------------------
+Data processing equipment                        $        22,032   $         22,032
+Office furniture and fixtures                             19,087             19,087
+Other equipment                                           11,038             11,038
+Purchased software                                         3,770              3,770
+                                               -------------------------------------
+                                                          55,927             55,927
+Less accumulated depreciation and amortization           (49,550)           (48,361)
+                                               -------------------------------------
+                                                 $         6,377   $          7,566
+                                               =====================================
+</TABLE>
+
+
+4.    Convertible Notes
+
+      The  contractual  maturities of the principal  outstanding  related to the
+Company's convertible notes at December 31, 2007 are as follows:
+
+Contractual Maturity Date   Principal Outstanding
+------------------------- ------------------------
+       August 2008          $            1,235,666
+     September 2008                      1,905,000
+                           -----------------------
+          Total             $            3,140,666
+                           =======================
+
+      In 2002, the Company  initiated a convertible  note program under which it
+was authorized to issue up to $1,500,000  principal amount of its 8% convertible
+secured notes (the "notes").  In February 2006, the convertible note program was
+amended to allow the Company to issue up to  $3,000,000  of its notes.  Prior to
+August 2006, the Company had issued an aggregate of $1,575,336  principal amount
+of notes under this program,  including notes with an aggregate principal amount
+of $536,336 that have been converted into shares of the Company's  common stock.
+These notes bear interest at 8%, are convertible into the Company's common stock
+at a conversion rate of $.20 per share (for notes issued prior to the April 2006
+amendment to the program) or $.50 per share (for notes issued in May 2006),  and
+are  secured by the  Company's  equity  interest  in its  decisioning.com,  Inc.
+subsidiary,  which owns the Company's patent  portfolio.  Principal and interest
+under these notes generally becomes payable in full on the second anniversary of
+the date on which  these  notes  were  issued.  However,  under the terms of the
+notes, the full amount of principal and interest under all notes may be declared
+immediately due and payable in certain events,  including  bankruptcy or similar
+proceedings  involving  the Company,  a default in the payment of principal  and
+interest under any note, or a change in control of the Company.
+
+       From June 2004 through August 2006, the Company was in default  regarding
+payment of principal and interest due under  certain of the notes.  Accordingly,
+the full  amount  of  principal  and  interest  outstanding  under all notes was
+payable at the option of all noteholders.
+
+
+                                       31
+<PAGE>
+
+
+      In August  2006,  the  Company and the  holders of all  outstanding  notes
+entered into an amended and restated  note purchase  agreement  under which such
+holders  agreed to extend the  maturity  date of such notes by  exchanging  them
+(including  all interest  accrued  thereon) for new two-year notes due in August
+2008 in the aggregate  principal  amount of  $1,268,027.  Under the amended note
+purchase  agreement,  the  Company may issue  notes in the  aggregate  principal
+amount of up to $5,000,000  (including the notes issued to current  noteholders,
+as described in the preceding  sentence)  having an exercise price determined by
+the Company and each investor at the time of issuance.
+
+      The new notes  issued in August  2006 have the same terms as the old notes
+for which they were  exchanged,  except that the new notes will mature in August
+2008. Of the new notes issued,  notes with a principal  amount of $1,115,068 are
+convertible  into shares of the  Company's  common stock at $.20 per share,  and
+notes with a principal  amount of $152,959  are  convertible  into shares of the
+Company's  common stock at $.50 per share.  The new notes  include a note in the
+principal amount of $166,863 issued to the Company's Chief Executive Officer and
+a note in the principal  amount of $122,115  issued to a subsidiary of The South
+Financial Group. The South Financial Group Foundation,  a non-profit  foundation
+established  by  the  South  Financial  Group,  owns  approximately  10%  of the
+Company's outstanding capital stock.
+
+      In September  2006, The Company sold additional  convertible  notes in the
+aggregate principal amount of $1,905,000.  The terms of these notes are the same
+as the notes previously issued by the Company, except that they may be converted
+into the Company's common stock at a rate of $.42 per share.
+
+5.    Stockholders' Deficiency
+
+Preferred Stock
+
+      Pursuant  to the  Company's  Certificate  of  Incorporation,  the Board of
+Directors has the  authority,  without  further action by the  stockholders,  to
+issue up to 5,000,000 shares of preferred stock in one or more series and to fix
+the designations,  powers, preferences,  privileges, and relative participating,
+optional or special rights and the qualifications,  limitations, or restrictions
+thereof,  including dividend rights,  conversion rights, voting rights, terms of
+redemption and liquidation preferences,  any or all of which may be greater than
+the rights of the  common  stock.  At  December  31,  2007 and 2006 there are no
+shares of preferred stock issued or outstanding.
+
+Stock Option Plans
+
+      During 2007, the Company had one  stockholder-approved  stock option plan,
+the 1996 Incentive  Stock Option Plan.  Prior to 2007, the Company  additionally
+had the 1995 Stock  Option  Plan.  Under the 1995 Stock  Option Plan the Company
+granted  incentive  stock options and  nonqualified  stock options to employees,
+directors,  consultants and independent  contractors.  This plan closed in April
+1996. In 2006, all outstanding  and unexercised  stock options granted under the
+plan  expired.  Accordingly,  at December  31, 2006,  there were no  outstanding
+options under the 1995 Stock Option Plan.
+
+      In April 1996, the Company  adopted the 1996 Incentive  Stock Option Plan.
+This plan closed in April 2006. Under the terms of the plan,  incentive  options
+were issued at an exercise  price not less than the estimated  fair market value
+on the date of grant.  Generally,  options  granted vest ratably over a 60 month
+term.  The 1996 Incentive  Stock Option Plan was amended and restated  effective
+May 28, 1999,  to increase the number of shares of common  stock  available  for
+issuance  from  1,900,000 to 2,900,000 and to permit  non-employee  directors to
+participate  in the  1996  Stock  Option  Plan.  Under  the  Company's  director
+compensation  program  in effect  from April  1999 to March  2002,  non-employee
+directors  received  options  under  the 1996  Incentive  Stock  Option  Plan to
+purchase  5,000  shares of common  stock of the Company on the 5th  business day
+after each annual shareholder  meeting. In March 2002, the Company adopted a new
+director  compensation program as a component of the 1996 Incentive Stock Option
+Plan under which all non-employee directors received a one-time grant of options
+to purchase  100,000 shares of the Company's stock at the closing sales price of
+the Company's common stock on the business day immediately  prior to the date of
+grant.  Such options vested ratably over a two-year  period.  Under the program,
+all non-employee directors on the Board were granted options to purchase 100,000
+shares on March 20, 2002.
+
+
+                                       32
+<PAGE>
+
+
+      Additionally,  on July  14,  2006,  the  Board  of  Directors  granted  to
+executives  of the  Company  and to its  non-employee  directors  an  additional
+4,350,000 options to purchase the Company's common stock ("The 2006 Stock Option
+Grant").  Included  in the 2006  Stock  Option  Grant  were  options  granted to
+executive officers to purchase 3,350,000 shares of the Company's common stock at
+an exercise  price of $0.50.  One-third of the options  granted to the executive
+officers  vested  at the  date of grant  and the  remainder  vest in two  annual
+installments on the first and second anniversaries of the date of grant.
+
+      The 2006 Stock Option Grant also included  options granted to non-employee
+directors to purchase  1,000,000  shares of the Company's common stock. Of these
+options,  500,000  options are  exercisable at $0.35 per share and vested at the
+grant date. The remaining 500,000 options granted to non-employee  directors are
+exercisable at $0.50, and vest in two equal installments on the first and second
+anniversaries of the grant date. The closing price of the Company's common stock
+was $0.35 on the day  immediately  preceding  the date of the 2006 Stock  Option
+Grant.
+
+      All the options  granted  pursuant to the 2006 Stock  Option  Grant have a
+contractual  term of 10 years and a remaining  contractual  term of 8.5 years at
+December 31, 2007. During 2007, none of the options were exercised or forfeited.
+At the grant date and at December 31, 2007, the weighted-average  exercise price
+was $0.48.  At December 31, 2006,  the  weighted-average  exercise  price of the
+2,983,332 options exercisable pursuant to the 2006 Stock Option Grant was $0.47.
+At the date of grant, the options granted had a  weighted-average  fair value of
+$0.26 and total  compensation  cost was  $1,136,000.  Of the total  compensation
+costs  related  to  the  2006  Stock  Option  Grant,   the  Company   recognized
+compensation  expense of $671,556 and  $355,333 in 2006 and 2007,  respectively,
+and will recognize  $109,111 in 2008. At December 31, 2007, the closing price of
+the Company's common stock was less than the weighted-average  exercise price of
+options which were outstanding and which were  exercisable;  accordingly,  there
+was no intrinsic value associated with such options.
+
+A summary of activity under the 1996 Option Plans is as follows:
+
+                                                     Options       Outstanding
+                                                ----------------- --------------
+                                    Shares                           Weighted
+                                  Available          Number       Average Price
+                                  For Grant         of Shares       Per Share
+                               ---------------- ----------------- --------------
+1996 Incentive Stock Option
+ Plan
+Balance at December 31, 2004           594,750         2,133,320    $       0.50
+Options granted                              -                 -    $       0.00
+Options cancelled/forfeited             99,620           (99,620)   $       0.34
+                               ---------------- ----------------- --------------
+Balance at December 31, 2005           694,370         2,033,700    $       0.51
+Plan Closed                           (694,370)                -               -
+Options exercised                            -          (200,000)   $       0.12
+Options cancelled/forfeited                  -          (100,000)   $       1.47
+                               ---------------- ----------------- --------------
+Balance at December 31, 2006                 -         1,733,700    $       0.50
+Options cancelled/forfeited                  -           (70,000)   $       3.75
+                               ---------------- ----------------- --------------
+Balance at December 31, 2007                 -         1,663,700    $       0.37
+                               ================ ================= ==============
+
+
+                                       33
+<PAGE>
+
+
+      A summary of stock options exercisable and stock options outstanding under
+the 1996 Incentive Stock Option Plan is as follows:
+
+<TABLE>
+<CAPTION>
+<S>                   <C>         <C>                    <C>         <C>                           <C>
+                                  1996 Incentive Stock Option Plan
+------------------------------------------------------------------------------------------------------
+
+                      Options Exercisable                         Options Outstanding
+                      at December 31, 2007                        At December 31, 2007
+               ================================== ====================================================
+                                                                                         Weighted
+                                    Weighted                           Weighted          Average
+   Range of                          Average                           Average          Remaining
+   Exercise         Number            Price            Number           Price          Contractual
+    Prices       Exercisable        Per Share       Outstanding       Per Share        Life (years)
+-------------- ---------------- ----------------- ---------------- ---------------- ------------------
+ $0.09 - $0.94        1,415,000   $          0.20        1,440,000   $         0.20                3.6
+ $1.06 - $3.75          223,700   $          1.43          223,700   $         1.43                2.2
+               ---------------- ----------------- ---------------- ---------------- ------------------
+ $0.09 - $3.75        1,638,700   $          0.37        1,663,700   $         0.37                3.4
+               ================ ================= ================ ================ ==================
+</TABLE>
+
+      At December 31, 2007, the closing price of the Company's  common stock was
+less than the  weighted-average  exercise price of options granted in accordance
+with  the  1996  Stock  Option  Plan  which  were  outstanding  and  which  were
+exercisable;  accordingly,  there was no intrinsic  value  associated  with such
+options.  In  2007,  the  Company  recognized  $1,208  of  compensation  expense
+associated with options granted under this plan and additional compensation cost
+of $350 will be recognized in 2008.
+
+       The fair value of each option award is estimated using the  Black-Scholes
+option-pricing  at the  date of  grant.  The  following  table  sets  forth  the
+assumptions used by the Company to estimate the fair value of options granted in
+2006.  Expected  volatility is based on historical monthly stock prices starting
+on April 26,  1996.  Historical  data and other  factors  that could  affect the
+Company and its options  programs are used to estimate the expected option life.
+The  risk-free  rate for periods  within the  contractual  life of the option is
+based on the U.S. Treasury yield in effect at the time of grant.
+
+                                                            2006
+                                                  ---------------
+                       Dividend yield                          -
+                       Expected volatility                   138%
+                       Risk-free rate of return             4.82%
+                       Expected option life, years             3
+
+
+      For  purposes  of  preparing  its  pro  forma   stock-based   compensation
+disclosures as set forth in Note 2, the Company  estimated the fair value at the
+date  of  grant  for the  options  issued  prior  to 2006  using  the  following
+assumptions:  expected volatility,  85% to 142%; risk free rate of return, 1.99%
+to 6.60%; dividend yield, 0%; and expected option life, 3 years.
+
+      The  Black-Scholes  and other option pricing models were developed for use
+in estimating fair value of traded options,  which have no vesting  restrictions
+and are fully transferable. In addition, option-pricing models require the input
+of highly  subjective  assumptions.  The Company's  employee  stock options have
+characteristics  significantly  different  than  those of  traded  options,  and
+changes  in the  subjective  assumptions  can  materially  affect the fair value
+estimate.
+
+      Stock Warrants
+
+       In July  2006,  the  Company  engaged  Morgan  Keegan & Company  ("Morgan
+Keegan")  to act as its  exclusive  financial  advisor to assist the  Company in
+raising capital and with the Company's  patent  licensing  program and strategic
+and  financial  alternatives.  Under the terms of the  engagement,  the  Company
+issued to Morgan Keegan,  as an advisory fee, a warrant with a five-year term to
+purchase 2,500,000 shares of the Company's common stock for $0.50 per share. The
+warrant was  exercisable at the date of issuance and the Company  recognized the
+estimated  fair value of the  warrant as an expense  of  $200,000.  The  Company
+estimated the fair value of the warrant in a manner  consistent  with its method
+for estimating the fair value of its stock options as discussed above.
+
+
+                                       34
+<PAGE>
+
+
+6.    Employee Benefit Plans
+
+      The Company has an employee savings plan (the Savings Plan) that qualifies
+as a deferred salary  arrangement  under Section 401(k) of the Internal  Revenue
+Code.  Under the Savings  Plan,  participating  employees may defer a portion of
+their pretax earnings,  up to the Internal  Revenue Service annual  contribution
+limit.
+
+7.    Leases
+
+      The Company has a prepaid  two-year  lease on its principal  office space.
+The  lease  expires  in  December   2008.   Additionally,   the  Company  has  a
+month-to-month  operating lease for the rental of its warehouse.  Future minimum
+lease payments under these leases at December 31, 2007 are approximately $1,200,
+all of which is payable in 2008. In 2007,  2006,  and 2005 the Company  incurred
+rent expense,  including rent associated with cancelable rental  agreements,  of
+approximately $29,000, $21,000 and $24,000, respectively.
+
+8.    Income Taxes
+
+      As of  December  31,  2007,  the  Company  had  federal  and state tax net
+operating loss  carryforwards  of approximately  $71,411,000.  The net operating
+loss carryforwards will begin to expire in 2009, if not utilized.
+
+      Deferred income taxes reflect the net tax effect of temporary  differences
+between the carrying  amounts of assets and liabilities for financial  reporting
+purposes and the amounts used for income tax purposes. Significant components of
+the Company's deferred tax assets and liabilities consist of the following:
+
+                                          December 31,
+                                     2007                2006
+                              ------------------- -------------------
+Deferred tax assets:
+   Net operating loss
+    carryforwards               $     26,636,000   $      26,091,000
+   Accrued expenses                       43,000              37,000
+Other                                          -                   -
+                              ------------------- -------------------
+Total deferred tax assets             26,679,000          26,128,000
+                              ------------------- -------------------
+Deferred tax liabilities:
+   Other                                       -                   -
+                              ------------------- -------------------
+Total deferred tax liabilities                 -                   -
+                              ------------------- -------------------
+Less: Valuation allowance            (26,679,000)        (26,128,000)
+                              ------------------- -------------------
+Total net deferred taxes        $              -   $               -
+                              =================== ===================
+
+      The Company has recorded a valuation  allowance for the full amount of its
+net deferred tax assets as of December 31, 2007 and 2006,  based on management's
+evaluation of the evidential recognition requirements under the criteria of SFAS
+109.  The main  component of the  evidential  recognition  requirements  was the
+Company's  cumulative  pretax losses since  inception.  The provision for income
+taxes at the  Company's  effective  rate did not differ from the  provision  for
+income taxes at the statutory rate for 2007, 2006, and 2005.
+
+9.    Segment Information
+
+      The Company  conducts its business within one industry segment - financial
+services technology. To date, all revenues generated have been from transactions
+with North American customers. Single entities accounted for 100% of revenues in
+2007, 2006, and 2005.
+
+
+                                       35
+<PAGE>
+
+
+10.   Related Party Transactions
+
+      In December  2003,  the Company  sold a two year  convertible  note in the
+principal amount of $100,000 to a subsidiary of The South Financial Group, which
+at that time owned approximately 12% of the Company's  outstanding common stock.
+In June  2002,  the  Company  sold a two year  convertible  secured  note to its
+Chairman,  President  and Chief  Executive  Officer in the  principal  amount of
+$125,000.  These notes bear interest at 8%, and  principal and accrued  interest
+were due in December 2005 and June 2004,  respectively.  As discussed more fully
+in Note 4, in August  2006 the Company  exchanged  its  outstanding  convertible
+notes for new  convertible  notes.  In accordance  with the exchange the Company
+issued new convertible  notes to a subsidiary of The South Financial Group, Inc.
+and to the  Company's  Chief  Executive  Officer  in the  principal  amounts  of
+$122,115 and $166,863, respectively.
+
+      In 2006  and 2005 the  Company  leased  office  space  from a holder  of a
+portion of its convertible  notes. The lease was on a  month-to-month  basis and
+was  terminated in January 2007.  Rental expense for the office space was $6,000
+and $9,250 in 2006 and 2005, respectively.
+
+11.   Commitments and Contingent Liabilities
+
+      The Company and its founder,  Jeff Norris,  were  defendants  in a lawsuit
+filed by Temple  Ligon on November 30, 1996 in the Court of Common Pleas for the
+County of Richland in Columbia,  South Carolina.  Mr. Ligon claimed, among other
+things,  that  Affinity  and Mr.  Norris  breached an agreement to give him a 1%
+equity  interest in Affinity in  consideration  of services  Mr. Ligon claims to
+have performed in 1993 and 1994 in  conjunction  with the formation of Affinity,
+and sought monetary damages of $5,463,000.  This lawsuit initially resulted in a
+jury verdict against us of $68,000.  However,  Mr. Ligon subsequently  requested
+and was granted a new trial. In January 2004,  this lawsuit  resulted in another
+jury verdict  against us of $382,148.  In connection with the litigation and the
+resulting  jury  verdict,  the Company filed  post-trial  motions with the trial
+court in which,  among other things,  it claimed that the jury verdict should be
+set aside. On July 23, 2004, the trial judge granted the Company's motions,  set
+aside the jury verdict, and ordered entry of a judgment in favor of the Company.
+The plaintiff  appealed the trial judge's  ruling to the South Carolina Court of
+Appeals (the "South  Carolina  Appeals  Court").  On October 30, 2006, the South
+Carolina  Appeals Court  reversed the trial judge's  decision and reinstated the
+jury verdict of $382,148.  The Company's  petition to the South Carolina Appeals
+Court for a  rehearing  of this case was  denied,  and it  petitioned  the South
+Carolina  Supreme  Court to hear  this  case and to grant it  relief  from  this
+ruling.  In October  2007,  the Company  was  notified  that the South  Carolina
+Supreme  Court had  denied its  petition  to hear this  case.  Accordingly,  the
+Company has no further legal recourse and a judgment will be entered  against it
+of $382,148,  plus accrued interest. At this time, the Company does not have the
+cash resources to pay this  judgment.  The Company will continue to evaluate its
+options to resolve or postpone any payments related to this matter;  however, if
+it is required to pay more than an insignificant  amount in connection with this
+judgment  in the near  term,  it would be forced to  consider  alternatives  for
+winding down its  business,  which may include  offering its patents for sale or
+filing for bankruptcy protection.
+
+
+                                       36
+<PAGE>
+
+
+12.   Quarterly Results of Operations (Unaudited)
+
+<TABLE>
+<CAPTION>
+<S>                  <C>          <C>              <C>               <C>
+                       First          Second            Third           Fourth
+                      Quarter        Quarter           Quarter          Quarter
+                    ------------ ---------------- ----------------- ---------------
+Year ended December
+ 31, 2007
+Revenue              $    8,333   $        8,334   $         8,333   $      8,333
+Gross profit              7,500            7,500             7,500          7,500
+Net loss               (442,691)        (476,016)         (309,876)      (249,571)
+Net loss per share -
+ basic and diluted        (0.01)           (0.01)            (0.01)         (0.01)
+
+Year ended December
+ 31, 2006
+Revenue              $    8,333   $        8,334   $         8,333   $      8,333
+Gross profit              7,500            7,500             7,500          7,500
+Net loss                (89,946)        (219,965)       (1,610,054)      (779,557)
+Net loss per share -
+ basic and diluted        (0.00)           (0.00)            (0.04)         (0.02)
+The sum of certain net loss per share amounts  differs from the annual  reported
+total due to rounding.
+</TABLE>
+
+
+Item 9.     Changes in and Disagreements with Accountants on Accounting and
+Financial Disclosure
+
+      Not applicable
+
+Item 9A.  Controls and Procedures
+
+Disclosure Controls and Procedures
+
+      The Company has carried out an evaluation,  under the supervision and with
+the  participation of the Company's Chief Executive  Officer and Chief Financial
+Officer,  of the  effectiveness  of the design and  operation  of the  Company's
+disclosure  controls and  procedures as defined in Rule 13a-15 of the Securities
+Exchange  Act of 1934 (the  "Exchange  Act").  Based upon that  evaluation,  the
+Company's Chief Executive Officer and Chief Financial Officer concluded that the
+Company's  disclosure  controls and procedures were effective as of December 31,
+2007, in recording,  processing,  summarizing and reporting information required
+to be  disclosed by the Company  (including  consolidated  subsidiaries)  in the
+Company's Exchange Act filings.
+
+      There were no changes in the  Company's  internal  control over  financial
+reporting  that occurred  during the Company's  most recent fiscal  quarter that
+materially  affected,  or  are  reasonably  likely  to  materially  affect,  the
+Company's internal control over financial reporting.
+
+Management's Annual Report on Internal Control Over Financial Reporting
+
+
+      Management of the Company is responsible for  establishing and maintaining
+adequate internal control over financial reporting.  Management has assessed the
+effectiveness  of internal  control over financial  reporting using the criteria
+established in Internal Control-Integrated  Framework issued by the Committee of
+Sponsoring Organizations of the Treadway Commission (COSO).
+
+      The  Company's  internal  control  over  financial  reporting is a process
+designed to provide reasonable  assurance regarding the reliability of financial
+reporting and the preparation of financial  statements for external  purposes in
+accordance with generally accepted accounting principles. The Company's internal
+control over financial reporting includes those policies and procedures that (1)
+pertain to the maintenance of records that, in reasonable detail, accurately and
+fairly reflect the  transactions  and dispositions of the assets of the Company;
+(2) provide reasonable  assurance that transactions are recorded as necessary to
+permit preparation of financial statements in accordance with generally accepted
+accounting  principles,  and that receipts and  expenditures  of the Company are
+being made only in accordance with authorizations of management and directors of
+the Company; and (3) provide reasonable assurance regarding prevention or timely
+detection of  unauthorized  acquisitions,  use, or  disposition of the Company's
+assets that could have a material effect on the financial statements.
+
+
+                                       37
+<PAGE>
+
+
+      Because of its  inherent  limitations,  internal  control  over  financial
+reporting may not prevent or detect misstatements. Therefore, even those systems
+determined to be effective can provide only reasonable assurance with respect to
+financial  statement  preparation  and  presentation.  Also,  projections of any
+evaluation  of  effectiveness  to future  periods  are  subject to the risk that
+controls may become  inadequate  because of changes in  conditions,  or that the
+degree of compliance with the policies or procedures may deteriorate.
+
+      Based on the testing performed using the criteria  established in Internal
+Control-Integrated  Framework  issued by the  COSO,  management  of the  Company
+believes  that the  Company's  internal  control over  financial  reporting  was
+effective as of December 31, 2007.
+
+      This annual report does not include an attestation report of the Company's
+independent  registered public  accounting firm regarding  internal control over
+financial  reporting.  Management's  report is not subject to attestation by the
+Company's  registered  public accounting firm pursuant to temporary rules by the
+Securities  and  Exchange  Commission  that permit the  Company to provide  only
+management's report in this annual report.
+
+      This report of management  on internal  control over  financial  reporting
+shall not be deemed to be filed for purposes of Section 18 of the Securities and
+Exchange Act of 1934 or otherwise subject to the liabilities of that section.
+
+Item 9B.  Other Information
+
+      Not applicable
+
+
+                                       38
+<PAGE>
+
+
+Part III
+
+Item 10.      Directors, Executive Officers and Corporate Governance
+
+              Executive Officers and Directors of the Registrant
+
+ Name                      Age         Position with the Company
+ ----                      ---         -------------------------
+ Joseph A. Boyle           54          Chairman, President, Chief Executive
+                                       Officer, and Chief Financial Officer
+ S. Sean Douglas           39          Executive Vice President and Chief
+                                       Operating Officer
+ Robert M. Price           77          Director
+ Peter R. Wilson           55          Director
+
+Joseph A. Boyle became  President and Chief  Executive  Officer of the Company
+in January  2000 and  Chairman  in March  2001.  Mr.  Boyle has also served as
+Chief  Financial  Officer of the Company since  September 1996. Mr. Boyle also
+held the title of Senior Vice  President  from September 1996 to January 2000.
+Mr. Boyle has  previously  served as Secretary  and  Treasurer of the Company.
+To conserve the  Company's  limited  financial  resources,  Mr. Boyle has from
+time to time reduced his time  commitment  to and  compensation  received from
+the  Company.   From  January  2005  until  June  2006,  Mr.  Boyle  performed
+consulting  services  for a local  financial  institution.  From April 2003 to
+August  2004,  Mr.  Boyle also was a partner of  Elliott  Davis,  LLC, a South
+Carolina  public  accounting  firm.  Prior to joining the  Company,  Mr. Boyle
+served as Price  Waterhouse,  LLP's engagement  partner for most of its Kansas
+City,  Missouri,  financial  services  clients  and was a member of the firm's
+Mortgage Banking Group. Mr. Boyle was employed by Price  Waterhouse,  LLP from
+June 1982 to August 1996.  Mr. Boyle is a director of UCI Medical  Affiliates,
+Inc. and serves as the chairman of its Audit Committee.
+
+S. Sean Douglas became  Executive Vice President and Chief Operating  Officer of
+the  Company  in March  2003.  Mr.  Douglas  also held the title of Senior  Vice
+President of Finance,  Operations and  Administration  of the Company from March
+2002 to March 2003.  From January 2000 to March 2002, Mr. Douglas held the title
+of Vice President and  Controller of the Company.  From November 1995 to January
+2000, Mr. Douglas was the Company's accounting manager.
+
+Robert M. Price has served as a director of the Company since  November 1994. He
+has been President of PSV,  Inc., a technology  consulting  business  located in
+Burnsville,  Minnesota,  since 1990.  Between 1961 and 1990, Mr. Price served in
+various executive  positions,  including  Chairman and Chief Executive  Officer,
+with Control Data Corporation,  a mainframe  computer  manufacturer and business
+services  provider.  Mr.  Price is a graduate of Duke  University,  and earned a
+master's degree at the Georgia Institute of Technology.  Mr. Price is a director
+of PNM Resources and Datalink Corporation.
+
+Dr.  Peter R. Wilson has been a director of the  Company  since March 1994.  Dr.
+Wilson  served as Secretary of the Company from March 1994 until  February  1996
+and has been an  Associate  Professor  at the Fuqua  School of  Business at Duke
+University  since  September  1991.  He was an  Assistant  Professor at New York
+University's  Stern School of Business between January 1983 and August 1991. Dr.
+Wilson  teaches  in the  areas of  financial  accounting,  financial  reporting,
+financial  statement  analysis  and  strategic  cost  management.  He  earned  a
+bachelor's degree and a Ph.D. in accounting at the University of North Carolina.
+
+                               Board of Directors
+
+      The  business  and  affairs  of the  Company  are  managed by or under the
+direction  of the  Board of  Directors,  as  provided  by  Delaware  law and our
+By-Laws.  The directors establish overall policies and standards for the Company
+and review the performance of management. The directors are kept informed of our
+operations  at meetings of the Board,  through  reports and analyses and through
+discussions with management.
+
+
+                                       39
+<PAGE>
+
+
+Meetings of the Board
+
+      The Board of Directors  met five times during the year ended  December 31,
+2007. All directors  participated  in at least 100% of all meetings of the Board
+of Directors  and the  committees of the Board of Directors on which they served
+during 2007.
+
+Committees of the Board
+
+      The  Board  of  Directors  has  established  an  Audit  Committee  and a
+Compensation  Committee.  There is no  nominating  committee  of the  Board of
+Directors.
+
+      The Audit Committee, established in 1996, has the authority to appoint and
+remove our  independent  public  accounting  firm, with whom the Audit Committee
+reviews  the scope of audit and  non-audit  assignments  and related  fees,  the
+accounting  principles used by us in financial reporting and the adequacy of our
+internal control procedures.  The members of the Audit Committee, which met once
+during the year ended December 31, 2007, are Dr. Peter R. Wilson  (Chairman) and
+Robert M. Price.
+
+      The Compensation Committee has the authority,  among other things, to: (i)
+determine the cash and non-cash  compensation of each of our executive  officers
+and any other  employee  with an annual  salary  in  excess  of  $100,000;  (ii)
+consider and  recommend to the Board such general and specific  employee  equity
+and  other  incentives  as it may from time to time  deem  advisable;  and (iii)
+administer our stock option plans.  The members of the  Compensation  Committee,
+which met one time during the year ended  December 31, 2007, are Robert M. Price
+(Chairman) and Dr. Peter R. Wilson.
+
+      The  Board  of  Directors  has  not  established  a  nominating  committee
+primarily because it believes that the current composition and size of the Board
+permit  candid  and open  discussion  regarding  potential  new  candidates  for
+director.  The entire Board of Directors  currently  operates as our  nominating
+committee,  and all  directors  participate  in the  consideration  of  director
+nominees. Of the three directors currently serving on the Board, we believe that
+Dr.  Peter R. Wilson and Robert M. Price are  independent  directors  within the
+meaning of the NASDAQ  Marketplace  Rules  applicable  to  directors  and audit,
+compensation and nominating  committee members of companies listed on the NASDAQ
+Global  Market.  The Company does not believe  that Messrs.  Wilson or Price are
+parties to other  transactions,  relationships  or  arrangements  not  otherwise
+disclosed  in this  report that affect  their  independence.  There is no formal
+process  or  policy  that  governs  the  manner in which we  identify  potential
+candidates  for  director,  and the  Board  of  Directors  has not  adopted  any
+specific,  minimum qualifications that must be met to be nominated to serve as a
+director.  Historically,  however, the Board of Directors has considered several
+factors in evaluating  candidates  for  nomination  to the Board,  including the
+candidate's  knowledge of our business,  the candidate's business experience and
+credentials,  and whether the candidate would represent the interests of all our
+stockholders  as opposed to a specific group of  stockholders.  We do not have a
+formal policy with respect to our consideration of director nominees recommended
+by our  stockholders  because the Board of Directors  believes  that it has been
+able to give appropriate consideration to candidates recommended by stockholders
+in prior years on a case-by-case basis.
+
+                        Audit Committee Financial Expert
+
+      The Board of  Directors  has  determined  that Dr.  Peter R.  Wilson is an
+"audit committee  financial expert" for purposes of the rules and regulations of
+the Securities and Exchange  Commission  adopted pursuant to the  Sarbanes-Oxley
+Act of 2002.  Mr. Wilson also is an independent  director  within the meaning of
+the NASDAQ  Marketplace Rules applicable to audit committee members of companies
+listed on the NASDAQ Global Market.
+
+      Additional  information  required  by this Item will be  contained  in the
+Registrant's  definitive proxy statement  relating to its 2008 Annual Meeting of
+Stockholders under the captions "Board of Directors - Code of Ethics," "Board of
+Directors--Nominees  for  Director,"  and "Section  16(a)  Beneficial  Ownership
+Reporting Compliance," which are incorporated by reference herein.
+
+
+                                       40
+<PAGE>
+
+
+Item 11.  Executive Compensation
+
+      The  information  required  by Item 11 is  incorporated  by  reference  to
+information  in the  registrant's  proxy  statement  relating to its 2008 Annual
+Meeting of Shareholders under the caption "Executive Compensation."
+
+
+Item 12.      Security  Ownership of Certain  Beneficial Owners and Management
+and Related Stockholder Matters
+
+      Certain  information  required  by  this  Item  will be  contained  in the
+Registrant's  definitive proxy statement  relating to its 2008 Annual Meeting of
+Stockholders  under the caption  "Security  Ownership of Management  and Certain
+Beneficial Owners," which is incorporated by reference herein.
+
+<TABLE>
+<CAPTION>
+<S>                        <C>                     <C>            <C>
+                                                                 Number of securities
+                     Number of securities    Weighted-average     remaining available
+                       to be issued upon     exercise price of    for future issuance
+                          exercise of       outstanding options,     under equity
+    Plan Category     outstanding options,  warrants and rights   compensation plans
+                      warrants and rights                             (excluding
+                                                                  securities reflected
+                                                                     in column (a))
+-------------------- --------------------- --------------------- ---------------------
+                              (a)                   (b)                   (c)
+-------------------- --------------------- --------------------- ---------------------
+Equity compensation
+  plans approved by
+   security holders        1,663,700               $0.37                   -
+-------------------- --------------------- --------------------- ---------------------
+Equity compensation
+ plans not approved
+ by security holders       6,850,000               $0.49                   -
+-------------------- --------------------- --------------------- ---------------------
+        Total              8,513,700               $0.47                   -
+-------------------- --------------------- --------------------- ---------------------
+</TABLE>
+
+      The table set forth above does not include any information with respect to
+shares of common  stock that may be issued upon the  conversion  of  convertible
+notes that have been issued by the  Company.  At December  31,  2007,  there was
+$3,476,342  of principal  and accrued  interest  outstanding  under these notes,
+which could be converted into an aggregate of 11,364,171 shares of the Company's
+common stock at a conversion  price of $0.20  ($1,203,466  principal and accrued
+interest),  $0.42 ($2,102,859 principal and accrued interest) or $0.50 ($170,017
+principal and accrued interest) per share.
+
+      As set forth in the above  table,  we issued  stock  options and  warrants
+exercisable  into  6,850,000  of shares of our  common  stock.  Of such  amount,
+4,350,000 were stock options  granted to employees and  non-employee  directors.
+The grant of these stock  options will be discussed in detail in Part III,  Item
+11.,  "Executive  Compensation,"  and  Note  5  to  our  consolidated  financial
+statements  included  herein also discusses  these stock options and warrants to
+purchase  2,500,000 shares of our common stock issued to Morgan Keegan & Company
+for advisory and other services.
+
+Item 13.      Certain   Relationships,   Related   Transactions  and  Director
+Independence
+
+Related Transactions
+
+      Since  June 2002,  we have  primarily  financed  our  operations  from the
+proceeds  received through the issuance of convertible  notes. In June 2002, our
+Chief Executive  Officer purchased a convertible note in the principal amount of
+$125,000. Additionally, in December 2003, we sold a two-year convertible note in
+the principal  amount of $100,000 to a subsidiary of The South  Financial  Group
+("TSFG"),  which at the time owned approximately 12%of our common stock. In June
+2004, all of our then outstanding  convertible notes,  including the note issued
+to our Chief Executive Officer and the subsidiary of TFSG, went into default. In
+August 2006, we reached an agreement  with the holders of our notes  outstanding
+at that time (the  "existing  notes"),  under which we  exchanged  the  existing
+notes,  all of which were in default,  for new notes.  The  principal of the new
+notes  included  the original  principal of the existing  notes plus the accrued
+interest on the existing  notes and matured in August 2008. In  accordance  with
+the exchange,  we issued to our Chief  Executive  Officer and the  subsidiary of
+TSFG new notes in the amount of $166,863 and $122,115, respectively.  Additional
+information  regarding our convertible notes and this transaction with our Chief
+Executive Officer is discussed in Part II, Item 7., "Management's Discussion and
+Analysis of  Financial  Condition  and  Results of  Operations  - Liquidity  and
+Capital  Resources"  and  in  Note 4 to our  consolidated  financial  statements
+included herein.
+
+
+                                       41
+<PAGE>
+
+
+Director Independence
+
+      Information  regarding  the  independence  of  our  outside  directors  is
+contained  in Part III,  Item 10.,  "Directors  and  Executive  Officers  of the
+Registrant - Board of Directors."
+
+Item 14.  Principal Accountant Fees and Services
+
+      Information  required  by  this  item  is  incorporated  by  reference  to
+information in the Registrant's  definitive proxy statement relating to its 2008
+Annual Meeting of Stockholders, under the caption "Accounting Fees."
+
+
+                                       42
+<PAGE>
+
+
+Part IV
+
+Item 15.  Exhibits, Financial Statement Schedules
+
+(a)  (1)  The following consolidated financial statements of Affinity Technology
+          Group,  Inc. and  subsidiaries  included in this Annual Report on Form
+          10-K are  included  in Item 8.
+     i.   Consolidated Balance Sheets as of December 31, 2007 and 2006.
+     ii.  Consolidated Statements of Operations for the years ended December 31,
+          2007, 2006, and 2005.
+     iii. Consolidated  Statements of Stockholders'  Equity (Deficiency) for the
+          years ended December 31, 2007, 2006, and 2005.
+     iv.  Consolidated Statements of Cash Flows for the years ended December 31,
+          2007, 2006, and 2005.
+     v.   Notes to Consolidated Financial Statements.
+
+     (2)  Exhibits:
+
+      Documents  incorporated by reference to exhibits that have been filed with
+the Company's  reports or proxy statements under the Securities  Exchange Act of
+1934 are  available to the public over the  Internet  from the SEC's web site at
+http://www.sec.gov.  You may also read and copy any such  document  at the SEC's
+public reference room located at 100 F Street, N.E., Room 1580, Washington, D.C.
+20549 under the Company's SEC file number (0-28152).
+
+Exhibit
+ Number        Description
+--------------------------------------------------------------------------------
+  3.1          Certificate of Incorporation of Affinity  Technology Group, Inc.,
+               which is hereby  incorporated  by reference to Exhibit 3.1 to the
+               Registration  Statement on Form S-1 of Affinity Technology Group,
+               Inc. (File No. 333-1170).
+  3.2          Certificate of Amendment to Certificate of  Incorporation  of the
+               Company, which is hereby incorporated by reference to Exhibit 3.2
+               to the  Company's  Quarterly  Report on Form 10-Q for the quarter
+               ended June 30, 2006
+  3.3          Bylaws  of  Affinity  Technology  Group,  Inc.,  which is  hereby
+               incorporated  by  reference  to Exhibit  3.2 to the  Registration
+               Statement on Form S-1 of Affinity  Technology  Group,  Inc. (File
+               No. 333-1170).
+  4.1          Specimen   Certificate   of   Common   Stock,   which  is  hereby
+               incorporated  by  reference  to Exhibit  4.1 to the  Registration
+               Statement on Form S-1 of Affinity  Technology  Group,  Inc. (File
+               No. 333-1170).
+  4.2          Sections  4,  7 and 8 of  the  Certificate  of  Incorporation  of
+               Affinity  Technology  Group,  Inc.,  as amended,  and Article II,
+               Sections 3, 9 and 10 of the Bylaws of Affinity  Technology Group,
+               Inc., as amended, which are incorporated by reference to Exhibits
+               3.1 and 3.2, respectively,  to the Registration Statement on Form
+               S-1 of Affinity Technology Group, Inc. (File No. 333- 1170).
+  4.3          Convertible Note Purchase Agreement,  dated June 3, 2002, between
+               Affinity Technology Group, Inc., and certain investors,  which is
+               incorporated  by  reference  to  Exhibit  4.1  to  the  Company's
+               Quarterly  Report on Form  10-Q for the  Quarter  ended  June 30,
+               2002.
+  4.4          Amended and Restated  Convertible Note Purchase Agreement,  dated
+               August  9,  2006,  among  the  Company  and the  investors  named
+               therein, which is hereby incorporated by reference to Exhibit 4.1
+               to the  Company's  Quarterly  Report on Form 10-Q for the quarter
+               ended June 30, 2006.
+  4.5          Form of 8% Convertible Secured Note, which is hereby incorporated
+               by reference to Exhibit 4.2 to the Company's  Quarterly Report on
+               Form 10-Q for the quarter ended June 30, 2006.
+  4.6          Amended and Restated  Security  Agreement,  dated August 9, 2006,
+               among the  Company  and the  investors  named  therein,  which is
+               hereby  incorporated by reference to Exhibit 4.3 to the Company's
+               Quarterly  Report on Form  10-Q for the  quarter  ended  June 30,
+               2006.
+
+                                       43
+<PAGE>
+
+
+  4.7          Letter Agreement,  dated as of September 12, 2006, among Affinity
+               Technology  Group,  Inc. and certain  purchasers  of  convertible
+               notes under the Amended and Restated  Convertible  Note  Purchase
+               Agreement,  dated as of August 9, 2006, among the Company and the
+               investors  named  therein,   which  is  hereby   incorporated  by
+               reference to Exhibit 4.1 to the Company's  Current Report on Form
+               8-K filed on September 20, 2006.
+ 10.1*         Form of Stock Option Agreement (1995 Stock Option Plan), which is
+               hereby   incorporated   by  reference  to  Exhibit  10.7  to  the
+               Registration  Statement on Form S-1 of Affinity Technology Group,
+               Inc. (File No. 333-1170).
+ 10.2*         Form of Stock Option Agreement (1996 Stock Option Plan), which is
+               hereby   incorporated   by  reference  to  Exhibit  10.8  to  the
+               Registration  Statement on Form S-1 of Affinity Technology Group,
+               Inc. (File No. 333- 1170).
+ 10.3*         Form of Stock Option  Agreement  (Directors'  Stock Option Plan),
+               which is hereby  incorporated by reference to Exhibit 10.9 to the
+               Registration  Statement on Form S-1 of Affinity Technology Group,
+               Inc. (File No. 333-1170).
+ 10.4*         1995 Stock Option Plan of Affinity  Technology Group, Inc., which
+               is hereby  incorporated  by  reference  to  Exhibit  10.10 to the
+               Registration  Statement on Form S-1 of Affinity Technology Group,
+               Inc. (File No. 333-1170).
+ 10.5*         Amended  and   Restated   1996  Stock  Option  Plan  of  Affinity
+               Technology Group, Inc., which is hereby incorporated by reference
+               to Exhibit 10 to the Company's  Quarterly Report on Form 10-Q for
+               the quarter ended September 30, 1999.
+ 10.6*         Non-Employee  Directors' Stock Option Plan of Affinity Technology
+               Group, Inc., which is hereby incorporated by reference to Exhibit
+               10.12  to the  Registration  Statement  on Form  S-1 of  Affinity
+               Technology Group, Inc. (File No. 333-1170).
+ 10.7          Stock Rights Agreement,  dated October 20, 1995, between Affinity
+               Technology Group,  Inc., and certain  investors,  which is hereby
+               incorporated  by reference to Exhibit  10.15 to the  Registration
+               Statement on Form S-1 of Affinity  Technology  Group,  Inc. (File
+               No. 333-1170).
+ 10.8*         Declaration  of First  Amendment  to 1996  Stock  Option  Plan of
+               Affinity  Technology  Group,  Inc., and 1995 Stock Option Plan of
+               Affinity   Technology  Group,  Inc.,  which  is  incorporated  by
+               reference to Exhibit 10.10 to the Company's Annual Report on Form
+               10-K for the year ended December 31, 1998.
+ 10.9*         Restricted  Stock Agreement  between Affinity  Technology  Group,
+               Inc., and Joseph A. Boyle,  which is incorporated by reference to
+               Exhibit 10.1 of the Company's  Quarterly  Report on Form 10-Q for
+               the quarter ended June 30, 2002.
+10.10*         Stock Agreement between Affinity Technology Group, Inc., and Wade
+               H. Britt, III, which is incorporated by reference to Exhibit 10.2
+               of the  Company's  Quarterly  Report on Form 10-Q for the quarter
+               ended June 30, 2002.
+10.13          Legal  Representation  Agreement,  dated  May 27,  2003,  between
+               decisioning.com,  Inc., and Withrow & Terranova,  PLLC,  which is
+               incorporated by reference to Exhibit 10.1 of the Quarterly Report
+               on Form 10-Q for the quarter ended June 30, 2003.
+10.14          Letter  Agreement,  effective  as  of  April  17,  2006,  between
+               Affinity  Technology  Group, Inc. (the "Company") and the holders
+               of the 8% convertible  secured notes issued under the Convertible
+               Note  Purchase  Agreement,  dated as of June 3,  2002,  among the
+               Company and the investors  named there in, which is  incorporated
+               by reference to Exhibit 10.1 to the Company's  Current  Report on
+               Form 8-K filed on April 17, 2006.
+10.15          Letter  Agreement,  dated July 10, 2006,  between the Company and
+               Morgan  Keegan  &  Company,   which  is  hereby  incorporated  by
+               reference to Exhibit 10.1 to the Company's Current Report on Form
+               8-K filed on July 14, 2006.
+10.16          Amended and Restated Legal Representation  Agreement,  dated July
+               10, 2006, among the Company, decisioning.com,  Inc. and Withrow &
+               Terranova,  PLLC,  which is hereby  incorporated  by reference to
+               Exhibit 10.2 to the Company's Current Report on Form 8-K filed on
+               July 14, 2006.
+10.17          Engagement  Agreement,  dated July 10,  2006,  among the Company,
+               decisioning.com,  Inc.  and  McBride  Law,  PC,  which is  hereby
+               incorporated  by  reference  to  Exhibit  10.3  to the  Company's
+               Current Report on Form 8-K filed on July 14, 2006.
+
+                                       44
+<PAGE>
+
+   14          Code of Ethics,  which is incorporated by reference to Exhibit 14
+               of the  Company's  Annual  Report on Form 10-K for the year ended
+               December 31, 2003.
+   21          Subsidiaries of Affinity Technology Group, Inc.
+ 23.1          Consent of Scott McElveen, L.L.P.
+   31          Rule 13a-14(a)/15d-14(a) Certification.
+   32          Section 1350 Certification.
+
+*     Denotes a management contract or compensatory plan or arrangement.
+
+(b)   Exhibits
+
+      The exhibits required by Item 601 of Regulation S-K are filed herewith and
+incorporated  by  reference  herein.  The response to this portion of Item 15 is
+submitted under Item 15(a) (2).
+
+
+                                       45
+<PAGE>
+
+
+                                   Signatures
+
+      Pursuant  to the  requirements  of Section  13 or 15(d) of the  Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+                                    Affinity Technology Group, Inc.
+
+Date: March 31, 2008               By:   /s/  Joseph A. Boyle
+                                         ---------------------------------------
+                                         Joseph A. Boyle
+                                         President and Chief Executive Officer
+
+      Pursuant to the requirements of the Securities  Exchange Act of 1934, this
+report  has  been  signed  below  by the  following  persons  on  behalf  of the
+Registrant and in the capacities and on the dates indicated.
+
+<TABLE>
+<CAPTION>
+<S>                         <C>                                        <C>
+Signatures                  Title                                      Date
+--------------------------- ------------------------------------------ -----------------
+
+
+/s/ Joseph A. Boyle                                                    March 31, 2008
+---------------------------
+Joseph A. Boyle             Chairman, President, Chief Executive
+                             Officer and Chief Financial Officer and
+                             Director
+                            (principal executive and financial
+                             officer)
+
+/s/ Robert M. Price, Jr.                                               March 31, 2008
+---------------------------
+Robert M. Price, Jr.        Director
+
+
+/s/ Peter R. Wilson, Ph.D.                                             March 31, 2008
+---------------------------
+Peter R. Wilson, Ph.D.      Director
+
+
+/s/ S. Sean Douglas                                                    March 31, 2008
+---------------------------
+S. Sean Douglas             Executive Vice President and Chief
+                             Operating Officer
+                            (principal accounting officer)
+</TABLE>
+
+
+                                       46
+<PAGE>
+
+
+Exhibit Index
+
+Exhibit Number   Description
+--------------- ----------------------------------------------------------------
+21               Subsidiaries of Affinity Technology Group, Inc.
+23.1             Consent of Independent Registered Public Accounting Firm
+31               Rule 13a-14(a)/15d-14(a) Certifications
+32               Section 1350 Certifications
+
+
+                                       47
+</TEXT>
+</DOCUMENT>

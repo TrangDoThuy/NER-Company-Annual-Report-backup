@@ -1,0 +1,1093 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>0001.txt
+<TEXT>
+
+
+                 UNITED STATES
+      SECURITIES AND EXCHANGE COMMISSION
+             Washington, DC 20549
+
+                   FORM 10-K
+
+(Mark One)
+[X]Annual Report Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934 [Fee Required]
+
+For the fiscal year ended    February 29, 2000
+
+                      or
+
+[ ]Transition Report Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934  [Fee Required]
+
+For the transition period from            to
+
+
+Commission File Number:       000-19320
+
+             Ag Services of America, Inc.
+(Exact name of registrant as specified in its charter)
+
+             Iowa                              42-1264455
+   (State or other jurisdiction of  (I.R.S. Employer
+   incorporation or organization)  Identification No.)
+
+2302 West First Street, Cedar Falls, Iowa           50613
+(Address of principal executive offices)          (Zip Code)
+
+Registrant's telephone number, including area code:(319)277-0261
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+                                    Name of exchange on
+  Title of each class                which registered
+
+Common Stock, no par value         New York Stock Exchange
+--------------------------         -----------------------
+
+Securities registered pursuant to Section 12(g) of the Act: None
+
+  Indicate by check mark whether the registrant (1) has filed all
+reports required to be filed by Section 13 or 15(d) of the
+Securities Exchange Act of 1934 during the preceding 12 months (or
+for such shorter period that the registrant was required to file
+such reports), and (2) has been subject to such filing requirements
+for the past 90 days.
+                          [X] Yes     [ ] No
+<PAGE>
+
+  Indicate by check mark if disclosure of delinquent filers
+pursuant to Item 405 of Regulation S-K (229.405 of this chapter)
+is not contained herein, and will not be contained, to the best of
+registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K
+or any amendment to this Form 10-K.                [X]
+
+  The aggregate market value of voting stock held by non-
+affiliates of the registrant as of May 23, 2000, was approximately
+$75,081,000 (based on the last reported sale price of $18.31 per
+share on May 23, 2000, on the New York Stock Exchange).
+
+  As of May 23, 2000, 5,266,364 shares of the registrant's common
+stock, no par value, were issued and outstanding.  At that date,
+there were 138 stockholders of record and approximately 3,100
+stockholders for whom securities firms acted as nominees.
+
+             DOCUMENTS INCORPORATED BY REFERENCE
+
+Herein the following documents are incorporated by reference:
+
+  Selected portions of the Registrant's Annual Report to
+Stockholders for the year ended February 29, 2000, are
+incorporated by reference into Part II.
+
+  Selected portions of the Registrant's Definitive Proxy Statement
+for the annual shareholders' meeting to be held August 1, 2000,
+are incorporated by reference into Part III.
+
+                                - 2 -
+<PAGE>
+
+
+PART I
+
+ITEM 1. BUSINESS
+
+General Development of Business
+
+Ag Services of America, Inc. (the "Company") was incorporated under the
+laws of the state of Iowa in 1985.  The Company supplies farm inputs,
+including seed, fertilizer, agricultural chemicals, crop insurance and
+cash advances for rent, fuel and irrigation, to farmers primarily in
+the central United States.  The Company buys seed, fertilizer,
+agricultural chemicals and other farm inputs from numerous national and
+regional manufacturers, distributors and suppliers of seed, fertilizer
+and agricultural chemicals.  Farmers have traditionally purchased farm
+inputs from one or more suppliers using credit from commercial banks,
+the Farm Credit System, the FmHA or other agricultural lenders.  The
+Company extends credit and provides farmers the convenience of
+purchasing and financing a wide variety of farm inputs from a single
+source at competitive prices.
+
+On August 1, 1991, the Company completed its initial public offering of
+1,060,000 shares of common stock (including 60,000 shares due to over-
+allotments completed August 30, 1991), of which 382,000 previously
+issued shares were sold by certain stockholders (32,000 shares as a
+result of over-allotments).  For the 678,000 newly issued shares sold
+by the Company (28,000 shares as a result of over-allotments), net
+proceeds of approximately $4.7 million were received by the Company.
+
+On April 22, 1993, the Company completed a public offering of
+$13,800,000 principal amount of 7% Convertible Subordinated Debentures
+due 2003 (including $1,800,000 due to over-allotments).  The 7%
+Convertible Subordinated Debentures were convertible into Common Stock
+of the Company at $9.25 per share.  The Company received net proceeds
+of approximately $12.9 million.
+
+On June 7, 1996, the Company called for redemption or conversion all of
+its outstanding 7% Convertible Subordinated Debentures due 2003 (the
+"Debentures").  From June 7, 1996 through July 10, 1996, the redemption
+date, the Company issued 1,487,669 shares of common stock upon
+conversion of $13,761,000 of Debentures and redeemed $39,000 of
+Debentures as full settlement of all $13,800,000 of the Debentures
+outstanding.
+
+Financial Information about Industry Segments
+
+The Company is engaged in one industry segment - the supplying of a
+wide range of farm inputs at competitive prices along with the credit
+to finance these farm inputs through the crop growing cycle.
+
+Narrative Description of Business
+
+General:
+
+The Company supplies farm inputs, including seed, fertilizer,
+agricultural chemicals, crop insurance and cash advances for rent, fuel
+and irrigation, to farmers primarily in the central United States.  The
+Company's strategy has been to provide a single source of farm inputs
+
+                                - 3 -
+<PAGE>
+
+and the credit necessary to finance these inputs through the growing
+cycle by taking a security interest in the crop itself.  This strategy
+is an attractive alternative to farmers who had difficulty obtaining
+credit, who needed additional credit for the expansion of existing
+operations and/or who wanted the convenience of a single source of farm
+inputs, finance and product expertise.
+
+The Company believes that its business strategy has been responsible
+for its growth and has focused its efforts on the following principles:
+
+*  Supplying and financing a complete line of quality farm inputs from
+several suppliers at competitive prices with prompt delivery.
+*  Providing customers with appropriate product selection and crop
+production advice from the Company's product specialists.
+*  Providing detailed monthly statements to simplify the customer's
+bookkeeping for all farm inputs purchased from the Company throughout
+each growing season.
+*  Offering multi-peril crop insurance through the Company as a
+licensed insurance agency.
+*  Visiting customers' farms to view crops and discuss harvest plans
+and marketing strategies.
+*  Providing professional and personalized service throughout the
+entire growing season to encourage renewed business each year.
+*  Selecting credit worthy and experienced customers.
+
+Principal Markets:
+
+The Company's customers are currently located in 30 states.   The
+Company's principal target market is corn and soybean producers in the
+states of Iowa, Minnesota, Nebraska, Illinois, Ohio, South Dakota,
+North Dakota, Texas and Indiana.
+
+Products and Suppliers:
+
+The Company buys seed, fertilizer, agricultural chemicals and other
+farm inputs from numerous manufacturers, distributors or dealers.
+These suppliers generally deliver the farm inputs directly to the
+Company's customers.  The Company negotiates the purchase price,
+discounts and trade credit annually with most of these suppliers.  In
+fiscal 2000, the percentage of net revenues attributed to the sale of
+seed, fertilizer, agricultural chemicals, and other farm inputs
+including, among others, cash rents, fuel, and irrigation was 13.7%,
+12.9%, 15.0% and 50.0%, respectively.  The balance of the Company's net
+revenues from continuing operations in fiscal 2000 was attributed to
+financing income.
+
+Seed. The Company currently buys seed from approximately 30 national
+and regional seed companies.  Seed company representatives as well as
+the Company's product specialists work directly with the Company's
+customers to assist them in selecting specific hybrids and varieties of
+seed.  The Company sells seed at competitive prices and achieves its
+margin based on standard industry discounts or negotiated volume
+discounts, if available.  Seed is delivered to the Company's customers
+directly by the seed companies.
+
+Fertilizer. The Company currently buys fertilizer from over 500
+suppliers.  The Company sells fertilizer at competitive prices and
+
+                                   - 4 -
+<PAGE>
+
+achieves its margin based on dealer discounts, negotiated pricing or
+opportunistic purchasing.   The Company purchases fertilizer using two
+alternative methods, depending on the customer's needs.  For those
+customers with storage facilities to handle bulk dry materials, bulk
+fluids or anhydrous ammonia, the Company may purchase the materials
+through major fertilizer distribution terminals or manufacturers.
+These bulk materials may be direct-shipped in truckload quantities to
+the customer's farm.  Customers without storage facilities can have the
+materials supplied by the Company, which may enlist the delivery
+service of a local fertilizer dealer.
+
+Agricultural Chemicals. The Company currently buys agricultural
+chemicals from several major distributors or suppliers.  The Company
+sells agricultural chemicals at competitive prices and achieves its
+margin based on dealer discounts, negotiated pricing, manufacturers'
+rebates and opportunistic purchasing.  Agricultural chemicals are
+generally delivered directly to the customer's farm by the distributor
+or through a dealer.
+
+Insurance, Cash Rents, Fuel, Irrigation and Custom Application. The
+Company offers its customers multi-peril crop insurance as an agent,
+although customers may also purchase multi-peril crop insurance from
+other insurance agents.  Through thirty of its employees, the Company
+is currently licensed as an insurance agent in 30 states.  When
+customers purchase the insurance through the Company's agent, the
+Company receives a standard industry commission based on the premium
+amount.
+
+The Company also provides its customers with credit for cash rents,
+fuel, irrigation and custom application costs.  If a customer's farm
+acreage is leased, the landowner may require payment of the annual rent
+before planting.  Based on its credit policy and the customer's needs,
+the Company may assist its customers with the advance payment of all or
+a portion of these cash rents.  The Company's customers generally
+arrange their own fuel, irrigation and custom application needs and the
+Company may, based on its credit policy, advance cash for a portion or
+all of these costs.
+
+Government Programs:
+
+The two principal government programs affecting the Company's business
+are government underwritten multi-peril crop insurance and the
+government's farm subsidy program payments.
+
+Multi-Peril Crop Insurance. The Company requires that its customers
+purchase multi-peril crop insurance and assign the insurance coverage
+to the Company as collateral for the credit extended by the Company to
+the customer.  Multi-peril crop insurance, while sold and administered
+in large part by private companies, is currently underwritten by the
+Federal Crop Insurance Corporation ("FCIC"), an agency of the United
+States Government.  Current multi-peril crop insurance generally covers
+crop losses for hail, wind, drought, flood and certain other covered
+events.
+
+While various forms of federal multi-peril crop insurance have been in
+existence since 1938, federal farm policies and funding are subject to
+periodic change, and there can be no assurance that the FCIC or any
+
+                                - 5 -
+<PAGE>
+
+other federal agency will continue to underwrite multi-peril crop
+insurance on an ongoing basis.  If the Company's customers were not
+able to obtain multi-peril crop insurance through some combination of
+the FCIC or domestic or foreign private insurance underwriters at a
+reasonable cost, the Company would be required to seek alternative
+collateral from its customers, which could have a material adverse
+affect on the Company's net revenues.  There can be no assurance that
+multi-peril crop insurance will continue to be available to the
+Company's customers or, if available, for a reasonable cost.
+
+FSA "Production Flexibility Contract" Payments. The United States
+Department of Agriculture, through its Farm Service Agency ("FSA"),
+guarantees participating farmers fixed payments on "contract acreage
+base" for various crops over the next three years under Federal
+Agriculture and Improvement Act ("1995 Farm Bill").  Corn, wheat and
+certain other crops are currently eligible under the FSA farm program.
+If a customer of the Company participates in the FSA farm program, the
+Company supplements its security by obtaining an assignment of the
+customer's FSA "Production Flexibility Contract" payments.  While
+various forms of federal support programs have been in existence since
+1933, federal farm policies and funding, including support payments
+under the 1995 Farm Bill, are subject to periodic change, and there can
+be no assurance that the FSA or any other federal agency will continue
+to provide support programs on an ongoing basis.
+
+Farm Input Pricing and Finance Charges:
+
+The Company structures its pricing of farm inputs so that the net
+prices paid by its customers who take advantage of the Company's
+payment discounts are generally competitive with farm inputs purchased
+from another distributor or supplier.  The Company obtains volume
+discounts for certain farm inputs and may pass all or a portion of
+those discounts to its customers.  The Company charges its customers
+for farm inputs when provided.  Finance charges on credit extended to a
+customer commence immediately for cash rents provided by the Company
+and on the date shipped for other farm input products sold by the
+Company to a customer.  The Company establishes and fixes its interest
+rates each year based on the Company's estimate of anticipated interest
+costs over the year.  For fiscal 2001, the Company's customers will be
+charged interest at a variable rate note at prime to 4.5% above prime
+based on the credit worthiness of the customer.  As of May 22, 2000,
+the current prime rate is 9.50% per annum as published in the Midwest
+Edition of The Wall Street Journal.
+
+Spring customer accounts, including all interest, are due by January
+15th for North accounts and January 31st for South accounts.  The
+Company currently assesses a 3.0% program fee based on the customer's
+established credit limit and the customer can earn back all or part of
+the program fee based on the following repayment dates for North Spring
+accounts: 3.0% for customer accounts paid off by December 1, 2.0% for
+customer accounts paid off by December 21 and 1.0% for customer
+accounts paid off by January 15th. South Spring accounts, 3.0% for
+customer accounts paid off by December 18, 2.0% for customer accounts
+paid off by January 8 and 1.0% for customer accounts paid off by
+January 31st.  Fall customer accounts, including interest, are due by
+September 15th.  Fall customers can also earn back the program fee
+based on the following repayment dates: 3.0% for customer accounts paid
+
+                                   - 6 -
+<PAGE>
+
+off by July 31, 2.0% for customer accounts paid off by August 20 and
+1.0% for customer accounts paid off by September 15th.
+
+Customer Support:
+
+The Company provides customers personalized service with their farm
+input needs throughout the entire crop growing cycle.  The Company's
+product specialists provide information on the availability and use of
+various chemicals, fertilizers and seed, while the ultimate decision of
+product choice is made by the customer.  The Company's product
+specialists discuss with customers the efficient use of farm inputs,
+cost-effective fertility and weed control programs, product
+availability, pricing and delivery.  When orders are received, the
+Company coordinates the customer's needs and delivery requirements with
+the appropriate suppliers.  The Company also generally schedules at
+least one or two visits to the customer farms to inspect the growing
+crop and to discuss harvest plans and any pertinent problems during the
+growing cycle.  The Company provides each customer a detailed monthly
+statement to simplify the customer's bookkeeping for all farm inputs
+purchased from the Company throughout each growing season.
+
+Credit Policy and Customer Notes:
+
+The Company has established a credit policy with procedures for credit
+review and approval.  Each new customer and customers from prior years
+must provide financial and credit information to the Company.  If a
+customer is approved by the Company for credit, the Company will
+generally extend credit of up to 85% of the insured value of that
+customer's planned crop, based on his multi-peril insurance coverage.
+The Company secures its position principally by obtaining a lien on the
+crop and by receiving an assignment of the farmer's multi-peril crop
+insurance and government farm program payments, if available.  For
+certain customers, the Company's lien on the crop might be subordinate
+to one or more prior liens, which would directly reduce the amount of
+credit available to that customer.  The Company obtains a current
+credit report or search to verify the priority of the Company's lien.
+The Company also contacts customer references, and for larger accounts,
+the Company may visit the prospective customer's farm to review farm
+operations before extending credit.
+
+The Company's principal asset is its notes receivable from customers
+who finance their purchase of farm inputs from the Company throughout
+the crop growing cycle.  At February 29, 2000 and February 28,1999:
+the total number of customer accounts was 1,533 and 1,358,
+respectively; the total outstanding customer notes receivable were
+$160,606,658 and $129,304,958, respectively.  For the years ended
+February 29, 2000 and February 28, 1999, there were no individual
+customers whose accounts were 5% or more of the Company's total
+customer notes receivable at year end.
+
+Each customer account is assigned to an employee of the Company for
+monitoring the collection of customer accounts during harvest season,
+under the supervision of the Company's collection managers.  The
+Company's employees generally contact their respective assigned
+customers biweekly during the harvest season.  Through this process,
+the Company obtains information from customers concerning crop yields,
+marketing strategy, number of acres harvested and the location of the
+
+                                 - 7 -
+<PAGE>
+
+customers' stored crops.  If a customer has a claim under his multi-
+peril crop insurance, the Company will take steps to assure that the
+claim has been properly and timely filed.  Under the Company's credit
+arrangements, when a customer sells his crop, the customer is required
+to obtain the sale proceeds by check, payable to both the customer and
+the Company, and forward the check to the Company as endorsed by the
+customer.  Upon receipt of the check, the Company applies the proceeds
+as a payment on the customer's account and forwards any overpayments to
+the customer.  The Company does not retain customer funds on deposit.
+If a customer is to receive all or a portion of the value of his crop
+through a multi-peril crop insurance claim or farm program payment, the
+collection of that customer's account could be delayed pending receipt
+of those payments.
+
+Some customers may wish to store their crops for later sale, or for
+other reasons may not pay their accounts in full when due.  The Company
+monitors and documents its collateral and collection position on all
+accounts on an ongoing basis.  The Company will informally extend the
+payment of a customer's note receivable to accommodate a customer's
+crop marketing requirements if the Company determines that there
+continues to be sufficient collateral. Therefore, a customer's note
+receivable that is past due may not be past due because of a customer's
+inability to pay or collateral impairment.  The amount of customer
+notes receivable that were past due (including notes extended by the
+Company) at February 29, 2000 and February 28, 1999 was $84,044,999 and
+$69,796,119, respectively.  The amount of past due customer notes
+receivable decreased from 31.0% of net revenues from continuing
+operations in fiscal 1999 to 28.5% of net revenues from continuing
+operations in fiscal 2000, primarily as a result of the decline in
+outstanding customer notes receivable extended by the Company
+originated under a servicing and marketing agreement with a major
+national agricultural supplier.  The net revenues associated with this
+agreement are primarily financing income as the Company serves as the
+underwriter in providing financing for purchases and cash advances of
+customers under the agreement.  The increased dollar amount of past due
+customer notes receivable has not had a material adverse affect on the
+Company's earnings, and management does not believe that this increase
+will have a material adverse affect on earnings or the Company's
+ability to supply and finance farm inputs in the future.
+
+The Company also continually evaluates and classifies each customer
+account based on collateral and expected timing of collection in
+determining its allowance for doubtful notes.  At February 29, 2000 and
+February 28, 1999, the Company's allowance for doubtful notes were
+$4,550,000 and $3,695,000, respectively.
+
+Sales and Marketing:
+
+The Company markets its program through advertising, including direct
+mail and telemarketing, customer solicitation and referrals, including
+cooperative marketing efforts with several major seed and fertilizer
+suppliers which allow the Company to market its program through their
+dealer networks.  In addition, the Company employs twenty-seven full
+time salaried sales people and one independent sales representative.
+The sales representatives identify prospective customers and assist in
+obtaining customer information for the Company's credit review and
+approval.  After the Company has approved a customer, the Company's
+
+                                 - 8 -
+<PAGE>
+
+employees begin to service the customer's account generally without
+assistance from the sales representatives.
+
+In fiscal 2000 and 1999, the Company incurred approximately $391,000
+and $265,300, respectively, in advertising expenses.  The Company plans
+to spend approximately $570,000 on advertising in fiscal 2001.
+
+Seasonal Factors:
+
+The sale of farm inputs is seasonal with approximately 76% of revenues
+being generated from March 1 through August 31 of each year.
+
+Credit Facilities:
+
+Due to the seasonality of the Company's revenues and the terms of its
+customer notes receivable, the Company is required to finance the
+carrying of its revenues as notes receivable for a majority of its
+fiscal year.
+
+The Company's business and its growth are dependent on adequate credit
+to finance its sales of farm inputs to farmers.  The Company uses its
+capital, trade credit and bank and commercial paper borrowings to
+finance farm input purchases.  The terms of the Company's trade credit
+vary for each supplier and type of farm input and may require a lien on
+certain assets of the Company.
+
+In March of 1997, the Company negotiated an asset backed securitized
+financing program with a maximum available amount of $135 million,
+which was increased to $205 million in March of 1998.  In June of 1999,
+the Company amended the asset backed securitized financing program
+which extended the agreement through fiscal 2004 and increased the
+borrowing amount under the facility to $275 million.  Subsequent to
+fiscal 2000 year end, the Company received a commitment to increase the
+maximum available borrowing amount under the facility to $325 million.
+The Company also maintains two lines of credit with a maximum borrowing
+capacity of $20.5 million, which combined with the securitized
+financing program should provide the Company adequate financing for
+fiscal 2001.  If the Company were not able to maintain a sufficient
+line of credit or other credit facility, the Company would not be able
+to finance sufficient sales of farm inputs, which would have a material
+adverse affect on the Company's business and its growth.  Management
+believes that the financial resources available to it will be
+sufficient to finance the Company's business.
+
+Competition:
+
+The Company faces competition from many types of suppliers of farm
+inputs, including manufacturers' dealers, independent distributors and
+suppliers, and farm cooperatives.  Farm input financing is competitive
+and, in recent years, several large agricultural supply companies have
+provided financing for various farm inputs.  Many of the Company's
+competitors are considerably larger and better capitalized, and there
+can be no assurance that the Company will be able to compete
+effectively against such competitors in the future.  Within this
+competitive environment, the Company competes principally on the basis
+
+                              - 9 -
+<PAGE>
+
+of its competitive pricing, broad range of farm inputs offered and the
+convenience of its financing.
+
+Major Customers:
+
+The customer base is sufficiently broad that no customer accounts for
+10% or more of the Company's revenues.
+
+Backlog Orders:
+
+Although the Company had approximately $91,182,000 in commitments to
+supply farm inputs, there was no material sales backlog as of February
+29, 2000.
+
+Government Regulation:
+
+Farm input financing and cash advances are subject to certain state
+laws governing money brokers, federal and states truth-in-lending
+regulations, and state usury laws limiting interest rates for certain
+types of customers.  Additional laws and regulations could be
+implemented in the future governing the Company's financing activities
+for the sale of farm inputs and cash advances or other aspects of the
+Company's business.  Compliance with these laws and regulations may
+adversely affect the Company's operations and costs.
+
+The sale of certain farm inputs, including agricultural chemicals and
+pesticides is subject to certain federal and state environmental rules
+and regulations.  The Company holds licenses necessary for the sale of
+these products.  The Company also serves as an agent for the sale of
+multi-peril crop insurance and has thirty employees with the required
+insurance agent's license.
+
+Employees:
+
+As of February 29, 2000, the company had 164 full time employees,
+including eight executive positions, twenty-seven in product
+specialization and distribution, forty-one in credit review and
+approval, four in multi-peril crop insurance sales, eighteen in
+accounting and administration, eight in information systems, one in
+customer service, nineteen in legal and collection, and thirty-eight in
+sales and marketing.  None of the Company's employees are covered by a
+collective bargaining agreement.  The Company considers its relations
+with its employees to be good.
+
+ITEM 2.  PROPERTIES
+
+The Company's principal offices, aggregating approximately 30,000
+square feet, are located in Cedar Falls, Iowa under a lease, which
+expires in 2003.  The current annual rent is approximately $244,000
+plus utilities, insurance premiums and interior maintenance expenses.
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+The Company is named in lawsuits in the ordinary course of its
+business.  Although it is not possible to predict the outcome of such
+lawsuits, in the opinion of management the outcomes will not have a
+material adverse effect on the financial condition of the Company.  The
+
+                              - 10 -
+<PAGE>
+
+Company maintains insurance coverage that management believes is
+reasonable.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+There were no matters submitted to a vote of security holders during
+the fourth quarter of the fiscal year covered by this report.
+
+EXECUTIVE OFFICERS OF THE REGISTRANT
+
+Information concerning Executive Officers, set forth at Item 10 in Part
+III hereof, is incorporated in Part I of this report by reference.
+
+
+PART II
+
+ITEM 5.  MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER
+            MATTERS
+
+Market Information
+
+The Company's common stock is traded on the New York Stock Exchange
+("NYSE"), under the symbol ASV.  The market quotations provided by the
+NYSE appearing on page four of the Annual Report to Shareholders for
+the year ended February 29, 2000 are incorporated herein by reference.
+These quotations reflect prices without retail markup, markdown or
+commissions and may not represent actual transactions.
+
+Stockholders
+
+As of February 29, 2000, the Company had 138 stockholders of record and
+approximately 3,100 stockholders for whom securities firms acted as
+nominees.
+
+Dividends
+
+The holders of common shares are entitled to receive dividends when and
+as declared by the Board of Directors.  However, other than dividends
+paid prior to September 1989 to its then parent corporation, which was
+subsequently merged into the Company, the Company has not paid a cash
+dividend on its common stock.  The Company does not anticipate payment
+of any cash dividends in the foreseeable future.  The Company presently
+intends to retain earnings to finance growth.  The Company's current
+borrowing agreements contain covenants that prohibit the declaration or
+payment of dividends.
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+The "Selected Financial Data" for the Company appearing on pages 12
+and 13 of the Annual Report to Stockholders for the year ended February
+29, 2000 is herein incorporated by reference.
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS
+
+                              - 11 -
+<PAGE>
+
+The "Management's Discussion and Analysis of Financial Condition and
+Results of Operations" appearing on pages 15 through 20 of the Annual
+Report to Stockholders for the year ended February 29, 2000 is herein
+incorporated by reference.
+
+ITEM 7A.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+At February 29, 2000 the Company had $93.4 million outstanding in notes
+payable at an average variable interest rate of 6.74%.  A 10% increase
+in the average variable interest rate would increase interest expense
+by approximately 67 basis points.  Assuming similar average outstanding
+borrowings as fiscal 2000 of $167.5 million, this would increase the
+Company's interest expense by approximately $1,122,000.
+
+The above sensitivity analysis is to provide information about the
+Company's potential market risks as they pertain to an adverse change
+in interest rates.  The above analysis excludes the positive impact
+that increased interest rates would have on financing income as 95% of
+the Company's notes receivable are variable rate notes.
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+See Index to Financial Statements and Schedules set forth in Item 14.
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING
+AND FINANCIAL DISCLOSURE
+
+There have been no disagreements on accounting and financial disclosure
+with the Company's independent public accountants.
+
+
+PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+Executive Officers
+
+The name, age and office(s) held by each of the Registrant's executive
+officers are shown below.  Each of the executive officers listed below
+serves at the pleasure of the Board of Directors, except Messrs,
+Jungling, Miller and Schipper who have entered into employment
+agreements with the Registrant effective through June 2000.
+
+Name                        Age   Position With the Company
+
+Gaylen D. Miller (1)         51   President and Chief Executive Officer
+Henry C. Jungling, Jr. (1)   53   Chairman of the Board
+Kevin D. Schipper (1)        40   Chief Operating Officer
+Todd J. Ryan (1)             37   Vice President Sales and Marketing
+Brad D. Schlotfeldt (1)      36   Vice President Finance and Treasurer
+Eunice M. Schipper (1)       58   Vice President Credit
+Neil H. Stadlman (1)         54   Vice President Credit Administration
+Terry L. Gibson (2)          38   General Counsel
+
+(1)  These executive officers of the Registrant have been an employee of
+     the Company in varying capacities for more than the past five years.
+
+                                - 12 -
+<PAGE>
+
+(2)  Mr. Gibson has been employed by the Company in varying capacities
+     since April 1998.  Before joining the Company, Mr. Gibson was a
+     partner in the law firm of Wandro & Gibson from July 1996 through
+     April 1998, an associate with the law firm Brown, Winnick, Graves
+     from May through June 1996, self-employed as a sole practitioner
+     from April 1995 through May 1996 and prior to that Mr. Gibson was
+     employed by the U.S. Office of Trustee with the U.S. Department of
+     Justice.
+
+The balance of the information regarding directors and executive
+officers of the Company is set forth in the Company's definitive Proxy
+Statement for the Annual Meeting of Stockholders to be held August 1,
+2000, on pages 5 and 6, under the heading "Election of Directors," and
+is incorporated herein by reference.
+
+ITEM 11.  EXECUTIVE COMPENSATION
+
+Information required by this item is set forth in the Company's
+definitive Proxy Statement for the Annual Meeting of Stockholders to be
+held August 1, 2000, on page 3, under the heading "Election of
+Directors," on page 5, under the heading "Election of Directors -
+Compensation Committee Interlocks and Insider Participation," and on
+pages 6 to 16, under the heading "Executive Compensation and Other
+Related Information," and is incorporated herein by reference.
+However, the "Board Report on Executive Compensation" and the
+"Performance Graph," on pages 10 to 11 and page 15, respectively, are
+specifically not incorporated by reference.
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+             MANAGEMENT
+
+Information required by this item is set forth in the Company's
+definitive Proxy Statement for the Annual Meeting of Stockholders
+to be held August 1, 2000, on page 8, under the heading "Security
+Ownership of Certain Beneficial Owners and Management," and is
+incorporated herein by reference.
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+Information required by this item is set forth in the Company's
+definitive Proxy Statement for the Annual Meeting of Stockholders
+to be held August 1, 2000, on pages 5 and 6, under the heading
+"Election of Directors," and is incorporated herein by reference.
+
+
+PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM
+           8-K
+
+                                                             Page
+(a)(1)         - Financial Statements                         14
+(a)(2)         - Financial Statement Schedules                14
+(a)(3) and (c) - Exhibits                                     14
+(b) - Reports on Form 8-K
+No reports on Form 8-K were filed in the last quarter of the period
+covered by this Form 10-K.
+
+                               - 13 -
+<PAGE>
+
+INDEX TO FINANCIAL STATEMENTS AND FINANCIAL STATEMENT SCHEDULES
+
+The following index is submitted in response to Item 14:
+
+                                                Page Reference
+                                                      Annual Report
+                                            10-K     to Stockholders
+FINANCIAL STATEMENTS
+Report of Independent Public Accountants                    21
+Consolidated balance sheets, February 29,
+2000 and February 28, 1999                                  22
+Consolidated statements of income, years
+ended February 29, 2000, February 28, 1999
+and 1998                                                    23
+Consolidated statements of stockholders'
+equity, years ended February 29, 2000,
+February 28, 1999 and 1998                                  24
+Consolidated statements of cash flows, years
+ended February 29, 2000, February 28, 1999
+and 1998                                                    25
+Notes to consolidated financial statements                  26 - 46
+
+FINANCIAL STATEMENT SCHEDULES
+Report of Independent Public Accountants     15
+Schedule II - Valuation and Qualifying
+  Accounts                                   16
+
+EXHIBITS
+See Index of Exhibits on pages 18, 19 and 20.
+
+The Financial Statements listed in the above index are included in the
+Company's Annual Report to Stockholders for the year ended February 29,
+2000, are herein incorporated by reference.  With the exception of the
+pages listed in the above index and the information incorporated by
+reference included in Items 5, 6, 7, 10, 11, 12 and 13, the Annual
+Report to Stockholders for the year ended February 29, 2000 is not
+deemed filed as a part of this report.
+
+                                 - 14 -
+<PAGE>
+
+McGLADREY & PULLEN, LLP                                  RSM
+ Certified Public Accountants and Consultants        International
+
+
+
+
+
+            REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+                ON FINANCIAL STATEMENT SCHEDULES
+
+
+
+To the Board of Directors
+Ag Services of America, Inc.
+Cedar Falls, Iowa
+
+
+Our audits were made for the purpose of forming an opinion on the basic
+consolidated financial statements taken as a whole.  The supplemental
+schedule II is presented for purpose of complying with the Securities
+and Exchange Commission's rules and is not a part of the basic
+financial statements.  This schedule has been subjected to the auditing
+procedures applied in our audits of the basic consolidated financial
+statements and, in our opinion, is fairly stated in all material
+respects in relation to the basic consolidated financial statements
+taken as a whole.
+
+                                         /s/ McGladrey & Pullen, LLP
+                                         McGladrey & Pullen, LLP
+
+
+
+Des Moines, Iowa
+April 13, 2000
+
+                               - 15 -
+<PAGE>
+
+<TABLE>
+                                        AG SERVICES OF AMERICA, INC.
+
+                                                SCHEDULE II
+                                      VALUATION AND QUALIFYING ACCOUNTS
+<CAPTION>
+
+Column A                            Column B                Column C               Column D        Column E
+--------------------------------- ------------- ------------------------------  --------------- --------------
+Description                                                Additions
+                                                                     (2)
+                                                     (1)          Charged to
+                                   Balance at     Charged to        Other                         Balance at
+                                   Beginning      Costs and       Accounts -      Deductions -      End of
+Description                        of Perod        Expenses        Describe        Describe         Period
+--------------------------------- ------------- -------------- ---------------  --------------- --------------
+<S>                                 <C>           <C>           <C>             <C>              <C>
+Year ended February 29, 2000:
+ Reserves and allowances deducted
+   from asset accounts:
+   Allowance for doubtful notes     $3,695,000    $5,431,651                    $4,576,651 (1)   $4,550,000
+
+Reserve for discounts               $2,500,000                  $5,798,274 (2)  $5,598,274 (3)   $2,700,000
+
+Year ended February 28, 1999:
+  Reserves and allowances deducted
+    from asset accounts:
+    Allowance for doubtful notes    $2,800,000    $4,035,259                    $3,140,259 (1)   $3,695,000
+
+Reserve for discounts               $1,200,000                  $4,983,674 (2)  $3,683,674 (3)   $2,500,000
+
+Year ended February 28, 1998:
+  Reserves and allowances deducted
+    from asset accounts:
+    Allowance for doubtful notes    $2,237,000    $2,962,647                    $2,399,647 (1)   $2,800,000
+
+Reserve for discounts                 $528,000                  $3,725,973 (2)  $3,053,973 (3)   $1,200,000
+<FN>
+(1) Uncollectible customer notes receivable written off, net of recoveries.
+(2) Provision for discounts as a reduction of revenues.
+(3) Cash discounts taken.
+</TABLE>
+
+                                 - 16 -
+<PAGE>
+
+
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be
+signed on its behalf by the undersigned, thereunto duly authorized.
+
+(Registrant)            AG SERVICES OF AMERICA, INC.
+
+
+By(Signature and Title) \s\ Gaylen D. Miller
+                              Gaylen D. Miller
+                              President and Chief Executive Officer
+                              (Principal Executive Officer)
+
+                         \s\ Brad D. Schlotfeldt
+                              Brad D. Schlotfeldt
+                              Vice President Finance and Treasurer
+                              (Principal Financial & Accounting
+                              Officer)
+Date    May 26, 2000
+
+Pursuant to the requirements of the Securities Exchange Act of
+1934, this report has been signed below by the following persons on
+behalf of the Registrant and in the capacities and on the dates
+indicated:
+
+                              By:/s/ Henry C. Jungling, Jr.
+                              Henry C. Jungling, Jr.
+                              Chairman and Director
+                              Date:  May 26, 2000
+
+                              By:/s/ Gaylen D. Miller
+                              Gaylen D. Miller
+                              President and Chief Executive Officer
+                              and Director
+                              Date:  May 26, 2000
+
+                              By:/s/ Kevin D. Schipper
+                              Kevin D. Schipper
+                              Chief Operating Officer and Director
+                              Date:  May 26, 2000
+
+                              By:/s/ James D. Gerson
+                              James D. Gerson
+                              Director
+                              Date:  May 26, 2000
+
+                              By:/s/ Michael Lischin
+                              Michael Lischin
+                              Director
+                              Date:  May 26, 2000
+
+                              By:/s/ Ervin J. Mellema
+                              Ervin J. Mellema
+                              Director
+                              Date:  May 26, 2000
+
+
+
+                                 - 17 -
+<PAGE>
+
+                             INDEX TO EXHIBITS
+
+Exhibit
+Number                        Exhibit
+-------            -----------------------------
+
+ 3.1           Articles of Restatement of the Company (1)
+
+ 3.2           Amended and Restated Bylaws of the Company (3)
+
+ 3.3           Articles of Amendment (2)
+
+ 4.1           Form of stock certificate evidencing common stock,
+               without par value, of the Company (2)
+
+ 4.2           Form of Indenture between Ag Services of America,
+               Inc. and Norwest Bank Minnesota, N.A., as Trustee(4)
+
+ 4.3           Form of 7% convertible Subordinated Debentures due
+               2003 (included in Exhibit 4.2) (4)
+
+10.1           Loan Agreement dated April 15, 1996 (7)
+
+10.2           Form of Employment Agreement effective July 1, 1991
+               between the Company and Henry C. Jungling, Jr. (1)
+
+10.3           Form of Employment Agreement effective July 1, 1991
+               between the Company and Gaylen D. Miller (1)
+
+10.4           Form of Employment Agreement effective July 1, 1991
+               between the Company and Kevin D. Schipper (1)
+
+10.5           Lease dated August 1992 between the Company and 145
+               Associates, Ltd., as amended (4)
+
+10.6           1991 Stock Option Plan and form of Stock Option
+               Agreement (1)
+
+10.7           April 12, 1996 Amendment to lease agreement (Exhibit
+               10.5) (7)
+
+10.8           1993 Stock Option Plan (4)
+
+10.9           Form of Indemnification Agreement between the
+               Company and each officer and director (2)
+
+10.10          Commercial Notes dated April 15, 1996 (7)
+
+10.13          April 5, 1995 form of Amendment to Employment
+               Agreements (Exhibit 10.2, 10.3 and 10.4) (6)
+
+10.14          Form of Amendment to 1993 Stock Option Plan (6)
+
+10.15          Retirement and Savings Plan (4)
+
+10.16          Amendment to Retirement and Savings Plan (6)
+
+                               - 18 -
+<PAGE>
+
+10.17          Form of 1995 Stock Purchase Plan (6)
+
+10.18          Amended and Restated Loan Agreement dated March 12,
+               1997 (8)
+
+10.19          Credit Agreement dated March 12, 1997 (8)
+
+10.20          Purchase and Contribution Agreement dated March 12
+               1997 (8)
+
+10.21          Amendment No. 1 to Third Amended and Restated Loan
+               Agreement (9)
+
+10.22          Amendment No. 2 to Third Amended and Restated Loan
+               Agreement (9)
+
+10.23          Amendment No. 3 to Third Amended and Restated Loan
+               Agreement (9)
+
+10.24          Amendment No. 1 to Credit Agreement (9)
+
+10.25          Master Trust Indenture and Security Agreement (10)
+
+11.1           Statement re computation of per share earnings (11)
+
+13.1           Form of Annual Report to Stockholders for the year
+               ended February 29, 2000 (11)
+
+21.1           Subsidiaries of the Registrant (11)
+
+27.1           Financial Data Schedule (11)
+
+99.1           Fourth quarter and year end results press release (11)
+
+(1) - Pursuant to Rule 12(b)-32, this exhibit is incorporated by
+reference under the same exhibit number to the exhibits filed with the
+Registration Statement on Form S-1 on May 31, 1991 as Commission File
+No. 33-40981.
+
+(2) - Pursuant to Rule 12(b)-32, this exhibit is incorporated by
+reference under the same exhibit number to the exhibits filed with Pre-
+Effective Amendment No. 1 to the Registration Statement on Form S-1 on
+July 12, 1991 as Commission File No. 33-40981.
+
+(3) - Pursuant to Rule 12(b)-32, this exhibit is incorporated by
+reference under the same exhibit number to the exhibits filed with Pre-
+Effective Amendment No. 2 to the Registration Statement on Form S-1 on
+July 24, 1991 as Commission File No. 33-40981.
+
+(4) - Pursuant to Rule 12(b)-32, this exhibit is incorporated by
+reference under the same exhibit number to the exhibits filed with the
+Registration Statement on Form S-1 on March 31, 1993 as Commission File
+No. 33-60358.
+
+                               - 19 -
+<PAGE>
+
+(5) - Pursuant to Rule 12(b)-32, this exhibit is incorporated by
+reference under the same exhibit number to the exhibits filed with the
+Company's Form 10-K for the year ended February 28, 1994.
+
+(6) - Pursuant to Rule 12(b)-32, this exhibit is incorporated by
+reference under the same exhibit number to the exhibits filed with the
+Company's Form 10-K for the year ended February 28, 1995.
+
+(7) - Pursuant to Rule 12(b)-32, this exhibit is incorporated by
+reference under the same exhibit number to the exhibits filed with the
+Company's Form 10-K for the year ended February 29, 1996.
+
+(8) - Pursuant to Rule 12(b)-32, this exhibit is incorporated by
+reference under the same exhibit number to the exhibits filed with the
+Company's Form 10-K for the year ended February 28, 1997.
+
+(9) - Pursuant to Rule 12(b)-32, this exhibit is incorporated by
+reference under the same exhibit number to the exhibits filed with the
+Company's Form 10-K for the year ended February 28, 1998.
+
+(10) - Pursuant to Rule 12(b)-32, this exhibit is incorporated by
+reference under the same exhibit number to the exhibits filed with the
+Company's Form 10-K for the year ended February 28, 1999.
+
+(11) - Filed herewith
+
+                                 - 20 -
+
+<PAGE>
+</TEXT>
+</DOCUMENT>

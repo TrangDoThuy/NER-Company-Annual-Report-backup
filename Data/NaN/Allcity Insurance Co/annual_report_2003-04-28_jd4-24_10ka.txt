@@ -1,0 +1,518 @@
+<DOCUMENT>
+<TYPE>10-K/A
+<SEQUENCE>1
+<FILENAME>jd4-24_10ka.txt
+<TEXT>
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                   FORM 10-K/A
+
+                                 AMENDMENT NO. 1
+
+
+[x]  AMENDEMENT TO ANNUAL REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE
+     SECURITIES EXCHANGE ACT OF 1934. For the fiscal year ended December 31,
+     2002
+
+                                       OR
+
+[ ]  AMENDMENT TO TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+     SECURITIES EXCHANGE ACT OF 1934. For the transition period from ___to___
+
+                          Commission file number 1-7411
+                                                 ------
+
+                            ALLCITY INSURANCE COMPANY
+--------------------------------------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+        New York                                      13-2530665
+--------------------------------------------------------------------------------
+  (State of incorporation)               (I.R.S. Employer Identification Number)
+
+    45 Main Street, Brooklyn, N.Y                       11201-3731
+--------------------------------------------------------------------------------
+  (Address of principal executive offices)             (Zip Code)
+
+Registrant's telephone number, including area code 718-422-4000
+                                                   ------------
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+                                                      Name of each exchange on
+Title of each class                                      which registered
+-------------------                                      ----------------
+
+                                      None
+--------------------------------------------------------------------------------
+Securities registered pursuant to Section 12(g) of the Act:
+
+--------------------------------------------------------------------------------
+                                      None
+                                (Title of Class)
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [x]
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes   X       No
+                                             -------       -------
+     Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Securities Exchange Act).
+Yes               No        X
+    ---------         -----------
+
+     The aggregate market value of the voting stock held by nonaffiliates of the
+registrant as of June 30, 2002 was $216,936.
+
+     The number of shares outstanding of each of the registrant's classes of
+common shares, as of March 17, 2003, was 7,078,625.
+
+                    DOCUMENTS INCORPORATED BY REFERENCE: None
+
+
+
+                                       1
+<PAGE>
+                                EXPLANATORY NOTE
+
+This report on Form 10-K/A amends and restates in their entirety the following
+Items of the Annual Report on Form 10-K of Allcity Insurance Company (the
+"Company") for the fiscal year ended December 31, 2002:
+
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+-------- ---------------------------------------------------
+
+Pursuant to the Company's Charter and By-Laws, the Board of Directors of the
+Company consists of 13 members divided into three classes: Class I, Class II and
+Class III. As of April 17, 2003, the directors and executive officers of the
+Company, their ages, positions held by them during the past five years and the
+periods during which they have served in such positions are as follows:
+
+ NAME, AGE AND POSITION                PRINCIPAL OCCUPATION, OFFICE
+   WITH COMPANY                          AND TERM OF OFFICE
+------------------------               ----------------------------
+
+H.E. Scruggs, 45,                      Principal Occupation - Vice President of
+Director, President and                 Leucadia since August 2002 and from
+Chief Executive Officer                 March 2000 through December 2001;
+                                        President and Chief Executive Officer
+                                        of the Company and Empire since
+                                        September 2000. Chairman of American
+                                        Investment Bank ("AIB"), a Leucadia
+                                        subsidiary, since 1997. Director of MK
+                                        Gold (an international mining company)
+                                        since March 2001; Chairman of Conwed
+                                        Plastics (a subsidiary of Leucadia which
+                                        manufactures plastic netting) since
+                                        January 2000.
+                                       Class II Director since September 2000;
+                                        current term expires 2004.
+
+Martin B. Bernstein, 69,               Principal Occupation - Chairman, Bedford
+Director                                Capital and private investor since July
+                                        2002. Previously, President and Director
+                                        of Ponderosa Fibres of America, Inc. (a
+                                        pulp manufacturer for paper producers)
+                                        from 1988 through July 2002.
+                                       Class II Director since February 1988;
+                                        current term expires 2004.
+
+
+
+Ian M. Cumming, 62,                    Principal Occupation - Chairman of the
+Director                                Board and a Director of Leucadia since
+                                        June 1978. Chairman of the Board of The
+                                        FINOVA Group Inc. (a middle market
+                                        lender) ("FINOVA") since August 2001;
+                                        Director of Skywest, Inc. (a Utah based
+                                        regional air carrier) since June 1986.
+                                        Director of MK Gold since June 1995;
+                                        Director of HomeFed Corporation
+                                        ("HomeFed"), (a real estate development
+                                        company) since May 1999; Director of
+                                        Carmike Cinemas, Inc. (a motion picture
+                                        exhibitor) since January 2002; Chairman
+                                        of WilTel Communications Group Inc. (a
+                                        telecommunications company) ("WilTel")
+                                        since October 2002.
+                                       Class I Director since February 1988;
+                                        current term expires 2003.
+
+James E. Jordan, 59,                   Principal Occupation - Managing Director
+Director                                of Arnhold & S. Bleichroder Advisers,
+                                        LLC (a privately owned global investment
+                                        management company) since July 2002;
+                                        Previously, private investor and from
+                                        1986 to 1997, President of The William
+                                        Penn Corporation; Director of First
+                                        Eagle Mutual Funds and J.Z. Equity
+                                        Partners PLC (a British investment trust
+                                        company).
+                                       Class III Director since 1997; current
+                                        term expires 2005.
+
+
+                                       2
+<PAGE>
+NAME, AGE AND POSITION                 PRINCIPAL OCCUPATION, OFFICE
+   WITH COMPANY                             AND TERM OF OFFICE
+-----------------------                ------------------------------
+
+Thomas E. Mara, 57,                   Principal Occupation - Executive Vice
+Director                               President of Leucadia since May 1980 and
+                                       Treasurer of Leucadia since January
+                                       1993; Director of MK Gold since February
+                                       2000; Director of FINOVA since September
+                                       2002.
+                                      Class I Director since October 1994;
+                                       current term expires 2003.
+
+Louis V. Siracusano, 56,              Principal Occupation - Attorney with
+Director                               McKenna, Siracusano & Chianese (a law
+                                       firm) since 1976.
+                                      Class II Director since 1985; current
+                                       term expires 2004.
+
+Joseph A. Orlando, 47,                Principal Occupation - Vice President
+Director                               and Chief Financial Officer of Leucadia
+                                       since April 1996.
+                                      Class III Director since 1998; current
+                                       term expires 2005.
+
+Joseph S. Steinberg, 59,              Principal Occupation - President of
+Director, Chairman of the Board        Leucadia since January 1979 and Director
+                                       of Leucadia since December 1978;
+                                       Director of MK Gold since June 1995.
+                                       Director of Jordan Industries Inc. (a
+                                       public company that owns and manages
+                                       manufacturing companies) since June
+                                       1988; Director of HomeFed since August
+                                       1998; Chairman of the Board since
+                                       December 1999; Director of FINOVA since
+                                       August 2001; Director of White Mountains
+                                       Insurance Group, Ltd. (a publicly traded
+                                       insurance holding company) since June
+                                       2001; Director of WilTel since October
+                                       2002.
+                                      Class I Director since February 1988;
+                                       current term expires 2003.
+
+Daniel G. Stewart, 84,                Principal Occupation - Independent
+Director                               consulting actuary since 1991.
+                                      Class I Director since 1980; current term
+                                       expires 2003.
+
+Lucius Theus, 80,                     Principal Occupation - President, The
+Director                               U.S. Associates (consultants in civic
+                                       affairs, human resources and business
+                                       management) since 1989; Principal and
+                                       Chief Operating Officer of the Wellness
+                                       Group, Inc. (a provider of health
+                                       promotion programs) since 1989.
+                                      Class II Director since 1980; current
+                                       term expires 2004.
+
+Rocco J. Nittoli, 44,                 Principal Occupation -Chief Operating
+Director, Chief Operating Officer      Officer of the Company and Empire since
+                                       February 2001, Senior Vice President &
+                                       Chief Information Officer of the Company
+                                       and Empire from January 2000 to February
+                                       2001; Vice President and Controller from
+                                       June 1999 to January 2000; Controller
+                                       from September 1997 to June 1999.
+                                      Class I Director since March 2001, current
+                                       term expires 2003.
+
+Harry H. Wise, 64                     Principal Occupation - President and
+Director                               Director, H.W. Associates, Inc. (an
+                                       investment advisory firm) since 1981.
+                                      Class III Director since 1988; current
+                                       term expires 2005.
+
+
+                                       3
+<PAGE>
+NAME, AGE AND POSITION                  PRINCIPAL OCCUPATION, OFFICE
+   WITH COMPANY                              AND TERM OF OFFICE
+-----------------------                 ------------------------------
+
+Christopher J. Gruttemeyer, 37,        Principal Occupation - Vice President
+Director, Vice President                for the Company and Empire since
+                                        December 2000; Assistant Vice President
+                                        from September 1999 to December 2000;
+                                        Senior Financial Analyst from December
+                                        1996 to September 1999.
+                                       Class III Director since March 2001;
+                                        current term expires in 2005.
+
+Edward A. Hayes, 51,                   Principal Occupation - Senior Vice
+Senior Vice President                   President, Claims for the Company and
+                                        Empire since November 1999; Previously,
+                                        attorney with Hawkins, Feretic, Daly,
+                                        Maroney & Hayes (a law firm) from May
+                                        1997 to November 1999.
+
+Douglas M. Whitenack, 43,              Principal Occupation - Chief Financial
+Chief Financial Officer                 Officer, for the Company and Empire
+                                        since December 2002; Vice President and
+                                        Controller from January 2000 to December
+                                        2002; Assistant Vice President from
+                                        September 1997 to January 2000.
+
+BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+-----------------------------------------
+
+Section 16 (a) of the Securities Exchange Act of 1934 requires the Company's
+executive officers and directors, and persons who beneficially own more than ten
+percent of the Company's common stock to file reports of ownership and changes
+in ownership with the Securities Exchange Commission. Based solely upon written
+representations from the Company's executive officers and directors and greater
+than 10% beneficial shareholders, the Company believes that during the year
+ended December 31, 2001, no persons subject to the reporting requirements of
+Section 16 (a) were required to file any such reports.
+
+ITEM 11.  EXECUTIVE COMPENSATION
+--------  ----------------------
+
+SUMMARY COMPENSATION TABLE
+
+The Company does not remunerate its executive officers directly. Executive
+officers of the Company are also executive officers of the Company's parent,
+Empire, which pays all salaries. The Company operates under the same general
+management as Empire and has full use of Empire's personnel, information
+technology systems and facilities. All salaries and other operating expenses are
+shared by the Company and Empire pursuant to a pooling arrangement under which
+30% of such expenses are charged to the Company. The amounts reflected in the
+table below represent the Company's 30% share of compensation expense.
+
+The following table sets forth certain compensation information for H.E.
+Scruggs, Jr., President and Chief Executive Officer ("CEO") of the Company.
+There were no other executive officers whose salaries or bonuses paid, or
+accrued for, under the pooling arrangement exceeded $100,000 for the year ended
+December 31, 2002.
+                                             SUMMARY COMPENSATION TABLE
+                                             --------------------------
+                                                              ALL OTHER
+                                    ANNUAL COMPENSATION       COMPENSATION
+                                    -------------------       ------------
+NAME AND PRINCIPAL
+      POSITION                          SALARY        BONUS
+                          YEAR          $                $              $
+                          ----      --------          ---------       -------
+H. E. Scruggs             2002     $ 11,100              --           $ 1,157
+President  & CEO          2001     $ 32,366          $ 140,513        $ 2,688
+                          2000          (a)               (a)           (a)
+
+(a) Mr. Scruggs received no compensation from the Company in 2000. Mr. Scruggs
+was compensated directly by Leucadia in 2000. Mr. Scruggs was not employed by
+the Company prior to September 2000.
+
+
+                                       4
+<PAGE>
+The Company does not directly remunerate directors. The directors of the Company
+are also directors of Empire and their fees are paid pursuant to the pooling
+agreement described above. Directors who are not officers or employees of Empire
+and the Company are paid an annual joint retainer of $5,000. In addition,
+eligible directors receive $1,500 for each joint board meeting attended. For
+attendance at a meeting of a committee of the joint board, such directors
+receive $1,500 per meeting. In addition, each Chairperson of a committee is
+entitled to $500 per annum. In December 2002, a special committee of the Board
+of Directors, consisting of Martin B. Bernstein (Chairman) and Lucius Theus, was
+formed to consider a possible offer by Leucadia to purchase shares of the
+Company's common stock not already beneficially owned by Leucadia. Each member
+of the special committee will be paid a retainer of $10,000 and $1,500 per
+meeting for his services on the special committee. All fees paid to such
+directors are shared in accordance with the pooling agreement.
+
+The Company and Empire do not have a pension plan. Eligible employees of Empire
+participate in Leucadia's savings and retirement plan and all related costs are
+shared in accordance with the pooling agreement.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+-------- ---------------------------------------------------------------
+         AND RELATED STOCKHOLDER MATTERS
+         -------------------------------
+
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS
+
+The following table sets forth information as of April 25, 2002 as to the common
+stock of the Company owned of record and beneficially by each person who owns of
+record, or is known by the Company to own beneficially, more than 5% of such
+common stock.
+
+           NAME AND                  AMOUNT AND
+           ADDRESS OF                NATURE OF
+           BENEFICIAL                BENEFICIAL                 PERCENT OF
+           OWNER                     OWNERSHIP                    CLASS
+           -----                     ---------                    -----
+
+    Empire Insurance Company         5,987,401 shares of          84.58%
+    45 Main Street                   common stock
+    Brooklyn, N.Y.  11201            owned of record
+
+    Baldwin Enterprises, Inc.        471,407 shares of             6.66%
+    529 East South Temple            common stock
+    Salt Lake City, Utah 84102       owned of record
+
+As discussed in Item 1, "Business", Leucadia (and certain of its wholly-owned
+subsidiaries) may be deemed a parent of Empire and of the Company as a result of
+its indirect ownership of 100% of the outstanding common stock of Empire.
+
+SECURITY OWNERSHIP OF MANAGEMENT
+
+The following table sets forth information concerning beneficial ownership of
+the Company's common stock and the equity securities of Leucadia by each
+director and by all directors and officers of the Company as a group as of April
+17, 2003.
+
+Each holder shown exercises sole voting and sole investment power of the shares
+shown opposite his or her name.
+
+NAME OF BENEFICIAL                    AMOUNT AND NATURE OF          PERCENT OF
+     OWNER                            BENEFICIAL OWNERSHIP            CLASS
+------------------                    --------------------         -----------
+Martin B. Bernstein                      -                              -
+Ian M. Cumming (1)                       -                              -
+Christopher J. Gruttemeyer               -                              -
+James E. Jordan                          -                              -
+Thomas E. Mara                           -                              -
+Rocco J. Nittoli                         -                              -
+Joseph A. Orlando                        -                              -
+H.E. Scruggs                             -                              -
+Louis V. Siracusano                      -                              -
+Joseph S. Steinberg (1)                  -                              -
+
+
+                                       5
+<PAGE>
+Daniel G. Stewart                        -                              -
+Lucius Theus                             -                              -
+Harry H. Wise                            -                              -
+Directors and Executive
+Officers as a group                      -                              -
+(15 persons) (2)
+
+(1) Although neither Ian M. Cumming nor Joseph S. Steinberg directly owns any
+shares of common stock of the Company, by virtue of their respective interest of
+approximately 16.6% and 15.4% in Leucadia and their positions as directors and
+Chairman and President, respectively, of Leucadia, each may be deemed to be the
+beneficial owner of a proportionate number of the shares of common stock of the
+Company beneficially owned by Leucadia through its subsidiaries, Empire and
+Baldwin Enterprises, Inc.
+
+(2) Aside from the beneficial ownership described in Note 1 to this table,
+Messrs. Bernstein, Gruttemeyer, Jordan, Mara, Nittoli, Orlando, Scruggs and
+Wise, as well as one executive officer, beneficially own common shares of
+Leucadia, which in the aggregate, represent less than 1% of Leucadia's common
+shares.
+
+EQUITY COMPENSATION PLAN INFORMATION
+
+There are no equity compensation plans outstanding at December 31, 2002.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+-------- ----------------------------------------------
+
+See Item 1 of this report and Notes 1, 3, 8, 9, 10 and 11 of Notes to
+Consolidated Financial Statements for information relating to transactions and
+relationships between the Company and its affiliates.
+
+
+
+                                       6
+<PAGE>
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this amendment to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+                                            ALLCITY INSURANCE COMPANY
+                                            Registrant
+
+
+                                            By: /s/ Douglas M. Whitenack
+                                               ---------------------------------
+                                               Douglas M. Whitenack
+                                               Chief Financial Officer
+
+Dated: April 28, 2003
+
+
+
+
+
+
+                                       7
+
+<PAGE>
+                                 CERTIFICATIONS
+                                 --------------
+
+I, H.E. Scruggs, certify that:
+
+1.         I have reviewed this annual report on Form 10-K/A of Allcity
+           Insurance Company; and
+
+2.         Based on my knowledge, this annual report does not contain any untrue
+           statement of a material fact or omit to state a material fact
+           necessary to make the statements made, in light of the circumstances
+           under which such statements were made, not misleading with respect to
+           the period covered by this annual report.
+
+Date:  April 28, 2003
+
+                                                /s/ H.E. Scruggs
+                                                --------------------------------
+                                                H.E. Scruggs
+                                                Chief Executive Officer
+
+
+
+
+
+
+
+                                       8
+<PAGE>
+                                 CERTIFICATIONS
+                                 --------------
+
+I, Douglas M. Whitenack, certify that:
+
+1.         I have reviewed this annual report on Form 10-K/A of Allcity
+           Insurance Company; and
+
+2.         Based on my knowledge, this annual report does not contain any untrue
+           statement of a material fact or omit to state a material fact
+           necessary to make the statements made, in light of the circumstances
+           under which such statements were made, not misleading with respect to
+           the period covered by this annual report.
+
+Date:  April 28, 2003
+
+                                                 /s/ Douglas M. Whitenack
+                                                 -------------------------------
+                                                 Douglas M. Whitenack
+                                                 Chief Financial Officer
+
+
+
+
+
+
+
+                                       9
+
+</TEXT>
+</DOCUMENT>

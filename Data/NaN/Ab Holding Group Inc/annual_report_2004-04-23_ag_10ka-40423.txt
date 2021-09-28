@@ -1,0 +1,950 @@
+<DOCUMENT>
+<TYPE>10-K/A
+<SEQUENCE>1
+<FILENAME>ag_10ka-40423.txt
+<TEXT>
+================================================================================
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                   FORM 10-K/A
+                                (AMENDMENT NO. 1)
+
+              ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+FOR THE FISCAL YEAR ENDED DECEMBER 31, 2003      COMMISSION FILE NUMBER: 0-18259
+
+                          AG-BAG INTERNATIONAL LIMITED
+             (Exact name of registrant as specified in its charter)
+
+          DELAWARE                                        93-1143627
+(State or other jurisdiction                (I.R.S. Employer Identification No.)
+of incorporation or organization)
+
+           2320 SE AG-BAG LANE
+            WARRENTON, OREGON                                         97146
+(Address of principal executive offices)                           (Zip Code)
+
+       REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE: (503) 861-1644
+
+           SECURITIES REGISTERED PURSUANT TO SECTION 12(B) OF THE ACT:
+
+                                      None
+
+           SECURITIES REGISTERED PURSUANT TO SECTION 12(G) OF THE ACT:
+
+                     Common Stock, par value $.01 per share
+                                (Title of Class)
+
+     Indicate  by check mark  whether the  registrant  (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the  Securities  Exchange  Act of
+1934  during  the  preceding  12 months  (or for such  shorter  period  that the
+registrant was required to file such reports),  and (2) has been subject to such
+filing requirements for the past 90 days.
+                                           Yes      |X|     No
+                                                    ---         ---
+
+     Indicate by check mark if disclosure of delinquent  filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's  knowledge,  in definitive proxy or information  statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. _
+
+     Indicate by check mark whether the registrant is an  accelerated  filer (as
+defined in Exchange Act Rule 12b-2)
+
+                                           Yes             No   |X|
+                                                    ---         ---
+
+     State the aggregate  market value of the voting and non-voting  equity held
+by non-affiliates  computed by reference to the price at which the common equity
+was last sold, or the average bid and asked price of such common  equity,  as of
+the last business day of the registrant's most recently  completed second fiscal
+quarter: $1,717,292.
+
+     The  registrant  has one  class of  Common  Stock  with  11,956,991  shares
+outstanding as of March 15, 2004.
+
+================================================================================
+<PAGE>
+                                EXPLANATORY NOTE
+
+In accordance with  Instruction G(3) of Form 10-K, this amendment is being filed
+to include the information in Part III because the registrant's  proxy statement
+will not be filed within 120 days after the registrant's fiscal year end.
+
+                                    PART III
+                                    --------
+
+ITEMS  10 AND  11.  DIRECTORS  AND  EXECUTIVE  OFFICERS  OF THE  REGISTRANT  AND
+EXECUTIVE COMPENSATION
+--------------------------------------------------------------------------------
+
+Executive officers of Ag-Bag International  Limited are listed under the heading
+"Executive Officers of the Registrant" in this Form 10-K.
+
+DIRECTORS
+
+CLASS III - DIRECTORS UP FOR ELECTION THIS YEAR FOR TERMS EXPIRING IN 2007
+
+     o   LARRY R. INMAN, 53, Chairman of the Board (1990-2000; 2002 to present);
+         President of the Company (since 1993);  President of Ag-Bag Corporation
+         (1984-1989)   (former   subsidiary   of  the   Company)   and  Chairman
+         (1989-1994). Mr. Inman has been a director of the Company since 1990.
+
+     o   LEMUEL E.  CUNNINGHAM,  82, Vice President of the Company  (1990-1996);
+         Owner/Operator  of Post  Oaks  Ranch  and  Cunningham  Cattle  and Feed
+         Company (since 1958). Mr. Cunningham has been a director of the Company
+         since 1990.
+
+CLASS I - DIRECTORS REMAINING IN OFFICE UNTIL 2005
+
+     o   MICHAEL W. FOSTER, 63, President of Astoria Pacific  Industries,  Inc.,
+         an investment company,  (since 1989); educator  (1976-1996);  executive
+         director  of  Clatsop   Community  College   Foundation,   a  nonprofit
+         foundation  (1999-2003);  advisory board member of US Bank Corp. (since
+         2002). Mr. Foster has been a director of the Company since 1990.
+
+     o   UDO WEBER, 40, Managing director of BAG-Budissa an agriculture company,
+         (since  1994);  Managing  director of BAW, a bag  distribution  company
+         (joint  venture with the Company)  (since 1997);  Managing  director of
+         Ag-Bag  Polska,  an Ag-Bag  distribution  company (a subsidiary of BAW)
+         (since 1999). Mr. Weber has been a director of the Company since 2002.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        2
+<PAGE>
+CLASS II - DIRECTORS REMAINING IN OFFICE UNTIL 2006
+
+     o   ARTHUR P. SCHUETTE, 64, Vice President of Sales (since 1991); Treasurer
+         of the Company (1990-1999); Treasurer of Ag-Bag Corporation (1983-1991)
+         (former subsidiary of the Company). Mr. Schuette has been a director of
+         the Company since 1990.
+
+     o   JAMES C. DEMATTEO,  47, Manager of dairy business development,  Cargill
+         Animal  Nutrition  Western Business Unit, a nutrition group of Cargill,
+         (since 1999); Dairy nutritionist, Cargill Animal Nutrition (1994-1999);
+         Director, Dairy Vision Group, a dairy business group of Cargill, (since
+         2001);   Member,   Applied  Dairy  Technology  Team,  a  technical  and
+         scientific advisory group within Cargill Animal Nutrition,  a nutrition
+         group of Cargill, (since 1994). Mr. DeMatteo has been a director of the
+         Company since 2002.
+
+AUDIT COMMITTEE FINANCIAL EXPERT
+
+Under rules  adopted by the SEC, the Company is required to disclose  whether it
+has an "Audit  Committee  Financial  Expert"  serving  on its  Audit  Committee.
+Although  management  believes  that at least one member of the Audit  Committee
+would qualify as an Audit  Committee  Financial  Expert,  the Company's Board of
+Directors has not designated any particular member of the Audit Committee as the
+Audit Committee Financial Expert under the SEC's rules. Management believes that
+at least one  member of the Audit  Committee  is capable  of: (i)  understanding
+generally  accepted  accounting  principles  and  financial   statements;   (ii)
+assessing  the general  application  these  principles  in  connection  with the
+accounting for estimates,  accruals and reserves; (iii) analyzing and evaluating
+the Company's  consolidated  financial statements;  (iv) understanding  internal
+control  over  financial  reporting;   and  (v)  understanding  audit  committee
+functions.  All directors  serving on the Audit Committee are  "independent"  as
+defined in the NASD Marketplace Rule 4200(a)15. During 2003, the Audit Committee
+held five meetings.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        3
+<PAGE>
+PERFORMANCE GRAPH
+
+The following  performance  graph compares  cumulative  total return for Company
+stockholders over the past five years against the cumulative total return of the
+Standard & Poor's 500 Stock Index,  and against the Standard & Poor's  Machinery
+Group Index. The graph assumes $100 is invested in Company stock and each of the
+other two  indices at the closing  market  quotation  on  December  31, 1998 and
+dividends are reinvested.  The stock price performance shown on the graph is not
+necessarily indicative of future price performance.
+
+                                [GRAPHIC OMITTED]
+                        [PERFORMANCE GRAPH - DATA BELOW]
+
+
+                  1998       1999        2000       2001       2002       2003
+                  ----       ----        ----       ----       ----       ----
+Ag-Bag          $100.00    $ 92.85     $ 78.58    $ 48.00    $ 50.29    $ 80.00
+S&P 500         $100.00    $120.89     $109.97    $ 96.94    $ 75.64    $ 97.09
+S&P Mach.       $100.00    $117.91     $114.30    $123.34    $120.35    $180.97
+
+Although the companies  included in the Standard & Poor's  Machinery Group Index
+generally have a larger market  capitalization than the Company,  such companies
+are  believed to provide the closest peer group  representation  with respect to
+the industry served by the Company.
+
+This performance  graph shall not be deemed to be incorporated by reference into
+any filing by the Company under either the  Securities  Act of 1933, as amended,
+or the  Securities  Exchange Act of 1934, as amended,  except to the extent that
+the Company specifically incorporates the same by reference.
+
+BOARD COMPENSATION COMMITTEE REPORT ON EXECUTIVE COMPENSATION
+
+The underlying objectives of the Company's  compensation strategy are to attract
+and retain the best possible  executive  talent, to motivate those executives to
+achieve optimum  operating  performance  for the Company,  to link executive and
+stockholder  interests through  equity-based plans and to provide a compensation
+package that recognizes  individual  contributions  as well as overall  business
+results.  There are three  components to the Company's  executive  compensation:
+base salary,  long-term  incentives in the form of stock options,  and incentive
+(bonus) payments.  The incentive (bonus) payments are only paid in the event the
+Company is profitable as they are based on a percentage of net income.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        4
+<PAGE>
+Base Salary.  Base salary for each executive officer,  other than for Michael J.
+Schoville and Larry R. Inman,  was  subjectively  determined by an assessment of
+his  or  her   sustained   performance,   advancement   potential,   experience,
+responsibility,  scope and  complexity  of the position,  and current  salary in
+relation to salary levels for comparable positions in the industry, based on the
+Company's general awareness of such salary levels.
+
+Long-Term  Incentives.  Stock  options  are  periodically  granted  to the Chief
+Executive  Officer and other executive  officers to encourage  management of the
+Company from the perspective of an owner with an equity interest in the Company.
+Vesting is used to  encourage  key  employees  to  continue in the employ of the
+Company.
+
+Annual Incentives. The Company's executive officers receive an annual bonus from
+the Company under their employment agreements. There were no bonus payments made
+in the fiscal year ended December 31, 2003.
+
+Chief Executive Officer. Mr. Schoville's compensation is based on his employment
+arrangement  with the Company,  which provides for a base salary and has a bonus
+provision  of 2.5% of the net income of the  Company.  Since the Company was not
+profitable for 2003, there was no bonus paid to Mr. Schoville.  Mr.  Schoville's
+compensation  as set forth in his  employment  arrangement  is derived  from the
+value of his industry  expertise and the  compensation  of  comparable  industry
+executives.
+
+The Company does not have any "Excessive  Employee  Remuneration"  as defined in
+section 162(m) of the Internal Revenue Code.
+
+This report shall not be deemed to be  incorporated by reference into any filing
+by the Company  under  either the  Securities  Act of 1933,  as amended,  or the
+Securities  Exchange  Act of 1934,  as  amended,  except to the extent  that the
+Company specifically incorporates the same by reference.
+
+                                                     Michael W. Foster, Chairman
+                                                     Lemuel E. Cunningham
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+EXECUTIVE COMPENSATION
+
+The following  table sets forth certain  information for each of the years ended
+December 31, 2003, 2002 and 2001, regarding  compensation accrued or paid by the
+Company to (1) the Company's  Chief  Executive  Officer,  and (2) each executive
+officer  of the  Company  who  accrued  or was paid  compensation  in  excess of
+$100,000 in the year ended December 31, 2003 (the "Named Executive Officers"):
+
+<TABLE>
+<CAPTION>
+------------------------------------------------------------------------------------------------------------------------------------
+                                            SUMMARY COMPENSATION TABLE
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+                                                        ANNUAL COMPENSATION                LONG TERM COMPENSATION
+                                            -------------------------------------------- ----------------------------
+
+                                                                       OTHER ANNUAL       RESTRICTED    SECURITIES       ALL OTHER
+NAME AND PRINCIPAL POSITION                   SALARY       BONUS       COMPENSATION         STOCK       UNDERLYING     COMPENSATION
+                                   YEAR         ($)         ($)             ($)             AWARDS        OPTIONS           ($)
+-------------------------------- ---------- ------------ ---------- -------------------- ------------- -------------- --------------
+<S>                              <C>        <C>          <C>        <C>                  <C>           <C>            <C>
+Michael J. Schoville,              2003       110,000        -               -                -              -            810 (3)
+CEO                                2002       91,667         -               -                -           30,000          810 (3)
+                                   2001          -           -               -                -              -               -
+-------------------------------- ---------- ------------ ---------- -------------------- ------------- -------------- --------------
+Larry R. Inman,                    2003       133,138        -               -                -              -               -
+President                          2002       108,000        -          14,400 (1)            -              -               -
+                                   2001       108,000     11,576        14,400 (1)            -              -               -
+-------------------------------- ---------- ------------ ---------- -------------------- ------------- -------------- --------------
+Michael R. Wallis,                 2003       99,350         -               -                -              -               -
+CFO & VP of Finance                2002       90,000         -           4,800 (2)            -              -               -
+                                   2001       90,000      11,576         4,800 (2)            -              -               -
+-------------------------------- ---------- ------------ ---------- -------------------- ------------- -------------- --------------
+Walter L. Jay,                     2003       99,350         -               -                -              -               -
+VP of Mfg.                         2002       90,000         -           5,400 (2)            -              -               -
+                                   2001       90,000      11,576         5,400 (2)            -              -               -
+-------------------------------- ---------- ------------ ---------- -------------------- ------------- -------------- --------------
+</TABLE>
+     (1) Includes  a  $4,800   automobile   expense   allowance   and  a  $9,600
+         farm-related expense allowance.
+     (2) Automobile expense allowance.
+     (3) Dollar  value of term  life  insurance  premium  paid on  behalf of Mr.
+         Schoville.
+
+No stock appreciation  rights or stock options were granted to, or exercised by,
+the Company's executive officers during the last fiscal year.
+
+<TABLE>
+<CAPTION>
+--------------------------------------------------------------------------------------------------------------------------------
+                       AGGREGATED OPTION/SAR EXERCISES IN LAST FISCAL YEAR AND FY-END OPTION/SAR VALUES
+                                                              --------------------------------- --------------------------------
+                                                              NUMBER OF SECURITIES UNDERLYING    VALUE OF UNEXERCISED IN-THE-
+-------------------------- ------------------- --------------   UNEXERCISED OPTIONS/SARS AT          MONEY OPTIONS/SARS AT
+                            SHARES ACQUIRED        VALUE            DECEMBER 31,2003 (#)             DECEMBER 31,2003 ($)
+          NAME              ON EXERCISE (#)    REALIZED ($)     (EXERCISABLE/UNEXERCISABLE)       (EXERCISABLE/UNEXERCISABLE)
+-------------------------- ------------------- -------------- --------------------------------- --------------------------------
+<S>                                <C>               <C>               <C>                             <C>
+Michael J. Schoville               0                 0                 10,000/20,000                   $3,500/$7,000 (1)
+-------------------------- ------------------- -------------- --------------------------------- --------------------------------
+Larry R. Inman                     0                 0                      0/0                              $0/$0
+-------------------------- ------------------- -------------- --------------------------------- --------------------------------
+Michael R. Wallis                  0                 0                      0/0                              $0/$0
+-------------------------- ------------------- -------------- --------------------------------- --------------------------------
+Walter L. Jay                      0                 0                      0/0                              $0/$0
+-------------------------- ------------------- -------------- --------------------------------- --------------------------------
+</TABLE>
+
+   (1) - Calculated  based on the closing market price of the Company's Common
+         Stock on  December  31,  2003 at $.35 per share as  reported on the OTC
+         Bulletin Board.
+
+                                        6
+<PAGE>
+DIRECTOR COMPENSATION
+
+Of our current Board members,  Mr. Inman and Schuette are salaried  employees of
+the  Company.  Board  members  that are not  salaried  employees  of the Company
+receive  separate  compensation for Board service.  For 2004, that  compensation
+includes:
+
+--------------------------------------------------------------------------------
+ATTENDANCE FEES:                    $1,000 for each in-person Board meeting
+                                    $  500 for each Board committee meeting
+                                    Expenses related to attendance
+--------------------------------------------------------------------------------
+STOCK OPTIONS:                      Per Non-Employee Director Stock Option Plan*
+--------------------------------------------------------------------------------
+
+*Pursuant to the Company's  Non-Employee  Director Stock Option Plan, adopted in
+1996, each  non-employee  director receives an initial option to purchase 50,000
+shares of the Company's Common Stock, ("Common Stock"),  which vest over a three
+year  period at the rate of 40% after  six  months,  40% after two years and 20%
+after  three  years.  At each  annual  meeting,  directors  who  have  served  a
+three-year  term receive an annual  option to purchase  10,000  shares of Common
+Stock  exercisable  six months after the grant date.  The exercise price for the
+options granted to  non-employee  directors is equal to the fair market value of
+the  Common  Stock on the date of grant.  A total of 300,000  options  have been
+granted under the Non-Employee  Director Stock Option Plan, 240,000 of which are
+fully vested at December 31, 2003.
+
+EMPLOYMENT AGREEMENTS
+
+The Company has employment agreements with executive officers, Messrs Inman, Jay
+and Wallis and Mrs. Tucker,  which are automatically  renewed on a yearly basis,
+unless  terminated by the death or disability of the employee,  or upon at least
+six months  written  notification  by either party.  The  employment  agreements
+provide for base  compensation,  bonus  compensation  and  participation  in the
+employee benefit plans offered by the Company.
+
+On April 11, 2000, the Company  entered into Change of Control  Agreements  with
+executive officers,  Messrs Inman, Jay, Wallis and Schuette, and Mrs. Tucker and
+key personnel. These agreements provide for payments to the executive officer or
+key employee of the Company,  of one year's  annual base salary,  and a bonus of
+$5,000 for each year of Company  service in excess of five years, in addition to
+outplacement  services and continued Company employee benefit coverage for a one
+year period,  in the event that such officer is terminated  without cause within
+the period governed by the agreement.
+
+COMPENSATION COMMITTEE INTERLOCKS AND INSIDER PARTICIPATION
+
+Lemuel E. Cunningham,  who served on the Compensation  Committee of the board of
+directors of the Company  during 2003,  was a Vice President of the Company from
+1990-1996.
+
+SECTION 16(A) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+
+Section 16(a) of the Securities  Exchange Act of 1934, as amended (the "Exchange
+Act"),  requires that the Company's officers,  directors or persons who own more
+than 10% of the  Common  Stock of the  Company  file  with  the  Securities  and
+Exchange Commission (the "SEC") initial reports of beneficial  ownership on Form
+3 and  reports of  changes in  beneficial  ownership  of Common  Stock and other
+equity  securities of the Company on Form 4 and Form 5. Officers,  directors and
+holders of more than
+
+                                        7
+<PAGE>
+10% of the  Common  Stock are  required  by SEC  regulations  to  furnish to the
+Company  copies of all Section 16(a)  reports that they file.  Based solely on a
+review of the  copies of such  reports  furnished  to the  Company  and  written
+representations  with  respect  to the  fiscal  year ended  December  31,  2003,
+directors  Cunningham,  Foster,  Weber and  DeMatteo  each  reported  his annual
+non-employee  director  stock  option grant on a Form 5 for 2003 instead of on a
+Form 4 as required by recently adopted rules.  Consequently,  the report of each
+director's annual grant of options was delinquent.
+
+CODE OF ETHICS
+
+The Company has not adopted a Code of Ethics,  within the meaning of  applicable
+SEC rules, relating to the conduct of its officers and directors.  The Company's
+board of  directors  is  currently  reviewing  this  requirement  and intends to
+develop a Code of Ethics during 2004.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        8
+<PAGE>
+ITEM 12.  SECURITY  OWNERSHIP OF CERTAIN  BENEFICIAL  OWNERS AND  MANAGEMENT AND
+RELATED STOCKHOLDER MATTERS
+--------------------------------------------------------------------------------
+
+The following  table sets forth  certain  information  regarding the  beneficial
+ownership  of the  Common  Stock  as of  April 5,  2004,  by (i) each  director,
+director  nominee and named  executive  officer;  (ii) each person  known to the
+Company  to be a  beneficial  owner of more  than 5% of the  outstanding  Common
+Stock;  and (iii) all  directors and  executive  officers as a group.  Except as
+otherwise  indicated in the notes below, each person whose ownership is reported
+has sole  voting  power and sole  dispositive  power as to the  number of shares
+shown.
+
+<TABLE>
+<CAPTION>
+NAME AND ADDRESS                                       AMOUNT AND NATURE OF                PERCENT OF CLASS
+OF BENEFICIAL OWNER                                    BENEFICIAL OWNERSHIP                  OUTSTANDING
+-------------------                                    --------------------                  -----------
+<S>                                                          <C>                  <C>           <C>
+Steven G. Ross                                               1,800,000                          15.05%
+2000 West Marshall Dr.
+Grand Prairie, TX  75051
+
+Lemuel E. Cunningham                                         1,402,579            (1)           11.64%
+7000 W. Seven Rivers Dr.
+Crystal River, FL  34429
+Director
+
+Peter Cundhill & Associates (Bermuda) Ltd.                    910,700                           7.62%
+Peter Cundhill Holdings (Bermuda) Ltd.
+The Peter Cundhill Trust
+15 Alton Hill
+Southampton SN01
+Bermuda
+
+Larry R. Inman                                                996,881                           8.34%
+2320 SE Ag-Bag Lane
+Warrenton, OR  97146
+Chairman of the Board, Director, &
+President
+
+Michael W. Foster                                             314,260             (2)           2.61%
+1636 Irving St.
+Astoria, OR  97103
+Director
+
+Arthur P. Schuette                                            267,959             (3)           2.24%
+513 Porters Neck Rd.
+Wilmington, NC  28411
+Director & Vice President of Sales
+
+Walter L. Jay                                                 133,297                           1.12%
+190 Grant St.
+Blair, NE  68008
+Vice President of Manufacturing
+
+                                        9
+<PAGE>
+NAME AND ADDRESS                                       AMOUNT AND NATURE OF                PERCENT OF CLASS
+OF BENEFICIAL OWNER                                    BENEFICIAL OWNERSHIP                  OUTSTANDING
+-------------------                                    --------------------                  -----------
+
+Michael R. Wallis                                             44,057                              *
+2320 SE Ag-Bag Lane
+Warrenton, OR  97146
+Chief Financial Officer & Vice President of Finance
+
+Udo Weber                                                     60,000              (4)             *
+Birnenalle 10
+OT Kleinbautzen
+02694 Malschwitz
+Germany
+Director
+
+James C. DeMatteo                                             50,000              (5)             *
+9011 Lone Oak Drive
+Valley Springs, CA  95252
+Director
+
+Michael J. Schoville                                          92,379              (6)             *
+6912 Capital View Ct.
+Johnston, IA  50131
+Chief Executive Officer
+
+Harvey Houtkin                                                738,618             (7)           6.18%
+160 Summit Avenue
+Montvale, NJ  07645
+
+All directors and officers as a group (10 persons)           3,597,824            (8)           29.33%
+----------------------------------------------------------------------------------------------------
+</TABLE>
+* less than 1%
+
+(1)  Includes  952,442  shares held by the Lemuel E.  Cunningham  Living  Trust,
+     72,558 shares held by Morgan Nicole Cunningham Trust, 80,000 shares held by
+     Victoria E. Cunningham  Trust, and 207,579 shares held by Brandy Lynn White
+     Trust, of which Mr.  Cunningham is the trustee,  and 90,000 shares issuable
+     upon exercise of options granted to Mr.  Cunningham  under the Non-Employee
+     Director Stock Option Plan.
+
+(2)  Includes 5,118 shares owned by Astoria Pacific  Industries,  Inc., of which
+     Mr. Foster is the  President  and 90,000  shares  issuable upon exercise of
+     options granted under the Non-Employee Director Stock Option Plan.
+
+(3)  Includes 266,979 shares held jointly with Mr. Schuette's wife.
+
+(4)  Includes  10,000  shares of Common Stock  issuable upon exercise of options
+     granted under the  Incentive  Stock Option Plan and 50,000 shares of Common
+     Stock  issuable  upon exercise of options  granted  under the  Non-Employee
+     Director Stock Option Plan.
+
+(5)  Includes  50,000  shares of Common Stock  issuable upon exercise of options
+     granted under the Non-Employee Director Stock Option Plan.
+
+(6)  Includes  20,000  shares of Common Stock  issuable upon exercise of options
+     granted under the Incentive Stock Option Plan.
+
+(7)  Includes  163,618 shares owned by Domestic  Securities,  Inc., of which Mr.
+     Houtkin is CEO, 125,000 shares owned by Mr. Houtkin's wife,  100,000 shares
+     owned by Stuart  Houtkin,  100,000  shares  owned by Michael  Houtkin,  and
+     100,000 shares owned by Brad Houtkin,  all of whom are Mr.  Houtkin's sons.
+
+(8)  Includes 280,000 shares issuable upon exercise of options granted under the
+     Non-Employee  Director Stock Option Plan,  and 30,000 shares  issuable upon
+     exercise of options granted under the Incentive Stock Option Plan.
+
+                                       10
+<PAGE>
+EQUITY COMPENSATION PLAN INFORMATION
+
+<TABLE>
+<CAPTION>
+--------------------------------- ---------------------------- ----------------------- ----------------------------------
+         PLAN CATEGORY            NUMBER OF SECURITIES TO BE      WEIGHTED-AVERAGE      NUMBER OF SECURITIES REMAINING
+                                    ISSUED UPON EXERCISE OF      EXERCISE PRICE OF       AVAILABLE FOR FUTURE ISSUANCE
+                                     OUTSTANDING OPTIONS,       OUTSTANDING OPTIONS,    UNDER EQUITY COMPENSATION PLANS
+                                      WARRANTS AND RIGHTS       WARRANTS AND RIGHTS     (EXCLUDING SECURITIES REFLECTED
+                                              (A)                       (B)                      IN COLUMN (A))
+                                                                                                      (C)
+--------------------------------- ---------------------------- ----------------------- ----------------------------------
+<S>                               <C>                          <C>                     <C>
+Equity compensation plans
+approved by security holders                   -                         -                             -
+--------------------------------- ---------------------------- ----------------------- ----------------------------------
+Equity compensation plans not
+approved by security holders                350,000                     $.64                        960,335
+--------------------------------- ---------------------------- ----------------------- ----------------------------------
+Total                                       350,000                     $.64                        960,335
+--------------------------------- ---------------------------- ----------------------- ----------------------------------
+</TABLE>
+
+The  Company  has an  Employee  Stock  Plan,  Incentive  Stock  Option  Plan and
+Non-employee  Director  Stock  Option  Plan,  which  have not been  approved  by
+security  holders.  Information  on the  plans are  contained  in Note 10 to the
+Company's  Financial  Statements.  These  plans  have  previously  been filed as
+exhibits to the Company's public filings. (See "Exhibit Index")
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+--------------------------------------------------------
+
+Currently,  there are 174,000  outstanding shares of Preferred Stock,  Series A,
+owned by the  Lemuel E.  Cunningham  Trust and by  members  of Mr.  Cunningham's
+family.  The Company  maintains life insurance on the life of Mr.  Cunningham in
+the amount of $1,000,000  for the purpose of redeeming the Preferred  Stock at a
+price of $4 per share in the event of his death.
+
+The Company  purchases its  Tri-Dura(R)  rolls from a company owned by Steven G.
+Ross  ("Supplier")  pursuant to a supply  agreement.  Steven G. Ross is a 15.05%
+stockholder  in the Company and partial owner of a company  which  competes with
+the Company's  Tri-Dura(R) bags. The supply agreement  provides that the Company
+purchase  all of its plastic  rolls,  with  certain  exceptions,  from  Supplier
+through at least December 31, 2007.  Thereafter,  either the Company or Supplier
+may terminate the Supply  Agreement  upon two years' prior written  notice.  The
+Company may purchase  plastic rolls from other  suppliers to the extent Supplier
+is unable to supply  plastic  rolls  under the  Supply  Agreement.  The  Company
+purchased  all of its  Tri-Dura(R)  rolls  from the  Supplier  during  2003 with
+payments to the Supplier of approximately $7 million.
+
+
+
+
+
+
+
+
+
+
+                                       11
+<PAGE>
+ITEM 14.  PRINCIPAL ACCOUNTANT FEES AND SERVICES
+------------------------------------------------
+
+Fees billed by our auditors' during the last two fiscal years were as follows:
+
+                                         ------------------- -------------------
+                                                2003                2002
+---------------------------------------- ------------------- -------------------
+Audit Fees(1)                                 $102,928            $71,195
+---------------------------------------- ------------------- -------------------
+Audit-related Fees                             $9,000              $5,710
+---------------------------------------- ------------------- -------------------
+Tax Fees                                      $22,565             $23,505
+---------------------------------------- ------------------- -------------------
+All other fees                                   -                   -
+---------------------------------------- ------------------- -------------------
+(1) Financial  Statement  Audit and Quarterly  Reviews of Forms 10-Q  (including
+expenses)
+
+All of Moss Adams LLP  services,  whether for audit or non-audit  services,  are
+pre-approved by the Audit Committee.  The Audit Committee  pre-approves annually
+the engagement  letter from Moss Adams LLP, which details the specific  services
+to be performed.  Those pre-approved  services include the annual audit and 10-K
+review,  quarterly  10-Q reviews,  assistance  with  adoption of new  accounting
+pronouncements or auditing and disclosure requirements, internal control reviews
+and assistance with internal control reporting requirements, tax compliance, tax
+planning,  preparation and related tax services and assistance and  consultation
+on questions raised by taxing or regulatory agencies.  Any additional engagement
+that does not fit within the definition of the pre-approved service contained in
+the  annual  engagement  letter  may be  presented  to the Audit  Committee  for
+consideration  at its next scheduled  meeting,  or if earlier  consideration  is
+required, to the committee chairman.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       12
+<PAGE>
+                                     PART IV
+                                     -------
+
+ITEM 15.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+--------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+     (a) The following documents are filed as part of this report:
+                                                                                                               Page
+<S>                                                                                                            <C>
+         1.   Index to Financial Statements..................................................................    35
+
+              Independent Auditor's Report...................................................................   F-1
+
+              Balance Sheets at December 31, 2003 and 2002...................................................   F-2
+
+              Statements of Operations and Comprehensive Loss for the years ended
+                  December 31, 2003, 2002 and 2001...........................................................   F-4
+
+              Statements of changes in Shareholders' Equity for the years ended
+                  December 31, 2003, 2002 and 2001...........................................................   F-5
+
+              Statements of Cash Flows for the years ended December 31,
+                  2003, 2002 and 2001........................................................................   F-6
+
+              Notes to Financial Statements..................................................................   F-7
+
+         2.       Financial  statement  schedules required to be filed by Item 8
+                  and paragraph (d) of this Item 15:
+
+              Independent Auditor's Report on Supplemental Information.......................................  F-29
+
+              Schedule of Valuation and Qualifying Accounts..................................................  F-30
+
+              Audited Financial Statements of BAW group as of December 31, 2003, 2002 and 2001...............  F-31
+                  (Considered a significant 50% owned equity investee as defined
+                   under SEC Regulation S-X 3-09)
+
+              All other schedules are omitted because they are not applicable or
+                  the required  information is shown in the financial statements
+                  or notes thereto.
+
+         3.   The exhibits are listed in the index of exhibits...............................................    36
+
+     (b) No  reports  on Form 8-K were  required  to be  filed  during  the last
+         quarter of the period covered by this report.
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+                                       13
+<PAGE>
+                                   SIGNATURES
+
+         Pursuant to the  requirements  of Section 13 or 15(d) of the Securities
+Exchange  Act of 1934,  the  Company has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+                             AG-BAG INTERNATIONAL LIMITED,
+                             a Delaware corporation
+
+Date: April 23, 2004         By:   \s\ Michael J. Schoville
+                                   ---------------------------------------------
+                                   Michael J. Schoville, Chief Executive Officer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       14
+<PAGE>
+                                  EXHIBIT INDEX
+                                  -------------
+EXHIBIT
+NUMBER        DESCRIPTION OF EXHIBIT
+-------       ----------------------
+
+3.1           Restated Certificate of Incorporation(2)
+
+3.2           Bylaws of the Company(2)
+
+4.1           Form of Common Stock Certificate(1)
+
+4.3           Warrant dated February 13, 1995, to Norwood Venture Corp.(2)
+
+10.1          Employment Contract of Larry R. Inman(1)*
+
+10.2          Form of Change of Control  Agreement  between the Company and each
+              of its executive officers and key employees(4)*
+
+10.3          1991  Employee  Stock  Plan,  as  amended  effective  November  1,
+              1996(3)*
+
+10.4          Incentive  Stock Option  Plan,  as amended  effective  November 1,
+              1996(3)*
+
+10.5          Non-employee Director Stock Option Plan(3)*
+
+10.6          Credit and  Security  Agreement  with  Wells  Fargo  Credit,  Inc.
+              effective May 13, 2003(5)
+
+10.7          First Amendment to Credit and Security Agreement(5)
+
+10.8          Second Amendment to Credit and Security Agreement(5)
+
+11            Statement re computation of earnings per share(5)
+
+12            Statement re computation of ratios(5)
+
+21            Subsidiaries of Registrant(5)
+
+31.1          Rule 13a-14(a)/15d-14(a) Certification of Chief Executive Officer
+
+31.2          Rule 13a-14(a)/15d-14(a) Certification of Chief Financial Officer
+
+32.1          Section 1350 Certification of Chief Executive Officer
+
+32.2          Section 1350 Certification of Chief Financial Officer
+
+ *   Management contract or compensatory plan
+(1)  Filed as exhibit to the Form S-1 Registration No. 33-46115
+(2)  Filed as exhibit to the Form 10-K for the fiscal  year ended  December  31,
+     1994
+(3)  Filed as exhibit to the Form 10-K for the fiscal  year ended  December  31,
+     1996
+(4)  Filed as exhibit to the Form 10-K for the fiscal  year ended  December  31,
+     2000
+(5)  Filed as exhibit to the Form 10-K for the fiscal  year ended  December  31,
+     2003
+
+                                       15
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,3079 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>n10k2004.txt
+<TEXT>
+
+
+                UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D. C. 20549
+
+                                    FORM 10-K
+
+     (Mark One)
+(X)  Annual Report Pursuant to Section 13 or 15(d) of The Securities Exchange
+Act of 1934 For the Fiscal Year Ended December 31, 2004
+
+                       OR
+( )   Transition Report Pursuant to Section 13 or 15(d) of The Securities
+Exchange Act of 1934
+
+                          Commission File Number 0-275
+
+                           Allen Organ Company
+             (Exact name of registrant as specified in its charter)
+
+     Pennsylvania                       23-1263194
+  (State of Incorporation)      (IRS Employer Identification No.)
+
+  150 Locust Street, P. O. Box 36, Macungie, Pennsylvania      18062-0036
+  (Address of principal executive offices)                     (Zip Code)
+
+Registrant's telephone number, including area code           610-966-2200
+
+          Securities registered pursuant to section 12 (b) of the Act:
+
+                                      None
+          Securities registered pursuant to section 12 (g) of the Act:
+
+                  Class B Common Shares, par value $1 per share
+                                (Title of Class)
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act
+of 1934 during the  preceding  12  months (or for such shorter period that
+the  registrant  was required  to  file  such  reports), and (2) has
+been  subject  to  such  filing requirements for the past 90 days.
+
+                                Yes   X     No
+Indicate  by check mark if disclosure of delinquent filers pursuant to Item 405
+of  Regulation  S-K is not contained herein, and will not be contained,  to the
+best  of  registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment of
+this Form 10-K.  ( )
+The  Class A voting stock of the registrant is not registered pursuant to the
+Securities  Exchange  Act of 1934, is not publicly traded,  and,  therefore, no
+market value information exists for such stock held by non-affiliates.
+The number of shares outstanding of each of the Registrant's classes of  common
+stock, as of the close of business on March 29, 2005:
+         Class A - Voting  83,864       Class B - Non-voting  1,072,302
+Indicate by check mark whether the registrant is an accelerated filer (as
+defined by Rule 12b-2 of the Act).
+                                Yes         No   X
+The aggregate market value of the Class B Common Shares held by non-affiliates
+of the Registrant as of June 30, 2004: $42,038,347
+                                      1
+<PAGE>
+                               ALLEN ORGAN COMPANY
+
+                                      INDEX
+
+
+Item                                                           Page No.
+
+
+                                     PART I
+
+1. Business
+      - General developments of business                         3
+      - Industry segments                                        4
+      - Description of business                                  4 - 7
+      - Financial information about geographic areas             7
+      - Available information                                    7
+2. Properties                                                    7
+3. Legal Proceedings                                             8
+4. Submission of Matters to a Vote of Security Holders           8
+
+                                     PART II
+
+5. Market for the Registrant's Common Equity,
+      Related Stockholder Matters and Issuer
+      Purchases of Equity Securities                             8
+6. Selected Consolidated Financial Data                          9
+7. Management's Discussion and Analysis of Financial Condition and
+      Results of Operations                                      9 - 17
+7A.   Quantitative and Qualitative Disclosures About Market Risk 17
+8. Financial Statements and Supplemental Data                    18 - 39
+9. Changes in and Disagreements with Accountants on Accounting
+      and Financial Disclosure                                   17
+9A Controls and Procedures                                       17
+9B Other Information                                             17
+
+                                    PART III
+
+10.   Directors and Executive Officers of the Registrant         40 - 42
+11.   Executive Compensation                                     42 - 43
+12.   Security Ownership of Certain Beneficial Owners and Management
+      and Related Stockholder Matters                            43 - 45
+13.   Certain Relationships and Related Transactions             45
+14.   Principal Accountant Fees and Services                     45
+
+                                     PART IV
+
+15.   Exhibits and Financial Statement Schedules                 46
+
+Signatures                                                       47
+
+Financial Statement Schedules                                    48
+
+Exhibits                                                         49 - 53
+                                      2
+<PAGE>
+PART I
+Item 1.  Business
+          General developments of business.
+               Incorporated in Pennsylvania in 1945, Allen Organ  Company  and
+         Subsidiaries ("Company") operate in four industry  segments:  Musical
+         Instruments,  Data Communications, Electronic  Assemblies  and  Audio
+         Equipment.
+               The Musical Instruments segment consists of the manufacture and
+         sale  of electronic keyboard musical instruments,  primarily  digital
+         church  organs and accessories.  During 2004 the Musical  Instruments
+         segment  showed improvement in both net sales and operating  results.
+         Management attributes this improvement to an improving economy and the
+         introduction of organs containing Quantum(TM) technology in the second
+         quarter  of  this  year,  with shipments beginning  during  the  third
+         quarter.   Quantum organs offer significant new features  and  product
+         benefits. Two major benefits of this technology are Quad Suite(TM) and
+         Acoustic  PortraitT.  Quad Suite allows Quantum organs to supply  four
+         complete  tonal specifications in one organ console thereby increasing
+         the  instrument's  versatility.  Acoustic  Portrait  adds  low-latency
+         convolution  reverberation, currently an  exclusive  feature  for  the
+         church  organ market.  Convolution technology enables the  Company  to
+         accurately reproduce the response of desired rooms and include them in
+         Quantum organs.
+               The Musical Instruments segment is seeing increasing changes  in
+         the  type  of  music  used in churches throughout North  America,  the
+         primary  market for this segment's organs.  Some churches have changed
+         their  music  programs from traditional styles that primarily  include
+         the  use of an organ, to more "contemporary" services where the  organ
+         plays a lesser or no role.  These changes may negatively impact future
+         sales  volume  of  this  segment.   The  Company  recently  introduced
+         products to address the changing needs of church music.  This includes
+         the  Allen EnsembleT that combines traditional organ sounds  and  more
+         contemporary  General  MIDI  (Musical  Instrument  Digital  Interface)
+         sounds.    The   Company   also  introduced   EACT   (Expanded   Audio
+         Capabilities)  which  allows churches that have both  traditional  and
+         contemporary   programs   to  utilize  their   Allen   organ's   audio
+         capabilities  for  playing  back recorded music  or  amplifying  other
+         musical  instruments.  The introduction of the Allen Ensemble and  EAC
+         are  intended to help maintain the organ as the cornerstone of  church
+         music  programs.   Management is hopeful that recent improvement's  in
+         the  economy  and  spending patterns of religious  institutions,  this
+         segment's  primary  customers, along with the  favorable  reaction  to
+         Quantum organs will continue in 2005.
+                The  Data  Communications  segment  designs  and  markets  data
+         networking  products.   This  segment's 2004  annual  sales  increased
+         approximately $18,958,000 (53%) when compared to 2003.  Gross  margins
+         and  operating  income  in  2004  also  increased  significantly  when
+         compared to 2003.  This improvement in net sales and operating results
+         is  attributable to an improvement in the overall data  communications
+         market  and  the timing of completing sales with the Company's  larger
+         customers.   Sales in this segment have become increasingly  dependent
+         on  larger  sales opportunities that could result in  the  amount  and
+         timing of future net sales being more volatile.
+                The   Electronics   Assemblies  segment  provides   subcontract
+         manufacture of electronic assemblies for outside customers.  Recently,
+         the  order rate for this segment has improved and management  believes
+         that  its  efforts to diversify its customer base and recent signs  of
+         improvement in the economy may continue to improve this segments order
+         rate in 2005.
+               The  Audio  Equipment segment designs, manufactures and  markets
+         high-quality audio speaker cabinets for hi-fi stereo and home  theater
+         applications.   This segment's 2004 net sales decreased when  compared
+         to  2003.   This segment continues its efforts to develop an  expanded
+         dealer  network, however, adding quality dealers for its products  has
+         been slower than expected.
+                                      3
+
+        Industry segments.
+
+        Description of business.
+          Musical Instruments.
+               Allen  Organ  Company  is a leading manufacturer  of  electronic
+         keyboard  musical  instruments, primarily digital  church  organs  and
+         accessories.  This segment accounted for 26%, 34% and 37% of net sales
+         in 2004, 2003 and 2002, respectively.
+               The  principal  market  for the Musical Instruments  segment  is
+         institutions, primarily churches.  Sales to homes make  up  a  smaller
+         portion  of this segment's sales.  Musical Instruments are distributed
+         mostly  through  dealers, primarily independent  retail  music  stores
+         throughout  the  United  States, with a lesser percentage  distributed
+         through  dealers  internationally.   The  segment's  business  is  not
+         seasonal.
+               The  principal raw materials used in the segment's products  are
+         electronic  components  and  wood, which are  readily  available  from
+         various sources without undue difficulty.  Traditionally, organs  have
+         longer  service  requirements than other digital  products.   As  life
+         cycles  for electronic components have shortened in recent  years  the
+         Company  has had to redesign some circuit boards to satisfy the  needs
+         of  current and past customers.  At the present time, management  does
+         not   expect  this  issue  to  significantly  affect  future   product
+         shipments.
+               This  segment  does  not  engage in any significant  amounts  of
+         extended   payment  terms,  or  lease  guarantees.   The  Company   is
+         contingently  liable  in connection with certain customers'  financing
+         arrangements  (see Note 11 to the Consolidated Financial  Statements).
+         The  dollar amounts and number of times the Company has had  to  honor
+         these repurchase agreements have been negligible.
+              The Musical Instruments segment is not dependent on any single or
+         small  group  of  customers, the loss of which would have  a  material
+         adverse  effect on the business.  The dollar amount of  the  segment's
+         unshipped order backlog at the end of February 2005 and 2004 was  $4.9
+         million and $3.6 million, respectively.  All orders are expected to be
+         filled in the current year.
+               The  organ  industry  is  competitive involving  at  least  five
+         domestic  and  foreign manufacturers of digital organs.  In  addition,
+         there are many small pipe organ companies that serve the institutional
+         organ  market.   The  organ market consists of  two  basic  divisions,
+         institutional  (primarily  churches) and home  or  entertainment  type
+         instruments.  Management believes it is the largest supplier of organs
+         for  the  institutional  market in the United  States  (largest  world
+         market) because of product performance and competitive prices, and has
+         a  smaller percentage of the home or entertainment organ market.  This
+         segment  also  markets its organ consoles and control  electronics  to
+         customers that want to retain their wind-blown pipes and augment  them
+         with digital voices.  The Company maintains a research and development
+         program  to take advantage of the latest in technological developments
+         relating to digital sound generation.
+
+          Data Communications.
+               The  Data  Communications segment consists of Eastern  Research,
+         Inc. (ERI).  This segments operations are headquartered in Moorestown,
+         New Jersey.  ERI designs and markets data networking products enabling
+         network  service  providers to deliver services to their  external  or
+         internal  customers.  This segment accounted for 68%, 59% and  54%  of
+         the Company's net sales in 2004, 2003 and 2002, respectively.
+               Data Communications products are predominantly sold directly  to
+         end-users,  to wholesale and retail distributors worldwide  and  to  a
+         smaller  extent  under  OEM  agreements.   The  segment  maintains  an
+         inventory  of  in-process  and  finished  goods  to  allow  for  rapid
+         fulfillment of orders.
+                                      4
+
+               The  principal  raw  materials used in the  Data  Communications
+         products  are electronic components, which are readily available  from
+         various  sources  without  undue  difficulty.   As  life  cycles   for
+         electronic components have shortened in recent years, the Company  has
+         had  to  redesign some circuit boards to satisfy the needs of  current
+         and  past customers.  At the present time, management does not  expect
+         this to significantly affect future product shipments.
+              The Data Communications segment derived 41% of its 2004 net sales
+         from  two  customers, 16% of its net sales from one customer in  2003,
+         and 40% of its net sales from two customers in 2002.  While there have
+         been significant customers contributing to the revenue growth, some of
+         these customers have changed from year to year.
+               This  segment derived approximately 27%, 19% and 28% of its  net
+         sales from international markets in 2004, 2003 and 2002, respectively,
+         primarily  from Asia Pacific and Europe.  ERI will continue to  pursue
+         growth  opportunities  in  markets outside  the  United  States.   The
+         realization  of  future  business from these  opportunities  could  be
+         affected  by  currency fluctuations, social and  political  risks  and
+         changes in foreign economies.
+               ERI  has  a  diversified  portfolio of customers  serving  three
+         primary  segments:  mobile  network service providers,  fixed  network
+         service  providers  and private networks; both  in  the  domestic  and
+         international  markets.   While each segment continues  to  grow,  the
+         mobile  segment has accelerated the most and contributed 41%  of  2004
+         revenues.   Applications in the mobile segment involve optimizing  and
+         managing the access portion of these networks, which are projected  to
+         continue  to  grow  and change.  There are many  competitors  in  this
+         market  that is dominated by large data communications companies  such
+         as  Adtran, Tellabs and Alcatel.  The Company's strategy has  been  to
+         target market niches with products that provide desirable features and
+         packaging with attractive pricing.
+               ERI  initially built its business in the CSU/DSU market and also
+         developed  router  technology products.  In 1997, ERI  introduced  its
+         multi-service access concentrator (DNX) family of products.   ERI  has
+         expanded this product family and broadened its feature set making  the
+         DNX  its  flagship product.  The DNX revenues represent  approximately
+         90% of ERI's net sales for 2004.  During 2002, ERI introduced the DNX-
+         1u,  which  is targeted at wireless service providers.  The DNX-1u  is
+         the  smallest product in the DNX family and includes up to 8 T1 or  E1
+         circuits.  This and prior product introductions have strengthened  the
+         DNX  product line.  The largest product in the DNX line is the  DNX-88
+         that  can handle as many as 600 T1 circuits and also includes  T3  and
+         OC3  (optical)  capabilities.  While revenues  are  primarily  product
+         sales,  service  revenues are a smaller, yet growing  portion  of  the
+         business.
+               To  properly capitalize on this market's opportunities, ERI  has
+         implemented marketing strategies and product development work and will
+         continue to do so in a way that takes into account ERI's needs and the
+         economic environment.
+               On  July  24, 2003, ERI purchased the assets of Avail  Networks,
+         Inc.  (Avail) in exchange for $200,000 in cash and contingent payments
+         based  on future revenue related to the sale of Avail products  during
+         the  30  months  after the acquisition.  The resources and  technology
+         related  to  this acquisition have been redeployed and  are  currently
+         being  used  in  the  development  of the  Company's  next  generation
+         products.
+               The  dollar  amount of unshipped order backlog  at  the  end  of
+         February   2005   and  2004  was  $5.2  million  and   $7.0   million,
+         respectively.   All orders are expected to be filled  in  the  current
+         year.
+               This  segment  has directed its sales and marketing  efforts  to
+         focus  on markets for which its product line is well suited, including
+         the   wireless,   enterprise,  government  and  certain  international
+         markets.   Future  sales  in  this segment  have  become  increasingly
+         dependent  on  larger  sales opportunities that could  result  in  the
+         amount and timing of future revenue being more volatile.
+                                      5
+
+          Electronic Assemblies.
+               Allen Integrated Assemblies (AIA) is the Company's division that
+         provides subcontract manufacture of electronic assemblies for  outside
+         customers.  The Electronic Assemblies segment is an outgrowth  of  the
+         technical  skills  and  manufacturing capabilities  developed  by  the
+         Company  for  its  Musical  Instruments business.   AIA  services  are
+         supplied  out of the Macungie, PA plant, the same plant in  which  the
+         Company manufactures Musical Instruments and Audio Equipment products.
+         This  segment accounted for 4%, 5% and 7% of 2004, 2003 and  2002  net
+         sales, respectively.  AIA derived 68% of its 2004 net sales from  five
+         customers, 61% of its 2003 net sales from two customers and 73% of its
+         net  sales  from three customers in 2002.  AIA continues  to  work  on
+         diversifying its customer base.
+               The  Electronic  Assemblies segment  is  very  competitive  with
+         numerous  companies  offering  similar services.   AIA  customers  are
+         generally  in  a  geographic area relatively close  to  the  Company's
+         Macungie manufacturing facility.
+              The dollar amount of the segment's unshipped order backlog at the
+         end   of   February  2005  and  2004  was  $1,551,000  and   $909,000,
+         respectively.   All orders are expected to be filled  in  the  current
+         year.
+
+          Audio Equipment.
+              The Audio Equipment segment operates mainly through Legacy Audio,
+         Inc.  (LAI).  LAI designs, manufactures and markets high-quality audio
+         speaker cabinets for hi-fi stereo and home theater applications.  This
+         segment  accounted  for  2%  of net sales  in  2004,  2003  and  2002,
+         respectively.
+               The  principal raw materials used in the segment's products  are
+         audio  speakers,  electronic components and wood,  which  are  readily
+         available from various sources without undue difficulty.
+               LAI  derived  12%  of its 2004 net sales from one  customer,  no
+         single  customer accounted for greater than 10% of this  segments  net
+         sales in 2003 or 2002.
+               The  principal  market for LAI's products is the  consumer  home
+         market.    The  segment's  products  are  mainly  distributed  through
+         independent retail dealers and directly to end-users.  This  segment's
+         business is not seasonal.
+               LAI  historically  sold its products through  direct  marketing.
+         Management  determined  that this method of distribution  limited  its
+         ability  to  penetrate the broader market.  The Company has  and  will
+         continue to add independent retail dealers in a conservative manner to
+         build a quality dealer network in an effort to distribute its products
+         more  broadly.   LAI  has  had  difficulty  adding  dealers  that  are
+         appropriate for its products.
+               The  high-end audio market is evolving from the traditional two-
+         channel to the multi-channel market, which is utilized in home theater
+         applications.  LAI has developed and markets products specifically for
+         these home theater applications.
+               LAI  competes with several other high-end audio speaker  cabinet
+         manufacturers  including  Martin-Logan,  Thiel,  B&W,  Celestion,  and
+         others.
+              The dollar amount of the segment's unshipped order backlog at the
+         end of February 2005 and 2004 was $223,000 and $179,000, respectively.
+         All orders are expected to be filled in the current year.
+
+          General.
+               The  Company's working capital is sufficient to meet the  normal
+         expansion of inventory and receivables.
+              The Company spent $13,948,340, $8,785,522 and $7,782,571 in 2004,
+         2003  and  2002, respectively, on research and development.  The  2004
+         and 2003 increases were mainly within the Data Communications segment.
+         The Company maintains an ongoing commitment to new product development
+         and  expects  future expenditures for these activities to  exceed  the
+         2004 level.
+                                      6
+          General. (Continued)
+               The  Company  monitors its compliance with  applicable  federal,
+         state,  or  local  provisions  with  regard  to  the  environment  and
+         implements  procedures or modifies its equipment  as  necessary.   The
+         Company  does  not  expect any significant capital  additions  in  the
+         coming year to maintain its compliance.
+              The Company and its subsidiaries employ approximately 505 people.
+         None   of  our  employees  are  covered  by  a  collective  bargaining
+         agreement.   Management  believes that relations  with  employees  are
+         good.
+
+         Financial information about geographic areas.
+              The Company does not own manufacturing or sales facilities in any
+         foreign   countries.   See  Note  13  to  the  Consolidated  Financial
+         Statements for additional information on export sales.
+              Export  sales are all made in US dollars and, based on  customer
+         credit information, are made either on open credit terms, under letter
+         of credit or on a prepaid basis.
+
+         Available information.
+               The Company files annual reports on Form 10-K, quarterly reports
+         of  Form  10-Q,  current reports on Form 8-K and amendments  to  those
+         reports  pursuant  to  Section 13(a) or 15(d) of  The  Securities  and
+         Exchange  Act  of 1934 with the Commission.  The public may  read  and
+         copy  any  materials filed with the Securities and Exchange Commission
+         at their Public Reference Room at 450 Fifth Street, NW, Washington, DC
+         20549.   The  public may also obtain this information by  calling  the
+         Commission  at  1-800-SEC-0330.   The  Securities  and  Exchange  also
+         maintains an Internet site that contains reports and other information
+         statements  and  other  information  regarding  electronic  filers  at
+         www.sec.gov.
+
+Item 2.   Properties
+              The following sets forth the location, approximate square footage
+         and  use  of the Company's operating locations by segment.  Management
+         believes  that its Macungie, PA facilities are generally suitable  and
+         adequate   for  the  needs  of  the  Musical  Instruments,  Electronic
+         Assemblies  and  Audio  Equipment segments.  The  Data  Communications
+         segment  will need to expand the size of its present facility  in  New
+         Jersey or relocate to another leased facility during 2005.
+
+                                  Approximate
+             Location           Square Footage           Use
+ Musical Instruments, Audio Equipment and Electronic Assemblies:
+
+       Macungie, Pennsylvania    242,000        Administrative, research  and
+                                                manufacturing facility. Owned
+                                                by  Allen  Organ Company.
+                                                Operating at approximately
+                                                85% capacity.
+
+       Macungie, Pennsylvania     27,000        International sales, exhibition
+                                                center, museum and teaching
+                                                facility.  Houses the sales
+                                                offices for Musical Instruments
+                                                and Legacy Audio. Owned by
+                                                Allen Organ Company.
+ Data Communications:
+       Moorestown, New Jersey     46,000        Administrative, sales and
+                                                research facility. Leased until
+                                                September 2005.
+
+       Ann Arbor,  Michigan        5,000        Research facility. Leased
+                                                until July 2005.
+
+               In  October 2002, the Company's subsidiary, Legacy Audio,  Inc.,
+         sold  its  manufacturing  and sales facility located  in  Springfield,
+         Illinois.   See  Note 21 to the Consolidated Financial Statements  for
+         additional information.
+                                      7
+
+Item 3.  Legal Proceedings
+               There is no litigation requiring disclosure pursuant to Item 103
+         of Regulation S-K.
+
+Item 4.  Submission of Matters to a Vote of Security Holders
+               No  matters were submitted to a vote of security holders  during
+         the fourth quarter of fiscal year 2004.
+
+                                     PART II
+
+Item 5.  Market  for  the  Registrant's Common Stock and Related  Stockholder
+          Matters
+               The  Company's Class A voting shares are not registered pursuant
+         to  The  Securities Exchange Act of 1934 and are not publicly  traded.
+         The  Company's  Class B non-voting stock trades on  the  NASDAQ  Stock
+         Market under the symbol AORGB.
+               The high and low bid quotations for each quarter during the last
+         two  years  as  reported by NASDAQ Market Information  System  are  as
+         follows:
+
+                  2004              High            Low
+                  First Quarter  $  48.00       $  43.15
+                  Second Quarter    54.66          47.50
+                  Third Quarter     64.00          47.74
+                  Fourth Quarter    70.36          53.05
+
+                  2003              High            Low
+                  First Quarter  $  40.64       $  37.00
+                  Second Quarter    42.58          35.46
+                  Third Quarter     44.11          37.97
+                  Fourth Quarter    50.03          43.00
+
+               The  Company  has  6  Class  A  Stockholders  and  232  Class  B
+         Stockholders of record as of March 29, 2005.
+               During  the  past  two  fiscal years, the Company  has  declared
+         dividends on both its Class A and B shares as follows:
+
+                  Record of Quarterly Dividends Paid in 2004
+                     Record Date     Payable     Amount
+                  Cash  2/20/2004    3/5/2004    $0.14
+                  Cash  5/14/2004    5/28/2004   $0.14
+                  Cash  8/13/2004    8/27/2004   $0.14
+                  Cash  11/19/2004   12/3/2004   $0.14
+
+                  Record of Quarterly Dividends Paid in 2003
+                     Record Date     Payable     Amount
+                  Cash  2/14/2003    2/28/2003   $0.14
+                  Cash  5/16/2003    5/30/2003   $0.14
+                  Cash  8/15/2003    8/29/2003   $0.14
+                  Cash  11/14/2003   11/28/2003  $0.14
+                                      8
+Item 6.  Selected Financial Data
+       The  selected  consolidated  financial data  presented  below  has  been
+    derived  from the Company's consolidated financial statements for  each  of
+    the  periods indicated.  The data set forth below is qualified by reference
+    to  and  should  be read in conjunction with "Management's  Discussion  and
+    Analysis  of  Financial  Condition  and  Results  of  Operations"  and  the
+    Company's Consolidated Financial Statements included as Items 7  and  8  in
+    this Annual Report on Form 10-K.
+
+                                  Years Ended December 31,
+                     2004         2003        2002        2001         2000
+
+Net Sales        $80,170,788  $60,788,058 $67,739,548 $60,490,513  $72,516,208
+Operating Income
+ (Loss)          $ 5,729,224  $   889,497 $ 3,080,022 $(7,113,614) $ 3,784,196
+Net Income
+(Loss)           $ 4,709,047  $ 1,396,896 $ 2,685,357 $(4,083,810) $ 3,954,896
+Basic earnings
+(loss) per share $      4.07  $      1.20 $      2.29 $     (3.49) $      3.38
+Diluted earnings
+(loss) per share $      4.06  $      1.20 $      2.29 $     (3.49) $      3.38
+Cash dividends
+per share        $      0.56  $      0.56 $      0.56 $      0.56  $      0.56
+At Year End
+ Cash            $ 8,949,691  $ 5,907,576 $ 4,515,189 $ 4,449,998  $ 2,712,368
+ Investments     $18,338,350  $17,143,171 $17,176,750 $11,609,416  $24,694,377
+ Working Capital $46,943,904  $43,917,002 $41,551,690 $38,656,758  $41,648,400
+ Total Assets    $78,472,735  $71,950,276 $73,362,868 $66,472,252  $80,807,742
+ Long-Term Debt,
+ net of
+ current portion $         0  $         0 $         0 $         0  $         0
+Stockholders'
+ Equity          $59,888,146  $56,364 833 $56,306,332 $56,315,015  $62,434,901
+
+Item  7. Management's  Discussion and Analysis  of  Financial  Condition  and
+          Results of Operations
+     Business Overview:
+       As  discussed  in  Note  21  of the financial statements,  Allen  Organ
+    Company  and  Subsidiaries ("Company") operate in four  industry  segments:
+    Musical  Instruments, Data Communications, Electronic Assemblies and  Audio
+    Equipment.
+       Sales  for  the year ended December 31, 2004 increased $19,382,730  when
+    compared  to  2003, primarily due to increased sales in the Company's  Data
+    Communications  segment.  Net income increased $3,312,151 during  the  year
+    ended  December  31, 2004, compared to 2003, primarily due  to  the  higher
+    sales in the Data Communications segment and improved operating results  in
+    the Musical Instruments segment.
+       Net  sales  consist  of  revenues obtained for the  sale  of  electronic
+    keyboard  musical  instruments  in the Musical  Instruments  segment;  data
+    networking  products  and  support  services  in  the  Data  Communications
+    Segment; electronic assembly services in the Electronic Assemblies segment;
+    and  audio speaker cabinets in the Audio Equipment segment.  Sales  credits
+    and adjustments are also included in net sales.
+       Cost  of  sales  consist primarily of material costs of  products  sold,
+    salary  and  benefit costs related to production and manufacturing  support
+    personnel,   incoming  shipping  and  facility  related  costs,   such   as
+    depreciation and maintenance.
+       Consolidated  selling, general and administrative expenses and  research
+    and  development expenses increased approximately $8,197,000 and $1,554,000
+    during  the years ended December 31, 2004 and 2003, respectively, primarily
+    related to the growth in the Data Communications segment.  Selling expenses
+    consist  primarily  of employee salary and benefit costs,  advertising  and
+    marketing  expenses.  General and administrative expenses consist primarily
+    of  employee salary and benefit costs, professional services fees and other
+    general  corporate  expenses.   Research and development  expenses  consist
+    primarily of employee salary and benefit costs for engineering staff, third
+    party  contracted development services, product prototyping and  compliance
+    costs.
+                                      9
+Item 7.  Management's Discussion and Analysis of Financial Condition and
+          Results of Operations (Continued)
+     Liquidity and Capital Resources:
+       The  Company continues to maintain a strong financial position and  high
+    level  of liquidity, which enables it to generate funds internally to  meet
+    operating  needs,  capital  expenditures and short-term  obligations.   Key
+    indicators of the Company's liquidity are presented below:
+                                                      December 31,
+                                                 2004             2003
+          Working Capital                     $46,943,904      $43,917,002
+          Current Ratio                         5.3 to 1         6.5 to 1
+          Total Liabilities to Equity Ratio    0.31 to 1        0.28 to 1
+
+       Cash   flows   from  operating  activities  increased  by  approximately
+    $3,718,000  during 2004 when compared to 2003, primarily  due  to  improved
+    operating  results  in the Musical Instruments, Electronic  Assemblies  and
+    Data   Communications  segments.   Net  income  improved  by  approximately
+    $3,312,000  during  the year ended December 31, 2004 as compared  to  2003,
+    after  reflecting a non-cash charge of approximately $363,000 in 2004  from
+    the  write-off of goodwill and intangibles in the Audio Equipment  segment.
+    Cash  of $454,000 was used to increase working capital components in  2004,
+    versus changes in working capital providing cash of $806,000 and $3,315,000
+    in 2003 and 2002, respectively.  The increase in working capital components
+    in   2004   is  primarily  attributable  to  higher  levels  of   inventory
+    ($1,693,000) to support the increased sales activity, payment of  estimated
+    income  taxes  ($1,466,000, net of current year accruals)  and  payment  of
+    pension  contributions ($544,000, net of current year accruals), offset  by
+    increases in payables and other accruals (total of $3,079,000) and customer
+    deposits ($634,000).
+       Cash  flows  provided by operating activities decreased during  2003  as
+    compared to 2002, primarily due to operating losses incurred in the Musical
+    Instruments segment.  Working capital decreased in 2003 due to decreases in
+    receivables  and inventory (total of $2,830,000) primarily from  collection
+    of  a  receivable from a large sales transaction in late 2002 and  improved
+    inventory  management,  offset  by  a decrease  in  payables  and  accruals
+    ($3,238,000) primarily from payment of inventory purchases to  fulfill  the
+    large  sales transaction in late 2002.  Working capital decreased  in  2002
+    due  to  a  decrease  in  inventory ($1,073,000)  primarily  from  improved
+    inventory management, payment of estimated income taxes ($945,000,  net  of
+    income  tax accruals) and an increase in payables and accruals ($3,604,000)
+    primarily from inventory purchases to fulfill a large sales transaction  in
+    late  2002,  offset  by  an  increase in accounts  receivable  ($2,237,000)
+    primarily related to a large sales transaction in late 2002.
+       Cash   flows   used  in  investing  activities  during   2004   includes
+    approximately  $2,743,000  of property additions,  of  which  approximately
+    $2,320,000 is primarily computer and test equipment purchased for the  Data
+    Communications  segment  and net purchase of investments  of  approximately
+    $1,268,000.
+       Cash  flows  used  in  investing activities during  2003  were  used  to
+    purchase  approximately $160,000 and $900,000 of property and equipment  in
+    the Musical Instruments and Data Communications segments, respectively.  In
+    addition, the Data Communications segment used $200,000 as payment for  the
+    acquisition of Avail Networks.
+      Cash  flows  used  in  investing activities during  2002  were  used  to
+    purchase  approximately $1,039,000, $188,000 and $672,000 of  property  and
+    equipment  in  the  Musical  Instruments, Electronic  Assemblies  and  Data
+    Communications  segments, respectively and net purchase of  investments  of
+    approximately $5,376,000.
+       Cash  flows from financing activities during 2004 and 2002 were made  up
+    primarily  of dividend payments to Company shareholders.  Cash  flows  from
+    financing  activities  during  2003 in addition  to  dividend  payments  to
+    Company   shareholders,  included  approximately  $505,000  paid  for   the
+    repurchase of Class B common shares and $449,000 paid for the repurchase of
+    subsidiary company stock.
+                                      10
+Item 7.  Management's Discussion and Analysis of Financial Condition and
+          Results of Operations (Continued)
+     Results of Operations:
+        Sales and Operating Income
+                                             December 31,
+                                 2004            2003            2002
+        Net Sales
+        Musical Instruments
+         Domestic            $16,961,307     $17,033,746     $21,694,445
+         Export                3,925,493       3,348,158       3,248,480
+          Total               20,886,800      20,381,904      24,942,925
+
+        Data Communications
+         Domestic             40,275,770      29,252,691      26,107,275
+         Export               14,704,274       6,769,565      10,428,899
+          Total               54,980,044      36,022,256      36,536,174
+
+        Electronic Assemblies
+         Domestic              2,822,019       2,819,640       4,750,143
+
+        Audio Equipment
+         Domestic              1,227,055       1,390,526       1,441,084
+         Export                  254,870         119,780          69,222
+          Total                1,481,925       1,564,258       1,510,306
+
+        Total                $80,170,788     $60,788,058     $67,739,548
+
+        Income (Loss) from Operations
+        Musical Instruments  $   613,203     $  (764,639)    $ 2,024,144
+        Data Communications    6,436,161       2,446,213       2,091,520
+        Electronic Assemblies   (124,425)       (457,366)       (401,165)
+        Audio Equipment       (1,195,715)       (334,711)       (634,477)
+         Total               $ 5,729,224     $   889,497     $ 3,080,022
+
+       Consolidated  sales for 2004 increased $19,382,730 (32%)  when  compared
+    to  2003, primarily due to higher sales in the Data Communications  segment
+    of  approximately  $18,958,000.   Consolidated  sales  for  2003  decreased
+    $6,951,490  (10%)  when compared to 2002, primarily  due  to  a  $4,561,000
+    decrease  in  Musical  Instruments  sales  and  a  $1,930,000  decrease  in
+    Electronic Assemblies segment sales.
+       Consolidated gross margins increased to 48% in 2004 compared to  41%  in
+    2003.  This was due to the Data Communications segment representing 69%  of
+    consolidated  net sales in 2004 versus 59% in 2003, which segment  provides
+    the  highest gross profit percent (58% in 2004).  In addition, the  Musical
+    Instruments  segment gross margins  increased by six percentage  points  to
+    27.5%  in 2004 versus 21.1% in 2003 attributable to cost reduction  efforts
+    that  were initiated in 2003 to reduce material and other operating  costs.
+    Consolidated gross margins in 2003 increased to 41% compared to 38% in 2002
+    due  to  a  6%  increase  in the gross margins in the  Data  Communications
+    segment attributable to higher sales volume, reductions in product cost and
+    changes in product mix, offset by a 6% decrease in the gross margin in  the
+    Musical  Instrument segment due to lower sales volume over which to  absorb
+    fixed costs.
+       Consolidated  selling,  administrative  and  other  expenses   increased
+    $3,034,102 during the year ended December 31, 2004 when compared  to  2003,
+    primarily  related  to  a  $2,565,000 increase in the  Data  Communications
+    segment for increased salaries and commissions related to the higher  sales
+    volume  and  additional sales and marketing efforts  implemented  in  2004.
+    Consolidated selling, administrative and other expenses increased  $503,940
+    during  the year ended December 31, 2003, when compared to 2002,  primarily
+    related  to  an  $872,000 increase in the Data Communications  segment  for
+    increased  salaries  and  benefits  related  to  its  increased  sales  and
+    marketing efforts.
+                                      11
+Item 7.  Management's Discussion and Analysis of Financial Condition and
+          Results of Operations (Continued)
+
+       Consolidated  research  and  development expenses  increased  $5,162,818
+    during  the  year ended December 31, 2004 when compared to  2003  primarily
+    related to a $5,292,000 increase in the Data Communications segment.   This
+    increase   was   primarily  from  salaries  and  benefits  for   additional
+    engineering   staff,  prototype  costs  and  contracted   design   services
+    associated  with the development of the Data Communications  segments  next
+    generation  products.   Consolidated  research  and  development   expenses
+    increased $1,002,951 during the year ended December 31, 2003, when compared
+    to   2002,   primarily  related  to  an  $820,000  increase  in  the   Data
+    Communications  segment.  This increase was made up primarily  of  salaries
+    and benefits for additional engineering staff.
+       Consolidated  costs and expenses for the year ended  December  31,  2004
+    also  includes  a  charge  for impairment of goodwill  and  intangibles  of
+    $362,611 related to the write down of the carrying value of Legacy  Audio's
+    goodwill and intangibles.
+       Investment income decreased $39,649 and $283,936 during the years  ended
+    December  31,  2004 and 2003, respectively, due to lower  rates  of  return
+    available  on  invested  funds.   The  minority  interest  in  consolidated
+    subsidiaries represents the ERI employee shareholders interest in  the  net
+    income  of Eastern Research after recovering accumulated losses from  prior
+    years  that  were  absorbed by the parent company.  There was  no  minority
+    interest in consolidated subsidiaries in 2003 and 2002, as all consolidated
+    subsidiaries  had accumulated losses that had been absorbed by  the  parent
+    and,  in  the case of Eastern Research, were being recovered by  subsequent
+    net income of the subsidiary.
+       The  effective tax rate (benefit) was 22.5%, (5.7%) and 29.3%  in  2004,
+    2003  and  2002,  respectively.  See Note 16 of the Consolidated  Financial
+    Statements  for  a  reconciliation  of the  income  tax  provision  to  the
+    statutory  rates.  The effective tax rate in 2004, 2003 and 2002  is  lower
+    than  statutory tax rates primarily due to foreign income with the  benefit
+    of  lower  tax  rates,  research and development  credits  and  non-taxable
+    investment  income derived from investment in municipal  bond  funds.   The
+    2004  rate  increased compared to 2003 primarily due to  higher  levels  of
+    taxable  income  in  2004 offset by higher levels of tax  credits  and  tax
+    exempt  income.  The 2003 rate decreased when compared to 2002 due  to  the
+    low  level of taxable income which, after deducting tax credits and  exempt
+    income, resulted in a small tax benefit.
+       Consolidated  net  income increased $3,312,151  during  the  year  ended
+    December 31, 2004, compared to 2003, primarily due to the higher sales  and
+    operating  income in the Data Communications segment and improved operating
+    results  in  the  Musical  Instruments segment.   Consolidated  net  income
+    decreased  $1,288,461 during the year ended December 31, 2003, compared  to
+    2002,  primarily due to operating losses of $765,000 and $457,000  incurred
+    in   the   Musical   Instruments   and  Electronic   Assemblies   segments,
+    respectively.
+       The  Company is in the process of implementing regulations contained  in
+    the  Sarbanes-Oxley Act of 2002 applicable to companies  with  a  class  of
+    securities  registered  under  the Securities  Exchange  Act  of  1934,  in
+    particular  Section  404  relating to Management's Assessment  of  Internal
+    Controls.   Compliance with these regulations is estimated to cost  in  the
+    range of $400,000 to $600,000 for initial implementation.  These costs will
+    be  incurred  over  2005  and 2006.  In addition,  there  will  be  ongoing
+    compliance  costs  thereafter  which management  expects  will  range  from
+    $250,000 to $400,000 annually.
+
+  Musical Instruments Segment
+       Domestic  sales  for 2004 were approximately equal to  2003.   The  2004
+    order rate and backlog on December 31, 2004 continue to be higher than  the
+    same  periods  in  2003  reflecting  favorable  customer  reaction  to  the
+    Company's Quantum organs that include significant new features and  product
+    benefits,  as  well  as an improved economic environment.   Quantum  organs
+    offer Quad SuiteT and Acoustic PortraitT.  Quad Suite allows Quantum organs
+    to   supply  four  complete  tonal  specifications  in  one  organ  console
+    increasing  the  instrument's  versatility.  Acoustic  Portrait  adds  low-
+    latency  convolution reverberation, currently an exclusive feature for  the
+    church  organ  market.   Convolution  technology  enables  the  Company  to
+    accurately  reproduce the response of desired rooms  and  include  them  in
+    Quantum organs.  The domestic sales for 2003 decreased $4,661,000 from 2002
+    due  to  lower  order volume, which management believed was caused  by  the
+    economic  downturn,  declines  in  financial  markets  and  general  global
+    uncertainty caused by the war in Iraq.
+                                      12
+Item 7.  Management's Discussion and Analysis of Financial Condition and
+          Results of Operations (Continued)
+      Musical Instruments Segment (Continued)
+       This  segment  is seeing changes in the type of music used  in  churches
+    throughout  North  America, the primary market for this  segment's  organs,
+    which  may  negatively impact future sales volume for this  segment.   Some
+    churches  have  changed their music programs from traditional  styles  that
+    primarily  use  an organ, to more "contemporary" services where  the  organ
+    plays  a lesser or no role.  To address the changing needs of church music,
+    the Company recently introduced products including the Allen EnsembleT that
+    combines  traditional  organ  sounds and  more  contemporary  General  MIDI
+    (Musical Instrument Digital Interface) sounds.  The Company also introduced
+    EACT  (Expanded  Audio Capabilities) that allows churches  that  have  both
+    traditional and contemporary programs to utilize their Allen organ's  audio
+    capabilities  for playing back recorded music or amplifying  other  musical
+    instruments.   The introduction of the Allen Ensemble and EAC are  intended
+    to help maintain the organ as the cornerstone of church music programs.
+       Export  sales  increased approximately $577,000 during  the  year  ended
+    December  31,  2004  when  compared to 2003, which management  believes  is
+    attributable  to the decreased value of the US dollar compared  to  certain
+    foreign  currencies making the Company's products more affordable in  those
+    countries.   Export sales were approximately equal in 2003 when compared to
+    2002.   Certain  foreign  markets continue to be  affected  by  unfavorable
+    economic conditions.
+        Gross  profit margins on sales were 27.5%, 21.1% and 29.5% for the years
+    ended December 31, 2004, 2003 and 2002, respectively.  The 2004 increase is
+    attributable  to  the  higher sales volume, favorable product  mix  changes
+    caused  by  the  introduction of Quantum organs  and  the  effect  of  cost
+    reduction  efforts initiated to reduce material and other operating  costs.
+    The  2003  decrease  in gross profit margins was a result  of  lower  sales
+    volume  over  which  to  absorb  fixed costs  and  higher  operating  costs
+    including  employee pension expense, which increased by $597,000 (103%)  in
+    2003 versus 2002.
+       Selling  and  advertising expenses during 2004 were approximately  equal
+    to  2003  and decreased approximately $71,000 during 2003 when compared  to
+    2002,  due  to  lower  sales volume.  General and  administrative  expenses
+    increased  approximately  $108,000  during  2004  when  compared  to  2003,
+    primarily  due to higher fees incurred for professional services  including
+    legal  and  audit services.  General and administrative expenses  decreased
+    approximately $60,000 in 2003 when compared to 2002.
+       Research  and  development  expenses  decreased  approximately  $152,000
+    during  2004  compared  to 2003 primarily due to lower  retirement  benefit
+    costs  and  increased approximately $82,000 during 2003  when  compared  to
+    2002.
+       Several  of  the  Company's  operating  expenses  continue  to  rise  at
+    significant  rates  including business insurances,  medical  insurance  and
+    other  employee benefit expenses.  As discussed in Note 14 to the financial
+    statements,  effective December 31, 2003, the Company froze future  benefit
+    accruals  in  both of its defined benefit pension plans and  replaced  this
+    benefit  with  a  discretionary contribution to  the  Allen  Organ  Company
+    Savings and Profit Sharing Plan.
+       During 2005, management has implemented a profit sharing bonus plan  for
+    employees  at  its  Macungie,  PA  facility  which  contains  its   Musical
+    Instrument,  Electronic  Assemblies  and  Audio  Equipment  segments.   The
+    Company  will  contribute 10% of this plants operating income  to  eligible
+    employees.  The plan has been implemented to incent employees to work along
+    with  management  in  lowing  costs, improving processes  and  quality  and
+    improving the plants operating results.
+
+  Data Communications Segment
+       Domestic  sales increased $11,023,079 and $3,145,416 in 2004  and  2003,
+    respectively.   International  sales  increased  $7,934,709  in  2004  when
+    compared  to 2003, and decreased $3,659,334 in 2003 when compared to  2002.
+    The 2004 increases are due to higher order volume which management believes
+    is attributable to an improvement in the overall data communications market
+    and  the  timing  of completing sales with the Company's larger  customers.
+    Future  sales visibility for this segment has improved, but remains limited
+    throughout  the markets served by this segment.  The total 2003 sales  were
+    approximately equal to 2002.
+       Gross  profit  margins  were 58%, 56% and 50% in 2004,  2003  and  2002,
+    respectively.  The 2004 increase is due to higher sales volume,  reductions
+    in  product costs and changes in product mix.  In addition, the 2003  gross
+    margin  was  reduced  by approximately 3% due to an  accrual  for  warranty
+    costs.  The 2003 increase is due to favorable product mix changes offset by
+    an  $850,000  accrual  for warranty costs and also includes  $1,400,000  of
+    revenue  recognized on product software development for a  customer  during
+    the  second  quarter of 2003.  Excluding this product software  development
+    sale  the 2003 gross margin was 54%.  While the Company strives to maintain
+    profit  margins by developing products that offer desirable  features,  the
+    industry is very competitive which can negatively affect margins.
+                                      13
+
+Item 7.  Management's Discussion and Analysis of Financial Condition and
+         Results of Operations (Continued)
+    Data Communications Segment (Continued)
+       Selling  expenses increased approximately $2,138,000 (28%) in 2004  when
+    compared to 2003, primarily due to increases in ERI's domestic sales  force
+    ($983,000),   marketing  ($344,000)  and  higher  costs   associated   with
+    international   sales  efforts  ($621,000).   Selling  expenses   increased
+    approximately $823,000 in 2003 when compared to 2002, due to  increases  in
+    ERI's sales efforts both domestic and international.
+       Administrative expenses increased approximately $426,000 (15%)  in  2004
+    compared  to 2003, and increased approximately $50,000 in 2003 compared  to
+    2002.   These  increases  are  primarily due to additional  management  and
+    administrative personnel to support the segment's growth.
+       Research  and  development  expenses were  $12,465,063,  $7,173,393  and
+    $6,352,909  for  the  years  ended  December  31,  2004,  2003  and   2002,
+    respectively.   The 2004 increase is due primarily to additional  personnel
+    and  related  costs associated with the development of the  Company's  next
+    generation  products.   The  products under  development  are  expected  to
+    continue to serve emerging segments of the mobile and fixed network service
+    providers,  as well as private networks, and may also present  the  Company
+    with  a  much  broader market opportunity.  The 2003 increase  was  due  to
+    increased   expenditures  incurred  in  connection  with  the   July   2003
+    acquisition  of  Avail  Networks  and the  commencement  of  work  on  next
+    generation  products.  The segment is committed to new product  development
+    and expects these expenditures to increase during 2005.
+       The  combination  of higher sales and higher gross margins  resulted  in
+    operating income of $6,436,161, $2,446,213 and $2,091,520 during 2004, 2003
+    and  2002,  respectively, for this segment.  Future sales in  this  segment
+    have become increasingly dependent on larger sales opportunities that could
+    result  in the amount and timing of future revenue and operating income  to
+    be more volatile.  In addition, this segment will increase future operating
+    costs,  primarily  research  and development  to  develop  next  generation
+    products, which is expected to negatively impact future operating results.
+
+ Electronic Assemblies Segment
+       Sales  for  2004 were approximately equal to 2003, which  had  decreased
+    $1,930,503 compared to 2002.  The segment's order rate decreased in 2003 as
+    a  result  of  the  economic slowdown that affected the Company's  contract
+    manufacturing customers.  Management believes that its efforts to diversify
+    its  customer  base  and recent signs of improvement  in  the  economy  may
+    improve this segment's order rate in 2005.
+       The  gross  profit  margin  for  2004 was  5%  compared  to  a  loss  of
+    approximately  $(114,000)  (4%)  and  $(61,000)  (1%)  in  2003  and  2002,
+    respectively.  The 2004 increase is due to the Company's efforts  initiated
+    in 2003 to reduce its operating costs.  Selling, general and administrative
+    expenses  in 2004 were approximately equal to 2003 and 2002.  This  segment
+    continues  its  efforts to diversify its customer base and to  improve  its
+    production capabilities to offer state of the art manufacturing services to
+    its customers.
+
+ Audio Equipment Segment
+       Sales  decreased  $82,333 in 2004 and increased  $53,952  in  2003  when
+    compared  to  the  previous year.  Legacy Audio has historically  sold  its
+    products through a direct marketing program.  Management believes that this
+    method  of  distribution has limited its ability to penetrate  the  broader
+    market.   In  2002, Legacy began distributing its products through  a  more
+    traditional  dealer  network.   The Company has  added  independent  retail
+    dealers  and  will continue to do so in a conservative manner  to  build  a
+    quality  dealer network.  During this period, Legacy has shifted  marketing
+    resources to the new method of distribution.
+       Gross  profit  margins  were  20%, 35%, and  22%  for  the  years  ended
+    December  31,  2004,  2003 and 2002, respectively.  The  2004  decrease  is
+    primarily  due  to  changes  in products mix  and  $150,000  in  additional
+    inventory reserves recorded.
+       Selling,   general  and  administrative  costs  increased  approximately
+    $217,000  during 2004 when compared to 2003, primarily related to increased
+    marketing  and  advertising  costs  associated  with  the  introduction  of
+    Legacy's new products.  Selling, general and administrative costs decreased
+    approximately $29,000 in 2003 compared to the previous year, as a result of
+    steps  taken  to  reduce operating costs.  The Company has taken  steps  to
+    lower these costs in 2005.
+       As  discussed  in Note 7 of the Consolidated Financial Statements,  2004
+    operating expenses includes a charge of $362,611 related to the write  down
+    of  the  carrying value of Legacy's goodwill and intangibles.   This  write
+    down  is attributable to Legacy's past and continuing operating losses  and
+    its inability to significantly expand distribution of its products, all  of
+    which  reduced  expectations of future cash flows from Legacy's  operations
+    and correspondingly it estimated fair market value.
+                                      14
+
+Item 7.  Management's Discussion and Analysis of Financial Condition and
+         Results of Operations (Continued)
+
+ Significant Accounting Policies
+       The  significant  accounting policies of the Company  are  described  in
+    Note  1  of  the  Consolidated Financial Statements.   The  preparation  of
+    financial  statements  in conformity with accounting  principles  generally
+    accepted  in  the  United  State of America  requires  management  to  make
+    estimates  and assumptions that affect the reported amounts of  assets  and
+    liabilities  and  disclosures of contingent assets and liabilities  at  the
+    date  of  the financial statements and the reported amounts of revenue  and
+    expense during the reporting period.
+       Certain  accounting estimates and assumptions are particularly sensitive
+    because of their significance to the consolidated financial statements  and
+    the possibility that future events affecting them may differ markedly.
+       Management considers the following accounting estimates to be  the  most
+    critical  in  preparing  the  consolidated  financial  statements.    These
+    critical accounting estimates have been discussed with the Company's  audit
+    committee.
+         Allowance  for Doubtful Accounts:  Management performs ongoing  credit
+         evaluations of customers and adjusts credit limits based upon  payment
+         history and the customer's current credit worthiness, as determined by
+         a review of their current credit information.  Management continuously
+         monitors  collections  and  payments from customers  and  maintains  a
+         provision for estimated credit losses based upon historical experience
+         and any specific customer collection issues that have been identified.
+         If  the  financial condition of a specific customer or  the  Company's
+         general  customer base were to deteriorate, resulting in an impairment
+         of  their  ability  to  make payments, additional  allowances  may  be
+         required.
+
+         Carrying  Value  of Obsolete and Slow Moving Inventory:   The  Company
+         values inventory at the lower of cost or market.  Management regularly
+         reviews  inventory  quantities on-hand and  records  a  provision  for
+         excess  and obsolete inventory based primarily on estimated  forecasts
+         of  product demand and historical usage, after considering the  impact
+         of  new products.  If actual market conditions and product demand  are
+         less favorable than projected, additional inventory write-downs may be
+         required.
+
+         Carrying  Value of Goodwill and Intangible Assets:  In  assessing  the
+         recoverability  of  goodwill  and  intangible  assets,  management  is
+         required to make assumptions regarding estimated future cash flows and
+         other  factors  to determine whether the fair value  of  the  business
+         supports  the  carrying value of goodwill, intangible assets  and  net
+         operating  assets.  This analysis includes assumptions  and  estimates
+         about future sales, costs, working capital, capital expenditures,  and
+         cost  of  capital.  If these assumptions and estimates change  in  the
+         future,  the  Company may be required to record an  impairment  charge
+         related to goodwill and intangible assets.
+
+         Realization of Deferred Income Tax Benefits:  As discussed in Note  16
+         of  the  Consolidated Financial Statements, the Company  has  recorded
+         valuation  allowances related to the uncertainty of realizing  certain
+         federal  and  state net operating loss carryforwards and state  credit
+         carryforwards.  If the estimates and related assumptions  relating  to
+         the likely utilization of the deferred tax asset change in the future,
+         the valuation allowance may change accordingly.
+
+         Warranty  Reserve:  The Company provides warranties  on  some  of  its
+         products for varying lengths of time. A warranty liability is recorded
+         at the time of product sale based on estimates that are developed from
+         historical  information and certain assumptions about  future  events.
+         Future  warranty  obligations are affected by product  failure  rates,
+         usage and service costs incurred in addressing warranty claims.  These
+         factors are impacted by the level of new product introductions and the
+         mix  of  equipment  sold.  If actual warranty costs  differ  from  the
+         estimates, adjustments to the warranty liability would be required.
+                                      15
+
+Item 7.  Management's Discussion and Analysis of Financial Condition and
+         Results of Operations (Continued)
+     Contractual Obligations and Commercial Commitments
+       Following  is a summary of contractual obligations and other  commercial
+    commitments of the Company:
+                                                  Payments Due by Period
+                                             Less
+           Contractual                       than       1-3      4-5    After
+           Obligations           Total      1 year      years    years  5 years
+        Operating Leases(a)    $341,983    $339,508    $2,475     $0       $0
+        Purchase
+         Obligations (b)     $9,575,186  $9,189,880  $385,306     $0       $0
+
+
+                                   Amount of Commitment Expiration Per Period
+
+
+                                             Less
+        Other Commercial    Total Amounts    than       1-3      4-5    After
+           Commitments        Committed     1 year      years    years  5 years
+        Contingent Repurchase
+        Commitments Related to
+        Customer Financing
+        Arrangements (a)       $972,676    $972,676       $0      $0       $0
+
+
+
+(a)  Refer to Note 11 of the Consolidated Financial Statements for  more
+information regarding Operating Leases and Contingent Repurchase Commitments.
+
+(b)  Purchase Obligations are defined as agreements to purchase goods or
+services that are enforceable and legally binding and specify all significant
+terms.  The amounts listed above for purchase obligations include contractual
+commitments for items such as raw materials, supplies, services and capital
+expenditures.  Cancelable purchase obligations that the Company intends to
+fulfill are also included in the purchase obligations amount listed above.
+
+ Factors that May Affect Operating Results
+       The  statements  contained in this report on  Form  10-K  that  are  not
+    purely  historical  are forward looking statements within  the  meaning  of
+    Section 27A of the Securities Act of 1933 and Section 21E of the Securities
+    Exchange   Act  of  1934,  including  statements  regarding  the  Company's
+    expectations,  hopes,  intentions  or  strategies  regarding  the   future.
+    Forward looking statements include: statements regarding future products or
+    product  development; statements regarding future research and  development
+    spending  and the Company's marketing and product development strategy  and
+    statements  regarding  future  production capacity.   All  forward  looking
+    statements included in this document are based on information available  to
+    the  Company  on the date hereof, and the Company assumes no obligation  to
+    update  any such forward looking statements.  Readers are cautioned not  to
+    place  undue  reliance on these forward looking statements,  which  reflect
+    management's opinions only as of the date hereof.  Readers should carefully
+    review the risk factors described in other documents the Company files from
+    time  to  time  with the Securities and Exchange Commission, including  the
+    Quarterly  Reports on Form 10-Q to be filed by the Company in  fiscal  year
+    2005.   It  is  important to note that the Company's actual  results  could
+    differ  materially from those in such forward looking statements.  Some  of
+    the  factors that could cause actual results to differ materially  are  set
+    forth below.
+       The  Company  has  experienced and expects  to  continue  to  experience
+    fluctuations  in  its  results  of operations.   Factors  that  affect  the
+    Company's  results of operations include the volume and  timing  of  orders
+    received, changes in global economics and financial markets, changes in the
+    mix of products sold, market acceptance of the Company's and its customer's
+    products,  competitive pricing pressures, global currency  valuations,  the
+    availability  of  electronic  components that the  Company  purchases  from
+    suppliers,  the Company's ability to meet increasing demand, the  Company's
+    ability  to  introduce new products on a timely basis, the  timing  of  new
+    product  announcements and introductions by the Company or its competitors,
+    changing  customer requirements, delays in new product qualifications,  the
+    timing and extent of research and development expenses and fluctuations  in
+    manufacturing yields.  As a result of the foregoing or other factors, there
+    can  be  no  assurance  that  the  Company  will  not  experience  material
+    fluctuations  in future operating results on a quarterly or  annual  basis,
+    which  would  materially  and  adversely  affect  the  Company's  business,
+    financial condition and results of operations.
+                                      16
+
+Item  7. Management's Discussion and Analysis of Financial Condition and
+         Results of Operations (Continued)
+
+ New Accounting Standards
+       During  2004  the  Financial  Accounting  Standards  Board  issued   the
+    following  new  statements  that  are applicable  to  the  Company.   These
+    statements  did not have a material effect on the Company's 2004  financial
+    statements.
+       SFAS  123, (revised), "Share Based Payment" - establishes standards  for
+    the  accounting  for transactions in which an entity exchanges  its  equity
+    instruments  for goods or services. The Statement requires a public  entity
+    to  measure the cost of employee services received in exchange for an award
+    of equity instruments based on the grant-date fair value of the award. That
+    cost  will  be  recognized  over the period during  which  an  employee  is
+    required to provide service in exchange for the award-the requisite service
+    period (usually the vesting period).  This statement is effective as of the
+    beginning of the first interim reporting period that begins after June  15,
+    2005, which for the Company will be the third quarter of 2005.  The Company
+    does not expect that this revised statement will have a material effect  on
+    the Company's consolidated financial statements.
+       SFAS  151,  "Inventory Costs-an amendment of ARB No. 43,  Chapter  4"  -
+    clarifies  the  accounting for abnormal amounts of idle  facility  expense,
+    freight,  handling costs and wasted material.  In addition, this  Statement
+    requires  that  allocation of fixed production overheads to  the  costs  of
+    conversion  be  based on the normal capacity of the production  facilities.
+    This Statement is effective for the Company for inventory costs incurred on
+    or after January 1, 2006
+       SFAS  153,  "Exchange of Nonmonetary Assets-an amendment of APB  Opinion
+    No.  29" - This Statement amends the accounting for the exchange of similar
+    productive assets and replaces it with a general exception for exchanges of
+    nonmonetary  assets that do not have commercial substance.  This  Statement
+    is  effective for nonmonetary asset exchanges occurring on or after
+    January 1, 2006.
+       In   December  2003,  FASB  Statement  No.  132  (revised),   "Employers
+    Disclosures about Pensions and Other Postretirement Benefits", was  issued.
+    This  Statement prescribes employers' disclosures about pension  plans  and
+    other  postretirement benefit plans; it does not change the measurement  or
+    recognition of those plans.  The new annual disclosure requirements  became
+    effective  for  the Company as of the year ended December 31,  2004.   This
+    additional disclosure is included in Note 14 to the consolidated  financial
+    statements.
+
+Item 7A  Quantitative and Qualitative Disclosures About Market Risk.
+       Financial  instruments that potentially subject the  Company  to  market
+    and/or credit risk consist principally of short-term investments and  trade
+    receivables.   The Company places substantially all of its  investments  in
+    mutual  funds holding federal, state and local government obligations  and,
+    by policy, limits the amount of credit exposure in any one investment.  The
+    Company's  Musical Instruments segment sells most of its  products  through
+    established dealer networks.  The Data Communications segment sells most of
+    their  products directly to end-users, to wholesale and retail distributors
+    worldwide  and  to a smaller extent under OEM agreements  with  other  data
+    communications  companies.   The market and  credit  risk  associated  with
+    related  receivables  is limited due to the large  number  of  dealers  and
+    distributors  and their geographic dispersion.  The Company  has  no  other
+    material exposure to market risk.
+
+Item 8.  Financial Statements and Supplemental Data
+       The  information required by this Item is set forth on pages 18  through
+    39 hereto and is incorporated by reference herein.
+
+Item 9.  Changes in and Disagreements with Accountants on Accounting and
+          Financial Disclosure
+       There  were  no  reportable  events  as  described  in  Item  304(b)  of
+    Regulation S-K.
+
+Item 9A. Controls and Procedures
+       The  Company's Chief Executive Officer and Chief Financial Officer  have
+    evaluated  the  effectiveness of the design and operation of the  Company's
+    disclosure controls and procedures, which are designed to insure  that  the
+    Company  records,  processes,  summarizes  and  reports  in  a  timely  and
+    effective  manner the information required to be disclosed in  the  reports
+    filed  with or submitted to the Securities and Exchange Commission.   Based
+    upon this evaluation, they concluded that the Company's disclosure controls
+    are  effective  as of December 31, 2004.  There has been no change  in  the
+    Company's  internal control over financial reporting that  occurred  during
+    the  quarter  ended December 31, 2004 that has materially affected,  or  is
+    reasonably likely to materially affect, the Company's internal control over
+    financial reporting.
+
+Item 9B. Other Information
+       None
+
+                                      17
+<PAGE>
+KPMG
+4905 Tilghman Street
+Allentown, PA 18104
+
+             REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+
+The Board of Directors
+ and Stockholders
+Allen Organ Company:
+
+
+    We have audited the accompanying consolidated balance sheets of Allen Organ
+Company  and  Subsidiaries as of December 31, 2004 and  2003,  and  the related
+consolidated statements of income, stockholders' equity and cash flows and  the
+related  financial  statement schedule for each of the years in  the three-year
+period  ended  December 31, 2004.  These consolidated financial statements  and
+financial statement schedule are the responsibility of the management  of Allen
+Organ   Company.   Our  responsibility  is  to  express  an  opinion  on  these
+consolidated financial statements and financial statement schedule based on our
+audits.
+
+     We  conducted  our audits in accordance with the standards of  the  Public
+Company Accounting  Oversight Board (United States).  Those  standards  require
+that we plan and perform the audit to obtain reasonable assurance about whether
+the consolidated  financial statements are free of material  misstatement.   An
+audit includes examining, on a test basis, evidence supporting the amounts  and
+disclosures in the consolidated financial statements.  An audit  also  includes
+assessing  the accounting  principles used and significant  estimates  made  by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+     In  our  opinion, the consolidated financial statements referred to  above
+present fairly, in all material respects, the financial position of Allen Organ
+Company  and Subsidiaries as of December 31, 2004 and 2003, and the  results of
+their  operations and their cash flows for each of the years in  the three-year
+period  ended December 31, 2004, in conformity  with U.S. generally  accepted
+accounting principles. Also, in our opinion, the related  financial statement
+schedule, when considered in relation to the basic consolidated financial
+statements taken as a whole, presents  fairly, in  all material respects,
+the information set forth therein.
+
+
+
+
+
+/s/KPMG LLP
+Allentown, Pennsylvania
+February 24, 2005
+
+                                      18
+<PAGE>
+                      ALLEN ORGAN COMPANY AND SUBSIDIARIES
+                           CONSOLIDATED BALANCE SHEETS
+
+                                                           December 31,
+                     ASSETS                           2004             2003
+CURRENT ASSETS
+ Cash                                             $ 8,949,691      $ 5,907,576
+ Investments including accrued interest            18,338,350       17,143,171
+ Accounts receivable, net of allowance for
+  doubtful accounts of $ 445,804  in 2004
+  and $605,496 in 2003                             10,993,833       11,652,365
+ Inventories                                       15,619,326       13,926,173
+ Prepaid income taxes                               1,466,029             --
+ Prepaid expenses                                     532,175          491,444
+ Deferred income taxes                              2,045,087        2,741,167
+     Total Current Assets                          57,944,491       51,861,896
+
+PROPERTY, PLANT AND EQUIPMENT, NET                 10,878,469       10,167,004
+
+OTHER ASSETS
+ Note receivable from related party                 2,397,291        2,397,291
+ Cash value of life insurance                       2,822,638        2,474,002
+ Deferred income taxes                              3,700,899        3,493,238
+ Intangible assets, net                               682,258        1,347,822
+ Goodwill, net                                         24,701          194,523
+ Other assets                                          21,988           14,500
+     Total Other Assets                             9,649,775        9,921,376
+     Total Assets                                 $78,472,735      $71,950,276
+
+          LIABILITIES AND STOCKHOLDERS' EQUITY
+CURRENT LIABILITIES
+ Accounts payable                                 $ 3,285,659      $ 1,278,535
+ Accrued income taxes                                  --              657,941
+ Accrued expenses                                   4,882,754        3,811,025
+ Customer deposits                                  2,832,174        2,197,393
+     Total Current Liabilities                     11,000,587        7,944,894
+NONCURRENT LIABILITIES
+ Deferred and other noncurrent liabilities          1,529,890        1,946,696
+ Accrued pension costs                              6,012,185        5,693,853
+     Total Noncurrent Liabilities                   7,542,075        7,640,549
+     Total Liabilities                             18,542,662       15,585,443
+
+MINORITY INTEREST                                      41,927             --
+COMMITMENTS AND CONTINGENCIES
+STOCKHOLDERS' EQUITY
+ Class A Voting Common stock, $1 par value,
+  400,000 shares authorized, 127,232 shares issued    127,232          127,232
+ Class B Non-Voting Common stock, $1 par value,
+  3,600,000 shares authorized,
+   1,410,761 shares issued                          1,410,761        1,410,761
+ Additional paid-in capital                        13,197,610       13,150,610
+ Retained earnings                                 62,076,690       58,015,139
+ Accumulated other comprehensive loss              (4,417,842)      (3,832,694)
+ Treasury stock, at cost, 43,368 Class A shares
+  in 2004 and 2003, 338,382  Class B shares in 2004
+  and 338,380 in 2003                             (12,506,305)     (12,506,215)
+     Total Stockholders' Equity                    59,888,146       56,364,833
+     Total Liabilities and Stockholders' Equity   $78,472,735      $71,950,276
+
+          See accompanying notes to Consolidated Financial Statements.
+                                      19
+<PAGE>
+              ALLEN ORGAN COMPANY AND SUBSIDIARIES
+                CONSOLIDATED STATEMENTS OF INCOME
+
+                                           Years Ended December 31,
+                                        2004           2003           2002
+
+NET SALES                           $80,170,788    $60,788,058    $67,739,548
+
+COSTS AND EXPENSES
+  Cost of sales                      41,653,317     35,693,613     41,963,839
+  Selling, administrative and other
+   expenses                          18,424,333     15,390,231     14,886,291
+  Research and development           13,948,340      8,785,522      7,782,571
+  Other expense                          52,963         29,195         26,825
+  Impairment of goodwill and
+   intangibles                          362,611           --             --
+ Total                               74,441,564     59,898,561     64,659,526
+
+INCOME FROM OPERATIONS                5,729,224        889,497      3,080,022
+
+INVESTMENT INCOME                       392,750        432,399        716,335
+
+MINORITY INTERESTS IN CONSOLIDATED
+  SUBSIDIARY                            (41,927)          --             --
+
+INCOME  BEFORE INCOME TAXES           6,080,047      1,321,896      3,796,357
+
+INCOME TAXES
+  Current                               533,000        571,000      1,669,000
+  Deferred                              838,000       (646,000)      (558,000)
+   Total                              1,371,000        (75,000)     1,111,000
+
+NET INCOME                          $ 4,709,047    $ 1,396,896    $ 2,685,357
+
+OTHER COMPREHENSIVE LOSS,
+  NET OF TAX
+  Unrealized (loss) gain on investments:
+   Unrealized (loss) gain arising
+    during period                   $   (47,865)   $   (26,898)   $   132,305
+   Less: reclassified adjustment
+   for gain (loss) included in
+   income                                    12          2,495        (97,186)
+ Sub-total                              (47,853)       (24,403)        35,119
+ Minimum pension liability adjustment  (537,295)      (347,828)    (2,121,282)
+Other comprehensive loss               (585,148)      (372,231)    (2,086,163)
+COMPREHENSIVE INCOME                $ 4,123,899    $ 1,024,665    $   599,194
+
+EARNINGS PER SHARE OF COMMON STOCK
+  BASIC                             $      4.07    $      1.20    $      2.29
+  DILUTED                           $      4.06    $      1.20    $      2.29
+
+  See accompanying notes to Consolidated Financial Statements.
+                                      20
+<PAGE>
+                     ALLEN ORGAN COMPANY AND SUBSIDIARIES
+                CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+
+
+                                      Common Stock                   Additional
+                               Class A              Class B          Paid-in
+                           Shares    Amount     Shares    Amount     Capital
+
+Balance-December 31,2001  127,232  $127,232  1,410,761  $1,410,761  $12,903,610
+Tax benefit from
+ exercise of subsidiary
+ stock options                                                           58,000
+Balance-December 31,2002  127,232   127,232  1,410,761   1,410,761   12,961,610
+Tax benefit from
+ exercise ofsubsidiary
+ stock options                                                          189,000
+Balance-December 31,2003  127,232   127,232  1,410,761   1,410,761   13,150,610
+Tax benefit from
+ exercise of subsidiary
+ stock options                                                           47,000
+Balance-December 31,2004  127,232  $127,232  1,410,761  $1,410,761  $13,197,610
+
+
+
+                                        Accumulated
+                                          Other
+                           Retained    Comprehensive      Treasury Stock
+                           Earnings    Income (Loss)     Shares      Amount
+
+Balance-December 31,2001  $55,237,713  $(1,374,300)    367,672    $(11,990,001)
+
+Net income                  2,685,357
+Reacquired Class B Shares                                  261         (10,570)
+Change in unrealized gain
+ (loss) on securities
+ available for sale                         35,119
+Minimum pension
+ liability adjustment                   (2,121,282)
+Cash dividend paid
+ ($0.56 per share)           (655,307)
+Balance-December 31,2002   57,267,763   (3,460,463)    367,933     (12,000,571)
+
+Net income                  1,396,896
+Reacquired Class B Shares                               13,815        (505,644)
+Change in unrealized gain
+ (loss) on securities
+ available for sale                        (24,403)
+Minimum pension
+ liability adjustment                     (347,828)
+Cash dividend paid
+ ($0.56 per share)           (649,520)
+Balance-December 31,2003   58,015,139   (3,832,694)    381,748     (12,506,215)
+
+Net income                  4,709,047
+Reacquired Class B Shares                                    2             (90)
+Change in unrealized
+ loss on securities
+  available for sale                       (47,853)
+Minimum pension
+ liability adjustment                     (537,295)
+Cash dividend paid
+ ($0.56 per share)           (647,496)
+Balance-December 31,2004  $62,076,690  $(4,417,842)    381,750     $12,506,305
+
+         See accompanying notes to Consolidated Financial Statements.
+                                      21
+
+<PAGE>
+                     ALLEN ORGAN COMPANY AND SUBSIDIARIES
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                                  Years Ended December 31,
+                                            2004         2003          2002
+CASH FLOWS FROM OPERATING ACTIVITIES
+ Net income                              $4,709,047   $1,396,896    $2,685,357
+ Adjustments to reconcile net income to
+  net cash provided by
+  operating activities
+  Depreciation and amortization           2,480,881    2,518,612     2,801,512
+  Minority interest in consolidated
+   subsidiary                                41,927        --            --
+  Loss from impairment of goodwill and
+   intangibles                              362,611        --            --
+  (Gain) loss on sale of property,
+   plant and equipment                         (378)      16,554        55,184
+  Loss (gain) on sale of investments           --          4,000      (156,248)
+  Tax benefit from exercise of stock
+   options                                   47,000      189,000        58,000
+  Deferred income taxes                     838,000     (624,135)     (518,984)
+  Change in assets and liabilities
+   Accounts receivable                      658,532      532,199    (2,236,722)
+   Inventories                           (1,693,153)   2,297,509     1,073,475
+   Prepaid income taxes                  (1,466,029)     161,071       945,143
+   Prepaid expenses                         (40,731)    (172,501)       67,478
+   Other assets                              (7,488)       1,592         --
+   Accounts payable                       2,007,124   (4,410,432)    2,938,716
+   Accrued income taxes                    (657,941)     657,941         --
+   Accrued expenses                       1,071,729    1,172,769       665,104
+   Customer deposits                        634,781     (496,587)     (284,043)
+   Accrued pension costs                   (544,045)     144,349      (175,071)
+   Deferred and other noncurrent
+    liabilities                            (416,806)     917,911       321,016
+     Net Cash Provided by
+      Operating Activities                8,025,061    4,306,748     8,239,917
+
+CASH FLOWS FROM INVESTING ACTIVITIES
+ Cash proceeds from sale of investments
+  classified as available for sale          791,464      526,866    30,633,381
+ Cash paid for purchase of investments
+  classified as available for sale       (2,058,995)    (521,690)  (36,009,348)
+ Increase in cash value of life
+  insurance                                (348,636)    (200,839)      (99,597)
+ Increase in note receivable                   --            --       (400,184)
+ Payment for acquisition of business           --       (200,000)        --
+ Cash proceeds from sale of property,
+  plant and equipment                         7,000        5,100       319,155
+ Cash paid for purchase of property,
+  plant and equipment                    (2,743,457)  (1,063,231)   (1,898,586)
+   Net Cash Used In Investing
+    Activities                           (4,352,624)  (1,453,794)   (7,455,179)
+
+CASH FLOWS FROM FINANCING ACTIVITIES
+ Dividends paid in cash                    (647,496)    (649,520)     (655,307)
+ Reacquired Class B common shares               (90)    (505,644)      (10,570)
+ Subsidiary company stock reacquired
+  from minority stockholders                (24,939)    (448,659)      (89,386)
+ Proceeds from sale of subsidiary stock      42,203      143,256        35,716
+  Net Cash Used in Financing Activities    (630,322)  (1,460,567)     (719,547)
+
+NET INCREASE IN CASH                      3,042,115    1,392,387        65,191
+
+CASH, JANUARY 1                           5,907,576    4,515,189     4,449,998
+
+CASH, DECEMBER 31                        $8,949,691   $5,907,576    $4,515,189
+
+
+            SUPPLEMENTAL DISCLOSURES OF CASH FLOWS INFORMATION
+
+Cash paid (refunded) for income taxes    $2,619,970   $ (439,012)   $  750,008
+Cash paid for interest                   $   --       $   --        $    --
+The above changes in assets and
+ liabilities excludes the following
+ adjustments related to the minimum
+ pension liability.
+Accumulated other comprehensive income   $  537,295   $  347,828    $2,121,282
+Deferred income tax benefits                325,082      195,128     1,312,295
+Accrued pension costs                      (862,377)    (542,956)   (3,433,577)
+
+         See accompanying notes to Consolidated Financial Statements.
+                                      22
+<PAGE>
+                     ALLEN ORGAN COMPANY AND SUBSIDIARIES
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTE 1 Background and Significant Accounting Policies
+
+     Background:
+        Allen  Organ  Company  and  Subsidiaries  (Company)  operate  in   four
+     industry  segments:  Musical Instruments, Data Communications,  Electronic
+     Assemblies,  and Audio Equipment.  See Note 21 for additional  information
+     on the operating activities of each segment.
+
+     Principles of Consolidation:
+        The  consolidated  financial statements include  the  accounts  of  the
+     Company  and  its wholly-owned subsidiaries (Allen Diversified,  Inc.  and
+     Legacy Audio, Inc.) and majority-owned (91%) subsidiary (Eastern Research,
+     Inc.).    In  addition,  the  Company  has  other  inactive,  wholly-owned
+     subsidiaries.   All  material intercompany accounts and transactions  have
+     been eliminated.
+
+     Use of Estimates:
+        The  preparation of financial statements in conformity  with  generally
+     accepted accounting principles in the United States requires management to
+     make  estimates and assumptions that affect the reported amounts of assets
+     and liabilities and disclosure of contingent assets and liabilities at the
+     date of the financial statements and the reported amounts of revenues  and
+     expenses  during  the reported period.  Actual results could  differ  from
+     those estimates.
+
+     Cash Equivalents:
+        Cash equivalents of $5,861,878 and $1,556,578 at December 31, 2004  and
+     2003,  respectively, consist of money market funds.  For purposes  of  the
+     consolidated  statements of cash flows, the Company considers  all  highly
+     liquid  debt instruments with original maturities of three months of  less
+     to be cash equivalents.
+
+     Investments:
+        Investment  securities at December 31, 2004 and 2003  consist  of  U.S.
+     Treasury   and  equity  securities.   The  Company  classifies  its   debt
+     securities  in one of three categories: trading, available  for  sale,  or
+     held  to maturity and its equity securities into trading or available  for
+     sale.   Trading securities are bought and held principally for the purpose
+     of  selling  them in the near term.  Held to maturity debt securities  are
+     those  securities in which the Company has the ability and intent to  hold
+     the security until maturity.  All other securities not included in trading
+     or held to maturity are classified as available for sale.  The Company has
+     no trading or held to maturity securities.
+        Available-for-sale securities are recorded at fair  value.   Unrealized
+     holding gains and losses, net of the related tax effect, on available-for-
+     sale  securities are excluded from earnings and are reported as a separate
+     component  of  other comprehensive income until realized.  Realized  gains
+     and  losses  from the sale of available-for-sale securities are determined
+     on a specific-identification basis.
+        A  decline in the market value of any available-for-sale security below
+     cost  that is deemed to be other-than-temporary results in a reduction  in
+     carrying amount to fair value.  The impairment is charged to earnings  and
+     a new cost basis for the security is established.  To determine whether an
+     impairment is other-than-temporary, the Company considers whether  it  has
+     the  ability  and  intent  to hold the investment  until  a  market  price
+     recovery  and  considers  whether evidence  indicating  the  cost  of  the
+     investment  is  recoverable outweighs evidence to the contrary.   Evidence
+     considered in this assessment includes the reasons for the impairment, the
+     severity  and  duration of the impairment, changes in value subsequent  to
+     year-end, and forecasted performance of the investee.
+        Premiums and discounts are amortized or accreted over the life  of  the
+     related  available-for-sale security as an adjustment to yield  using  the
+     effective-interest  method.  Dividend and interest income  are  recognized
+     when earned.
+
+     Accounts Receivable Allowance:
+         The   Company   records   an  allowance  for  uncollectible   accounts
+     receivable based on historical loss experience, customer payment  patterns
+     and  current  economic trends.  Management reviews  the  adequacy  of  the
+     allowance for uncollectible accounts receivable on a quarterly basis  and,
+     if necessary, increases or decreases the allowance.
+                                      23
+
+                     ALLEN ORGAN COMPANY AND SUBSIDIARIES
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE 1 Background and Significant Accounting Policies (Continued)
+     Inventories:
+        Inventories  are  valued  at the lower of  cost  or  market.   Cost  is
+     determined  using  the  first-in,  first-  out  (FIFO)  method   for   all
+     inventories.
+
+     Property, Plant and Equipment:
+        Property,  plant  and  equipment are stated at cost.   Depreciation  is
+     computed  over  the estimated useful asset lives using both  straight-line
+     and  accelerated  methods for financial reporting and accelerated  methods
+     for tax reporting purposes.
+
+     Goodwill and Intangible Assets:
+        Goodwill  represents the excess of costs over fair value of  assets  of
+     businesses  acquired. The Company accounts for its goodwill and intangible
+     assets  in  accordance  with Statement of Financial  Accounting  Standards
+     (SFAS)  No.  142,  "Goodwill and Other Intangible  Assets".  Goodwill  and
+     intangible  assets  acquired  in  a  purchase  business  combination   and
+     determined  to  have  an  indefinite useful life are  not  amortized,  but
+     instead  tested  for impairment at least annually in accordance  with  the
+     provisions  of  SFAS No. 142.  SFAS No. 142 also requires that  intangible
+     assets  with  useful  lives be amortized over their  respective  estimated
+     useful  lives  to  their  estimated  residual  values,  and  reviewed  for
+     impairment in accordance with SFAS No. 144, "Accounting for Impairment  or
+     Disposal of Long-Lived Assets".
+        Intangible  assets  represent  identifiable  assets  such  as  customer
+     lists, developed technology and trademarks acquired in connection with the
+     purchase  of the Company's subsidiaries.  Intangible assets are  amortized
+     on  a  straight-line basis over various periods, generally  from  5  -  15
+     years,   and  are  presented  net  of  accumulated  amortization  on   the
+     consolidated balance sheets.
+        The  carrying value of goodwill and intangible assets for each business
+     is   continually  reviewed  to  assess  its  recoverability  from   future
+     operations,  based  on  future cash flows (undiscounted)  expected  to  be
+     generated  by such operations.  Any impairment in value indicated  by  the
+     assessment  would be computed based on discounted cash flows  and  charged
+     against current operations.
+
+     Revenue Recognition:
+        The  Company  recognizes  revenue when products  are  shipped  and  the
+     customer  takes  ownership and assumes risk of  loss,  collection  of  the
+     relevant  receivable is probable, persuasive evidence  of  an  arrangement
+     exists and the sales price is fixed or determinable.  Service revenues are
+     recognized  when the services are performed. Service revenues are  derived
+     from providing extended warranties to customers, equipment maintenance and
+     repairs,  engineering  and  hardware  support,  and  subcontract  assembly
+     services.  Deferred  revenues represent cash received  from  customers  in
+     advance of revenues being recognized for the related payment.
+        Sales  are  recorded net of anticipated product returns.  The estimated
+     product  returns are based on a historical analysis and are recorded  when
+     the associated product revenue is recognized.
+
+     Research and Development and Advertising:
+        Research  and development and advertising expenditures are  charged  to
+     expense  as  incurred.  Research and development expenses  are  separately
+     disclosed  in the consolidated statements of operations while  advertising
+     costs  were  $459,812,  $278,327, and $333,695 in  2004,  2003  and  2002,
+     respectively.
+
+     Income Taxes:
+        Income  taxes  are accounted for under the asset and liability  method.
+     Deferred  tax  assets and liabilities are recognized for  the  future  tax
+     consequences  attributable to differences between the financial  statement
+     carrying  amounts of existing assets and liabilities and their  respective
+     tax  bases and operating loss and tax credit carryforwards.  Deferred  tax
+     assets  and  liabilities are measured using enacted tax rates expected  to
+     apply  to taxable income in the years in which those temporary differences
+     are  expected  to  be recovered or settled.  The effect  on  deferred  tax
+     assets and liabilities of a change in tax rates is recognized in income in
+     the period that includes the enactment date.
+                                      24
+
+                     ALLEN ORGAN COMPANY AND SUBSIDIARIES
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+NOTE 1 Background and Significant Accounting Policies (Continued)
+     Financial Instruments:
+        Financial  instruments that potentially subject the Company  to  credit
+     risk  consist principally of short-term investments and trade receivables.
+     The  Company  places substantially all of its investments in mutual  funds
+     holding  federal, state and local government obligations and,  by  policy,
+     limits the amount of credit exposure in any one investment.  The Company's
+     Musical Instruments segment sells most of its products through established
+     dealer  networks.   The  Data Communications segment  sells  most  of  its
+     products  direct to customers, to distributors worldwide and to  a  lesser
+     extent under OEM agreements with other data communications companies.  The
+     credit  risk  associated with related receivables is limited  due  to  the
+     large number of customers and their geographic dispersion.
+
+     Reclassifications:
+        Certain  amounts  in the 2003 and 2002 financial statements  have  been
+     reclassified to conform to the 2004 presentation.
+
+     New Accounting Standards:
+        During  2004  the  Financial  Accounting  Standards  Board  issued  the
+     following  new  statements  that are applicable  to  the  Company.   These
+     statements did not have a material effect on the Company's 2004  financial
+     statements.
+        SFAS 123, (revised), "Share Based Payment" - establishes standards  for
+     the  accounting for transactions in which an entity exchanges  its  equity
+     instruments for goods or services. The Statement requires a public  entity
+     to measure the cost of employee services received in exchange for an award
+     of  equity  instruments based on the grant-date fair value of  the  award.
+     That  cost will be recognized over the period during which an employee  is
+     required  to  provide  service  in exchange for  the  award-the  requisite
+     service  period (usually the vesting period).  This statement is effective
+     as  of  the  beginning of the first interim reporting period  that  begins
+     after  June  15, 2005, which for the Company will be the third quarter  of
+     2005.  The Company does not expect that this revised statement will have a
+     material effect on the Company's consolidated financial statements.
+        SFAS  151,  "Inventory Costs-an amendment of ARB No. 43, Chapter  4"  -
+     clarifies  the  accounting for abnormal amounts of idle facility  expense,
+     freight,  handling costs and wasted material.  In addition, this Statement
+     requires  that allocation of fixed production overheads to  the  costs  of
+     conversion  be based on the normal capacity of the production  facilities.
+     This  Statement is effective for the Company for inventory costs  incurred
+     on or after January 1, 2006
+        SFAS  153, "Exchange of Nonmonetary Assets-an amendment of APB  Opinion
+     No. 29" - This Statement amends the accounting for the exchange of similar
+     productive  assets and replaces it with a general exception for  exchanges
+     of  nonmonetary  assets  that  do  not have  commercial  substance.   This
+     Statement  is  effective for nonmonetary asset exchanges occurring  on  or
+     after January 1, 2006.
+        In   December  2003,  FASB  Statement  No.  132  (revised),  "Employers
+     Disclosures about Pensions and Other Postretirement Benefits", was issued.
+     This  Statement prescribes employers' disclosures about pension plans  and
+     other postretirement benefit plans; it does not change the measurement  or
+     recognition of those plans.  The new annual disclosure requirements became
+     effective  for the Company as of the year ended December 31,  2004.   This
+     additional disclosure is included in Note 14.
+                                      25
+
+                     ALLEN ORGAN COMPANY AND SUBSIDIARIES
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+NOTE 1 Background and Significant Accounting Policies (Continued)
+     Stock-Based Compensation:
+        The  Company accounts for its stock-based compensation plans using  the
+     accounting  prescribed  by Accounting Principles  Board  Opinion  No.  25,
+     "Accounting  for  Stock Issued to Employees".  Since the  Company  is  not
+     required  to adopt the fair value based recognition provisions  prescribed
+     under  Statement of Financial Accounting Standards No. 123, as amended  by
+     SFAS  No.  148,  "Accounting  for  Stock-Based  Compensation",  only   the
+     disclosure requirements set forth in the Statements are presented.
+        Had  compensation  cost  been determined on the  basis  of  fair  value
+     pursuant  to  SFAS  No. 123, as amended by SFAS No. 148,  net  income  and
+     earnings per share would have been as follows:
+                                            2004         2003          2002
+      Net income
+        As reported                      $4,709,047   $1,396,896    $2,685,357
+        Stock-based employee compensation
+        expense included in reported net
+        income, net of tax                   71,693       90,402        35,661
+
+        Total stock-based employee
+        compensation expense determined under
+        fair value based method for all awards,
+        net of related tax effects             (653)    (121,859)     (105,035)
+          Pro forma                      $4,780,087   $1,365,439    $2,615,983
+      Earnings per share
+        As reported
+          Basic                               $4.07        $1.20         $2.29
+          Diluted                             $4.06        $1.20         $2.29
+        Pro forma
+          Basic                               $4.13        $1.18         $2.23
+          Diluted                             $4.12        $1.18         $2.23
+
+        The  fair  value of each option granted is estimated on the grant  date
+     using  the  Black-Scholes option pricing model.  The following assumptions
+     were  made in estimating the fair value of options granted under the Allen
+     Organ  Company  stock option plan in 2004 and 2002; there were  no  option
+     grants under the Allen Organ Company stock option plan in 2003.
+                                           2004      2002
+           Dividend yield                  1.40%     1.40%
+           Risk-free interest rate         2.25%     2.50%
+           Expected life                 6 years   7 years
+           Expected volatility               25%       10%
+
+NOTE 2 Business Acquisition
+        On  July  24,  2003, the Company's subsidiary, Eastern  Research,  Inc.
+     (ERI),  purchased the assets of Avail Networks, Inc. (Avail)  in  exchange
+     for $200,000 in cash and contingent payments of 5% of net revenues related
+     to  the sale of Avail products in excess of $1,500,000 during the first 30
+     months  after  the  acquisition.   ERI  has  not  paid  any  royalties  in
+     connection with this acquisition and does not expect that revenue  related
+     to  the  sales  of  Avail  products during the  30  months  following  the
+     acquisition  will  exceed $1,500,000, the amount after which  any  royalty
+     would be due.
+        Avail's  sales  prior to the acquisition date were minimal.   As  such,
+     pro-forma financial information is not required for this acquisition.
+        The  purchase  price was allocated $114,300 to property  and  equipment
+     and $85,700 to intangibles.
+                                      26
+
+                     ALLEN ORGAN COMPANY AND SUBSIDIARIES
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+NOTE 3  Investments
+
+       The  cost  and  fair value of investments in debt and equity  securities
+       are as follows:
+
+
+                                           Gross         Gross         Fair
+                          Amortized       Unrealized   Unrealized     Value
+                            Cost            Gains        Losses
+
+      December 31, 2004
+      Available for sale
+      Equity securities  $   29,310      $     --       $     50   $    29,260
+      Mutual Funds
+       Short Term Gov't
+        Funds             3,318,087            --         72,088     3,245,999
+       Municipal  Bond
+        Funds            15,049,871            --         46,056    15,003,815
+       Equity Funds          57,213          2,063           --         59,276
+      Totals            $18,454,481      $   2,063      $118,194   $18,338,350
+
+      December 31, 2003
+      Available for sale
+      Equity securities  $   29,310      $     --       $     50   $    29,260
+      Mutual Funds
+       Short Term Gov't
+        Funds             2,281,775            --         36,422     2,245,353
+       Municipal  Bond
+        Funds            14,840,033            --          6,593    14,833,440
+       Equity Funds          35,832            --            714        35,118
+      Totals            $17,186,950      $     --       $ 43,779   $17,143,171
+
+        Marketable  debt  securities have an average  contractual  maturity  of
+     approximately 1 year or less.
+        Realized gains and losses are determined based on the original cost  of
+     these  investments using a first-in, first-out method.  During 2004,  2003
+     and 2002, sales proceeds and gross realized gains and losses on securities
+     classified as available for sale were:
+
+                                  2004           2003           2002
+
+     Sales proceeds           $ 791,464      $ 526,866      $30,633,381
+
+     Gross realized losses    $      --      $   4,000      $   379,804
+
+     Gross realized gains     $      --      $      --      $   536,052
+
+        The  change  in  net  unrealized  holding  (loss)  gain  on  securities
+     available  for sale of $(72,352) $(36,537), and $55,961, net  of  deferred
+     tax  (benefit)  expense  of $(24,499), $(12,134), and  $20,842,  has  been
+     included  in accumulated other comprehensive loss in stockholders'  equity
+     for the years ended December 31, 2004, 2003, and 2002, respectively.
+                                      27
+
+                     ALLEN ORGAN COMPANY AND SUBSIDIARIES
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+NOTE 4 Inventories
+                                                 December 31,
+                                              2004         2003
+           Finished goods                  $5,685,024   $3,945,007
+           Work in process                  5,535,795    5,525,106
+           Raw materials                    4,398,507    4,456,060
+            Total                         $15,619,326  $13,926,173
+
+           Inventory is net of allowance for obsolete and slow moving items  of
+       $3,134,223 and $3,851,749 at December 31, 2004 and 2003, respectively.
+           Finished  goods  consist  primarily  of  completed  organs,  speaker
+       cabinets and completed data communications products.
+
+NOTE 5 Property, Plant and Equipment
+                                                                    Estimated
+                                                December 31,         Useful
+                                             2004         2003       Lives
+           Land and improvements         $ 2,369,298  $ 2,369,298    10 yrs
+           Buildings and improvements      9,502,949    9,085,523    2 - 40 yrs
+           Machinery and equipment        12,411,711   11,263,861    5 - 10 yrs
+           Office furniture and equipment  6,480,353    5,385,231    3 - 8  yrs
+           Vehicles                          212,453      179,369    4 yrs
+            Sub-total                     30,976,764   28,283,282
+           Less accumulated depreciation  20,098,295   18,116,278
+            Total                        $10,878,469  $10,167,004
+
+           Depreciation   expense   charged  to  operations   was   $2,025,370,
+       $1,846,367 and $2,158,302 in 2004, 2003 and 2002, respectively.
+
+NOTE 6 Note Receivable
+           The  Company  has  entered  into  two  split-dollar  life  insurance
+       agreements  with  its President, who is the insured  and  owner  of  the
+       policies.   The  policy  owner is required to pay  the  portion  of  the
+       premiums  equal  to  the  value of the economic  benefit  determined  in
+       accordance  with applicable IRS Revenue Rulings.  Due to rules  included
+       in  the  Sarbanes-Oxley Act of 2002 prohibiting  the  payment  of  these
+       types  of  premiums, the Company did not pay any insurance  premiums  in
+       2004  or  2003 related to these split-dollar agreements.  In  the  past,
+       the  Company  paid  the balance of the net premiums, which  approximates
+       $450,000 annually.
+           The  agreements  provide  that  the Company  shall  be  entitled  to
+       recover the amount of premiums paid out of the built-up cash value  upon
+       termination  of the agreement or out of the proceeds upon the  death  of
+       the  insured.   As security for repayment, the Company is  a  collateral
+       assignee  of the policy to the extent of any such unreimbursed premiums.
+       The  note receivable is also secured by the personal obligation  of  its
+       President.   The  note receivable exceeds the cash  surrender  value  of
+       these  policies by approximately $457,000 and $431,000 at  December  31,
+       2004  and 2003, respectively.  However, the Company's President  has  an
+       adequate level of personal net assets to cover these amounts.
+                                      28
+
+                     ALLEN ORGAN COMPANY AND SUBSIDIARIES
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+NOTE 7 Intangible Assets
+           Intangible assets subject to amortization are as follows:
+
+                      December 31, 2004       December 31, 2003
+
+                                                                     Weighted
+                    Gross                   Gross                     Average
+                  Carrying  Accumulated    Carrying   Accumulated  Amortization
+                   Amount   Amortization    Amount    Amortization     Period
+
+
+Customer Lists  $  105,679   $  105,679   $  105,679  $   87,583      7 years
+Developed
+ Technology      4,643,246    3,960,988    4,660,509   3,515,220      5 years
+Trademark          278,396      278,396      278,396      93,959     20 years
+ Total          $5,027,321   $4,345,063   $5,044,584  $3,696,762
+
+        Amortization expense was $455,511, $672,245 and $643,210 in 2004,  2003
+     and  2002, respectively.  Estimated amortization expense for the next five
+     years is as follows:
+
+              2005                    $224,856
+              2006                     167,605
+              2007                     136,356
+              2008                      87,875
+              2009                      65,566
+
+        As  discussed in Note 2, in July 2003, ERI acquired the assets of Avail
+     Networks  for  $200,000,  which  included  $85,700  of  intangible  assets
+     allocated  to developed technology and will be amortized over five  years.
+     In  addition,  intangible assets of $(17,264), $305,403 and  $53,670  were
+     recorded  in 2004, 2003 and 2002, respectively, in connection  with  stock
+     transactions with minority stockholders of ERI.
+        During  June 2004, the Company recorded a charge to operating  expenses
+     of  $362,611  related to the impairment in the carrying value of  goodwill
+     ($169,822) and intangibles ($192,789) which arose in connection  with  the
+     acquisition  of  Legacy Audio, Inc.  This write down  is  attributable  to
+     Legacy's  past  and  continuing operating  losses  and  its  inability  to
+     significantly  expand distribution of its products, all of  which  reduced
+     expectations   of   future  cash  flows  from  Legacy's   operations   and
+     correspondingly its estimated fair market value.
+
+NOTE 8 Accrued Expenses
+                                                          December 31,
+                                                       2004         2003
+           Accrued salaries and commissions        $2,279,036   $1,876,287
+           Accrued warranty costs                     555,000      970,000
+           Deferred revenue                           535,113      405,959
+           Accrued profit sharing contribution        826,640      248,349
+           Other                                      686,965      310,430
+             Total                                 $4,882,754   $3,811,025
+                                     29
+
+                     ALLEN ORGAN COMPANY AND SUBSIDIARIES
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+NOTE 9 Deferred and Other Noncurrent Liabilities
+                                                            December 31,
+                                                          2004       2003
+           Deferred compensation (see Note 14 and 18)   $  925,157  $1,190,549
+           Deferred revenue                                254,940     516,147
+           Accrued warranty costs                          349,793     240,000
+             Total                                      $1,529,890  $1,946,696
+
+NOTE 10    Warranty Costs
+        The  Musical  Instruments segment provides a 10 year  warranty  on  its
+     organs, the Data Communications segment provides a 2 year warranty on  all
+     of  its  data  communication products, the Electronic  Assemblies  segment
+     provides  a  1  year  warranty  on  assemblies  manufactured  for  outside
+     customers  and the Audio Equipment segment provides a 5 year  warranty  of
+     its  line  of home audio speakers.  The Company's policy is to accrue  the
+     estimated cost of warranty coverage at the time the sale is recorded.  The
+     activity in the warranty accrual is summarized as follows:
+                                                           December 31,
+                                                       2004            2003
+           Accrual at beginning of year            $1,210,000      $  300,000
+           Revision to prior year estimate           (298,105)           --
+           Additions charged to warranty expense      315,000       1,080,357
+           Claims paid and charged against
+             the accrual                             (322,102)       (170,357)
+           Accrual at end of year                  $  904,793      $1,210,000
+
+NOTE 11    Commitments and Contingencies
+        As  of  December  31, 2004, the Company is contingently  liable  for  a
+     maximum  amount of approximately $973,000 in connection with the financing
+     arrangements of certain customers.
+        Under the terms of an agreement with the wife of the late Chairman  and
+     principal  stockholder  of the Company, the Company  may  be  required  to
+     purchase  within eight months of her death, at the option of her  personal
+     representative, an amount of Class A and/or B Common Shares then owned  by
+     her or includable in her estate for Federal Estate Tax purposes sufficient
+     to  pay estate taxes and costs, subject to the limitations of Section  303
+     of the Internal Revenue Code.  At December 31, 2004, the stockholder owned
+     or  would have includable in her estate 81,531 Class A shares and  267,429
+     Class  B shares.  The Company's obligation under this agreement is limited
+     to  the insurance proceeds to be received by the Company on life insurance
+     purchased on the life of the stockholder, which policy has a face value of
+     $6,000,000.
+        In  connection with the purchase of Avail Networks (see  Note  2),  ERI
+     agreed  to  pay royalties of 5% of total net sales of qualifying  products
+     through  January 2006 in excess of $1,500,000.  The royalties are  payable
+     quarterly.  There were no royalty payments made during 2004 and 2003.
+        ERI  leases  its  offices and production facility under  non-cancelable
+     operating  leases which expire at various dates through March 2006.   Rent
+     expense  for  all  Company  operating leases was $571,851,  $453,414,  and
+     $413,733  in  2004,  2003  and 2002, respectively.   Minimum  annual  rent
+     payments  for  the operating leases are $339,508 and $2,475  in  2005  and
+     2006, respectively.
+        At  December  31, 2004, the Company had open purchase obligations  with
+     expected payment obligations of $9,575,186 in 2005 and $385, 306 in 2006.
+                                      30
+
+                     ALLEN ORGAN COMPANY AND SUBSIDIARIES
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+NOTE 12    Accumulated Other Comprehensive Loss
+                                                         December 31,
+                                                      2004          2003
+           Unrealized loss on investments, net   $   (76,720)  $   (28,867)
+           Minimum pension liability adjustment   (4,341,122)   (3,803,827)
+             Total                               $(4,417,842)  $(3,832,694)
+
+NOTE 13    Export Sales
+        Export  sales  are  all made in US dollars and based on  the  customers
+     credit  information are made either on open credit terms, under letter  of
+     credit or on a prepaid basis
+        In  2004,  2003 and 2002, net sales by the Musical Instruments  segment
+     include  export sales, principally to Canada, Europe and the Far East,  of
+     $3,925,493,  $3,348,158, and $3,248,480, respectively.  Net sales  by  the
+     Data  Communications  segment include export sales  principally  to  South
+     Africa,  Europe  and Asia Pacific of $14,704,274 for 2004, $6,769,565  for
+     2003, and $10,428,899 for 2002.  Included in the export sales of the  Data
+     Communications  segment  are sales to Australia of $6,622,621,  $2,321,937
+     and  $6,979,993 in 2004, 2003 and 2002, respectively.  Net  sales  by  the
+     Audio  Equipment  segment include export sales principally  to  Russia  of
+     $254,870 for 2004, $119,780 for 2003, and $69,222 for 2002.
+
+NOTE 14    Retirement Plans
+        The  Company sponsors two noncontributory defined benefit pension plans
+     which  cover  substantially all of its employees.  Salaried plan  benefits
+     are  generally  based on the employee's years of service and  compensation
+     levels.   Hourly  plan benefits are based on various monthly  amounts  for
+     each  year  of  credited  service.  The Company's  funding  policy  is  to
+     contribute  amounts  to the plans sufficient to meet the  minimum  funding
+     requirements set forth in the Employee Retirement Income Security  Act  of
+     1974,  plus  such  additional amounts as the Company may determine  to  be
+     appropriate from time to time.
+        Effective December 31, 2003, the Company froze future benefit  accruals
+     under  both  the salaried and hourly defined benefit pension  plans.   The
+     Company will continue to fund the plans and may terminate the plans in the
+     future.   The  Company  has  replaced the  retirement  benefit  previously
+     provided  to its employees under the defined benefit pension plan  with  a
+     discretionary  contribution to the Allen Organ Company Saving  and  Profit
+     Sharing  Plan.   The  discretionary  contribution  will  be  allocated  to
+     employee accounts based on their salary.
+        The  measurement  date  used to calculate the  benefit  obligations  is
+     December 31.
+                                      31
+
+                     ALLEN ORGAN COMPANY AND SUBSIDIARIES
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+NOTE 14    Retirement Plans (Continued)
+   Following  are  reconciliations of the pension benefit obligation  and  the
+value of plan assets:
+                                         2004            2003          2002
+      Pension benefit obligation
+      Balance, beginning of year     $17,945,952     $17,468,426   $16,112,915
+      Service cost                         --            436,305       393,927
+      Interest cost                    1,016,079       1,089,526     1,085,299
+      Benefits paid to
+      participants                    (1,142,374)     (1,112,879)   (1,117,494)
+      Actuarial loss                     862,985           --            --
+      Increase due to changes
+       in data/assumptions                 --             64,574       993,779
+         Balance, end of year        $18,682,642     $17,945,952   $17,468,426
+
+      Plan assets
+      Fair value, beginning of year  $12,252,099     $11,514,344   $13,398,564
+      Actual investment returns          560,732         820,634    (1,663,508)
+      Company contributions            1,000,000       1,030,000       852,041
+      Benefits paid to participants   (1,142,374)     (1,112,879)   (1,072,753)
+         Fair value, end of year     $12,670,457     $12,252,099   $11,514,344
+
+      The funded status of the plans is as follows:
+                                                     December 31,
+                                         2004            2003          2002
+      Excess of the benefit
+       obligation over the value of
+       plan assets                   $(6,012,185)    $(5,693,853)  $(5,954,082)
+      Unrecognized net actuarial loss  6,967,646       6,105,269     6,509,847
+      Adjustment to recognize
+       minimum liability              (6,967,646)     (6,105,269)   (5,562,313)
+      Accrued benefit cost           $(6,012,185)    $(5,693,853)  $(5,006,548)
+
+        The   adjustment  to  recognize  the  minimum  pension   liability   of
+     $6,967,646,  net of deferred tax benefit of $2,626,524, has been  included
+     in  accumulated  other  comprehensive  loss  in  stockholders'  equity  at
+     December 31, 2004.
+        The  following  weighted-average rates were  used  in  determining  the
+     above plan information:
+                                                       2004      2003     2002
+      Discount rate on the benefit obligation          5.50%     5.75%    6.25%
+      Discount rate on net periodic benefit cost       5.75%     6.25%    6.75%
+      Expected long-term rate of return on plan assets 7.00%     7.00%    7.00%
+      Rate of long-term compensation increase          N/A       5.00%    5.00%
+
+        The  expected  long-term rate of return is based on the portfolio  that
+     management  expects  to maintain as a whole and not  on  the  sum  of  the
+     returns  on  individual asset categories.  The return is based exclusively
+     on  historical returns, without adjustments.  The expected rate  of  long-
+     term  compensation is not applicable as accrued benefits in the plans have
+     been frozen.
+
+        Pension expense is comprised as follows:
+                                           2004          2003          2002
+      Service cost                     $   --        $  436,305    $  393,927
+      Interest cost                     1,016,079     1,089,526     1,085,299
+      Expected return on plan assets     (868,347)     (768,716)   (1,036,157)
+      Amortization of net gain from
+       prior service cost                  --              --         133,903
+      Amortization of net loss            308,223       417,234          --
+        Net pension cost               $  455,955    $1,174,349    $  576,972
+
+                                      32
+
+                     ALLEN ORGAN COMPANY AND SUBSIDIARIES
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+NOTE 14    Retirement Plans (Continued)
+        The  allocation  of  the  fair value of plan assets  of  the  Company's
+     pension plans at December 31, 2004, 2003 and 2002 were as follows:
+                                                     December 31,
+                                          2004          2003       2002
+           Equity Security Funds            33%          20%        --
+           Stable Asset Fund                34%          34%        --
+           Cash and Equivalents Fund        33%          46%       100%
+             Total                         100%         100%       100%
+
+        The  Company's  investment  policies and  strategies  for  the  pension
+     benefit  plans  do  not  use target allocations for the  individual  asset
+     categories.   Management  expects to increase  its  allocation  to  Equity
+     Security  Funds to approximately 40%, with the balance being  invested  in
+     the  Stable  Asset  Fund.   Management will  continue  to  monitor  market
+     conditions  and  make  changes  in asset  allocation  that  it  feels  are
+     appropriate  to  balance  the risk and return on  plan  investments.   The
+     Company's  investment goals are to maximize returns  subject  to  specific
+     risk management policies.  Its risk management policies permit investments
+     in  mutual  funds  and  prohibit direct investments  in  debt  and  equity
+     securities  and  derivative financial instruments.  The Company  addresses
+     diversification  by  the use of mutual fund investments  whose  underlying
+     investments are in domestic and international fixed income securities  and
+     domestic  and  international equity securities.  These  mutual  funds  are
+     readily marketable and can be sold to fund benefit payment obligations  as
+     they become payable.
+        The  Company expects to contribute a total of $1,000,000 to its pension
+     plans in 2005.
+        Future benefit payments are estimated as follows:
+                 2005          $1,165,633
+                 2006           1,188,586
+                 2007           1,274,828
+                 2008           1,330,150
+                 2009           1,318,210
+                 2010-2014      6,277,407
+
+        The  Company provides a 401(k) deferred compensation and profit sharing
+     plan  for  the  benefit of eligible employees.  The plan  allows  eligible
+     employees  to  defer a portion of their annual compensation,  pursuant  to
+     Section 401(k) of the Internal Revenue Code.  Profit-sharing contributions
+     to  the  plan  are discretionary as determined by the Company's  Board  of
+     Directors.   Expenses related to this plan were $826,640, $248,349 and
+     $58,325 in 2004, 2003 and 2002, respectively.
+        The  Company provides supplemental executive retirement plans (deferred
+     compensation)  for  several  of its officers  and  key  employees  of  the
+     Company.   These  plans  provide for discretionary Company  contributions,
+     which vest over a five year period, accrue interest at the prime rate, not
+     to  exceed  9%, and are payable upon the executive's death or  retirement.
+     Expense  related to these arrangements was $159,647, $138,760 and $143,512
+     in  2004, 2003 and 2002, respectively.  The accrued benefits were $629,157
+     and $667,549 at December 31, 2004 and 2003, respectively.
+
+NOTE 15    Investment Income
+                                                     December 31,
+                                            2004        2003         2002
+
+       Interest Income                   $ 377,753   $ 429,440    $ 550,697
+       Dividend Income                      14,997       6,959        9,390
+       Gain (Loss) on Sale of Investments     --        (4,000)     156,248
+        Total                            $ 392,750   $ 432,399    $ 716,335
+                                      33
+
+                     ALLEN ORGAN COMPANY AND SUBSIDIARIES
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+NOTE 16    Income Taxes
+           The provision for income taxes consists of the following:
+
+                   2004                   2003                   2002
+          Currently              Currently              Currently
+           Payable    Deferred    Payable    Deferred    Payable      Deferred
+
+Federal   $ 432,000  $ 783,000  $ 439,000  $ (448,000)  $1,252,000  $ (456,000)
+State       101,000     55,000    132,000    (198,000)     417,000    (102,000)
+ Total     $533,000  $ 838,000  $ 571,000  $ (646,000)  $1,669,000  $ (558,000)
+
+           A  reconciliation  of  the  provision  for  income  taxes  with  the
+       statutory rate follows:
+                                 2004            2003               2002
+Statutory provision for
+ federal income tax     $2,081,000  34.0% $ 449,000   34.0%  $1,291,000  34.0%
+State taxes, net of
+ federal tax benefits      203,000   3.3    106,000    8.0      143,000   3.8
+Tax credits for research
+ and development          (510,000) (8.3)  (347,000) (26.3)    (311,000) (8.2)
+Tax-exempt income          (71,000) (1.1)   (56,000)  (4.2)     (64,000) (1.7)
+Extraterritorial
+ income exclusion         (309,000) (5.1)  (104,000)  (7.9)    (136,000) (3.6)
+Other items, net            77,000   1.3     27,000    2.0       18,000   0.5
+Effect of change in
+ valuation allowance
+ of deferred tax assets:
+  Federal                      --     --      --       --       105,000   2.8
+  State                   (100,000) (1.6)  (150,000) (11.3)      65,000   1.7
+ Total                  $1,371,000  22.5% $ (75,000)  (5.7)% $1,111,000  29.3%
+
+           The  following temporary differences give rise to the net  deferred
+     tax asset at December 31, 2004 and 2003.
+
+                                                        2004            2003
+    Deferred Tax Assets
+      Excess of book depreciation/amortization
+        over tax depreciation/amortization          $  352,792      $  375,529
+      Excess of book over tax pension expense        1,881,358       1,766,324
+      Loss on investments not recognized
+       for tax purposes                                 39,414          14,913
+      Deferred compensation not recognized
+        for tax purposes                               316,157         447,759
+      Net operating loss and credit carryforwards    1,729,610       1,872,221
+      Other liabilities                                659,323         646,331
+      Reserve for bad debts                            167,560         227,846
+      Warranty reserve                                 340,852         454,989
+      Inventory reserve                              1,178,920       1,448,493
+       Sub-total                                     6,665,986       7,254,405
+         Valuation Allowance                          (920,000)     (1,020,000)
+           Total Deferred Tax Assets                $5,745,986      $6,234,405
+
+        Deferred  taxes are included in the Company's financial  statements  as
+     follows:
+                                                        2004            2003
+             Current deferred tax asset             $2,045,087      $2,741,167
+             Non-current deferred tax asset          3,700,899       3,493,238
+               Total deferred tax asset             $5,745,986      $6,234,405
+
+                                      34
+
+                     ALLEN ORGAN COMPANY AND SUBSIDIARIES
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+NOTE 16    Income Taxes (Continued)
+        At   December   31,  2004,  the  Company  has  available  approximately
+     $2,337,000 of unused federal and $13,886,000 of unused state net operating
+     loss  carryforwards that may be applied against future taxable income  and
+     that  expire in various years from 2007 to 2024.  In addition, the Company
+     has  $872,000  in  state tax credit carryforwards that expire  in  various
+     years  from  2008  to  2019.   The Company has a  valuation  allowance  of
+     $920,000  for  the  deferred  tax assets related  to  the  uncertainty  of
+     realizing   state   net   operating  loss  carryforwards,   state   credit
+     carryforwards and federal net operating losses generated by  a  subsidiary
+     prior  to  inclusion in the consolidated federal income tax  return.   The
+     decrease in the 2004 valuation allowance is primarily related to state net
+     operating losses that were reduced due to state apportionment.
+        In  assessing  the  realizability of deferred  tax  assets,  management
+     considers whether it is more likely than not that some portion or  all  of
+     the deferred tax assets will not be realized.  The ultimate realization of
+     deferred  tax  assets is dependent upon the generation of  future  taxable
+     income  during  the  periods in which those temporary  differences  become
+     deductible.   Management considers the scheduled reversal of deferred  tax
+     liabilities, projected future taxable income, and tax planning  strategies
+     in  making  this  assessment.  Based upon the level of historical  taxable
+     income and projections for future taxable income over the periods in which
+     the  deferred tax assets are deductible, management believes  it  is  more
+     likely  than  not  that  the Company will realize the  benefits  of  these
+     deductible  differences,  net  of  the  existing  valuation  allowance  at
+     December  31,  2004.   The  amount of the deferred  tax  asset  considered
+     realizable,  however, could be reduced in the near term  if  estimates  of
+     future taxable income during the carryforward period are reduced.
+
+NOTE 17    Earnings Per Share
+        The  following shows the amounts used in computing earnings  per  share
+     and the effect on weighted average number of shares for dilutive potential
+     common stock.
+
+                                              2004        2003       2002
+    Weighted average number of
+      common shares used in basic
+      earnings per share                   1,156,243   1,160,008  1,170,191
+    Effect of stock options                    2,576         473         --
+    Weighted average number of
+      common shares used in diluted
+      earnings per share                   1,158,819   1,160,481  1,170,191
+
+        Outstanding  stock options to purchase 12,000 shares  of  common  stock
+     were  not  included in computing earnings per share for 2002  because  the
+     effect was antidilutive.
+                                      35
+
+                     ALLEN ORGAN COMPANY AND SUBSIDIARIES
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+NOTE 18    Stock Option Plans
+        In   July   2002,  the  Company  established  an  employee  stock-based
+     compensation  plan to assist in attracting and retaining  personnel.   The
+     maximum  number of the Company's Class B shares that may be  issued  under
+     the plan approximates a 9% interest in the Company.  Options are issued at
+     the  fair  market  value on the date of grant.  The maximum  term  of  the
+     options is ten years, and generally vest equally over four years.
+        As  of  December 31, 2004, total options issued represent 1.40% of  the
+     shares  currently  outstanding.  Vested options  represent  0.75%  of  the
+     currently outstanding shares.
+        Following is a summary of the activity under the plan:
+                                          December 31,
+                             2004               2003               2002
+                              Weighted            Weighted            Weighted
+                              Average             Average             Average
+                    Number of Exercise  Number of Exercise  Number of Exercise
+                     Shares    Price     Shares    Price     Shares   Price
+
+Outstanding at
+ beginning of year   12,000    $39.00    12,000    $39.00        --    $  --
+Granted               4,500     43.15        --      --      12,000     39.00
+Exercised               --      --           --      --         --       --
+Forfeited               --      --           --      --         --       --
+Outstanding at end
+ of year             16,500    $40.13    12,000    $39.00    12,000    $39.00
+Weighted average
+ fair value of
+ options granted
+ during the year     $10.32               $ --               $ 5.03
+
+        Following  is  a  summary  of  the status  of  options  outstanding  at
+     December 31, 2004:
+                      Options Outstanding                  Options Exercisable
+                           Weighted Avg.
+                           Remaining       Weighted Avg.           Weighted Avg
+  Exercise    Number       Contractual     Exercise       Number     Exercise
+  Price     Outstanding      Life            Price      Exercisable   Price
+
+    $39.00       12,000     7.56 years     $39.00         7,200      $39.00
+     43.15        4,500     9.08 years      43.15         1,500       43.15
+    Total        16,500     7.98 years     $40.13         8,700      $39.72
+
+        ERI  also provides an employee stock-based compensation plan to  assist
+     in  attracting and retaining personnel.  The maximum number of  subsidiary
+     shares  that  may be issued under the plan approximates a 15% interest  in
+     the subsidiary.  Options are generally issued at the estimated fair market
+     value.   The maximum term of the options is six years, and generally  vest
+     equally over four years.
+        As   of  December  31,  2004,  total  options  issued  and  outstanding
+     represents  8%  of the ERI shares currently outstanding.   Vested  options
+     consist of 5% of the currently outstanding shares of ERI.
+        ERI  recognized compensation expense of $115,188 in 2004,  $144,875  in
+     2003,  and  $59,375 in 2002 related to options granted  with  an  exercise
+     price  less  than  the fair market value on the date of  grant.   Deferred
+     compensation relating to these option grants is $296,000 and  $523,000  at
+     December 31, 2004 and 2003, respectively.
+        See  Note  1  for the pro forma effects on net income and earnings  per
+     share  had  compensation cost been determined on the basis of  fair  value
+     pursuant to SFAS No. 123, as amended by SFAS No. 148.
+
+                                      36
+
+                     ALLEN ORGAN COMPANY AND SUBSIDIARIES
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+NOTE 19    Related Party Transactions
+        The  Company  maintains  two classes of stock, Class  A  voting  common
+     stock  and  Class B non-voting common stock.  The majority  (97%)  of  the
+     Class  A  voting  common stock is held by a Trust for the benefit  of  the
+     family  of  company founder Jerome Markowitz.  Accordingly, the  Markowitz
+     family  has  the ability to elect all board of directors and  control  the
+     vote   on  substantially  all  matters  without  the  approval  of   other
+     stockholders.
+        A  member  of the Company's Board of Directors is a principal in  firms
+     providing  legal and financial advisory services.  Legal  fees  paid  were
+     $265,447,  $153,149  and  $45,851 in 2004, 2003  and  2002,  respectively.
+     Financial  advisory fees paid were $6,000 in both 2003  and  2002.   There
+     were no related party financial advisory fees paid in 2004.
+
+NOTE 20    Major Customers
+        The  Company  derived  20%  of  its consolidated  net  sales  from  one
+     customer in 2004.  Receivables from this customer represented 41% of total
+     consolidated accounts receivable at December 31, 2004.  No single customer
+     represented 10% or more of consolidated net sales in 2003 or 2002.
+
+NOTE 21    Industry Segment Information
+        The  Company's  operations are classified into four industry  segments:
+     Musical Instruments, Data Communications, Electronic Assemblies and  Audio
+     Equipment.   The  Musical Instruments segment is comprised  of  operations
+     principally involved in the design, manufacture, sale and distribution  of
+     electronic  keyboard  musical instruments, primarily  digital  organs  and
+     related  accessories.  Musical instruments are sold  primarily  to  retail
+     dealers worldwide.
+        The  Data  Communications segment is involved in the design,  sale  and
+     distribution   of  data  communications  equipment.   Data  communications
+     products are sold direct to customers, to distributors worldwide and to  a
+     smaller extent under OEM agreements with some customers.
+        The  Electronic Assemblies segment is involved in the manufacture, sale
+     and  distribution  of  electronic assemblies for  outside  customers  used
+     primarily  as  control  devices  and other circuitry  in  their  products.
+     Subcontract  assembly  services  are  provided  primarily  to   industrial
+     concerns in Pennsylvania and New Jersey.
+        The  Audio  Equipment (Legacy Audio, Inc.) segment is involved  in  the
+     design,  manufacture,  sale  and  distribution  of  high  quality  speaker
+     cabinets  for  hi-fi  stereo  and  home  theater  applications.   Legacy's
+     products  are sold worldwide primarily through independent retail  dealers
+     and, to a lesser extent, directly to individual customers.
+        Intersegment sales are generally priced at cost plus a percentage mark-
+     up,  and  are generally marginally less than prices which would be charged
+     for  the  same product to unaffiliated customers.  Intersegment sales  are
+     excluded   from  net  sales  reported  in  the  accompanying  consolidated
+     statements  of  income.  Identifiable assets by segment are  those  assets
+     that  are  used in the Company's operations within that segment.   General
+     corporate assets consist principally of cash and short-term investments.
+        The  Electronic  Assemblies segment derived 68% of its 2004  net  sales
+     from five customers, 61% of its 2003 net sales from two customers and  73%
+     of  its  2002  net  sales from three customers.  The  Data  Communications
+     segment derived 41% of its 2004 net sales from two customers, 16%  of  its
+     net  sales  from  one customer in 2003 and 40% of its net sales  from  two
+     customers  in 2002.  The Audio Equipment segment derived 12% of  its  2004
+     net sales from one customer. The Company's Musical Instruments segment  is
+     not dependent on any single customer.
+        In  October  2002,  Legacy  Audio, Inc. sold  its  manufacturing  plant
+     located  in  Springfield, Illinois for $285,000 (net of selling  expenses)
+     and  recognized a gain on the sale of approximately $7,000.  Legacy ceased
+     operations at this facility effective August 31, 2002 and consolidated all
+     of  its  production into the Company's manufacturing facility in Macungie,
+     PA.
+                                      37
+
+                     ALLEN ORGAN COMPANY AND SUBSIDIARIES
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+NOTE 21     Industry Segment Information (Continued)
+        Following  is  a  summary of segmented information for 2004,  2003  and
+     2002.
+
+                                                     December 31,
+                                          2004           2003          2002
+            Net Sales to
+            Unaffiliated Customers
+              Musical Instruments     $20,886,800    $20,381,904   $24,942,925
+              Data Communications      54,980,044     36,022,256    36,536,174
+              Electronic Assemblies     2,822,019      2,819,640     4,750,143
+              Audio Equipment           1,481,925      1,564,258     1,510,306
+                Total                 $80,170,788    $60,788,058   $67,739,548
+
+            Intersegment Sales
+              Musical Instruments     $   905,340    $   823,199   $   435,915
+              Data Communications            --           84,418          --
+              Electronic Assemblies       951,919        344,553       131,540
+              Audio Equipment              31,411         88,205        88,909
+                Total                 $ 1,888,670    $ 1,340,375   $   656,364
+
+            Income (Loss) from Operations
+              Musical Instruments     $   613,203    $  (764,639)  $ 2,024,144
+              Data Communications       6,436,161      2,446,213     2,091,520
+              Electronic Assemblies      (124,425)      (457,366)     (401,165)
+              Audio Equipment          (1,195,715)      (334,711)     (634,477)
+                Total                 $ 5,729,224    $   889,497   $ 3,080,022
+
+            Identifiable Assets
+              Musical Instruments     $16,474,486    $16,762,054   $17,301,133
+              Data Communications      30,152,927     26,164,502    25,868,894
+              Electronic Assemblies     1,850,634      2,065,776     2,373,162
+              Audio Equipment           1,015,729      1,541,238     1,623,546
+                Sub-total              49,493,776     46,533,570    47,166,735
+              General corporate assets 28,978,959     25,416,706    26,196,133
+                Total                 $78,472,735    $71,950,276   $73,362,868
+
+            Capital Expenditures
+              Musical Instruments     $   423,417    $   155,195   $ 1,037,338
+              Data Communications       2,320,040        904,861       670,320
+              Electronic Assemblies          --              --        188,487
+              Audio Equipment                --            3,175         2,441
+                Total                 $ 2,743,457    $ 1,063,231   $ 1,898,586
+
+            Depreciation and Amortization
+              Musical Instruments     $   712,558    $   765,196   $   759,689
+              Data Communications       1,640,861      1,596,862     1,864,921
+              Electronic Assemblies       104,184        120,679       126,321
+              Audio Equipment              23,278         35,875        50,581
+                Total                 $ 2,480,881    $ 2,518,612   $ 2,801,512
+
+            Income Tax Expense (Benefit)
+              Musical Instruments     $   521,000    $   (20,000)  $ 1,240,000
+              Data Communications       1,303,000        312,000       138,000
+              Electronic Assemblies       (25,000)      (204,000)     (152,000)
+              Audio Equipment            (428,000)      (163,000)     (115,000)
+                Total                 $ 1,371,000    $   (75,000)  $ 1,111,000
+
+                                      38
+
+                     ALLEN ORGAN COMPANY AND SUBSIDIARIES
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+NOTE 22     Quarterly Financial Data (Unaudited)
+
+
+                  First       Second        Third       Fourth
+                 Quarter      Quarter      Quarter      Quarter      Total
+  2004
+Net Sales      $16,718,716  $19,747,048  $21,353,653  $22,351,371  $80,170,788
+Gross Profit     7,879,016    9,857,983   10,553,944   10,226,528   38,517,471
+Net Income         682,674    1,199,172    1,607,432    1,219,769    4,709,047
+Earnings per Share
+ Basic                0.59         1.04         1.39         1.05         4.07
+ Diluted              0.59         1.04         1.39         1.05         4.06
+
+  2003
+Net Sales      $13,874,464  $12,725,880  $14,932,091  $19,255,623  $60,788,058
+Gross Profit     5,274,954    5,222,827    6,588,075    8,008,589   25,094,445
+Net Income (Loss)  (19,808)    (149,898)     200,923    1,365,679    1,396,896
+Earnings (Loss) per
+ Share
+ Basic               (0.02)       (0.13)        0.17         1.18         1.20
+ Diluted             (0.02)       (0.13)        0.17         1.18         1.20
+
+  2002
+Net Sales      $15,977,488  $17,403,733  $15,705,708  $18,652,619  $67,739,548
+Gross Profit     6,628,428    7,158,583    5,755,644    6,233,054   25,775,709
+Net Income         931,539    1,009,634      528,362      215,822    2,685,357
+Earnings per Share
+ Basic                0.80         0.86         0.45         0.18         2.29
+ Diluted              0.80         0.86         0.45         0.18         2.29
+
+                                      39
+<PAGE>
+                                 PART III
+
+Item 10.    Directors and Executive Officers of the Registrant.
+
+                 (a)            Identification of Directors
+                                                               Time Period
+                             Date Term                          Position
+Name                          Expires       Age   Position         Held
+
+Steven Markowitz             Next Annual     51   Director     Since 1980
+                           Meeting in 2005
+
+Eugene Moroz (1)             Next Annual     81   Director     Since 1968
+                           Meeting in 2005
+
+Leonard W. Helfrich          Next Annual     75   Director     1964-1968 and
+                           Meeting in 2005                     1972 to present
+
+Orville G. Hawk (1)          Next Annual     87   Director     Since 1989
+                           Meeting in 2005
+
+Albert F. Schuster           Next Annual     85   Director     Since 1989
+                           Meeting in 2005
+
+Martha Markowitz             Next Annual     83   Director     Since 1991
+                           Meeting in 2005
+
+Jeffrey L. Schucker (1)      Next Annual     50   Director     Since 1996
+                           Meeting in 2005
+
+Ernest Choquette             Next Annual     51   Director     Since 1998
+                           Meeting in 2005
+
+Michael F. Doyle             Next Annual     50   Director     Since 2001
+                           Meeting in 2005
+
+   (1)  Audit Committee member.
+
+           (b)  Identification of Executive Officers.
+                    Date Term                                   Time Period
+Name                 Expires       Age   Position               Position Held
+
+Steven Markowitz   Next Annual     51    President             1990 to present
+                  Meeting in 2005
+
+Barry J. Holben    Next Annual     52    Vice President-Sales  October 1995 to
+                  Meeting in 2005                               present
+
+Dwight A. Beacham  Next Annual     58    Vice President-       October 1995 to
+                  Meeting in 2005        Product Development    present
+
+Nathan S. Eckhart  Next Annual     41    Vice President-       May 1996 to
+                  Meeting in 2005        Finance, Treasurer,    present
+                                         Secretary
+
+
+                  (c)  Identification of Certain Significant Employees.
+                       Not applicable.
+                  (d)  Family Relationships.
+                        Except  for Martha Markowitz and Steven  Markowitz,
+                  who  are  mother and son, there is no family relationship
+                  between any officers or directors of the Company.
+                                      40
+
+
+                  (e)  Business Experience.
+
+                             (1)   Steven  Markowitz, Barry Holben,  Dwight
+                       Beacham  and Nathan Eckhart, have been employees  of
+                       the Company in executive capacities for at least the
+                       last five years.
+                                  Mr. Moroz was employed by the Company for
+                       over 50 years, having last held the position of Vice
+                       President.  He retired from active employment in May
+                       1998  and  continues  to  serve  on  the  Board   of
+                       Directors.
+                                  Mr.  Helfrich was employed by the Company
+                       for  nearly  40 years as Vice President-Finance  and
+                       Secretary   before  retiring  in  March   2000   and
+                       continues to serve on the Board of Directors.
+                                  Mr.  Hawk, who has been retired more than
+                       five  (5) years, was formerly Chairman of the  Board
+                       and President of First National Bank of Allentown.
+                                 Mr. Schuster is a church director of music
+                       and prior to his retirement more than five (5) years
+                       ago was a supervisor at Bethlehem Steel Corporation.
+                                  Mrs.  Markowitz  is the widow  of  Jerome
+                       Markowitz, the Company's founder, and she represents
+                       the family's interest in the Company.
+                                  Mr.  Schucker  is  a  Vice  President  at
+                       National  Penn Bank.  Prior to joining the bank,  he
+                       worked  as  an  investment banker at  various  firms
+                       including  Managing Director with Griffin  Financial
+                       Group,  President of Middle Market Capital Advisors,
+                       L.L.C. (MMCA) and Vice President of Meridian Capital
+                       Markets.
+                                 Mr. Choquette has been a member of the law
+                       firm of Stevens & Lee, Reading PA, for over 20 years
+                       and   currently  serves  as  Co-Chairman  of   their
+                       Corporate  Group.  Stevens & Lee serves  as  general
+                       counsel to the Company.
+                                  Mr.  Doyle is President of the  Company's
+                       subsidiary, Eastern Research, Inc.  Prior to joining
+                       ERI   in  May  of  1997,  Mr.  Doyle  had  20  years
+                       experience  in  the  data  communications   industry
+                       including positions at Infotron Systems, Inc., Dowty
+                       Communications,  Inc., Teleos  Communications,  Inc.
+                       and Madge Networks, Inc.
+
+                  (f)    Involvement  in  Certain  Legal   Proceedings   by
+                  Directors or Officers.
+
+                       None.
+
+                  (g)    Section   16(a)  Beneficial  Ownership   Reporting
+                  Compliance.
+
+                       Section 16(a) of the Securities Exchange Act of 1934
+                  requires  that Company Directors, Executive Officers  and
+                  greater-than-ten-percent  Share  Owners  file  with   the
+                  Securities  and  Exchange Commission and the  Company  an
+                  initial  statement  of beneficial ownership  and  certain
+                  statements of changes in beneficial ownership  of  Common
+                  Stock of the Company.  Based solely on its review of such
+                  forms  received  by  the Company,  Martha  Markowitz  and
+                  Steven Markowitz both individually and as trustees of the
+                  Jerome  Markowitz  Trust inadvertently failed  to  timely
+                  report the following share transactions in December  2004
+                  due  to  a failure of the transfer agent to timely notify
+                  the  filer of the date the shares were transferred.   The
+                  Company   is   unaware   of  any   other   instances   of
+                  noncompliance  with such filings during  the  year  ended
+                  December 31, 2004.
+
+                         Name             Transaction     Number and Class of
+                                             Type              Shares
+                   Martha Markowitz        Purchase      1,047 Class B shares
+                   Steven A. Markowitz     Sale            869 Class B Shares
+                   Jerome Markowitz
+                   Trust, Martha &
+                   Steven Markowitz
+                   Trustees                Purchase      3,000 Class B Shares
+
+                                      41
+
+                  (h)  Audit Committee Financial Expert
+
+                       The Company's Board of Directors has determined that
+                  Jeffrey L. Schucker is a financial expert serving on  the
+                  Company's  audit  committee and that  he  is  independent
+                  within  the meanings of the NASDAQ listing standards  and
+                  the Exchange Act.
+
+                  (i)  Code of Ethics.
+
+                        The  Company has adopted a Code of Business Conduct
+                  and  Ethics  that applies to all employees including  its
+                  principal  executive and financial officers.  A  copy  of
+                  the  Code  of Business Conduct and Ethics is incorporated
+                  by reference to Exhibit 14 of the 2003 Form 10-K.
+
+Item 11.    Executive Compensation.
+                 Deleted paragraphs and/or columns are not applicable.
+
+             (b)  SUMMARY COMPENSATION TABLE:
+                                                       Long Term
+                                                       Compensation
+                                  Annual Compensation  Securities  All Other
+Name and                          Salary   Bonus       Underlying  Compensation
+Principal Position         Year    $        $          Options(#)     $
+
+
+Steven A. Markowitz,
+President                  2004  155,027     -              -       39,995 (1)
+(Chief Executive Officer)  2003  151,675     -              -       38,886
+                           2002  147,855     -              -       20,969
+
+Dwight A. Beacham,         2004  107,438     -              -       27,994 (2)
+ Vice President -          2003  104,850     -              -       17,052
+ Product Development       2002  101,918     -           4,000      12,049
+
+Barry J. Holben,           2004  107,642     -              -       27,994 (2)
+ Vice President-Sales      2003  106,628     -              -       17,052
+                           2002  104,008     -           4,000      12,049
+
+Nathan S. Eckhart,         2004  112,313     -              -       22,142 (2)
+ Vice President-Finance,   2003  107,630     -              -       13,533
+ (Treasurer and Secretary) 2002  102,823     -           4,000       9,527
+
+(1)-Value  of  split  dollar life insurance policy.   See  Note  6  to  the
+accompanying  Consolidated Financial Statements for additional  information
+on this arrangement.
+(2)-Value   of  vested  deferred  compensation  earned  under  supplemental
+executive  retirement plans.  See Note 14 to the accompanying  Consolidated
+Financial Statements for additional information on these arrangements.
+
+             (c)  OPTION GRANTS IN LAST FISCAL YEAR:
+                     There  were  no stock options granted to or  exercised
+                     by  the  above named executive officers of the Company
+                     during  2004  under  the  Allen  Organ  Company  stock
+                     option plan.
+                                      42
+
+             (d)  AGGREGATE OPTIONS EXERCISED IN LAST  YEAR
+                   AND DECEMBER 31, 2004 OPTION VALUE:
+
+                                Number of Securities           Value of
+                                    Underlying             Unexercised In-The
+                                Unexercised Options        Money Options at
+                Shares         at December 31, 2004(#)     December 31, 2004($)
+
+ Name     Acquired
+             on     Value
+          exercise Realized                              (1)           (1)
+            (#)      ($)    Exercisable Unexercisable Exercisable Unexercisable
+Dwight A.
+Beacham      0        0       2,400        1,600        $72,000      $48,000
+
+Barry J.
+Holben       0        0       2,400        1,600        $72,000      $48,000
+
+Nathan S.
+Eckhart      0        0       2,400        1,600        $72,000      $48,000
+
+      (1) Based on market value of $69.00 per share for Allen Organ Company
+          Class B common stock at December 31, 2004.
+
+             (f)  Defined Benefit or Actuarial Plan Disclosure.
+
+                                  As  discussed in Note 14 to the Company's
+                  consolidated  financial statements included  in  Item  8,
+                  future  benefit  accruals  under  the  Company's  defined
+                  benefit pension plan were frozen as of December 31, 2003.
+                  Based  on  the  2004 actuarial report for  the  Plan  the
+                  estimated  annual retirement benefit under  the  Plan  to
+                  each  of  the  named executive officers are  as  follows:
+                  Steven A. Markowitz (age 51) - $33,890; Dwight A. Beacham
+                  (age  58)  - $21,378; Barry J. Holben (age 52) - $15,742;
+                  Nathan S. Eckhart (age 41) - $13,870.
+
+             (g)  Compensation of Directors:
+
+                                  Non-employee directors receive  $450  for
+                  each Board and committee meeting attended plus reasonable
+                  expenses   in   connection  with  attendance.    Employee
+                  directors  receive no additional compensation  for  their
+                  services as a director.
+
+             (h)  Employment Contracts and Termination  of
+                   Employment and Change in Control Arrangements:
+
+                                  There are no employment contracts between
+                  the  Company and any of the Company's executive officers.
+                  The Company has established an Executive Bonus Program in
+                  the  form of executive supplemental retirement plans  for
+                  the  benefit of Mr. Beacham, Mr. Holben and Mr.  Eckhart.
+                  These    plans   provide   for   discretionary    Company
+                  contributions which vest over a five year period,  accrue
+                  interest  at  the prime rate, not to exceed 9%,  and  are
+                  payable upon the executives death or retirement.
+
+Item 12.     Security Ownership of Certain Beneficial Owners and Management
+             and Related Stockholder Matters
+
+             (a)   Voting securities of the registrant owned of  record  or
+             beneficially by each person who owns of record, or is known by
+             the registrant to own beneficially, more than five percent  of
+             any   class  of  such  securities.   Class  A  Common   Shares
+             constitute   the   only   securities   with   voting   rights.
+             Information as of February 29, 2005.
+
+                                          Amount and
+                                          Nature of
+            Names and           Title of  Beneficial   % of
+            Addresses             Class   Ownership    Class
+            Jerome Markowitz        A     81,531       97.22%
+            Trust (2)                     (1)
+            821 N. 30th St.
+            Allentown, PA
+            (1)  Sole voting and investment power
+            (2)   The  shares are held by Trustees under an Inter  Vivos
+               Trust  established by Mr. Markowitz, who  died  in  February
+               1991,  for the benefit of his family, principally his widow,
+               Martha   Markowitz.   The  Trustees  are  Steven  Markowitz,
+               President  and  a  Director  of  the  Company,  and   Martha
+               Markowitz, a Director of the Company.
+                                      43
+
+           (b)    Each   class  of  equity  securities  of  the  registrant
+           beneficially  owned  directly  or indirectly  by  all  directors
+           naming them and directors and officers of the registrant,  as  a
+           group,  without  naming  them.   Directors  not  named  in   the
+           following  table  do not beneficially own any equity  securities
+           of the registrant.  Information as of December 31, 2004.
+
+                                                    Percent  Percent
+                                        Nature of     of       of
+                   Class     Class      Beneficial   Class    Class
+Directors            A         B        Ownership      A        B
+
+Steven Markowitz     58                 (1) (3)      .07 %
+                           12,693       (1) (3)               1.18%
+                 81,531*                (2) (4)    97.22 %
+                          245,016*      (2) (4)              22.85%
+
+Eugene Moroz                6,290       (1) (3) as
+                                        to 6,290
+                            6,000       (2) (4) as
+                                        to 6,000              1.15%
+
+Leonard W. Helfrich           258       (2) (4)                .02%
+
+Orville G. Hawk                50       (2) (4)               .005%
+
+Martha Markowitz           22,413       (1) (3)               2.09%
+                 81,531*                (2) (4)    97.22 %
+                          245,016*      (2) (4)              22.85%
+
+
+                                                    Percent  Percent
+All Directors                                         of       of
+and Officers       Class     Class                   Class    Class
+as a Group           A         B                       A        B
+
+     12          81,589** 292,720**                97.29%**  27.30%
+
+
+              (1)   Sole voting power
+              (2)   Shared voting power
+              (3)   Sole investment power
+              (4)   Shared investment power
+
+                     *     Shares owned by the Jerome Markowitz Trust  for
+                  which   Martha  Markowitz  and  Steven  Markowitz,   Co-
+                  Trustees,  have shared voting and investment power,  and
+                  of which Martha Markowitz is the primary beneficiary and
+                  Steven Markowitz is one of the residuary beneficiaries.
+
+                    **   The shares held by the Jerome Markowitz Trust are
+                  not duplicated in the totals for the Class A and Class B
+                  Shares.
+
+     (c)      Changes in Control.  Not applicable.
+
+                                      44
+
+     (d)      Securities  authorized for issuance under equity  compensation
+              plans:
+
+     Plan category  Number of          Weighted-average   Number of
+                    securities to be   exercise price of  securities
+                    issued upon        outstanding        remaining
+                    exercise of        options, warrants  available for
+                    outstanding        and rights         future issuance
+                    options, warrants                     under equity
+                    and rights                            compensation plans
+                                                          (excluding
+                                                          securities
+                                                          reflected in
+                                                          column (a))
+                    (a)                     (b)             (c)
+     Equity
+     compensation
+     plans
+     approved by
+     security
+     holders        16,500                 $40.13           83,500
+
+     Equity
+     compensation
+     plans not
+     approved by
+     security
+     holders         --                       --                --
+
+     Total          16,500                 $40.13           83,500
+
+Item 13.    Certain Relationships and Related Transactions
+
+            See Note 11 to the Consolidated Financial Statements concerning
+            an  agreement  between  the Company  and  Martha  Markowitz,  a
+            Director of the Company.
+            Ernest Choquette, a member of the Company's Board of Directors,
+            is  a principal in firms providing legal and financial advisory
+            services.  Legal fees paid were $265,447, $153,149 and  $45,851
+            in  2004, 2003 and 2002, respectively.  Financial advisory fees
+            paid were $6,000 in both 2003 and 2002, none were paid in 2004.
+
+Item 14.    Principal Accountant Fees and Services
+                                                      2004       2003
+            (1) Audit Fees                         $185,000   $116,000
+            (2) Audit-Related Fees                   14,100     13,500
+            (3) Tax Fees                             92,200    116,200
+            (4) All Other Fees                         --       --
+                 Total Fees                        $291,300   $245,700
+
+              (1)  Audit  Fees  represent the fees to complete  the  annual
+              audit and quarterly reviews.
+              (2)  Audit-Related  Fees include assurance services  provided
+              for   the  Company's  retirement  plans  in  2003  and  other
+              miscellaneous services in 2004.
+              (3)   Tax   Fees   include  fees  for  compliance   services,
+              assistance  with compliance documentation and  various  other
+              tax issues that arise from time to time.
+              (4) No other fees paid in 2004 and 2003.
+              The  audit  committee of the Board of Directors  pre-approves
+              all  audit and permissible non-audit services provided by the
+              Company's  independent  registered  public  accounting  firm.
+              All  of  the  services provided by the Company's  independent
+              registered public accounting firm set forth above  were  pre-
+              approved by the audit committee.
+
+                                      45
+
+                                  PART IV
+Item 15.    Exhibits, Financial Statement Schedules and Reports on Form 8-K
+            (a)  (1)  Financial Statements
+                 The  following consolidated financial statements  of
+                 Allen  Organ Company and its subsidiaries are included  in
+                 Part II, Item 8:
+                 Report  of  Independent Registered Public Accounting Firm.
+                 Consolidated Balance Sheets as of December 31, 2004 and 2003.
+                 Consolidated Statements of Income for the years ended
+                   December 31, 2004, 2003, and 2002.
+                 Consolidated Statements of Stockholders' Equity  for
+                   the years ended December 31, 2004, 2003, and 2002.
+                 Consolidated Statements of Cash Flows for the  years
+                   ended December 31, 2004, 2003, and 2002.
+                 Notes to Consolidated Financial Statements.
+                 The   individual   financial  statements   of   the
+                 Registrant's subsidiaries have been omitted, as  they  are
+                 all  included  in  the  Consolidated Financial  Statements
+                 referred to above.
+            (a)  (2) Financial Statement Schedules
+                 Schedule II.  Valuation and Qualifying Accounts  for
+                 the three years ended December 31, 2004.
+                                            Schedules   other  than   those
+                           listed  above  are  omitted  because  they   are
+                           either  not required, are not applicable or  the
+                           required   information  is  presented   in   the
+                           Consolidated Financial Statements.
+            (a)  (3) Exhibits
+                  Exhibit No.    Description
+                      3.1(1)    Articles of Incorporation, as amended
+                      3.2(2)    Bylaws, as amended
+                      10.1(7)   Allen Organ Company Stock Option Plan
+                      10.2(3)   Agreement of Amendment between the Company
+                                and Martha Markowitz
+                      10.3(5)   Executive Bonus Program and Endorsement Split
+                                Dollar Life Insurance Agreements between the
+                                Company and Dwight A. Beacham, Nathan S.
+                                Eckhart and Barry  J. Holben
+                      14(8)     Code of Business Conduct  and Ethics
+                      21        Subsidiaries of the registrant
+                      23.1      Consent of KPMG LLP
+                      31.1      Rule 13a-14(a)/15d-14(a)
+                                 Certification - Chief Executive Officer
+                      31.2      Rule 13a-14(a)/15d-14(a)
+                                 Certification - Chief Financial Officer
+                      32        Section 1350 Certifications
+                      99.1(6)   Audit Committee Charter
+
+            1. Incorporated  by  reference  to  the  exhibit
+               filed with the Registrants Annual Report on Form  10-K
+               for the year ended December 31, 1984.
+            2. Incorporated  by  reference  to  the  exhibit
+               filed with the Registrants Annual Report on Form  10-K
+               for the period ended December 31, 1991.
+            3. Incorporated  by  reference  to  the  exhibit
+               filed with the Registrants Annual Report on Form  10-K
+                for the year ended December 31, 1992.
+            4. Incorporated by reference to the exhibit filed with the
+                Registrants Quarterly Report on Form 10-Q for the period
+                ended September 30, 1999.
+            5. Incorporated by reference to the exhibit filed with the
+                Registrants Annual Report on Form 10-K for the year
+                ended December 31, 2000.
+            6. Incorporated by reference to the exhibit filed with the
+                Registrants Quarterly Report on Form 10-Q for the
+                period ended September 30, 2002.
+            7. Incorporated by reference to the exhibit filed with the
+                 Registrants Annual Report on Form 10-K for the year
+                 ended December 31, 2003.
+
+                                      46
+<PAGE>
+
+SIGNATURES
+
+Pursuant  to  the  requirements of Section 13 or 15 (d) of  the  Securities
+Exchange  Act  of 1934, the registrant has duly caused this  report  to  be
+signed on its behalf by the undersigned, thereunto duly authorized.
+
+
+                                     ALLEN ORGAN COMPANY
+
+
+
+Date:  March 31, 2005                /s/STEVEN A. MARKOWITZ
+                                     Steven A. Markowitz
+                                     Chief Executive Officer,
+                                     President and Director
+
+
+Date:  March 31, 2005                /s/NATHAN S. ECKHART
+                                     Nathan S. Eckhart
+                                     Vice President-Finance,
+                                     Chief Financial and
+                                     Principal Accounting Officer
+
+Date:  March 31, 2005                /s/LEONARD W. HELFRICH
+                                     Leonard W. Helfrich
+                                     Director
+
+Date:  March 31, 2005               /s/MARTHA MARKOWITZ
+                                    Martha Markowitz
+                                    Director
+
+Date:  March 31, 2005               /s/ERNEST CHOQUETTE
+                                    Ernest Choquette
+                                    Director
+
+Date:  March 31, 2005               /s/MICHAEL F. DOYLE
+                                    Michael F. Doyle
+                                    Director
+
+                                      47
+<PAGE>
+Allen Organ Company and Subsidiaries
+
+     Schedule II - Valuation and Qualifying Accounts
+
+     For the Years Ended December 31, 2004, 2003 and 2002
+
+
+                        Balance     Additions  Charged   Reductions,   Balance
+                          at        Charged      to      Write Offs      at
+ Description           Beginning       to       Other       And          End
+                        Of Year      Expense   Accounts  Recoveries    Of Year
+
+Year Ended
+ December 31, 2004
+  Allowance for
+   Doubtful Accounts  $  605,496  $ (119,078)  $  -    $  (40,614)  $  445,804
+  Allowance for
+   Obsolete and slow
+   moving inventory    3,851,749     744,323      -    (1,461,849)   3,134,223
+  Valuation Allowance
+   Deferred Tax Asset  1,020,000        -         -      (100,000)     920,000
+
+Year Ended
+ December 31, 2003
+  Allowance for
+   Doubtful Accounts  $  502,209  $  174,614   $  -    $  (71,328)  $  605,496
+  Allowance for
+   Obsolete and slow
+   moving inventory    3,497,436     890,391      -      (536,078)   3,851,749
+  Valuation Allowance
+   Deferred Tax Asset  1,170,000        -         -      (150,000)   1,020,000
+
+Year Ended
+ December 31, 2002
+  Allowance for
+   Doubtful Accounts  $  350,492  $  234,117   $  -    $  (82,400)  $  502,209
+  Allowance for
+   Obsolete and slow
+   moving inventory    3,178,050     974,251      -      (654,865)   3,497,436
+  Valuation Allowance
+   Deferred Tax Asset  1,000,000     170,000      -          -       1,170,000
+
+
+                                      48
+<PAGE>
+</TEXT>
+</DOCUMENT>

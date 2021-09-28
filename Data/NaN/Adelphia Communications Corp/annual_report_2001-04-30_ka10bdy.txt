@@ -1,0 +1,993 @@
+<DOCUMENT>
+<TYPE>10-K/A
+<SEQUENCE>1
+<FILENAME>ka10bdy.txt
+<DESCRIPTION>ACC 10K/A
+<TEXT>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                   FORM 10-K/A
+
+ X Annual Report under Section 13 or 15(d) of the Securities Exchange Act
+----
+    of 1934
+
+                      For the year ended December 31, 2000
+
+____ Transition report pursuant to Section 13 or 15(d) of the Securities
+      Exchange Act of 1934
+
+                 For the transition period from _____ to ______
+
+                         Commission File Number: 0-16014
+
+                       ADELPHIA COMMUNICATIONS CORPORATION
+             (Exact name of registrant as specified in its charter)
+
+          Delaware                                       23-2417713
+(State or other jurisdiction of                       (I.R.S. Employer
+ incorporation or organization)                      Identification No.)
+
+                              One North Main Street
+                              Coudersport, PA              16915
+               (Address of principal executive offices) (Zip code)
+
+                                  814-274-9830
+               (Registrant's telephone number including area code)
+
+        Securities registered pursuant to Section 12(b) of the Act: None.
+           Securities registered pursuant to Section 12(g) of the Act:
+                      Class A common stock, $.01 par value.
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+
+Yes      X        No  ____
+
+
+Aggregate market value of outstanding Class A common stock par value $.01 per
+share, held by non-affiliates of the registrant at March 29, 2001 was $5.1
+billion based on the closing sale price as computed by the NASDAQ National
+Market system as of that date. For purposes of this calculation only, affiliates
+are deemed to be directors and executive officers of the registrant.
+
+At March 29, 2001, 153,439,270 shares of Class A common stock, par value $0.01
+per share, and 19,235,998 shares of Class B common stock, par value $0.01 per
+share, of the registrant were outstanding.
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of the Form 10-K or any amendment to the
+Form 10-K.
+
+
+
+<PAGE>
+
+
+         The undersigned registrant hereby amends the following items, financial
+statements, exhibits or other portions of its Annual Report on Form 10-K for the
+year ended December 31, 2000 as set forth in the pages attached hereto:
+
+        PART III
+
+        Item 10.  Directors and Executive Officers of the Registrant
+
+        Item 11.  Executive Compensation
+
+        Item 12.  Security Ownership of Certain Beneficial Owners and Management
+
+        Item 13.  Certain Relationships and Related Transactions
+
+                                   SIGNATURES
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+
+
+                                            ADELPHIA COMMUNICATIONS CORPORATION
+
+
+
+April 30, 2001                              By:   /s/ Timothy J. Rigas
+                                                 -------------------------------
+                                                 Timothy J. Rigas
+                                                 Executive Vice President, Chief
+                                                 Financial Officer, Chief
+                                                 Accounting Officer, Treasurer
+                                                 and Director
+
+
+
+<PAGE>
+
+
+Item 10.  Directors and Executive Officers of the Registrant
+
+         The  information  set forth in Part I under the caption  "Executive
+Officers of the Registrant" is incorporated herein by reference. All of the
+following directors were first elected or appointed as directors in 1986 except
+for Mr. Dennis Coyle, Mr. Leslie J. Gelber, Mr. Peter L. Venetis and Mr. Erland
+E. Kailbourne. Mr. Coyle was first elected as a director of the Company in 1995
+and Mr. Gelber, Mr. Venetis and Mr. Kailbourne were first elected as directors
+of the Company in 1999.
+
+
+John J. Rigas
+Age 76
+
+         John J. Rigas is the founder, Chairman, President and Chief Executive
+Officer of Adelphia and is President of its subsidiaries. He is also Chairman
+and a director of Adelphia Business Solutions, Inc. ("Adelphia Business
+Solutions"). Mr. Rigas has served as President or general partner of most of the
+constituent entities which became wholly-owned subsidiaries of Adelphia upon its
+formation in 1986, as well as the cable television operating companies acquired
+by the Company which were wholly or partially owned by members of the John J.
+Rigas family or entities controlled by them ("the Rigas Family"). Mr. Rigas has
+owned and operated cable television systems since 1952. Among business and
+community service activities, Mr. Rigas is Chairman of the Board of Directors of
+Citizens Bancorp., Inc., Coudersport, Pennsylvania, and a member of the Board of
+Directors of Charles Cole Memorial Hospital. He is a director of the National
+Cable Television Association and a past President of the Pennsylvania Cable
+Television Association. He is also a member of the Board of Directors of C-SPAN
+and the Cable Advertising Bureau, and is a Trustee of St. Bonaventure
+University. He graduated from Rensselaer Polytechnic Institute with a B.S. in
+Management Engineering in 1950.
+
+         John J. Rigas is the father of Michael J. Rigas, Timothy J. Rigas and
+James P. Rigas, each of whom currently serves as a director and executive
+officer of the Company, and is the father-in-law of Peter Venetis who also
+serves as a director of the Company.
+
+
+Michael J. Rigas
+Age 47
+
+         Michael J. Rigas is Executive Vice President, Operations and Secretary
+of Adelphia and is a Vice President of its subsidiaries. He is also Vice
+Chairman, Secretary and a director of Adelphia Business Solutions. Since 1981,
+Mr. Rigas has served as a Senior Vice President, Vice President, general partner
+or other officer of the constituent entities which became wholly-owned
+subsidiaries of Adelphia upon its formation in 1986, as well as the cable
+television operating companies acquired by the Company which were wholly or
+partially owned by members of the Rigas Family. From 1979 to 1981, he worked for
+Webster, Chamberlain & Bean, a Washington, D.C. law firm. Mr. Rigas graduated
+from Harvard University (magna cum laude) in 1976 and received his Juris Doctor
+degree from Harvard Law School in 1979.
+
+<PAGE>
+
+
+
+Timothy J. Rigas
+Age 44
+
+         Timothy J. Rigas is Executive Vice President, Chief Financial Officer,
+Chief Accounting Officer and Treasurer of Adelphia and its subsidiaries. He is
+also Vice Chairman, Chief Financial Officer and Treasurer and a director of
+Adelphia Business Solutions. Since 1979, Mr. Rigas has served as Senior Vice
+President, Vice President, general partner or other officer of the constituent
+entities which became wholly-owned subsidiaries of Adelphia upon its formation
+in 1986, as well as the cable television operating companies acquired by the
+Company which were wholly or partially owned by members of the Rigas Family. Mr.
+Rigas graduated from the University of Pennsylvania, Wharton School, with a B.S.
+degree in Economics (cum laude) in 1978.
+
+
+James P. Rigas
+Age 43
+
+         James P. Rigas is Executive Vice President, Strategic Planning of
+Adelphia and is a Vice President of its subsidiaries. He also serves as Vice
+Chairman, President, Chief Executive Officer and Chief Operating Officer and a
+director of Adelphia Business Solutions. Since February 1986, Mr. Rigas has
+served as a Senior Vice President, Vice President or other officer of the
+constituent entities which became wholly-owned subsidiaries of Adelphia upon its
+formation in 1986, as well as the cable television operating companies acquired
+by the Company which were wholly or partially owned by members of the Rigas
+Family. Among his business activities, Mr. Rigas is a member of the Board of
+Directors of Cable Labs. Mr. Rigas graduated from Harvard University (magna cum
+laude) in 1980 and received a Juris Doctor degree and an M.A. degree in
+Economics from Stanford University in 1984. From June 1984 to February 1986, he
+was a consultant with Bain & Co., a management consulting firm.
+
+
+Pete J. Metros
+Age 60
+
+         Pete J. Metros became a director of Adelphia on November 4, 1986.  Mr.
+Metros has been President and a member of the Board of Directors of Rapistan
+Demag Corporation, a subsidiary of Mannesmann AG, since December 1991. From
+August 1987 to December 1991, he was President of Rapistan Corp., the
+predecessor of Rapistan Demag Corporation, and of Truck Products Corp., both of
+which were major subsidiaries of Lear Siegler Holdings Corp. From 1980 to August
+1987, Mr. Metros was President of the Steam Turbine, Motor & Generator Division
+of Dresser-Rand Company. From 1964 to 1980, he held various positions at the
+General Electric Company, the last of which was Manager of Manufacturing for the
+Large Gas Turbine Division. Mr. Metros is also on the Board of Directors of
+Adelphia Business Solutions, and Borroughs Corporation of Kalamazoo, Michigan.
+Mr. Metros received a BS degree from the Georgia Institute of Technology in
+1962.
+
+
+
+
+<PAGE>
+
+
+
+
+Dennis P. Coyle
+Age 62
+
+         Dennis P. Coyle is General  Counsel and Secretary of FPL Group,  Inc.
+and Florida Power & Light Company. Mr. Coyle was named General Counsel of FPL
+Group, Inc. and Florida Power & Light Company in 1989, and assumed the
+additional title and responsibilities of Secretary of such companies in 1991. He
+graduated from Dartmouth College in 1960 and received his law degree from
+Columbia University in 1965.
+
+Leslie J. Gelber
+Age 44
+
+         Leslie J. Gelber has been  President and Chief  Operating  Officer of
+Caithness Corporation since January 1, 1999. Prior to this position, Mr. Gelber
+was President of Cogen Technologies, Inc. from July 1998 until December 1998.
+From 1993 until July 1998, Mr. Gelber was the President of ESI Energy, Inc., a
+former subsidiary of FPL Group, Inc. Prior to joining ESI, Mr. Gelber was the
+Director of Corporate Development for FPL Group and was Chairman of FPL Group's
+cable television subsidiary and President of its information services
+subsidiary. Mr. Gelber received a B.A. degree from Alfred University in 1977 and
+a Master's degree in business administration from the University of Miami in
+1978.
+
+Peter L. Venetis
+Age 43
+
+         Peter L. Venetis is Managing  Partner of Praxis Capital  Ventures,  a
+private equity investment firm providing growth capital to emerging companies in
+the telecommunications, digital media and related industries. Praxis Capital
+Ventures is a subsidiary of Adelphia. Mr. Venetis was President and Chief
+Executive Officer of the Atlantic Bank of New York from March 1992 to April
+2000. Prior to this position, Mr. Venetis was a Director in the Leveraged
+Finance Group at Salomon Brothers, Inc. where he was employed from 1985 to 1992.
+Mr. Venetis is also a board member of Atlantic Bank of New York and is a Trustee
+of the Churchill School and Center in Manhattan. Mr. Venetis graduated from
+Columbia University (cum laude) in 1979 and received his MBA in Finance and
+International Business from the Columbia University Graduate School of Business
+in 1981.
+
+
+
+<PAGE>
+
+
+Erland E. Kailbourne
+Age 59
+
+         Erland E. Kailbourne is the retired Chairman and Chief Executive
+Officer (New York Region) of Fleet National Bank. He served with the Fleet
+organization or its predecessors for 37 years prior to his retirement on
+December 31, 1998. Mr. Kailbourne is currently Chairman and President of The
+John R. Oishei Foundation, a director of the New York ISO Utilities Board, a
+director of Albany International Corporation, Bush Industries, Inc., Rand
+Capital Corporation, Statewide Zone Capital Corporation, Allegany Co-op
+Insurance Company, and USA Niagara Development Corporation. He is also a member
+of the Advisory Council of the New York State Office of Science, Technology and
+Academic Research and is a member of the Trooper Foundation. He is a past
+director of the New York Business Development Corporation, the Business Council
+of New York State, Inc., Fleet National Bank, Security New York State Corp.,
+Fleet Trust Company, Robert Morris Associates, the Buffalo and Rochester
+Chambers of Commerce, the SUNY Albany Foundation, the SUNY Buffalo Foundation,
+WXXI-Public Television, WNED-Public Television, WMHT-Public Television and a
+member of the Advisory Board of Chautauqua Airlines. Mr. Kailbourne graduated
+with a degree in business administration from Alfred State College in 1961.
+
+Section 16(a) Beneficial Ownership Reporting Compliance
+
+         Section 16(a) of the Securities Exchange Act requires the Company's
+directors, executive officers and persons who beneficially own more than ten
+percent of a class of the Company's registered equity securities to file with
+the Securities and Exchange Commission and deliver to the Company initial
+reports of ownership and reports of changes in ownership of such registered
+equity securities.
+
+         To the Company's knowledge, based solely on a review of the copies of
+such reports furnished to the Company or written representations that no other
+reports were required, the Company's directors, executive officers and more than
+ten percent stockholders filed on a timely basis all reports due under Section
+16(a) for the year ended December 31, 2000, except that John Rigas, Michael
+Rigas, Timothy Rigas, James Rigas, Ellen Rigas, Highland Holdings and Peter
+Venetis filed a late report with respect to the same, single transaction by
+Highland Holdings.
+
+
+
+
+<PAGE>
+
+
+Item 11. Executive Compensation
+
+Summary Compensation Table
+
+         The following table sets forth certain information regarding
+compensation paid by the Company for services rendered during the Company's
+years ended December 31, 2000, 1999 and 1998 to the Company's Chief Executive
+Officer and its three other executive officers:
+<TABLE>
+<CAPTION>
+
+Annual Compensation
+
+                                                                                   Long-Term Compensation
+                                                                                 Restricted      Securities      All Other
+                                                            Compensation ($)       Stock         Underlying    Compensation
+Name and Principal Position           Period Ended (a)      Salary     Bonus    Awards (d)($)  Options (d)(#)    (b)(c)($)
+---------------------------           ----------------   ----------- --------- -------------- --------------- ---------------
+<S>                                <C>                   <C>          <C>      <C>             <C>            <C>
+
+John J. Rigas                      Year ended 12/00        1,407,763     --          --             --             466,050
+Chairman, President and            Year ended 12/99        1,354,953     --       1,575,000       100,000          461,940
+Chief Executive Officer            Year ended 12/98        1,367,399     --          --             --             461,061
+
+Michael J. Rigas                   Year ended 12/00          244,880     --          --             --              20,996
+Executive Vice President,          Year ended 12/99          223,856     --       1,575,000       100,000           10,950
+Operations and Secretary           Year ended 12/98          229,866     --           -             --              10,950
+
+Timothy J. Rigas                   Year ended 12/00          236,883     --          --             --              19,944
+Executive Vice President, Chief    Year ended 12/99          223,856     --       1,575,000       100,000           10,950
+Financial Officer, Chief           Year ended 12/98          229,866     --          --             --              10,950
+Accounting Officer and Treasurer
+
+James P. Rigas                     Year ended 12/00          236,883     --          --             --              11,669
+Executive Vice President,          Year ended 12/99          223,856     --       1,575,000       100,000           11,669
+Strategic Planning                 Year ended 12/98          229,385     --          --             --              11,431
+<FN>
+
+(a)      On March 30, 1999, the Company changed its fiscal year end from March
+         31 to December 31, effective December 31, 1998. The year ended December
+         31, 1998 includes three months of compensation from the fiscal year
+         ended March 31, 1998.
+
+(b)      Years  ended  December  31,  2000,  1999 and 1998  amounts  include:
+         (i) life insurance premiums paid during each respective period by the
+         Company under employment agreements with John J. Rigas, Michael J.
+         Rigas, Timothy J. Rigas and James P. Rigas, in premium payment amounts
+         of $200,000, $20,246, $19,194 and $10,919, respectively, during the
+         year ended December 31, 2000, $200,000, $10,200, $10,200 and $10,919,
+         respectively, during the year ended December 31, 1999, $200,000,
+         $10,200, $10,200 and $10,681, respectively, during the year ended
+         December 31, 1998 on policies owned by the respective named executive
+         officers; (ii) $212,166, $216,270 and $227,805 for John J. Rigas which
+         represents the dollar value of the benefit of the whole-life portion of
+         the premiums paid by the Company during the years ended December 31,
+         2000, 1999 and 1998, respectively, pursuant to a split-dollar life
+         insurance arrangement projected on an actuarial basis; (iii) $53,134,
+         $44,920 and $32,506 for John J. Rigas, which represents payments by the
+         Company during the years ended December 31, 2000, 1999 and 1998,
+         respectively, pursuant to a split-dollar life insurance arrangement
+
+<PAGE>
+
+         that is attributable to term life insurance coverage; and (iv) $750 in
+         Company matching contributions for each executive officer under the
+         Company's 401(k) savings plan for the years ended December 31, 2000,
+         1999 and 1998, respectively. The amounts shown above do not include
+         transactions between the Company and certain executive officers or
+         certain entities which are privately owned in whole or in part by the
+         executive officers named in the table. See "Item 13, Certain
+         Relationships and Related Transactions."
+
+         In accordance with an agreement related to the split-dollar life
+         insurance arrangement referred to above, the Company will be reimbursed
+         for all premiums paid related to such arrangement upon the earlier of
+         death of both the insured and his spouse or termination of the
+         insurance policies related to such arrangement.
+
+(c)      Does not include the value of certain non-cash compensation to
+         each respective named individual which did not exceed the lesser of
+         $50,000 or 10% of such individual's total annual salary shown in the
+         table.
+
+(d)      The respective amounts set forth represent restrictive stock awards of
+         Adelphia Business Solutions Class A common stock, and stock options to
+         purchase Adelphia Business Solutions Class A common stock, which were
+         granted to the named executive officers by Adelphia Business Solutions
+         under its 1996 Long-Term Incentive Compensation Plan ("1996 Plan"). The
+         amounts shown represent the aggregate restricted stock awards held by
+         the named executive officers at December 31, 2000. At that date, the
+         value of each such award, based on the closing price of the Class A
+         common stock was $425,000.
+</FN>
+</TABLE>
+
+         All of the executive officers are eligible to receive stock options or
+stock bonuses of Class A common stock under the Company's 1998 Long-Term
+Incentive Compensation Plan ("1998 Plan"), to be awarded or granted at the
+discretion of the Plan Administrator (as defined therein), subject to certain
+limitations on the number of shares that may be awarded to each executive
+officer under the 1998 Plan. No awards were made to executive officers under the
+1998 Plan during the years ended December 31, 2000 and 1999.
+
+
+
+<PAGE>
+
+
+<TABLE>
+<CAPTION>
+                                  Aggregate Option Exercises In Last Fiscal Year
+                                       and December 31, 2000 Option Values
+
+
+                                                                       Number of Securities    Value of Unexercised
+                                                                      Underlying Unexercised      In-The-Money
+                                                                           Options at              Options at
+                                                                        December 31, 2000       December 31, 2000
+                              Shares Acquired                          (#)(1) Exercisable/         Exercisable/
+Name                          on Exercise (#)    Value Realized ($)        Unexercisable       Unexercisable ($)(1)
+----                         -----------------   -----------------  ------------------------- ----------------------
+
+<S>                          <C>                 <C>                <C>                        <C>
+John J. Rigas                       0                      0              0/100,000                     0/0
+
+Michael J. Rigas                    0                      0              0/100,000                     0/0
+
+Timothy J. Rigas                    0                      0              0/100,000                     0/0
+
+James P. Rigas                      0                      0              0/100,000                     0/0
+<FN>
+
+
+(1)      All options granted were with respect to the Class A common stock of
+         Adelphia Business Solutions, with an exercise price equal to the fair
+         market value of such stock on the date of grant. These options all vest
+         in three equal, annual amounts on the third, fourth and fifth
+         anniversaries of the date of grant.
+</FN>
+</TABLE>
+
+Employment Contracts and Termination of Employment
+
+         During the year ended December 31, 2000, each of the named executive
+officers had an employment agreement with the Company which is automatically
+renewable each year unless one party gives the other prior notice and which
+provides among other things for compensation review by the Compensation
+Committee, the insurance premium payments listed in note (a)(i) to the Summary
+Compensation Table above, and benefits. In addition, under such employment
+agreements, upon termination of such employment for any reason other than "for
+cause," each of the executive officers will be entitled to receive severance pay
+equal to three months of his salary plus the amount of insurance premiums
+payable under such officer's employment agreement which, as of January 1, 2001,
+in the aggregate in the case of John J. Rigas would be approximately $343,218.
+
+         The Company pays the annual premiums related to a split-dollar life
+insurance arrangement for joint and survivor life insurance coverage for John J.
+Rigas and his spouse. Upon the earlier of the death of Mr. Rigas and the death
+of his spouse or the termination of the arrangement, the Company will recover
+all of the premiums previously paid by the Company. The compensation related to
+such arrangement is derived as described in notes (b)(ii) and (iii) to the
+Summary Compensation Table above.
+
+Compensation Committee
+
+         Erland Kailbourne, Leslie Gelber, Dennis Coyle and Pete J. Metros serve
+as members of the Compensation Committee of the Board of Directors. None of
+these compensation committee members has been an officer or employee of the
+Company.
+<PAGE>
+
+Board of Directors Compensation
+
+         Directors who are not also employees of the Company each receive
+compensation from the Company for services as a director at a rate of $1,000
+plus reimbursement of expenses for each Board and committee meeting attended.
+Directors who are employees of the Company do not receive any compensation for
+services as a director or as a member of Board committees.
+
+Item 12.  Security Ownership of Certain Beneficial Owners and Management
+
+         The following table sets forth, based on information available to the
+Company as of March 29, 2001, certain information with respect to the beneficial
+ownership of Class A common stock and Class B common stock by each director or
+nominee for director, all executive officers and directors of Adelphia as a
+group, and each person known to Adelphia to own beneficially more than 5% of
+either class of common stock, based on 153,439,270 shares of Class A common
+stock and 19,235,998 shares of Class B common stock outstanding, respectively,
+as of such date. Unless otherwise noted, each of the shareholders in the table
+has sole voting and investment power. The business address of each 5% beneficial
+owner named below, unless otherwise noted, is One North Main Street,
+Coudersport, Pennsylvania 16915.
+
+<TABLE>
+<CAPTION>
+                                                   Shares of        Percent of       Shares of         Percent of
+                                                    Class A          Class A          Class B            Class B
+                                                    Common            Common          Common             Common
+Name                                                 Stock            Stock            Stock              Stock
+                                                 -------------     ------------   ----------------    -------------
+<S>                                              <C>               <C>            <C>                 <C>
+John J. Rigas                                         (a)              (b)         14,318,658(c)          74.4%
+
+Michael J. Rigas                                      (a)              (b)         10,333,442(c)          53.7%
+
+Timothy J. Rigas                                      (a)              (b)         10,333,442(c)          53.7%
+
+James P. Rigas                                        (a)              (b)         9,569,106(c)           49.7%
+
+Pete J. Metros                                        500              (d)              --                 --
+
+Dennis P. Coyle                                      1,000             (d)              --                 --
+
+Leslie J. Gelber                                     3,000             (d)              --                 --
+
+Erland E. Kailbourne                                  500              (d)              --                 --
+
+Peter L. Venetis                                      (e)              (e)         8,679,234(c)           45.1%
+
+All executive officers and directors
+   as a group (nine persons)                   44,843,457(a)(c)        (b)         19,235,998(c)         100.0%
+
+Ellen K. Rigas                                        (f)              (g)         8,679,234(c)           45.1%
+
+Doris Holdings, L.P. (h)                           2,398,151           1.6%             --                 --
+
+Highland Holdings II (i)                           4,000,000           2.6%             --                 --
+
+Highland Communications,
+  L.L.C.(i)                                        8,556,268           5.6%             --                 --
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+                                                   Shares of        Percent of       Shares of         Percent of
+                                                    Class A          Class A          Class B            Class B
+                                                    Common            Common          Common             Common
+Name                                                 Stock            Stock            Stock              Stock
+                                                 -------------     ------------   ----------------    -------------
+Highland Preferred
+  Communications, L.L.C. (i)...............        9,433,962           6.1%             --                 --
+
+Highland Holdings (i).....................        19,128,108          12.5%             --                 --
+
+Highland 2000, L.P........................            (j)              (j)         8,401,522(c)           43.7%
+
+Leonard Tow................................      28,850,138(k)        18.8%             --                 --
+   50 Locust Avenue
+   New Canaan, CT  06840
+
+Claire L. Tow..............................      19,695,574(1)        12.8%             --                 --
+   50 Locust Avenue
+   New Canaan, CT  06840
+
+David Z. Rosensweig........................      20,449,209(m)        13.3%             --                 --
+   162 Brite Avenue
+   Scarsdale, NY  10583
+
+Cablevision Systems Corporation............       10,800,000           7.0%             --                 --
+   1111 Stewart Avenue
+   Bethpage, NY  11714
+
+AXA Financial, Inc.........................      8,146,800(n)          5.3%             --                 --
+   1290 Avenue of the Americas
+   New York, NY  10104
+
+Wallace R. Weitz & Company.................      7,741,011(o)          5.0%             --                 --
+   1125 South 103rd Street
+   Suite 600
+   Omaha, NE  68124
+
+<FN>
+
+(a)      The  holders  of Class B common  stock are  deemed to be  beneficial
+         owners of an equal number of shares of Class A common stock because
+         Class B common stock is convertible into Class A common stock on a
+         one-to-one basis. See note (c) below. In addition, the following
+         persons own or have the power to direct the voting of shares of Class A
+         common stock in the following amounts: John J. Rigas, 431,800 shares -
+         71,700 shares directly and 360,100 shares through Doris Holdings, L.P.
+         ("Doris"); Michael J. Rigas, 193,500 shares - 200 shares directly and
+         193,300 shares through Doris; Timothy J. Rigas, 193,500 shares - 200
+         shares directly and 193,300 shares through Doris; James P. Rigas,
+         193,300 shares through Doris. John J. Rigas shares voting power with
+         his spouse with respect to 106,300 of such shares held through Doris.
+
+<PAGE>
+
+         Each of John J. Rigas, Michael J. Rigas, Timothy J. Rigas and James P.
+         Rigas also shares voting and dispositive power with respect to the
+         8,401,522 shares of Class B common stock owned by Highland 2000, L.P.,
+         the 19,128,108 shares of Class A common beneficially owned by Highland
+         Holdings and subsidiaries ("Highland"), the 4,000,000 shares of Class A
+         common held by Highland Holdings II ("Highland II") and the other
+         1,458,151 shares of Class A common held by Doris. See notes (h) and
+         (i).
+
+(b)      After giving effect to the conversion  solely by each individual holder
+         of all of his Class B common stock into Class A common stock and
+         including all shares of Class A common stock, currently held by such
+         individual holder or over which such individual holder has or shares
+         voting or investment power as disclosed in notes (a) above or (h) and
+         (i) below, the percentage of Class A common stock owned by John J.
+         Rigas, Michael J. Rigas, Timothy J. Rigas and James P. Rigas would be
+         23.8%, 21.9%, 21.9% and 21.5%, respectively. Further, after giving
+         effect to an additional 4,919,340 shares of Class A common stock of
+         which John J. Rigas has the right to direct the voting in the election
+         of directors pursuant to a Class B Stockholders Agreement (and assuming
+         the parties to such agreement converted their Class B common stock into
+         Class A common stock), as to all of which additional shares John J.
+         Rigas disclaims beneficial ownership, the percentage of Class A common
+         stock owned by John J. Rigas would be 26.0%.
+
+(c)      The  respective  amounts shown  include,  other than for Highland 2000,
+         L.P., 97,949 of the same shares of Class B common stock which are owned
+         of record by Dorellenic, a general partnership in which the five named
+         individual Rigas family members are general partners and include, for
+         all amounts shown, 8,401,522 of the same shares of Class B common stock
+         which are owned by Highland 2000, L.P., a limited partnership in which
+         the five named individual Rigas family members are limited partners,
+         and such shares are only included once for "all executive officers and
+         directors as a group." The named Rigas individuals have shared voting
+         and investment power with respect to these shares. The shares of Class
+         B common stock shown for Peter L. Venetis represent the shares
+         beneficially owned by his wife, Ellen K. Rigas. The respective amounts
+         shown for each individual or group do not include any of the 17,976,717
+         shares of Class B common stock consisting of (i) 5,819,637 shares of
+         Class B common stock that Highland 2000, L.P. has agreed to purchase
+         from Adelphia on or before October 20, 2001, pursuant to a pending
+         purchase agreement and (ii) 3,016,165 shares and 9,141,185 shares of
+         Class B common stock, respectively, which could be issued upon
+         conversion of convertible notes that Highland 2000, L.P. has agreed to
+         purchase from Adelphia on or before October 20, 2001 and January 20,
+         2002 pursuant to pending purchase agreements.
+
+(d)      Less than 1%.
+
+(e)      Peter L. Venetis is the husband of Ellen K. Rigas.  As a result, he is
+         deemed to beneficially own indirectly the shares beneficially owned by
+         Ellen K. Rigas. Based upon 2,500 shares of Class A common stock owned
+
+<PAGE>
+
+         directly by Mr. Venetis and the shares of Class A common stock owned or
+         deemed to be owned beneficially by Ellen K. Rigas, the percentage of
+         Class A common stock owned or deemed to be beneficially owned by Mr.
+         Venetis would be 19.6%. See notes (c), (f), (g) and (i).
+
+(f)      As a holder of Class B common stock, Ellen K. Rigas is deemed to be the
+         beneficial owner of an equal number of shares of Class A common stock
+         because Class B common stock is convertible into Class A common stock
+         on a one-to-one basis. In addition, Ellen K. Rigas owns 1,600 shares of
+         Class A common stock directly and shares voting and investment power
+         with respect to 19,128,108 shares of Class A common stock held by
+         Highland and 4,000,000 shares of Class A common stock held by Highland
+         II. See also notes (c) and (i). Ellen K. Rigas is the daughter of John
+         J. Rigas.
+
+(g)      After giving effect to the conversion of all of Ellen K. Rigas' Class B
+         common stock into shares of Class A common stock and including all
+         shares of Class A common stock held by Ellen K. Rigas or over which
+         Ellen K. Rigas has or shares voting or investment power as discussed in
+         note (i) below, the percentage of Class A common stock owned by Ellen
+         K. Rigas would be 19.6%.
+
+(h)      Doris and Eleni Acquisition,  Inc., the general partner of Doris, are
+         affiliates of John J. Rigas, Michael J. Rigas, Timothy J. Rigas and
+         James P. Rigas, each of whom has shared voting and investment power
+         with respect to the shares held by Doris. In addition, through
+         irrevocable proxies, each of the above-named individuals shares with
+         Doris the power to vote or direct the vote of such number of shares of
+         Class A common stock held as is described in note (a).
+
+(i)      Each of Highland and Highland II is a general  partnership, the general
+         partners of which are John J. Rigas, Michael J. Rigas, Timothy J.
+         Rigas, James P. Rigas and Ellen K. Rigas. These Rigas family members
+         may be deemed to share voting and investment power with respect to the
+         shares held by Highland's wholly owned subsidiaries, Highland
+         Communications, L.L.C. and Highland Preferred Communications, L.L.C.,
+         and also with respect to the shares held by Highland II. The amount
+         shown for Highland Communications, L.L.C. includes 8,506,268 shares of
+         Class A common stock held directly by it and 50,000 shares of Class A
+         common stock held by Bucktail Broadcasting Corporation, another
+         subsidiary of Highland.
+
+(j)      After giving effect to the conversion of all of Highland 2000, L.P.'s
+         Class B common stock into shares of Class A common stock, the
+         percentage of Class A common stock owned by Highland 2000, L.P. would
+         be 5.2%.
+
+(k)      According to a Schedule 13G, includes 6,207,204 shares as to which Mr.
+         Tow has sole voting and investment power. Also includes 19,583,927
+         shares held by trusts and foundations (17,307,308 of which are held by
+         the Claire Tow Trust, 50 Locust Avenue, New Canaan, CT 06840) as to all
+         of which he may be deemed to share voting and investment power with his
+         wife, Claire L. Tow, and David Z. Rosensweig and 3,059,007 shares held
+         by Citizens Communications Company as to which he may be deemed to
+
+<PAGE>
+
+         share voting and investment power, as to all of which shares Mr. Tow
+         disclaims beneficial ownership. Does not include 111,647 shares
+         described in note (1) as to which Mrs. Tow has sole voting and
+         investment power, as to which shares Mr. Tow disclaims beneficial
+         ownership.
+
+(l)      Includes 111,647 shares as to which Mrs. Tow has sole voting and
+         investment power. Also includes the 19,583,927 shares described in note
+         (k) as to which she may be deemed to share voting and investment power
+         with Mr. Tow and Mr. Rosensweig and does not include the 6,207,204
+         shares described in note (k) as to which Mr. Tow has sole voting and
+         investment power, as to all of which shares Mrs. Tow disclaims
+         beneficial ownership.
+
+(m)      Includes 5,000 shares as to which Mr. Rosensweig has sole voting and
+         investment power. Also includes the 19,583,927 shares described in note
+         (k) as to which he may be deemed to share voting and investment power
+         with Mr. and Mrs. Tow and 1,160,282 shares held in trust over which he
+         is the sole trustee, as to all of which shares he disclaims beneficial
+         ownership.
+
+(n)      According to a Schedule 13G, two subsidiaries of the named person,
+         Alliance Capital Management L.P. and the Equitable Life Assurance
+         Society of the United States, have shared voting power over an
+         aggregate of 7,667,320 of such shares, sole voting power over 455,012
+         of such shares, and sole dispositive power over all of such shares.
+
+(o)      According to a Schedule 13G, the named person has sole voting power
+         over all of such shares and has shared dispositive power over all of
+         such shares with Wallace R. Weitz, president of the named person.
+</FN>
+</TABLE>
+
+         John J. Rigas, Michael J. Rigas, Timothy J. Rigas, James P. Rigas,
+Ellen K. Rigas, Dorellenic and the Company are parties to a Class B Stockholders
+Agreement providing that such stockholders shall vote their shares of common
+stock for the election of directors designated by a majority of voting power (as
+defined in the Agreement) of the shares of common stock held by them. The Class
+B Stockholders Agreement also provides that, in the absence of the consent of
+the holders of a majority of the voting power of the shares of common stock
+owned by the parties to the Agreement, (i) none of the stockholder parties may
+sell, assign or transfer all or any part of their shares of common stock in a
+public sale (as defined in the Agreement) without first offering the shares to
+the other parties to the Agreement and (ii) no stockholder party may accept a
+bona fide offer from a third party to purchase shares of such stockholder
+without first offering the shares to the Company and then to the other parties
+to the Class B Stockholders Agreement. In addition, each party has certain
+rights to acquire the shares of common stock of the others under certain
+conditions.
+
+
+
+<PAGE>
+
+
+Item 13. Certain Relationships and Related Transactions
+
+Management Services
+
+         During the year ended December 31, 2000, the Company provided
+management services for certain cable television systems not owned by the
+Company, including managed partnerships ("Managed Partnerships") in which John
+J. Rigas, Michael J. Rigas, Timothy J. Rigas, James P. Rigas and Ellen K. Rigas
+had varied ownership interests. These services included supervision of technical
+and business operations, accounting, marketing, programming, purchasing, field
+engineering and other technical and administrative nonfield services. During
+this period, the Managed Partnerships paid the Company up to five percent of
+system revenues for such services. Other fees were charged by the Company to the
+Managed Partnerships during this period for goods and services including
+mark-ups on the Company's pay programming, placement fees associated with
+completed and pending acquisitions, and other goods and services. In addition,
+the Managed Partnerships charged the Company for system and corporate costs
+during this period. The net fees and expenses charged by the Company to Managed
+Partnerships amounted to $37,579,000 for the year ended December 31, 2000. In
+addition, the Company paid $15,864,000 to other entities owned by members of the
+Rigas family, primarily for property, plant and equipment and services for the
+year ended December 31, 2000.
+
+Loans to and from Affiliates
+
+         Certain loans to and from the Company by or to affiliates as of
+December 31, 2000 are summarized below. Interest is charged on such loans to
+affiliates at rates which ranged from 9.00% to 11.31% for the year ended
+December 31, 2000.
+
+         Total interest income on loans to managed affiliates aggregated
+$40,333,000 for the year ended December 31, 2000.
+
+         Net receivables due from the Managed Partnerships and Dorellenic, a
+Rigas family partnership, for advances made by the Company for the construction
+and acquisition of cable television systems and for working capital purposes,
+including accrued interest thereon, were $3,071,000 at December 31, 2000.
+
+         On an end-of-quarter basis, the largest aggregate amount of net
+outstanding loans and advances receivable from affiliates (directors, executive
+officers and five-percent shareholders) or entities they control, including John
+J. Rigas, Michael J. Rigas, Timothy J. Rigas, James P. Rigas, Ellen K. Rigas,
+Dorellenic and/or the Managed Partnerships during the year ended December 31,
+2000 was $263,135,000 at June 30, 2000. No related party advances are
+collateralized.
+
+
+Co-Borrowing Agreements
+
+         On March 29, 1996, a subsidiary of the Company entered into a
+$200,000,000 loan agreement with a Managed Partnership and an Olympus
+subsidiary, as co-borrowers, which agreement remained in effect at December 31,
+2000. On May 6, 1999, certain subsidiaries and affiliates of Adelphia and
+Olympus, including Hilton Head Communications, L.P., a Rigas family partnership,
+
+<PAGE>
+
+closed on an $850,000,000 credit facility with several banks, which consists of
+a $600,000,000 8 1/2 year reducing revolving credit loan and a $250,000,000 9
+year term loan, and which remained in effect at December 31, 2000.
+
+
+         On April 14, 2000, certain subsidiaries and affiliates of Adelphia,
+including Highland Prestige Georgia, Inc., a Rigas family partnership, closed on
+a $2,250,000,000 credit facility with several banks. The credit facility
+consists of a $1,500,000,000 8 3/4 year reducing revolving credit loan and a
+$750,000,000 9 year term loan. Additionally, on September 28, 2000, Adelphia
+closed on a $500,000,000 9 1/4 year term loan through certain subsidiaries and
+affiliates of Adelphia. This term loan is an additional part of the credit
+facility closed on April 14, 2000, all of which remained in effect at December
+31, 2000.
+
+         In the aggregate, at December 31, 2000, certain subsidiaries of
+Adelphia were co-borrowers with Managed Entities under these credit facilities
+for borrowings of up to $3,751,250,000. Each of the co-borrowers is liable for
+all borrowings under the credit agreements, and may borrow up to the entire
+amount of the available credit under the facility. The lenders have no recourse
+against Adelphia other than against Adelphia's interest in such subsidiaries.
+
+Business Opportunities
+
+         The Company's executive officers are parties to a Business Opportunity
+Agreement, dated July 1, 1986 (the "Business Opportunity Agreement"), under
+which they have agreed not to acquire an interest (except that such persons may,
+individually for their own account, engage in regular portfolio trading of
+publicly traded securities of companies in the cable television industry) in any
+cable television system except: cable television systems which they or their
+affiliates (excluding the Company) owned, in whole or in part, operated or had
+agreed to acquire as of July 1, 1986; any expansions of such systems within the
+same county or an adjacent county (except for systems which are also contiguous
+to Company-owned systems); and systems which the Company elects not to acquire
+under its right of first refusal described below and any expansions of such
+systems within the same county or an adjacent county (except for systems which
+are also contiguous to Company-owned systems). Otherwise, the executive officers
+will first offer to the Company the opportunity to acquire or invest in any
+cable television system or franchise therefor or interest therein that is
+offered or available to them. If a majority of the Company's Board of Directors,
+including a majority of the independent directors, rejects such offer, the
+executive officers may acquire or invest in all of such cable television systems
+or franchises therefor or interest therein or with others on terms no more
+favorable to them than those offered to the Company. During the year ended
+December 31, 2000, pursuant to the Business Opportunities Agreement, entities
+owned by the executive officers acquired cable television systems serving
+approximately 58,200 basic subscribers.
+
+         The Company's executive officers may from time to time evaluate and,
+subject to the Company's rights and covenants in the Company's loan agreements
+and indentures, may acquire cable television systems or interests therein for
+their own accounts separately or along with the Company and/or other joint
+venture parties.
+<PAGE>
+
+         Except for the limitations on the ownership of cable television systems
+as described herein, the executive officers of Adelphia and their affiliates are
+not subject to limitations with respect to their other business activities and
+may engage in other businesses related to cable television or other
+telecommunications media. The executive officers will devote as much of their
+time to the business of the Company as is reasonably required to fulfill the
+duties of their offices.
+
+         In the event that any executive officer (or his affiliate) decides to
+offer for sale (other than to another executive officer or his or another
+executive officer's family member, trust or family controlled entity) for his
+account, his ownership interest in any cable television system or franchise, he
+or it will (subject to the rights of third parties existing at such time) first
+offer such interests to the Company. Such selling person or entity has a
+unilateral option to elect to require that, if the Company accepts such offer,
+up to one half of the consideration for his or its interest would consist of
+shares of Class B common stock, which shares will be valued at the prevailing
+market price of the Class A common stock, and the remainder would consist of
+shares of Class A common stock and/or cash. If a majority of the Company's
+independent directors rejects such offer, the executive officer (or his
+affiliate) may sell such interest to third parties on terms no more favorable to
+such third parties than those offered to the Company.
+
+
+Registration Rights, Stock Purchase and Other Matters
+
+         Pursuant to agreements and arrangements regarding registration rights
+between the Company and the holders of Class B common stock, during 2000 John J.
+Rigas had the right, subject to certain limitations, to require the Company to
+register shares of the Company's common stock owned by him for sale to the
+public and pay the expenses (except for Mr. Rigas' counsel fees) of such
+registration on five occasions selected by him (subject to certain limitations
+intended to prevent undue interference with the Company's ability to distribute
+its securities) during a fourteen-year period which began in December 1986. The
+other holders of Class B common stock had the right to participate, at the
+option of John J. Rigas, as selling stockholders in any such registration
+initiated by John J. Rigas. The holders of Class B common stock also had
+unlimited rights to participate as selling stockholders in any registered public
+offering initiated by the Company and require the Company to pay their expenses
+(except counsel fees). Such rights of participation were subject to limitation
+at the discretion of the managing underwriter of any such offering.
+
+         Substantially all of the Class A common stock and Class B common stock
+owned by the Rigas family or entities they own or control has been registered by
+the Company on shelf registration statements, which remain in effect, or is
+subject to registration rights agreements or arrangements for registration in
+the future.
+
+         On April 9, 1999, Adelphia entered into a stock purchase agreement with
+Highland Holdings in which Adelphia agreed to sell to Highland Holdings, and
+Highland Holdings agreed to purchase $375,000,000 of Adelphia Class B common
+stock. The purchase price per share for the Class B common stock was equal to
+$60.76 (the public offering price in Adelphia's April 28, 1999 public offering,
+less the underwriting discount), plus an interest factor. This transaction,
+covering 5,901,522 shares of Class B common stock, was closed on January 21,
+2000 with Highland 2000, L.P. In addition, the Rigas family waived their rights
+under the Business Opportunity Agreement to acquire certain basic subscribers in
+
+<PAGE>
+
+the Philadelphia area in connection with Adelphia's acquisition, on October 1,
+1999, of the cable television systems owned by Harron Communications Corp.
+
+         On October 1, 1999, Adelphia entered into a stock purchase agreement
+with Highland Holdings in which Adelphia agreed to sell to Highland Holdings and
+Highland Holdings agreed to purchase $137,500,000 of Adelphia's Class B common
+stock. The purchase price for the Class B common stock was $55.00 per share,
+which is equal to the public offering price less the underwriting discount in
+the October 6, 1999 public offering of Class A common stock, plus an interest
+factor. This transaction, covering 2,500,000 shares of Class B common stock, was
+closed on July 2, 2000 with Highland 2000, L.P.
+
+         With respect to purchase agreements between the Company and Highland
+2000, L.P., for Class B common stock and convertible subordinated notes which
+were entered into subsequent to December 31, 2000, incorporated by reference
+herein is (i) Note 15 to the Company's Consolidated Financial Statements for the
+fiscal year ended December 31, 2000 contained in Item 8 of this Form 10-K, and
+(ii) Item 5 of the Company's Form 8-K filed on April 25, 2001.
+
+         In July 2000, certain members of the Rigas family closed on their
+agreement to acquire all the voting interests of Niagara Frontier Hockey, L.P.
+("NFHLP"). In conjunction with the closing of this agreement, Adelphia's Capital
+Funding Notes of NFHLP were converted to a $46,500,000, 10% partially
+subordinated note due in July 2010. Concurrently, with the recapitalization of
+NFHLP, Adelphia also purchased a $30,000,000, 10% fully subordinated note due
+July 2010. Both notes pay interest quarterly with principal due at maturity.
+
+         The Company and Adelphia Business Solutions and members of or entities
+controlled by the Rigas family have entered into various registration rights
+agreements regarding the common stock and Senior Subordinated Notes owned by the
+Rigas family.
+
+
+         From time to time, the Company makes announcements regarding proposed
+transactions that may involve affiliates of the Company. No assurance can be
+given that these transactions will be consummated.
+
+
+
+</TEXT>
+</DOCUMENT>

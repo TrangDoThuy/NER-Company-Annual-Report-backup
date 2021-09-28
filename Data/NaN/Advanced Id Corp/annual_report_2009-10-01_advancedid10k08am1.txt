@@ -1,0 +1,3484 @@
+<DOCUMENT>
+<TYPE>10-K/A
+<SEQUENCE>1
+<FILENAME>advancedid10k08am1.txt
+<DESCRIPTION>AMENDMENT 1 TO FORM 10-K
+<TEXT>
+                              UNITED STATES
+                     SECURITIES AND EXCHANGE COMMISSION
+                        Washington, D.C.  20549
+
+                             Amendment 1 to
+                               FORM 10-K
+
+[X]  15, ANNUAL REPORT UNDER SECTION 13 OR 15(D) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+For the fiscal year ended: December 31, 2008
+ OR
+
+[ ]  15, TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+For the transition period from     to
+
+                     Commission File Number 000-24965
+
+                       ADVANCED ID CORPORATION
+       (Exact name of small business issuer as specified in its charter)
+
+         Nevada                                   46-0439668
+   (State or other jurisdiction                               (IRS Employer
+      of incorporation                                      Identification No.)
+      or organization)
+
+   4500 - 5th Street NE, #200, Bay 6
+     Calgary, Alberta, Canada                      T2E 7C3
+  (Address of principal executive office)                     (Postal Code)
+
+(403) 264-6300
+(Registrant's telephone number)
+
+Securities registered pursuant to Section 12(b) of the Act:  None
+Securities registered pursuant to Section 12(g) of the Act:  Common
+Stock, $.01 par value
+
+Indicate by check mark if the registrant is a well-known seasoned
+issuer, as defined in Rule 405 of the Securities Act. Yes [  ] No [x]
+
+Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or 15(d) of the Exchange act
+Yes [  ] No [x]
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act during the preceding 12 months (or such shorter period that the
+registrant was required to file such reports), and (2) has been subject
+to such filing requirements for at least the part 90 days.
+Yes [x] No[  ]
+
+Indicate by check mark if disclosure of delinquent filers in response to
+Item 405 of Regulation S-K is not contained hereof, and will not be
+contained, to will be contained, to the best of registrant's knowledge,
+in definitive proxy or information statements incorporated by reference
+in Part III of this Form 10-K or any amendment to this Form 10-K.  [  ]
+
+
+<PAGE>2
+
+Indicate by check mark whether the registrant is a large accelerated
+filer, an accelerated filer, a non-accelerated filer, or a smaller
+reporting company.  See definitions of "large accelerated filer,"
+"accelerated file" and "smaller reporting company" in Rule 12b-2 of the
+Exchange Act.  (Check one):
+
+Large accelerated filer [ ] Accelerated filer         [ ]
+Non-accelerated filer   [ ] Smaller reporting company [x]
+
+Indicate by check mark whether the registrant is a shell company (as
+defined in Rule 12b-2 of the Exchange Act). Yes [  ] No [x]
+
+State the aggregate market value of the voting and non-voting common
+equity held by non-affiliates computed by reference to the price at
+which the common equity was last sold, or the average bid and asked
+price of such common equity, as of the last business day of the
+registrant's most recently completed second fiscal quarter. The market
+value of the registrant's voting $.01 par value common stock held by
+non-affiliates of the registrant was approximately $3,160,237.
+
+Indicate the number of shares outstanding of each of the registrant's
+classes of common stock, as of the latest practicable date. The number
+of shares outstanding of the registrant's only class of common stock, as
+of April 5, 2009 was 73,710,839 shares of its $.01 par value common
+stock.
+
+No documents are incorporated into the text by reference.
+
+
+
+<PAGE>3
+                         Advanced ID Corporation
+                               Amendment to
+                                Form 10-K
+             For the Fiscal Year Ended December 31, 2008
+                          Table of Contents
+
+Part I
+
+ITEM 1.  BUSINESS                                                   4
+ITEM 1A. RISK FACTORS                                              13
+ITEM 1B. UNRESOLVED STAFF COMMENTS                                 13
+ITEM 2.  PROPERTIES                                                13
+ITEM 3.  LEGAL PROCEEDINGS                                         13
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS       13
+
+                                  Part II
+
+ITEM 5.  MARKET FOR COMPANY'S COMMON EQUITY AND RELATED
+           STOCKHOLDER MATTERS                                     14
+ITEM 6.  SELECTED FINANCIAL DATA                                   15
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+           CONDITION AND RESULTS OF OPERATIONS                     15
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET
+           RISK                                                    25
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA               25
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+           ACCOUNTING AND FINANCIAL DISCLOSURE                     55
+ITEM 9A. CONTROLS AND PROCEDURES                                   55
+ITEM 9B.  OTHER INFORMATION                                        57
+
+                                    Part III
+
+ITEM 10.  DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERANCE   58
+ITEM 11.  EXECUTIVE COMPENSATION                                   60
+ITEM 12.  SECURITIES OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+           MANAGEMENT AND RELATED STOCKHOLDERS MATTERS             61
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND
+           DIRECTOR INDEPENDENCE                                   61
+ITEM 14.  PRINCIPAL ACCOUNTING FEES AND SERVICES                   63
+
+                                     Part IV
+
+ITEM 15.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES                  65
+
+
+
+<PAGE>4
+                                     PART I
+
+ITEM 1.   BUSINESS
+
+Overview
+
+On October 17, 2002, AVID Canada Corporation combined with USA Sunrise
+Beverages, Inc., an inactive publicly owned company with no assets or
+liabilities, in a business combination accounted for as an acquisition
+of AVID Canada and a recapitalization of USA.  USA had then outstanding
+shares of 10,625,724 and agreed to return 3,624,725 for cancellation,
+leaving 7,000,999 shares outstanding.  USA then issued 28,000,000 shares
+to Heritage Ventures Ltd., AVID Canada's former parent company, in
+exchange for the 200 outstanding shares of AVID Canada and $505,724 in
+debt owed by AVID Canada to Heritage Ventures.  Avid Canada was
+incorporated in Alberta, Canada, on November 26, 1993.  USA changed its
+name to Advanced ID Corporation effective November 15, 2002.  As a
+result of the reverse merger transaction, The registrant's now wholly
+owned AVID Canada and the original security holders of USA now hold
+7,000,999 shares in the registrant.  No consulting fees or finder's fees
+were paid in relation to the reverse merger transaction.
+
+In 2008, we had three wholly-owned subsidiaries; Pneu-Logic Corporation
+Limited located in U.K., AVID Canada Corporation, and Advanced ID Asia
+Pacific Company Limited. AVID Canada Corporation is a reseller of radio
+frequency identification microchips and scanners manufactured by
+American Veterinary Identification Devices of the United States under
+the brand name AVID.  AVID Canada does not own the AVID brand name or
+trademark.  There currently exists no distribution agreement with AVID.
+The products are marketed to the companion animal and biological
+sciences sectors in Canada only.  PLCL is a reseller of RFID products
+for the tire industry.  Due to limited sales in 2008, the administration
+and management of PLCL were moved to the registrant's head office.
+Advanced AP was set up in Hong Kong to allow us to enter the Chinese
+market.   Advanced AP has one wholly-owned subsidiary, Advanced ID
+(Shenzen) Co, Ltd.  Advanced Shenzen was set up to carry out our
+operations in China.
+
+On July 1, 2007, the registrant decided to divest our 60% interest in
+AFG Asia Engineering Co. Ltd. of Chiang Mai, Thailand.
+
+On July 1, 2007, the registrant acquired all operating assets of Pneu-
+Logic Limited of England in order to align ourselves with addressing the
+tire maintenance solution for fleet owners across the world.  Our
+product line has been successful in the European market.
+
+In July 2008, the registrant partnered with our largest distributor in
+Brazil to establish Advanced ID, Brazil, Ltd.  As part of our expansion
+into Brazil, we have acquired a 20% interest in AIDO BR. However, the
+transaction is still awaiting government approvals in Brazil.  To date
+no funds have been advanced for this project.
+
+We develop, manufacture and sell, either directly or through
+distributors, microchip identification technologies referred to as radio
+frequency identification microchips and readers to the animal industry.
+
+
+
+<PAGE>5
+
+In the second quarter of 2004, we began commercializing these products
+under the brand name, DataTRAC(tm).  We own the intellectual property
+rights to the DataTRAC(tm) products.
+
+RFID allows for the positive identification and location tracking of
+animals or objects that are embedded or tagged with RFID microchips.  We
+currently supply over 3,000 organizations such as animal shelters,
+veterinarians, breeders, government agencies, universities, zoos,
+research labs and fisheries with RFID devices for companion animals,
+exotics, equines, bovines, llamas, alpacas, ostriches, aquatic species,
+reptiles, migratory and endangered species.  We have implanted
+microchips in over 600,000 companion and other valuable animals,
+currently track nearly one million animals in our PETtrac database, and
+reunite numerous lost animals with their families each month.
+
+Sales of microchips and readers to the companion animal and biological
+sciences markets in Canada continue to contribute a majority of our
+income in 2008. . We sold UHF identification tags to Goodyear Tire and
+Rubber Company under several purchase orders continuing into 2008.
+Tire tag and tire patch sales have been made to VAR's in several
+countries for trial or pilot runs.  Readers for the tire tag market
+have been sold to tire manufacturers and resellers in India, Canada,
+Mexico, Venezuela, Australia, Japan and the United States.  Michelin US
+has purchased multiple readers.
+
+As noted above, we are currently serving the Canadian market as a
+reseller for AVID and SOKYMAT LF RFID products.  We are expanding our
+sales effort for SOKYMAT chips into several countries, including China,
+Taiwan, Thailand and Japan
+
+Since we own the intellectual property of the DataTRAC(tm) microchips, we
+are continuing to develop and market our UHF RFID products in both the
+supply chain and livestock markets throughout the world, either
+directly or through international distributors.  We have made good
+progress in the supply chain market, especially in Asia.  Our marketing
+efforts in the livestock area have been reduced because no country's
+government has either mandated or approved for use our UHF RFID
+technology
+
+Products and Services Overview
+
+Companion Animal/Biological Sciences, Inanimate Products and Services
+
+Our current product offering includes an established line of RFID tags,
+readers, and software.
+
+   RFID Tags: Our RFID Tags purchased from American Veterinary
+Identification Devices and SOKYMAT and consist of an integrated circuit
+or microchip utilizing a low frequency of 125 KHz or 134 KHz.  The
+microchip is sealed in glass, compatible with the animal's body,
+containing a programmed identification number which fits inside a
+hypodermic needle, and can be injected under the skin of an animal.
+Since these RFID Tags are passive, meaning they do not require a
+battery, a reader temporarily energizes the microchip allowing it to
+
+<PAGE>6
+
+transmit its data to the reader with error-free reliability.  Under
+normal conditions, the RFID Tags can last in excess of 20 to 25 years
+and generally well beyond the life of any companion animal.  The read
+range for low frequency tags is approximately three to seven inches.
+
+   RFID Readers: We offer a variety of hand-held readers that read both
+our microchips and our competitors' microchips.  Our reader formats
+include International Standards Organization, Federation of European
+Companion Animal Veterinarian Association and AVID's encrypted
+standard.
+
+   Software: We offer a proprietary Microsoft(r).Net based database
+called PETtrac which is our advanced software program that stores and
+tracks identification numbers from implanted animals by recording their
+microchip ID as well as unique information including data such as:
+
+   -   Pet name, breed, and description;
+   -   Animal's brand and tattoo numbers;
+   -   Present/past owners, and current details;
+   -   Medical history of the animal, medication, allergies, etc.; and
+   -   Other pertinent information specific to each sector/industry.
+
+   Services: We provide an electronic and manual data entry service to
+the PETtrac global tracking system for all animals identified with a
+microchip, including our competitors' microchips, collar tags, rabies
+vaccination numbers and tattoo numbers in Canada.  Animal recoveries
+can be performed by accessing our database through a web browser, as
+well as through a 24/7 operator assisted service by calling a toll free
+line.
+
+Livestock Animal Products and Services
+
+Our Livestock products offering which was completed in early 2006
+includes three different sized RFID tags, readers, and software
+specifically tailored to meet the needs of each type of livestock and
+region.
+
+   RFID Tags: Our RFID Tags will be comprised of an integrated circuit
+or microchip utilizing an ultra high frequency of 915 MHz.  An antenna
+is attached to the microchip to provide a longer read range, all of
+which is encapsulated in plastic.  Our RFID Tags are passive thereby
+not requiring a battery, and can transmit their data to the reader with
+a read range of up to approximately ten feet.
+
+Effective April 2003, we signed a strategic partnership agreement with
+Guide-Trend Technology Company Ltd. of China for the manufacturing of
+our RFID tags.  Once completed, the final product is shipped directly
+to our customers.  The integrated circuits or microchips are purchased
+on our behalf by Guide-Trend from EM Microelectronic of Switzerland or
+Philips Semiconductors of the Netherlands, two of the world's largest
+RFID integrated circuit manufacturers.  There exists no purchase
+contract with any of our suppliers as each purchase order is negotiated
+separately at this time.
+
+<PAGE>7
+
+Currently, we are the only company that is offering ultra high frequency
+tags to the livestock industry.  All of our competitors offer low
+frequency tags which are generally more costly to produce, offer a
+shorter read range, and have limited reading capability within automated
+livestock processing plant environments. Adoption of RFID technology by
+animal owners has been slower than anticipated resulting in lower than
+anticipated sales, additionally the adoption of Low Frequency ISO 11784
+and 11785 compliant technology by a growing number of countries has
+impacted on the market potential and the company has  put further
+development of the livestock application on hold.  However, interest is
+increasing for a UHF RFID solution and the company is responding to that
+interest.
+
+   RFID Readers: We offer stationary and handheld readers that will scan
+and read our microchips.  Effective November 2003, we secured a
+partnership agreement with Applied Wireless Identifications Group, Inc.
+of New York to supply us with ultra high frequency readers that we will
+resell to our customers.
+
+We have entered the UHF RFID reader product line with both hand held and
+stand alone readers that have read ranges from several inches to 20
+feet.  The readers are intended to capture a large market share through
+aggressive pricing and full features.  Our readers will work in
+virtually all supply chain applications.
+
+We acquired Pneu-Logic, a UK based company focused on the tire
+maintenance market.  The products are well respected in the industry
+around the world and follow on products, now under development, will
+capture a significant new market share, especially in the off the road
+market.
+
+      Services: Our objective is to become the complete system provider
+for livestock identification and trace-back. As part of providing a
+complete system for our customers, we will provide in-depth analysis
+prior to implementation of a recommended solution.
+
+      Inanimate Products and Services: In August 2005, we were awarded a
+Purchase Order from Goodyear Tire and Rubber Company of Akron Ohio for
+RFID identification tags.  Goodyear is undertaking trials to test the
+durability and practicality of embedding UHF tags specifically designed
+for their tires.  Tags were produced on a prototype basis initially
+prior to moving into larger scale production.  The 2006 and 2007 NASCAR
+racing tires had this product attached to their racing tires.  The
+Goodyear Tire and Rubber Company of Akron Ohio renewed the Purchase
+Order for 2008 for its NASCAR tires.
+
+Business Model
+
+We are planning to enhance our current revenue streams by:
+
+   -   Offering ISO microchips in both the Canadian and Global companion
+pet recovery markets.  Create PETtrac capabilities in various important
+languages, Chinese a foremost consideration.  Develop improved Low
+Frequency readers that will display in various languages.
+
+<PAGE>8
+
+   -   Offering higher integrity and more cost effective identification
+solutions over current practices in the global livestock markets with
+our DataTRAC(tm) RFID tags and readers, and our web-based tracking and
+recovery software system.
+
+   -   Expanding our current market presence into other veterinary
+clinics and animal shelter markets across Canada by lowering prices,
+improving customer service and establishing more comprehensive sales
+channels, both direct and third party.
+
+   -   Expanding RFID technology into industrial applications such as
+the energy and manufacturing industries.  The knowledge and profile
+gained through the relationship with Goodyear Rubber and Tire Company is
+one example.  Expand the tire management market to include: tire
+manufacturers, resellers, fleet owners, retail, retreaders, system
+integrators, database managers.
+
+   -   Expand RFID technology into supply chain applications for hostile
+environments.  Avoid the high volume, low cost applications that will
+satisfy the Wal-Mart requirement.
+
+Intellectual Property
+
+Our intellectual property is comprised of our radio frequency
+identification tags utilized for the identification and trace back of
+livestock.  We currently do not own any patents and have not licensed
+any intellectual property used in our products.  Our tire tag technology
+is based on IP from Goodyear and under license from Michelin.  Our new
+reader line will include intellectual property that the company will
+exploit through patent protection and other protection of proprietary
+assets
+
+Target Market
+
+We are fulfilling the needs of the companion animal and biological
+sciences markets in the RFID industry as outlined below:
+
+   -   Increasingly, municipal animal control agencies are setting
+policy and by-laws for permanent tagging of pets.
+
+   -   Pending guidelines will require livestock and meat product
+operators to use advanced tagging and tracking systems.  UHF will
+compete with LF in the future.
+
+   -   Industries are demanding increased efficiencies in logistics,
+distribution, asset management, and tracking.
+
+   -   The tire management industry was started in 2005 and growth has
+been steady through 2008.  However, the softening economy has stalled
+and we expect no growth in 2009.
+
+   -   The global RFID market was several billion dollars, US in 2008.
+No appreciable growth is expected for 2009.
+
+
+<PAGE>9
+
+Our PETtrac system has been approved for use across Canada by the
+National Companion Animal Coalition thereby giving us access to over
+3,000 professional veterinarians as well as all SPCAs and humane
+societies, thus tapping a market of over eight million animals.
+
+In the livestock industry, the Bovine Spongiform Encephalopathy, i.e.
+BSE or Mad Cow, disease that plagued Europe in 1998 was thought to have
+infected North American herds.  This resulted in legislative efforts for
+animal identification and tracking systems with RFID being the preferred
+technology.  Governments are implementing legislation requiring a quick
+and secure animal trace back system, aimed at improving food safety for
+consumers from animal diseases.  Our products have been designed to
+exceed existing regulations.
+
+Advances in microchip design, miniaturization, global positioning
+tracking, read range, read/write capabilities and data storage have
+greatly expanded the applications for RFID tags. RFID systems are being
+piloted and used in a wide range of retail, commercial and industrial
+applications.  The registrant will carefully choose those technologies
+and market sectors where we can successfully compete.
+
+Marketing and Sales Strategy
+
+Sales and Distribution Channels
+
+With a strong channel already established in the Canadian companion
+animal and biological sciences markets with our direct sales team,
+comprised of one sales representative and three customer support
+personnel, we intend to leverage this position by securing additional
+relationships with other veterinarian professionals in targeted regions
+across Canada.  Currently, we have relationships with the following
+distribution agencies; Associate Vet Purchasing, Western Drug
+Distribution Center, Vet Purchasing, Canadian Kennel Club and Centre de
+Distribution de Medicaments Veterinaires.  There is no contractual
+agreement or volume commitment in place with any of these parties.
+
+We will sell our tire management product line both direct and through
+3rd party resellers.  We will purchase tire tags from the Hana Group
+from Ohio and Thailand.  The market is global.
+
+We will sell our UHF RFID reader line both direct and though 3rd party
+resellers.  The market is global.
+
+We will sell our Pneu-Logic product line both direct and through 3rd
+party resellers.  The market is global.
+
+Pricing Strategy
+
+We plan to be a price-performance leader with all of our products and
+services.  This is intended to assist our efforts to gain market
+acceptance and secure market share in the companion pet recovery
+industry throughout the world, and further allow us to continue to both
+increase the market size and our market share in the tire management
+market.  It is our goal to keep our expenditures small to ensure we
+maintain low product price points to discourage other competitors from
+
+<PAGE>10
+
+entering the market yet allowing us to earn a healthy margin.  We
+anticipate that any cost savings we achieve through process improvements
+will lead to reductions in our price points to discourage other
+competitors from entering the market.
+
+Recent Developments
+
+Companion Animal - We have received approval for our new ISO chip made
+by SOKYMAT.  With the significant cost savings associated with this new
+ISO standard chip, Advanced ID has reduced our prices in Canada and
+other countries and sales are increasing.  We have developed a new LF
+reader for companion animals that can be sold in several countries with
+language specific readout capabilities.
+
+Livestock Tagging - We have not further developed its livestock RFID
+product line but have maintained its ability to provide a complete
+product solution as the requirement develops.  Recent outbreaks of BSE
+and bird flu could well re-ignite interest in this product.
+
+Tire Management - We have continued to develop, with Hana and others,
+products that will serve the tire management industry from the tire
+maker in Ohio to the fleet owner in Great Britain.  Management is of
+the belief that, with our RFID tire management product line and the
+Pneu-Logic tools, the market is blanketed better than with any other
+company.
+
+We plan to be in leadership position in this market and will focus its
+energies and resources to obtain a leadership role as the market
+matures and reaches high volume requirements.
+
+UHF RFID Reader Development - We have developed a series of high
+powered, long read range, UHF RFID readers that are being sold in the
+supply chain industry and the tire tag business. This reader product
+line is sold to the trade at about half the prevailing price for an
+equivalent product sold by the competition.  We have designed a lower
+cost, mass market UHF RFID reader that will sell for half the price of
+our current readers.  This is the reader product line that will take
+the cost of UHF readers out of the value proposition.  The UPC Barcode
+business did not take hold in the 70's/80's until the price of readers
+went under $100.  We intend to be the company that ultimately offers a
+$100 UHF RFID reader.  In 2007, we completed the development of new
+reader PR 500 low price, low range but practical for inventory
+management.  The new reader was sought and installed at a new book
+store in Portugal, Spain.  In 2009, we will be marketing the new reader
+into various industries.
+
+Competition
+
+Our largest competitor in the companion animal and biological sciences
+market in Canada is Pethealth Inc. who is estimated to have
+approximately 45% market share compared with our estimated 40% market
+share.  The remaining 15% market share is spread among two companies
+which includes Microchips 4 Solutions and EIDAP.
+
+<PAGE>10
+
+Pethealth Inc. - Pethealth's vision is to become the leading provider
+of insurance and integrated health related information services to the
+North American companion animal market.  Currently Pethealth claims it
+is Canada's largest provider of accident and illness insurance for dogs
+and cats to pet owners and the second largest in North America.
+Pethealth entered the companion animal industry in February 2003 where
+it has grown its market share by offering significantly lower priced
+products than all other competitors in North America.  Pethealth is a
+reseller of Allflex USA's companion animal products and which is
+further discussed below.  Allflex's technology offers no competitive
+advantages over our technology except that Pethealth is offering a
+significantly lower priced product at this time.
+
+The current method of livestock identification predominantly utilizes
+standard bar code visual tags. The barriers for adoption of current
+RFID technology include its high cost and its limited read range.
+Currently, we have a very small market share in this segment.  Our top
+three competitors in the livestock market are as follows:
+
+Allflex USA Inc. - Allflex claims to be the world's leading supplier of
+livestock identification and management systems. Its products include
+visual identification ear tags and applicators, electronic
+identification systems and a variety of precision instruments. Allflex
+works closely with official and commercial organizations around the
+world to develop reliable and efficient systems for collecting and
+transferring information on animal identification, movement and
+performance.  Allflex has manufacturing and technology subsidiaries in
+USA, Canada, Europe, Australia, New Zealand, Brazil and China.  Allflex
+products are distributed in 80 countries worldwide.
+
+Applied Digital Solutions, Inc. - Applied Digital, through its
+subsidiary Destron Fearing, has been in the animal identification
+business since 1945. For over 50 years, Destron Fearing has developed,
+manufactured and marketed a broad range of individual animal
+identification products. As the animal identification industry
+expanded, the Company culminated a merger of Fearing Manufacturing and
+Destron/IDI in November 1993. Their products range from visual ear tags
+attached to livestock, to electronic microchips implanted under the
+skin of pets, fish, laboratory animals and livestock.
+
+In the UHF RFID Market, there are several competitors who have readers
+that compete with the company.  Intermec, Psion and Symbol all sell
+readers but at very high prices.  In the tire RFID business, this is, at
+present, no competition.
+
+Other Competition - Other competition will come from the continued use
+of bar code tags in those countries that have not made it mandatory for
+users to purchase an RFID tag.  The reason that bar code tags are used
+almost exclusively over an RFID tag is largely a function of price and
+the fact that previous RFID technology does not offer any significant
+benefits over bar code tags.
+
+
+
+<PAGE>12
+
+Competitive Advantages
+
+Based on in-house research, the existing RFID technology available for
+livestock is centered on low frequency (30 to 300 KHz) tags and high
+frequency tags (3 to 30 MHz) which offers a read range up to three feet
+at a retail price point of $2.00 to $10.00 per tag. Low and high
+frequency livestock identification tags have been available in the
+market for approximately ten years yet there has been only a limited
+level of adoption of this technology.  This is largely because the read
+range is nominally greater than bar code tags that are currently priced
+at $1.00 to $1.50 per tag and because the technology has not fully met
+the requirements of most users.
+
+Our RFID technology utilizes a higher frequency of 915 MHz that provides
+a read range up to ten feet at a price point of $1.50 to $2.00 per tag.
+Some of our RFID tags also include a bar code to ensure a seamless
+transition for current bar code customers to adopt RFID technology. In
+addition, we will be developing RFID tags to offer read/write
+functionality allowing users to store additional data on each tag such
+as the animal's birth date, vaccinations, etc.
+
+Our management team and board of directors have extensive experience in
+the RFID and Livestock industries.  Strong relationships have been
+cultivated over numerous years with key participants in the livestock
+industry including relationships with key principals of national cattle
+associations, feedlots, packing plants, distribution groups and co-
+operatives, and primary producers.  These relationships have been
+attained through personal contact, meetings, conferences and
+presentations, both within our current business operations and through
+prior business experience.
+
+It is our belief that the adoption of any livestock identification
+method will require some form of mandatory requirement either through
+government legislation or import regulations by those countries that
+import meat and livestock. Currently, Canada has enacted legislation for
+mandatory identification of cattle and the European Union has enacted
+legislation for mandatory identification of all livestock.  Other
+countries such as the United States, Australia, New Zealand, Argentina,
+Brazil, Taiwan and Thailand are considering similar requirements.
+
+Our research and development activities over the last two years have
+included researching, designing and developing RFID tags and readers for
+general supply chain applications including the tire management
+industry.
+
+Trademarks and Patents
+
+We will be filing trademark registrations for certain brand names.  In
+addition, we have secured the following Internet names: avidcanada.com,
+advancedidcorp.com and advancedid.ca.  We have also identified
+additional trademarks and URLs that we plan to register in the immediate
+future.  We currently do not have any patents registered.
+
+
+
+<PAGE>13
+
+Employees
+
+At the end of 2008, we had six full-time employees, six contract
+employees and one part-time employee.  On July 1, 2005, we acquired a
+60% interest in AFG Asia Engineering Ltd of Chiang Mai, Thailand.  The
+Managing Director, Mr. Gottfried Auer and 40 % owner of AFG Engineering
+Asia Ltd. has been providing us with all RFID engineering services
+since 2003.  Mr. Auer has a Staff of nine hardware and software
+engineers and support staff in the Chiang Mai office.  Subsequent to
+the purchase of AFG Asia Engineering Ltd. the corporate name was
+changed to reflect the new ownership structure and is now known as
+Advanced ID Asia Engineering Co. Ltd.  We divested our interest in
+Advanced ID Asia Engineering Co. Ltd in 2007 but continue to outsource
+certain tasks to Advanced ID Asia Engineering Co. Ltd. We purchase RFID
+readers and pet recovery microchips from Advanced ID Asia Engineering
+Co.
+
+On July 1, 2007, we purchased the assets of UK based Pneu-Logic Limited
+and added three contract employees.  At the end of 2008, two of the
+employees had left.  The managing director remains as a contract
+employee.
+
+
+ITEM 1A.  RISK FACTORS
+
+Not required for smaller reporting companies.
+
+ITEM 1B.  UNRESOLVED STAFF COMMENTS
+
+Not applicable.
+
+
+ITEM 2.  PROPERTIES
+
+We currently have an agreement to lease office premises until August 31,
+2012.  We have committed to leasing approximately 1,920 rentable square
+feet and are obligated to pay basic rent and all operating costs,
+including utilities and taxes for a total cost of CDN$2,800 per month.
+The real property utilized by us is in good condition, adequate for
+present operations and adequately covered by insurance.  We also
+maintain insurance coverage for commercial general liability including
+blanket contractual liability, tenant's legal liability, non-owned
+automobile and cross liability coverage.  The property is located at,
+4500 5the Street NE, #200 Bay 6, Calgary, Alberta T2E 7C3 Canada.
+
+
+ITEM 3.  LEGAL PROCEEDINGS.
+
+The registrant is not involved in any legal proceedings at this date.
+
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+None.
+
+
+
+<PAGE>14
+PART II
+
+ITEM 5.  MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER
+MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+
+    Item 5(a)
+
+a)  Market Information.  The registrant began trading publicly on the
+NASD Over the Counter Bulletin Board on October 17, 2002 under the
+symbol "AIDO".
+
+The following table sets forth the range of high and low bid quotations
+for the registrant's common stock.  The quotations represent inter-
+dealer prices without retail markup, markdown or commission, and may not
+necessarily represent actual transactions.
+
+                             Fiscal 2008               Fiscal 2007
+                           High       Low            High       Low
+                           ----       ---            ----       ---
+First Quarter            $0.24        $0.13         $0.46      $0.22
+Second Quarter           $0.25        $0.16         $0.49      $0.23
+Third Quarter            $0.27        $0.11         $0.36      $0.22
+Fourth Quarter           $0.14        $0.06         $0.28      $0.15
+
+b)  Holders.  At July 31, 2009, there were approximately 1,900
+shareholders of the registrant.
+
+c)  Dividends.  Holders of the registrant's common stock are entitled to
+receive such dividends as may be declared by its board of directors.  No
+dividends on the registrant's common stock have ever been paid, and the
+registrant does not anticipate that dividends will be paid on its common
+stock in the foreseeable future.
+
+d)  Securities authorized for issuance under equity compensation plans.
+No securities are authorized for issuance by the registrant under equity
+compensation plans.
+<TABLE>
+Plan Category             Number of Securities        Weighted Average Exercise      Number of Securities
+                          Issued upon Exercise of     Price of Outstanding Options    Remaining Available
+                          Outstanding Options,        Warrants and Rights             Future Issuance
+<s>                             <c>                         <c>                            <c>
+Equity
+Compensation
+Plans Approved
+by Security Holders                 n/a                         n/a                          n/a
+
+Equity
+Compensation
+Plans Not Approved
+by Security Holders           5,580,000                       $0.383                         n/a
+                              ----------                       ------                      ------
+Total                         5,580,000                                                      n/a
+</TABLE>
+e)  Performance graph.  Not applicable.
+
+
+
+<PAGE>15
+
+f)  Sale of unregistered securities.
+
+During 2008, the registrant issued the following unregistered
+securities:
+   -  3,857,933 common shares for services rendered valued at $640,150,
+   -  1,340,968 common shares for debt settlement valued at $141,373,
+   -  841,667 common shares for deposits received in 2007 for $190,500
+which included 325,000 common shares for $97,500 on the exercise of
+warrants in 2007;
+   -  12,631,395 common shares for cash proceeds of $1,276,503and for
+subscriptions receivable of $99,430.
+
+We also wrote off a note receivable that we had accepted in 2007 in
+exchange for the issuance of 10,000 shares of common stock valued at
+$2,000 to one investor due to an inability to pay.  These shares were
+returned to treasury.
+
+The above securities were issued pursuant to an exemption from
+registration under Section 4(2) of the Securities Act of 1933 to
+sophisticated investors.
+
+
+    Item 5(b)  Use of Proceeds.  Not applicable.
+
+    Item 5(c)  Purchases of Equity Securities by the issuer and
+affiliated purchasers.
+
+None.
+
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+Not applicable to smaller reporting companies.
+
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS
+
+The registrant signed an agreement with Corporate Insights in April 2008 with
+the purpose of funding the purchase of Shenzhen DDCT Technology, Co.  At the
+end of 2008, it was clear that funding could not be obtained and the merger
+was not completed.  A replacing bilateral sales agreement is being developed
+in 2009.  In June 2008, the registrant restructured its Pneu-Logic subsidiary
+to save costs.  As the economy collapsed in the second half of 2008, sales of
+Pneu-Logic products, as well as all of the registrant's products, declined
+and further steps had to be taken to cut costs.  The administrative functions
+of PLCL were moved to Advanced ID's head office in Calgary although sales
+efforts continued in Europe through a bilateral sales agreement with Pneu-
+Logic Limited.  The bilateral sales and marketing agreement had no impact on
+revenues but gave Advanced ID exclusive access to the products of Pneu-Logic
+Limited and gave PLL access to Advanced ID's products and readers and
+favorable prices.  The agreement expired September 1, 2009.
+
+
+
+<PAGE>16
+
+Also in late 2008, the registrant contracted with La Jolla Cove, an
+investment company to secure funding to complete the asset purchase of
+Shenzhen DDCT.  That funding agreement was in place at the end of 2008.
+However, due to the fact that the registrant will not purchase DDCT, the
+parties are currently negotiating to alter that agreement.
+
+The registrant is moving forward on several fronts.  These initiatives
+were started in 2008 and continue into 2009.  Our largest fleet related
+system integrator has committed to several hundred truck probes in
+2009/2010.  Our primary software development partner for the truck probe
+will release in April 2009, tire management software (middleware) that
+will allow the probe and ultimately our RFID readers to communicate with
+any embedded fleet management database. Our strategic partner in Brazil
+is conducting major trials with Bandag and Bridgestone in the tire ID
+business and just presented a countrywide solution for RFID and gas
+vessels.  The registrant's low cost point of sale RFID reader is going
+through final trials in Europe with product acceptance expected in the
+2nd quarter of 2009.  At that point, this product will be presented to
+retail outlets worldwide.  The pet recovery business (microchips)
+outside of North America is becoming increasingly viable.  We have been
+asked to deliver trial product for China, Taiwan, Japan and the US in
+late 2008, early 2009.
+
+The registrant is exploring ways to add complementary products without
+extensive engineering and other product development.  Preliminary
+discussions are being held with potential strategic partners to combine
+products under one company umbrella, especially where our sales and
+system integrator network provide additional sales professionals on the
+street.
+
+Results of Operations for the Fiscal Years Ended December 31, 2008
+versus December 31, 2007.
+
+The net loss of $2,516,131 for the year ended December 31, 2008 was
+lower by $205,852 versus 2007 due to a lower impairment charge on
+goodwill and lower research and development expenses.
+
+Revenues
+
+Revenues of $1,159,039 during the year ended December 31, 2008 increased
+by $149,036 or 14.76% over last year.  The increase in revenues for the
+year ended December 31, 2008 was a result of increased RFID tag sales,
+stable chip sales to the companion animal sector, increased UHF RFID
+readers and the addition of Pneu-Logic product sales.
+
+On November 1, 2006, National Companion Animal Coalition's approval was
+received for our ISO companion animal microchips.  Although FECAVA
+microchips are being phased out for companion animals by the NCAC in
+Canada, we continue to sell them for use in non-companion animals and to
+veterinarians who continue to prefer FECAVA to ISO microchips.  We are
+also actively promoting the ISO microchip throughout Canada and Asia as
+well.
+
+
+
+<PAGE>17
+
+With the continued acceptance by owners to microchip their pets,
+increased activity by the biological science community and government
+agencies for the tracking of non-domestic species and increased
+frequency by various municipal animal control agencies to set policy and
+by-laws for the permanent tagging of pets in their respective
+communities, we believe that the market will incrementally increase for
+several years.  The actions by government and industry officials to
+implement identification and trace back systems in the livestock
+industry to minimize or eliminate the spread of diseases and ensure food
+safety will continue to elevate our market presence and translate into
+higher revenues for future reporting periods as well.
+
+Cost of Revenues
+
+Cost of revenues of $603,992 for the year ended December 31, 2008
+increased by $78,865 or 15.02% over the previous year.  The increase in
+cost of revenues is attributed to a higher volume of products sold
+during 2008.
+
+Research and Development
+
+Research and development expenses of $37,940 for the year ended December
+31, 2008 decreased by $227,847 or 85.73% over last year's comparable
+period.  This decrease is due to the fact that the engineering
+development of the new reader line was completed in 2007.
+
+Selling, General and Administrative
+
+For the year ended December 31, 2008, selling, general and
+administrative expenses of $2,411,836 were higher by 4.13% over 2007.
+This was in large part due to costs related the operations of Pneu Logic
+Corporation Limited which commenced operation in July 2007.
+
+Accretion and Finance Chares
+
+In 2008, we recorded non-cash accretion and finance charges of $251,502
+compared to $0.00 in 2007 as a result of the La Jolla Cove Investors
+financing we received.
+
+Interest Income and Expense
+
+During the year ended December 31, 2008, interest expense was $39,581
+while in 2007 we earned interest of $1,734.  The interest expense was
+mostly due to charges related to the La Jolla Cove investment.
+
+As at December 31, 2008, we had one loan payable for $60,000 outstanding
+which accrues interest at 10% per annum, payable monthly.  In addition,
+a convertible debenture that bears interest at 6% per annum is
+outstanding for $1,000,000.  On the other hand, we had a promissory note
+receivable for $725,000 that bears interest of 6.5% per annum.
+
+
+
+<PAGE>18
+
+Impairment of Assets
+
+During the year ended December 31, 2008, we recognized impairment of the
+assets of Pneu-Logic Corporation Limited based on sales results and the
+necessity to move all the operations to our head office.  Property and
+equipment was impaired for $13,913 and $0 for the year ended December
+31, 2008 and 2007, respectively.  Customer list was impaired for $44,123
+and $0 for the year ended December 31, 2008 and 2007, respectively and
+took a further goodwill impairment charge of $122,468 compared to
+$486,888 in fiscal 2007.
+
+Liquidity and Capital Resources
+
+As at December 31, 2008, we had cash and cash equivalents of $165,072.
+During the year ended December 31, 2008, net cash used in operating
+activities of $1,255,489 was higher by $516,806 or 69.96% as compared to
+the year ended December 31, 2007.
+
+During the year ended December 31, 2008, net cash provided by financing
+activities of $1,723,458 was higher by $985,370 or 128.80% as compared
+to the previous year ended December 31, 2007.  During 2008, cash has
+been provided through, completed subscription agreements from investors
+for $1,276,503 and proceeds from the sale of debentures of $275,000.
+
+Our internal and external sources of liquidity have included cash
+generated from the exercise of options and warrants, proceeds raised
+from subscription agreements and private placements, and advances from
+related parties.  We are currently not aware of any trends that are
+reasonably likely to have a material impact on our liquidity.  Our
+current cash balance is estimated to be sufficient to fund our current
+operations over the next two to three months and will not be sufficient
+to fund our long term needs.  The basis that our cash balance is
+expected to be sufficient to fund our current operations over the next
+seven to ten months is based on our current net cash usage rate (cash
+used offset by cash received) which we estimate to be $30,000 to $40,000
+per month.  It is our intent to secure a market share in the livestock
+and inanimate identification industry which we feel will require
+additional capital over the long term to undertake sales and marketing
+initiatives, further our research and development, and to manage timing
+differences in cash flows from the time product is manufactured to the
+time it is sold and cash is collected from the sale.  Our capital
+strategy is to increase our cash balance through financing transactions,
+including the issuance of debt and/or equity securities
+
+Going Concern
+
+The registrant has incurred net losses for the years ended December 31,
+2008 and 2007 of $2,516,131 and $2,721,983 respectively.  Because of
+these losses, the registrant will require additional working capital to
+develop its business operations.
+
+The registrant intends to raise additional working capital through
+private placements, public offerings and/or bank financing.  There are
+no assurances that the registrant will be able to either
+
+<PAGE>19
+
+   -   achieve a level of revenues adequate to generate sufficient cash
+flow from operations; or
+   -  obtain additional financing through either private placements,
+public offerings and/or bank financing necessary to support the
+registrant's working capital requirements.
+
+To the extent that funds generated from operations and any private
+placements, public offerings and/or bank financing are insufficient, the
+registrant will have to raise additional working capital.  No assurance
+can be given that additional financing will be available, or if
+available, will be on terms acceptable to the registrant.  These
+conditions raise substantial doubt about our ability to continue as a
+going concern.
+
+Off-Balance Sheet Arrangements
+
+The registrant had no material off-balance sheet arrangements as of
+December 31, 2008.
+<TABLE>
+Contractual Obligations
+                                                        Payments due by period
+                                              Less than 1     1-3         3-5   More than 5
+     Contractual obligation         Total       year         years       years     years
+     ----------------------         -----     -----------    -----       -----  -----------
+<s>                                  <c>           <c>        <c>         <c>       <c>
+Long-term debt obligation        $1,000,000          -   $1,000,000         -        -
+Capital Lease Obligations                 -          -            -         -        -
+Operating Lease Obligations        $111,793    $33,668      $59,734   $18,391        -
+Purchase Obligations                      -          -            -         -        -
+Other Long-Term Liabilities
+  Reflected on the Balance Sheet $1,219,249          -            -         -        -
+</TABLE>
+Critical Accounting Policies
+
+   Basis of Consolidation
+The consolidated financial statements include the accounts of the
+registrant, its wholly-owned subsidiaries Avid Canada Corporation,
+Advanced ID Asia Pacific Company Limited, Advanced ID (Shenzhen) Co.,
+Ltd., and Pneu-Logic Corporation Limited.  Until July 2005, the
+Company's accounts included the accounts of its wholly owned subsidiary
+Universal Pet Care, Inc.  UPC was a dormant company and was
+involuntarily dissolved in 2005.  All significant inter-company accounts
+and transactions have been eliminated in consolidation.
+
+   Use of Estimates
+The preparation of financial statements in conformity with accounting
+principles generally accepted in the United States of America requires
+management to make estimates and assumptions that affect the amounts
+reported in these financial statements and accompanying notes.  Actual
+results could differ from these estimates.
+
+   Concentration of Risk
+The registrant places its cash and temporary cash investments with
+established financial institutions.  At various times during the year,
+the registrant maintained cash balances in excess of insurable limits.
+
+<PAGE>20
+
+Management feels this risk is mitigated due to the longstanding
+reputation of these banks.  No losses have been incurred by the
+registrant related to this risk.
+
+   Foreign Currency Translation
+Since Avid Canada is located in Canada, the Canadian dollar has been
+designated as the functional currency.  For PLCL the currency of trade
+can be Euros, British sterling pounds and US Dollars, however the
+British sterling pounds has been designated as the functional currency.
+The reporting currency is the United States dollar.  All balance sheet
+accounts have been translated at the current exchange rates as of
+December 31, 2008 and 2007. Statements of operations items have been
+translated at average currency exchange rates during the respective
+years.  The resulting translation adjustment is recorded as a separate
+component of comprehensive loss within stockholders' equity (deficit).
+
+   Accumulated Other Comprehensive Income (Loss)
+Total accumulated other comprehensive income (loss) consists of net
+income (loss) and other changes in stockholders' equity (deficit) from
+transactions and other events from currency translation gains and
+losses. The components of and changes in accumulated other comprehensive
+income as it relates to the currency translation losses are $9,591 and
+$14,853 for the years ending December 31, 2008 and 2007, respectively.
+
+   Revenue Recognition
+The registrant recognizes revenue when persuasive evidence of an
+arrangement exists, shipment has occurred, the sales price is fixed or
+determinable and collectability is probable.
+
+Product sales are recognized by the registrant generally at the time
+product is shipped.  At the time revenue is recognized, registrant
+provides for the estimated cost of product warranties and reduces
+revenue for estimated product returns.
+
+When other significant obligations remain after products are delivered,
+revenue is recognized only after such obligations are fulfilled.
+
+   Research and Development Costs
+Research and development costs are expensed as incurred.
+
+   Cash and Cash Equivalents
+For the purposes of presenting cash flows, the registrant considers all
+highly liquid investments with original maturities of three months or
+less to be cash equivalents.
+
+   Allowance for Doubtful Accounts
+The registrant provides an allowance against accounts receivables for
+estimated losses that may result from customers' inability to pay. The
+allowance is determined by analyzing known uncollectible accounts, aged
+receivables, economic conditions, historical losses and changes in
+customer's cycles and customer's credit- worthiness.  Amounts later
+determined and specifically identified to be uncollectible are charged
+and written off against this allowance.  To minimize the likelihood of
+uncollectibility, the registrant reviews customer's credit worthiness
+
+<PAGE>21
+
+periodically based on independent credit reporting services, the
+Company's experience with the customer and the economic condition of the
+customer's industry.  Material differences may result in the amount and
+timing of expense for any period if the registrant were to make
+different judgments or utilize different estimates.  If the financial
+condition of customers deteriorates resulting in an impairment of their
+ability to make payments, additional allowances may be required.  The
+Company has not experienced significant variances in the past between
+estimated and actual doubtful accounts and anticipates that the
+registrant will be able to continue to make reasonable estimates in the
+future.  The registrant has recorded an allowance of $Nil and $16,852 as
+of December 31, 2008 and 2007 respectively.
+
+   Inventory
+Inventory consists of finished goods held for resale and is recorded at
+the lower of cost or net realizable value.  Cost is determined on a
+first in-first out basis.
+
+   Long-lived Assets
+Fixed assets are stated on the basis of historical cost less accumulated
+depreciation.  Depreciation is provided using the straight-line method
+over the two to five year estimated useful lives of the assets.
+
+Impairment losses are recorded on long-lived assets used in operations
+when indicators of impairment are present and the undiscounted cash
+flows estimated to be generated by those assets are less than the
+assets' carrying amount.  In 2008, impairment losses have been recorded
+on the assets of PLCL. Expenditures for repairs and maintenance are
+expensed as incurred.
+
+Expenditures for major renewals or betterments that extend the useful
+lives of existing property and equipment are capitalized and
+depreciated.  Upon retirement or dispositions of property and equipment,
+any resulting gain or loss is recognized consolidated statement of
+operations.
+
+   Goodwill
+The registrant accounts for goodwill in accordance with SFAS No. 141,
+"Business Combinations," and SFAS No, 142, "Goodwill and Other
+Intangible Assets."  Under SFAS No. 142, goodwill is deemed to have an
+indefinite life are not amortized but is subject to an annual impairment
+test.
+
+The registrant recognized an impairment loss of $122,469 (2007 -
+$486,888) based on management's valuation.
+
+   Intangible Assets
+Intangible assets consist of a customer list purchased on the
+acquisition of PL. This list was being amortized straight-line over
+three years.  On December 31, 2008, the carrying value was completely
+written off as a result of management's assessment of PLCL's business.
+
+
+
+<PAGE>22
+
+   Fair Value of Financial Instruments
+The registrant's financial instruments consist of cash and cash
+equivalents, receivables, payables and debt.  The carrying amount of
+these financial instruments approximates fair value due either to length
+of maturity or interest rates that approximate prevailing market rates
+unless otherwise disclosed in these consolidated financial statements.
+
+   Advertising
+The registrant charges costs of advertising to expense at the time the
+costs are incurred.
+
+   Shipping and Handling
+The registrant includes shipping and handling costs in cost of goods
+sold.
+
+   Income Taxes
+Income taxes are computed using the asset and liability method.  Under
+the asset and liability method, deferred income tax assets and
+liabilities are determined based on the differences between the
+financial reporting and tax bases of assets and liabilities and are
+measured using the currently enacted tax rates and laws.  A valuation
+allowance is provided for the amount of deferred tax assets that, based
+on available evidence, are not expected to be realized.
+
+   Loss per Common Share
+The basic net loss per common share is computed by dividing the net loss
+applicable to common stockholders by the weighted average number of
+common shares outstanding.
+
+Diluted net loss per common share is computed by dividing the net loss
+applicable to common stockholders, adjusted on an "as if converted"
+basis, by the weighted average number of common shares outstanding plus
+potential dilutive securities.  For 2008 and 2007, potential dilutive
+securities had an anti-dilutive effect and were not included in the
+calculation of diluted net loss per common share.  Total shares
+outstanding, assuming the exercise of outstanding options and warrants
+for the years ended December 31, 2008 and 2007, were 107,304,855 and
+69,257,891 respectively.
+
+   Share-based Compensation
+The registrant uses the fair value accounting method as provided under
+SFAS No. 123(R) for stock options and other equity based compensation
+issued to employees.  The fair value of each option granted is estimated
+on the date of grant using the Black-Scholes option-pricing model.  The
+following weighted average assumptions were used in the calculation of
+the 2008 and 2007 compensation expense: dividend yield 0% (2007 - 0%)
+expected volatility of 113.4% (2007 - 97.9%), risk-free interest rate of
+3.6% (2007 - 6.3%), and expected lives of 5 years (2007 - 5 years).
+
+Segment Reporting
+The registrant operates in one industry segment - radio frequency
+identification microchip readers and tags. The registrant operates
+primarily in one geographic area, being the North America.  PLCL sells
+products in Europe which accounted for approximately 17% of total sales.
+
+<PAGE>23
+
+   FASB Statement No. 131, Disclosures about Segments of an Enterprise
+and Related Information, establishes standards for reporting information
+about operating segments. Operating segments are defined as components
+of an enterprise about which separate financial information is available
+that is evaluated regularly by the chief operating decision maker, or
+decision making group, in deciding how to allocate resources and in
+assessing performance.  The registrant's chief operating decision maker
+is its Chief Executive Officer.  The registrant's Chief Executive
+Officer reviews financial information presented on a consolidated basis
+for purposes of allocating resources and evaluating financial
+performance.  The registrant has one business activity and there are no
+segment managers who are held accountable for operations, operating
+results and plans for products or components below the consolidated unit
+level.  Accordingly, the registrant reports as a single operating
+segment.
+
+   Reclassifications
+Certain 2007 amounts have been reclassified to conform to 2008
+presentation.
+
+Recent Pronouncements
+
+In February 2007, the FASB issued Statement 159, The Fair Value Option
+for Financial Assets and Financial Liabilities, which provides an option
+to report eligible financial assets and liabilities at fair value
+effective January 1, 2008, with changes in fair value recognized in net
+income. Upon adoption, the first re-measurement to fair value would be
+reported as a cumulative-effect adjustment to the opening balance of
+retained earnings.  The registrant has elected not to report eligible
+assets and liabilities at their fair value.
+
+In December 2007, the FASB issued Statement 141R, Business Combinations,
+which requires recognition of the assets acquired, liabilities assumed
+and non-controlling interest arising in a business combination at their
+fair value as of the acquisition date. In addition, the costs of
+acquisition must be recognized separately from the business combination.
+This statement will be effective for our 2009 reporting and is not
+expected to have a material impact on the registrant.
+
+During the year, the registrant adopted Statement 157, Fair Value
+Measurements, which defines fair value and establishes a framework for
+measuring fair value and increases disclosure concerning fair value
+measurements.  The adoption of Statement 157 did not have a material
+impact on the registrant's results or financial position.
+
+In March 2008, the FASB issued Statement 161, Disclosures about
+Derivative Instruments and Hedging Activities, which requires enhanced
+disclosure about how and why an entity uses derivative instruments, how
+derivative instruments and related hedged items are accounted for, and
+how derivative instruments and related hedged items affect an entity's
+financial position, financial performance and cash flows.  This
+statement will be effective for our 2009 reporting and is not expected
+to have a material impact on the registrant.
+
+
+<PAGE>24
+
+In May 2008, the FASB issued Statement 162, The Hierarchy of Generally
+Accepted Accounting Principles, which identifies the sources of
+accounting principles and the framework for selecting the principles to
+be used in the preparation of financial statements of entities that are
+presented in conformity with US GAAP.  This statement will be effective
+for the registrant following the US Securities and Exchange Commission's
+approval of the Public Company Accounting Oversight Board's amendments
+to existing guidance and its adoption is not expected to have a material
+impact on the registrant.
+
+On May 23, 2008, the Financial Accounting Standards Board ("FASB")
+issued FASB statement No.163 "Accounting for Financial Guarantee
+Insurance Contracts" ("FAS 163").  FAS 163 clarifies how FASB Statement
+No.60 "Accounting and reporting by Insurance Enterprises" applies to
+financial guarantee insurance contracts.  FAS 163 is focused on the
+recognition and measurement of premium revenue and claims liabilities,
+along with additional disclosure requirements for financial guarantee
+contracts. The significant elements of the standard are as follows:
+
+   1. Premium revenue will be recognized as a function of the amount of
+insurance protection provided over the contract term.
+
+   2. The standard requires that the present value of installment
+premiums due pursuant to the terms of a financial guarantee insurance
+contract be recognized at inception of the contract as unearned
+premiums and premiums receivable, which is inconsistent with current
+industry accounting practice.
+
+   3. A claim liability will be established on a financial guarantee
+contract when the probability weighted net present value of an expected
+claim loss is estimated to exceed the related unearned premium revenue.
+Provision of unallocated reserves are not permitted under the standard.
+
+   4. Additional disclosures on financial guarantee contracts, the
+accounting and risk management activities used to evaluate credit
+deterioration in the Company's insured obligations and surveillance
+lists.
+
+FAS 163 is effective for fiscal years beginning after December 15,
+2008, and all interim periods within those fiscal years, with the
+exception of certain risk management disclosures which are effective
+for the first period beginning after issuance of FAS 163 (i.e. the
+Company's September 30, 2008 financial statements). Early application
+is not permitted. The standard does not apply to credit default swaps.
+Applying FAS 163 will not have any impact on the financial results of
+the registrant or on the registrant's financial position.
+
+In December 2008, the FASB issued Staff Position FSP FAS 132R-1,
+Employers' Disclosures about Post-Retirement Benefit Plans Assets, which
+requires additional disclosures explaining how investment allocation
+decisions are made, the major categories of plan assets, inputs and
+valuation techniques used to measure fair value of plan assets and
+significant concentrations of risk within the plan assets.  This Staff
+Position will not have any impact on the registrant's results or
+financial position.
+
+<PAGE>25
+
+ITEM 7A.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Not applicable
+
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+                     Advanced ID Corporation
+                 Index to the Financial Statements
+
+
+Reports of Independent Registered Public Accounting Firms      26
+Financial Statements of Advanced ID Corporation:
+  Consolidated Balance Sheets as of December 31, 2008
+    and 2007                                                   28
+  Consolidated Statements of Operations For the Years
+    Ended December 31, 2008 and 2007                           30
+  Consolidated Statements of Stockholders' Equity
+   (Deficit) For the Years Ended December 31, 2008 and 2007    32
+  Consolidated Statements of Cash Flows For the Years Ended
+    December 31, 2008 and 2007                                 33
+  Notes to Consolidated Financial Statements                   35
+
+
+
+<PAGE>26
+
+Report of Independent Registered Public Accounting Firm
+
+To the Board of Directors and Stockholders of
+Advanced ID Corporation
+Calgary, Canada
+
+We have audited the accompanying balance sheet of Advanced ID
+Corporation and subsidiaries as of December 31, 2008 and the related
+statements of operations, stockholders' equity (deficit), and cash flows
+for the year then ended.  Advanced ID Corporation's management is
+responsible for these financial statements.  Our responsibility is to
+express an opinion on these financial statements based on our audits.
+The consolidated financial statements of Advanced ID Corporation and
+subsidiaries for the year ended December 31, 2007 were audited by other
+auditors whose report dated March 26, 2008 expressed an unqualified
+opinion on those statements.
+
+We conducted our audits in accordance with the standards of the Public
+Company Accounting Oversight Board (United States).  Those standards
+require that we plan and perform the audit to obtain reasonable
+assurance about whether the financial statements are free of material
+misstatement.  The Company is not required to have, nor were we engaged
+to perform, an audit of its internal control over financial reporting.
+Our audit included consideration of internal control over financial
+reporting as a basis for designing audit procedures that are appropriate
+in the circumstances, but not for the purpose of expressing an opinion
+on the effectiveness of the Company's internal control over financial
+reporting.  Accordingly, we express no such opinion.  An audit also
+includes examining, on a test basis, evidence supporting the amounts and
+disclosures in the financial statements, assessing the accounting
+principles used and significant estimates made by management, as well as
+evaluating the overall financial statement presentation.  We believe
+that our audits provide a reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present
+fairly, in all material respects, the financial position of Advanced ID
+Corporation and subsidiaries as of June 30, 2008 and the results of its
+operations and its cash flows for the year then ended in conformity with
+accounting principles generally accepted in the United States of
+America.
+
+The accompanying consolidated financial statements have been prepared
+assuming that the Company will continue as a going concern, as discussed
+in Note 3 to the consolidated financial statements.  Management's plans
+regarding those matters are also described in the said note.  The
+consolidated financial statements do not include any adjustment that
+might result from the outcome of this uncertainty.
+
+/s/AGCA, Inc.
+Arcadia, California
+March 31, 2009
+
+
+
+<PAGE>27
+
+Report of Independent Registered Public Accounting Firm
+
+To the Board of Directors of
+Advanced ID Corporation
+Calgary, Alberta, Canada
+
+
+We have audited the accompanying consolidated balance sheet of Advanced
+ID Corporation (the "Company") as of December 31, 2007, and the related
+consolidated statements of operations, stockholders' equity (deficit),
+and cash flows for the year ended December 31, 2007. These financial
+statements are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements
+based on our audit.
+
+We conducted our audit in accordance with the standards of the Public
+Company Accounting Oversight Board (United States).  Those standards
+require that we plan and perform the audit to obtain reasonable
+assurance about whether the financial statements are free of material
+misstatement.  The Company is not required to have, nor were we engaged
+to perform, an audit of its internal control over financial reporting.
+Our audit included consideration of internal control over financial
+reporting as a basis for designing audit procedures that are appropriate
+in the circumstances, but not for the purpose of expressing an opinion
+on the effectiveness of the Company's internal control over financial
+reporting.  Accordingly, we express no such opinion.  An audit also
+includes examining, on a test basis, evidence supporting the amounts and
+disclosures in the financial statements, assessing the accounting
+principles used and significant estimates made by management, as well as
+evaluating the overall financial statement presentation. We believe that
+our audit provide a reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present
+fairly, in all material respects, the consolidated financial position of
+Advanced ID Corporation as of December 31, 2007 and the results of its
+operations and its cash flows for the year ended December 31, 2007 in
+conformity with accounting principles generally accepted in the United
+States of America.
+
+As discussed in Note 3 to the consolidated financial statements, the
+Company's absence of significant revenues, recurring losses from
+operations, and its need for additional financing in order to fund its
+projected loss in 2008 raise substantial doubt about its ability to
+continue as a going concern. The 2007 consolidated financial statements
+do not include any adjustments that might result from the outcome of
+this uncertainty.
+
+
+/s/LBB & Associates Ltd., LLP
+-----------------------------
+LBB & Associates Ltd., LLP
+
+Houston, Texas
+March 26, 2008
+
+<PAGE>28
+               ADVANCED ID CORPORATION AND SUBSIDIARIES
+                    CONSOLIDATED BALANCE SHEETS
+                 AS OF DECEMBER 31, 2008 and 2007
+
+                                  ASSETS
+
+                                                2008            2007
+                                                ----            ----
+CURRENT ASSETS:
+  Cash                                       $ 165,072      $  61,557
+  Trade accounts receivable, net               135,156        111,073
+  Accounts receivable - related parties        346,974          2,870
+  Inventory                                     45,703         95,914
+  Prepaid expenses                              13,859          2,018
+                                            ----------      ---------
+      Total current assets                     706,764        273,432
+   Property and equipment, net                  51,334         49,986
+   Goodwill                                          -        122,468
+   Promissory notes receivable                 725,000              -
+   Customer list, net                                -         62,500
+                                            ----------     ----------
+      Total other assets                       776,334        234,954
+                                            ----------     ----------
+      Total assets                          $1,483,098     $  508,386
+                                            ==========     ==========
+               LIABILITIES AND STOCKHOLDERS' DEFICIT
+CURRENT LIABILITIES:
+  Accounts payable                          $  315,666     $  300,636
+  Accounts payable - related parties           138,444         66,912
+  Loan payable - related party                 106,761         59,806
+  Deposit on shares to be issued                     -        192,500
+  Redemption put liability                      32,253              -
+  Accrued liabilities                           13,491         57,343
+  Contingent consideration on acquisition
+    of Pneu-Logic                               70,000        240,000
+                                            ----------     ----------
+      Total current liabilities                676,615        917,197
+  Debentures payable                         1,219,249              -
+                                            ----------     ----------
+      Total liabilities                      1,895,864        917,197
+                                            ----------     ----------
+STOCKHOLDERS' DEFICIT:
+  Series A preferred stock, $0.01 par;
+    500,000 shares authorized; none issued
+    and outstanding                                  -              -
+  Common stock, $0.01 par; 100,000,000 shares
+    authorized; 75,990,271 shares and
+    57,318,308 shares issued and outstanding
+    at December 31, 2008 and 2007,
+    respectively                               759,904        573,184
+  Additional paid-in capital                10,802,481      8,180,170
+  Subscription receivable                      (99,430)        (2,000)
+  Accumulated deficit                      (11,867,754)    (9,161,789)
+  Accumulated other comprehensive
+    Income (loss)                               (7,967)         1,624
+                                            ----------     ----------
+
+<PAGE>29
+
+      Total stockholders' deficit             (412,766)      (408,811)
+                                            ----------     ----------
+      Total liabilities and stockholders'
+        deficit                             $1,483,098     $  508,386
+                                            ==========     ==========
+
+            See accompanying summary of accounting policies
+            and notes to consolidated financial statements.
+
+
+
+<PAGE>30
+
+               ADVANCED ID CORPORATION AND SUBSIDIARIES
+                CONSOLIDATED STATEMENTS OF OPERATIONS
+            FOR THE YEARS ENDED DECEMBER 31, 2008 and 2007
+
+                                               2008          2007
+                                            ----------    ----------
+Revenues                                   $1,159,039     $1,010,003
+Cost of revenues                              603,992        525,127
+                                          -----------    -----------
+  Gross profit                                555,047        484,876
+
+Research and development expense               37,940        265,787
+Selling, general and administrative expense 2,411,836      2,316,173
+Bad debt provision on advanced to DDCT        149,815              -
+Impairment of property and equipment           13,913              -
+Impairment of customer list                    44,123              -
+Impairment of goodwill                        122,468        486,888
+                                          -----------    -----------
+  Operating loss                           (2,225,048)    (2,583,972)
+  Accretion and finance charges on
+    debenture                                (251,502)             -
+  Interest income (expense)                   (39,581)         1,734
+                                          -----------    -----------
+Loss from continuing operations            (2,516,131)    (2,582,238)
+Loss from discontinued operations                   -       (139,745)
+                                          -----------    -----------
+Net Loss before income taxes               (2,516,131)    (2,721,983)
+Provision for income taxes                          -              -
+                                          -----------    -----------
+Net Loss                                  $(2,516,131)   $(2,721,983)
+
+Warrant holder inducement dividend           (189,834)      (155,647)
+                                          -----------    -----------
+Net loss applicable to common
+Shareholders                              $(2,705,965)   $(2,877,630)
+                                          ===========    ===========
+Net loss per share:
+  Basic and diluted loss
+     Continuing operations                     $(0.04)        $(0.05)
+                                               ======         ======
+     Discontinued operations                   $(0.00)        $(0.00)
+                                               ======         ======
+  Basic and diluted weighted average
+    Shares outstanding                     65,680,317     54,951,487
+                                           ==========     ==========
+
+               See accompanying summary of accounting policies
+               and notes to consolidated financial statements.
+
+
+
+<PAGE>31
+               ADVANCED ID CORPORATION AND SUBSIDIARIES
+        CONSOLIDATED STATEMENT OF STOCKHOLDERS' EQUITY (DEFICIT)
+           FOR THE YEARS ENDED DECEMBER 31, 2008 and 2007
+                       (CONTINUED ON NEXT PAGE)
+<TABLE>
+<CAPTION>
+                                                              Additional
+                                            Common Stock       Paid -in    Subscription
+                                          Shares    Amounts     Capital      Received
+                                          -----------------    ----------   -----------
+<s>                                          <c>       <c>         <c>            <c>
+BALANCE, December 31, 2006               52,219,914  $522,199  $6,000,805     $(22,000)
+Comprehensive loss:
+  Net loss
+  Foreign currency translation adjustments
+      Total comprehensive loss
+Stock issued for services                 1,151,372    11,514     271,926            -
+Stock issued for cash                       965,000     9,650     244,350       20,000
+Stock issued on acquisition of Pneu-Logic 1,000,000    10,000     308,810            -
+Stock issued on settlement of debt        1,170,355    11,704     350,237            -
+Exercise of options and warrants            811,667     8,117     235,383            -
+Stock options issued for services                 -         -     613,012            -
+Warrant holder inducement dividend                -         -     155,647            -
+                                         ----------  --------  ----------     --------
+BALANCE, December 31, 2007               57,318,308  $573,184  $8,180,170     $ (2,000)
+                                         ==========  ========  ==========     ========
+Comprehensive loss:
+  Net loss
+  Foreign currency translation adjustments
+      Total comprehensive loss
+Stock issued for services                 3,857,933    38,580     601,570            -
+Stock issued for cash                    12,631,395   126,314   1,247,619      (97,430)
+Stock issued on settlement of debt        1,340,968    13,409     127,964            -
+Stock issued for deposits received
+  in 2007                                   841,667     8,417     182,083            -
+Stock options issued for services                 -         -     273,241            -
+Warrant holder inducement dividend                -         -     189,834            -
+                                         ----------  --------  ----------     --------
+BALANCE, December 31, 2008               75,990,271  $759,904 $10,802,481     $(99,430)
+                                         ==========  ========  ==========     ========
+</TABLE>
+
+
+
+<PAGE>32
+                 ADVANCED ID CORPORATION AND SUBSIDIARIES
+          CONSOLIDATED STATEMENT OF STOCKHOLDERS' EQUITY (DEFICIT)
+               FOR THE YEARS ENDED DECEMBER 31, 2008 and 2007
+<TABLE>
+                                         Accumulated
+                                            Other                         Total
+                                        Comprehensive    Accumulated   Stockholders'
+                                         Income (Loss)     Deficit    Equity (Deficit)
+                                        -------------    -----------  -------------
+<s>                                          <c>             <c>           <c>
+BALANCE, December 31, 2006               $ 16,477       $(6,284,159)  $  233,322
+Comprehensive loss:
+  Net loss                                      -        (2,721,983)  (2,721,983)
+  Foreign currency translation
+    adjustments                           (14,853)                -      (14,853)
+                                                                      ----------
+      Total comprehensive loss                                        (2,736,836)
+                                                                      ----------
+Stock issued for services                       -                 -      283,440
+Stock issued for cash                           -                 -      274,000
+Stock issued on acquisition of Pneu-Logic       -                 -      318,810
+Stock issued on settlement of debt              -                 -      361,941
+Exercise of options and warrants                -                 -      243,500
+Stock options issued for services               -                 -      613,012
+Warrant holder inducement dividend              -          (155,647)           -
+                                          -------        ----------   ----------
+BALANCE, December 31, 2007                $ 1,624       $(9,161,789)  $ (408,811)
+                                          =======       ===========   ==========
+  Net loss                                      -        (2,516,131)  (2,516,131)
+  Foreign currency translation
+    adjustments                            (9,591)                -       (9,591)
+                                                                       ---------
+      Total comprehensive loss                                        (2,525,722)
+                                                                       ---------
+Stock issued for services                       -                 -      640,150
+Stock issued for cash                           -                 -    1,276,503
+Stock issued on settlement of debt              -                 -      141,373
+Stock issued for deposits received in 2007      -                 -      190,500
+Stock options issued for services               -                 -      273,241
+Warrant holder inducement dividend              -          (189,834)           -
+                                          -------       -----------    ---------
+BALANCE, December 31, 2008                $(7,967)     $(11,867,754)  $ (412,766)
+                                          =======      ============    =========
+</TABLE>
+
+               See accompanying summary of accounting policies
+               and notes to consolidated financial statements.
+
+
+
+
+<PAGE>33
+                  ADVANCED ID CORPORATION AND SUBSIDIARIES
+                    CONSOLIDATED STATEMENTS OF CASH FLOWS
+                 FOR THE YEARS ENDED DECEMBER 31, 2008 AND 2007
+(Continued on Next Page)
+
+                                                 2008          2007
+                                            ------------   ------------
+CASH FLOWS FROM OPERATING ACTIVITIES:
+  Net loss                                   $(2,516,131)  $(2,721,983)
+  Net income (loss) from discontinued
+    operations                                         -      (139,745)
+                                              ----------    ----------
+  Net loss from continuing operations         (2,516,131)   (2,582,238)
+  Adjustments to reconcile net loss to
+    net cash used in operating activities:
+    Depreciation and amortization                 59,151       102,960
+    Stock issued for services                    640,150       283,440
+    Stock options issued for services            273,241       613,012
+    Stock issued for interest expense             16,373             -
+    Accretion and finance charge on debenture    251,502             -
+    Bad debt provision on investment to DDCT     149,815             -
+    Goodwill impairment                          122,468       486,888
+    Impairment of customer list                   44,123             -
+    Impairment of property and equipment          13,913             -
+      Change in assets and liabilities:
+        Accounts receivable                     (381,456)       73,154
+        Inventory                                 48,639       (72,642)
+        Prepaid expenses                         (11,363)       19,289
+        Accounts payable                          10,001       166,259
+        Accounts payable - related parties        72,722       175,539
+        Accrued liabilities                      (48,637)       (6,091)
+                                              ----------    ----------
+Net cash used in continuing operating
+  activities                                  (1,255,489)     (740,430)
+Net cash used in discontinued operating
+  activities                                           -         1,747
+                                              ----------    ----------
+CASH FLOWS USED IN OPERATING ACTIVITIES       (1,255,489)     (738,683)
+                                              ----------    ----------
+CASH FLOWS FROM INVESTING ACTIVITIES:
+  Advance on investment to DDCT                 (149,815)            -
+  Payment on acquisition of assets of
+    Pneu-Logic Ltd.                             (170,000)     (100,000)
+  Purchase of property and equipment             (56,035)      (16,254)
+                                              ----------    ----------
+Net cash used in investing activities           (375,850)     (116,254)
+Net cash used in discontinued investing
+  activities                                           -       (16,193)
+                                              ----------    ----------
+CASH FLOWS USED IN INVESTING ACTIVITIES         (375,850)     (132,447)
+                                              ----------    ----------
+CASH FLOWS FROM FINANCING ACTIVITIES:
+  Proceeds from sale of stock                  1,276,503       274,000
+  Proceeds from borrowings                       125,000             -
+  Proceeds from the exercise of stock
+    options and warrants                               -       213,500
+
+<PAGE>34
+
+               ADVANCED ID CORPORATION AND SUBSIDIARIES
+                CONSOLIDATED STATEMENTS OF CASH FLOWS
+      FOR THE YEARS ENDED DECEMBER 31, 2008 AND 2007 (Continued)
+
+                                                 2008          2007
+                                            ------------   ------------
+  Payment on Pneu-Logic Ltd. debt issued               -       (60,000)
+  Proceeds from loan payable - related party      46,955        60,000
+  Proceeds from deposits on shares to be issued        -       192,500
+  Proceeds from the issuance of debenture        275,000             -
+                                              ----------    ----------
+Net cash provided from continuing financing
+  activities                                   1,723,458       680,000
+Net cash provided from discontinued financing
+  activities                                           -        (1,912)
+                                              ----------    -----------
+CASH FLOWS FROM FINANCING ACTIVITIES           1,723,458       678,088
+                                              ----------    ----------
+EFFECT OF EXCHANGE RATE CHANGES                   11,396       (12,188)
+                                              ----------    ----------
+NET INCREASE (DECREASE) IN CASH                  103,515      (205,230)
+CASH, beginning of year                           61,557       266,787
+                                              ----------    ----------
+CASH, end of year                             $  165,072    $   61,557
+                                              ==========    ==========
+
+CASH PAID FOR:
+  Interest                                      $ 38,402      $      -
+  Taxes                                         $      -      $      -
+
+NON CASH INVESTING AND FINANCING TRANSACTIONS:
+  Common stock issued for acquisition of
+    Pneu-Logic Ltd.                             $      -      $318,810
+  Common stock issued for settlement of debt    $141,373      $361,941
+  Common stock issued for deposits received
+    in 2007                                     $190,500      $      -
+  Debt Issued for acquisition of Pneu-Logic     $      -      $300,000
+  Common stock issued for subscription
+    receivable                                  $ 99,430      $      -
+  Subscription receivable issued for exercise
+    of warrants                                 $      -      $ 30,000
+Warrant holder inducement dividend              $189,834      $155,647
+
+             See accompanying summary of accounting policies
+             and notes to consolidated financial statements
+
+
+
+<PAGE>35
+
+             ADVANCED ID CORPORATION AND SUBSIDIARIES
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+          FOR THE YEARS ENDED DECEMBER 31, 2008 AND 2007
+
+NOTE 1 - NATURE OF OPERATIONS
+
+Advanced ID Corporation ("Advanced ID" or the "Company") was originally
+incorporated in South Dakota on August 13, 1990.  Advanced ID is in the
+business of marketing Radio Frequency Identification ("RFID") products
+for the purpose of identification and trace back of animals in the
+companion animal, biological sciences and agricultural sectors.
+
+During the past several years Advanced ID has also been involved in
+research & development of RFID readers and RFID tags for various market
+segments and will continue to do.
+
+NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+These consolidated financial statements have been prepared in accordance
+with accounting principles generally accepted in the United States of
+America and include the following significant accounting policies:
+
+Basis of Consolidation
+
+The consolidated financial statements include the accounts of Advanced
+ID Corporation, its wholly-owned subsidiaries Avid Canada Corporation
+("AVID Canada"), Advanced ID Asia Pacific Company Limited, Advanced ID
+(Shenzhen) Co., Ltd., and Pneu-Logic Corporation Limited ("PLCL").
+Until July 2005, the Company's accounts included the accounts of its
+wholly owned subsidiary Universal Pet Care, Inc. ("UPC").  UPC was a
+dormant company and was involuntarily dissolved in 2005.   All
+significant inter-company accounts and transactions have been eliminated
+in consolidation.
+
+Use of Estimates
+
+The preparation of financial statements in conformity with accounting
+principles generally accepted in the United States of America requires
+management to make estimates and assumptions that affect the amounts
+reported in these financial statements and accompanying notes.  Actual
+results could differ from these estimates.
+
+Concentration of Risk
+
+The Company places its cash and temporary cash investments with
+established financial institutions.  At various times during the year,
+the Company maintained cash balances in excess of insurable limits.
+Management feels this risk is mitigated due to the longstanding
+reputation of these banks.  No losses have been incurred by the Company
+related to this risk.
+
+
+
+<PAGE>36
+
+Foreign Currency Translation
+
+Since Avid Canada is located in Canada, the Canadian dollar has been
+designated as the functional currency.  For PLCL the currency of trade
+can be Euros, British sterling pounds and US Dollars, however the
+British sterling pounds has been designated as the functional currency.
+The reporting currency is the United States dollar.  All balance sheet
+accounts have been translated at the current exchange rates as of
+December 31, 2008 and 2007. Statements of operations items have been
+translated at average currency exchange rates during the respective
+years.  The resulting translation adjustment is recorded as a separate
+component of comprehensive loss within stockholders' equity (deficit).
+
+Accumulated Other Comprehensive Income (Loss)
+
+Total accumulated other comprehensive income (loss) consists of net
+income (loss) and other changes in stockholders' equity (deficit) from
+transactions and other events from currency translation gains and
+losses. The components of and changes in accumulated other comprehensive
+income as it relates to the currency translation losses are $9,591 and
+$14,853 for the years ending December 31, 2008 and 2007, respectively.
+
+Revenue Recognition
+
+Advanced ID recognizes revenue when persuasive evidence of an
+arrangement exists, shipment has occurred, the sales price is fixed or
+determinable and collectability is probable.
+
+Product sales are recognized by Advanced ID generally at the time
+product is shipped.  At the time revenue is recognized, Advanced ID
+provides for the estimated cost of product warranties and reduces
+revenue for estimated product returns.
+
+When other significant obligations remain after products are delivered,
+revenue is recognized only after such obligations are fulfilled.
+
+Research and Development Costs
+
+Research and development costs are expensed as incurred.
+
+Cash and Cash Equivalents
+
+For the purposes of presenting cash flows, Advanced ID considers all
+highly liquid investments with original maturities of three months or
+less to be cash equivalents.
+
+Allowance for Doubtful Accounts
+
+The Company provides an allowance against accounts receivables for
+estimated losses that may result from customers' inability to pay. The
+allowance is determined by analyzing known uncollectible accounts, aged
+receivables, economic conditions, historical losses and changes in
+customer's cycles and customer's credit- worthiness.  Amounts later
+determined and specifically identified to be uncollectible are charged
+and written off against this allowance.  To minimize the likelihood of
+
+<PAGE>37
+
+uncollectibility, the Company reviews customer's credit worthiness
+periodically based on independent credit reporting services, the
+Company's experience with the customer and the economic condition of the
+customer's industry.  Material differences may result in the amount and
+timing of expense for any period if the Company were to make different
+judgments or utilize different estimates.  If the financial condition of
+customers deteriorates resulting in an impairment of their ability to
+make payments, additional allowances may be required.  The Company has
+not experienced significant variances in the past between estimated and
+actual doubtful accounts and anticipates that the Company will be able
+to continue to make reasonable estimates in the future.  The Company has
+recorded an allowance of $Nil and $16,852 as of December 31, 2008 and
+2007 respectively.
+
+Inventory
+
+Inventory consists of finished goods held for resale and is recorded at
+the lower of cost or net realizable value.  Cost is determined on a
+first in-first out basis.
+
+Long-lived Assets
+
+Fixed assets are stated on the basis of historical cost less accumulated
+depreciation.  Depreciation is provided using the straight-line method
+over the two to five year estimated useful lives of the assets.
+
+Impairment losses are recorded on long-lived assets used in operations
+when indicators of impairment are present and the undiscounted cash
+flows estimated to be generated by those assets are less than the
+assets' carrying amount.  In 2008 impairment losses have been recorded
+on the assets of PLCL. Expenditures for repairs and maintenance are
+expensed as incurred.
+
+Expenditures for major renewals or betterments that extend the useful
+lives of existing property and equipment are capitalized and
+depreciated.  Upon retirement or dispositions of property and equipment,
+any resulting gain or loss is recognized consolidated statement of
+operations.
+
+Goodwill
+
+The Company accounts for goodwill in accordance with SFAS No. 141,
+"Business Combinations," and SFAS No, 142, "Goodwill and Other
+Intangible Assets."  Under SFAS No. 142, goodwill is deemed to have an
+indefinite life are not amortized but is subject to an annual impairment
+test.
+
+The Company recognized an impairment loss of $122,469 (2007 - $486,888)
+based on management's valuation.
+
+
+
+<PAGE>38
+
+Intangible Assets
+
+Intangible assets consist of a customer list purchased on the
+acquisition of PL. This list was being amortized straight-line over
+three years.  On December 31, 2008 the carrying value was completely
+written off as a result of management's assessment of PLCL's business.
+
+Fair Value of Financial Instruments
+
+The Company's financial instruments consist of cash and cash
+equivalents, receivables, payables and debt.  The carrying amount of
+these financial instruments approximates fair value due either to length
+of maturity or interest rates that approximate prevailing market rates
+unless otherwise disclosed in these consolidated financial statements.
+
+Advertising
+
+The Company charges costs of advertising to expense at the time the
+costs are incurred.
+
+Shipping and Handling
+
+The Company includes shipping and handling costs in cost of goods sold.
+
+Income Taxes
+
+Income taxes are computed using the asset and liability method.  Under
+the asset and liability method, deferred income tax assets and
+liabilities are determined based on the differences between the
+financial reporting and tax bases of assets and liabilities and are
+measured using the currently enacted tax rates and laws.  A valuation
+allowance is provided for the amount of deferred tax assets that, based
+on available evidence, are not expected to be realized.
+
+Loss per Common Share
+
+The basic net loss per common share is computed by dividing the net loss
+applicable to common stockholders by the weighted average number of
+common shares outstanding.
+
+Diluted net loss per common share is computed by dividing the net loss
+applicable to common stockholders, adjusted on an "as if converted"
+basis, by the weighted average number of common shares outstanding plus
+potential dilutive securities.  For 2008 and 2007, potential dilutive
+securities had an anti-dilutive effect and were not included in the
+calculation of diluted net loss per common share.  Total shares
+outstanding, assuming the exercise of outstanding options and warrants
+for the years ended December 31, 2008 and 2007, were 107,304,855 and
+69,257,891 respectively.
+
+Share-based Compensation
+
+The Company uses the fair value accounting method as provided under SFAS
+No. 123(R) for stock options and other equity based compensation issued
+to employees.  The fair value of each option granted is estimated on the
+
+<PAGE>39
+
+date of grant using the Black-Scholes option-pricing model.   The
+following weighted average assumptions were used in the calculation of
+the 2008 and 2007 compensation expense: dividend yield 0% (2007 - 0%)
+expected volatility of 113.4% (2007 - 97.9%), risk-free interest rate of
+3.6% (2007 - 6.3%), and expected lives of 5 years (2007 - 5 years).
+
+Segment Reporting
+
+The Company operates in one industry segment - radio frequency
+identification microchip readers and tags. The Company operates
+primarily in one geographic area, being the North America.  PLCL sells
+products in Europe which accounted for approximately 17% of total sales.
+
+FASB Statement No. 131, Disclosures about Segments of an Enterprise and
+Related Information, establishes standards for reporting information
+about operating segments. Operating segments are defined as components
+of an enterprise about which separate financial information is available
+that is evaluated regularly by the chief operating decision maker, or
+decision making group, in deciding how to allocate resources and in
+assessing performance.  The Company's chief operating decision maker is
+its Chief Executive Officer.  The Company's Chief Executive Officer
+reviews financial information presented on a consolidated basis for
+purposes of allocating resources and evaluating financial performance.
+The Company has one business activity and there are no segment managers
+who are held accountable for operations, operating results and plans for
+products or components below the consolidated unit level.  Accordingly,
+the Company reports as a single operating segment.
+
+Reclassifications
+
+Certain 2007 amounts have been reclassified to conform to 2008
+presentation.
+
+Recent Accounting Pronouncements
+
+In February 2007, the FASB issued Statement 159, The Fair Value Option
+for Financial Assets and Financial Liabilities, which provides an option
+to report eligible financial assets and liabilities at fair value
+effective January 1, 2008, with changes in fair value recognized in net
+income. Upon adoption, the first re-measurement to fair value would be
+reported as a cumulative-effect adjustment to the opening balance of
+retained earnings. The Company has elected not to report eligible assets
+and liabilities at their fair value.
+
+In December 2007, the FASB issued Statement 141R, Business Combinations,
+which requires recognition of the assets acquired, liabilities assumed
+and non-controlling interest arising in a business combination at their
+fair value as of the acquisition date. In addition, the costs of
+acquisition must be recognized separately from the business combination.
+This statement will be effective for the Company's 2009 reporting and is
+not expected to have a material impact on the Company.
+
+
+
+<PAGE>40
+
+During the year, the Company adopted Statement 157, Fair Value
+Measurements, which defines fair value and establishes a framework for
+measuring fair value and increases disclosure concerning fair value
+measurements. The adoption of Statement 157 did not have a material
+impact on the Company's results or financial position.
+
+In March 2008, the FASB issued Statement 161, Disclosures about
+Derivative Instruments and Hedging Activities, which requires enhanced
+disclosure about how and why an entity uses derivative instruments, how
+derivative instruments and related hedged items are accounted for, and
+how derivative instruments and related hedged items affect an entity's
+financial position, financial performance and cash flows. This statement
+will be effective for the Company's 2009 reporting and is not expected
+to have a material impact on the Company
+
+In May 2008, the FASB issued Statement 162, The Hierarchy of Generally
+Accepted Accounting Principles, which identifies the sources of
+accounting principles and the framework for selecting the principles to
+be used in the preparation of financial statements of entities that are
+presented in conformity with US GAAP.  This statement will be effective
+for the Company following the US Securities and Exchange Commission's
+approval of the Public Company Accounting Oversight Board's amendments
+to existing guidance and its adoption is not expected to have a material
+impact on the Company.
+
+On May 23, 2008, the Financial Accounting Standards Board ("FASB")
+issued FASB statement No.163 "Accounting for Financial Guarantee
+Insurance Contracts" ("FAS 163").  FAS 163 clarifies how FASB Statement
+No.60 "Accounting and reporting by Insurance Enterprises" applies to
+financial guarantee insurance contracts.  FAS 163 is focused on the
+recognition and measurement of premium revenue and claims liabilities,
+along with additional disclosure requirements for financial guarantee
+contracts. The significant elements of the standard are as follows:
+
+   1. Premium revenue will be recognized as a function of the amount of
+insurance protection provided over the contract term.
+
+   2. The standard requires that the present value of installment
+premiums due pursuant to the terms of a financial guarantee insurance
+contract be recognized at inception of the contract as unearned premiums
+and premiums receivable, which is inconsistent with current industry
+accounting practice.
+
+   3. A claim liability will be established on a financial guarantee
+contract when the probability weighted net present value of an expected
+claim loss is estimated to exceed the related unearned premium revenue.
+Provision of unallocated reserves are not permitted under the standard.
+
+   4. Additional disclosures on financial guarantee contracts, the
+accounting and risk management activities used to evaluate credit
+deterioration in the Company's insured obligations and surveillance
+lists.
+
+
+
+<PAGE>41
+
+FAS 163 is effective for fiscal years beginning after December 15, 2008,
+and all interim periods within those fiscal years, with the exception of
+certain risk management disclosures which are effective for the first
+period beginning after issuance of FAS 163 (i.e. the Company's September
+30, 2008 financial statements).  Early application is not permitted. The
+standard does not apply to credit default swaps.  Applying FAS 163 will
+not have any impact on the financial results of the Company or on the
+Company's financial position.
+
+In December 2008, the FASB issued Staff Position FSP FAS 132R-1,
+Employers' Disclosures about Post-Retirement Benefit Plans Assets, which
+requires additional disclosures explaining how investment allocation
+decisions are made, the major categories of plan assets, inputs and
+valuation techniques used to measure fair value of plan assets and
+significant concentrations of risk within the plan assets.  This Staff
+Position will not have any impact on the Company's results or financial
+position.
+
+NOTE 3 - FINANCIAL CONDITION AND GOING CONCERN
+
+Advanced ID has incurred net losses for the years ended December 31,
+2008 and 2007 of $2,516,131 and $2,721,983 respectively.  Because of
+these losses, Advanced ID will require additional working capital to
+develop its business operations.
+
+Advanced ID intends to raise additional working capital through private
+placements, public offerings and/or bank financing.  There are no
+assurances that Advanced ID will be able to either (1) achieve a level
+of revenues adequate to generate sufficient cash flow from operations;
+or (2) obtain additional financing through either private placements,
+public offerings and/or bank financing necessary to support Advanced
+ID's working capital requirements.  To the extent that funds generated
+from operations and any private placements, public offerings and/or bank
+financing are insufficient, Advanced ID will have to raise additional
+working capital.  No assurance can be given that additional financing
+will be available, or if available, will be on terms acceptable to
+Advanced ID.
+
+These conditions raise substantial doubt about Advanced ID's ability to
+continue as a going concern.  The financial statements do not include
+any adjustments relating to the recoverability and classification of
+asset carrying amounts or the amount and classification of liabilities
+that might be necessary should Advanced ID be unable to continue as a
+going concern.
+
+NOTE 4 - ACQUISITION OF ASSETS OF PNEU-LOGIC LTD.
+
+No acquisitions were undertaken during the year ended December 31, 2008.
+The following table summarizes significant acquisitions completed during
+the year ended December 31, 2007:
+
+
+
+<PAGE>42
+
+                               Purchase               Amortizable
+                                Price     Goodwill    Intangibles
+                               --------   --------    -----------
+Pneu-Logic Ltd.               $ 718,810   $ 608,956    $ 75,400
+
+   PURCHASE PRICE
+
+On July 1, 2007, Advanced ID Corporation (the "Company") acquired
+substantially all of the assets of Pneu-Logic Ltd. ("PLL").  PLL was
+engaged in the business of fleet tire management. At the time of the
+transaction, there were no material relationships between the seller and
+the Company or any of its affiliates, or any director or officer of the
+Company, or any associate of any such officer or director. The aggregate
+purchase of $718,810 included $400,000 cash and 1,000,000 restricted
+shares of Advanced ID Corporation valued at $318,810.  The cash
+component consists of $100,000 paid on the date of closing and
+contingent consideration of ten $30,000 monthly installments commencing
+October 1, 2007 based on meeting certain revenue targets.  For the years
+ended December 31, 2008 and 2007, $170,000 and $160,000 were paid off.
+The value of 1,000,000 common shares issued was determined based on the
+market price for a reasonable period of time before and after the date
+that the terms of the acquisition were agreed to and announced. .
+
+After the acquisition of the assets of PLL, PLL still existed and the
+new entity with assets was incorporated as Pneu-Logic Corporation
+Limited ("PLCL")
+
+The purchase price allocation is as follows:
+
+Current assets, net             $ 116,022
+Property and equipment              5,654
+Goodwill                          608,956
+Customer list                      75,400
+Bank overdraft                    (87,222)
+                                ---------
+Total adjusted purchase price   $ 718,810
+                                =========
+
+The amount allocated to identifiable intangible assets was determined by
+the company's management.  Other intangibles assets are being amortized
+over their useful life in accordance with the guidance contained in the
+Financial Accounting Standards Board ("FASB") Statement of Financial
+Accounting Standard No. 142 ("SFAS 142") "Goodwill and Other Intangible
+Assets".
+
+Goodwill                                   $ 608,956
+Customer list                                 75,400
+                                           ---------
+Total identifiable intangible assets       $ 684,356
+                                           =========
+
+Amortization expenses for 2008 was $24,835 (2007 - $13,908)
+
+The results of operations for PLCL have been included in the Company's
+consolidated statements of operations since the completion of the
+acquisitions during the year ended December 31, 2007.  The following
+
+<PAGE>43
+
+unaudited pro forma financial information presents the combined results
+of the Company and the 2007 acquisitions as if the acquisitions had
+occurred at the beginning of 2007:
+
+                                                  Unaudited pro forma
+                                                  -------------------
+                                                        Year Ended
+                                                    December 31, 2007
+                                                      ------------
+Net Revenue                                             $ 1,243,328
+Net income (loss)                                       $(2,555,005)
+Net income (loss) applicable to common shareholder      $(2,850,397)
+Net income (loss) per share-basic                         $  (0.05)
+Net income (loss) per share-diluted                       $  (0.05)
+
+The above unaudited pro forma financial information includes adjustments
+for depreciation and amortization of identifiable intangible assets.
+
+During the year ended December 31, 2008 due to economic and other
+factors, management decided to impair the carrying value of the property
+and equipment, customer list and goodwill of PLCL.  The Company
+continues to operate however the office functions have been centralized
+to the Company's head office in order to reduce ongoing administrative
+and other expenses.
+
+At the same time the Company agreed to sell PLCL products to Pneu-Logic
+Limited ("PLL") which is an entity controlled by George Yeomans, a
+director of PLCL.  The agreement requires the Company to purchase
+products from RBC Electronics (entity owned by George Yeomans) and then
+to sell the products to PLL.  PLL will in turn sell the products to its
+own channels in Europe. As a result, Advanced ID concluded that sales to
+PLL should be recorded on a net revenue basis.  Reasons for net revenue
+recognition are that the Company never handles the goods sold by PLL,
+has no risk of inventory loss, and never has title to the goods.
+
+NOTE 5 - DISCONTINUED OPERATIONS
+
+Effective July 1, 2007, the Company disposed of its sixty percent owned
+subsidiary, Advanced ID Asia Engineering Co. Ltd., to focus its
+operations and reduce the cash requirements needed to continue this
+operation.  The business identified as a divestiture has been classified
+as discontinued operations in the accompanying financial statements.
+
+The following table summarizes the disposition:
+
+Current assets                         $157,606
+Property and equipment                   53,191
+Goodwill                                 55,486
+Current Liabilities                     (67,067)
+Non Controlling Interest                (47,022)
+                                        -------
+ Net assets acquired                   $152,194
+   Less: Consideration received        $      -
+                                       --------
+
+<PAGE>44
+
+Loss on disposition                     152,194
+Company's share of 2007 Earnings         12,449
+                                       --------
+Net loss on disposition                $139,745
+                                       ========
+
+NOTE 6 - PROPERTY AND EQUIPMENT
+
+Property and equipment consists of the following:
+                                      Estimated
+                                        Lives       2008        2007
+                                      ---------     ----        ----
+  Equipment and furniture                5 yrs  $  38,212   $  28,856
+  Leasehold improvements                 5 yrs     11,689           -
+  Computer hardware                      3 yrs     65,613      43,982
+  Computer software                      2 yrs    194,310     180,951
+                                                ---------   ---------
+    Total assets                                  309,824     253,789
+  Less accumulated depreciation and
+    write downs                                  (258,490)   (203,803)
+                                                ---------   ---------
+    Net book value                              $  51,334   $  49,986
+                                                =========   =========
+
+Depreciation expense for 2008 was $40,773 (2007 - $90,460).
+
+NOTE 7 - INCOME TAXES
+
+Advanced ID has had losses since inception and therefore has no income
+tax liability.  The net deferred tax asset generated by the loss carry-
+forward has been fully reserved.  The cumulative Canadian net operating
+loss carry-forward is approximately CDN$3,952,000 at December 31, 2008,
+and will expire in various years through 2028. Advanced ID recorded a
+decrease in the valuation allowance of $885,000 for the year ended
+December 31, 2008 and an increase in the valuation allowance of $700,000
+for the year ended December 31, 2007.  The difference between the
+statutory rate and the effective rate for the years ended December 31,
+2008 and 2007 relates to the change in valuation allowance.
+
+Deferred income taxes consist of the following at December 31, 2008 and
+2007:
+
+                                             2008         2007
+                                             ----         -----
+Short-term:
+  Deferred tax assets                     $1,115,000    $2,000,000
+  Valuation allowance                     (1,115,000)   (2,000,000)
+                                          ----------    ----------
+                                          $        -    $        -
+                                          ==========    ==========
+
+
+
+<PAGE>45
+
+NOTE 8 - COMMON STOCK
+
+During 2008, Advanced ID issued a total of 18,671,963 shares of common
+stock, 12,631,395 were issued for proceeds of $1,276,503 and
+subscriptions receivable of $99,430; 841,667 shares were issued for
+deposits received in 2007 for $190,500; 1,340,968 were issued for the
+settlement of debt valued at $141,373, and 3,857,933 shares of common
+stock were issued for services rendered valued at $640,150.
+
+During 2008, Advanced ID also wrote off a receivable that the Company
+had accepted in 2007 in exchange for the issuance of 10,000 shares of
+common stock valued at $2,000 to one investor due to an inability to
+pay. These shares were returned and cancelled.
+
+During 2007, Advanced ID issued a total of 5,098,394 shares of common
+stock; 965,000 shares of common stock were issued for cash proceeds of
+$254,000 and collected $20,000 of a subscription receivable from the
+prior year, 811,667 shares of common stock were issued on the exercise
+of warrants for $213,500 of cash and a note receivable of $30,000,
+1,170,355 shares of common stock were issued as settlement of debt
+valued at $361,941, 1,000,000 shares of common stock were issued on the
+acquisition of PL valued at $318,810, and 1,151,372 shares of common
+stock were issued for services rendered valued at $283,440.
+
+During 2007, Advanced ID also wrote off a note receivable that had been
+accepted in 2007 in exchange for the exercise of 100,000 common stock
+warrants valued at $30,000 to one investor due to his inability to pay.
+
+With the exception of the shares issued on the exercise of options and
+warrants and the shares issued in connection with a private placement to
+arm's-length parties, the shares were valued based on the closing price
+on the date they were issued.  The shares issued in connection with
+private placements with arm's-length parties were valued based on
+negotiated prices.
+
+NOTE 9 - STOCK OPTIONS AND WARRANTS
+
+Options:
+In May 2007, the Board approved the vesting of the President's remaining
+1,000,000 options that were originally granted as part of his initial
+employment contract.  Compensation expense for the fair value of these
+options of $337,018 has been included as part of the general and
+administrative expenses recorded during 2007.
+
+In May 2007, the Board approved an option plan to issue each board
+member 200,000 options at $0.40 per common share for a term of five
+years. Compensation expense for the fair value of these options of
+$245,328 has been included as part of the general and administrative
+expenses recorded during 2007.
+
+In May 2007, the Board authorized options to purchase 100,000 common
+shares with a term of 5 years to an employee and a consultant.  These
+common shares were registered under Form S-8 with the Securities and
+
+
+
+<PAGE>46
+
+Exchange Commission.  Compensation expense for the fair value of these
+options of $30,666 has been included as part of general and
+administrative expenses recorded during 2007.
+
+On August 3, 2007, the Board of Directors of the Company unanimously
+voted to increase the stock option exercise price to $0.50 per share on
+800,000 options granted to Directors.  Previously, these options were
+exercisable at $0.40 per share.  This change was filed with the SEC
+effective September 30, 2007.
+
+In April 2008 the Board approved the issuance of 2,000,000 options to
+various officers and directors of the Company.  The options are
+exercisable for a period of 5 years at an exercise price of $0.30 per
+share.  Compensation expense for the fair value of these options of
+$273,241 has been included as part of the general and administrative
+expenses recorded during 2008.  On November 9, 2008 officers and
+directors who were issued the options agreed to have them canceled.
+
+The following table summarizes stock option activity:
+
+  Outstanding, December 31, 2006                3,680,000
+  Granted                                       1,900,000
+                                                ---------
+  Outstanding, December 31, 2007                5,580,000
+  Granted                                       2,000,000
+  Cancelled                                    (2,000,000)
+                                                ---------
+  Outstanding, December 31, 2008                5,580,000
+                                                =========
+  Exercisable at December 31, 2008              5,580,000
+                                                =========
+
+Weighted-average grant-date exercise price of options, granted during
+2008 - $0.30 (2007 - $0.38).
+
+Weighted-average remaining, years of contractual life 2008 - 4.03 (2007
+- 5.03).
+
+Warrants:
+During the year ended December 31, 2008, 11,962,500 warrants were issued
+(2007 - 2,040,000) as part of a private placement of units, of which
+1,500,000 were exercisable at $0.20; 4,787,500 were exercisable at
+$0.22; 3,850,000 were exercisable at $0.25; and 1,825,000 were
+exercisable at $0.30.  These warrants expire on various dates between
+February 25, 2009 and February 25, 2011.
+
+A total of 140,000 warrants expired unexercised during the year
+
+As an inducement to all warrant holders with $0.30 and $0.40 exercise
+prices, the Company extended the expiry date by one year. $189,834
+warrant inducement dividend was recorded as a result of the extension of
+the expiry date of 4,009,585 warrants.
+
+
+<PAGE>47
+
+As of December 31, 2008, the Company had 18,182,083 warrants
+outstanding.
+
+The following table summarizes warrant activity:
+
+
+Outstanding, December 31, 2006                  5,478,750
+  Granted                                       2,040,000
+  Expired                                         (22,500)
+  Exercised (shares issued)                      (811,667)
+  Exercised (shares to be issued)                (325,000)
+                                               ----------
+Outstanding, December 31, 2007                  6,359,583
+  Granted                                      11,962,500
+  Expired                                        (140,000)
+  Exercised                                             -
+                                               ----------
+Outstanding, December 31, 2008                 18,182,083
+                                               ==========
+  Exercisable at December 31, 2008             18,182,083
+                                               ==========
+
+Weighted-average grant-date exercise price, granted during 2008 - $0.24
+(2007 - $0.34).
+
+Weighted-average remaining, years of contractual life as of 2008 - 0.92
+(2007 - 0.92).
+
+NOTE 10 - RELATED PARTY TRANSACTIONS
+
+In addition to being a director of Advanced ID, Mr. Kazimirski provides
+consulting services to Advanced ID for the purposes of assisting with
+product and market development.  Specifically, Mr. Kazimirski has been
+responsible for establishing distribution partners in countries located
+outside of North America, assisting the Company in finding and
+negotiating supplier partnership agreements, and other general business
+tasks as requested by the Company.  There exists no written consulting
+agreement in place but it has been mutually agreed that Mr. Kazimirski
+will receive $175 per hour for his services for an undefined term, and
+which began January 3, 2003.  During 2007, consulting fees of $126,283
+were charged for his services.  As a result of the Company's financial
+position, in December 2008 Mr. Kazimirski reversed all 2008 charges for
+his services to the Company.
+
+On November 14, 2007, Mr. Kazimirski provided a $60,000 loan to the
+Company.  This loan is unsecured, repayable on demand and bears interest
+at 10% per annum.
+
+In addition to being a director of Advanced ID, Mr. Meier provides
+consulting services to Advanced ID for the purposes of assisting with
+product and supplier development.  Specifically, Mr. Meier has been
+responsible for development, manufacturing and testing of the Company's
+DataTRAC(tm) RFID tags, sourcing microchip manufacturers, sourcing
+reader manufacturers, sourcing antennae design suppliers, and overall
+
+
+
+<PAGE>48
+
+product development.  Mr. Meier continues to provide services based on
+his hourly rate of $175 per hour.  During 2008 and 2007 consulting fees
+totaled $49,654 and $20,200 for his services, respectively.
+
+In addition to being a director of Advanced ID, Mr. Fields provides
+consulting services to Advanced ID for the purposes of assisting with
+investor relations and stock development.  Specifically, Mr. Fields has
+been responsible for development of investor relations programs and
+company funding activities such as private placements.  His contract
+began on May 21, 2002 and expired on May 21, 2005.  The contract was not
+renewed however Mr. Fields continues to provide services based on his
+hourly rate of $175 per hour.  During 2007 consulting fees totaled
+$41,815 for his services.  As a result of the Company's financial
+position, in December 2008 Mr. Fields reversed all 2008 charges for his
+services to the Company but was granted a bonus of $7,000 for his
+services.
+
+During the period ended December 31, 2008, Mr. Sudeep Bhargava, Vice
+President Operations and Interim CFO, received $86,736 in salary and
+bonuses.  In the same period in 2007 he received $74,681.  Based on the
+Company's financial position at year end, Mr. Bhargava voluntarily
+agreed to reverse all share based compensation for the year ended
+December 31, 2008.
+
+In addition to being President & CEO, Mr. Dan Finch also performs a role
+of director of Advanced ID. Mr. Finch is compensated for his services as
+a director.  In addition to the stock options granted to Mr. Finch
+discussed in Note 3, during the period ending December 31, 2008 and
+December 31, 2007 a total of $86,560 and $112,803 respectively was paid
+for salary, bonuses and director fees.  Based on the Company's financial
+position in December 2008, Mr. Finch voluntarily agreed to reverse all
+director's fees and other share based compensation for the year ended
+December 31, 2008.
+
+On December 31, 2008 accounts receivable from related parties included
+$283,995 representing the balance of all voluntary reversals of share-
+based compensation by directors of the Company. The amounts were
+subsequently settled by having all shares returned and cancelled.
+Please refer to Note 15.
+
+On December 31, 2008 $9,593 was included in accounts receivable from
+related parties for a purchase of goods by Global Consulting on behalf
+of a customer of the Company.  Global Consulting is a company owned by
+the Chairman of the Advanced ID.  The transaction was done at market
+rates and on the same terms as any other customer.
+
+On December 31, 2008 accounts receivable from related parties also
+included $47,113 due from Pneu Logic Ltd.  Pneu Logic Ltd. is owned by
+George Yeomans, who is a director of PLCL.  In addition, another $6,273
+was included in accounts receivable from related party, for an amount
+due from RBC Electronics which is also owned by George Yeomans.
+
+
+
+<PAGE>49
+
+As of December 31, 2008, included in accounts payable to related parties
+is $986 due to Global Consulting for expenses; $4,738 to Daniel Finch,
+President and CEO, for fees and expenses; $874 to Hubert Meier, a
+director for expenses; $7,000 to Terry Fields, a director for a bonus;
+and $26,443 due to Sudeep Bhargava for bonuses and expenses.  Mr.
+Bhargava is the Company's Interim CFO.
+
+Also included in accounts payable to related parties is $26,365 due to
+Laren Yeomans for expenses and fees, $33,448 to RBC Electronics for
+products and 25,627 Pounds ($38,590) to PLL.
+
+Laren Yeomans, a Director and employee of Pneu-Logic Corporation, Ltd
+("PLCL"), earned $133,335 of salary during the year ended December 31,
+2008.  The amount was partially settled in shares.
+
+RBC Electronics Limited ("RBC") is a company controlled by George
+Yeomans who is a director of PLCL.  During the year ending December 31,
+2008, $163,618 in inventory was purchased from RBC.
+
+$170,000 was paid to George Yeomans, a director of PLCL, during 2008 for
+the contingent consideration due on the acquisition of Pneu Logic and
+the Mr. Yeomans loaned 31,053 Pounds ($46,761) back to PLCL for
+operating capital.
+
+NOTE 11 - COMMITMENTS AND CONTINGENCIES
+
+On September 15, 2008, Advanced ID entered into an employment agreement
+with Dan Finch to act as the President and Chief Executive Officer. The
+agreement expires December 31, 2009.  Under the terms of this agreement,
+Mr. Finch is to receive an annual base salary of $103,620 with a bonus
+to be determined annually by the Board of Directors.  If the Company
+becomes profitable for at least one month then Mr. Finch will receive
+100,000 common shares.
+
+The Company has a number of operating lease commitments related to
+office space and equipment.  Estimated future minimum lease payments
+under these leases are as follows:
+
+
+  2009          $33,668
+  2010           32,148
+  2011           27,586
+  2012           18,391
+               --------
+               $111,793
+               ========
+
+In 2007, each director is compensated $1,500 per month resulting in a
+total estimated directors' compensation of $90,000 per year ($18,000 per
+director).  In 2008 the directors voluntarily suspended directors' fees
+due to the financial condition of the Company.
+
+
+
+
+<PAGE>50
+
+NOTE 12 - CONCENTRATIONS OF CREDIT RISK
+
+As of December 31, 2008 and 2007, amounts due from customers which
+exceeded 10% of trade accounts receivables amounted to $74,172 from
+three customers and $50,853 from three customers, respectively.
+
+The Company had no customers that exceeded 10% of revenues of or total
+revenues in 2008 (2007 - 13% one customer).
+
+The Company has three vendors which, combined, accounted for
+approximately 64% of total purchases in 2008 (2007 - 84% from three
+vendors).
+
+Currently, the Company realizes 50% of sales revenue from the sale of
+sterilized tags and related items for companion animals, over 90% of
+which is sold to the purchasing groups representing veterinarians in
+Canada.  The remaining 49% is divided between tire-tag sales and the
+Pneu-Logic revenues since July 1, 2007.
+
+The Company's Pneu-Logic subsidiary, located in the United Kingdom,
+comprises $192,216 of total revenues, $465,406 of total net loss, $9,766
+of total assets $147,036 of total liabilities and $0 of total capital
+expenditures for 2008.  The remainder of each item is comprised of
+operations in Canada.
+
+NOTE 13 - DDCT ACQUISITION
+
+On August 29, 2008, the Company signed a term sheet to purchase all of
+the assets of Shenzhen DDCT Technology Co. Ltd. ("DDCT"), based in the
+People's Republic of China.  Major terms of the agreement were as
+follows:
+
+The Company would set up a wholly owned subsidiary of Advanced ID Asia
+Pacific Company Limited.
+
+The new subsidiary would purchase all of the assets of DDCT including
+but not limited to inventory, leasehold improvements, intellectual
+property, patents, products, product designs, contracts past and future,
+collateral and manufacturing processes.
+
+The Company must provide US$5 million in working capital over 2 years
+with $200,000 paid within 30 days of signing the term sheet. In the
+event the transaction is not completed, DDCT will refund the advanced
+funds.
+
+The Company must put 16,005,727 shares into escrow for distribution to
+DDCT shareholders on completion of the transaction
+
+In addition, 21,340,969 shares of Advanced ID to be placed into escrow
+to be distributed to DDCT shareholders upon reaching performance
+milestones to be agreed upon once the transaction has completed.
+
+On December 1, 2008, Advanced ID Asia Pacific Company Limited set up
+Advanced ID (Schenzen) Co., Ltd. in accordance with the agreement.
+
+<PAGE>51
+
+As at December 31, 2008 no shares had been put into escrow and the
+Company had advanced approximately $195,000 to DDCT against the working
+capital requirement.  Subsequent to year end, the Company canceled the
+purchase of DDCT's assets due to economic conditions. The Company is
+currently negotiating for the refund of the advanced funds less expenses
+DDCT had made on behalf of Advanced ID (Shenzhen) Co., Ltd.  On December
+31, 2008 the Company was owed $149,815 from DDCT.  A bad debt provision
+was recorded for the entire amount outstanding at December 31, 2008 due
+to the low probability of recovery.
+
+NOTE 14 - CONVERTIBLE DEBENTURES
+
+Pursuant to a Securities Purchase Agreement dated November 10, 2008, the
+Company issued to a private investor a convertible debenture in the
+principal amount of $1,000,000.  As consideration, the Company received
+$200,000 cash and a promissory note for $800,000.  On the same day the
+Company received a prepayment on the promissory note for $75,000.  The
+Company accounted for the debenture in accordance with Statement of
+Financial Accounting Standards ("FASB") No. 150 "Accounting for Certain
+Financial Instruments with Characteristics of both Liabilities and
+Equity".
+
+The debenture bears interest at 6% per annum and matures on November 30,
+2011.  In the event the Company's common stock is trading for $0.058 or
+lower at any time during the period from November 10, 2008 to May 10,
+2009; the interest rate shall be increased to 93/4 % per annum and all the
+interest that would accrue on the debenture to maturity must be paid
+within 3 business days of such event.  The interest rate adjustment has
+been identified as an embedded derivative and has been accounted for at
+fair value as at December 31, 2008 in accordance with FAS 133
+"Accounting for Derivative Instruments and Hedging Activities" ("FAS
+133").
+
+The principal and any unpaid interest on the debenture is convertible at
+the option of the holder, in whole or in part, into common shares of the
+Company at a conversion price equal to the lesser of: $0.50 and 80% of
+the average of the three lowest VWAP during the 20 trading days prior to
+the conversion date.  The Company may increase the number of applicable
+trading days if it deems appropriate.  The Company has determined that
+the conversion price will likely equal the 80% average of the three
+lowest VWAP during the 20 trading days prior to the conversion date and
+thus recorded an additional $250,000 expense.  A debt discount of
+$32,253 was recorded upon valuation of the redemption put liability.
+This debt discount is being charged to operations as accretion expense
+and added to the debenture payable over the term of the debenture.
+
+                                             2008          2007
+                                             ----          ----
+Balance beginning of year                 $        -    $      -
+Issue of debentures                        1,000,000           -
+Finance charge                               250,000           -
+Debt discount                                (32,253)          -
+Accretion of debt discount                     1,502           -
+                                          ----------    --------
+                                          $1,219,249    $      -
+
+<PAGE>52
+
+If on the conversion date the VWAP of the Company's common stock is
+below $0.08 ("Floor Price"), the Company shall have two days from the
+conversion date to exercise an option to pay the principal amount being
+converted plus accrued interest in cash at 150% of such amount.  The
+option for net cash settlement has been identified as an embedded
+derivative and has been accounted for at fair value as at December 31,
+2008 in accordance with FAS 133.
+
+In the event the Company issues common shares or options/warrants for
+less than the Floor Price or convertible securities convertible at less
+than the Floor Price; the new floor price shall be adjusted to 80% of
+the price at which the issuance took place.  Issuances excluded from
+this clause include (1) stock options to directors, officers and
+employees of the Company (2) shares issued pursuant to any agreements in
+effect prior to November 10, 2008 (3) shares issued pursuant to a
+business acquisition (4)shares issued under this debenture.
+
+In the case of a fundamental corporate change whereby 50% of the
+Company's voting power is disposed of; the holder will have the right to
+require redemption of the debenture at 150% of the principal amount
+outstanding plus accrued interest or redeem the debenture for shares of
+common stock of the successor or acquiring corporation.  This early
+redemption clause has been identified as an embedded derivative and has
+been accounted for at fair value as at December 31, 2008 in accordance
+with FAS 133.  The fair value of the embedded derivative is $32,253. Any
+gains or losses on this embedded derivative will be recorded in the
+consolidated statement of operations and comprehensive income (loss) as
+a gain or loss on financial instruments with an offset to other assets
+or other liabilities on the Company's consolidated balance sheet.  For
+the period from November 10, 2008 to December 31, 2008, there were no
+changes to the fair value of the derivative.
+
+The holder will not be entitled to convert the debenture for a number of
+shares of common stock in excess of a number of shares that, upon giving
+effect to such conversion, would cause the aggregate number of common
+shares beneficially owned by the holder and its affiliates to exceed
+4.99% of the outstanding common shares following such conversion.
+However, this beneficial ownership limitation may be increased at the
+sole discretion of the holder to 9.99% with 61 days prior written notice
+to the Company.
+
+The promissory note bears interest at 6.25% per annum and matures
+November 30, 2011. In the event the Company's common stock is trading
+for $0.058 or lower at any time during the period from November 10, 2008
+to May 10, 2009; the interest rate shall be decreased to 43/4 % per annum.
+
+The holder is required to redeem the note at a rate of $200,000 per
+month beginning 6 months from the date of issuance until all principal
+and accrued interest has been paid. If the VWAP of the Company's common
+shares for any 10 day trading period is below $0.038, or if the Company
+is in default under the debenture, the mandatory redemption requirement
+of the holder is waived.
+
+
+<PAGE>53
+
+Failure of the holder to make mandatory redemption payments will result
+in an increase in the interest rate on the note of 1/4 % per missed
+payment, to a maximum of 121/2 % interest accruing on the note.
+
+The note is secured by all receivables, inventory, equipment &
+furnishings, books and records and products and proceeds of the holder.
+
+As of the date of this report, Advanced ID does not have sufficient
+shares authorized to meet all of the various share issuance obligations
+as discussed throughout these notes, including stock options, stock
+warrants, stock committed for cash, stock committed for services,  the
+convertible debenture with La Jolla Cove Investors, Inc., and the
+potential acquisition of DDCT.  Advanced ID may not be able to carry out
+its intended transactions due to a lack of sufficient authorized shares.
+The Company intends to seek authorization to increase the number of
+authorized shares it has available at its next Annual General Meeting.
+
+
+NOTE 15 - SUBSEQUENT EVENTS
+
+Pursuant to a board resolution, on January 12, 2009, the expiry date of
+900,000 warrants exercisable at $0.40 was extended by one year to
+January 12, 2010.
+
+Pursuant to a board resolution, on February 10, 2009, the expiry date of
+200,000 warrants exercisable at $0.30 was extended by one year to
+February 10, 2010.
+
+Pursuant to a board resolution, on February 14, 2009, the expiry date of
+200,000 warrants exercisable at $0.30 was extended by one year to
+February 14, 2010.
+
+Pursuant to a board resolution, on February 20, 2009, the expiry date of
+100,000 warrants exercisable at $0.30 was extended by one year to
+February 20, 2010.
+
+Pursuant to a board resolution, on February 25, 2009, the expiry date of
+1,000,000 warrants exercisable at $0.20 was extended by one year to
+February 25, 2010.
+
+Pursuant to a board resolution, on March 2, 2009, the expiry date of
+100,000 warrants exercisable at $0.30 was extended by one year to March
+2, 2010.
+
+Pursuant to a board resolution, on March 6, 2009, the expiry date of
+100,000 warrants exercisable at $0.30 was extended by one year to March
+6, 2010.
+
+Pursuant to a board resolution, on March 23, 2009, the expiry date of
+400,000 warrants exercisable at $0.30 was extended by one year to March
+23, 2010.
+
+Pursuant to a board resolution, on March 30, 2009, the expiry date of
+84,998 warrants exercisable at $0.30 was extended by one year to March
+30, 2010.
+
+<PAGE>54
+
+On February 18, 2009 a director voluntarily returned for cancellation
+850,973 shares of common stock received as compensation in 2008.
+
+On March 12, 2009 a director voluntarily returned for cancellation
+328,010 shares of common stock received as compensation in 2008.
+
+On March 18, 2009 785,000 shares were returned and canceled in
+settlement of subscriptions receivable.
+
+On March 30, 2009 a director voluntarily returned for cancellation
+315,449 shares of common stock received as compensation in 2008.
+
+
+
+<PAGE>55
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE
+
+Not applicable
+
+ITEM 9A.  CONTROLS AND PROCEDURES
+
+Controls and Procedures.
+
+Evaluation of Disclosure Controls and Procedures:
+
+In connection with the preparation of this annual report, an evaluation
+was carried out by our management, with the participation of the chief
+executive officer and the chief financial officer, of the effectiveness
+of our disclosure controls and procedures, as defined in Rules 13a-15(e)
+and 15d-15(e) under the Securities Exchange Act as of December 31, 2008.
+Disclosure controls and procedures are designed to ensure that
+information required to be disclosed in the reports filed or submitted
+under the Exchange Act is recorded, processed, summarized and reported
+within the time periods specified in the Commission's rules and forms
+and that such information is accumulated and communicated to management,
+including the chief executive officer and chief financial officer, to
+allow timely decisions regarding required disclosures.
+
+In the course of making our assessment of the effectiveness of
+disclosure controls and procedures, we have identified a significant
+deficiency in our disclosure controls and procedures.  A significant
+deficiency is a deficiency, or a combination of deficiencies, in
+internal control over financial reporting that is less severe than a
+material weakness, yet important enough to merit attention by those
+responsible for oversight of the registrant's financial reporting.
+Therefore, it is our conclusion that the registrant's disclosure
+controls and procedures were not effective as of December 31, 2008.
+
+Information from the books and records of PLCL were inadvertently
+combined with those of PLL resulting in additional cost and time to
+separate the information.  As discussed below, management has
+implemented additional internal controls to ensure that similar
+situations do not occur in the future.
+
+Management's Annual Report on Internal Control over Financial Reporting:
+
+Our management is responsible for establishing and maintaining adequate
+internal control over financial reporting.  Our internal control over
+financial reporting is the process, under the supervision of our chief
+executive officer and the chief financial officer, designed to provide
+reasonable assurance regarding the reliability of financial reporting
+and the preparation of our financial statements for external purposes in
+accordance with United States generally accepted accounting principles
+(GAAP).  Internal control over financial reporting includes those
+policies and procedures that:
+   -  Pertain to the maintenance of records that in reasonable detail
+accurately and fairly reflect the transactions and disposition of
+Advanced ID assets;
+
+<PAGE>56
+
+   -  Provide reasonable assurance that transactions are recorded as
+necessary to permit preparation of the financial statements in
+accordance with generally accepted accounting principles, and that
+receipts and expenditures are being made only in accordance with
+authorizations of management and the board of directors; and
+
+   -  Provide reasonable assurance regarding prevention or timely
+detection of unauthorized acquisition, use, or disposition of our assets
+that could have a material effect on the financial statements.
+
+Due to its inherent limitations, internal control over financial
+reporting may not prevent or detect misstatements.  Also, projections of
+any evaluation of effectiveness to future periods are subject to the
+risk that controls may become inadequate because of changes in
+conditions or that the degree of compliance with the policies or
+procedures may deteriorate.
+
+Our management conducted an assessment of the effectiveness of our
+internal control over financial reporting as of December 31, 2008 based
+on criteria established in Internal Framework issued by the Committee of
+Sponsoring Organizations of the Treadway Commission, which assessment
+identified material weaknesses in internal control over financial
+reporting.  A material weakness is a control deficiency, or a
+combination of deficiencies in internal control over financial reporting
+that creates a reasonable possibility that a material misstatement in
+annual or interim financial statements will not be prevented or detected
+on a timely basis.  Since the assessment of the effectiveness of our
+internal control over financial reporting did identify material
+weaknesses, management considers its internal control over financial
+reporting g to be ineffective.
+
+The matters involving internal control over financial reporting that our
+management considered to be material weaknesses were:
+   -  Lack of a functioning audit committee due to a lack of a majority
+of independent members and a lack of a majority of outside directors on
+our board of directors, resulting in ineffective oversight in the
+establishment and monitoring of required internal controls over
+financial reporting;
+   -  Inadequate segregation of duties consistent with control
+objectives; and
+   -  Ineffective controls over period end financial disclosure and
+reporting processes.
+
+The aforementioned material weaknesses were identified by our chief
+executive officer in connection with the review of our financial
+statements as of December 31, 2008.
+
+Management believes that the material weaknesses set forth above did not
+have an effect on our financial results.  However, management believes
+that the lack of a functioning audit committee, the inadequate
+segregation of duties and the lack of a majority of outside directors on
+our board of directors results in ineffective oversight in the
+establishment and monitoring of required internal controls over
+financial reporting, which weaknesses could result in a material
+misstatement in our financial statements in future periods.
+
+<PAGE>57
+
+This annual report does not include an attestation report of our
+registered public accounting firm regarding internal control over
+financial reporting.  Management's report was not subject to attestation
+by our registered public accounting firm pursuant to temporary rules of
+the Commission that permit Advanced ID to provide only the management's
+report in this annual report.
+
+Management's Remediation Initiatives
+
+In an effect to remediate the identified material weaknesses and enhance
+our internal controls over financial reporting, Advanced ID has
+initiated, or plans to initiate the following measures:
+   -  We intend to segregate the duties of chief executive officer and
+chief financial officer consistent with our control objectives and
+engage outside accounting resources as funds become available to us.
+   -  Further, we intend to appoint outside directors to our board in
+order to form a functioning audit committee that will undertake
+oversight in the establishment and monitoring of required internal
+controls over financial reporting such as reviewing estimates and
+assumptions made by management.
+
+Subsequent to year ended December 31, 2008, we segregated the duties of
+chief executive officer from those of chief financial officer.  We have
+not yet appointed outside directors.
+
+Changes in Internal Control over Financial Reporting:
+
+During the year ended December 31, 2008, there has been no change in our
+internal control over financial reporting that has materially affected,
+or is reasonably likely to materially affect, our internal control over
+financial reporting.
+
+
+ITEM 9B.  OTHER INFORMATION
+
+None
+
+
+<PAGE>58
+PART III
+
+ITEM 10.  DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE.
+
+Our Bylaws provide that the number of directors who shall constitute the
+whole board shall be such number as the board of directors shall at the
+time have designated.  We confirm that the number of authorized
+directors has been set at five pursuant to our bylaws.  Each director
+shall be selected for a term of one year and until his successor is
+elected and qualified.  Vacancies are filled by a majority vote of the
+remaining directors then in office with the successor elected for the
+unexpired term and until the successor is elected and qualified.  The
+directors, officers and significant employees are as follows:
+
+NAME              AGE     POSITIONS HELD             SINCE
+
+Dan Finch          65    President & CEO, Director   September 2005
+                         Acting CFO
+Sudeep Bhargava    51    VP of Operations            January 2007
+Seymour Kazimirski 61    Director/Chairman           October 2002
+Terry Fields       65    Director                    July 2005
+
+Business Experience of Officers, Directors and Significant Employees
+
+Dan Finch - President, CEO and Acting CFO has 21 years of executive
+level management experience in wireless HSIA and VoIP phone technology,
+high-speed internet infrastructure and financial services for small pre
+IPO high tech companies. Dan Finch led a division of DSC that designed
+and manufactured all the cell switches for Motorola, under the Motorola
+brand.  While serving at C-COR/COMLUX, he was responsible for the
+turnaround of this subsidiary, and realized three-fold growth. Dan
+Finch's educational background includes an MBA, Finance and Economics
+from University of Chicago, a BS in Physics from the Indiana Institute
+of Technology and certification in Technical Management from the
+University of California, Berkeley.
+
+Sudeep Bhargava - Vice President, Operations, has over 28 years of
+management experience in hospitality industry and in non-profit sector,
+and lately in the pet industry at the Calgary Humane Society as the
+General Manager of Finance & Operations for over eight years.  Sudeep
+Bhargava has a Bachelor of Commerce degree from Agra University, Agra,
+India in 1977.  Later in 1994, he earned the accounting designation of
+Certified Management Accountant (CMA) in Regina, Saskatchewan, Canada.
+Currently, Sudeep Bhargava is a member of CMA Alberta, a professional
+association for management accountants.  He has for many years
+contributed numerous hours of his time to many volunteer organizations
+in Regina and Calgary and continues to do so in Calgary.
+
+Seymour Kazimirski - Director, In 1995, Mr. Kazimirski established
+Hawaii Pet Care Alliance which is involved in radio frequency
+identification for companion animals, and where he continues to serve as
+President.  From 1995 to 1998, Mr. Kazimirski consulted to AVID Inc., a
+manufacturer of radio frequency identification microchips and readers.
+In 1993, Mr. Kazimirski established Global Consulting which houses his
+consulting operations that specializes in finance, administration and
+
+
+
+<PAGE>59
+
+marketing.  In 1980, Mr. Kazimirski established Florexotica
+International Inc., an import/export business acquiring products from
+Asia and Europe, and resold to U.S. military and major retail stores.
+
+Terry Fields - Director, Mr. Fields practiced law in California for over
+thirty-three years, initially in litigation, but ultimately
+concentrating in corporate and business law.  Fields has been a director
+of twelve public corporations over the last twenty years and President
+of six of those, equally distributed between the U.S. and Canada.
+Fields has extensive business experience, especially with public
+corporations and their securities, as well as mergers and acquisitions.
+Fields has strong ties with the financial communities, both domestic and
+international, having lived in Europe for five years.  At present,
+Fields is President and Director of Sunburst Acquisitions IV (SBAQ),
+Bishop Resources Inc. (BIS) and Visual Statement Inc., a private
+Canadian corporation.
+
+Hubert Meir resigned as a director in February 2009 but still consults
+to us.
+
+The above named directors will serve in their capacity as director until
+our next annual shareholder meeting to be held within six months of our
+fiscal year's close.  Directors are elected for one-year terms.
+
+Section 16(a) Beneficial Ownership Reporting Compliance
+
+To our knowledge, no director, officer or beneficial owner of more than
+ten percent of any class of our equity securities, failed to file on a
+timely basis reports required by Section 16(a) of the Exchange Act
+during 2008.
+
+Code of Ethics Policy
+
+We have not yet adopted a code of ethics that applies to our principal
+executive officer, principal financial officer, principal accounting
+officer or controller or persons performing similar functions.
+
+Corporate Governance
+
+There have been no changes in any state law or other procedures by which
+security holders may recommend nominees to our board of directors.  In
+addition to having no nominating committee for this purpose, we
+currently have no specific audit committee and no audit committee
+financial expert.  Based on the fact that our current business affairs
+are simple, any such committees are excessive and beyond the scope of
+our business and needs.
+
+Indemnification
+
+We shall indemnify to the fullest extent permitted by, and in the manner
+permissible under the laws of the State of Nevada, any person made, or
+threatened to be made, a party to an action or proceeding, whether
+
+<PAGE>60
+
+criminal, civil, administrative or investigative, by reason of the fact
+that he is or was one of our directors or officers, or served any other
+enterprise as director, officer or employee at our request.  The board
+of directors, in its discretion, shall have the power on our behalf to
+indemnify any person, other than a director or officer, made a party to
+any action, suit or proceeding by reason of the fact that he/she is or
+was an employee of the Corporation.
+
+Insofar as indemnification for liabilities arising under the Act may be
+permitted to directors, officers and controlling persons of Advanced ID,
+we has been advised that in the opinion of the Securities and Exchange
+Commission such indemnification is against public policy as expressed in
+the Act and is, therefore, unenforceable.  In the event that a claim for
+indemnification against such liabilities (other than the payment by us
+of expenses incurred or paid by a director, officer or controlling
+person of the Corporation in the successful defense of any action, suit
+or proceedings) is asserted by such director, officer, or controlling
+person in connection with any securities being registered, we will,
+unless in the opinion of its counsel the matter has been settled by
+controlling precedent, submit to a court of appropriate jurisdiction the
+question whether such indemnification by it is against public policy as
+expressed in the Act and will be governed by the final adjudication of
+such issues.
+
+INDEMNIFICATION OF OFFICERS OR PERSONS CONTROLLING ADVANCED ID FOR
+LIABILITIES ARISING UNDER THE SECURITIES ACT OF 1933, IS HELD TO BE
+AGAINST PUBLIC POLICY BY THE SECURITIES AND EXCHANGE COMMISSION AND IS
+THEREFORE UNENFORCEABLE.
+
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+We may elect to award a cash bonus to key employees, directors,
+officers and consultants based on meeting individual and corporate
+planned objectives.
+
+On September 15, 2008, Advanced ID renewed the employment agreement
+with Dan Finch for 15 months.  The replacing agreement expires on
+December 31, 2009 and there was no salary increase.  In early 2009, Mr.
+Finch offered to temporarily reduce his compensation by 10% until the
+health of the company improves.
+<TABLE>
+                                                                    Long Term Compensation
+                       Annual Compensation                            Awards               Payouts
+                                                        Other                  Securities            All
+Name                                                   Annual Restricted      Underlying   LTIP     Other
+and                                                    Compen-   Stock          Options/   Pay-    Compen-
+Principal                       Salary        Bonus    sation    Awards          SARs      Outs    sation
+Position                Year      ($)          ($)       ($)       ($)           (#)       ($)       ($)
+<s>                     <c>       <c>          <c>       <c>       <c>           <c>       <c>       <c>
+Dan Finch
+CEO                    2008      $83,560       $3,000    $0        $0      1,400,000        $0       $0
+                       2007     $112,103       $0        $0        $0      1,400,000        $0       $0
+Sudeep Bhargava        2007      $79,236       $7,500    $0        $0         50,000        $0       $0
+CFO                    2007      $85,000       $0        $0        $0         50,000        $0       $0
+</TABLE>
+
+
+<PAGE>61
+
+We do not have any standard arrangements by which directors are
+compensated for any services provided as a director.  On April 26, 2006,
+we issued 1,000,000 options to five directors and 10,000 restricted
+common shares to each director in lieu of a cash payment.   No cash has
+been paid to the directors in their capacity as such.
+
+
+ITEM 12.  SECURITIES OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+MANAGEMENT AND RELATED STOCKHOLDERS MATTERS
+
+The following table sets forth, as of April 7, 2009, the number and
+percentage of our outstanding shares of common stock owned by (i) each
+person known to us to beneficially own more than 5% of its outstanding
+common stock, (ii) each director, (iii) each named executive officer and
+significant employee, and (iv) all officers and directors as a group.
+
+                            Common Stock      Percentage of
+Name of Beneficial Owner   Beneficially Owned    Class Owned
+------------------------   ------------------   -------------
+Dan Finch                       150,180            0.20%
+Seymour Kazimirski            3,924,484            5.32%
+Terry Fields                    462,904            0.63%
+Sudeep Bhargava                 110,000            0.15%
+David Goldenberg              5,858,540            7.95%
+Directors/Officers
+  as a group                  4,647,568              6.31%
+
+Based upon 73,710,839 issued and outstanding as of April 7, 2009.
+
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR
+INDEPENDENCE.
+
+Seymour Kazimirski.  In addition to being a director of the registrant,
+Mr. Kazimirski provides consulting services to the registrant for the
+purposes of assisting with product and market development.
+Specifically, Mr. Kazimirski has been responsible for establishing
+distribution partners in countries located outside of North America,
+assisting the registrant in finding and negotiating supplier partnership
+agreements, and other general business tasks as requested by the
+registrant.  There exists no written consulting agreement in place but
+it has been mutually agreed that Mr. Kazimirski will receive $175 per
+hour for his services for an undefined term, and which began January 3,
+2003.  During 2007, consulting fees of $126,283 were charged for his
+services.  As a result of the registrant's financial position, in
+December 2008, Mr. Kazimirski reversed all 2008 charges for his services
+to the registrant.
+
+On November 14, 2007, Mr. Kazimirski provided a $60,000 loan to the
+registrant.  This loan is unsecured, repayable on demand and bears
+interest at 10% per annum.
+
+
+
+<PAGE>62
+
+On December 31, 2008, $9,593 was included in accounts receivable from
+related parties for a purchase of goods by Global Consulting on behalf
+of a customer of the registrant.  Global Consulting is a company owned
+by the Seymour Kazimirski, Chairman of the registrant.  The transaction
+was done at market rates and on the same terms as any other customer.
+
+Hubert Meier.  In addition to being a director of the registrant, Mr.
+Meier provides consulting services to the registrant for the purposes of
+assisting with product and supplier development.  Specifically, Mr.
+Meier has been responsible for development, manufacturing and testing of
+our DataTRAC(tm) RFID tags, sourcing microchip manufacturers, sourcing
+reader manufacturers, sourcing antennae design suppliers, and overall
+product development.  Mr. Meier continues to provide services based on
+his hourly rate of $175 per hour.  During 2008 and 2007, consulting fees
+totaled $49,654 and $20,200 for his services, respectively.
+
+Terry Fields.  In addition to being a director of the registrant, Mr.
+Fields provides consulting services to the registrant for the purposes
+of assisting with investor relations and stock development.
+Specifically, Mr. Fields has been responsible for development of
+investor relations programs and company funding activities such as
+private placements.  His contract began on May 21, 2002 and expired on
+May 21, 2005.  The contract was not renewed however Mr. Fields continues
+to provide services based on his hourly rate of $175 per hour.  During
+2007 consulting fees totaled $41,815 for his services.  As a result of
+the registrant's financial position, in December 2008, Mr. Fields
+reversed all 2008 charges for his services to the registrant but was
+granted a bonus of $7,000 for his services.
+
+Sudeep Bhargava.  During the period ended December 31, 2008, Mr. Sudeep
+Bhargava, Vice President Operations and Interim CFO, received $86,736 in
+salary and bonuses.  In the same period in 2007, he received $74,681.
+Based on the registrant's financial position at year end, Mr. Bhargava
+voluntarily agreed to reverse all share based compensation for the year
+ended December 31, 2008.
+
+Dan Finch.  In addition to being president and CEO, Mr. Dan Finch also
+performs a role of director of the registrant.  Mr. Finch is compensated
+for his services as a director.  In addition to the stock options
+granted to Mr. Finch, during the period ending December 31, 2008 and
+December 31, 2007 a total of $86,560 and $112,803 respectively was paid
+for salary, bonuses and director fees.  Based on the registrant's
+financial position in December 2008, Mr. Finch voluntarily agreed to
+reverse all director's fees and other share based compensation for the
+year ended December 31, 2008.
+
+Cancelled common shares.  On December 31, 2008, accounts receivable from
+related parties included $283,995 representing the balance of all
+voluntary reversals of share-based compensation by directors of the
+registrant.  The amounts were subsequently settled by having all shares
+returned and cancelled.
+
+Other related party transactions.  On December 31, 2008 accounts
+receivable from related parties also included $47,113 due from Pneu
+Logic Ltd.  Pneu Logic Ltd. is owned by George Yeomans, who is a
+
+<PAGE>63
+
+director of PLCL.  In addition, another $6,273 was included in accounts
+receivable from related party, for an amount due from RBC Electronics
+which is also owned by George Yeomans.
+
+As of December 31, 2008, included in accounts payable to related parties
+is $986 due to Global Consulting for expenses; $4,738 to Daniel Finch,
+President and CEO, for fees and expenses; $874 to Hubert Meier, a
+director for expenses; $7,000 to Terry Fields, a director for a bonus;
+and $26,443 due to Sudeep Bhargava for bonuses and expenses.
+
+Also included in accounts payable to related parties is $26,365 due to
+Laren Yeomans for expenses and fees, $33,448 to RBC Electronics for
+products and 25,627 Pounds ($38,590) to PLL.
+
+Laren Yeomans, a director and employee of Pneu-Logic Corporation, Ltd,
+earned $133,335 of salary during the year ended December 31, 2008.  The
+amount was partially settled in shares.
+
+RBC Electronics Limited is a company controlled by George Yeomans who is
+a director of PLCL.  During the year ending December 31, 2008, $163,618
+in inventory was purchased from RBC.
+
+$170,000 was paid to George Yeomans, a director of PLCL, during 2008 for
+the contingent consideration due on the acquisition of Pneu Logic and
+the Mr. Yeomans loaned 31,053 Pounds ($46,761) back to PLCL for
+operating capital.
+
+Director Independence.
+
+Seymour Kazimirski, Hubert Meier, Terry Fields, Dan Finch, George Yeomans
+and Laren Yeomans are not independent as such term is defined by a
+national securities exchange or an inter-dealer quotation system.  During
+the fiscal year ended December 31, 2008, there were no transactions with
+related persons other than as described in the section above entitled
+"Item 11.  Executive Compensation".
+
+
+ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES.
+
+Audit Fees. We incurred aggregate fees and expenses of approximately
+$111,742, $78,500 and $55,000 from our principal accountant for the
+2008, 2007 and 2006 fiscal years respectively.  Such fees included work
+completed for our annual audit in previous years and for the review of
+our financial statements included in our Forms 10-QSB.  In addition we
+incurred aggregate fees to our new auditors of US$67,500 related to our
+2008 audit.
+
+Tax Fees.   We incurred aggregate tax fees and expenses of $1,000, $Nil
+and $Nil from our tax accountant for the 2008, 2007 and 2006 fiscal
+years respectively, for professional services rendered for tax
+compliance, tax advice, and tax planning.
+
+
+
+<PAGE>64
+
+The board of directors, acting as the Audit Committee considered
+whether, and determined that, the auditor's provision of non-audit
+services was compatible with maintaining the auditor's independence.
+
+All of the services described above for fiscal year 2008 and 2007 were
+approved by the Board of Directors pursuant to its policies and
+procedures.  In 2008 we changed our auditors to Yu and Associates.  We
+intend to continue using Yu and Associates for audit and audit-related
+services, tax consultation and tax compliance services, and, as needed,
+for due diligence in acquisitions.  Until November 2008, we were using
+LBB and Associated Ltd. LLP.
+
+
+
+<PAGE>65
+Part IV
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES
+
+(a)(1)  List of Financial statements included in Part II hereof
+
+Balance Sheets, December 31, 2008 and 2007
+Statements of Operations for the years ended December 31, 2008 and 2007
+Statements of Stockholders' Equity for the years ended December 31, 2008
+and 2007
+Statements of Cash Flows for the years ended December 31, 2008 and 2007
+Notes to the Financial Statements
+
+(a)(2) List of Financial Statement schedules included in Part IV hereof:
+None
+
+(a)(3) Exhibits
+
+The following of exhibits are filed with this report:
+
+(31) 302 certification
+
+(32) 906 certification
+
+
+
+<PAGE>66
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, as amended, the registrant has duly caused this
+Report to be signed on its behalf by the undersigned duly authorized
+person.
+
+Advanced ID Corporation
+(Registrant)
+
+By:  /s/ Dan Finch                             Dated: September 28, 2009
+     ----------------------
+     Dan Finch, President
+
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of
+the Registrant and in the capacities and on the dates indicated.
+
+By:  /s/ Dan Finch                            Dated: September 28, 2009
+     ----------------------
+     Dan Finch, CEO, Principal Accounting
+       Officer, Director
+
+By:  /s/Seymour Kazimirski                     Dated: September 28, 2009
+     ----------------------
+     Seymour Kazimirski, CFO, Director
+
+By:  /s/Terry Field                           Dated:  September 28, 2009
+     ----------------------
+     Terry Field, Director
+
+
+</TEXT>
+</DOCUMENT>
