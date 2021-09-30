@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>DispaCify</title>
+  </head>
+  <body>
+    <div class="entities" style="line-height: 2.5; direction: ltr">
+      <h2>Displaying NER in Flask</h2>
+      <p>
+        <mark class="entity" style="background: #aa9cfc;padding: 0.45em 0.6em;margin: 0 0.25em;line-height: 1;border-radius: 0.35em;"><mark class="entity" style="background: #aa9cfc;padding: 0.45em 0.6em;margin: 0 0.25em;line-height: 1;border-radius: 0.35em;">Lorem Ipsum<span style="font-size: 0.8em;font-weight: bold;line-height: 1;border-radius: 0.35em;vertical-align: middle;margin-left: 0.5rem;">PERSON</span></mark><span style="font-size: 0.8em;font-weight: bold;line-height: 1;border-radius: 0.35em;vertical-align: middle;margin-left: 0.5rem;">PERSON</span></mark> is simply dummy text of the printing and typesetting
+        industry. Lorem Ipsum has been the industry's standard dummy text ever
+        since <mark class="entity" style="background: #aa9cfc;padding: 0.45em 0.6em;margin: 0 0.25em;line-height: 1;border-radius: 0.35em;">the 1500s<span style="font-size: 0.8em;font-weight: bold;line-height: 1;border-radius: 0.35em;vertical-align: middle;margin-left: 0.5rem;">DATE</span></mark>, when an unknown printer took a galley of type and
+        scrambled it to make a type specimen book. It has survived not only <mark class="entity" style="background: #aa9cfc;padding: 0.45em 0.6em;margin: 0 0.25em;line-height: 1;border-radius: 0.35em;">five
+        centuries<span style="font-size: 0.8em;font-weight: bold;line-height: 1;border-radius: 0.35em;vertical-align: middle;margin-left: 0.5rem;">DATE</span></mark>, but also the leap into electronic typesetting, remaining
+        essentially unchanged. It was popularised in <mark class="entity" style="background: #aa9cfc;padding: 0.45em 0.6em;margin: 0 0.25em;line-height: 1;border-radius: 0.35em;">the 1960s<span style="font-size: 0.8em;font-weight: bold;line-height: 1;border-radius: 0.35em;vertical-align: middle;margin-left: 0.5rem;">DATE</span></mark> with the release
+        of <mark class="entity" style="background: #aa9cfc;padding: 0.45em 0.6em;margin: 0 0.25em;line-height: 1;border-radius: 0.35em;">Letraset<span style="font-size: 0.8em;font-weight: bold;line-height: 1;border-radius: 0.35em;vertical-align: middle;margin-left: 0.5rem;">ORG</span></mark> sheets containing <mark class="entity" style="background: #aa9cfc;padding: 0.45em 0.6em;margin: 0 0.25em;line-height: 1;border-radius: 0.35em;">Lorem Ipsum<span style="font-size: 0.8em;font-weight: bold;line-height: 1;border-radius: 0.35em;vertical-align: middle;margin-left: 0.5rem;">ORG</span></mark> passages, and more recently
+        with desktop publishing software like <mark class="entity" style="background: #aa9cfc;padding: 0.45em 0.6em;margin: 0 0.25em;line-height: 1;border-radius: 0.35em;">Aldus PageMaker<span style="font-size: 0.8em;font-weight: bold;line-height: 1;border-radius: 0.35em;vertical-align: middle;margin-left: 0.5rem;">ORG</span></mark> including versions
+        of <mark class="entity" style="background: #aa9cfc;padding: 0.45em 0.6em;margin: 0 0.25em;line-height: 1;border-radius: 0.35em;">Lorem Ipsum<span style="font-size: 0.8em;font-weight: bold;line-height: 1;border-radius: 0.35em;vertical-align: middle;margin-left: 0.5rem;">ORG</span></mark>.
+      </p>
+    </div>
+
+    <div>
+      <form method="POST" action="/extract">
+        <textarea rows="5" cols="5" name="rawtext"></textarea>
+        <button type="reset">clear</button>
+        <button type="submit">Submit</button>
+      </form>
+    </div>
+
+    <div class="entities" style="line-height: 2.5; direction: ltr">
+      <mark
+        class="entity"
+        style="
+          background: #aa9cfc;
+          padding: 0.45em 0.6em;
+          margin: 0 0.25em;
+          line-height: 1;
+          border-radius: 0.35em;
+        "
+      >
+        Emma
+        <span
+          style="
+            font-size: 0.8em;
+            font-weight: bold;
+            line-height: 1;
+            border-radius: 0.35em;
+            vertical-align: middle;
+            margin-left: 0.5rem;
+          "
+          >PERSON</span
+        >
+      </mark>
+      went to
+      <mark
+        class="entity"
+        style="
+          background: #7aecec;
+          padding: 0.45em 0.6em;
+          margin: 0 0.25em;
+          line-height: 1;
+          border-radius: 0.35em;
+        "
+      >
+        Apple Store
+        <span
+          style="
+            font-size: 0.8em;
+            font-weight: bold;
+            line-height: 1;
+            border-radius: 0.35em;
+            vertical-align: middle;
+            margin-left: 0.5rem;
+          "
+          >ORG</span
+        >
+      </mark>
+      to buy apples
+    </div>
+  </body>
+</html>

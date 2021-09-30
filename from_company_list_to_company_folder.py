@@ -16,7 +16,7 @@ endpoint = r"https://www.sec.gov/cgi-bin/browse-edgar"
 
 
 #%%
-headers = { 'User-Agent': 'Mozilla/5.0', }
+headers = { 'User-Agent': "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1" }
 #json_object["companies"]=[]
 exchange_list=[]
 parent_dir = "Data/"
@@ -24,6 +24,8 @@ parent_dir = "Data/"
 df_sub = df[697:]
 for index, row in df_sub.iterrows():
     print(index)
+    if(index!=697):
+        break
 
     company ={}
     company["CIK"] = row["CIK"]
@@ -51,8 +53,10 @@ for index, row in df_sub.iterrows():
               'output':'atom'}
        
     response_10_K_list = requests.get(url = endpoint, params = param_dict_2,headers = headers)
+    
     #time.sleep(0.1)
     soup_10_K_list = BeautifulSoup(response_10_K_list.content, ('html.parser'))
+    print(soup_10_K_list)
     link_list = []
     
     

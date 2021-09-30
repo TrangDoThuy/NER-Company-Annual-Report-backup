@@ -1,104 +1,38 @@
 {
-  "file_10_K": [
+  "company_name": "Mobile Telecom Network (Holdings) Limited",
+  "stock_code": "8266",
+  "period": "2007",
+  "content": [
     {
-      "report_period": "2021-01-02",
-      "filing_date": "2021-02-22",
-      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1158449/000115844921000036/aap-20210102.htm"
+      "header": "Corporate information",
+      "body": "Executive directors Dr. Chan Chung (Chairman)\nMr. Chan Wai Kwong, Peter\nIndependent non-executive directors\nMr.Jeffery Matthew Bistrong"
     },
     {
-      "report_period": "2019-12-28",
-      "filing_date": "2020-02-18",
-      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1158449/000115844920000035/aap10k12282019secreport.htm"
+      "header": "Chairman statement",
+      "body": [
+        {
+          "header": "Operating results",
+          "body": "I am pleased to report that the Mobile Telecom Network (Holdings) Limited has returned to profitability for the financial year 2006/2007. Turnover for the year ended 31 March 2007 was HK$21,717,000 representing a slight"
+        },
+        {
+          "header": "Overview",
+          "body": "As as pioneer in the Asian mobile data market, the Group recognizes the importance and the potential of mobile entertainment but also its risk as a young industry."
+        },
+        {
+          "header": "Appreciation",
+          "body": "I would like to thank all directors and employees for their hard word and dedicated services."
+        }
+      ]
     },
     {
-      "report_period": "2018-12-29",
-      "filing_date": "2019-02-19",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1158449/000115844919000043/aap_10kx12292018secreport.htm"
-    },
-    {
-      "report_period": "2017-12-30",
-      "filing_date": "2018-02-21",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1158449/000115844918000039/aap_10kx12302017.htm"
-    },
-    {
-      "report_period": "2016-12-31",
-      "filing_date": "2017-02-28",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1158449/000115844917000034/aap_10kx12312016.htm"
-    },
-    {
-      "report_period": "2016-01-02",
-      "filing_date": "2016-03-01",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1158449/000115844916000299/aap_10kx122016.htm"
-    },
-    {
-      "report_period": "2015-01-03",
-      "filing_date": "2015-03-03",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1158449/000115844915000063/aap_10kx132015.htm"
-    },
-    {
-      "report_period": "2013-12-28",
-      "filing_date": "2014-02-25",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1158449/000115844914000058/aap_10kx12282013.htm"
-    },
-    {
-      "report_period": "2012-12-29",
-      "filing_date": "2013-02-25",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1158449/000115844913000069/aap_10kx12292012.htm"
-    },
-    {
-      "report_period": "2011-12-31",
-      "filing_date": "2012-02-28",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1158449/000115844912000029/aap_10kx12312011.htm"
-    },
-    {
-      "report_period": "2011-01-01",
-      "filing_date": "2011-03-01",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1158449/000115844911000008/aap10k.htm"
-    },
-    {
-      "report_period": "2010-01-02",
-      "filing_date": "2010-03-02",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1158449/000115844910000032/aap10k.htm"
-    },
-    {
-      "report_period": "2009-01-03",
-      "filing_date": "2009-03-04",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1158449/000115844909000027/aap10k.htm"
-    },
-    {
-      "report_period": "2007-12-29",
-      "filing_date": "2008-02-27",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1158449/000115844908000043/aap10k.htm"
-    },
-    {
-      "report_period": "2006-12-30",
-      "filing_date": "2007-02-28",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1158449/000115844907000040/aap10k.htm"
-    },
-    {
-      "report_period": "2005-12-31",
-      "filing_date": "2006-03-16",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1158449/000115844906000037/aap.htm"
-    },
-    {
-      "report_period": "2005-01-01",
-      "filing_date": "2005-03-17",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1158449/000115844905000070/aap10k_2004.htm"
-    },
-    {
-      "report_period": "2004-01-03",
-      "filing_date": "2004-03-12",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1158449/000115844904000010/aap10k_2003.htm"
-    },
-    {
-      "report_period": "2002-12-28",
-      "filing_date": "2003-03-27",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1158449/000101706203000555/d10k.htm"
-    },
-    {
-      "report_period": "2001-12-29",
-      "filing_date": "2002-03-28",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1158449/000089843002001066/d10k.txt"
+      "header": "Management Discussion and Analysis",
+      "content": {
+        "header": "Business Review",
+        "content": {
+          "header": "Financial  Performance",
+          "content": "The Group turnover for the year ended 31 March 2007 increased by 3.5%"
+        }
+      }
     }
   ]
 }

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>DispaCify</title>
+  </head>
+  <body>
+    <div>
+      <h2>Displaying NER in Flask</h2>
+      <p>
+        Lorem Ipsum is simply dummy text of the printing and typesetting
+        industry. Lorem Ipsum has been the industry's standard dummy text ever
+        since the 1500s, when an unknown printer took a galley of type and
+        scrambled it to make a type specimen book. It has survived not only five
+        centuries, but also the leap into electronic typesetting, remaining
+        essentially unchanged. It was popularised in the 1960s with the release
+        of Letraset sheets containing Lorem Ipsum passages, and more recently
+        with desktop publishing software like Aldus PageMaker including versions
+        of Lorem Ipsum.
+      </p>
+    </div>
+
+    <div>
+      <form method="POST" action="/extract">
+        <textarea rows="5" cols="5" name="rawtext"></textarea>
+        <button type="reset">clear</button>
+        <button type="submit">Submit</button>
+      </form>
+    </div>
+
+    <div class="entities" style="line-height: 2.5; direction: ltr">
+      <mark
+        class="entity"
+        style="
+          background: #aa9cfc;
+          padding: 0.45em 0.6em;
+          margin: 0 0.25em;
+          line-height: 1;
+          border-radius: 0.35em;
+        "
+      >
+        Emma
+        <span
+          style="
+            font-size: 0.8em;
+            font-weight: bold;
+            line-height: 1;
+            border-radius: 0.35em;
+            vertical-align: middle;
+            margin-left: 0.5rem;
+          "
+          >PERSON</span
+        >
+      </mark>
+      went to
+      <mark
+        class="entity"
+        style="
+          background: #7aecec;
+          padding: 0.45em 0.6em;
+          margin: 0 0.25em;
+          line-height: 1;
+          border-radius: 0.35em;
+        "
+      >
+        Apple Store
+        <span
+          style="
+            font-size: 0.8em;
+            font-weight: bold;
+            line-height: 1;
+            border-radius: 0.35em;
+            vertical-align: middle;
+            margin-left: 0.5rem;
+          "
+          >ORG</span
+        >
+      </mark>
+      to buy apples
+    </div>
+  </body>
+</html>
