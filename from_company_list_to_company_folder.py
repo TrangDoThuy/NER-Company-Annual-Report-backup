@@ -1,5 +1,5 @@
 #%%
-import requests,random
+import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 import time
@@ -13,15 +13,15 @@ json_object =json.load(f_json)
 f_json.close()
 endpoint = r"https://www.sec.gov/cgi-bin/browse-edgar"
 #%%
-print(df.loc[3984])
-
+print(df.loc[10398])
+ 
 #%%
 headers = { 'User-Agent': 'Mozilla/5.0', }
 #json_object["companies"]=[]
 exchange_list=[]
 parent_dir = "Data/"
 #%%
-df_sub = df[3985:]
+df_sub = df[10398:]
 for index, row in df_sub.iterrows():
     print(index)
 
