@@ -13,7 +13,7 @@ json_object =json.load(f_json)
 f_json.close()
 endpoint = r"https://www.sec.gov/cgi-bin/browse-edgar"
 #%%
-print(df.loc[10398])
+print(df.loc[10399])
  
 #%%
 headers = { 'User-Agent': 'Mozilla/5.0', }
@@ -21,7 +21,7 @@ headers = { 'User-Agent': 'Mozilla/5.0', }
 exchange_list=[]
 parent_dir = "Data/"
 #%%
-df_sub = df[10398:]
+df_sub = df[10399:]
 for index, row in df_sub.iterrows():
     print(index)
 
