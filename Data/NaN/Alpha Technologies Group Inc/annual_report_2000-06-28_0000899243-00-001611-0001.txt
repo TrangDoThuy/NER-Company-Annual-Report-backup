@@ -1,0 +1,98 @@
+<DOCUMENT>
+<TYPE>10-K405/A
+<SEQUENCE>1
+<FILENAME>0001.txt
+<DESCRIPTION>AMENDMENT TO FORM 10-K
+<TEXT>
+
+<PAGE>
+
+                      SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+                             ----------------------
+                                  FORM 10-K/A
+
+ ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+ For the fiscal year ended October 31, 1999
+
+ Commission file number 0-14365
+                            ----------------------
+                         ALPHA TECHNOLOGIES GROUP, INC.
+             (Exact name of registrant as specified in its charter)
+
+              Delaware                                  76-0079338
+   (State or other jurisdiction of          (I.R.S. Employer Identification NO.)
+    incorporation or organization)
+         306 Pasadena Avenue
+          South Pasadena, CA                               91030
+ (Address of principal executive offices)                (Zip Code)
+
+       Registrant's telephone number, including area code:  626.799.9171
+                            ----------------------
+        Securities registered under Section 12 (b) of the Exchange Act:
+                                      None
+        Securities registered under Section 12 (g) of the Exchange Act:
+                          Common Stock, $.03 par value
+                          ----------------------------
+                             (Title of each class)
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+ required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of
+ 1934 during the preceding 12 months (or for such shorter period that the
+ registrant was required to file such reports), and (2) had been subject to such
+ filing requirements for the past 90 days. Yes X  NO___
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+ 405 of Regulation S-K is not contained herein, and will not be contained, to
+ the best of registrant's knowledge, in definitive proxy or information
+ statements incorporated by reference in Part III of this Form 10-K or any
+ amendment to this Form 10-K. [x]
+
+ State the aggregate market value of the voting stock held by non-affiliates of
+ the registrant.
+                        $25,958,596 at January 21, 2000
+ Indicate the number of shares outstanding of each of the issuer's classes of
+ common equity, as of the latest practicable date.
+        Common Stock,  6,591,255 shares outstanding at January 21, 2000
+
+
+                            ----------------------
+<PAGE>
+
+The undersigned registrant hereby amends the following items, financial
+statements, exhibits or other portions of its Annual Report on Form 10-K for the
+fiscal year ended October 31, 1999 as set forth in the pages attached hereto:
+
+          Item 14(a)(3)  Exhibits.
+
+          Exhibit 99.1   Annual Report on Form 11-K for the
+                         fiscal year ended December 31, 1999 for the ATGI 401(k)
+                         Plan
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this amendment to be signed on its behalf by the
+undersigned, hereunto duly authorized.
+
+                         ALPHA TECHNOLLGIES GROUP, INC.
+
+
+
+                         By:  /s/ Johnny J. Blanchard
+                              ------------------------
+                              Johnny J. Blanchard
+                              Principal Accounting Officer
+
+Dated:  June 28, 2000
+<PAGE>
+
+                                 EXHIBIT INDEX
+
+
+                                                            Sequentially
+   Exhibit                                                      Numbered
+   Number      Description of Exhibit                               Page
+
+   99.1        Annual Report on Form 11-K for the year ended
+               December 31, 1999 for the ATGI 401K PLAN
+</TEXT>
+</DOCUMENT>

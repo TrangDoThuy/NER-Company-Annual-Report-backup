@@ -1,0 +1,1794 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>0001.txt
+<TEXT>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+
+              ANNUAL REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+For the fiscal year ended December 31, 2000    Commission File Number - 1-10184
+
+                                  ABATIX CORP.
+             (Exact name of registrant as specified in its charter)
+
+        Delaware                                        75-1908110
+----------------------------------       ---------------------------------------
+(State or other jurisdiction of          (I.R.S. Employer Identification Number)
+incorporation or organization)
+
+8201 Eastpoint Drive, Suite 500, Dallas, Texas                75227
+----------------------------------------------     -----------------------------
+(Address of principal executive offices)                   (Zip Code)
+
+Registrant's telephone number, including area code:         (214) 381-1146
+                                                     ---------------------------
+
+Securities registered pursuant to Section 12 (b) of the Act:         None
+                                                              ------------------
+
+Securities registered pursuant to Section 12 (g) of the Act:     Common Stock
+                                                              ------------------
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed  by  Section  13 or 15 (d) of the  Securities  Exchange  Act of 1934
+during  the  preceding  twelve  months  (or for  such  shorter  period  that the
+registrant  was required to file such  reports) and (2) has been subject to such
+filing for the past 90 days.
+Yes [X]  No [ ]
+
+Indicate by check mark if disclosure of delinquent  filers  pursuant to Item 405
+of Regulation  S-K is not contained  herein,  and will not be contained,  to the
+best of Registrant's  knowledge,  in definitive proxy or information  statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [X]
+
+1,711,148 shares of common stock,  $.001 par value,  were issued and outstanding
+on March 14, 2001.
+
+The  aggregate   market  value  of  the   Registrant's   common  stock  held  by
+nonaffiliates  of the  Registrant  as of the close of business on March 14, 2001
+(an aggregate of 748,914 shares out of a total of 1,711,148  shares  outstanding
+at that time) was  $1,310,600  computed by reference to the closing bid price of
+$1.750 on March 14, 2001
+
+Portions of the  Registrant's  proxy  statement  for its 2001 annual  meeting of
+stockholders are incorporated into Part III, herein, by this reference thereto.
+<PAGE>
+                                     PART I
+
+ITEM 1.  BUSINESS
+
+(a)      DEVELOPMENT OF BUSINESS
+
+Abatix Corp. (the "Company")  markets and  distributes  personal  protection and
+safety  equipment and durable and  nondurable  supplies  predominantly  based on
+revenues,  to the asbestos abatement  industry.  The Company also supplies these
+products  to the  industrial  safety and  hazardous  materials  industries  and,
+combined with tools and tool supplies, to the construction industry.
+
+The Company began  operations in May 1983 as a supply company located in Dallas,
+Texas, and was originally  incorporated in Texas as T&T Supply Company,  Inc. in
+March 1984.  Abatix was  incorporated  in Delaware on December 5, 1988 to effect
+and  complete an Agreement  and Plan of Merger with T&T on December 9, 1988.  In
+March 1989, the Company completed its initial public offering of its securities.
+
+During 1994,  because of increased  purchasing  power, the Company,  through its
+wholly owned subsidiary International  Enviroguard Systems, Inc. ("IESI"), began
+to import  certain  products  sold through not only the  Company's  distribution
+channels,  but also other distribution  companies not in direct competition with
+Abatix.
+
+Effective January 1, 1999, the Company  consummated an Asset Purchase  Agreement
+with Keliher Hardware Company, a California  corporation,  pursuant to which the
+Company  assumed the  operations  of  Keliher.  Keliher,  based in Los  Angeles,
+California, is an industrial supply distributor,  primarily for the construction
+and  industrial  markets.  The estimated  fair value of the assets  acquired was
+approximately  $975,000.  The  aggregate  purchase  price was  settled  with the
+assumption  of certain  liabilities  (approximately  $900,000),  the issuance of
+23,500 shares of the Company's  $.001 par value common stock at a value of $3.45
+per share and the remainder in cash.  This  acquisition  has been  accounted for
+using the purchase method.
+
+On April 6, 1999, the Company closed its Denver  facility.  The Denver  facility
+had sales of approximately  $353,000 and $1,449,000 for the years ended December
+31,  1999 and 1998,  respectively.  The  Company  did not incur any  significant
+charges related to the shutdown.
+
+Effective June 1, 1999, the Company consummated an Asset Purchase Agreement with
+North State Supply Co. of Phoenix, an Arizona corporation, pursuant to which the
+Company   assumed  the  operations  of  North  State,   a  construction   supply
+distributor.  The estimated fair value of the  identifiable  assets acquired was
+approximately  $1,800,000.  The  aggregate  purchase  price was settled with the
+assumption of certain  liabilities  (approximately  $785,000) and  approximately
+$2,100,000 in cash.  This  acquisition has been accounted for using the purchase
+method.
+
+The  Company  intends to expand and  diversify  the  revenue  base  through  the
+expansion  of  product  lines,  hiring  additional  personnel,   and  additional
+acquisitions,  if  appropriate.  In  addition,  the  Company  is  developing  an
+e-commerce  solution to help solidify  relationships  with the existing customer
+base and expand its geographic presence.
+
+                                       2
+<PAGE>
+(b)      FINANCIAL INFORMATION AB0UT OPERATING SEGMENTS
+
+Information about the Company's  operating  segments is included in the Notes to
+the Consolidated Financial Statements at Item 14.
+
+(c)      NARRATIVE DESCRIPTION OF BUSINESS
+
+Based on 2000 sales, approximately 33 percent of the Company's products are sold
+to asbestos and lead abatement  contractors,  26 percent to construction related
+firms,  21  percent to the  industrial  safety  market,  and 20 percent to other
+firms,  including  hazardous material  contractors and other  distributors.  The
+Company  believes  a  majority  of its sales  for the  foreseeable  future  will
+continue  to be  made  to  asbestos  and  lead  abatement  contractors,  project
+organizers  and managers  although  these sales should  continue to decline as a
+percentage of overall  revenues.  At present the Company  estimates its share of
+the asbestos abatement supply market to be approximately 15 to 20 percent in the
+geographic markets served by the Company. The Company considers its relationship
+with its customers to be excellent.
+
+ASBESTOS ABATEMENT INDUSTRY BACKGROUND
+
+Between 1900 and the early 1970's,  asbestos was extensively used for insulation
+and fireproofing in industrial,  commercial and governmental  facilities as well
+as  private  residences  in  the  United  States  and  in  other  industrialized
+countries.  In the  mid-1980's  it was  estimated  that  in the  United  States,
+approximately  20 percent of all  buildings,  excluding  residences and schools,
+contain friable asbestos-containing  materials that are brittle, readily crumble
+and are  susceptible to the release of asbestos dust.  Various  diseases such as
+asbestosis,  lung cancer and  mesothelioma,  linked to the  exposure to airborne
+asbestos,  and the presence of asbestos in insulation,  service applications and
+finishing  materials  have given rise to the concern about exposure to asbestos.
+Public  awareness of the health hazards posed by asbestos has increased,  as the
+results of continuing  medical  studies have become  widely known.  Business and
+other  publications  and  studies  have  listed  asbestos  abatement  as  one of
+America's critical problems,  and legislation  previously introduced to the U.S.
+Congress  refers to asbestos as "one of the most dangerous  substances  known to
+science."  Litigation involving claimants exposed to asbestos has forced several
+firms to seek the protection of the bankruptcy courts, and the volume of pending
+claims has  inundated  state and Federal  courts  throughout  the country,  thus
+prompting many commentators to propose legislative solutions.
+
+The United States Environmental Protection Agency ("EPA") estimated, in a survey
+conducted  in 1984,  that  asbestos  was  present in 30 percent of the  nation's
+110,000  schools and in 20 percent of the  nation's 3.6 million  government  and
+commercial buildings.  Maintenance,  repair,  renovation or other activities can
+disturb  asbestos-containing  material  and, if disturbed  or damaged,  asbestos
+fibers  become  airborne  and  pose a  hazard  to  building  occupants  and  the
+environment.
+
+                                       3
+<PAGE>
+Prompted by such concerns,  Congress,  in 1984, authorized the EPA to spend $800
+million for asbestos  abatement  in schools  under the  Asbestos  School  Hazard
+Abatement Act. In October 1986,  Congress passed the Asbestos  Hazard  Emergency
+Response Act, which mandates inspections for asbestos,  the adoption of asbestos
+abatement  plans  and the  removal  of  asbestos  from  schools  and  facilities
+scheduled for demolition.  In addition,  state and local  governments  have also
+adopted asbestos-related regulations.
+
+Notwithstanding  such  legislative  impetus and  continued  awareness  of health
+related hazards associated with asbestos, the budgetary constraints and the lack
+of improvement in the industrial  sectors continue to limit the number and scope
+of asbestos abatement projects.
+
+LEAD ABATEMENT INDUSTRY BACKGROUND
+
+The hazards of  lead-based  paint have been known for many years;  however,  the
+federal and state regulations requiring  identification,  disclosure and cleanup
+have been  minimal.  In early 1996,  the EPA and the  Department  of Housing and
+Urban Development  unveiled rules regarding  lead-based paint in the residential
+markets.  These rules give  homebuyers  the right to test for  lead-based  paint
+before any contracts are signed. In addition, although a landlord or home seller
+is not required to test for lead-based paint, the rules do require disclosure of
+a known lead hazard.
+
+Many  asbestos  abatement  contractors  added lead  abatement  to their range of
+services in an attempt to enter a market  considered  being in its infancy.  The
+asbestos  abatement  contractors  bring  equipment,  a trained labor force,  and
+experience working in a regulatory  environment to the lead abatement  industry.
+To  date,  the  Company  has not  experienced  a  significant  increase  in lead
+abatement  projects;  however,  such rules create a potential long-term positive
+impact on the Company through  expenditures for equipment and supplies to ensure
+the safe and proper removal and disposal of lead paint.
+
+MOLD REMEDIATION INDUSTRY BACKGROUND
+
+Although  mold  remediation  has  been  around  for  years,   recent  litigation
+surrounding  the health  hazards of human  exposure to mold has  created  public
+awareness and is forcing property owners and the  construction  industry to deal
+with  the  problem.  To grow,  mold  needs  moisture,  a  carbon  source  (wood,
+plasterboard, natural fibers, any organic matter), lack of air movement and lack
+of light.  The  energy  crisis in the 1970's  inspired  many  energy  efficiency
+programs,  including the building of structures that promoted less air movement.
+When a moisture source is introduced, the conditions are ripe for mold growth.
+
+Although there are approximately  100,000 species of fungi,  currently about 100
+are considered to be pathogenic to humans. Currently, the regulations concerning
+mold levels or remediation are few;  however,  there has been some discussion at
+the EPA and state  government  levels  about  defining  the level of mold spores
+considered to be hazardous.
+
+Many asbestos  abatement  contractors  added mold  remediation to their range of
+services.  Beginning in late 2000 the Company  began to see  activity  from this
+industry and anticipates continued growth for the immediate future.
+
+                                       4
+<PAGE>
+CONSTRUCTION TOOLS SUPPLY INDUSTRY BACKGROUND
+
+Besides  the normal  hand and power  tools,  and  associated  consumable  parts,
+supplied to the  construction  industry,  the EPA and OSHA have also established
+certain rules and  regulations  governing the protection of the  environment and
+the protection of workers in this industry.
+
+Currently,  the Company  supplies  the  construction  tools  industry in its Las
+Vegas, Los Angeles, and Phoenix facilities and on a limited basis from its other
+facilities.  This  industry is  directly  tied to the local  economies  and more
+specifically,  the real estate conditions within those markets.  The real estate
+market  in the Las Vegas  area is  strong  with  vacancy  rates  for  commercial
+properties  low and rental  rates high and  construction  of hotels and  casinos
+strong. The condition of the real estate industry in the Company's other markets
+remain stable.
+
+SAFETY AND HAZARDOUS MATERIALS INDUSTRIES BACKGROUND
+
+The EPA and the Occupational Safety and Health Administration ("OSHA"), together
+over  time,  have   established   numerous  rules  and   regulations   governing
+environmental  protection and worker safety and health.  The demand for supplies
+and  equipment  by U.S.  businesses  and  governments  to meet  these  rules and
+regulations has resulted in the creation of a multi-billion dollar industry.
+
+As research  identifies the degree of  environmental  or health risk  associated
+with various substances and working conditions, new rules and regulations can be
+expected.  These actions  inevitably will require more  expenditure for supplies
+and equipment for handling, remediation and disposal of hazardous substances and
+the creation of safe living and working conditions.
+
+GEOGRAPHIC DISTRIBUTION OF BUSINESS
+
+With the acquisition of Keliher and North State in 1999, the Company distributes
+over 49,000  industrial,  construction  tool,  personal  protection,  safety and
+hazardous waste remediation  products to approximately 7,400 customers primarily
+located in the Southwest, Midwest and Pacific Coast.
+
+The Company  maintains sales,  distribution and warehouse centers in Los Angeles
+and San Leandro,  California, in Dallas and Houston, Texas, in Phoenix, Arizona,
+in Las Vegas, Nevada, and in Kent, Washington.
+
+EQUIPMENT AND SUPPLIES
+
+An estimated 36 percent of the  Company's  sales  include  safety  products,  31
+percent included construction tools and supplies,  while environmental  products
+accounted for 24 percent of its sales. The remaining 9 percent of sales included
+miscellaneous   products  used  by  asbestos  and  lead  abatement  contractors,
+construction contractors and industrial manufacturing facilities.
+
+                                       5
+<PAGE>
+The Company buys products from  manufacturers  based on orders received from its
+customers as well as anticipated needs based on prior buying patterns,  customer
+inquiries  and  industry  experiences.  The Company  maintains  an  inventory of
+disposable  products  and  commodities  as well  as low  cost  equipment  items.
+Approximately  78  percent  of the  Company's  sales  for  2000  and 1999 are of
+disposable  items and  commodity  products,  which are sold to customers at unit
+prices ranging from under $1.00 to $50.00.  The balance of sales is attributable
+to items  consisting  of lower  priced  equipment  beginning  at $20.00 to major
+product   assemblies   such  as   decontamination   trailers  which  retail  for
+approximately  $15,000.  The Company currently does not manufacture or lease any
+products and does not perform any repairs thereon. The Company distributes, on a
+limited basis, disposable items under its own private label.
+
+Except with  regard to certain  specialty  equipment  associated  with  asbestos
+abatement  activities  such as  filtration,  vacuum  and  pressure  differential
+systems, many of the Company's products can be used interchangeably  within many
+of the industries it supplies.  Equipment  distributed  by the Company  includes
+manufacturers' product descriptions and instructions pertaining to use.
+
+MARKETING
+
+The Company's  marketing program is conducted by its sales  representatives,  as
+well  as by  senior  management  and  the  leaders  at  each  of  its  operating
+facilities. The sales representatives are compensated by a combination of salary
+and/or commission, which is based upon negotiated sales standards.
+
+The Company  maintains  24-hours-a-day/7-days-a-week  telephone  service for its
+customers and typically delivers supplies and equipment within two or three days
+of receipt  of an order.  The  Company is  prepared  to provide  products  on an
+expedited  basis in response to requests from  customers  who require  immediate
+deliveries because their work is performed during non-business  hours,  involves
+substantial  costs because of the specialized  labor crews involved or may arise
+on short notice as a result of exigent conditions.
+
+BACKLOG
+
+Substantially  all the  Company's  products are shipped to  customers  within 48
+hours following  receipt of the order,  therefore backlog is not material to the
+Company's operations.
+
+INFLATION
+
+The inflation  rate for the U.S.  economy has averaged  approximately  3 percent
+annually over the past several  years,  with the 2000  inflation  rate being 3.4
+percent. The 2001 inflation rate is projected to be in the 3 to 4 percent range.
+The  Company  believes  inflation  has not been a  substantial  concern nor will
+inflation have a material impact to the Company's operations or profitability in
+the near term, if it remains stable.  In the event of increased  inflation,  the
+Company anticipates it would be able to pass along increases in product costs to
+its customers in the form of higher selling prices, thereby having little effect
+on product margins.
+
+                                       6
+<PAGE>
+ENVIRONMENTAL IMPACT
+
+The Company distributes a variety of products in the asbestos abatement industry
+all of which require the Company to maintain on file Material Safety Data Sheets
+("MSDS") that inform all  purchasers  and users of any  potential  hazards which
+could occur if the products spilled or leaked.  Although the Company provides no
+assurance, it reviews all products that could have a potential for environmental
+hazards  and tries to  ensure  the  products  are safe for on site  storage  and
+distribution.  The Company  currently  distributes no products it believes would
+create an  environmental  hazard if leaked or  spilled.  The  Company has safety
+procedures in place to minimize any impact if a product were to leak or spill.
+
+SEASONALITY
+
+Historically,  the  asbestos  abatement  services  and supply  business has been
+seasonal as a result of the substantial number of abatement  contracts performed
+in  educational  facilities  during the summer  months or during other  vacation
+periods.  The Company believes  seasonality is not a major characteristic in the
+non-educational or private sector, which includes the industrial, commercial and
+residential  markets.  In addition to the private sector asbestos business,  the
+Company's  expansion  of  the  construction,  industrial  safety  and  hazardous
+material  remediation  supply markets have  mitigated  most seasonal  impacts of
+government asbestos projects on the Company's sales.
+
+The  Company's  profitability  historically  increases  in the  second and third
+quarters,   relative  to  the  first  and  fourth  quarters.  This  increase  is
+attributable  to the small  increase  in  revenues  during  the second and third
+quarters  without a corresponding  increase in costs, as fixed costs represent a
+majority of total selling, general and administrative costs.
+
+GOVERNMENT REGULATION
+
+As a  supplier  of  products  manufactured  by others to the  asbestos  and lead
+abatement,   construction  tool,   industrial  safety  and  hazardous  materials
+industry,  the Company's internal  operations are not substantially  affected by
+federal laws and regulations  including  those  promulgated by the EPA and OSHA.
+Most of the  contractors  and other  purchasers of the  Company's  equipment and
+supplies  are  subject  to  various  government  regulations.   Developments  in
+legislation  and  regulations  affecting  manufacturers  and  purchasers  of the
+Company's products could have a substantial effect on the Company.
+
+                                       7
+<PAGE>
+COMPETITION
+
+The asbestos and lead  abatement,  industrial  safety,  hazardous  materials and
+construction tools supply businesses are highly  competitive.  These markets are
+served by a limited  number of large national firms as well as many local firms,
+none of who can be characterized as controlling the market. The Company competes
+on the basis of price,  delivery,  credit  arrangements  and product variety and
+quality.   Substantial   regulatory  or  economic   barriers  to  entry  do  not
+characterize  the  Company's  business.   Furthermore,   additional   companies,
+including  e-commerce based  companies,  could enter any of these industries and
+may have greater financial, marketing and technical resources than the Company.
+
+EMPLOYEES
+
+As of February 28, 2001, the Company employed a total of 125 full time employees
+including 3 executive  officers,  11 managers,  63 administrative  and marketing
+personnel  and  48  clerical  and  warehouse  personnel.  The  Company  believes
+relations with its employees are excellent.
+
+ITEM 2.  DESCRIPTION OF PROPERTIES
+
+The Company's headquarters are located in Dallas, Texas and occupy approximately
+6,400 square feet of leased general office space. This lease expires in February
+2005. As of December 31, 2000, the seven  distribution  facilities lease a total
+of 143,495 square feet of general office and warehouse  space.  These facilities
+range in size from 9,000  square  feet to 33,600 with  leases  expiring  between
+November 2001 and February 2005.
+
+ITEM 3. LEGAL PROCEEDINGS
+
+In  January  and  February  2000,  the  Company  airfreighted  products  to  two
+customers,   which   contained   chemicals   classified  by  the  Department  of
+Transportation  as  hazardous  material.  During  transportation,  some of these
+chemicals leaked. On June 15, 2000, the Federal Aviation  Administration ("FAA")
+notified the Company of their findings for the first  incident  which  indicated
+the Company did not comply with the  Department  of  Transportation's  Hazardous
+Material  Regulations.  In  October  2000,  the FAA  proposed,  and the  Company
+accepted,  $25,000 civil penalty for the first incident.  The settlement amount,
+less the initial payment of $7,000, is accrued at December 31, 2000. The Company
+resolved  the  second  incident  with the FAA;  no  damages  or  penalties  were
+assessed.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+None
+
+                                       8
+<PAGE>
+                                     PART II
+
+ITEM 5.  MARKET FOR THE REGISTRANT'S COMMON STOCK AND RELATED STOCKHOLDER
+         MATTERS
+
+(a) The Company's  common stock trades on The Nasdaq SmallCap Market tier of The
+Nasdaq Stock Market under the symbol "ABIX".  The following table sets forth the
+high and low bid prices for the common  stock for the periods  indicated.  These
+quotations  reflect prices  between  dealers,  do not include  retail  mark-ups,
+mark-downs or commissions and may not necessarily represent actual transactions.
+
+<TABLE>
+                                           Common Stock
+                                             Bid Price
+                                   -----------------------------
+<S>                                <C>               <C>
+
+          2000                         High              Low
+--------------------------         ------------      -----------
+      First Quarter                $     3.375       $    1.000
+     Second Quarter                      1.844            0.250
+      Third Quarter                      2.500            1.344
+     Fourth Quarter                      2.250            1.063
+
+          1999
+--------------------------
+      First Quarter                $     3.625       $    2.500
+     Second Quarter                      3.688            2.813
+      Third Quarter                      3.188            2.250
+     Fourth Quarter                      2.563            1.625
+</TABLE>
+
+On March 14, 2001, the closing bid price for the common stock was $1.750.
+
+(b) As of March 14,  2001,  the  approximate  number of holders of record of the
+Company's common stock was 700.
+
+(c) The Company has never paid cash  dividends on its common stock.  The Company
+presently  intends to retain any future earnings to finance the expansion of its
+business or repay borrowings on its lines of credit and does not anticipate that
+any cash  dividends  will be paid in the  foreseeable  future.  Future  dividend
+policy will depend on the Company's earnings,  capital  requirements,  expansion
+plans, financial conditions, and other relevant factors.
+
+(d) At various times since November 1984, the Board of Directors  authorized the
+acquisition of the Company's common stock totaling  726,500 shares.  As of March
+14, 2001, the Company has acquired 726,166 shares and does not intend to acquire
+any additional shares for the foreseeable future.  Included in these shares is a
+block of  102,600  shares  purchased  in March  1999,  a block of 51,000  shares
+purchased in October 1999,  and 22,766  shares  received in January 1999 from an
+officer of the Company as payment for monies owed to the Company of $79,681. All
+of these shares are held as treasury shares.
+
+                                       9
+<PAGE>
+ITEM 6.  SELECTED FINANCIAL DATA
+
+The tables below set forth,  in summary  form,  selected  financial  data of the
+Company.  This data, which is not covered by the independent  auditors'  report,
+should be read in conjunction  with the  consolidated  financial  statements and
+notes thereto which are included  elsewhere  herein (amounts in thousands except
+per share amounts).
+
+<TABLE>
+                                                                     Year Ended December 31,
+                                             -----------------------------------------------------------------------
+<S>                                          <C>           <C>            <C>             <C>            <C>
+
+                                               2000            1999           1998           1997            1996
+                                             ---------     -----------    -----------     ----------     -----------
+Selected Operating Results:
+   Net sales                                 $  47,987     $    44,576    $    37,684     $   34,341     $    33,367
+   Gross profit                              $  12,982     $    12,217    $    10,837     $   10,037     $     9,502
+
+   Earnings from continuing operations       $     598     $       461    $     1,167     $      841     $       734
+   Earnings from discontinued
+     operations, net of income taxes                 -               -              -              -              22
+                                             ---------     -----------    -----------     ----------     -----------
+   Net earnings                              $     598     $       461    $     1,167     $      841     $       756
+                                             =========     ===========    ===========     ==========     ===========
+
+Basic and diluted earnings per common share:
+   Earnings from continuing operations       $     .35     $       .26    $       .60     $      .43     $       .35
+   Earnings from discontinued
+     operations                                      -               -              -              -             .01
+                                             ---------     -----------    -----------     ----------     -----------
+   Net earnings                              $     .35     $       .26    $       .60     $      .43     $       .36
+                                             =========     ===========    ===========     ==========     ===========
+Weighted average shares outstanding:
+     Basic                                       1,711           1,779          1,934          1,934           2,076
+                                             =========     ===========    ===========     ==========     ===========
+     Diluted                                     1,711           1,779          1,934          1,934           2,111
+                                             =========     ===========    ===========     ==========     ===========
+
+</TABLE>
+
+<TABLE>
+                                                                       As of December 31,
+                                             ------------------------------------------------------------------------
+                                                2000            1999           1998           1997            1996
+                                             ----------     -----------    -----------     ----------     -----------
+<S>                                          <C>            <C>            <C>             <C>            <C>
+
+Selected Balance Sheet Data:
+   Current assets                         $     12,075   $      13,220  $       9,918   $      9,003   $       9,722
+   Current liabilities                           7,411           9,171          4,408          4,676           6,219
+   Total assets                                 14,042          15,204         10,596          9,854          10,678
+   Total liabilities                             7,411           9,171          4,408          4,676           6,219
+   Retained earnings                             6,312           5,714          5,252          4,085           3,244
+   Stockholders' equity                          6,631           6,033          6,187          5,178           4,459
+</TABLE>
+
+                                       10
+<PAGE>
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+         RESULTS OF OPERATIONS
+
+YEAR ENDED DECEMBER 31, 2000 COMPARED TO YEAR ENDED DECEMBER 31, 1999
+
+Consolidated net sales for the year ended December 31, 2000, increased 8 percent
+to $47,987,000 from $44,576,000 in 1999. The Abatix operating  segment net sales
+grew 5 percent to $44,145,000  in 2000 and the IESI operating  segment net sales
+increased 58 percent to $3,842,000  in 2000.  The increase in  consolidated  net
+sales  resulted from efforts to further  expand and diversify the customer base,
+including the introduction of a new  distribution  channel for IESI and the 1999
+acquisition of North State, a construction supply  distributor.  The acquisition
+provides a larger  customer  base and the ability to cross sell products to both
+North State and Abatix customers.  The increase in net sales is also a result of
+the  stable  economic  conditions  in the  geographic  regions  serviced  by the
+Company's facilities. The increase in net sales for 2000 was partially offset by
+an 11 percent  decline in sales to  asbestos  abatement  contractors  and by the
+April 1999 closure of the  Company's  Denver  facility.  This  facility had 1999
+revenues of  approximately  $353,000.  Further  diversification  of the customer
+base,  cross  selling  of  products,  along  with the  economic  conditions,  if
+maintained, should allow the Company to internally grow its revenues in 2001.
+
+Although the decline in sales to asbestos  abatement  contractors is expected to
+continue for the foreseeable  future,  sales to these  contractors for the first
+two  months of 2001  were  slightly  higher  than the same  period in 2000.  The
+asbestos   abatement  industry  will  likely  diminish  over  time  as  asbestos
+containing  materials,  last used in construction during 1977-1980,  are removed
+from schools, office buildings, homes and factories.
+
+Sales to the hazardous materials remediation, industrial safety and construction
+tools supply markets are increasing both in absolute amounts and as a percentage
+of revenues to the Company.  The acquisitions of Keliher and North State,  other
+potential  acquisitions,  additional  salespeople  and internal  growth in these
+markets  should  decrease the  dependency of the Company on any single  product,
+geographic market or on sales to the asbestos abatement  industry.  In addition,
+the Company is developing an e-commerce solution to help solidify  relationships
+with the existing customer base and expand its geographic presence.
+
+Gross  profit for 2000 of  $12,982,000  increased 6 percent from gross profit in
+1999 of $12,217,000 due to increased sales volume.  As expected,  margins varied
+from  location to location  due to sales mix and local  market  conditions.  The
+Company's  gross  profit  margins,  expressed  as a  percentage  of sales,  were
+approximately  27  percent  for 2000 and  1999.  Although  overall  margins  are
+expected to remain at their current levels in 2001,  competitive pressures could
+negatively  impact any and all  efforts by the  Company to  maintain  or improve
+product margins.
+
+                                       11
+<PAGE>
+Selling, general and administrative expenses for 2000 of $11,395,000 increased 3
+percent  over 1999  expenses  of  $11,083,000.  The  increase  was  attributable
+primarily to the inclusion of North State costs and increased rent due to larger
+facilities  and  higher  rent  rates  for  three  distribution  centers  and the
+corporate  offices.  Leases on three facilities were  renegotiated at the end of
+1999.  Rental rates are higher with the new leases as a result of improved  real
+estate  conditions.  These  expenses  were 24  percent  of sales for 2000 and 25
+percent of sales for 1999.  Selling,  general and  administrative  expenses  are
+expected to be in the 23 to 24 percent range for 2001.
+
+Interest  expense of $562,000  increased  $175,000 from 1999 interest expense of
+$387,000  primarily  due  to the  additional  borrowings  used  to  finance  the
+acquisition  of North State and higher  interest  rates.  The  Company's  credit
+facilities are variable rate notes tied to the Company's  lending  institution's
+prime rate.  Increases in the prime rate could  negatively  affect the Company's
+earnings.
+
+Net earnings for the year ended December 31, 2000, of $598,000 or $.35 per share
+increased  $137,000 from net earnings of $461,000 or $.26 per share in 1999. The
+increase in net earnings is primarily due to the higher sales volume,  partially
+offset by the higher general and administrative costs and the increased interest
+expense.
+
+YEAR ENDED DECEMBER 31, 1999 COMPARED TO YEAR ENDED DECEMBER 31, 1998
+
+Consolidated  net sales for the year ended December 31, 1999 improved 18 percent
+to $44,576,000 from $37,684,000 in 1998. The Abatix operating  segment net sales
+grew 20 percent to $42,147,000 in 1999, and the IESI operating segment net sales
+of  $2,429,000 in 1999  remained  constant with the prior year.  The increase in
+consolidated  net sales was  primarily  the result of the  acquisition  of North
+State in June 1999 and the January 1999 acquisition of Keliher.  The increase in
+sales  resulting from these  acquisitions  was partially  offset by a decline in
+sales derived from customers in oil related industries. In addition, on April 6,
+1999, the Company closed its Denver  facility.  The Denver facility had sales of
+approximately  $353,000 and $1,449,000 for the years ended December 31, 1999 and
+1998, respectively.
+
+Gross profit for 1999 of $12,217,000 increased 13 percent from 1998 gross profit
+of $10,837,000  due to an increase in sales volume.  As seen in previous  years,
+gross  profit  margins  varied  by  location  as a result of sales mix and local
+market conditions. Reported as a percentage of sales, the Company's gross profit
+margins were 27 percent and 29 percent for 1999 and 1998, respectively.  The two
+percent  decline in gross profit margin was  attributable to a change in the mix
+of products being sold primarily as a result of the  acquisitions of Keliher and
+North State.
+
+Selling, general and administrative expenses increased 27 percent to $11,083,000
+over 1998 expenses of $8,729,000. The increase was due to the inclusion of North
+State  and  Keliher  costs,  as well as costs  incurred,  including  facilities,
+payroll,  travel,  and marketing costs, in preparation for expected  growth.  In
+order to accommodate  growth,  the Company relocated several of its distribution
+centers to larger facilities,  which also included higher per square foot rental
+rates.  This increase in rent expense,  coupled with the costs  associated  with
+efforts to further enhance customer  service  contributed to the higher selling,
+general and administrative expenses in 1999.
+
+                                       12
+<PAGE>
+As a percent of sales,  selling,  general and  administrative  expenses  were 25
+percent  for 1999 as  compared  to 23 percent  for 1998.  As a percent of sales,
+these expenses are higher in 1999 due to the higher  operating cost structure of
+Keliher,  expenses related to the integration of North State's  operations,  and
+the costs  associated with marketing  initiatives to improve our internal growth
+rate. The Company did not incur any  significant  charges related to the closing
+of its Denver facility.
+
+Other  expense,  net,  of $374,000  increased  70 percent  from 1998  expense of
+$220,000 primarily due to a 62 percent increase in interest expense. In addition
+to a higher  prime rate,  borrowings  used to finance the  acquisition  of North
+State resulted in the higher interest expense.
+
+Net earnings of $461,000 or $.26 per share in 1999 declined 60 percent from 1998
+net earnings of $1,167,000  or $.60 per share.  The decrease in net earnings was
+due to a two percent  decline in profit  margins  combined with higher  selling,
+general and administrative costs and increased interest expense.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+The Company's working capital  requirements  historically result from the growth
+of its  accounts  receivable  and  inventories,  partially  offset by  increased
+accounts  payable and  accrued  expenses,  associated  with  increases  in sales
+volume.  Net cash  provided by  operations  during 2000 of  $1,836,000  resulted
+principally from the decrease in accounts receivable,  the net earnings adjusted
+for depreciation and amortization and the decrease in inventories.  The decrease
+in accounts receivable is attributed to higher than normal collections and lower
+sales in December  2000 versus 1999.  Cash flow from  operations  for the entire
+year of 2001 is expected to be positive,  although at any given point, it may be
+negative.
+
+Cash  requirements for non-operating  activities during 2000 resulted  primarily
+from the purchases of property and equipment.  In addition,  net working capital
+line of  credit  repayments  occurred  primarily  as a  result  of the net  cash
+provided by operations.  The equipment  purchases in 2000 were  primarily  costs
+associated with building the Company's e-commerce solution, office furniture and
+fixtures, warehouse equipment, and a delivery vehicle.
+
+The development of the Company's  e-commerce  solution,  which should begin beta
+testing in the first half of 2001,  has required a significant  capital  outlay.
+This  solution,  which could cost $200,000 to implement,  market and maintain in
+2001, is expected to provide customers a more efficient method of doing business
+with Abatix and could provide some cost savings in the future, as well as expand
+the customer base.
+
+In early May 2000, the Company increased its working capital line of credit at a
+commercial  lending  institution  from  $6,500,000  to  $7,000,000  to help fund
+additional  capital  requirements  resulting  from the  business  growth and the
+development of its e-commerce site. The working capital line of credit agreement
+allows the  Company  to borrow up to 80  percent  of the book value of  eligible
+trade  receivables  plus the  lesser of 40  percent  of  eligible  inventory  or
+$2,000,000.  As of March 14,  2001,  there are advances  outstanding  under this
+credit facility of $3,636,000.  Based on the borrowing formula,  the Company had
+the  capacity  to borrow an  additional  $3,364,000  as of March 14,  2001.  The
+
+                                       13
+<PAGE>
+Company also maintains a $550,000 capital  equipment  credit facility  providing
+for  borrowings  at 80 percent of cost on  purchases.  The advances  outstanding
+under this  credit  facility as of March 14,  2001,  were  $97,000.  Both credit
+facilities  are payable on demand and bear a variable rate of interest  computed
+at the prime rate.
+
+Management believes the Company's current credit facilities,  together with cash
+provided  by  operations,  will be  sufficient  for its  capital  and  liquidity
+requirements  for the next  twelve  months.  In the  event the  Company  pursues
+additional  acquisitions  and is unable to use its common stock as payment,  the
+Company would need to negotiate with a lender to secure additional borrowings to
+be used to acquire another company's assets.
+
+NEW ACCOUNTING STANDARDS
+
+The Company will adopt the reporting  and  disclosure  requirements  of SFAS No.
+133,  "Accounting For Derivative  Instruments and Hedging Activities" during the
+first  quarter  of  fiscal  2001.  This  statement  establishes  accounting  and
+reporting  standards  for  derivative  instruments  and hedging  activities  and
+requires the  recognition of all derivatives on the balance sheet at fair value.
+If the derivative is a hedge,  depending on the nature of the hedge,  changes in
+the fair value of the  derivatives  will either be offset  against the change in
+fair  value  of the  hedged  item  through  earnings,  or  recognized  in  other
+comprehensive  income  until the hedged  item is  recognized  in  earnings.  The
+adoption of this standard will not have a material impact on the Company.
+
+ITEM 7A.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Since the Company's  working  capital and equipment lines of credit are variable
+rate notes, the Company is exposed to interest rate risk. Based on the Company's
+debt at  December  31, 2000 and 1999,  an  increase  of 100 basis  points in the
+United  States  prime rate would have  negatively  impacted  the  Company's  net
+earnings for the years then ended by $26,000 and $36,000, respectively.
+
+Except for the historical information contained herein, the matters set forth in
+this  Form  10-K  are  forward  looking  and  involve  a  number  of  risks  and
+uncertainties.  Among the  factors  that could  cause  actual  results to differ
+materially  are the  following:  inability  to hire and  train  quality  people,
+funding of environmental related projects,  general economic and commercial real
+estate conditions in the local markets,  changes in interest rates, inability to
+pass on price  increases  to  customers,  unavailability  of products and strong
+competition.  In addition,  further  increases in oil prices or shortages in oil
+supply could significantly impact the Company's petroleum based products and its
+ability to supply those  products at a reasonable  price.  Furthermore,  lack of
+acceptance  of our proposed  e-commerce  solution or the  impairment of goodwill
+resulting from the 1999  acquisitions  could also cause actual results to differ
+materially.
+
+ITEM 8.  CONSOLIDATED FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+The consolidated  financial statements and supplementary data are included under
+Item 14(a)(l) and (2) of this Report.
+
+                                       14
+<PAGE>
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+         ACCOUNTING AND FINANCIAL DISCLOSURE
+
+None
+
+                                    PART III
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+This Item 10 is incorporated  herein by reference from the Company's  definitive
+Proxy  Statement to be filed with the  Securities  and Exchange  Commission  not
+later than one hundred twenty (120) days after December 31, 2000.
+
+ITEM 11.  EXECUTIVE COMPENSATION
+
+This Item 11 is incorporated  herein by reference from the Company's  definitive
+Proxy  Statement to be filed with the  Securities  and Exchange  Commission  not
+later than one hundred twenty (120) days after December 31, 2000.
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+This Item 12 is incorporated  herein by reference from the Company's  definitive
+Proxy  Statement to be filed with the  Securities  and Exchange  Commission  not
+later than one hundred twenty (120) days after December 31, 2000.
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+This Item 13 is incorporated  herein by reference from the Company's  definitive
+Proxy  Statement to be filed with the  Securities  and Exchange  Commission  not
+later than one hundred twenty (120) days after December 31, 2000.
+
+                                       15
+<PAGE>
+                                     PART IV
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+(a)  1 AND 2. CONSOLIDATED FINANCIAL STATEMENTS AND FINANCIAL STATEMENT SCHEDULE
+
+The consolidated financial statements and financial statement schedule listed on
+the index to consolidated  financial statements on page F-l are filed as part of
+this Form l0-K.
+
+(b)  REPORTS ON FORM 8-K
+
+None
+
+(c)  EXHIBITS
+
+(2)(a)          Agreement  of Merger  (filed as Exhibit (2) to the Registration
+                Statement  on Form  S-18,  filed January 11, 1989).
+
+(2)(b)          Asset  Purchase  Agreement  (filed as Exhibit  (2)(b) to the
+                Report on Form 8-K,  filed October 19, 1992).
+
+(2)(c)          Asset  Purchase  Agreement for Keliher  Hardware  Company
+                (filed as exhibit (2)(c) to the Report on Form 10-K for the year
+                ended December 31, 1998).
+
+(2)(d)          Asset  Purchase  Agreement for North State Supply Co. of Phoenix
+               (filed with Report on Form 8-K on June 15, 1999).
+
+(3)(a)(1)       Certificate of Incorporation  (filed as Exhibit (3)(a)(1) to the
+                Registration  Statement  on Form S-18,  filed  January 11, 1989;
+                filed electronically as Exhibit 3(i)(a) to the Form 10-Q for the
+                quarter ended December 31, 1995, filed on November 9, 1995).
+
+(3)(a)(2)       Certificate of Amendment of Certificate of Incorporation  (filed
+                as Exhibit (3)(a)(2) to the Registration Statement on Form S-18,
+                filed January 11, 1989; filed  electronically as Exhibit 3(i)(b)
+                to the Form 10-Q for the quarter ended December 31, 1995,  filed
+                on November 9, 1995).
+
+(3)(a)(3)       Certificate of Amendment of Certificate of Incorporation  (filed
+                as  Exhibit  (3)(i)(c)  to the Form 10-Q for the  quarter  ended
+                December 31, 1995, filed November 9, 1995; filed  electronically
+                as  Exhibit  3(i)(c)  to the  Form  10-Q for the  quarter  ended
+                December 31, 1995, filed on November 9, 1995).
+
+(3)(b)          Bylaws  (filed as Exhibit  (3)(b) to the  Registration Statement
+                on Form S-18,  filed  January 11, 1989;  filed  electronically
+                as Exhibit 3(ii) to the Form 10-Q for the quarter ended
+                December 31, 1995, filed on November 9, 1995).
+
+                                       16
+<PAGE>
+(4)(a)          Specimen  Certificate  of Common Stock (filed as Exhibit  (4)(a)
+                to the  Registration  Statement on Form S-18, filed January 8,
+                1989).
+
+(4)(b)          Specimen of Redeemable  Common Stock Purchase  Warrant (filed as
+                Exhibit (4)(b) to the Registration Statement on Form S-18, filed
+                February 9, 1989).
+
+(10)(a)(vi)     Employment Agreement with Terry W. Shaver effective January 1,
+                2001.*
+
+(10)(b)(vi)     Employment Agreement with Gary L. Cox effective January 1,2001.*
+
+(10)(e)         Demand Credit Facility with Comerica  Bank-Texas  dated June 15,
+                1989  (filed as  Exhibit  (10)(e) to the Report on Form 10-Q for
+                the Quarter ended June 30, 1989, filed August 11, 1989).
+
+(10)(e)(i)      Demand Credit Facility with Comerica  Bank-Texas  dated March 1,
+                1993 (filed as Exhibit (10)(e)(i) to the Report on Form 10-K for
+                the year ended December 31, 1992).
+
+(10)(e)(ii)     Demand  Credit  Facility  with  Comerica  Bank-Texas  extension,
+                renewal  and  increase  dated  June 1, 1993  (filed  as  Exhibit
+                (10)(e)(ii)  to the  Report  on Form  10-K  for the  year  ended
+                December 31, 1993).
+
+(10)(e)(iii)    Demand  Credit  Facility  with  Comerica  Bank-Texas  extension,
+                renewal and increase dated  September 22, 1994 (filed as Exhibit
+                (10)(e)(iii)  to the  Report  on Form  10-K for the  year  ended
+                December 31, 1994).
+
+(22)            Information  Statement  dated  September  1, 1995 (filed as
+                Exhibit (22) to the Report on Form 10-K for the year ended
+                December 31, 1995).
+
+(23)            Consent of Independent Auditors.*
+
+* Filed herewith as part of the Company's electronic filing.
+
+                                       17
+<PAGE>
+                                   SIGNATURES
+
+
+Pursuant to the  requirements of Section 13 or 15(d) of the Securities  Exchange
+Act of 1934,  the  Registrant  has duly  caused  this Report to be signed on its
+behalf by the undersigned;  thereunto duly authorized, on the 21st day of March,
+2001.
+
+
+                                      ABATIX CORP.
+
+
+
+                                      By: /s/ Terry W. Shaver
+                                      -----------------------
+                                      Terry W. Shaver
+
+                                      President, Chief Executive Officer
+                                      And Director (Principal Executive Officer)
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this Report
+has been signed below by the following persons on behalf of the Registrant,  and
+in the capacities and on the date indicated.
+
+Signatures                 Title                                  Date
+
+
+/s/ Terry W. Shaver   President, Chief Executive Officer          March 21, 2001
+-------------------   and Director (Principal Executive Officer)
+Terry W. Shaver
+
+
+/s/ Gary L. Cox       Executive Vice President,                   March 21, 2001
+---------------       Chief Operating Officer and Director
+Gary L. Cox
+
+
+/s/ Daniel M. Birnley Director                                    March 21, 2001
+---------------------
+Daniel M. Birnley
+
+
+/s/ Donald N. Black   Director                                    March 21, 2001
+-------------------
+Donald N. Black
+
+
+/s/ Frank J. Cinatl   Vice President, Chief Financial Officer     March 21, 2001
+-------------------   and Director (Principal Accounting Officer)
+Frank J. Cinatl, IV
+
+                                       18
+<PAGE>
+
+                           ABATIX CORP. AND SUBSIDIARY
+
+                   Index to Consolidated Financial Statements
+
+                                                                Page
+Independent Auditors' Report                                     F-2
+
+Financial Statements:
+  Consolidated Balance Sheets as of December 31, 2000 and 1999   F-3
+
+  Consolidated Statements of Operations for the years ended
+    December 31, 2000, 1999 and 1998                             F-4
+
+  Consolidated Statements of Stockholders' Equity for the years
+    ended December 31, 2000, 1999 and 1998                       F-5
+
+  Consolidated Statements of Cash Flows for the years ended
+    December 31, 2000, 1999 and 1998                             F-6
+
+  Notes to Consolidated Financial Statements                     F-7
+
+
+Financial Statement Schedule:
+  II - Valuation and Qualifying Accounts for the years ended
+        December 31, 2000, 1999 and 1998                         S-1
+
+All  other   schedules  have  been  omitted  as  the  required   information  is
+inapplicable  or the  information  required  is  presented  in the  consolidated
+financial statements or the notes thereto.
+
+                                      F-1
+<PAGE>
+                          INDEPENDENT AUDITORS' REPORT
+
+
+The Board of Directors and Stockholders
+Abatix Corp.:
+
+
+We have  audited the  consolidated  financial  statements  of Abatix  Corp.  and
+subsidiary as listed in the accompanying index. In connection with our audits of
+the  consolidated  financial  statements  we also  have  audited  the  financial
+statement  schedule  as listed in the  accompanying  index.  These  consolidated
+financial  statements and financial statement schedule are the responsibility of
+the Company's  management.  Our responsibility is to express an opinion on these
+consolidated  financial statements and the financial statement schedule based on
+our audits.
+
+We conducted our audits in accordance with auditing standards generally accepted
+in the  United  States of  America.  Those  standards  require  that we plan and
+perform the audit to obtain  reasonable  assurance  about  whether the financial
+statements are free of material misstatement.  An audit includes examining, on a
+test basis,  evidence  supporting  the amounts and  disclosures in the financial
+statements.  An audit also includes assessing the accounting principles used and
+significant  estimates  made by  management,  as well as evaluating  the overall
+financial  statement  presentation.   We  believe  that  our  audits  provide  a
+reasonable basis for our opinion.
+
+In our opinion, the consolidated  financial statements referred to above present
+fairly,  in all material  respects,  the financial  position of Abatix Corp. and
+subsidiary as of December 31, 2000 and 1999, and the results of their operations
+and  their  cash  flows  for each of the years in the  three-year  period  ended
+December 31, 2000 in conformity with accounting principles generally accepted in
+the United  States of America.  Also,  in our  opinion,  the  related  financial
+statement  schedule,  when  considered  in  relation  to the basic  consolidated
+financial  statements  taken  as a  whole,  presents  fairly,  in  all  material
+respects, the information set forth therein.
+
+
+
+                                    /s/ KPMG LLP
+
+
+Dallas, Texas
+March 2, 2001
+
+                                      F-2
+<PAGE>
+                           ABATIX CORP. AND SUBSIDIARY
+
+                           Consolidated Balance Sheets
+                           December 31, 2000 and 1999
+
+<TABLE>
+                                  ASSETS                                               2000               1999
+                                                                                  --------------     --------------
+<S>                                                                               <C>                <C>
+
+Current assets:
+   Cash                                                                           $        5,678      $     106,793
+   Trade accounts receivable, net of allowance for doubtful accounts of
+     $559,963 in 2000 and $616,678 in 1999 (note 4)                                    6,371,419          7,028,271
+   Inventories (note 4)                                                                5,124,727          5,393,355
+   Prepaid expenses and other assets                                                     296,254            368,583
+   Refundable income taxes                                                                     -             87,986
+   Deferred income taxes (note 5)                                                        277,170            235,505
+                                                                                  --------------      -------------
+       Total current assets                                                           12,075,248         13,220,493
+
+Receivables from officers and employees                                                   14,933              7,750
+Property and equipment, net (notes 3 and 4)                                              716,993            629,796
+Deferred income taxes (note 5)                                                           197,180            144,916
+Goodwill, net of accumulated amortization of $249,275 in 2000
+      and $91,756 in 1999                                                                977,361          1,134,880
+Other assets                                                                              60,722             66,973
+                                                                                  --------------      -------------
+                                                                                  $   14,042,437      $  15,204,808
+                                                                                  ==============      =============
+
+                   LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+   Notes payable to bank (note 4)                                                 $    4,334,852      $   5,825,721
+   Accounts payable                                                                    2,418,470          2,604,587
+   Accrued compensation                                                                  158,668            198,127
+   Other accrued expenses                                                                499,119            542,959
+                                                                                  --------------     --------------
+         Total current liabilities                                                     7,411,109          9,171,394
+                                                                                  --------------     --------------
+
+Stockholders' equity (note 6):
+   Preferred stock - $1 par value, 500,000 shares authorized; none issued                      -                  -
+   Common stock - $.001 par value, 5,000,000 shares authorized; issued
+     2,437,314 shares in 2000 and 1999                                                     2,437              2,437
+   Additional paid-in capital                                                          2,574,560          2,574,560
+   Retained earnings                                                                   6,311,673          5,713,759
+   Treasury stock at cost, 726,166 common shares in 2000 and 1999                     (2,257,342)        (2,257,342)
+                                                                                  --------------      -------------
+       Total stockholders' equity                                                      6,631,328          6,033,414
+
+Commitments and contingencies  (note 10)
+                                                                                  --------------      -------------
+                                                                                  $   14,042,437      $  15,204,808
+                                                                                  ==============      =============
+</TABLE>
+
+See accompanying notes to consolidated financial statements.
+
+                                      F-3
+<PAGE>
+                           ABATIX CORP. AND SUBSIDIARY
+
+                      Consolidated Statements of Operations
+                   Years ended December 31, 2000, 1999 and 1998
+<TABLE>
+
+                                                                  2000                  1999                 1998
+                                                             ------------          -------------        -------------
+<S>                                                          <C>                   <C>                  <C>
+Net sales                                                    $ 47,986,591          $  44,576,180        $  37,683,774
+Cost of sales                                                  35,004,764             32,358,985           26,846,279
+                                                             ------------          -------------        -------------
+       Gross profit                                            12,981,827             12,217,195           10,837,495
+
+Selling, general and administrative expenses                  (11,394,760)           (11,083,429)          (8,729,175)
+                                                             ------------          -------------        -------------
+       Operating profit                                         1,587,067              1,133,766            2,108,320
+
+Other income (expense):
+   Interest income                                                    689                    573               15,824
+   Interest expense                                              (561,826)              (386,856)            (238,706)
+   Other, net                                                       1,683                 12,436                2,400
+                                                             ------------          -------------        -------------
+       Earnings before income taxes                             1,027,613                759,919            1,887,838
+
+Income tax expense (note 5)                                      (429,699)              (298,461)            (720,429)
+                                                             ------------         --------------        -------------
+       Net earnings                                          $    597,914         $      461,458        $   1,167,409
+                                                             ============         ==============        =============
+
+Basic and diluted earnings per common share                  $        .35         $          .26        $         .60
+                                                             ============         ==============        =============
+
+Basic and diluted weighted average shares outstanding           1,711,148              1,779,029            1,933,769
+                                                             ============         ==============        =============
+</TABLE>
+
+See accompanying notes to consolidated financial statements.
+
+                                      F-4
+<PAGE>
+                           ABATIX CORP. AND SUBSIDIARY
+
+                 Consolidated Statements of Stockholders' Equity
+                  Years ended December 31, 2000, 1999 and 1998
+
+<TABLE>
+
+                                         Common Stock          Additional                      Treasury Stock
+                                    ----------------------      Paid-in       Retained    ------------------------       Total
+                                     Shares       Amount        Capital       Earnings     Shares        Amount          Equity
+                                    ---------   ----------    -----------    ----------   ---------  -------------    -----------
+<S>                                 <C>         <C>           <C>            <C>         <C>         <C>              <C>
+
+Balance at December 31, 1997        2,413,814   $    2,414    $ 2,498,508    $4,084,892     476,250  $  (1,408,137)  $  5,177,677
+
+    Purchase of treasury stock              -            -              -             -      41,450       (157,930)      (157,930)
+
+    Net earnings                            -            -              -     1,167,409           -              -      1,167,409
+                                    ---------   ----------    -----------    ----------   ---------  -------------   ------------
+Balance at December 31, 1998        2,413,814        2,414      2,498,508     5,252,301     517,700     (1,566,067)     6,187,156
+
+    Stock issued for the Purchase
+    of Keliher Hardware (note 2)       23,500           23         76,052             -           -              -         76,075
+
+    Purchase of treasury stock              -            -              -             -     185,700       (611,594)      (611,594)
+
+    Stock received to repay debt
+    from officer                            -            -              -             -      22,766        (79,681)       (79,681)
+
+    Net earnings                            -            -              -       461,458           -              -        461,458
+                                    ---------   ----------    -----------    ----------   ---------  -------------   ------------
+Balance at December 31, 1999        2,437,314        2,437      2,574,560     5,713,759     726,166     (2,257,342)     6,033,414
+
+    Net earnings                            -            -              -       597,914           -              -        597,914
+                                    ---------   ----------    -----------    ----------   ---------  -------------   ------------
+Balance at December 31, 2000        2,437,314   $    2,437    $ 2,574,560    $6,311,673     726,166  $  (2,257,342)  $  6,631,328
+                                    =========   ==========    ===========    ==========   =========  =============   ============
+</TABLE>
+
+See accompanying notes to consolidated financial statements.
+
+                                      F-5
+<PAGE>
+                           ABATIX CORP. AND SUBSIDIARY
+
+                      Consolidated Statements of Cash Flows
+                   Years ended December 31, 2000, 1999 and 1998
+
+<TABLE>
+                                                                      2000               1999                1998
+                                                                 --------------     --------------      ---------------
+<S>                                                              <C>                <C>                 <C>
+Cash flows from operating activities:
+   Net earnings                                                  $      597,914      $     461,458       $    1,167,409
+   Adjustments to reconcile net earnings to net cash
+     provided by operating activities:
+     Depreciation and amortization                                      521,888            469,032              367,789
+     Deferred income taxes                                              (93,929)          (116,798)              (5,626)
+     Gain on disposal of assets                                          (5,974)           (19,609)              (3,310)
+     Changes in operating assets and liabilities, net of
+     business acquisitions:
+       Receivables                                                      656,852           (287,808)            (933,035)
+       Inventories                                                      268,628           (384,281)             113,441
+       Refundable income taxes                                           87,986            (87,986)                   -
+       Prepaid expenses and other assets                                 72,329             64,968             (175,439)
+       Accounts payable                                                (186,117)           556,542             (271,451)
+       Accrued expenses                                                 (83,299)           (96,221)             159,755
+                                                                 --------------    ---------------       --------------
+Net cash provided by operating activities                             1,836,278            559,297              419,533
+                                                                 --------------    ---------------       --------------
+
+Cash flows from investing activities:
+   Purchase of property and equipment                                  (476,238)          (444,642)            (191,850)
+   Proceeds from sale of property and equipment                          30,646             35,750                8,500
+   Business acquisitions, net of cash acquired (note 2)                       -         (2,160,574)                   -
+   Advances to officers and employees                                   (39,162)           (63,897)             (40,609)
+   Collection of advances to officers and employees                      31,979             60,170               34,833
+   Other assets, primarily deposits                                       6,251            (30,515)               3,100
+                                                                 --------------    ---------------       --------------
+Net cash used in investing activities                                  (446,524)        (2,603,708)            (186,026)
+                                                                 --------------    ---------------       --------------
+
+Cash flows from financing activities:
+   Purchase of treasury stock                                                 -           (611,594)            (157,930)
+   Borrowings on notes payable to bank                               14,137,514         19,927,926           36,258,601
+   Repayments on notes payable to bank                              (15,628,383)       (17,389,125)         (36,415,128)
+                                                                 --------------    ---------------       --------------
+Net cash (used in) provided by  financing activities                 (1,490,869)         1,927,207             (314,457)
+                                                                 --------------    ---------------       --------------
+
+Net decrease in cash                                                   (101,115)          (117,204)             (80,950)
+Cash at beginning of year                                               106,793            223,997              304,947
+                                                                 --------------    ---------------       --------------
+       Cash at end of year                                       $        5,678    $       106,793       $      223,997
+                                                                 ==============    ===============       ==============
+</TABLE>
+
+See accompanying notes to consolidated financial statements.
+
+                                      F-6
+<PAGE>
+                           ABATIX CORP. AND SUBSIDIARY
+
+                   Notes to Consolidated Financial Statements
+
+(1)      SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+         (a)  GENERAL
+
+              Abatix  Corp.   ("Abatix")  and  subsidiary   (collectively,   the
+              "Company")  market and distribute  personal  protection and safety
+              equipment  and durable  and  nondurable  supplies to the  asbestos
+              abatement industry,  the industrial safety and hazardous materials
+              industries  and,  combined  with  tools  and  tool  supplies,  the
+              construction  industry. At December 31, 2000, the Company operated
+              seven sales and distribution centers in five states. The Company's
+              wholly-owned subsidiary,  International  Enviroguard Systems, Inc.
+              ("IESI")  imports  disposable  protective  clothing  products sold
+              through the  Company's  distribution  channels  and through  other
+              distributors.
+
+              The  preparation  of  financial   statements  in  conformity  with
+              generally accepted  accounting  principles  requires management to
+              make estimates and assumptions that affect the reported amounts of
+              assets and  liabilities  and  disclosure of contingent  assets and
+              liabilities  at the  date  of the  financial  statements  and  the
+              reported  amounts of revenues  and expenses  during the  reporting
+              period. Actual results could differ from those estimates.
+
+              The accompanying  consolidated  financial  statements  include the
+              accounts of Abatix and IESI. All significant intercompany accounts
+              and transactions  have been eliminated in  consolidation.  Certain
+              prior year  amounts  have been  reclassified  for  consistency  in
+              presentation.
+
+         (b)  INVENTORIES
+
+              Inventories  consist of materials and equipment for resale and are
+              stated at the lower of cost or  market.  Cost is  determined  by a
+              method that approximates the first-in, first-out method.
+
+         (c)  PROPERTY AND EQUIPMENT
+
+              Property  and  equipment  are  stated  at  cost.  Depreciation  is
+              provided by the  straight-line  method over the  estimated  useful
+              lives of the assets.
+
+                                      F-7
+<PAGE>
+         (d)  IMPAIRMENT OF LONG-LIVED ASSETS AND LONG-LIVED
+              ASSETS TO BE DISPOSED OF
+
+              The Company  reviews  long-lived  assets for  impairment  whenever
+              events or changes in circumstances indicate the carrying amount of
+              an asset may not be  recoverable.  Recoverability  of assets to be
+              held and used is measured by a comparison  of the carrying  amount
+              of an asset to future net cash flows  expected to be  generated by
+              the asset.  If such  assets are  considered  to be  impaired,  the
+              impairment to be recognized is measured by the amount by which the
+              carrying  amount  of the  assets  exceeds  the  fair  value of the
+              assets.  Assets to be disposed of are reported at the lower of the
+              carrying amount or fair value less costs to sell.
+
+         (e)  REVENUE RECOGNITION
+
+              Revenue is  recognized  when the goods are shipped.  In July 2000,
+              the Emerging Issues Task Force ("EITF") reached consensus on Issue
+              No. 00-10,  "Accounting for Shipping and Handling Fees and Costs",
+              which  establishes  standards for how companies should account for
+              shipping  and handling  fees billed to  customers.  The  consensus
+              reached  was that all  amounts  billed  to a  customer  should  be
+              classified as revenue.  No consensus was reached on classification
+              of costs,  rather the EITF  reinforced the requirement to disclose
+              the policy for accumulating and classifying  shipping and handling
+              costs.
+
+              For all years  presented,  the Company has  reclassified  shipping
+              fees billed to customers from selling,  general and administrative
+              expense.  This  reclassification  increased  revenue by  $408,679,
+              $346,422 and $356,145 for the years ended December 31, 2000,  1999
+              and 1998.  The costs  related  to this  revenue  are  included  in
+              selling,   general  and  administrative   expense  were  $965,019,
+              $826,634 and $781,455 for the years ended December 31, 2000,  1999
+              and 1998.
+
+         (f)  EARNINGS PER SHARE
+
+              Basic earnings per share is calculated  using the weighted average
+              number  of common  shares  outstanding  during  each  year,  while
+              diluted  earnings  per share  includes the effects of all dilutive
+              potential  common shares.  As of December 31, 2000, 1999 and 1998,
+              there were no dilutive securities outstanding.  Basic earnings per
+              share and diluted  earnings  per share  amounts were equal for the
+              years ended December 31, 2000, 1999 and 1998.
+
+                                      F-8
+<PAGE>
+         (g)  STATEMENTS OF CASH FLOWS
+
+              For  purposes  of  the  Statements  of  Cash  Flows,  the  Company
+              considers  all  highly  liquid  debt   instruments  with  original
+              maturities  of three  months or less to be cash  equivalents.  The
+              Company held no cash equivalents at December 31, 2000 or 1999.
+
+              The Company paid interest of $565,933, $362,249, $247,298 in 2000,
+              1999  and  1998,  respectively,  and  income  taxes of  $352,562,
+              $637,957, $667,963 in 2000, 1999 and 1998, respectively. In 1999,
+              the Company issued stock for a business  acquisition at a value of
+              $76,075  and  received  stock from an officer to repay debt in the
+              amount of $79,681.
+
+         (h)  INCOME TAXES
+
+              The  Company  accounts  for  income  taxes  using  the  asset  and
+              liability  method.  Under this method the Company records deferred
+              income taxes for the temporary  differences  between the financial
+              reporting  basis and the tax basis of assets  and  liabilities  at
+              enacted tax rates  expected to be in effect when such  amounts are
+              realized or settled.  The resulting  deferred tax  liabilities and
+              assets are adjusted to reflect changes in tax laws or rates in the
+              period that includes the enactment date.
+
+         (i)  GOODWILL
+
+              Goodwill  represents  the excess of purchase  price over the fair
+              value of net assets acquired.  Amortization is provided using the
+              straight-line method over estimated useful lives of three and ten
+              years.
+
+              The  Company   assesses   the   recoverability   of  goodwill  by
+              determining  whether the  amortization  of the asset balance over
+              its remaining life can be recovered through  undiscounted  future
+              operating  cash flows of the  acquired  operation.  The amount of
+              impairment,  if any, is measured  based on  projected  discounted
+              future  operating  cash flows using a discount rate  commensurate
+              with that attainable by the Company for secured borrowings.
+
+(2)      ACQUISITION AND DISPOSITION OF ASSETS
+
+         Effective  January 1, 1999,  the Company  consummated an asset purchase
+         agreement  with Keliher  Hardware  Company,  a California  corporation,
+         pursuant  to which the  Company  assumed  the  operations  of  Keliher.
+         Keliher,  based in Los Angeles,  California,  is an  industrial  supply
+         distributor, primarily for the construction and industrial markets. The
+         estimated fair value of the assets acquired was approximately $975,000.
+         The aggregate purchase price was settled with the assumption of certain
+         liabilities  (approximately $900,000), the issuance of 23,500 shares of
+         the  Company's  $.001  par value  common  stock at a value of $3.45 per
+
+                                      F-9
+<PAGE>
+         share and $35,000 in cash.  This  acquisition  has been  accounted  for
+         using the purchase  method of accounting and,  accordingly,  results of
+         Keliher's  operations  are  included  in  the  Company's   consolidated
+         financial  statements  since the  acquisition  date.  The excess of the
+         purchase  price  over the fair value of net  assets  acquired  is being
+         amortized on a straight-line basis over three years.
+
+         On April 6, 1999, the Company closed its Denver sales and  distribution
+         center.  The Denver  facility had sales of $353,000 and  $1,449,000 for
+         the years  ended  December  31, 1999 and 1998,  respectively.  Expenses
+         related to the closing of this location were not material.
+
+         Effective  June 1, 1999,  the  Company  consummated  an asset  purchase
+         agreement   with  North  State  Supply  Co.  of  Phoenix,   an  Arizona
+         corporation,  pursuant to which the Company  assumed the  operations of
+         North State,  a  construction  supply  distributor.  The estimated fair
+         value  of  the  assets  acquired  was  approximately  $1,800,000.   The
+         aggregate  purchase  price was settled with the  assumption  of certain
+         liabilities  (approximately  $785,000) and approximately  $2,100,000 in
+         cash. This acquisition has been accounted for using the purchase method
+         of accounting and, accordingly, the results of North State's operations
+         are included in the Company's  consolidated  financial statements since
+         the  acquisition  date.  The excess of the purchase price over the fair
+         value of net assets  acquired  is being  amortized  on a  straight-line
+         basis over ten years.
+
+         Unaudited  pro  forma  results,  as if  the  Keliher  and  North  State
+         acquisitions had occurred at the beginning of 1998, are as follows:
+
+                                                   For the years ended
+                                                       December 31,
+                                            ------------------------------------
+                                                1999                    1998
+                                            ------------           -------------
+Net sales                                   $ 47,087,585           $  47,031,222
+                                            ============           =============
+Net income                                  $    484,561           $   1,039,893
+                                            ============           =============
+Basic and diluted earnings per
+   common share                             $        .27           $         .53
+                                            ============           =============
+
+                                      F-10
+<PAGE>
+(3)      PROPERTY AND EQUIPMENT
+
+         Property and  equipment  consists of the following at December 31, 2000
+         and 1999:
+
+<TABLE>
+                                                Estimated
+                                               Useful Life              2000              1999
+                                              -------------         ------------      ------------
+<S>                                           <C>                   <C>               <C>
+Furniture and equipment                        3 - 10 years         $  2,512,994      $  2,183,305
+Transportation equipment                       3 - 5 years               523,743           489,917
+Leasehold improvements                         3 - 5 years               153,966            85,141
+                                                                    ------------      ------------
+                                                                       3,190,703         2,758,363
+Less accumulated depreciation and
+   amortization                                                        2,473,710         2,128,567
+                                                                    ------------      ------------
+Net property and equipment                                          $    716,993      $    629,796
+                                                                    ============      ============
+</TABLE>
+
+(4)      NOTES PAYABLE TO BANK
+
+         At December 31, 2000,  the Company had two lines of credit with a bank.
+         The  working  capital  facility  allows the  Company to borrow up to 80
+         percent of the book value of eligible trade receivables plus the lesser
+         of 40 percent of eligible  inventory or $2,000,000,  up to a maximum of
+         $7,000,000.  Under this formula,  the Company had the ability to borrow
+         $6,865,000 at December 31, 2000, of which approximately  $4,221,000 was
+         used. A capital equipment facility provides for individual  borrowings,
+         aggregating up to $550,000,  at 80 percent of the purchased equipment's
+         cost.  At December  31, 2000,  the Company had  borrowed  approximately
+         $114,000 on this facility.  Each borrowing under the capital  equipment
+         line  is due  on  the  earlier  of  demand  or in  terms  ranging  from
+         thirty-six  to sixty  monthly  installments  of principal and interest.
+         Both credit  facilities  are payable on demand and bear a variable rate
+         of interest  computed at the prime  rate.  As of December  31, 2000 and
+         1999,  the  Company's  rate of  interest  on these  agreements  was 9.5
+         percent and 8.5  percent,  respectively.  These credit  facilities  are
+         secured by accounts receivable, inventories and equipment.
+
+                                      F-11
+<PAGE>
+(5)      INCOME TAXES
+
+         Income tax expense  (benefit)  for the years ended  December  31, 2000,
+         1999 and 1998 consists of:
+
+<TABLE>
+                                                     2000               1999               1998
+                                                ------------       -------------       ------------
+<S>                                             <C>                <C>                 <C>
+  Current:
+     Federal                                    $    424,224       $     342,903       $    605,621
+     State                                            99,404              72,355            120,433
+  Deferred:
+     Federal                                         (77,366)            (88,946)            (5,766)
+     State                                           (16,563)            (27,851)               141
+                                                ------------       -------------       ------------
+ Total income tax expense                       $    429,699       $     298,461       $    720,429
+                                                ============       =============       ============
+ </TABLE>
+
+         A  reconciliation  of expected federal income tax expense (based on the
+         U.S.  corporate  income tax rate of 34  percent)  to actual  income tax
+         expense for the years ended December 31, 2000, 1999 and 1998 follows:
+
+<TABLE>
+                                                         2000               1999               1998
+                                                   --------------      -------------      -------------
+<S>                                                <C>                 <C>                <C>
+  Expected income tax expense                      $      349,388      $     258,372      $     641,865
+  State income taxes, net of related federal
+     tax benefit                                           65,536             29,373             79,579
+  Nondeductible meals, entertainment expense
+     and penalties                                         15,402             10,667              6,479
+  Other                                                      (627)                49             (7,494)
+                                                   --------------      -------------      -------------
+  Actual income tax expense                        $      429,699      $     298,461      $     720,429
+                                                   ==============      =============      =============
+</TABLE>
+
+                                      F-12
+<PAGE>
+         The tax effects of temporary  differences that give rise to significant
+         portions of the  deferred  tax assets and  liabilities  at December 31,
+         2000 and 1999 follow:
+
+<TABLE>
+                                                             2000               1999
+                                                         -----------        -----------
+<S>                                                      <C>                <C>
+Deferred tax assets:
+     Allowance for doubtful accounts                     $   223,985        $   238,801
+     Inventory reserve                                        73,587             36,637
+     Goodwill, due to differences in amortization
+         periods                                             150,666             16,982
+     Property and equipment, principally due to
+         differences in depreciation                          46,514            127,933
+     Other                                                         -              7,466
+                                                         -----------        -----------
+         Total gross deferred tax assets                     494,752            427,819
+Deferred tax liabilities - prepaid expenses                  (20,402)           (47,398)
+                                                         -----------        -----------
+         Net deferred tax assets                         $   474,350        $   380,421
+                                                         ===========        ===========
+</TABLE>
+
+         Management  has  determined,  based on the  Company's  history of prior
+         operating  earnings  and its  expectations  for the  future,  operating
+         earnings will more likely than not be sufficient to realize the benefit
+         of the deferred tax assets. Accordingly, the Company has not provided a
+         valuation allowance for deferred tax assets in any period presented.
+
+(6)      STOCKHOLDERS' EQUITY
+
+         The Board of Directors has authorized the  acquisition of up to 726,500
+         shares of the  Company's  common  stock.  As of February 28, 2001,  the
+         Company has acquired  726,166 shares and does not intend to acquire any
+         additional shares for the foreseeable future.  Included in these shares
+         is a block of 102,600 shares purchased in March 1999, a block of 51,000
+         shares  purchased in October 1999,  and 22,766 shares  received from an
+         officer of the  Company in January  1999 as payment  for monies owed to
+         the  Company  of  $79,681.  All of these  shares  are held as  treasury
+         shares.
+
+(7)      BENEFIT PLANS
+
+         The Company has a 401(k)  profit  sharing  plan,  under which  eligible
+         employees may request the Company to deduct and contribute a portion of
+         their   compensation  to  the  plan.  The  Company  may  also,  at  its
+         discretion,  match a portion  of  employee  contributions  to the plan.
+         Contributions  by the  Company to the 401(k) plan  aggregated  $46,346,
+         $42,366, and $38,154 during 2000, 1999 and 1998, respectively.
+
+                                      F-13
+<PAGE>
+(8)      FAIR VALUE OF FINANCIAL INSTRUMENTS
+
+         The reported amounts of financial  instruments  such as cash,  accounts
+         receivable,  accounts  payable and accrued  expenses  approximate  fair
+         value  because of their short  maturity.  The  carrying  value of notes
+         payable to bank  approximates fair value because these instruments bear
+         interest at current market rates.
+
+(9)      SEGMENT INFORMATION
+
+         Identification   of  operating   segments  is  based  principally  upon
+         differences  in the types and  distribution  channel of  products.  The
+         Company's  reportable  segments  consist of Abatix and IESI. The Abatix
+         operating  segment  includes  seven  aggregated  branches,  principally
+         engaged in distributing environmental, safety and construction supplies
+         to contractors and industrial  manufacturing  facilities in the western
+         half of the United States and the Company's corporate  operations.  The
+         IESI operating  segment,  which consists of the Company's  wholly-owned
+         subsidiary,  International Enviroguard Systems, Inc., is engaged in the
+         wholesale  distribution of disposable  protective clothing to companies
+         similar  to,  and  including,   Abatix.   The  IESI  operating  segment
+         distributes products throughout the United States.
+
+         The accounting policies of the operating segments are the same as those
+         described in Note 1 of the Notes to Consolidated  Financial Statements.
+         The Company  evaluates the performance of its operating  segments based
+         on earnings  before income taxes and accounting  changes,  and after an
+         allocation of corporate expenses. Intersegment sales are at agreed upon
+         pricing and intersegment profits are eliminated in consolidation.
+
+                                      F-14
+<PAGE>
+         Summarized  financial  information  concerning the Company's reportable
+         segments  is  shown  in  the  following  table.   There  are  no  other
+         significant noncash items.
+
+<TABLE>
+                                                       Abatix               IESI                 Total
+                                                    -----------          ----------           -----------
+<S>                                                 <C>                  <C>                  <C>
+                    2000
+----------------------------------------------
+Sales from external customer                        $44,145,042          $3,841,549           $47,986,591
+Intersegment sales                                            -             579,733               579,733
+Interest income                                             689                   -                   689
+Interest expense                                        561,826                   -               561,826
+Depreciation and amortization                           514,538               7,350               521,888
+Segment profit                                          661,051             362,239             1,023,290
+Segment assets                                       13,705,980             439,444            14,145,424
+Capital expenditures                                    474,700               1,538               476,238
+
+                    1999
+----------------------------------------------
+Sales from external customers                       $42,146,862          $2,429,318           $44,576,180
+Intersegment sales                                            -             876,734               876,734
+Interest income                                             573                   -                   573
+Interest expense                                        386,856                   -               386,856
+Depreciation and amortization                           461,924               7,108               469,032
+Segment profit                                          478,441             292,862               771,303
+Segment assets                                       15,141,406             712,996            15,854,402
+Capital expenditures                                    439,941               4,701               444,642
+
+                    1998
+----------------------------------------------
+Sales from external customers                       $35,258,053          $2,425,721           $37,683,774
+Intersegment sales                                            -             872,332               872,332
+Interest income                                          15,767                  57                15,824
+Interest expense                                        238,706                   -               238,706
+Depreciation and amortization                           363,089               4,700               367,789
+Segment profit                                        1,585,546             305,333             1,890,879
+Segment assets                                       10,706,982             993,048            11,700,030
+Capital expenditures                                    177,670              14,180               191,850
+</TABLE>
+
+                                      F-15
+<PAGE>
+         Below is a  reconciliation  of (i) total  segment  profit  to  earnings
+         before income taxes on the Consolidated  Statements of Operations,  and
+         (ii) total segment assets to total assets on the  Consolidated  Balance
+         Sheets for all periods  presented.  The sales from  external  customers
+         represent the net sales on the Consolidated Statements of Operations.
+
+<TABLE>
+                                                        2000                 1999                 1998
+                                                  -------------         -------------        ------------
+<S>                                               <C>                   <C>                  <C>
+    Profit for reportable segments                $   1,023,290         $     771,303        $  1,890,879
+    Elimination of intersegment profits                   4,323               (11,384)             (3,041)
+                                                  -------------         -------------        ------------
+    Earnings before income taxes                  $   1,027,613         $     759,919        $  1,887,838
+                                                  =============         =============        ============
+
+    Total assets for reportable segments          $  14,145,424         $  15,854,402        $ 11,700,030
+    Elimination of intersegment  assets                (102,987)             (649,594)         (1,104,525)
+                                                  -------------         -------------        ------------
+    Total assets                                  $  14,042,437         $  15,204,808        $ 10,595,505
+                                                  =============         =============        ============
+</TABLE>
+
+         The  Company's  sales,  substantially  all of which are on an unsecured
+         credit basis, are to various customers from its distribution centers in
+         Texas,  California,   Arizona,   Washington  and  Nevada.  The  Company
+         evaluates  credit risks on an individual  basis before extending credit
+         to its customers  and it believes the  allowance for doubtful  accounts
+         adequately  provides for loss on uncollectible  accounts.  During 2000,
+         1999 and 1998, no single customer accounted for more than 10 percent of
+         net sales,  although sales to asbestos and lead  abatement  contractors
+         were  approximately  33  percent,   40  percent,   and  48  percent  of
+         consolidated  net  sales in  2000,  1999  and  1998,  respectively.   A
+         reduction  in spending on asbestos  or lead  abatement  projects  could
+         significantly impact sales.
+
+         Although no vendor accounted for more than 10 percent of purchases, one
+         product class accounted for approximately 13 percent,  16 percent,  and
+         19 percent of net sales in 2000, 1999 and 1998, respectively.   A major
+         component  of these  products is  petroleum.  Further  increases in oil
+         prices or shortages in supply could significantly  impact sales and the
+         Company's  ability to supply its customers  with certain  products at a
+         reasonable price.
+
+                                      F-16
+<PAGE>
+(10)     COMMITMENTS AND CONTINGENCIES
+
+         The Company  leases  warehouse and office  facilities  under  long-term
+         noncancelable  operating  leases  expiring  at  various  dates  through
+         February  2005.  The  following is a schedule of future  minimum  lease
+         payments under these leases as of December 31, 2000:
+
+         2001       $      985,506
+         2002              801,572
+         2003              600,835
+         2004              546,373
+         2005               41,267
+                    --------------
+                    $    2,975,553
+                    ==============
+
+         Rental expense under operating  leases for the years ended December 31,
+         2000, 1999 and 1998 was $950,199, $776,435 and $589,658, respectively.
+
+         The Company has  employment  agreements  with five key  employees.  The
+         agreements provide for minimum aggregate cash compensation as follows:
+
+         2001        $     563,100
+         2002              459,000
+                     -------------
+                     $   1,022,100
+                     =============
+
+         In January and February 2000, the Company airfreighted  products to two
+         customers,  which contained  chemicals  classified by the Department of
+         Transportation as hazardous material.  During  transportation,  some of
+         these  chemicals  leaked.  On  June  15,  2000,  the  Federal  Aviation
+         Administration  ("FAA")  notified the Company of their findings for the
+         first  incident  which  indicated  the  Company did not comply with the
+         Department  of  Transportation's  Hazardous  Material  Regulations.  In
+         October 2000, the FAA proposed, and the Company accepted, $25,000 civil
+         penalty for the first incident. The settlement amount, less the initial
+         payment  of $7,000,  is  accrued at  December  31,  2000.  The  Company
+         resolved the second incident with the FAA; no damages or penalties were
+         assessed.
+
+                                      F-17
+<PAGE>
+(11)     SELECTED QUARTERLY DATA
+
+<TABLE>
+                                                           Quarter
+                             ---------------------------------------------------------------------
+                                  First            Second            Third            Fourth            Total
+                             ---------------- ----------------- ----------------- ---------------- -----------------
+<S>                          <C>              <C>               <C>               <C>              <C>
+2000
+----------------------------
+Net sales                        $11,361,744       $13,220,965       $12,353,517      $11,050,365       $47,986,591
+Gross profit                       3,169,854         3,566,964         3,332,820        2,912,189        12,981,827
+Operating profit                     232,444           647,973           517,994          188,656         1,587,067
+Net earnings                          52,307           301,903           223,304           20,400           597,914
+Basic and diluted
+   earnings per
+   common share                  $       .03       $       .18       $       .13      $       .01       $       .35
+
+
+
+1999
+----------------------------
+Net sales                        $ 9,959,158       $11,345,680       $11,904,709      $11,366,633       $44,576,180
+Gross profit                       2,815,980         3,159,827         3,323,329        2,918,059        12,217,195
+Operating profit                     259,234           434,286           428,895           11,351         1,133,766
+Net earnings                         115,259           209,733           193,628          (57,162)          461,458
+Basic and diluted
+   earnings per
+   common share                  $       .06       $       .12       $       .11      $      (.03)      $       .26
+
+</TABLE>
+
+                                     F-18
+<PAGE>
+                                   Schedule II
+                          ABATIX CORP. AND SUBSIDIARY
+
+                        Valuation and Qualifying Accounts
+                    Years ended December 31, 2000, 1999 and 1998
+
+<TABLE>
+                                                             Additions
+                                          Balance at         charged to
+                                         beginning of        costs and                                            Balance at
+                                             year             expenses            Other           Deductions      end of year
+                                        ---------------    ---------------    -------------    ---------------    ------------
+<S>                                     <C>                <C>                <C>              <C>                <C>
+Year ended December 31:
+Allowance for Doubtful Accounts:
+
+       2000                             $       616,678             85,247                -            141,962 A  $     559,963
+                                        ===============    ===============    =============    ===============    =============
+
+       1999                             $       514,696            125,370                -             23,388 A  $     616,678
+                                        ===============    ===============    =============    ===============    =============
+
+       1998                             $       495,092            114,515                -             94,911 A  $     514,696
+                                        ===============    ===============    =============    ===============    =============
+
+
+   Inventory Reserve:
+
+       2000                             $       205,222             95,823                -             12,636 C  $     288,409
+                                        ===============    ===============    =============    ===============    =============
+
+       1999                             $        69,321             89,823          109,993 B           63,915 C  $     205,222
+                                        ===============    ===============    =============    ===============    =============
+
+       1998                             $             -             69,321                -                  -    $      69,321
+                                        ===============    ===============    =============    ===============    =============
+
+
+A     Represents the write-off of uncollectible accounts.
+B     Represents the reserve  required to state  inventory  acquired from
+      Keliher at fair value.
+C     Represents the write-off of obsolete inventory.
+</TABLE>
+</TEXT>
+</DOCUMENT>

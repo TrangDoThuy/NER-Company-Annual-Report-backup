@@ -1,0 +1,3372 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>amber10k.txt
+<DESCRIPTION>AMBER RESOURCES COMPANY  10-K (6-30-03)
+<TEXT>
+                               UNITED STATES
+                    SECURITIES AND EXCHANGE COMMISSION
+                          Washington, D.C.   20549
+
+                                 FORM 10-K
+
+
+[x] Annual Report under Section 13 or 15(d) of the Securities Exchange Act of
+    1934 for the fiscal year ended June 30, 2003
+                                     or
+[ ] Transition Report under Section 13 or 15(d) of the Securities Exchange Act
+    of 1934 for the transition period _____________________.
+
+                          Commission File No. 0-8874
+
+                   AMBER RESOURCES COMPANY OF COLORADO
+                   (FORMERLY NAMED AMBER RESOURCES COMPANY)
+            (Exact name of registrant as specified in its charter)
+
+          Delaware                                   84-0750506
+(State or other jurisdiction of          (I.R.S. Employer Identification No.)
+ incorporation or organization)
+
+Suite 1400, 475 Seventeenth Street, Denver, Colorado          80202
+    (Address of principal executive offices)                (Zip Code)
+
+Registrant's telephone number, including area code:  (303) 293-9133
+
+Securities registered pursuant to Section 12(b) of the Exchange Act:  None
+
+Securities registered pursuant to Section 12(g) of the Exchange Act:
+
+Common Stock, $.0625 par value     (Title of Class)
+
+Check whether issuer (1) has filed all reports required to be filed by Section
+13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12
+months (or for such shorter period that the registrant was required to file
+such reports), and (2) has been subject to such filing requirements for the
+past 90 days.  Yes [X]      No [ ]
+
+Check if there is no disclosure of delinquent filers in response to Item 405
+of Regulation S-K contained in this form, and no disclosure will be contained,
+to the best of Registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K.  [X]
+
+Indicate by a check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Act)  [ ]Yes   [X] No
+
+The aggregate market value as of the Company's voting stock held by non-
+affiliates of the Company as of September 26, 2003 could not be determined
+because there is no established public trading market.
+
+As of September 26, 2003, 4,666,185 shares of registrant's Common Stock $.0625
+par value were issued and outstanding.
+
+                The Index to Exhibits appears at Page 36
+
+
+
+<PAGE>
+                             TABLE OF CONTENTS
+
+
+                                   PART I
+
+                                                                         PAGE
+
+
+ITEM 1.   DESCRIPTION OF BUSINESS ....................................     3
+ITEM 2.   DESCRIPTION OF PROPERTIES...................................     7
+ITEM 3.   LEGAL PROCEEDINGS ..........................................    22
+ITEM 4.   SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS ........    23
+
+                                  PART II
+
+ITEM 5.   MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED
+          STOCKHOLDER MATTERS ........................................    23
+ITEM 6.   SELECTED FINANCIAL DATA ....................................       24
+ITEM 7.   MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+          AND RESULTS OF OPERATIONS ..................................    24
+ITEM 7A.  QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK ..    30
+ITEM 8.   FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA ................    30
+ITEM 9.   CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS
+          ON ACCOUNTING AND FINANCIAL DISCLOSURE .....................    30
+ITEM 9A.  CONTROLS AND PROCEDURES.....................................    30
+
+
+                                  PART III
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT .........    31
+ITEM 11.  EXECUTIVE COMPENSATION .....................................    33
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS
+          AND MANAGEMENT .............................................    33
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS .............    34
+ITEM 14.  PRINCIPAL ACCOUNTING FEES AND SERVICES .....................    34
+
+                                   PART IV
+
+ITEM 15.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS
+          ON FORM 8-K ................................................    35
+
+
+
+
+     The terms "Amber," "Company," "we," "our," and "us" refer to Amber
+Resources Company of Colorado and its subsidiaries unless the context suggests
+otherwise.
+
+
+
+
+
+
+
+
+                                    1
+
+<PAGE>
+CAUTIONARY STATEMENT FOR PURPOSES OF THE PRIVATE SECURITIES LITIGATION REFORM
+ACT OF 1995 AND OTHER FEDERAL SECURITIES LAWS
+
+     GENERAL. We are including the following discussion to inform our existing
+and potential security holders generally of some of the risks and
+uncertainties that can affect us and to take advantage of the "safe harbor"
+protection for forward-looking statements afforded under federal securities
+laws.  From time to time, our management or persons acting on our behalf make
+forward-looking statements to inform existing and potential security holders
+about us.  These statements may include projections and estimates concerning
+the timing and success of specific projects and our future (1) income, (2) oil
+and gas production, and (3)capital spending.  Forward-looking statements are
+generally accompanied by words such as "estimate," "project," "predict,"
+"believe," "expect," "anticipate," "plan," "goal" or other words that convey
+the uncertainty of future events or outcomes.  Sometimes we will specifically
+describe a statement as being a forward-looking statement.  In addition,
+except for the historical information contained in this report, the matters
+discussed in this report are forward-looking statements.  These statements by
+their nature are subject to certain risks, uncertainties and assumptions and
+will be influenced by various factors.  Should any of the assumptions
+underlying a forward-looking statement prove incorrect, actual results could
+vary materially.
+
+     We believe the factors discussed below are important factors that could
+cause actual results to differ materially from those expressed in a forward-
+looking statement made herein or elsewhere by us or on our behalf. The factors
+listed below are not necessarily all of the important factors.  Unpredictable
+or unknown factors not discussed herein could also have material adverse
+effects on actual results of matters that are the subject of forward-looking
+statements.  We do not intend to update our description of important factors
+each time a potential important factor arises.  We advise our shareholders
+that they should (1) be aware that important factors not described below could
+affect the accuracy of our forward-looking statements and (2) use caution and
+common sense when analyzing our forward-looking statements in this document or
+elsewhere, and all of such forward-looking statements are qualified by this
+cautionary statement.
+
+     -    Historically, natural gas and crude oil prices have been volatile.
+          These prices rise and fall based on changes in market demand and
+          changes in the political, regulatory and economic climate and
+          other factors that affect commodities markets generally and are
+          outside of our control.
+
+     -    Projecting future rates of oil and gas production is inherently
+          imprecise.  Producing oil and gas reservoirs generally have
+          declining production rates.
+
+     -    Changes in the legal, political and/or regulatory environment
+          could have a material adverse effect on our future results of
+          operations and financial condition.  Our ability to economically
+          produce and sell any future oil and gas production may be affected
+          and could possibly be restrained by a number of legal, political
+          and regulatory factors, particularly with respect to our offshore
+          California properties which are the subject of significant
+          political controversy due to environmental concerns.
+
+     -    Our drilling operations are subject to various risks common in the
+          industry, including cratering, explosions, fires and
+          uncontrollable flows of oil, gas or well fluids.
+
+                                    2
+
+<PAGE>
+                                 PART I
+
+ITEM 1.  DESCRIPTION OF BUSINESS
+
+     (a)  Business Development
+
+     Amber Resources Company of Colorado, formerly named "Amber Resources
+Company" ("Amber," "we" or "us") is engaged in the exploration, development
+and production of oil and gas properties.  Our business is conducted onshore
+in the continental United States and in the U.S. coastal waters offshore
+California.  As of June 30, 2003, our principal assets include interests in
+three undeveloped Federal units located in the Santa Barbara Channel and the
+Santa Maria Basin offshore California. On July 1, 2001 we sold all of our
+proved producing properties for $107,045 to Delta Petroleum Corporation
+("Delta").  The sale price was calculated at the properties' net present value
+discounted at 10% (PV10%)as determined by third party, independent engineers.
+There continue to be uncertainties as to the timing of the development of our
+offshore properties.  (See "Description of Properties," Item 2 herein.)
+
+     In June 2003, we applied for and received a reinstatement of our charter
+with the State of Delaware which had been voided.  In connection with our
+reinstatement, we were required to change our name to "Amber Resources Company
+of Colorado."  This was due to the fact that our prior name was taken by
+another company during the period our charter was void.
+
+     We were established as a Delaware corporation on January 17, 1978.  Our
+offices are located at Suite 1400, 475 17th Street, Denver, Colorado 80202.
+As of June 30, 2003, Delta owned 4,277,977 shares (91.68%) of our outstanding
+common stock.  We are managed by Delta under a management agreement effective
+October 1, 1998 which provides for the sharing of the management between the
+two companies and allocation of related expenses.
+
+     At June 30, 2003, we had an authorized capital of 5,000,000 shares of
+$0.10 par value preferred stock of which no shares were issued and 25,000,000
+shares of $0.0625 common stock of which 4,666,185 shares were issued and
+outstanding.
+
+     (b)  Business of Issuer.
+
+     During the year ended June 30, 2003, we were engaged in only one
+industry, namely the acquisition, exploration and development of offshore oil
+and gas properties and related business activities.  Our oil and gas
+operations now are comprised solely of the development of our offshore
+interests in undeveloped offshore Federal leases and units near Santa Barbara,
+California.  We have no production and no proved reserves.
+
+     (1)     Principal Products or Services and Their Markets.  Although we do
+not currently have any production, we anticipate that the principal products
+to be produced by us will be crude oil and natural gas.  It is anticipated
+that these products will be generally sold at the wellhead to purchasers in
+the immediate area where the product would be produced.  The principal markets
+for oil and gas are refineries and transmission companies which have
+facilities near our producing properties.
+
+
+                                    3
+
+<PAGE>
+     (2)     Distribution Methods of the Products or Services.  We do not
+currently have any oil or gas production.  Generally, when a company does have
+production, oil is picked up and transported by the purchaser from the
+wellhead.  In some instances a fee is charged for the cost of transporting the
+oil, which fee is deducted from or accounted for in the price paid for the
+oil.  Natural gas wells are connected to pipelines generally owned by the
+natural gas purchasers.  A variety of pipeline transportation charges are
+usually included in the calculation of the price paid for the natural gas.
+
+     (3)     Status of Any Publicly Announced New Product or Service.  We have
+not made a public announcement of, and no information has otherwise become
+public about, a new product or industry segment requiring the investment of a
+material amount of our total assets.
+
+     (4)     Competitive Business Conditions.  Oil and gas exploration and
+development of undeveloped properties is a highly competitive and speculative
+business.  We compete with a number of other companies, including major oil
+companies and other independent operators which are more experienced and which
+have greater financial resources.  We do not hold a significant competitive
+position in the oil and gas industry.
+
+     (5)     Sources and Availability of Raw Materials and Names of Principal
+Suppliers.  Oil and gas may be considered raw materials essential to our
+business.  The acquisition, exploration, development, production, and sale of
+oil and gas are subject to many factors which are outside of our control.
+These factors include national and international economic conditions,
+availability of drilling rigs, casing, pipe, and other equipment and supplies,
+proximity to pipelines, the supply and price of other fuels, and the
+regulation of prices, production, transportation, and marketing by the
+Department of Energy and other federal and state governmental authorities.
+
+     (6)     Dependence on One or a Few Major Customers.  The loss of any
+customer would not have a material adverse effect on our business because of
+the availability of alternative customers and the marketability of the oil and
+gas in the regions where our undeveloped properties are located.  We currently
+do not have any oil or gas production and consequently we do not currently
+have any customers.
+
+     (7)     Patents, Trademarks, Licenses, Franchises, Concessions, Royalty
+Agreements and Labor Contracts.  We do not own any patents, trademarks,
+licenses, franchises, concessions, or royalty agreements except oil and gas
+interests acquired from industry participants, private landowners and state
+and federal governments.  We are not a party to any labor contracts.
+
+     (8)     Need for Any Governmental Approval of Principal Products or
+Services.  Except that we must obtain certain permits and other approvals from
+various governmental agencies prior to drilling wells and producing oil and/or
+natural gas, we do not need to obtain governmental approval of our principal
+products or services.  Governmental approval, however, has been a major
+impediment to the development of our undeveloped properties.
+
+
+
+
+                                    4
+
+     (9)     Government Regulation of the Oil and Gas Industry.
+
+     General
+     -------
+
+     Our business is affected by numerous governmental laws and regulations,
+including energy, environmental, conservation, tax and other laws and
+regulations relating to the energy industry.  Changes in any of these laws and
+regulations could have a material adverse effect on our business.  In view of
+the many uncertainties with respect to current and future laws and
+regulations, including their applicability to us, we cannot predict the
+overall effect of such laws and regulations on our future operations.
+
+      The following discussion contains summaries of certain laws and
+regulations and is qualified in its entirety by the foregoing.
+
+     Environmental Regulation
+     ------------------------
+
+     Together with other companies in the industries in which we participate,
+we are subject to numerous federal, state, and local environmental laws and
+regulations concerning our oil and gas operations, products and other
+activities.  In particular, these laws and regulations require the acquisition
+of permits, restrict the type, quantities, and concentration of various
+substances that can be released into the environment, limit or prohibit
+activities on certain lands lying within wilderness, wetlands and other
+protected areas, regulate the generation, handling, storage, transportation,
+disposal and treatment of waste materials and impose criminal or civil
+liabilities for pollution resulting from oil, natural gas and petrochemical
+operations.
+
+     Governmental approvals and permits are currently, and may in the future
+be, required in connection with our operations. The duration and success of
+obtaining such approvals are contingent upon a significant number of
+variables, many of which are not within our control.  To the extent such
+approvals are required and not obtained, operations may be delayed or
+curtailed, or we may be prohibited from proceeding with planned exploration or
+development.
+
+     Environmental laws and regulations are expected to have an increasing
+impact on our operations, although it is impossible to predict accurately the
+effect of future developments in such laws and regulations on our future
+earnings and operations.  Some risk of environmental costs and liabilities is
+inherent in our operations and products, as it is with other companies engaged
+in similar businesses, and there can be no assurance that material costs and
+liabilities will not be incurred.  However, we do not currently expect any
+material adverse effect upon our results of operations or financial position
+as a result of compliance with such laws and regulations.
+
+     Although future environmental obligations are not expected to have a
+material adverse effect on our results of operations or financial condition,
+there can be no assurance that future developments, such as increasingly
+stringent environmental laws or enforcement thereof, will not cause us to
+incur substantial environmental liabilities or costs.
+
+
+                                    5
+
+     Hazardous Substances and Waste Disposal
+     ---------------------------------------
+
+     We do not currently own or lease any interests in any producing
+properties.  It is possible, however, that we might acquire interests in
+producing properties or that some of our non-producing properties may become
+productive in the future.  The U.S. Comprehensive Environmental Response,
+Compensation and Liability Act ("CERCLA") and comparable state statutes impose
+strict, joint and several liability on owners and operators of sites and on
+persons who disposed of or arranged for the disposal of "hazardous substances"
+found at sites where hydrocarbons or other waste is found to have been
+disposed of or released on or under their properties.  The Resource
+Conservation and Recovery Act ("RCRA") and comparable state statutes govern
+the management and disposal of wastes.  Although CERCLA currently excludes
+petroleum from cleanup liability, many state laws affecting our operations
+impose clean-up liability regarding petroleum and petroleum related products.
+
+     In addition, although RCRA currently classifies certain exploration and
+production wastes as "non-hazardous," such wastes could be reclassified as
+hazardous wastes thereby making such wastes subject to more stringent handling
+and disposal requirements.  If such a change in legislation were to be
+enacted, it could have a significant impact on our operating costs, as well as
+the gas and oil industry in general.
+
+     Oil Spills
+     ----------
+
+     Under the Federal Oil Pollution Act of 1990, as amended ("OPA"), (i)
+owners and operators of onshore facilities and pipelines, (ii) lessees or
+permittees of an area in which an offshore facility is located and (iii)
+owners and operators of tank vessels ("Responsible Parties") are strictly
+liable on a joint and several basis for removal costs and damages that result
+from a discharge of oil into the navigable waters of the United States.  These
+damages include, for example, natural resource damages, real and personal
+property damages and economic losses.  OPA limits the strict liability of
+Responsible Parties for removal costs and damages that result from a discharge
+of oil to $350 million in the case of onshore facilities, $75 million plus
+removal costs in the case of offshore facilities, and in the case of tank
+vessels, an amount based on gross tonnage of the vessel. However, these limits
+do not apply if the discharge was caused by gross negligence or willful
+misconduct, or by the violation of an applicable Federal safety, construction
+or operating regulation by the Responsible Party, its agent or subcontractor
+or in certain other circumstances.
+
+     In addition, with respect to certain offshore facilities, OPA requires
+evidence of financial responsibility in an amount of up to $150 million.  Tank
+vessels must provide such evidence in an amount based on the gross tonnage of
+the vessel.  Failure to comply with these requirements or failure to cooperate
+during a spill event may subject a Responsible Party to civil or criminal
+enforcement actions and penalties.
+
+     The operators of our undeveloped offshore California properties will be
+primarily liable for oil spills and are required by the Minerals Management
+Service of the United States Department of the Interior ("MMS") to carry
+
+
+                                    6
+
+<PAGE>
+certain types of insurance and to post bonds in that regard.  We are generally
+liable for oil spills as a non-operating working interest owner.
+
+     Offshore Production
+     -------------------
+
+     Offshore oil and gas operations in U.S. waters are subject to regulations
+of the United States Department of the Interior which currently impose strict
+liability upon the lessee under a Federal lease for the cost of clean-up of
+pollution resulting from the lessee's operations, and such lessee could be
+subject to possible liability for pollution damages.  In the event of a
+serious incident of pollution, the Department of the Interior may require a
+lessee under Federal leases to suspend or cease operations in the affected
+areas.  Our leases are undeveloped and currently pose no liability for
+pollution damages.
+
+     (10)     Research and Development.  We do not engage in any research and
+development activities.  Since our inception, we have not had any customer or
+government-sponsored material research activities relating to the development
+of any new products, services or techniques, or the improvement of existing
+products.
+
+     (11)     Environmental Protection.  Because we are engaged in the
+business of acquiring, operating, exploring for and developing natural
+resources, we are subject to various state and local provisions regarding
+environmental and ecological matters.  Therefore, compliance with
+environmental laws may necessitate significant capital outlays, may materially
+affect our earnings potential, and could cause material changes in our
+proposed business.  At the present time, however, these laws do not materially
+hinder nor adversely affect our business.  Capital expenditures relating to
+environmental control facilities have not been material to our operation
+since our inception.  In addition, we do not anticipate that such expenditures
+will be material during the fiscal year ending June 30, 2004.
+
+     (12)     Employees.  We have no full time employees.
+
+ITEM 2.  DESCRIPTION OF PROPERTIES
+
+     (a)  Office Facilities
+
+     We share offices with Delta under a management agreement with Delta.
+Under this agreement, we pay Delta a quarterly management fee of $25,000 for
+our share of rent, secretarial and administrative, accounting and management
+services of Delta's officers and employees.
+
+     (b)  Oil and Gas Properties
+
+     We own interests in undeveloped offshore Federal leases and units located
+near Santa Barbara, California.  We sold all of our onshore producing
+properties to Delta on July 1, 2001.  As such, no oil and gas revenues were
+recorded during fiscal 2003.  No reserves estimates were prepared for the past
+two years as all remaining leases are undeveloped.
+
+
+
+                                    7
+
+<PAGE>
+     Offshore Federal Waters: Santa Barbara, California Area
+     -------------------------------------------------------
+
+     Unproved Undeveloped Properties
+     -------------------------------
+
+     We own interests in three undeveloped federal units located in federal
+waters offshore California near Santa Barbara.
+
+       The Santa Barbara Channel and the offshore Santa Maria Basin are the
+seaward portions of geologically well-known onshore basins with over 90 years
+of production history.  These offshore areas were first explored in the Santa
+Barbara Channel along the near shore three mile strip controlled by the state.
+New field discoveries in Pliocene and Miocene age reservoir sands led to
+exploration into the federally controlled waters of the Pacific Outer
+Continental Shelf ("POCS"). Although significant quantities of oil and gas
+have been produced and sold from drilling conducted on POCS leases between
+1966 and 1989, we do not, however, own any interest in any offshore California
+production and there is no assurance that any of our undeveloped properties
+will ever achieve production.
+
+     Most of the early offshore production was from Pliocene age sandstone
+reservoirs.  The more recent developments are from the highly fractured zones
+of the Miocene age Monterey Formation.  The Monterey is productive in both the
+Santa Barbara Channel and the offshore Santa Maria Basin.  It is the principal
+producing horizon in the Point Arguello field, the Point Pedernales field, and
+the Hondo and Pescado fields in the Santa Ynez Unit.  Because the Monterey is
+capable of relatively high productive rates, the Hondo field, which has been
+on production since late 1981, has already surpassed 224 million Bbls of oil
+production and 411 Bcf of gas production.  All told, offshore fields producing
+from the Monterey as of the end of calendar 2000 have produced 526 million
+Bbls of oil and 544 Bcf of gas.
+
+     California's active tectonic history over the last few million years has
+formed the large linear anticlinal features which trap the oil and gas.
+Marine seismic surveys have been used to locate and define these structures
+offshore.
+
+     Recent seismic surveying utilizing modern 3-D seismic technology, coupled
+with exploratory well data, has greatly improved knowledge of the size of
+reserves in fields under development and in fields for which development is
+planned.  Currently, 11 fields are producing from 18 platforms in the Santa
+Barbara Channel and offshore Santa Maria Basin.   Implementation of extended
+high-angle to horizontal drilling methods is reducing the number of platforms
+and wells needed to develop reserves in the area.  Use of these new drilling
+methods and seismic technologies is expected to continue to improve
+development economics.
+
+     Leasing, lease administration, development and production within the
+Federal POCS all fall under the Code of Federal Regulations administered by
+the MMS.  The EPA controls disposal of effluents, such as drilling fluids and
+produced waters.  Other Federal agencies, including the Coast Guard and the
+Army Corps of Engineers, also have oversight on offshore construction and
+operations.
+
+
+                                    8
+
+<PAGE>
+     The first three miles seaward of the coastline are administered by each
+state and are known as "State Tidelands" in California.  Within the State
+Tidelands off Santa Barbara County, the State of California, through the State
+Lands Commission, regulates oil and gas leases and the installation of
+permanent and temporary producing facilities.  Because the three units in
+which we own interests are located in the POCS seaward of the three mile
+limit, leasing, drilling, and development of these units are not directly
+regulated by the State of California.  However, to the extent that any
+production is transported to an on-shore facility through the state waters,
+our pipelines (or other transportation facilities) would be subject to
+California state regulations.  Construction and operation of any such
+pipelines would require permits from the state.  Additionally, all development
+plans must be consistent with the Federal Coastal Zone Management Act
+("CZMA").  In California the decision of CZMA consistency is made by the
+California Coastal Commission.
+
+     The Santa Barbara County Energy Division and the Board of Supervisors
+will have a significant impact on the method and timing of any offshore field
+development through its permitting and regulatory authority over the
+construction and operation of on-shore facilities.  In addition, the Santa
+Barbara County Air Pollution Control District has authority in the federal
+waters off Santa Barbara County through the Federal Clean Air Act as amended
+in 1990.
+
+     Each working interest owner will be required to pay its proportionate
+share of these costs based upon the amount of the interest that it owns.  The
+size of our working interest in these units varies from .87% to 6.97%.  We may
+be required to farm out all or a portion of our interests in these properties
+to a third party if we cannot fund our share of the development costs.  There
+can be no assurance that we can farm out our interests on acceptable terms.
+
+     These units have been formally approved and are regulated by the MMS.
+While the Federal Government has recently attempted to expedite the process of
+obtaining permits and authorizations necessary to develop the properties,
+there can be no assurance that it will be successful in doing so.
+
+     We do not act as operator of any offshore California properties and
+consequently will not generally control the timing of either the development
+of the properties or the expenditures for development unless we choose to
+unilaterally propose the drilling of wells under the relevant operating
+agreements.
+
+     The MMS initiated the California Offshore Oil and Gas Energy Resources
+(COOGER) Study at the request of the local regulatory agencies of the three
+counties (Ventura, Santa Barbara and San Luis Obispo) affected by offshore oil
+and gas development.  A private consulting firm completed the study under a
+contract with the MMS.  The COOGER Study presents a long-term regional
+perspective of potential onshore constraints that should be considered when
+developing existing undeveloped offshore leases.  The COOGER Study projects
+the economically recoverable oil and gas production from offshore leases which
+have not yet been developed.  These projections are utilized to assist in
+identifying a potential range of scenarios for developing these leases.  These
+scenarios are compared to the projected infrastructural, environmental and
+socioeconomic baselines between 1995 and 2015.
+
+
+                                    9
+
+<PAGE>
+     No specific decisions regarding levels of offshore oil and gas
+development or individual projects will occur in connection with the COOGER
+Study.  Information presented in the study is intended to be utilized as a
+reference document to provide the public, decision makers and industry with a
+broad overview of cumulative industry activities and key issues associated
+with a range of development scenarios.  We have attempted to evaluate the
+scenarios that were studied with respect to properties located in the eastern
+and central subregions (which include the Sword Unit and the Gato Canyon Unit)
+and the results of such evaluation are set forth below:
+
+          Scenario 1     No new development of existing offshore leases.  If
+          this scenario were ultimately to be adopted by governmental
+          decision makers as the proper course of action for development,
+          our offshore California properties would in all likelihood have
+          little or no value.  In this scenario we would seek to cause the
+          Federal government to reimburse us for all money spent by us and
+          our predecessors for leasing and other costs and for the value of
+          the oil and gas reserves found on the leases through our
+          exploration activities and those of our predecessors.
+
+
+          Scenario 2     Development of existing leases, using existing
+          onshore facilities as currently permitted, constructed and
+          operated (whichever is less) without additional capacity.  This
+          scenario includes modifications to allow processing and
+          transportation of oil and natural gas with different qualities.
+          It is likely that the adoption of this scenario by the industry as
+          the proper course of action for development would result in lower
+          than anticipated costs, but would cause the subject properties to
+          be developed over a significantly extended period of time.
+
+          Scenario 3     Development of existing leases, using existing
+          onshore facilities by constructing additional capacity at existing
+          sites to handle expanded production.  This scenario is currently
+          anticipated by our management to be the most reasonable course of
+          action although there is no assurance that this scenario will be
+          adopted.
+
+          Scenario 4     Development of existing leases after
+          decommissioning and removal of some or all existing onshore
+          facilities.  This scenario includes new facilities, and perhaps
+          new sites, to handle anticipated future production. Under this
+          scenario we would incur increased costs but revenues would be
+          received more quickly.
+
+     We have also evaluated our position with regard to the scenarios with
+respect to properties located in the northern sub-region (which includes the
+Lion Rock Unit), the results of which are as follows:
+
+
+
+
+
+
+
+                                    10
+
+<PAGE>
+          Scenario 1     No new development of existing offshore leases.  If
+          this scenario were ultimately to be adopted by governmental
+          decision-makers as the proper course of action for development,
+          our offshore California properties would in all likelihood have
+          little or no value.  In this scenario we would seek to cause the
+          Federal government to reimburse us for all money spent by us and
+          our predecessors for leasing and other costs and for the value of
+          the oil and gas reserves found on the leases through our
+          exploration activities and those of our predecessors.
+
+          Scenario 2     Development of existing leases, using existing
+          onshore facilities as currently permitted, constructed and
+          operated (whichever is less) without additional capacity.  This
+          scenario includes modifications to allow processing and
+          transportation of oil and natural gas with different qualities.
+          It is likely that the adoption of this scenario by the industry as
+          the proper course of action for development would result in lower
+          than anticipated costs, but would cause the subject properties to
+          be developed over a significantly extended period of time.
+
+          Scenario 3     Development of existing leases, using existing
+          onshore facilities by constructing additional capacity at existing
+          sites to handle expanded production.  This scenario that is
+          currently anticipated by our management to be the most reasonable
+          course of action although there is no assurance that this scenario
+          will be adopted.
+
+            Scenario 4     Development of existing offshore leases, using
+            existing onshore facilities with additional capacity or adding new
+            facilities to handle a relatively low rate of expanded
+            development.  This scenario is similar to #3 above but would
+            entail increased costs for any new facilities.
+
+          Scenario 5     Development of existing offshore leases, using
+          existing onshore facilities with additional capacity or adding new
+          facilities to handle a relatively higher rate of expanded
+          development.  Under this scenario we would incur increased costs
+          but revenues would be received more quickly.
+
+     The development plans for the various units (which have been submitted to
+the MMS for review) currently provide for 22 wells from one platform set in a
+water depth of approximately 300 feet for the Gato Canyon Unit; 63 wells from
+one platform set in a water depth of approximately 1,100 feet for the Sword
+Unit; and 183 wells from two platforms for the Lion Rock Unit (in which we own
+only a 1% net profits interest and do not own any working interest).
+
+     On the Lion Rock Unit, Platform A would be set in a water depth of
+approximately 507 feet, and Platform B would be set in a water depth of
+approximately 484 feet.  The reach of the deviated wells from each platform
+required to drain each unit falls within the reach limits now considered to be
+"state-of-the-art."  The development plans for the Rocky Point Unit provide
+for the inclusion of the Rocky Point leases in the Point Arguello Unit upon
+which the Rocky Point leases would be drilled from existing Point Arguello
+platforms with extended reach drilling technology.  The approximate distances
+
+
+                                    11
+
+<PAGE>
+required to drain the Rocky Point leases range from 2,276 feet to 13,999 feet
+at proposed total vertical depths ranging from 6,620 feet to 7,360 feet.
+
+     Current Status.  On October 15, 1992 the MMS directed a Suspension of
+Operations (SOO), effective January 1, 1993, for the POCS undeveloped leases
+and units.  The SOO was directed for the purpose of preparing what became
+known as the COOGER Study.  Two-thirds of the cost of the Study was funded by
+the participating companies in lieu of the payment of rentals on the leases.
+Additionally, all operations were suspended on the leases during this period.
+On November 12, 1999, as the COOGER Study drew to a conclusion, the MMS
+approved requests made by the operating companies for a Suspension of
+Production (SOP) status for the POCS leases and units.  During the period of a
+SOP, the lease rentals resume and each operator is generally required to
+perform exploration and development activities in order to meet certain
+milestones set out by the MMS.  The milestones that were established by the
+MMS for the properties in which we own an interest were established through
+negotiations by the MMS on behalf of the United States government and the
+operators on behalf of the working interest owners.  We did not directly
+participate in these negotiations.  Until recently, progress toward the
+milestones was monitored by the operator in quarterly reports submitted to the
+MMS.  In February 2000 all operators completed and timely submitted to the MMS
+a preliminary "Description of the Proposed Project".  This was the first
+milestone required under the SOP.  Quarterly reports were also prepared and
+submitted for all the subsequent quarters.
+
+     On June 22, 2001, however, a Federal Court in the case of California v.
+Norton, et al (discussed below) ordered the MMS to set aside its approval of
+the suspensions of our offshore leases and to direct suspensions, including
+all milestone activities, for a time sufficient for the MMS to provide the
+State of California with a consistency determination under federal law.  As a
+result of this order, on July 2, 2001 the MMS directed suspensions of
+operations for all of our offshore California leases for an indefinite period
+of time and suspended all of the related milestones.  The ultimate outcome and
+effects of this litigation are not certain at the present time.  To continue
+to carry out the requirements of the MMS, all operators of the units in which
+we own non-operating interests are prepared to meet the next milestone leading
+to development of the leases, but the status of the milestones is presently
+uncertain in light of the Norton ruling.  The United States government has
+filed a notice of its intent to appeal the court's order in the Norton case.
+
+     On January 9, 2002, we and several other plaintiffs filed a lawsuit in
+the United States Court of Federal Claims in Washington, D.C. alleging that
+the U.S. Government has materially breached the terms of forty undeveloped
+federal leases, some of which are part of our Offshore California properties.
+The Complaint is based on allegations by the collective plaintiffs that the
+United States has materially breached the terms of certain of their Offshore
+California leases by attempting to deviate significantly from the procedures
+and standards that were in effect when the leases were entered into, and by
+failing to carry out its own obligations relating to those leases in a timely
+and fair manner.  More specifically, the plaintiffs have alleged that the
+judicial determination in the California v. Norton case that a 1990 amendment
+to the Coastal Zone Management Act required the Government to make a
+consistency determination prior to granting lease suspension requests in 1999
+constitutes a material change in the procedures and standards that were in
+effect when the leases were issued.  The plaintiffs have also alleged that the
+
+                                    12
+
+<PAGE>
+United States has failed to afford them the timely and fair review of their
+lease suspension requests which has resulted in significant, continuing and
+material delays to their exploratory and development operations.
+
+     The forty undeveloped leases are located in the Offshore Santa Maria
+Basin off the coast of Santa Barbara and San Luis Obispo counties, and in the
+Santa Barbara Channel off Santa Barbara and Ventura counties.  None of these
+leases is currently impaired, but in the event that there is some future
+adverse ruling by the California Coastal Commission under the Coastal Zone
+Management Act and we decide not to appeal such ruling to the Secretary of
+Commerce, or the Secretary of Commerce either refuses to hear our appeal of
+any such ruling or ultimately makes a determination adverse to us, it is
+likely that some or all of these leases would become impaired and written off
+at that time.
+
+     In addition, it should be noted that our pending litigation against the
+United States is predicated on the ruling of the lower court in California v.
+Norton.  The United States has appealed the decision of the lower court to the
+9th Circuit Court of Appeals.  In the event that the United States is not
+successful in its appeal(s) of the lower court's decision in the Norton case
+and the pending litigation with us is not settled, it would be necessary for
+us to reevaluate whether the leases should be considered impaired at that
+time.
+
+     As the ruling in the Norton case currently stands, the United States has
+been ordered to make a consistency determination under the Coastal Zone
+Management Act, but the leases are still valid.  If through the appellate
+process the leases are found not to be valid for some reason, or if the United
+States is finally ordered to make a consistency determination and either does
+not do so or finds that development is inconsistent with the Coastal Zone
+Management Act, it would appear that the leases would become impaired even
+though we would undoubtedly proceed with our litigation.  It is also possible
+that other events could occur during the appellate process that would cause
+the leases to become impaired, and we will continuously evaluate those factors
+as they occur.
+
+     The suit seeks compensation for the lease bonuses and rentals paid to the
+Federal Government, exploration costs and related expenses.  The total amount
+claimed by all lessees for bonuses and rentals exceeds $1.2 billion, with
+additional amounts for exploration costs and related expenses. In addition,
+our claim for exploration costs and related expenses will also be substantial.
+In the event, however, that we receive any proceeds as the result of such
+litigation, we will be obligated to pay a portion of any amount received by us
+to landowners and other owners of royalties and similar interests, and to pay
+expenses of litigation and to fulfill certain pre-existing contractual
+commitments to third parties.
+
+     On May 18, 2001 (prior to the Norton decision), a revised Development and
+Production Plan for the Point Arguello Unit was submitted to the MMS and the
+California Coastal Commission ("CCC") for approval.  If approved by the CCC,
+this plan would enable development of the Rocky Point Unit from the Point
+Arguello platforms that are already in existence.
+
+     Under law, the CCC is typically required to make a determination as to
+whether or not the Plan is "consistent" with California's Coastal Plan within
+
+
+                                    13
+
+<PAGE>
+three months of submission, with a maximum of three months' extension (a total
+of six months).  By correspondence dated August 7, 2001, however, the Unit
+operator requested that the CCC suspend the consistency review for the revised
+Development and Production Plan since the MMS had temporarily stopped work on
+the processing of the plan as the result of the Norton decision.
+
+     Although it currently appears likely that the CCC may require some
+additional supplemental information to be provided with respect to some
+aspects of air and water quality when its review continues, we believe that
+the Rocky Point Development and Production Plan that was submitted meets the
+requirements established by applicable federal regulations.  In accordance
+with these regulations, the Plan includes very specific information regarding
+the planned activities, including a description of and schedule for the
+development and production activities to be performed, including plan
+commencement date, date of first production, total time to complete all
+development and production activities, and dates and sequences for drilling
+wells and installing facilities and equipment, and a description of the
+drilling vessels, platforms, pipelines and other facilities and operations
+located offshore which are proposed or known by the lessee (whether or not
+owned or operated by the lessee) to be directly related to the proposed
+development, including the location, size, design, and important safety,
+pollution prevention, and environmental monitoring features of the facilities
+and operations.  The current Development and Production Plan calls for
+drilling activities to be conducted from the existing Point Arguello platforms
+using extended reach drilling techniques with oil and gas production to be
+transported through existing pipelines to existing onshore production
+facilities.  The plan does not require the construction of new platforms,
+pipelines or production facilities.
+
+     In accordance with applicable federal regulations, the following
+supporting information accompanies the Development and Production Plan: (1)
+geological and geophysical data and information, including: (i) a plat showing
+the surface location of any proposed fixed structure or well; (ii) a plat
+showing the surface and bottomhole locations and giving the measured and true
+vertical depths for each proposed well; (iii) current interpretations of
+relevant geological and geophysical data; (iv) current structure maps showing
+the surface and bottomhole location of each proposed well and the depths of
+expected productive formations; (v) interpreted structure sections showing the
+depths of expected productive formations; (vi) a bathymetric map showing
+surface locations of fixed structures and wells or a table of water depths at
+each proposed site; and (vii) a discussion of seafloor conditions including a
+shallow hazards analysis for proposed drilling and platform sites and pipeline
+routes.
+
+     As required by federal regulations, the information contained in the Plan
+contains proposed precautionary measures, including a classification of the
+lease area, a contingency plan, a description of the environmental safeguards
+to be implemented, including an updated oil-spill response plan; and a
+discussion of the steps that have been or will be taken to satisfy the
+conditions of lease stipulations, a description of technology and reservoir
+engineering practices intended to increase the ultimate recovery of oil and
+gas, i.e., secondary, tertiary, or other enhanced recovery practices; a
+description of technology and recovery practices and procedures intended to
+assure optimum recovery of oil and gas; a discussion of the proposed drilling
+and completion programs; a detailed description of new or unusual technology
+
+
+                                    14
+
+<PAGE>
+to be employed; and a brief description of the location, description, and size
+of any offshore and land-based operations to be conducted or contracted for as
+a result of the proposed activity; including the acreage required in
+California for facilities, rights-of-way, and easements, the means proposed
+for transportation of oil and gas to shore; the routes to be followed by each
+mode of transportation; and the estimated quantities of oil and gas to be
+moved along such routes; an estimate of the frequency of boat and aircraft
+departures and arrivals, the onshore location of terminals, and the normal
+routes for each mode of transportation.
+
+     As required, the Plan also provides a list of the proposed drilling
+fluids, including components and their chemical compositions, information on
+the projected amounts and rates of drilling fluid and cuttings discharges, and
+methods of disposal, and specifies the quantities, types, and plans for
+disposal of other solid and liquid wastes and pollutants likely to be
+generated by offshore, onshore, and transport operations and, regarding any
+wastes which may require onshore disposal, the means of transportation to be
+used to bring the wastes to shore, disposal methods to be utilized, and the
+location of onshore waste disposal or treatment facilities.
+
+     To comply with federal regulations, the Plan also addresses the
+approximate number of people and families to be added to the population of
+local nearshore areas as a result of the planned development, provides an
+estimate of significant quantities of energy and resources to be used or
+consumed including electricity, water, oil and gas, diesel fuel, aggregate, or
+other supplies which may be purchased within California, and specifies the
+types of contractors or vendors which will be needed, although not
+specifically identified, and which may place a demand on local goods and
+services.
+
+     The Plan also identifies the source, composition, frequency, and duration
+of emissions of air pollutants and provides a narrative description of the
+existing environment with an emphasis placed on those environmental values
+that may be affected by the proposed action.  This section of the Plan
+contains a description of the physical environment of the area covered by the
+Plan and includes data and information obtained or developed by the lessee
+together with other pertinent information and data available to the lessee
+from other sources.  The environmental information and data includes a
+description of the aquatic biota, including fishery and marine mammal use of
+the lease, the significance of the lease and identifies the threatened and
+endangered species and their critical habitat.
+
+     The Plan also addresses environmentally sensitive areas (e.g., refuges,
+preserves, sanctuaries, rookeries, calving grounds, coastal habitats, beaches,
+and areas of particular environmental concern) which may be affected by the
+proposed activities, the pre-development, ambient water-column quality and
+temperature data for incremental depths for the areas encompassed by the plan,
+the physical oceanography, including ocean currents described as to prevailing
+direction, seasonal variations, and variations at different water depths in
+the lease, and describes historic weather patterns and other meteorological
+conditions, including storm frequency and magnitude, wave height and
+direction, wind direction and velocity, air temperature, visibility, freezing
+and icing conditions, and ambient air quality listing, where possible, the
+means and extremes of each.
+
+
+                                    15
+
+<PAGE>
+     The Plan further identifies other uses of the area, including military
+use for national security or defense, subsistence hunting and fishing,
+commercial fishing, recreation, shipping, and other mineral exploration or
+development and describes the existing and planned monitoring systems that are
+measuring or will measure impacts of activities on the environment in the
+planning area.   As required, the Plan provides an assessment of the effects
+on the environment expected to occur as a result of implementation of the
+Plan, and identifies specific and cumulative impacts that may occur both
+onshore and offshore, and describes the measures proposed to mitigate these
+impacts.  These impacts are quantified to the fullest extent possible
+including magnitude and duration and are accumulated for all activities for
+each of the major elements of the environment (e.g., water and biota).  The
+Plan also provides a discussion of alternatives to the activities proposed
+that were considered during the development of the Plan, including a
+comparison of the environmental effects.
+
+     As required, the Plan provides certain supporting information with
+respect to the projected emissions from each proposed or modified facility for
+each year of operation and the bases for all calculations, including, for each
+source, the amount of the emission by air pollutant expressed in tons per year
+and frequency and duration of emissions; for each proposed facility, the total
+amount of emissions by air pollutant expressed in tons per year, the frequency
+distribution of total emissions by air pollutant expressed in pounds per day
+and, in addition for a modified facility only, the incremental amount of total
+emissions by air pollutant resulting from the new or modified source(s); and a
+detailed description of all processes, processing equipment and storage units,
+including information on fuels to be burned; and a schematic drawing which
+identifies the location and elevation of each source.
+
+     To carry out the requirements of the MMS when they resume, all operators
+of the units in which we own non-operating interests are prepared to complete
+any studies and project planning necessary to commence development of the
+leases.  Where additional drilling is needed, the operators will bring a
+mobile drilling unit to the POCS to further delineate the undeveloped oil and
+gas fields.
+
+     Cost to Develop Offshore California Properties.  The cost to develop all
+of the offshore California properties in which we own an interest, including
+delineation wells, environmental mitigation, development wells, fixed
+platforms, fixed platform facilities, pipelines and power cables, onshore
+facilities and platform removal over the life of the properties (assumed to be
+38 years), is estimated to be slightly in excess of $3 billion.  Our share of
+such costs over the life of the properties is estimated to be approximately
+$27,000,000.
+
+     To the extent that we do not have sufficient cash available to pay our
+share of expenses when they become payable under the respective operating
+agreements, it will be necessary for us to seek funding from outside sources.
+Likely potential sources for such funding are currently anticipated to include
+(a) public and private sales of our Common Stock (which may result in
+substantial ownership dilution to existing shareholders), (b) bank debt from
+one or more commercial oil and gas lenders, (c) the sale of debt instruments
+to investors, (d) entering into farm-out arrangements with respect to one or
+more of our interests in the properties whereby the recipient of the farm-out
+would pay the full amount of our share of expenses and we would retain a
+
+                                    16
+
+<PAGE>
+carried ownership interest (which would result in a substantial diminution of
+our ownership interest in the farmed-out properties), (e) entering into one or
+more joint venture relationships with industry partners, (f) entering into
+financing relationships with one or more industry partners, and (g) the sale
+of some or all of our interests in the properties.
+
+     It is unlikely that any one potential source of funding would be utilized
+exclusively.  Rather, it is more likely that we will pursue a combination of
+different funding sources when the need arises.  Regardless of the type of
+financing techniques that are ultimately utilized, however, it currently
+appears likely that because of our small size in relation to the magnitude of
+the capital requirements that will be associated with the development of the
+subject properties, we will be forced in the future to issue significant
+amounts of additional shares, pay significant amounts of interest on debt that
+presumably would be collateralized by all of our assets (including our
+offshore California properties), reduce our ownership interest in the
+properties through sales of interests in the property or as the result of
+farmouts, industry financing arrangements or other partnership or joint
+venture relationships, or to enter into various transactions which will result
+in some combination of the foregoing.  In the event that we are not able to
+pay our share of expenses as a working interest owner as required by the
+respective operating agreements, it is possible that we might lose some
+portion of our ownership interest in the properties under some circumstances,
+or that we might be subject to penalties which would result in the forfeiture
+of substantial revenues from the properties.
+
+     While the costs to develop the offshore California properties in which we
+own an interest are anticipated to be substantial in relation to our small
+size, management believes that the opportunities for us to increase our asset
+base and ultimately improve our cash flow are also substantial in relation to
+our size.  Although there are several factors to be considered in connection
+with our plans to obtain funding from outside sources as necessary to pay our
+proportionate share of the costs associated with developing our offshore
+properties (not the least of which is the possibility that prices for
+petroleum products could decline in the future to a point at which development
+of the properties is no longer economically feasible), we believe that the
+timing and rate of development in the future will in large part be motivated
+by the prices paid for petroleum products.
+
+     To the extent that prices for petroleum products were to decline below
+their recent levels, it is likely that development efforts will proceed at a
+slower pace such that costs will be incurred over a more extended period of
+time.  If petroleum prices remain at current levels, however, we believe that
+development efforts will intensify.  Our ability to successfully negotiate
+financing to pay our share of development costs on favorable terms will be
+inextricably linked to the prices that are paid for petroleum products during
+the time period in which development is actually occurring on each of the
+subject properties.
+
+     Gato Canyon Unit. We hold a 6.97% working interest, with capitalized
+costs of $3,170,886, in the Gato Canyon Unit.  This 10,100 acre unit is
+operated by Samedan Oil Corporation.  Seven test wells have been drilled on
+the Gato Canyon structure.  Five of these were drilled within the boundaries
+of the Unit and two were drilled outside the Unit boundaries in the adjacent
+State Tidelands.  The test wells were drilled as follows: within the
+
+                                    17
+
+<PAGE>
+boundaries of the Unit; three wells were drilled by Exxon, two in 1968 and one
+in 1969; one well was drilled by Arco in 1985; and, one well was drilled by
+Samedan in 1989.  Outside the boundaries of the Unit, in the State Tidelands
+but still on the Gato Canyon Structure, one well was drilled by Mobil in 1966
+and one well was drilled by Union Oil in 1967.  In April 1989, Samedan tested
+the P-0460 #2 which yielded a combined test flow rate of 5,160 Bbls of oil per
+day from six intervals in the Monterey Formation between 5,880 and 6,700 feet
+of drilled depth. The Monterey Formation is a highly fractured shale
+formation. The Monterey (which ranges from 500' to 2,900' in thickness) is the
+main productive and target zone in many offshore California oil fields
+(including our federal leases and/or units).
+
+     The Gato Canyon field is located in the Santa Barbara Channel
+approximately three to five miles offshore (see Map).  Water depths range from
+280 feet to 600 feet in the area of the field.  Oil and gas produced from the
+field is anticipated to be processed onshore at the existing Las Flores Canyon
+facility (see Map).  Las Flores Canyon has been designated a "consolidated
+site" by Santa Barbara County and is available for use by offshore operators.
+Any processed oil is expected to be transported out of Santa Barbara County in
+the All American Pipeline (see Map).  Offshore pipeline distances to access
+the Las Flores site is approximately six miles.  Our share of the estimated
+capital costs to develop the Gato Canyon field is approximately $20 million.
+
+     As a result of the Norton case, the Gato Canyon Unit leases are under
+directed suspensions of operations with no specified end date.  An updated
+Exploration Plan is expected to include plans to drill an additional
+delineation well when activities are resumed.  This well will be used to
+determine the final location of the development platform.  Following the
+platform decision, a Development Plan will be prepared for submittal to the
+MMS and the other involved agencies.  Two to three years will likely be
+required to process the Development Plan and receive the necessary approvals.
+
+     Lion Rock Unit. We hold a 1% net profits interest, with capitalized costs
+of $1,554,898, in the Lion Rock Unit.  The Lion Rock Unit is operated by Aera
+Energy LLC.
+
+     The Lion Rock Unit is located in the Offshore Santa Maria Basin eight to
+ten miles from the coastline (see Map).  Water depths range from 300 feet to
+600 feet in the area of the field.  It is anticipated that any oil and gas
+produced at Lion Rock would be processed at a new facility in the onshore
+Santa Maria Basin or at the existing Lompoc facility (see Map) and would be
+transported out of Santa Barbara County in the All American Pipeline or the
+Tosco-Unocal Pipeline (see Map).  Offshore pipeline distance will be eight to
+ten miles depending on the point of landfill.
+
+     As a result of the Norton case, the Lion Rock Unit is held under a
+directed suspension of operations with no specified end date.  It is
+anticipated that upon the resumption of activities there will be an
+interpretation of the 3D seismic survey and the preparation of an updated Plan
+of Development leading to production.   Additional delineation wells may or
+may not be drilled depending on the outcome of the interpretation of the 3D
+survey.
+
+     Sword Unit.  We hold a .87% working interest, with capitalized costs of
+$280,776, in the Sword Unit.  This 12,240 acre unit is operated by Conoco,
+
+                                    18
+
+<PAGE>
+ Inc. In aggregate, three wells have been drilled on this unit of which two
+wells were completed and tested in the Monterey formation with calculated flow
+rates of from 4,000 to 5,000 Bbls per day with an estimated average gravity of
+10.6E API.  The two completed test wells were drilled by Conoco, one in 1982
+and the second in 1985.
+
+     The Sword field is located in the western Santa Barbara Channel ten miles
+west of Point Conception and five miles south of Point Arguello field's
+Platform Hermosa (see Map).  Water depths range from 1000 feet to 1800 feet in
+the area of the field.  It is anticipated that the oil and gas produced from
+the Sword Field will likely be processed at the existing Gaviota consolidated
+facility and the oil would then be transported out of Santa Barbara County in
+the All American Pipeline (see Map).  Access to the Gaviota plant is through
+Platform Hermosa and the existing Point Arguello Pipeline system.  A pipeline
+proposed to be laid from a platform located in the northern area of the Sword
+field to Platform Hermosa would be approximately five miles in length.  Our
+share of the estimated capital costs to develop the Sword field is
+approximately $7 million.
+
+     As a result of the Norton case, the Sword Unit leases are held under
+directed suspensions of operations with no specified end date.  An updated
+Exploration Plan is expected to include plans to drill an additional
+delineation well when activities are resumed.
+
+     On January 9, 2002, we filed a lawsuit against the U.S. government along
+with several other companies alleging that the government breached the terms
+of some of our undeveloped, offshore California properties.  See "Legal
+Proceedings."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    19
+
+
+
+
+
+
+--------------
+
+map insert
+
+--------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    20
+
+
+<PAGE>
+     (c)  Production
+          ----------
+
+     Since we sold our producing properties, we no longer have any sales
+contracts in place. During the last three fiscal years we have not had, nor do
+we now have, any long-term supply or similar agreements with governments or
+authorities pursuant to which we acted as producer.  The following table sets
+forth our average sales prices and average production costs during the periods
+indicated:
+
+                            Year Ended     Year Ended      Year Ended
+                           June 30, 2003  June 30, 2002   June 30, 2001
+                           -------------  -------------   -------------
+   Average sales price:
+      Oil (per barrel)        $     -        $     -        $29.61
+      Natural Gas (per Mcf)         -              -          4.85
+      Production costs (per
+         Mcf equivalent)            -              -          1.96
+
+     The profitability of our oil and gas production activities is affected by
+the fluctuations in the sale prices of our oil and gas production.  (See
+"Management's Discussion and Analysis of Financial Condition and Plan of
+Operations").
+
+     Impairment of Long Lived Assets
+     -------------------------------
+
+     Unproved Undeveloped Offshore California Properties
+     ---------------------------------------------------
+
+     We acquired many of our offshore properties in a series of transactions
+from 1992 to the present.  These properties are carried at our cost bases and
+have been subject to an impairment review on an annual basis.
+
+     These properties will be expensive to develop and produce and have been
+subject to significant regulatory restrictions and delays.  Substantial
+quantities of hydrocarbons are believed to exist based on estimates reported
+to us by the operator of the properties and the U.S. government's Mineral
+Management Services.  The classification of these properties depends on many
+assumptions relating to commodity prices, development costs and timetables.
+We annually consider impairment of properties assuming that properties will be
+developed.  Based on the range of possible development and production
+scenarios using current prices and costs, we have concluded that the cost
+bases of our offshore properties are not impaired at this time.  There are no
+assurances, however, that when and if development occurs, we will recover the
+value of our investment in such properties.
+
+     (d)  Productive Wells and Acreage
+          ----------------------------
+
+     As of June 30, 2003 we had no producing oil and gas wells or developed
+acreage.  Productive wells are producing wells capable of production,
+including shut-in wells.  Developed acreage consists of acres spaced or
+assignable to productive wells.
+
+
+                                    21
+
+<PAGE>
+     (e)  Undeveloped Acreage
+          -------------------
+
+     At June 30, 2003, we held undeveloped acreage by state as set forth
+below:
+
+                                        Undeveloped Acres (1)
+            Location                     Gross           Net
+            --------                     -----           ---
+
+            California (1)               22,340          811
+
+     (1)    Consists of Federal leases offshore near Santa Barbara,
+            California.
+
+
+     (f)  Drilling Activities
+          -------------------
+
+     During the year ended June 30, 2003, we did not participate in any
+drilling activities.
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+     On January 9, 2002, we and several other plaintiffs filed a lawsuit in
+the United States Court of Federal Claims in Washington, D.C. alleging that
+the U.S. Government has materially breached the terms of forty undeveloped
+federal leases, some of which are part of our Offshore California properties.
+The Complaint is based on allegations by the collective plaintiffs that the
+United States has materially breached the terms of certain of their Offshore
+California leases by attempting to deviate significantly from the procedures
+and standards that were in effect when the leases were entered into, and by
+failing to carry out its own obligations relating to those leases in a timely
+and fair manner.  More specifically, the plaintiffs have alleged that the
+judicial determination in the California v. Norton case that a 1990 amendment
+to the Coastal Zone Management Act required the Government to make a
+consistency determination prior to granting lease suspension requests in 1999
+constitutes a material change in the procedures and standards that were in
+effect when the leases were issued.  The plaintiffs have also alleged that the
+United States has failed to afford them the timely and fair review of their
+lease suspension requests which has resulted in significant, continuing and
+material delays to their exploratory and development operations.
+
+     The suit seeks compensation for the lease bonuses and rentals paid to the
+Federal Government, exploration costs and related expenses. The total amount
+claimed by all lessees for bonuses and rentals exceeds $1.2 billion, with
+additional amounts for exploration costs and related expenses. In the event,
+however, that we receive any proceeds as the result of such litigation, we may
+be obligated to pay a portion of any amount received by us to landowners and
+other owners of royalties and similar interests, and to pay expenses of
+litigation and to fulfill certain pre-existing contractual commitments to
+third parties.
+
+
+
+                                    22
+
+<PAGE>
+     The Federal Government has not yet filed an answer in this proceeding
+pending its motion to dismiss the lawsuit, which motion has not yet been heard
+by the court.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     No matter was submitted to a vote of security holders during the fourth
+quarter of our fiscal year.
+
+                                  PART II
+
+ITEM 5.  MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER
+         MATTERS
+
+     (a)  Market or Markets
+          -----------------
+
+     We currently have, and have had for the past three years, only limited
+trading in the over-the-counter market and there is no assurance that this
+trading market will expand or even continue.  Recent regulations and rules by
+the SEC and the National Association of Securities Dealers virtually assure
+that there will be little or no trading in our stock unless and until we are
+quoted on the OTC Bulletin Board or similar quotation service, or listed on
+NASDAQ or an exchange.  There is no assurance that we will be able to meet the
+requirements for such listing in the foreseeable future.  Further, our capital
+stock may not be able to be traded in certain states until and unless we are
+able to qualify, exempt or register our stock.  Quotations during 2003 and
+2002 have not been available.
+
+     (b)  Approximate Number of Holders of Common Stock
+          ---------------------------------------------
+
+      The number of holders of record of our securities at September 26, 2003
+was approximately 1,000.
+
+     (c)  Dividends
+          ---------
+
+     We have not paid dividends on our stock and we do not expect to do so in
+the foreseeable future.
+
+     (d)  Changes in Securities
+          ---------------------
+
+     During the quarter ended June 30, 2003, we did not have any sale of
+securities that were not registered under the Securities Act of 1933, as
+amended.
+
+
+
+
+
+
+
+
+                                    23
+
+<PAGE>
+ITEM 6.  SELECTED FINANCIAL DATA
+
+     The following selected financial information should be read in
+conjunction with our financial statements and the accompanying notes.
+
+<TABLE>
+<CAPTION>
+                                               Fiscal Years Ended June 30,
+                             --------------------------------------------------------------------------------
+                                2003             2002            2001              2000              1999
+                                ----             ----            ----              ----              ----
+<S>                          <C>             <C>             <C>               <C>               <C>
+Total Revenues               $       -       $   73,960      $  119,405        $  100,245        $  989,390
+Income/(Loss) from
+ Operations                  $(128,936)      $  (54,622)     $  (42,648)       $  (67,494)       $  659,149
+Income/(Loss)
+ Per Share                   $   (0.03)      $    (0.01)     $    *            $    (0.01)       $     0.14
+Total Assets                 $5,007,427      $5,006,957      $5,062,208        $5,050,869        $5,059,825
+Total Liabilities            $        -      $    2,912      $   16,532        $   64,565        $  134,020
+Stockholders' Equity         $5,007,427      $5,004,045      $5,045,676        $4,986,304        $4,925,805
+Total Long Term Debt         $        -      $        -      $       -         $        -        $        -
+____________________
+* Less than $0.01 per share.
+</TABLE>
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND PLAN
+         OF OPERATIONS
+
+     Liquidity and Capital Resources
+     -------------------------------
+
+     At June 30, 2003, we had working capital of $867 compared to a working
+capital deficit of $2,231 at June 30, 2002.  The cash used in operating
+activities of $131,846 during fiscal 2003 remained consistent with fiscal
+2002.  The lack of cash flow from operations may inhibit the Company from
+meeting its obligations in a timely manner unless additional financing or the
+sale of properties occurs. However, the Company has a receivable of $266,179
+at June 30, 2003 from Delta.  If necessary, Delta will repay its obligation to
+the Company to meet Amber's operating needs and obligations for costs incurred
+with our offshore undeveloped California properties.
+
+     We do not currently have a credit facility with any bank and we have not
+determined the amount, if any, that we could borrow against our remaining
+properties.  Together with Delta, we will continue to seek additional sources
+of both short-term and long-term liquidity to fund our working capital needs
+and our capital requirements for development of our properties, including
+establishing a credit facility and/or sale of equity or debt securities
+although there can be no assurance that we will be successful in our efforts.
+Many of the factors which may affect our future operating performance and
+liquidity are beyond our control, including oil and natural gas prices and the
+availability of financing.
+
+     After evaluation of the considerations described above, we believe that
+our existing cash balances and funding from the advance to Delta and other
+sources of funds will be adequate to fund our operating expenses and satisfy
+our other current liabilities over the next year.
+
+
+
+                                    24
+
+<PAGE>
+     Results of Operations - Fiscal 2003 Versus 2002
+     -----------------------------------------------
+
+     Net Income.  Our net losses for the years ended June 30, 2003 and 2002
+were $128,934 and $46,765 respectively.
+
+     Revenue.  Total revenue for the year ended June 30, 2003 was zero
+compared to $73,960 for the year ended June 30, 2002.  Oil and gas sales for
+both years were zero as we sold all of our producing properties on July 1,
+2001.
+
+     Gain on sale of oil and gas properties.  In fiscal 2002 we sold all of
+our onshore producing properties to Delta at a gain of $73,960 which was
+recognized after Delta sold the properties to a third party.
+
+     Production volumes and average prices received for the years ended June
+30, 2003 and 2002.  Production was zero for both periods as we sold our
+onshore producing properties on July 1, 2002.
+
+     Lease Operating Expenses.  Lease operating expenses for the years ended
+June 30, 2003 and June 30, 2002 both were zero as we sold all of our producing
+properties.
+
+     Depletion Expense.  There was no depletion in either year as all
+properties were sold on July 1, 2002.
+
+     Exploration Expenses.  Exploration expenses consist of geological and
+geophysical costs and lease rentals relating to our offshore properties.  We
+incurred exploration costs of zero and $19,772 for the years ended June 30,
+2003 and 2002, respectively.
+
+     General and Administrative Expenses.  General and administrative expense
+for the year ended June 30, 2003 was $128,936 compared to $108,810 for the
+year ended June 30, 2002. The increase in general and administrative expense
+was due to additional filing and recording fees incurred during fiscal 2003.
+
+     Results of Operations - Fiscal 2002 Versus 2001
+     -----------------------------------------------
+
+     Net Income.  Our net losses for the years ended June 30, 2002 and 2001
+were $46,765 and $42,628, respectively.
+
+     Revenue.  Total revenue for the year ended June 30, 2002 was $73,960
+compared to $119,405 for the year ended June 30, 2001.  Oil and gas sales for
+the year ended June 30, 2002 were zero compared to $67,738 for the year ended
+June 30, 2001.  The decrease in oil and gas sales for the year ended June 30,
+2002 compared to the year ended June 30, 2001 is attributable to the sale of
+our producing properties on July 1, 2001.
+
+     Gain on sale of oil and gas properties.  In fiscal 2002 we sold all of
+our onshore producing properties to Delta at a gain of $73,960 which was
+recognized after Delta sold the properties to a third party.  There were no
+assets sold in fiscal 2001.
+
+
+                                    25
+
+<PAGE>
+     Other Revenue.  Other revenue includes amounts recognized from the
+production of gas previously deferred pending determination of our interest in
+the properties.  We recognized zero in fiscal 2002 and $51,667 in fiscal 2001.
+
+     Production volumes and average prices received for the years ended June
+30, 2002 and 2001 are as follows:
+
+                                     Year Ended             Year Ended
+                                    June 30, 2002          June 30, 2001
+                                    -------------          -------------
+     Production:
+        Oil (barrels)                     -                     381
+        Gas (Mcf)                         -                  11,630
+
+     Average Price:
+          Oil (per barrel)            $   -                 $ 29.61
+          Gas (per Mcf)               $   -                 $  4.85
+
+     Lease Operating Expenses.  Lease operating expense for the year ended
+June 30, 2002 was zero compared to $22,827 for the year ended June 30, 2001.
+On an MCF equivalent basis production expenses and taxes were zero for the
+year ended June 30, 2002 and $1.64 per Mcf equivalent for the year ended June
+30, 2001.
+
+     Depletion Expense.  Depletion expense for the year ended June 30, 2002
+was zero compared to $10,608 for the year ended June 30, 2001.
+
+     Exploration Expenses.  Exploration expenses consist of geological and
+geophysical costs and lease rentals.  We incurred exploration costs of $19,772
+and $17,482 for the years ended June 30, 2002 and 2001, respectively.
+
+     General and Administrative Expenses.  General and administrative expense
+for the year ended June 30, 2002 was $108,810 compared to $111,136 for the
+year ended June 30, 2001.
+
+     Critical Accounting Policies and Estimates
+     ------------------------------------------
+
+     The discussion and analysis of our financial condition and results of
+operations were based upon the consolidated financial statements, which have
+been prepared in accordance with accounting principles generally accepted in
+the United States.  The preparation of these financial statements requires us
+to make estimates and judgments that affect the reported amounts of assets,
+liabilities, revenues and expenses.  Our significant accounting policies are
+described in Note 1 to our financial statements.  In response to SEC Release
+No. 33-8040, "Cautionary Advise Regarding Disclosure About Critical Accounting
+Policies," we have identified certain of these policies as being of particular
+importance to the portrayal of our financial position and results of
+operations and which require the application of significant judgment by
+management.  We analyze our estimates, including those related to oil and gas
+reserves, bad debts, oil and gas properties, marketable securities, income
+taxes, derivatives, contingencies and litigation, and base our estimates on
+historical experience and various other assumptions that we believe reasonable
+under the circumstances.  Actual results may differ from these estimates under
+different assumptions or conditions.  We believe the following critical
+
+                                    26
+
+<PAGE>
+accounting policies affect our more significant judgments and estimates used
+in the preparation of the Company's financial statements.
+
+     Successful Efforts Method of Accounting
+     ---------------------------------------
+
+     We account for our natural gas and crude oil exploration and development
+activities utilizing the successful efforts method of accounting.  Under this
+method, costs of productive exploratory wells, development dry holes and
+productive wells and undeveloped leases are capitalized.  Gas and oil lease
+acquisition costs are also capitalized.  Exploration costs, including
+personnel costs, certain geological and geophysical expenses and delay rentals
+for gas and oil leases, are charged to expense as incurred.  Exploratory
+drilling costs are initially capitalized, but charged to expense if and when
+the well is determined not to have found reserves in commercial quantities.
+The sale of a partial interest in a proved property is accounted for as a cost
+recovery and no gain or loss is recognized as long as this treatment does not
+significantly affect the unit-of-production amortization rate.  A gain or loss
+is recognized for all other sales of producing properties.
+
+     The application of the successful efforts method of accounting requires
+managerial judgment to determine that proper classification of wells
+designated as developmental or exploratory which will ultimately determine the
+proper accounting treatment of the costs incurred.  The results from a
+drilling operation can take considerable time to analyze and the determination
+that commercial reserves have been discovered requires both judgment and
+industry experience.  Wells may be completed that are assumed to be productive
+and actually deliver gas and oil in quantities insufficient to be economic,
+which may result in the abandonment of the wells at a later date.  Wells are
+drilled that have targeted geologic structures that are both developmental and
+exploratory in nature and an allocation of costs is required to properly
+account for the results.  Delineation seismic incurred to select development
+locations within an oil and gas field is typically considered a development
+costs and capitalized but often these seismic programs extend beyond the
+reserve area considered proved and management must estimate the portion of the
+seismic costs to expense.  The evaluation of gas and oil leasehold acquisition
+costs requires managerial judgment to estimate the fair value of these costs
+with reference to drilling activity in a given area.  Drilling activities in
+an area by other companies may also effectively condemn leasehold positions.
+
+     The successful efforts method of accounting can have a significant impact
+on the operational results reported when we are entering a new exploratory
+area in hopes of finding a gas and oil field that will be the focus of future
+development drilling activity.  The initial exploratory wells may be
+unsuccessful and will be expensed.  Seismic costs can be substantial which
+will result in additional exploration expenses when incurred.
+
+     Reserve Estimates
+     -----------------
+
+     We do not currently own any reserves and we do not currently have any
+estimates of any gas or oil reserves.
+
+
+
+                                    27
+
+<PAGE>
+      Impairment of Gas and Oil Properties
+     ------------------------------------
+
+     We review our gas and oil properties for impairment whenever events and
+circumstances indicate a decline in the recoverability of their carrying
+value.  We estimate the expected future cash flows of our gas and oil
+properties and compare such future cash flows to the carrying amount of the
+gas and oil properties to determine if the carrying amount is recoverable.  If
+the carrying amount exceeds the estimated undiscounted future cash flows, we
+will adjust the carrying amount of the gas and oil properties to their fair
+value.  The factors used to determine fair value include, but are not limited
+to, estimates of hydrocarbons that we believe are recoverable even though they
+are not proved reserves, future commodity pricing, future production
+estimates, anticipated capital expenditures, and a discount rate commensurate
+with the risk associated with realizing the expected cash flows projected.
+
+     Given the complexities associated with such estimates and the history of
+price volatility in the gas and oil markets, events may arise that would
+require us to record an impairment of the book values associated with our gas
+and oil properties.  As a result of our review, we did not record an
+impairment during the years ended June 30, 2003, 2002 or 2001.
+
+     Recently Issued or Proposed  Accounting Standards and Pronouncements
+     --------------------------------------------------------------------
+
+     We have been made aware that an issue has arisen within the industry
+regarding the application of provisions of SFAS No. 142 and SFAS No. 141,
+"Business Combinations," to companies in the extractive industries, including
+oil and gas companies. The issue is whether SFAS No. 142 requires companies to
+reclassify costs associated with mineral rights, including both proved and
+unproved leasehold acquisition costs, as intangible assets in the balance
+sheet, apart from other capitalized oil and gas property costs. Historically,
+we and other oil and gas companies have included the cost of these oil and gas
+leasehold interests as part of oil and gas properties. Also under
+consideration is whether SFAS No. 142 requires registrants to provide the
+additional disclosures prescribed by SFAS No. 142 for intangible assets for
+costs associated with mineral rights.
+
+     If it is ultimately determined that SFAS No. 142 requires us to
+reclassify costs associated with mineral rights from property and equipment to
+intangible assets, the amounts that would be reclassified are as follows:
+
+                                                     June 30,
+                                               2003             2002
+                                            -----------     -----------
+INTANGIBLE ASSETS:
+  Proved leasehold acquisition costs        $         -     $         -
+  Unproved leasehold acquisition costs        5,006,560       5,006,276
+                                            -----------     -----------
+     Total leasehold acquisition costs        5,006,560       5,006,276
+
+Less: Accumulated depletion                           -               -
+                                            -----------     -----------
+Net leasehold acquisition costs             $ 5,006,560     $ 5,006,276
+                                            -----------     -----------
+
+
+                                    28
+
+<PAGE>
+     The reclassification of these amounts would not affect the method in
+which such costs are amortized or the manner in which we assess impairment of
+capitalized costs. As a result, net income would not be affected by the
+reclassification.
+
+     Statement 145, Rescission of FASB Statements No. 4, 44 and 64, Amendment
+of FASB Statement No. 13, and Technical Corrections (SFAS No. 145) was issued
+in April 2002.  This statement rescinds SFAS No. 4, "Reporting Gains and
+Losses from Extinguishment of Debt," which required all gains and losses from
+extinguishment of debt to be aggregated and, if material, classified as an
+extraordinary item, net of income taxes.  As a result, the criteria in APB 30
+will now be used to classify those gains and losses.  Any gain or loss on the
+extinguishment of debt that was classified as an extraordinary item in prior
+periods presented that does not meet the criteria in APB 30 for classification
+as an extraordinary item shall be reclassified.  The provisions of this
+Statement are effective for fiscal years beginning after January 1, 2003.  We
+do  not believe this statement will have a material impact on our Financial
+Statements.
+
+     In November 2002, the FASB issued Financial Interpretation No. 45,
+"Guarantor's Accounting and Disclosure Requirements for Guarantees, Including
+Indirect Guarantees of Indebtedness of Others - an interpretation of FASB
+Statements Nos. 5, 57, and 107 and rescission of FASB Interpretation No. 34"
+("FIN 45"). FIN 45 elaborates on the disclosures to be made by a guarantor in
+its interim and annual financial statements about its obligations under
+certain guarantees that it has issued. It also clarifies that a guarantor is
+required to recognize, at the inception of a guarantee, a liability for the
+fair value of the obligation undertaken in issuing the guarantee. The initial
+recognition and initial measurement provisions of FIN 45 are applicable on a
+prospective basis to guarantees issued or modified after December 31, 2002,
+irrespective of the guarantor's fiscal year-end. The disclosure requirements
+are effective for financial statements of interim or annual periods ending
+after December 15, 2002. The adoption of FIN 45 has not had any effect on our
+financial position or results of operations.
+
+     In January 2003, the FASB issued Financial Interpretation No. 46,
+"Consolidation of Variable Interest Entities - an interpretation of ARB No.
+51" ("FIN 46"). FIN 46 is an interpretation of Accounting Research Bulletin
+51, "Consolidated Financial Statements," and addresses consolidation by
+business enterprises of variable interest entities ("VIE's"). The primary
+objective of FIN 46 is to provide guidance on the identification of, and
+financial reporting for, entities over which control is achieved through means
+other than voting rights. Such entities are known as VIE's. FIN 46 requires an
+enterprise to consolidate a VIE if that enterprise has a variable interest
+that will absorb a majority of the entity's expected losses if they occur,
+receive a majority of the entity's expected residual returns if they occur, or
+both.
+
+     An enterprise shall consider the rights and obligations conveyed by its
+variable interests in making this determination. This guidance applies
+immediately to variable interest entities created after January 31, 2003, and
+to variable interest entities in which an enterprise obtains an interest after
+that date. It applies in the first fiscal year or interim period beginning
+after June 15, 2003 to variable interest entities in which an enterprise holds
+
+
+                                    29
+
+<PAGE>
+a variable interest that it acquired before February 1, 2003. At this time, we
+do not have a VIE.
+
+     In April 2003, FASB issued SFAS No. 149, "Amendment of Statement 133 on
+Derivative Instruments and Hedging Activities." SFAS No. 149 amends and
+clarifies financial accounting and reporting for derivative instruments,
+including certain derivative instruments embedded in other contracts and for
+hedging activities under SFAS No. 133, "Accounting for Derivative Instruments
+and Hedging Activities." SFAS No. 149 is effective for contracts entered into
+or modified after June 30, 2003 and for hedging relationships designated after
+June 30, 2003.  We adopted SFAS No. 149 on July 1, 2003 and do not expect it
+to have a material impact on our financial condition and results of
+operations.
+
+     In May 2003, the FASB issued SFAS No. 150, "Accounting for Certain
+Financial Instruments with Characteristics of Both Liabilities and Equity."
+SFAS No. 150 changes the accounting for certain financial instruments that,
+under previous guidance, issuers could account for as equity. FASB No. 150
+requires that those instruments be classified as liabilities in statements of
+financial position. SFAS No. 150 is effective for financial instruments
+entered into or modified after May 31, 2003, and otherwise is effective at the
+beginning of the first interim period beginning after June 15, 2003.  SFAS No.
+150 is not expected to have a material impact on our financial condition and
+results of operations.
+
+ITEM 7A.  QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK
+
+     Market risk is the potential loss arising from adverse changes in market
+rates and prices, such as foreign currency exchange and interest rates and
+commodity prices.  We do not use financial instruments to any degree to manage
+foreign currency exchange and interest rate risks and do not hold or issue
+financial instruments to any degree for trading purposes.  All of our revenue
+and related receivables are payable in U.S. dollars.
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+     Financial Statements are included beginning on Page F-1.  There are no
+financial statement schedules since they are either not applicable or the
+information is included in the notes to the financial statements.
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+         FINANCIAL DISCLOSURE
+
+     Not applicable.
+
+ITEM 9A. CONTROLS AND PROCEDURES
+
+     Evaluation of Disclosure Controls and Procedures
+     ------------------------------------------------
+
+     We maintain disclosure controls and procedures that are designed to
+ensure that information required to be disclosed in our Exchange Act reports
+is recorded, processed, summarized and reported within the time periods
+specified in the Securities and Exchange Commission's rules and forms, and
+that such information is accumulated and communicated to management, including
+
+                                    30
+
+<PAGE>
+the chief executive officer and chief financial officer, as appropriate, to
+allow timely decisions regarding required disclosure. Management necessarily
+applied its judgment in assessing the costs and benefits of such controls and
+procedures, which, by their nature, can provide only reasonable assurance
+regarding management's control objectives.
+
+     With the participation of management, our chief executive officer and
+chief financial officer evaluated the effectiveness of the design and
+operation of our disclosure controls and procedures at the conclusion of the
+period ended June 30, 2003. Based upon this evaluation, the chief executive
+officer and chief financial officer concluded that our disclosure controls and
+procedures were effective in ensuring that material information required to be
+disclosed is included in the reports that it files with the Securities and
+Exchange Commission.
+
+     Changes in Internal Controls
+     ----------------------------
+
+     There were no significant changes in our internal controls or, to the
+knowledge of our management, in other factors that could significantly affect
+internal controls subsequent to the date of most recent evaluation of our
+disclosure controls and procedures utilized to compile information included in
+this filing.
+
+                                PART III
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+     Information with respect to our executive officers and directors is set
+forth below:
+
+        Name             Age       Positions              Period of Service
+---------------------    ---  ------------------------   -------------------
+
+Aleron H. Larson, Jr.     58   Chairman of the Board,     May 1987 to Present
+                               Secretary, and a Director
+
+Roger A. Parker           41   President, Chief           May 1987 to Present
+                               Executive Officer and
+                               a Director
+
+Jerrie F. Eckelberger     59   Director                   September 1996
+                                                          to Present
+
+Kevin K. Nanke            38   Treasurer and Chief        December 1999
+                               Financial Officer          to Present
+
+
+     The following is biographical information as to the business experience
+of each of our current officers and directors.
+
+     Aleron H. Larson, Jr. has operated as an independent in the oil and gas
+industry individually and through public and private ventures since 1978.  Mr.
+Larson served as the Chairman, Secretary, CEO and a Director of Chippewa
+Resources Corporation, a public company then listed on the American Stock
+
+                                    31
+
+<PAGE>
+ Exchange from July 1990 through March 1993 when he resigned after a change of
+control.   Mr. Larson serves as Chairman of the Board, Secretary and Director
+of Amber Resources Company of Colorado ("Amber"), as well as Delta, which is
+our majority shareholder/parent.  Mr. Larson practiced law in Breckenridge,
+Colorado from 1971 until 1974.  During this time he was a member of a law
+firm, Larson & Batchellor, engaged primarily in real estate law, land use
+litigation, land planning and municipal law.  In 1974, he formed Larson &
+Larson, P.C., and was engaged primarily in areas of law relating to
+securities, real estate, and oil and gas until 1978.  Mr. Larson received a
+Bachelor of Arts degree in Business Administration from the University of
+Texas at El Paso in 1967 and a Juris Doctor degree from the University of
+Colorado in 1970.
+
+     Roger A. Parker served as the President, a Director and Chief Operating
+Officer of Chippewa Resources Corporation from July of 1990 through March 1993
+when he resigned after a change of control.  Mr. Parker serves as President,
+Chief Executive Officer and Director of Amber and also Delta.  He also serves
+as a Director and Executive Vice President of P & G Exploration, Inc., a
+private oil and gas company (formerly Texco Exploration, Inc.).  Mr. Parker
+has also been the President, a Director and sole shareholder of Apex Operating
+Company, Inc. since its inception in 1987.  He has operated as an independent
+in the oil and gas industry individually and through public and private
+ventures since 1982.  He was at various times, from 1982 to 1989, a Director,
+Executive Vice President, President and shareholder of Ampet, Inc.   He
+received a Bachelor of Science in Mineral Land Management from the University
+of Colorado in 1983.  He is a member of the Rocky Mountain Oil and Gas
+Association and the Independent Producers Association of the Mountain States
+(IPAMS).
+
+     Jerrie F. Eckelberger is an investor, real estate developer and attorney
+who has practiced law in the State of Colorado since 1971.  He graduated from
+Northwestern University with a Bachelor of Arts degree in 1966 and received
+his Juris Doctor degree in 1971 from the University of Colorado School of Law.
+From 1972 to 1975, Mr. Eckelberger was a staff attorney with the eighteenth
+Judicial District Attorney's Office in Colorado.  From 1975 to present, Mr.
+Eckelberger has practiced law in Colorado and is presently a member of the law
+firm of Eckelberger & Jackson, LLC.  Mr. Eckelberger previously served as an
+officer, director and corporate counsel for Roxborough Development
+Corporation.   Since March 1996, Mr. Eckelberger has acted as President and
+Chief Executive Officer of 1998, Ltd., a Colorado corporation actively engaged
+in the development of real estate in Colorado.  He is the Managing Member of
+The Francis Companies, L.L.C., a Colorado limited liability company, which
+actively invests in real estate and has been since June, 1996.  Additionally,
+since November, 1997, Mr. Eckelberger has served as the Managing Member of the
+Woods at Pole Creek, a Colorado limited liability company, specializing in
+real estate development.  He also serves on the Board of Directors of Delta.
+
+     Kevin K. Nanke, Treasurer and Chief Financial Officer of both Amber and
+Delta, joined us in April 1995.  Since 1989, he has been involved in public
+and private accounting with the oil and gas industry.  Mr. Nanke received a
+Bachelor of Arts in Accounting from the University of Northern Iowa in 1989.
+Prior to working with us, he was employed by KPMG LLP.  He is a member of the
+Colorado Society of CPA's and the Council of Petroleum Accounting Society.
+
+
+                                    32
+
+<PAGE>
+     There is no family relationship among or between any of our Officers
+and/or Directors.
+
+     Section 16(a) Beneficial Ownership Reporting Compliance
+     -------------------------------------------------------
+
+     Based solely on a review of Forms 3 and 4 and amendments thereto
+furnished to us during our most recent fiscal year, and Forms 5 and amendments
+thereto furnished with respect to our most recent fiscal year and certain
+representations, no persons who were either a director, officer, or beneficial
+owner of more than 10% of the Company's common stock failed to file on a
+timely basis reports required by Section 16(a) of the Exchange Act during the
+most recent fiscal year.
+
+ITEM 11.  EXECUTIVE COMPENSATION
+
+     No officer or director received compensation directly from us during the
+years ended June 30, 2003, 2002 and 2001.  Messrs. Larson, Parker, Nanke,
+Chairman, President and Chief Financial Officer, respectively, are compensated
+by Delta, which compensation is paid under a management agreement with us.  No
+officer or director received stock appreciation rights, restricted stock
+awards, options, warrants or other similar compensation reportable under this
+section during any of the above referenced periods.
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+     (a) & (b) Security Holdings of Management and Persons Controlling more
+than 5% of shares of Common Stock Outstanding on a Fully-Diluted Basis.
+
+Name and Address of            Amount & Nature of
+Beneficial Owners              Beneficial Ownership     Percent of Class
+-------------------            --------------------     ----------------
+
+Delta Petroleum Corporation       4,277,977 (1)             91.68% (1)
+475 17th Street, Suite 1400
+Denver, Colorado 80202
+
+Roger A. Parker                   4,277,977 (1)             91.68% (1)
+475 17th St., Ste. 1400
+Denver, CO  80202
+
+Aleron H. Larson, Jr.             4,277,977 (1)             91.68% (1)
+475 17th St., Ste. 1400
+Denver, CO  80202
+
+Jerrie F. Eckelberger             4,277,977(1)              91.68% (1)
+7120 East Orchard Road
+Englewood, CO 80111
+
+Kevin K. Nanke                    4,277,977 (1)             91.68% (1)
+475 17th St., Ste 1400
+Denver, Colorado 80202
+
+Management as a Group (4 people)  4,277,977(1)              91.68% (1)
+
+-------------------------
+
+                                    33
+
+<PAGE>
+(1)   All shares are owned by Delta; Messrs. Larson, Parker, Nanke and
+Eckleberger are either officers, directors or shareholders of Delta.
+
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+     Effective October 1, 1998, we entered into an agreement with Delta which
+provides for the sharing of management between the two companies.  Under this
+agreement we pay Delta $25,000 per quarter for our share of rent,
+administrative, accounting and management services of Delta officers and
+employees.  This agreement is may be cancelled by either party at any time.
+It is our opinion that fees paid to Delta for services rendered are comparable
+to fees that would be charged by similarly qualified non-affiliated persons.
+This agreement replaces a previous agreement which allocated similar expenses
+based on our proportionate share of oil and gas production. The charges to us
+for the provision of services by Delta were $100,000 for the years ended June
+30, 2003, 2002 and 2001.  We had a receivable from Delta of $266,179 and
+$398,495 recorded as a reduction in equity at June 30, 2003 and 2002,
+respectively.
+
+     On July 1, 2001, we sold all of our proved producing properties to Delta,
+which owns over 91% of our issued and outstanding shares, for $107,045 as an
+increase in the amount receivable from Delta.  The sale price was calculated
+as being an amount equal to the net present value of the estimated
+hydrocarbons beneath the properties using a discount rate of 10% as determined
+by third party, independent engineers.  Management believes that the terms of
+this transaction were on terms no less favorable to us than could have been
+obtained from an independent third party.
+
+ITEM 14.  PRINCIPAL ACCOUNTING FEES AND SERVICES
+
+     AUDIT FEES: The aggregate fees billed for professional services rendered
+by KPMG LLP for the audit of the annual financial statements of the Company
+for the fiscal year ended June 30, 2003 and the review of the financial
+statements included in the Company's Forms 10-Q for such fiscal year were paid
+by Delta, our parent, pursuant to our agreement under which we pay Delta
+$25,000 per quarter.  (See Item 13. Certain Relationships and Related
+Transactions.)
+
+     FINANCIAL INFORMATION SYSTEMS DESIGN AND IMPLEMENTATION FEES: No fees
+were billed for professional services rendered by KPMG LLP for financial
+information systems design and implementation services for the fiscal year
+ended June 30, 2003.
+
+     ALL OTHER FEES: No fees were billed for services rendered by KPMG LLP,
+other than the services referred to above, for the fiscal year ended June 30,
+2003.
+
+
+
+
+
+
+
+
+                                    34
+
+<PAGE>
+                                 PART IV
+
+ITEM 15.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+     (a)  Financial Statements
+          --------------------
+
+          Independent auditors' report                                F-1
+
+          Balance Sheet as of June 30, 2003 and 2002                  F-2
+
+          Statements of Operations and Accumulated Deficit
+            Years Ended June 30, 2003, 2002 and 2001                  F-3
+
+          Statements of Cash Flows                                    F-4
+
+          Notes to Financial Statements                               F-5
+
+
+          Financial Statement Schedules
+          -----------------------------
+
+          None
+
+
+     (b)  Reports on Form 8-K
+          -------------------
+
+          None
+
+
+     (c)  Exhibits
+          --------
+
+      The Exhibits listed in the Index to Exhibits appearing at page 36 are
+filed as part of this report.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    35
+
+<PAGE>
+                              INDEX TO EXHIBITS
+
+(2)     Plan of Acquisitions, Reorganization, Arrangement, Liquidation, or
+        Succession.  Not applicable.
+
+(3)     Articles of Incorporation and Bylaws.
+
+        3.1     The Articles of Incorporation(Certificate of Incorporation)
+                and Bylaws of the Registrant filed as Exhibits 4 and 5 to
+                Registrant's Form S-1 Registration Statement filed August 28,
+                1978 with the Securities and Exchange Commission
+                are incorporated herein by reference. The Restated Articles of
+                Incorporation (Restated Certificate of Incorporation) dated
+                January 26, 1988 and Amendment to Restated Certificate of
+                Incorporation dated September 18, 1989 are incorporated by
+                reference to Exhibits 3.1 and 3.2 to the Company's Form
+                10-KSB for the fiscal year ended June 30, 1997.
+
+        3.2     Certificate for Renewal and Revival of Charter.  Filed
+                herewith electronically.
+
+(4)     Instruments Defining the Rights of Security Holders.
+
+        4.1     Certificate of Designation of the Relative Rights of the Class
+                A Preferred Stock of Amber Resources Company dated July 25,
+                1989.  Incorporated by reference to Exhibit 4.1 of the
+                Company's Form 10-KSB for the fiscal year ended June 30, 1997.
+
+(9)     Voting Trust Agreement.  Not applicable.
+
+(10)    Material Contracts.
+
+        10.1    Agreement dated March 31, 1993 between Delta Petroleum
+                Corporation and Amber Resources Company.  Incorporated by
+                reference from Exhibit 10.1 of the Company's Form 10-KSB for
+                the fiscal year ended June 30, 1997.
+
+        10.2    Amber Resources Company 1996 Incentive Plan.  Incorporated by
+                reference from Exhibit 99.1 of the Company's December 4, 1996
+                Form 8-K.
+
+        10.3    Agreement between Amber Resources Company and Delta Petroleum
+                Corporation dated effective October 1, 1998.  Incorporated by
+                reference from Exhibit 10.2 of the Company's Form 10-KSB for
+                the fiscal year ended June 30, 1999.
+
+        10.4    Purchase and Sale Agreement between Amber Resources Company
+                and Delta Petroleum Corporation dated July 1, 2001.
+                Incorporated by reference to Exhibit 10.4 to the Company's
+                Form 10-K for the fiscal year ended June 30, 2002.
+
+(11)    Statement Regarding Computation of Per Share Earnings. Not applicable.
+
+(12)    Statement Regarding Computation of Ratios. Not applicable.
+
+
+                                    36
+
+<PAGE>
+(13)    Annual Report to Security Holders, Form 10-Q or Quarterly
+        Report to Security Holders.  Not applicable.
+
+(16)    Letter re: Change in Certifying Accountants. Not applicable.
+
+(17)    Letter re: Director Resignation. Not applicable.
+
+(18)    Letter Regarding Change in Accounting Principals. Not applicable.
+
+(19)    Previously Unfiled Documents.  Not applicable.
+
+(21)    Subsidiaries of the Registrant. Not applicable.
+
+(22)    Published Report Regarding Matters Submitted to Vote of Security
+        Holders. Not applicable.
+
+(23)    Consent of Experts and Counsel.  Not applicable.
+
+(24)    Power of Attorney.  Not applicable.
+
+(31)    Rule 13a-14(a)/15d-14(a) Certifications.
+
+        31.1  Certification of Chief Executive Officer Pursuant to Section 302
+              of the Sarbanes-Oxley Act of 2002.  Filed herewith
+              electronically.
+
+        31.2  Certification of Chief Financial Officer Pursuant to Section 302
+              of the Sarbanes-Oxley Act of 2002.  Filed herewith
+              electronically.
+
+(32)    Section 1350 Certifications.
+
+        32.1  Certification of Chief Executive Officer Pursuant to 18 U.S.C.
+              Section 1350.  Filed herewith electronically.
+
+        32.2  Certification of Chief Financial Officer Pursuant to 18 U.S.C.
+              Section 1350.  Filed herewith electronically.
+
+(99)    Additional Exhibits.  Not applicable.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    37
+
+<PAGE>
+                          Independent Auditors' Report
+
+
+The Board of Directors and Stockholders
+Amber Resources Company of Colorado:
+
+
+We have audited the accompanying balance sheets of Amber Resources Company of
+Colorado, formerly named Amber Resources Company (the "Company"), a subsidiary
+of  Delta Petroleum Corporation, as of June 30, 2003 and 2002 and the related
+statements of operations and accumulated deficit, and cash flows for each of
+the years in the three-year period ended June 30, 2003. These financial
+statements are the responsibility of the Company's management.  Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+
+We conducted our audits in accordance with auditing standards generally
+accepted in the United States of America.  Those standards require that we
+plan and perform the audit to obtain reasonable assurance about whether the
+financial statements are free of material misstatement.  An audit includes
+examining, on a test basis, evidence supporting the amounts and disclosures in
+the financial statements.  An audit also includes assessing the accounting
+principles used and significant estimates made by management, as well as
+evaluating the overall financial statement presentation. We believe that our
+audits provide a reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of Amber Resources Company of
+Colorado as of June 30, 2003 and 2002, and the results of its operations and
+its cash flows for each of the years in the three-year period ended June 30,
+2003, in conformity with accounting principles generally accepted in the
+United States of America.
+
+
+
+
+
+                                     KPMG LLP
+
+
+Denver, Colorado
+August 22, 2003
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              F-1
+
+<PAGE>
+AMBER RESOURCES COMPANY OF COLORADO
+BALANCE SHEETS
+June 30, 2003 and 2002
+-----------------------------------------------------------------------------
+
+                                                         2003         2002
+                                                      ---------   ----------
+ASSETS
+
+Current Assets:
+     Cash                                             $     867   $      681
+                                                      ---------   ----------
+          Total current assets                        $     867   $    681
+                                                      ---------   ----------
+Property and Equipment:
+     Oil and gas properties, at cost (using
+       the successful efforts method
+       of accounting):
+     Undeveloped offshore California properties       $5,006,560  $5,006,276
+                                                       ----------  ----------
+                                                      $5,007,427  $5,006,957
+                                                      ==========  ==========
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+
+Current  Liabilities:
+     Accounts payable                                 $        -  $    2,912
+                                                      ----------  ----------
+          Total current liabilities                   $        -  $    2,912
+                                                       ----------  ----------
+Stockholders' Equity:
+     Preferred stock, $.10 par value;
+       authorized 5,000,000 shares of Class A
+       convertible preferred stock, none issued                            -
+     Common stock, $.0625 par value;
+       authorized 25,000,000 shares, issued
+       4,666,185 shares at June 30, 2003 and 2002     $  291,637  $  291,637
+     Additional paid-in capital                       $5,755,232  $5,755,232
+     Accumulated deficit                              $ (773,263) $ (644,329)
+     Advance to parent                                $ (266,179) $ (398,495)
+                                                       ----------  ----------
+     Total stockholders' equity                       $5,007,427  $5,004,045
+                                                       ----------  ----------
+Commitments
+                                                      $5,007,427  $5,006,957
+                                                      ==========  ==========
+
+         See accompanying notes to consolidated financial statements.
+
+
+
+                                     F-2
+
+<PAGE>
+AMBER RESOURCES COMPANY OF COLORADO
+STATEMENTS OF OPERATIONS AND ACCUMULATED DEFICIT
+Years Ended June 30, 2003, 2002 and 2001
+-----------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+                                                        Year Ended June 30
+                                                 2003          2002         2001
+                                               ---------    --------- ---------
+<S>                                            <C>          <C>          <C>
+Revenue:
+     Oil and gas sales                         $       -    $        -    $   67,738
+     Gain on sale of oil and gas properties            -        73,960             -
+     Other revenue                                     -             -        51,667
+                                             ---------     ----------   ----------
+          Total revenue                        $       -         73,960      119,405
+
+Operating expenses:
+     Lease operating expenses                          -              -       22,827
+     Depreciation and depletion                        -              -       10,608
+     Exploration expenses                              -         19,772       17,482
+     General and administrative, including
+      $100,000 in 2003, 2002 and 2001 to parent  128,936        108,810      111,136
+                                               ---------     ----------   ----------
+          Total operating expenses               128,936        128,582      162,053
+                                               ---------     ----------   ----------
+
+          Loss from Operations                  (128,936)       (54,622)     (42,648)
+
+        Other Income:
+          Other income                                 2          7,857           20
+
+                                               ---------     ----------   ----------
+
+          Net Loss                              (128,934)       (46,765)     (42,628)
+
+     Accumulated deficit at
+          beginning of the year                 (644,329)      (597,564)    (554,936)
+                                               ---------     ----------   ----------
+     Accumulated deficit at
+          end of the year                     $ (773,263)    $ (644,329)  $ (597,564)
+                                              ==========     ==========   ==========
+
+     Basic loss per share                     $    (0.03)    $    (0.01)  $        *
+                                              ==========     ==========   ==========
+     Weighted average number of common
+          shares outstanding                  $4,666,185      4,666,185    4,666,185
+                                              ==========     ==========   ==========
+
+     *loss per share is less than $0.01
+
+</TABLE>
+
+
+          See accompanying notes to consolidated financial statements.
+
+                                     F-3
+
+
+<PAGE>
+AMBER RESOURCES COMPANY OF COLORADO
+STATEMENTS OF CASH FLOWS
+Years Ended June 30, 2003, 2002 and 2001
+-----------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+                                                             Year Ended June 30
+                                                      2003           2002            2001
+                                                    ---------      ---------       ---------
+<S>                                                 <C>            <C>             <C>
+Cash flows from operating activities:
+   Net loss                                         $(128,934)     $  (46,765)     $ (42,628)
+   Adjustments to reconcile net loss to cash
+        used in operating activities:
+      Gain on sale of oil and gas properties                -         (73,960)             -
+Depletion                                                   -               -         10,608
+   Net changes in operating assets and operating
+       liabilities:
+   (Increase) decrease in trade accounts receivable         -           7,855         (4,855)
+   Increase (decrease) in accounts payable trade       (2,912)        (13,620)         3,634
+   Deferred revenue                                         -               -        (51,667)
+                                                    ---------       ---------      ---------
+
+Net cash used in operating activities                (131,846)       (126,490)       (84,908)
+                                                    ---------       ---------      ---------
+Cash flows from investing activities-
+   Additions to property and equipment, net              (284)              -         (7,522)
+   Proceeds from sale of oil and gas properties             -         107,045              -
+                                                    ---------       ---------      ---------
+Net Cash used in investing activities                    (284)        107,045         (7,522)
+
+Cash flows from financing activities-
+   Changes in accounts receivable from and
+     accounts payable to parent                       132,316           5,135        102,000
+                                                    ---------       ---------      ---------
+
+Net increase (decrease) in cash                           186         (14,311)         9,570
+                                                    ---------       ---------      ---------
+
+Cash at beginning of period                               681          14,992          5,422
+                                                    ---------       ---------      ---------
+
+Cash at end of period                               $     867       $     681      $  14,992
+                                                    ---------       ---------      ---------
+
+</TABLE>
+
+
+
+
+
+
+
+
+         See accompanying notes to consolidated financial statements.
+
+
+
+
+                                     F-4
+
+
+<PAGE>
+AMBER RESOURCES COMPANY OF COLORADO
+(A subsidiary of Delta Petroleum Corporation)
+Notes to Financial Statements
+Years Ended June 30, 2003 and 2002
+-----------------------------------------------------------------------------
+
+(1)  Summary of Significant Accounting Policies
+
+     Organization
+
+     Amber Resources Company of Colorado, formerly Amber Resources Company
+("the Company"), was incorporated in January, 1978, and is principally engaged
+in  acquiring, exploring, developing, and producing offshore oil and gas
+properties. The Company owns interests in three undeveloped oil and gas
+properties in federal units offshore California, near Santa Barbara.  As of
+June 30, 2003, Delta Petroleum Corporation ("Delta") owned 4,277,977 shares
+(91.68%) of the Company's common stock.
+
+     Liquidity
+
+     The Company has incurred losses from operations over the past several
+years coupled with significant deficiencies in cash flow from operations for
+the same period.  Additionally, during the year ended June 30, 2002 the
+Company sold its remaining producing reserves to Delta for $107,045 an amount
+equal to the properties net present value discounted at 10% as determined by
+third party independent engineers.  These factors among others may indicate
+that without increased cash flow from sale of oil and gas properties  or
+additional financing, the Company may not be able to meet its obligation in a
+timely manner or be able to fund exploration and development of its remaining
+oil and gas properties.  The Company believes that it could sell oil and gas
+properties or obtain additional financing.  However, there can be no assurance
+that such financing would be available in a timely fashion or on acceptable
+terms.
+
+     Revenue Recognition
+
+     The Company uses the sales method of accounting for oil and gas revenues.
+Under this method, revenues are recognized based on actual volumes of oil and
+gas sold to purchasers.
+
+     Oil and Gas Properties
+
+     The Company follows the successful efforts method of accounting for its
+oil and gas activities.  Accordingly, costs associated with the acquisition,
+drilling, and equipping of successful exploratory wells are capitalized.
+
+     Geological and geophysical costs, delay and surface rentals and drilling
+costs of unsuccessful exploratory wells are charged to expense as incurred.
+Costs of drilling development wells, both successful and unsuccessful, are
+capitalized.
+
+     Upon the sale or retirement of oil and gas properties, the cost thereof
+and the accumulated depreciation and depletion are removed from the accounts
+and any gain or loss is credited or charged to operations.
+
+                                     F-5
+
+<PAGE>
+AMBER RESOURCES COMPANY OF COLORADO
+(A subsidiary of Delta Petroleum Corporation)
+Notes to Financial Statements
+Years Ended June 30, 2003 and 2002
+-----------------------------------------------------------------------------
+
+(1)  Summary of Significant Accounting Policies, Continued
+
+     Depreciation and depletion of capitalized acquisition, exploration and
+development costs is computed on the units-of-production method by individual
+fields as the related proved reserves are produced.  Capitalized costs of
+undeveloped properties are assessed periodically on an individual field basis
+and a provision for impairment is recorded, if necessary, through a charge to
+operations.
+
+     Impairment of Long-Lived Assets
+
+     In August 2001, the FASB issued SFAS No. 144, "Accounting for the
+Impairment or Disposal of Long-Lived Assets."  SFAS No. 144 supersedes SFAS
+No. 121, "Accounting for the Impairment of Long-Lived Assets and for Long-
+Lived Assets to Be Disposed Of."  SFAS 144 establishes a single accounting
+model for long-lived assets to be disposed of by sale and requires that those
+long-lived assets be measured at the lower of carrying amount or fair value
+less cost to sell, whether reported in continuing operations or in
+discontinued operations.
+
+     For undeveloped properties, the need for an impairment reserve is based
+on the Company's plans for future development and other activities impacting
+the life of the property and the ability of the Company to recover its
+investment.  When the Company believes the cost of the undeveloped property is
+no longer recoverable, an impairment charge is recorded based on the estimated
+fair value of the property.
+
+     Earnings (Loss) per Share
+
+     Basic earnings (loss) per share is computed by dividing net earnings
+(loss) attributable to common stock by the weighted average number of common
+shares outstanding during each period, excluding treasury shares.  The Company
+does not have any dilutive instruments and as such, no diluted earnings per
+share have been presented.
+
+
+
+
+
+
+
+
+
+
+
+
+                                     F-6
+
+<PAGE>
+AMBER RESOURCES COMPANY OF COLORADO
+(A subsidiary of Delta Petroleum Corporation)
+Notes to Financial Statements
+Years Ended June 30, 2003 and 2002
+-----------------------------------------------------------------------------
+
+(1)  Summary of Significant Accounting Policies, Continued
+
+     Use of Estimates
+
+     The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenue and expenses during the
+reported period. Significant estimates include oil and gas reserves, bad
+debts, oil and gas properties, income taxes, contingencies and litigation.
+Actual results could differ from these estimates.
+
+     Recently Issued Accounting Standards and Pronouncements
+
+     The Company has been made aware that an issue has arisen within the
+industry regarding the application of provisions of SFAS No. 142 and SFAS No.
+141, "Business Combinations," to companies in the extractive industries,
+including oil and gas companies. The issue is whether SFAS No. 142 requires
+registrants to reclassify costs associated with mineral rights, including both
+proved and unproved leasehold acquisition costs, as intangible assets in the
+balance sheet, apart from other capitalized oil and gas property costs.
+Historically, the Company and other oil and gas companies have included the
+cost of these oil and gas leasehold interests as part of oil and gas
+properties. Also under consideration is whether SFAS No. 142 requires
+registrants to provide the additional disclosures prescribed by SFAS No. 142
+for intangible assets for costs associated with mineral rights.
+
+     If it is ultimately determined that SFAS No. 142 requires the Company to
+reclassify costs associated with mineral rights from property and equipment to
+intangible assets, the amounts that would be reclassified are as follows:
+
+                                                     June 30,
+                                               2003             2002
+                                            -----------     -----------
+INTANGIBLE ASSETS:
+  Proved leasehold acquisition costs        $         -     $         -
+  Unproved leasehold acquisition costs        5,006,560       5,006,276
+                                            -----------     -----------
+     Total leasehold acquisition costs        5,006,560       5,006,276
+
+Less: Accumulated depletion                           -               -
+                                            -----------     -----------
+Net leasehold acquisition costs             $ 5,006,560     $ 5,006,276
+                                            -----------     -----------
+
+
+                                   F-7
+
+<PAGE>
+AMBER RESOURCES COMPANY OF COLORADO
+(A subsidiary of Delta Petroleum Corporation)
+Notes to Financial Statements
+Years Ended June 30, 2003 and 2002
+-----------------------------------------------------------------------------
+
+(1)  Summary of Significant Accounting Policies, Continued
+
+     The reclassification of these amounts would not effect the method in
+which such costs are amortized or the manner in which the Company assesses
+impairment of capitalized costs. As a result, net income would not be affected
+by the reclassification.
+
+     Statement 145, Recission of FASB Statements No. 4, 44 and 64, Amendment
+of FASB Statement No. 13, and Technical Corrections (SFAS No. 145) was issued
+in April 2002.  This statement rescinds SFAS No. 4, Reporting Gains and Losses
+from Extinguishment of Debt, which required all gains and losses from
+extinguishment of debt to be aggregated and, if material, classified as an
+extraordinary item, net of income taxes.  As a result, the criteria in APB 30
+will now be used to classify those gains and losses.  Any gain or loss on the
+extinguishment of debt that was classified as an extraordinary item in prior
+periods presented that does not meet the criteria in APB 30 for classification
+as an extraordinary item shall be reclassified.  The provisions of this
+Statement are effective for fiscal years beginning after January 1, 2003.  The
+Company does not believe this statement will have a material impact to the
+Financial Statements.
+
+     In November 2002, the FASB issued Financial Interpretation No. 45,
+"Guarantor's Accounting and Disclosure Requirements for Guarantees, Including
+Indirect Guarantees of Indebtedness of Others - an interpretation of FASB
+Statements Nos. 5, 57, and 107 and rescission of FASB Interpretation No. 34"
+("FIN 45"). FIN 45 elaborates on the disclosures to be made by a guarantor in
+its interim and annual financial statements about its obligations under
+certain guarantees that it has issued. It also clarifies that a guarantor is
+required to recognize, at the inception of a guarantee, a liability for the
+fair value of the obligation undertaken in issuing the guarantee. The initial
+recognition and initial measurement provisions of FIN 45 are applicable on a
+prospective basis to guarantees issued or modified after December 31, 2002,
+irrespective of the guarantor's fiscal year-end. The disclosure requirements
+are effective for financial statements of interim or annual periods ending
+after December 15, 2002. The adoption of FIN 45 has not had any effect on the
+Company's financial position or results of operations.
+
+      In January 2003, the FASB issued Financial Interpretation No. 46,
+"Consolidation of Variable Interest Entities - an interpretation of ARB No.
+51" ("FIN 46"). FIN 46 is an interpretation of Accounting Research Bulletin
+51, "Consolidated Financial Statements," and addresses consolidation by
+business enterprises of variable interest entities ("VIE's"). The primary
+objective of FIN 46 is to provide guidance on the identification of, and
+financial reporting for, entities over which control is achieved through means
+other than voting rights.
+
+
+                                  F-8
+
+<PAGE>
+AMBER RESOURCES COMPANY OF COLORADO
+(A subsidiary of Delta Petroleum Corporation)
+Notes to Financial Statements
+Years Ended June 30, 2003 and 2002
+-----------------------------------------------------------------------------
+
+(1)  Summary of Significant Accounting Policies, Continued
+
+     Such entities are known as VIE's. FIN 46 requires an enterprise to
+consolidate a VIE if that enterprise has a variable interest that will absorb
+a majority of the entity's expected losses if they occur, receive a majority
+of the entity's expected residual returns if they occur, or both.
+
+     An enterprise shall consider the rights and obligations conveyed by its
+variable interests in  making this determination.  This guidance applies
+immediately to variable interest entities created after January 31, 2003, and
+to variable interest entities in which an enterprise obtains an interest after
+that date.
+
+     It applies in the first fiscal year or interim period beginning after
+June 15, 2003, to variable interest entities in which an enterprise holds a
+variable interest that it acquired before February 1, 2003. At this time, the
+Company does not have a VIE.
+
+     In April 2003, FASB issued SFAS No. 149, "Amendment of Statement 133 on
+Derivative Instruments and Hedging Activities." SFAS No. 149 amends and
+clarifies financial accounting and reporting for derivative instruments,
+including certain derivative instruments embedded in other contracts and for
+hedging activities under SFAS No. 133 "Accounting for Derivative Instruments
+and Hedging Activities." SFAS No. 149 is effective for contracts entered into
+or modified after June 30, 2003 and for hedging relationships designated after
+June 30, 2003. The Company adopted SFAS No. 149 on July 1, 2004 and does not
+expect to have a material impact on the Company's financial condition and
+results of operations.
+
+     In May 2003, the FASB issued SFAS No. 150, "Accounting for Certain
+Financial Instruments with Characteristics of Both Liabilities and Equity."
+SFAS No. 150 changes the accounting for certain financial instruments that,
+under previous guidance, issuers could account for as equity. FASB No. 150
+requires that those instruments be classified as liabilities in statements of
+financial position. SFAS No. 150 is effective for financial instruments
+entered into or modified after May 31, 2003, and otherwise is effective at the
+beginning of the first interim period beginning after June 15, 2003.  SFAS No.
+150 is not expected to have a material impact on the Company's financial
+condition or results of operation.
+
+
+
+
+
+
+
+
+
+
+                                   F-9
+
+<PAGE>
+AMBER RESOURCES COMPANY OF COLORADO
+(A subsidiary of Delta Petroleum Corporation)
+Notes to Financial Statements
+Years Ended June 30, 2003 and 2002
+-----------------------------------------------------------------------------
+
+(2)  Oil and Gas Properties
+
+     On July 1, 2001, the Company sold all of its producing properties to
+Delta Petroleum Corporation, our Parent, for $107,045.  The sales price for
+the properties was fair value based on an evaluation performed by an unrelated
+engineering firm.  The difference between the sales price received and the net
+cost of the properties resulted in a gain of $73,960.  The properties were
+ultimately sold by the Company's parent during fiscal 2002.  As such, the gain
+was realized during fiscal 2002.
+
+     Unproved Undeveloped Offshore California Properties
+
+     The Company has ownership interests ranging from .87% to 6.97% in three
+unproved undeveloped offshore California oil and gas properties with aggregate
+carrying values of $5,006,560 on June 30, 2003. These property interests are
+located in proximity to existing producing federal offshore units near Santa
+Barbara, California and represent the right to explore for, develop and
+produce oil and gas from offshore federal lease units. Preliminary exploration
+efforts on these properties have occurred and the existence of substantial
+quantities of hydrocarbons has been indicated.  The recovery of the Company's
+investment in these properties will require extensive exploration and
+development activities (and costs) that cannot proceed without certain
+regulatory approvals that have been delayed and is subject to other
+substantial risks and uncertainties as discussed herein.
+
+     The Company is not the designated operator of any of these properties but
+is an active participant in the ongoing activities of each property along with
+the designated operator and other interest owners.  If the designated operator
+elected not to or was unable to continue as the operator, the other property
+interest owners would have the right to designate a new operator as well as
+share in additional property returns prior to the replaced operator being able
+to receive returns.  Based on the Company's size, it would be difficult for
+the Company to proceed with exploration and development plans should other
+substantial interest owners elect not to proceed.  However, to the best of its
+knowledge, the Company believes the designated operators and other major
+property interest owners intend to proceed with exploration and development
+plans under the terms and conditions of the operating agreement.  The
+ownership rights in each of these properties have been retained under various
+suspension notices issued by the Mineral Management Service (MMS) of the U.S.
+Federal Government whereby as long as the owners of each property were
+progressing toward defined milestone objectives, the owners' rights with
+respect to the properties continue to be maintained.  The issuance of the
+suspension notices has been necessitated by the numerous delays in the
+exploration and development process resulting from regulatory requirements
+imposed on the property owners by federal, state and local agencies.
+
+
+
+
+                                  F-10
+
+<PAGE>
+AMBER RESOURCES COMPANY OF COLORADO
+(A subsidiary of Delta Petroleum Corporation)
+Notes to Financial Statements
+Years Ended June 30, 2003 and 2002
+-----------------------------------------------------------------------------
+
+(2)  Oil and Gas Properties, Continued
+
+     The delays have prevented the property owners from submitting for
+approval an exploration plan on four of the properties.  If and when plans are
+submitted for approval, they are subject to review for consistency with the
+California Coastal Zone Management Planning (CZMP) and by the MMS for other
+technical requirements.
+
+     Even though the Company is not the designated operator of the properties
+and regulatory approvals have not been obtained, the Company believes
+exploration and development activities on these properties will occur and is
+committed to expend funds attributable to its interests in order to proceed
+with obtaining the approvals for the exploration and development activities.
+
+     Based on the preliminary indicated levels of hydrocarbons present from
+drilling operations conducted in the past, the Company believes the fair value
+of its property interests are in excess of their carrying value at June 30,
+2003 and June 30, 2002 and that no impairment in the carrying value has
+occurred.  Should the required regulatory approvals not be obtained or plans
+for exploration and development of the properties not continue, the carrying
+value of the properties would likely be impaired and written off.
+
+     The forty undeveloped leases are located in the Offshore Santa Maria
+Basin off the coast of Santa Barbara and San Luis Obispo counties, and in the
+Santa Barbara Channel off Santa Barbara and Ventura counties.  None of these
+leases are adverse ruling by the California Coastal Commission under the
+Coastal Zone Management Act and we decide not to appeal such ruling to the
+Secretary of Commerce, or the Secretary of Commerce either refuses to hear our
+appeal of any such ruling or ultimately makes a determination adverse to us,
+it is likely that some or all of these leases would become impaired and
+written off at that time.
+
+     As the ruling in the Norton case currently stands, the United States has
+been ordered to make a consistency determination under the Coastal Zone
+Management Act, but the leases are still valid.  If the leases are found not
+to be valid for some reason, or if the United States either does not comply
+with the order requiring it to make a consistency determination or finds that
+development is inconsistent with the Coastal Zone Management Act, it would
+appear that the leases would become impaired even though we would undoubtedly
+proceed with our litigation.  It is also possible that other events could
+occur that would cause the leases to become impaired, and we will continuously
+evaluate those factors as they occur.
+
+
+
+
+
+                                     F-11
+
+<PAGE>
+AMBER RESOURCES COMPANY OF COLORADO
+(A subsidiary of Delta Petroleum Corporation)
+Notes to Consolidated Financial Statements
+June 30, 2003, 2002 and 2001
+-----------------------------------------------------------------------------
+
+(2)  Oil and Gas Properties, Continued
+
+     On January 9, 2002, we and several other plaintiffs filed a lawsuit in
+the United States Court of Federal Claims in Washington, D.C. alleging that
+the U.S. Government has materially breached the terms of forty undeveloped
+federal leases, some of which are part of our Offshore California properties.
+The Complaint is based on allegations by the collective plaintiffs that the
+United States has materially breached the terms of certain of their Offshore
+California leases by attempting to deviate significantly from the procedures
+and standards that were in effect when the leases were entered into, and by
+failing to carry out its own obligations relating to those leases in a timely
+and fair manner.  More specifically, the plaintiffs have alleged that the
+judicial determination in the California v. Norton case that a 1990 amendment
+to the Coastal Zone Management Act required the Government to make a
+consistency determination prior to granting lease suspension requests in 1999
+constitutes a material change in the procedures and standards that were in
+effect when the leases were issued.  The plaintiffs have also alleged that the
+United States has failed to afford them the timely and fair review of their
+lease suspension requests which has resulted in significant, continuing and
+material delays to their exploratory and development operations.
+
+     The suit seeks compensation for the lease bonuses and rentals paid to the
+Federal Government, exploration costs and related expenses. The total amount
+claimed by all lessees for bonuses and rentals exceeds $1.2 billion, with
+additional amounts for exploration costs and related expenses.  In the event,
+however, that we receive any proceeds as the result of such litigation, we may
+be obligated to pay a portion of any amount received by us to landowners and
+other owners of royalties and similar interests, and to pay expenses of
+litigation and to fulfill certain pre-existing contractual commitments to
+third parties.
+
+(3)  Preferred Stock
+
+     The Board of Directors is authorized to issue 5,000,000 shares of
+preferred stock having a par value of $0.10 per share.  As of the years ended
+June 30, 2003 and 2002, no preferred stock was issued and outstanding.
+
+
+
+
+
+
+
+
+
+
+
+                               F-12
+
+<PAGE>
+AMBER RESOURCES COMPANY OF COLORADO
+(A subsidiary of Delta Petroleum Corporation)
+Notes to Financial Statements
+Years Ended June 30, 2003 and 2002
+-----------------------------------------------------------------------------
+
+(4)  Income Taxes
+
+     At June 30, 2003 and 2002,the Company's significant deferred tax assets
+and liabilities are summarized as follows:
+
+                                              2003          2002
+                                              ----          ----
+ Deferred tax assets:
+    Net operating loss
+    carryforwards                            $ 765,000     $ 841,000
+
+                                             ---------    ----------
+    Gross deferred tax assets                  765,000       841,000
+
+     Less valuation allowance                 (765,000)     (841,000)
+                                             ---------    ----------
+                                                     -             -
+  Deferred tax liability:
+    Oil and gas properties,
+    principally due to differences
+    in basis and depreciation and
+    depletion                                        -             -
+                                             ---------     ---------
+   Net deferred tax asset                    $       -     $       -
+                                             =========     =========
+
+
+     No income tax expense or benefit has been recorded for the years ended
+June 30, 2003 and 2002 since the deferred income taxes that would have
+otherwise been provided were offset by the change in the valuation allowance
+for such net deferred tax assets.  The Company is consolidated in Delta's
+income tax return and accounts for its income tax as if it filed a separate
+return.  As Delta has a net operating loss carryforward and a valuation
+allowance for deferred tax assets, the consolidation for income tax purposes
+has no financial statement impact to the Company.
+
+    At June 30, 2003, the Company had net operating loss carryforwards for
+regular and alternative minimum tax purposes of approximately $2,020,000.  If
+not utilized, the tax net operating loss carryforwards will expire during the
+period from 2004 through 2023.  If not utilized, approximately $1.0 million of
+net operating losses will expire over the next five years.
+
+
+
+
+
+
+
+
+                                   F-13
+
+<PAGE>
+AMBER RESOURCES COMPANY OF COLORADO
+(A subsidiary of Delta Petroleum Corporation)
+Notes to Financial Statements
+Years Ended June 30, 2003 and 2002
+-----------------------------------------------------------------------------
+
+(5)  Related Party Transactions
+
+     Effective October 1, 1998, the Company and Delta entered into an
+agreement which provides for the sharing of management between the two
+companies. Under this agreement the Company pays Delta $25,000 per quarter for
+its share of rent, administrative, accounting  and management services of
+Delta officers  and employees.  This agreement replaces a previous agreement
+which allocated similar expenses based on the Company's proportionate share of
+oil and gas production. The charges to the Company for the provision of
+services by Delta were $100,000 for the year ended June 30, 2003, 2002 and
+2001.  The Company had a non-interest bearing receivable from Delta of
+$266,179 and $398,494 recorded as a reduction in equity at June 30, 2003 and
+2002, respectively.
+
+     On July 1, 2001, the Company sold all of its proved producing properties
+to Delta, which owns over 91% of the Company's issued and outstanding shares,
+for $107,045 in cash.  The sale price was calculated as being an amount equal
+to the net present value of the estimated hydrocarbons beneath the properties
+using a discount rate of 10% as determined by independent third party
+engineers.  Management believes that the terms of this transaction were no
+less favorable to the Company than could have been obtained from an
+independent third party.
+
+(6)  Disclosures About Capitalized Costs, Costs Incurred and Major Customers
+
+     Capitalized costs related to oil and gas producing activities are as
+follows:
+                                     June 30,        June 30,
+                                      2003            2002
+                                   -----------     -----------
+  Undeveloped offshore
+     California properties         $ 5,006,560     $ 5,006,276
+  Developed onshore
+     domestic properties                     -               -
+                                   -----------     -----------
+                                     5,006,560       5,006,276
+  Accumulated depreciation
+     and depletion                           -               -
+                                   -----------     -----------
+                                   $ 5,006,560     $ 5,006,276
+                                   ===========     ===========
+
+     Costs incurred in oil and gas producing activities for the years ended
+June 30, 2003, 2002 and 2001 are as follows:
+
+                                       2003           2002        2001
+                                       ----           ----        ----
+     Unproved property acquisition
+       costs                        $   284          $     -     $     -
+     Intangible drilling costs      $     -          $     -     $ 7,522
+     Exploration costs              $     -          $19,772     $17,482
+
+                                    F-14
+AMBER RESOURCES COMPANY OF COLORADO
+(A subsidiary of Delta Petroleum Corporation)
+Notes to Financial Statements
+Years ended June 30, 2003, 2002 and 2001
+-----------------------------------------------------------------------------
+
+(6)  Disclosures About Capitalized Costs, Costs Incurred and Major Customers
+     (Continued)
+
+     A summary of the results of operations for oil and gas producing
+activities, excluding general and administrative cost, for the years ended
+June 30, 2003, 2002 and 2001 is as follows:
+
+                                         2003      2002        2001
+                                         ----      ----        ----
+  Revenue:
+    Oil and gas sales                  $    -    $      -    $67,738
+  Expenses:
+   Lease operating                          -           -     22,827
+   Depletion                                -           -     10,608
+   Exploration                              -      19,772     17,482
+                                       ------     -------    -------
+  Results of operations of oil
+  Gas producing activities             $    -    $(19,772)   $16,821
+                                      =======    ========    =======
+
+     Statement of Financial Accounting Standards 131 "Disclosures about
+Segments of an Enterprise and Related Information" (SFAS 131) establishes
+standards for reporting information about operating segments in annual and
+interim financial statements.  SFAS 131 also establishes standards for related
+disclosures about products and services, geographic areas and major customers.
+The Company manages its business through one operating segment.
+
+     As the Company had sold its producing properties at the beginning of
+fiscal year 2002, there were no 2003 and 2002 customers, but in 2001, sales to
+three major customers accounted for approximately 44%, 12% and 12% of oil and
+gas sales.
+
+(7) Information Regarding Proved Oil and Gas Reserves (Unaudited)
+
+     Proved Oil and Gas Reserves. Proved oil and gas reserves are the
+estimated quantities of crude oil, natural gas, and natural gas liquids which
+geological and engineering  data demonstrate with reasonable certainty to be
+recoverable in future years from known reservoirs under existing economic and
+operating conditions, i.e., prices and costs as of the date the estimate is
+made. Prices include consideration of changes in existing prices provided only
+by contractual arrangements, but not on escalations based upon future
+conditions.
+
+
+
+
+
+
+                                  F-15
+
+<PAGE>
+AMBER RESOURCES COMPANY OF COLORADO
+(A subsidiary of Delta Petroleum Corporation)
+Notes to Financial Statements
+Years Ended June 30, 2003 and 2002
+-----------------------------------------------------------------------------
+
+(7)  Information Regarding Proved Oil and Gas Reserves (Unaudited), Continued
+
+     (i)  Reservoirs are considered proved if economic producibility is
+     supported by either actual production or conclusive formation test.  The
+     area of a reservoir considered proved includes (A) that portion
+     delineated by drilling and defined by gas-oil and/or oil-water contacts,
+     if any; and (B) the immediately adjoining portions not yet drilled, but
+     which can be reasonably judged as economically productive on the basis of
+     available geological and engineering data.  In the absence of information
+     on fluid contacts, the lowest known structural occurrence of hydrocarbons
+     controls the lower proved limit of the reservoir.
+
+     (ii)  Reserves which can be produced economically through application of
+     improved recovery techniques (such as fluid injection) are included in
+     the "proved" classification when successful testing by a pilot project,
+     or the operation of an installed program in the reservoir, provides
+     support for the engineering analysis on which the project or program was
+     based.
+
+     (iii) Estimates of proved reserves do not include the following: (A) oil
+     that may become available from known reservoirs  but is classified
+     separately as  "indicated  additional reserves"; (B) crude oil, natural
+     gas, and natural gas liquids, the recovery of which is subject to
+     reasonable doubt because of uncertainty as to geology, reservoir
+     characteristics, or economic factors; (C) crude oil, natural gas, and
+     natural gas liquids, that may occur in underlaid prospects; and (D) crude
+     oil, natural gas, and natural gas liquids, that may be recovered from oil
+     shales, coal, gilsonite and other such sources.
+
+     Proved developed oil and gas reserves are reserves that can be expected
+to be recovered through existing wells with existing equipment and operating
+methods. Additional oil and gas expected to be obtained through the
+application of fluid injection or other improved recovery techniques for
+supplementing the natural forces and mechanisms of primary recovery should be
+included as "proved developed reserves" only after testing by a pilot project
+or after the operation of an installed program has confirmed through
+production response that increased recovery will be achieved.
+
+     Proved undeveloped oil and gas reserves are reserves that are expected to
+be recovered from new wells on undrilled acreage, or from existing wells where
+a relatively major expenditure is required for recompletion. Reserves on
+undrilled acreage shall be limited to those drilling units offsetting
+productive units that are reasonably certain of production when drilled.
+
+
+
+                                   F-16
+
+
+<PAGE>
+AMBER RESOURCES COMPANY OF COLORADO
+(A subsidiary of Delta Petroleum Corporation)
+Notes to Financial Statements
+Years Ended June 30, 2003 and 2001
+-----------------------------------------------------------------------------
+
+(7)  Information Regarding Proved Oil and Gas Reserves (Unaudited), Continued
+
+Proved reserves for other undrilled units can be claimed only where it can be
+demonstrated with certainty that there is continuity of production from the
+existing productive formation.  Under no circumstances should estimates for
+proved undeveloped reserves be attributable to any acreage for which an
+application of fluid injection or other improved recovery technique is
+contemplated, unless such techniques have been proved effective by actual
+tests in the area and in the same reservoir.
+
+     A summary of changes in estimated quantities of proved reserves for the
+years ended June 30, 2003, 2002 and 2001 are as follows:
+
+                                                Onshore
+                                         --------------------
+                                             GAS         OIL
+                                            (MCF)       (BBLS)
+                                         ---------------------
+     Balance at June 30, 2000               166,999      2,201
+
+       Revisions of quantity estimates     (25,299)       (138)
+       Production                          (11,630)       (381)
+                                          --------      ------
+     Balance at June 30, 2001              130,070       1,682
+
+     Sales of Producing Properties        (130,070)     (1,682)
+                                          --------      ------
+     Balance at June 30, 2002                    -           -
+                                          ========      ======
+
+     Balance at June 30, 2003                    -           -
+                                          ========      ======
+
+
+     Proved developed reserves:
+       June 30, 2001                       130,070       1,682
+       June 30, 2002                             -           -
+       June 30, 2003                             -           -
+
+
+
+
+
+
+
+
+
+                                   F-17
+
+<PAGE>
+AMBER RESOURCES COMPANY OF COLORADO
+(A subsidiary of Delta Petroleum Corporation)
+Notes to Financial Statements
+Years Ended June 30, 2003 and 2002
+-----------------------------------------------------------------------------
+
+(7)   Information Regarding Proved Oil and Gas Reserves (Unaudited), Continued
+
+     Future net cash flows presented below are computed using year-end prices
+and costs.  The Company has no proved reserves at June 30, 2003 or June 30,
+2002.  As such, certain disclosures at June 30, 2003 and 2002 have been
+eliminated.
+
+     Future corporate overhead expenses and interest expense have not been
+included.
+
+     June 30, 2001
+
+     Future cash inflows                         $  343,937
+     Future costs:
+      Production                                    172,264
+      Development                                         -
+      Income taxes                                        -
+                                                 ----------
+
+     Future net cash flows                          171,673
+
+     10% discount factor                             64,629
+                                                 ----------
+
+     Standardized measure of discounted future
+        net cash flows                           $  107,044
+                                                 ==========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    F-18
+
+<PAGE>
+AMBER RESOURCES COMPANY OF COLORADO
+(A subsidiary of Delta Petroleum Corporation)
+Notes to Financial Statements
+Years Ended June 30, 2003, 2002 and 2001
+----------------------------------------------------------------------------
+
+(7)  Information Regarding Proved Oil and Gas Reserves (Unaudited), Continued
+
+     The principal sources of changes in the standardized measure of
+discounted net cash flows during the year ended June 30, 2003, 2002 and 2001
+are as follows:
+
+<TABLE>
+<CAPTION>
+                                                   2003        2002          2001
+                                                   ----        ----          ----
+<S>                                              <C>         <C>          <C>
+ Beginning of year                               $     -     $ 107,044    $ 231,936
+ Sales of oil and gas produced during the
+        period, net of production costs                -             -      (44,911)
+ Net change in prices and production costs             -             -      (51,512)
+ Changes in estimated future development costs         -             -            -
+ Revisions of previous quantity estimates,
+   estimated timing of development and other           -            -       (51,663)
+ Sale of reserves in place                             -      (107,044)           -
+ Accretion of discount                                 -             -       23,194
+                                                 --------    ---------    ---------
+ End of year                                     $      -    $       -    $ 107,044
+                                                 ========    =========    =========
+
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    F-19
+
+<PAGE>
+                                 SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, we have caused this Form 10-K to be signed on our behalf
+by the undersigned, thereunto duly authorized, in the City of Denver and State
+of Colorado on the 29th day of September, 2003
+
+                                  AMBER RESOURCES COMPANY OF COLORADO
+
+
+                                  By: /s/ Roger A. Parker
+                                     ----------------------------------------
+                                     Roger A. Parker, Chief Executive Officer
+
+
+                                  By: /s/ Kevin K. Nanke
+                                     ---------------------------------------
+                                     Kevin K. Nanke, Chief Financial Officer
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, we
+have duly caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized.
+
+Signature and Title                                  Date
+
+/s/ Aleron H. Larson, Jr.                     September 29, 2003
+-------------------------------
+Aleron H. Larson, Jr., Director
+
+
+/s/ Roger A. Parker                           September 29, 2003
+-------------------------------
+Roger A. Parker, Director
+
+
+/s/ Jerrie F. Eckelberger                     September 29, 2003
+-------------------------------
+Jerrie F. Eckelberger, Director
+
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,4219 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>a31399.txt
+<DESCRIPTION>AEROFLEX INCORPORATED 10-K
+<TEXT>
+
+<PAGE>
+
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+
+
+                      FOR ANNUAL AND TRANSITION REPORTS
+                   PURSUANT TO SECTIONS 13 OR 15(d) OF THE
+                       SECURITIES EXCHANGE ACT OF 1934
+
+(Mark One)
+
+[X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT
+    OF 1934
+
+                     For the fiscal year ended June 30, 2001
+                                       OR
+
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+    ACT OF 1934
+
+                For the transition period from _______ to ______
+
+                          Commission File No. 000-02324
+
+                             Aeroflex Incorporated
+--------------------------------------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+
+<TABLE>
+<S>                                            <C>
+               Delaware                                    11-1974412
+------------------------------------------          ----------------------
+     (State or other jurisdiction of                    (I.R.S. Employer
+     incorporation or organization)                    Identification No.)
+
+35 South Service Road, Plainview, New York                   11803
+------------------------------------------          ----------------------
+(Address of Principal Executive Offices)                   (Zip Code)
+
+Registrant's telephone number, including area code:      (516) 694-6700
+                                                    ----------------------
+</TABLE>
+
+
+           Securities registered pursuant to Section 12(b) of the Act:
+
+
+<TABLE>
+<CAPTION>
+                                                   Name of Each Exchange on
+         Title of Class                                 Which Registered
+         --------------                            ------------------------
+    <S>                                         <C>
+             None
+</TABLE>
+
+
+<TABLE>
+<S>                                                         <C>
+Securities registered pursuant to Section 12(g) of the Act:  Common Stock, $.10 par value
+                                                             ----------------------------
+                                                                    (Title of Class)
+</TABLE>
+
+
+         Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes  X    No
+                                              ---     ---
+
+         Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K [ ].
+
+         State the aggregate market value of the voting stock held by
+non-affiliates of the registrant. (The aggregate market value shall be computed
+by reference to the price at which the stock was sold, or the average bid and
+asked prices of such stock, as of a specified date within 60 days prior to the
+date of filing). As of September 18, 2001 - approximately $520,157,000.
+
+         Indicate the number of shares outstanding of each of the registrant's
+classes of common stock, as of the latest practicable date (applicable only to
+corporate registrants). Common Stock, par value $.10 per share; outstanding as
+of September 18, 2001 - 59,669,985 (excluding 4,388 shares held in treasury).
+
+         Documents incorporated by reference: Part III - Registrant's definitive
+proxy statement to be filed pursuant to Regulation 14A of the Securities Act of
+1934.
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+ITEM ONE - BUSINESS
+
+Overview
+
+We use our advanced design, engineering and manufacturing abilities to produce
+microelectronic, integrated circuit, interconnect and testing solutions. Our
+products are used in the fiber optic, broadband cable, wireless and satellite
+communications markets. We also design and manufacture motion control systems
+and shock and vibration isolation systems which are used for commercial,
+industrial and defense applications.
+
+Our operations are grouped into three segments:
+
+         o        Microelectronic Solutions
+         o        Test Solutions
+         o        Isolator Products
+
+These segments, their products and the markets they serve are described below.
+
+Microelectronic Solutions
+
+The table below lists some of our products.
+
+<TABLE>
+<CAPTION>
+       Market                      Substrates             Assemblies/Modules                 Proprietary Modules
+                                                                                             and Integrated
+                                                                                             Circuits
+------------------------------------------------------------------------------------------------------------------
+<S>                 <C>                              <C>                                  <C>
+Fiber Optics           Laser Diodes                       Application Specific               Clock and Data
+(including             PIN Pre-Amplifiers                   Carrier Assemblies                   Recovery
+Cable)                 Transimpedance                     APD Receiver                       Bessel Filters
+                          Amplifiers                      Sub-Assemblies                     Modulator Drivers
+                       Pre-Amplifiers                     Clock Recovery                     Limiting Amplifiers
+                       Post-Amplifiers                    Synthesizers                       Lithium Niobate
+                       Lithium Niobate                    Laser Diode Assemblies                 Modulators
+                          Terminations                    Transmitter Assemblies             Optical Switches
+                       Mach-Zender Modulators             Modulator Assemblies
+                       Clock Recovery
+                       PIN Receivers
+                       APD Receivers
+                       1 Ghz Pre- and Post-
+                          Amplifiers
+                       Trunk Amplifiers
+                       Line Extenders
+                       Power Doublers
+------------------------------------------------------------------------------------------------------------------
+Wireless               Receivers                          Memory Modules                     Application Specific
+(including             Handset Diplexers                  Multiplexers                          Integrated Circuits
+Satellite)             Handset Triplexers                 Data Communication                 Controllers
+                       S, L, Ka, Ku Band                     Modules                         Memories
+                          Transmit and Receive            Micro Controllers                  LVDS Interconnects
+                          Modules                         DC to DC Converters                Programmable Logic
+                       Amplifiers                         Voltage Regulators
+                       Filters                            IF Switches
+------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+
+                                       -2-
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+Thin Film Circuits and Interconnects
+
+We design, develop, manufacture and market advanced integrated fiber optic and
+wireless interconnect products based on thin film manufacturing technology.
+Primary product requirements for this advanced technology include the following
+attributes:
+
+o        miniaturization;
+o        ease of assembly;
+o        improved thermal management;
+o        reduced power consumption; and
+o        critical component (laser) alignment.
+
+Due to the unique dimensional, thermal and electrical capabilities of our PIMIC
+interconnect technology, our products have become an essential component in:
+
+o        fiber optic transmitters, receivers and amplifiers;
+o        cable trunk amplifiers, line extenders, pre-amplifiers and power
+         doublers; and
+o        point-to-point and point-to-multipoint microwave radios.
+
+Thin film interconnect technology allows fiber optic module manufacturers, such
+as Nortel Networks, Lucent Technologies and JDS Uniphase, to achieve maximum
+performance with a low cost of ownership and a high level of quality. Exacting
+laser, optical lens and diode placement requirements, coupled with stringent
+thermal management needs, make our advanced optical interconnect technology a
+market leading choice among the major fiber optic module manufacturers.
+Continued migration from 2.5 gigabit, or Gbit, transmission rates to 10 Gbit and
+40 Gbit transmission rates results in increased output power levels and
+operating frequencies, further driving the need for our advanced optical
+interconnect technology.
+
+Our products also play an increasingly important role in the development and
+expansion of the broadband cable and HFC architecture. Applications in trunk
+amplifiers, line extenders, pre- amplifiers, post-amplifiers and power doublers
+has enabled greater bandwidth, improved loss characteristics and increased
+channel capability at the systems level. Additionally, in the wireless
+marketplace, the advance of dual and tri-mode handsets has resulted in our
+design of a series of miniaturized diplexers and triplexers for these
+communications devices.
+
+Microelectronic Modules
+
+We design, develop and manufacture sub-assemblies and modules for fiber optic
+networks. These products primarily support the 10 to 40 Gbit fiber optic
+networks. Our manufacturing equipment, methods and processes are designed to
+maintain the critical tolerances required for fiber optic components and high
+Gigahertz RF and microwave signals. Our manufacturing methods are designed to
+use automatic placement equipment and batch processing for maximum cost
+efficiency and reliability.
+
+We are one of the world's leading manufacturers of space hybrid microcircuits.
+We hold several prime space contractor certifications. We offer numerous
+application specific multi-function modules and hybrid designs that are highly
+reliable, small and lightweight; attributes that are significant for space
+components.
+
+
+                                       -3-
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+As a result of two acquisitions in 2001, we extended our core technologies in
+microelectronics. Our acquisitions of TriLink Communications Corp. and
+Amplicomm, Inc., and their products, complement our proprietary broadband module
+products. TriLink's specialty is the application of Lithium Niobate technology
+in broadband modulators and switches, while Amplicomm specializes in broadband
+amplifiers optimized for driving modulators.
+
+Silicon Integrated Circuits
+
+We have been a designer and supplier of silicon integrated circuits for more
+than 20 years. Our products include both custom and standard integrated circuits
+such as databuses, transceivers, microcontrollers, microprocessors and memories.
+Many of these circuits are radiation tolerant for satellite and space
+applications. Our products are on over 100 aerospace platforms. Our standard and
+semicustom circuits are available in the latest 0.6 and 0.25 micron silicon
+wafer technologies.
+
+The standard circuits include the primary processor, memory and databus
+functionality, and the semi-custom gate arrays are available with up to three
+million usable gates. These gate arrays are available in both radiation tolerant
+and non-radiation tolerant technologies and have been used frequently to replace
+field programmable gate array implementations. We have pioneered the use of
+commercial foundries to produce radiation tolerant components, known as
+Commercial RadHard, for the commercial space marketplace.
+
+Our subsidiary, UTMC has developed a Content Addressable Memory (CAM) Engine,
+the UTCAM-Engine'TM', which is beneficial for network and internet address
+processing, image processing, pattern recognition, artificial intelligence
+learning systems and database applications. The UTCAM-Engine'TM' is based on
+0.35'u'm technology, runs at 100 MHz and delivers association matches in as
+little as 70ns when using fast SRAM.
+
+The UTMC Circuit Card Assembly capability consists of full assembly, test and
+coat in a high mix/low-to-medium volume operation. UTMC's processes and test
+capabilities provide for state-of-the-art manufacturing. UTMC's SpaceCard'TM'
+combines best commercial practices of the circuit card assembly with UTMC's
+radiation-hardened integrated circuits to provide CCA solutions for the
+commercial space industry. UTMC's CCA operation also assembles the UT131
+Embedded Controller Card, a UTMC Standard Product Card. The UT131 ECC is ideal
+for space applications.
+
+Test Solutions
+
+Instrumentation
+
+Our high-speed test equipment provides product enhancements to communications
+systems manufacturers. Our line of frequency synthesizers offers the best
+combination of high-speed and low phase noise available, covering all
+communications frequencies. Our FS1000/1200 family of synthesizers are microwave
+frequency synthesizers that have been developed to support the requirements of
+mixed signal test systems used in the semiconductor market. Our test systems are
+designed to dramatically reduce test time for radio frequency semiconductors
+which allows end users to increase throughput without increasing costs. These
+benefits are derived from a design architecture that yields superior phase noise
+and switching speed performance - technology for which we believe we are
+well-known in the industry.
+
+
+                                       -4-
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+Our test system products allow communication manufacturers to test communication
+satellite payloads and transmit/receive modules faster and more economically
+than ever before. Our digital signal processing equipment and proprietary
+software algorithms allow users to simultaneously measure multiple functions,
+eliminating the need for individual instruments. These testers are based on our
+proprietary software, firmware, frequency conversion and high-speed data
+acquisition technologies and allow for higher throughputs and increased
+flexibility.
+
+Our acquisitions of Altair Cybernetics Corp. and RDL Inc. extended our
+capabilities in Test Solutions. Altair Cybernetics brought the power and
+flexibility of a modern software development platform to provide control and
+user interface solutions for complex test and control environments. RDL enlarged
+and enhanced our product offerings in communication test equipment and allowed
+us to extend our comprehensive solutions to high speed testing requirements.
+
+Motion Control Systems
+
+Motion control systems includes three divisions: stabilization and tracking
+devices, magnetic motors and scanning devices. We design, develop and produce
+stabilization tracking devices and systems. These products play an important
+role in high altitude aircraft, as well as in other aircraft, ships and ground
+vehicles which require precise, highly stable mounting for cameras, antennae and
+lasers. Magnetic motors are utilized in our stabilization and tracking systems
+and in other applications where precise movement is required, such as for
+positioning antennae, optical systems, mechanical vanes and valves. We make
+electro-optical scanning devices that are low cost, lightweight thermal imaging
+devices that detect targets based on thermal radiation contrasts with the
+background. These sights are intended for use on standard issue United States
+Army assault rifles and crew served weapons.
+
+Isolator Products
+
+We design, develop, manufacture and sell shock and vibration isolation systems.
+These devices include rubber, spring and steel wire rope shock and vibration and
+noise control devices. Purchasers of isolators are manufacturers or users of
+equipment sensitive to shock and vibration who need to reduce shock/vibration to
+levels compatible with equipment fragility to extend the useful life of their
+equipment. There are multiple markets for isolation systems including
+commercial, industrial and defense.
+
+Customers
+
+We have hundreds of customers in the communications, satellite,
+aerospace/defense, transportation and construction industries. Except for Agere
+(10.8%) in fiscal 2001; Teradyne (10.9%) and Lockheed Martin (10.3%) in fiscal
+2000; and Lockheed Martin (12.0%) and Lucent Technologies (11.1%) in fiscal
+1999, no one customer accounted for more than 10% of our net sales.
+
+
+                                       -5-
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+Marketing and Distribution
+
+We use a team-based sales approach to assist our personnel to closely manage
+relationships at multiple levels of the customer's organization, including
+management, engineering and purchasing personnel. Our integrated sales approach
+involves a team consisting of a senior executive, a business development
+specialist and members of our engineering department. Our use of experienced
+engineering personnel as part of the sales effort enables close technical
+collaboration with our customers during the design and qualification phase of
+new communications equipment. We believe that this is critical to the
+integration of our product into our customers' equipment. Some of our executive
+officers are also involved in all aspects of our relationships with our major
+customers and work closely with their senior management. We also use
+manufacturers' representatives and independent sales representatives as needed.
+
+Research and Development
+
+Our research and development efforts primarily involve engineering and design
+relating to:
+
+     o   developing new products
+     o   improving existing products
+     o   adapting such products to new applications
+     o   developing prototype components to bid on specific programs
+
+Certain product development and similar costs are recoverable under contractual
+arrangements and those that are not recoverable are expensed in the year
+incurred. The costs of our self-funded research activities were approximately
+$18.9 million for fiscal 2001, $11.6 million for fiscal 2000 and $10.1 million
+for fiscal 1999. The increases are primarily attributable to the addition of the
+expenses of our newly acquired companies and increased costs for the further
+development of frequency synthesizers and high speed automatic test systems.
+Also, in connection with our acquisitions of RDL, Inc. and TriLink
+Communications Corp. in fiscal 2001, we allocated $1.5 million (for RDL) and
+$1.0 million (for TriLink) of the purchase prices to incomplete research and
+development projects. In connection with our acquisition of UTMC Microelectronic
+Systems in February 1999, we allocated $3.5 million of the purchase price to
+incomplete research and development projects. Since the research and development
+projects had not reached technological feasibility at the time of the
+acquisition, these amounts were charged to expense in the respective years in
+addition to the self-funded research and development costs, in accordance with
+generally accepted accounting principles.
+
+Backlog
+
+We include in backlog firm purchase orders or contracts providing for delivery
+of products and services. At June 30, 2001, our order backlog was approximately
+$105.8 million, approximately 83% of which was scheduled to be delivered on or
+before June 30, 2002. Approximately 67% of this backlog represents commercial
+contracts and approximately 33% of this backlog represents defense contracts.
+Generally, government contracts are cancelable with payment to us of amounts
+which we have spent under the contract together with a reasonable profit, if
+any, while commercial contracts are not cancelable.
+
+At June 30, 2000, our backlog of orders was approximately $119.3 million.
+Approximately 89% of this backlog was scheduled to be delivered before June 30,
+2001. Approximately 24% of this backlog represented orders for military or
+national defense purposes.
+
+
+                                       -6-
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+Competition
+
+In all phases of our operations, we compete in both performance and price. In
+the manufacture of microelectronics, we believe our primary competitors are NTK,
+Texas Instruments, ILC/Data Devices Corp., Honeywell International and Kyocera
+International. In the manufacture of test products, we believe our primary
+competitors are Agilent Technologies and Rhode & Schwartz. In the manufacture of
+isolators, we believe our primary competitor is Barry Controls, Inc. We also
+experience significant competition from the in-house capabilities of our current
+and potential customers. We believe that in all of our operations we compete
+favorably in the principal competitive areas of:
+
+     o   technology
+     o   performance
+     o   reliability
+     o   quality
+     o   customer service
+     o   price
+
+We believe that to remain competitive in the future, we will need to invest
+significant financial resources in research and development.
+
+To the extent that we are engaged in government contracts, our success or
+failure, to a large measure, is based upon our ability to compete successfully
+for contracts and to complete them at a profit. Government business is
+necessarily affected by many factors such as variations in the military
+requirements of the government and defense budget allocations.
+
+Government Sales
+
+Approximately 29% of our sales for fiscal 2001, 33% of our sales for fiscal 2000
+and 42% of our sales for fiscal 1999 were to agencies of the United States
+Government or to prime defense contractors or subcontractors of the United
+States Government. Our overall dependence on the military has been declining due
+to a focusing of resources towards developing standard products for commercial
+markets. Our defense contracts have been awarded either on a bid basis or after
+negotiation. The contracts are primarily fixed price contracts, though we also
+have or had defense contracts providing for cost plus fixed fee. Our defense
+contracts contain customary provisions for termination at the convenience of the
+government without cause. In the event of such termination, we are generally
+entitled to reimbursement for our costs and to receive a reasonable profit, if
+any, on the work done prior to termination.
+
+Manufacturing
+
+We assemble, test, package and ship products at our manufacturing facilities
+located in:
+
+     o   Baldwin Park, California,
+     o   Colorado Springs, Colorado,
+     o   Boca Raton, Florida,
+     o   Bloomingdale, New Jersey,
+     o   Farmingdale, New York,
+     o   Pearl River, New York,
+
+
+                                       -7-
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+     o   Plainview, New York,
+     o   Powell, Ohio,
+     o   Conshohocken, Pennsylvania,
+     o   Richardson, Texas and
+     o   Elancourt, France
+
+We have been manufacturing products for defense programs for many years in
+compliance with stringent military specifications. Our microelectronic module
+manufacturing is certified to the status of Class "K," which means qualified for
+space. We believe we have brought to the commercial market the manufacturing
+quality and discipline we have demonstrated in the defense market. For example,
+many of our manufacturing plants are ISO-9001 or 9002 certified, our Plainview
+and Farmingdale plants are also certified to the more stringent Boeing D1-9000
+standard, and our Colorado Springs plant is also a QML (Qualified Manufacturers
+List) supplier at V, Q and T levels.
+
+Historically, our volume production requirements for the defense market did not
+justify our widespread implementation of highly automated manufacturing
+processes. Over the last several years, we have expanded our use of high-volume
+manufacturing techniques for product assembly and testing. We believe that we
+have the manufacturing capacity required to meet the growing demand for our
+products.
+
+The principal materials we use to manufacture and assemble our products are:
+
+     o   ceramic,
+     o   magnetic materials,
+     o   gold,
+     o   steel,
+     o   aluminum,
+     o   rubber,
+     o   iron and
+     o   copper.
+
+Many of the component parts we use in our products are also purchased,
+including:
+
+     o   semiconductors,
+     o   transformers and
+     o   amplifiers.
+
+Although we have several sole source arrangements, all the materials and
+components we use, including those purchased from a sole source, are readily
+available and are or can be purchased from time to time in the open market. We
+have no long-term commitments for their purchase. No supplier provides more than
+10% of our raw materials.
+
+Patents and Trademarks
+
+We own several patents, patent licenses and trademarks. In order to protect our
+intellectual property rights, we rely on a combination of trade secret,
+copyright, patent and trademark laws and employee and third-party nondisclosure
+agreements. We also limit access to and distribution of our proprietary
+information. While we believe that in the aggregate our patents and trademarks
+are important to our operations, we do not believe that one or any group of them
+is so important that its termination could materially affect us.
+
+
+                                       -8-
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+Employees
+
+As of June 30, 2001, we had approximately 1,250 employees, of whom 620 were
+employed in a manufacturing capacity, and 630 were employed in engineering,
+sales, administrative or clerical positions. Approximately 220 of our employees
+are covered by two collective bargaining agreements. We believe that our
+employee relations are satisfactory.
+
+Regulation
+
+Our operations are subject to various environmental, health and employee safety
+laws. We have spent money and management has spent time complying with
+environmental, health and worker safety laws which apply to our operations and
+facilities and we expect that we will continue to do so. Our principal products
+or services do not require any governmental approval. Compliance with
+environmental laws has not historically materially affected our capital
+expenditures, earnings or competitive position. We do not expect compliance with
+environmental laws to have a material effect on us in the future.
+
+Because we participate in the defense industry, we are subject to audit from
+time to time for our compliance with government regulations by various agencies,
+including (1) the Defense Contract Audit Agency, (2) the Defense Investigative
+Service and (3) the Defense Logistics Agency. These and other governmental
+agencies may also, from time to time, conduct inquiries or investigations
+regarding a broad range of our activities. Responding to any audits, inquiries
+or investigations may involve significant expense and divert management
+attention. Also, an adverse finding in any audit, inquiry or investigation could
+involve penalties that may have a material adverse effect on our business,
+results of operation or financial condition.
+
+We believe that we generally comply with all applicable environmental, health
+and worker safety laws and governmental regulations. Nevertheless, we cannot
+guarantee that in the future we will not incur additional costs for compliance
+or that those costs will not be material.
+
+Financial Information About Industry Segments
+
+The sales and operating profits of each industry segment and the identifiable
+assets attributable to each industry segment for each of the three years in the
+period ended June 30, 2001 are set forth in Note 14 of Notes to Consolidated
+Financial Statements.
+
+ITEM TWO - PROPERTIES
+
+Our executive offices and the manufacturing facilities of Aeroflex Laboratories
+Incorporated, one of our subsidiaries, are an aggregate of approximately 69,000
+square feet and are located in premises which we own in Plainview, Long Island,
+New York.
+
+Aeroflex Laboratories Incorporated also leases manufacturing facilities in
+Farmingdale, Long Island, New York of approximately 20,000 square feet and Boca
+Raton, Florida of approximately 11,000 square feet. The annual rental of these
+properties is approximately $166,000 for Farmingdale and $164,000 for Boca
+Raton.
+
+Our subsidiary, Aeroflex MIC Technology Corporation, owns its manufacturing
+facility in Pearl River, New York consisting of approximately 66,000 square
+feet. MIC leases a manufacturing facility of approximately 29,000 square feet in
+Richardson, Texas with an annual rent of approximately $185,000.
+
+
+                                       -9-
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+Our subsidiary, Vibration Mountings and Controls, Inc., conducts manufacturing
+operations at a plant located in Bloomingdale, New Jersey. The plant, which we
+own, is approximately 72,000 square feet.
+
+Our subsidiary, Aeroflex RDL, Inc., conducts manufacturing operations at a plant
+located in Conshohocken, Pennsylvania. The plant, which we own, is approximately
+50,000 square feet.
+
+Our subsidiary, Aeroflex Lintek Corp., occupies approximately 20,000 square feet
+of space in Powell, Ohio, with an annual rental of approximately $209,000.
+
+Our subsidiary, Aeroflex UTMC Microelectronic Systems, Inc., conducts
+manufacturing operations at a plant located in Colorado Springs, Colorado. The
+plant, which we own, is approximately 102,000 square feet.
+
+We believe that our facilities are adequate for our current and presently
+foreseeable needs.
+
+Legal Proceedings
+
+Our former subsidiary Filtron Co. Inc.,was one of several defendants named in a
+personal injury action initiated in 1994 by several plaintiffs in the Supreme
+Court of the State of New York, County of Kings. Filtron's operations were
+discontinued in October 1991.
+
+The plaintiffs in the action are current or former employees of a company to
+whom Filtron sold RFI filters/capacitors. According to the allegations of the
+amended verified complaint, the plaintiffs and their dependents are seeking to
+recover, respectively, directly and derivatively, on diverse theories of
+negligence, strict liability and breach of warranty, for injuries allegedly
+suffered from exposure to a liquid substance or material which Filtron
+incorporated for a period of time in the RFI filters/capacitors which it
+manufactured. The plaintiffs are seeking damages which cumulatively may exceed
+$500 million. This action is in the discovery stage. We intend to defend against
+this action vigorously. We believe that, considering our various defenses and
+that we have product liability insurance, the outcome of this action will not
+have a material adverse effect on us, however we cannot guarantee that will be
+the case.
+
+We are involved in various other routine legal matters. We believe the outcome
+of these matters will not have a material adverse effect on us.
+
+ITEM FOUR - SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+Not applicable.
+
+
+                                      -10-
+
+
+
+
+
+<PAGE>
+
+
+
+
+                                     PART II
+
+                ITEM FIVE -MARKET FOR THE COMPANY'S COMMON EQUITY
+                         AND RELATED STOCKHOLDER MATTERS
+
+     (a) Our common stock trades on the Nasdaq National Market under the symbol
+"ARXX". Prior to March 21, 2000, our common stock was traded on the New York
+Stock Exchange under the symbol "ARX". The following table sets forth, for the
+calendar periods indicated, the high and low closing sales prices of our common
+stock as reported by the Nasdaq National Market since March 21, 2000 and, prior
+to March 21, 2000, the high and low closing sales prices of our common stock as
+reported by the New York Stock Exchange. The prices have been adjusted to
+reflect a five-for-four stock split that was paid on July 7, 2000 and a
+two-for-one stock split that was paid on November 22, 2000.
+
+<TABLE>
+<CAPTION>
+                                                      Common Stock
+                                                   -------------------
+                                                   High            Low
+                                                   ----            ---
+<S>                                               <C>             <C>
+1999
+First Quarter...............................    $ 7.35          $ 4.83
+Second Quarter..............................      7.90            5.20
+Third Quarter...............................      8.63            4.88
+Fourth Quarter..............................      5.43            2.23
+
+2000
+First Quarter...............................     28.00            3.88
+Second Quarter..............................     19.88           10.40
+Third Quarter...............................     24.31           12.84
+Fourth Quarter..............................     35.25           20.81
+
+2001
+First Quarter...............................     33.00            8.44
+Second Quarter..............................     15.60            7.53
+Third Quarter (through September 18, 2001)..     12.09            7.00
+</TABLE>
+
+     (b) As of September 18, 2001, there were approximately 750 record holders
+of our common stock.
+
+     (c) We have never declared or paid any cash dividends on our common stock.
+There have been no stock dividends declared or paid on our common stock during
+the past three years except for a five-for-four stock split, which was paid on
+July 7, 2000 for record holders as of June 26, 2000 and a two-for-one stock
+split, which was paid on November 22, 2000 for record holders as of November 16,
+2000. We currently intend to retain any future earnings for use in the operation
+and development of our business and for acquisitions and, therefore, do not
+intend to declare or pay any cash dividends on our common stock in the
+foreseeable future. In addition, our revolving credit, term loan and mortgage
+agreement, as amended, prohibits us from paying cash dividends.
+
+
+                                      -11-
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+ITEM SIX - SELECTED FINANCIAL DATA (Unaudited)
+
+(In thousands, except percentages, footnotes and per share data)
+(Restated, Note 2 to Consolidated Financial Statements)
+
+
+<TABLE>
+<CAPTION>
+                                                        Years ended June 30,
+                                 -------------------------------------------------------------
+                                    2001         2000         1999         1998         1997
+                                 -------------------------------------------------------------
+<S>                               <C>          <C>          <C>          <C>          <C>
+Earnings Statement Data
+  Net Sales...................... $232,808     $188,750     $160,382     $121,959     $ 96,003
+  Net Income Before Cumulative
+    Effect of a Change in
+    Accounting...................   21,222(1)    14,379        9,765(2)     8,430        4,497
+  Net Income Before Cumulative
+    Effect of a Change in
+    Accounting Per Common Share
+      Basic......................   $0.37(1)     $0.30        $0.22(2)     $0.22        $0.14
+      Diluted....................    0.35(1)      0.28         0.20(2)      0.20         0.13
+  Weighted Average Number of
+    Common Shares Outstanding
+      Basic......................   58,124       48,189       45,011       37,555       31,664
+      Diluted....................   61,041       51,474       48,371       41,867       37,100
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+                                                            June 30,
+                                 -------------------------------------------------------------
+                                    2001         2000         1999         1998         1997
+                                 -------------------------------------------------------------
+<S>                               <C>          <C>          <C>          <C>          <C>
+Balance Sheet Data
+  Working Capital................ $152,374     $133,586     $ 50,060     $ 53,660     $ 25,568
+  Total Assets...................  310,252      249,495      165,672      124,762       81,298
+  Long-term Debt
+    (including current portion)..   13,333       15,085       31,371       11,481       28,938
+  Stockholders' Equity...........  255,121      201,644      101,826       86,761       34,740
+Other Statistics
+  After Tax Profit Margin.........   9.1%(1)      7.6%         6.1%(2)      6.9%          4.7%
+  Return on Average Stockholders'
+    Equity.......................    9.3%(1)      9.5%        10.4%(2)     13.9%         13.9%
+  Stockholders' Equity
+    Per Share (3)                 $   4.28     $   3.59     $   2.18     $   1.97     $   1.09
+</TABLE>
+
+(1)  Includes $1.5 million, or $990,000, net of tax, for the write-off of
+     in-process research and development acquired in connection with the
+     purchase of RDL, Inc. in October 2000 and $1.0 million for the write-off of
+     in-process research and development acquired in connection with the
+     purchase of TriLink Communications, Corp. in March 2001 (combined $.03 per
+     basic and diluted share).
+
+(2)  Includes $3.5 million ($.07 per diluted share and $.08 basic) for the
+     write-off of in-process research and development acquired in connection
+     with the purchase of UTMC Microelectronic Systems, Inc. in February 1999.
+
+(3)  Calculated by dividing stockholders' equity, at the end of the year, by the
+     number of shares outstanding at the end of the year.
+
+
+Note: All share and per share amounts have been restated to reflect a
+      five-for-four stock split paid on July 7, 2000 and a two-for-one stock
+      split paid on November 22, 2000.
+
+
+                                      -12-
+
+
+
+
+
+<PAGE>
+
+
+
+
+
+ITEM SEVEN - MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+        FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+
+Overview
+
+     We use our advanced design, engineering and manufacturing abilities to
+produce microelectronic, integrated circuit, interconnect and testing solutions.
+Our products are used in the fiber optic, broadband cable, wireless and
+satellite communications markets. We also design and manufacture motion control
+systems and shock and vibration isolation systems which are used for commercial,
+industrial and defense applications. Our operations are grouped into three
+segments:
+
+     o    microelectronic solutions
+     o    test solutions
+     o    isolator products
+
+     Our consolidated financial statements include the accounts of Aeroflex
+Incorporated and all of our subsidiaries. In October 2000, we merged with Altair
+Aerospace Corporation. This transaction was accounted for as a
+pooling-of-interests and, accordingly, for all periods prior to the business
+combination, our historical consolidated financial statements have been restated
+to include the accounts and results of operations of Altair. All of our
+subsidiaries are wholly-owned except for Europtest, S.A., of which we own 96.8%,
+and Aeroflex Amplicomm, Inc., of which we own 75%.
+
+     Our microelectronic solutions segment has been designing, manufacturing and
+selling state-of-the-art microelectronics for the electronics industry since
+1974. In January 1994, we acquired substantially all of the net operating assets
+of the microelectronics division of Marconi Circuit Technology Corporation,
+which manufactures a wide variety of microelectronic assemblies. In March 1996,
+we acquired MIC Technology Corporation which designs, develops, manufactures and
+markets microelectronics products in the form of passive thin film circuits and
+interconnects. Effective July 1, 1997, MIC Technology acquired certain
+equipment, inventory, licenses for technology and patents of two of Lucent
+Technologies' telecommunications component units - multi-chip modules and film
+integrated circuits. These units manufacture microelectronic modules and
+interconnect products. In February 1999, we acquired all of the outstanding
+stock of UTMC Microelectronic Systems, Inc., consisting of UTMC's integrated
+circuit business. In September 2000, we acquired all of the operating assets of
+AmpliComm, Inc., which designs and develops fiber optic amplifiers and modulator
+drivers used by manufacturers of advanced fiber optic systems. In March 2001, we
+acquired TriLink Communications Corp. which designs, develops, manufactures and
+markets fiber optic components for the communications industry, including
+Lithium Niobate modulators and optical switches.
+
+     Our test solutions segment consists of two divisions: (1) instruments and
+(2) motion control products, including the following product lines:
+
+     o    Comstron, a leader in radio frequency and microwave technology used in
+          the manufacture of fast switching frequency signal generators and
+          components, which we acquired in November 1989. Comstron is currently
+          an operating division of Aeroflex Laboratories Incorporated, one of
+          our wholly-owned subsidiaries.
+
+     o    Lintek, a leader in high speed instrumentation antenna measurement
+          systems, radar systems and satellite test systems, which we acquired
+          in January 1995.
+
+
+                                      -13-
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+     o    Europtest, S.A. (France), of which we acquired 90% effective September
+          1, 1998, under a purchase agreement which requires us to purchase the
+          remaining 10% of Europtest pro rata over a three-year period at prices
+          determined based upon net sales of Europtest products. In each of
+          March 2001 and October 1999, we purchased an additional 3.4%.
+          Europtest develops and sells specialized software-driven test
+          equipment used primarily in cellular, satellite and other
+          communications applications.
+
+     o    Altair, which we merged with in October 2000 in a pooling-of-interests
+          business combination. Altair designs and develops advanced
+          object-oriented control systems software based upon a proprietary
+          software engine.
+
+     o    RDL, which we acquired in October 2000. RDL designs, develops and
+          manufactures advanced commercial communications test and measurement
+          products and defense subsystems.
+
+     o    Our motion control products division has been engaged in the
+          development and manufacture of electro-optical scanning devices used
+          in infra-red night vision systems since 1975. Additionally, it is
+          engaged in the design, development and production of stabilization
+          tracking devices and systems and magnetic motors used in satellites
+          and other high reliability applications.
+
+     Our isolator products segment has been designing, developing, manufacturing
+and selling severe service shock and vibration isolation systems since 1961.
+These devices are primarily used in defense applications. In October 1983, we
+acquired Vibration Mountings & Controls, Inc., which manufactures a line of
+off-the-shelf rubber and spring shock, vibration and structure borne noise
+control devices used in commercial and industrial applications. In December
+1986, we acquired the operating assets of Korfund Dynamics Corporation, a
+manufacturer of an industrial line of heavy duty spring and rubber shock mounts.
+
+     Our revenue is generally recognized based upon shipments. Revenues
+associated with certain long term contracts are recognized under the
+units-of-delivery method which includes shipments and progress billings, in
+accordance with Statement of Position 81-1 "Accounting for Performance of
+Construction-Type and Certain Production-Type Contracts." We record costs on our
+long-term contracts using percentage-of-completion accounting. Under percentage
+of completion accounting, costs are recognized on revenues in the same relation
+that total estimated manufacturing costs bear to total contract value. Estimated
+costs at completion are based upon engineering and production estimates.
+Provisions for estimated losses or revisions in estimated profits on
+contracts-in-process are recorded in the period in which such losses or
+revisions are first determined.
+
+     Approximately 29% of our sales for fiscal 2001, 33% of our sales for fiscal
+2000 and 42% of our sales for fiscal 1999 were to agencies of the United States
+government or to prime defense contractors or subcontractors of the United
+States government. Our overall dependence on the military has been declining due
+to a focusing of resources towards developing standard products for the
+commercial markets. Our government contracts have been awarded either on a bid
+basis or after negotiation. Our government contracts are primarily fixed price
+contracts, although we also have or had government contracts providing for cost
+plus fixed fee. Our defense contracts have customary provisions for termination
+at the convenience of the government without cause. In the event of such
+termination, we are entitled to reimbursement for our costs and to receive a
+reasonable profit, if any, on the work done prior to termination.
+
+
+                                      -14-
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+     Our product development efforts primarily involve engineering and design
+relating to:
+
+     o    developing new products
+     o    improving existing products
+     o    adapting existing products to new applications
+     o    developing prototype components to bid on specific programs
+
+Some of our development efforts are reimbursed under contractual arrangements.
+Product development and similar costs which we cannot recover under contractual
+arrangements are expensed in the period incurred.
+
+
+                                      -15-
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+
+Statement of Operations
+
+     The following table sets forth our net sales and operating income by
+business segment for the periods indicated. The special charges represent the
+write-offs of in-process research and development acquired in connection with
+the purchases of businesses.
+
+<TABLE>
+<CAPTION>
+                                                           Years Ended June 30,
+                                                     ---------------------------------
+                                                       2001       2000         1999
+                                                       ----       ----         ----
+                                                              (In thousands)
+<S>                                                  <C>         <C>         <C>
+Net Sales:
+  Microelectronic Solutions                          $144,901    $110,253    $ 96,846
+  Test Solutions                                       68,394      58,744      44,793
+  Isolator Products                                    19,513      19,753      18,743
+                                                     ---------   ---------   ---------
+    Net Sales                                        $232,808    $188,750    $160,382
+                                                     =========   =========   =========
+
+Operating Income:
+  Microelectronic Solutions                          $ 35,959    $ 22,734    $ 20,104
+  Test Solutions                                        1,971       2,438       3,181
+  Isolator Products                                     2,326       2,692       2,108
+  General Corporate
+    Expenses                                           (7,293)     (5,397)     (4,262)
+                                                     ---------   ---------   ---------
+                                                       32,963      22,467      21,131
+  Special Charges                                      (2,500)       -         (3,500)
+                                                     ---------   ---------   ---------
+    Operating Income                                 $ 30,463    $ 22,467    $ 17,631
+                                                     =========   =========   =========
+</TABLE>
+
+
+     The following table sets forth certain items from our statement of earnings
+as a percentage of net sales for the periods indicated. The special charges
+represent the write-offs of in-process research and development acquired in
+connection with the purchases of businesses.
+
+<TABLE>
+<CAPTION>
+                                                             Years Ended June 30,
+                                                       -------------------------------
+                                                        2001        2000        1999
+                                                       ------      ------      ------
+<S>                                                    <C>         <C>         <C>
+Net Sales                                              100.0%      100.0%      100.0%
+Cost of Sales                                           58.7        63.7        62.9
+                                                       -------     -------     -------
+Gross Profit                                            41.3        36.3        37.1
+                                                       -------     -------     -------
+
+Operating Expenses:
+  Selling, General and
+    Administrative Costs                                19.0        18.3        17.6
+  Research and Development Costs                         8.1         6.1         6.3
+  Special Charges                                        1.1          -          2.2
+                                                       -------     -------     -------
+      Total Operating Expenses                          28.2        24.4        26.1
+                                                       -------     -------     -------
+
+Operating Income                                        13.1        11.9        11.0
+
+Other Expense (Income), Net                             (0.9)        1.0         0.5
+                                                       -------     -------     -------
+
+Income Before Income Taxes                              14.0        10.9        10.5
+Provision For Income Taxes                               4.9         3.3         4.4
+                                                       -------     -------     -------
+
+Income Before Cumulative
+   Effect of a Change in
+   Accounting                                            9.1         7.6         6.1
+Cumulative Effect of a Change
+   in Accounting                                         0.1          -           -
+                                                       -------     -------     -------
+Net Income                                               9.2%        7.6%        6.1%
+                                                       =======     =======     =======
+</TABLE>
+
+
+                                      -16-
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+Fiscal Year Ended June 30, 2001 Compared to Fiscal Year Ended June 30, 2000
+
+         Net Sales. Net sales increased 23.3% to $232.8 million in fiscal 2001
+from $188.8 million in fiscal 2000. Net sales in the microelectronic solutions
+segment increased 31.4% to $144.9 million in fiscal 2001 from $110.3 million in
+fiscal 2000 due primarily to increased sales volume in microelectronic modules
+and thin film interconnects. Net sales in the test solutions segment increased
+16.4% to $68.4 million in fiscal 2001 from $58.7 million in fiscal 2000
+primarily due to the acquisition of RDL, Inc. in October 2000. Net sales in the
+isolator products segment were $19.5 million in fiscal 2001 and $19.8 million in
+fiscal 2000.
+
+         Gross Profit. Cost of sales includes materials, direct labor and
+overhead expenses such as engineering labor, fringe benefits, allocable
+occupancy costs, depreciation and manufacturing supplies. Gross profit increased
+40.3% to $96.1 million in fiscal 2001 from $68.6 million in fiscal 2000. Gross
+margin increased to 41.3% in fiscal 2001 from 36.3% in fiscal 2000. The
+increases were primarily a result of the increased sales volume and improvements
+in gross margins due to a favorable change in the product mix in both the
+microelectronic solutions and test solutions segments.
+
+         Selling, General and Administrative Costs. Selling, general and
+administrative costs include office and management salaries, fringe benefits and
+commissions. Selling, general and administrative costs increased 28.4% to $44.3
+million (19.0% of net sales) in fiscal 2001 from $34.5 million (18.3% of net
+sales) in fiscal 2000. The increase was primarily due to higher corporate
+expenses, increased expenses in the microelectronic solutions segment as a
+result of this segment's increased growth, and the addition of the expenses of
+RDL.
+
+         Research and Development Costs. Research and development costs include
+material, engineering labor and allocated overhead. Our self-funded research and
+development costs increased 63.1% to $18.9 million (8.1% of net sales) in fiscal
+2001 from $11.6 million (6.1% of net sales) in fiscal 2000. The increase was
+primarily due to the addition of the expenses of RDL and increased development
+efforts in frequency synthesizers and high speed automatic test systems.
+
+         Acquired In-Process Research and Development. In connection with the
+acquisition of RDL, Inc., we allocated $1.5 million of the purchase price to
+incomplete research and development projects. In connection with the acquisition
+of TriLink Communications Corp., we allocated $1.0 million of the purchase price
+to incomplete research and development projects. These allocations represent the
+estimated fair value based on future cash flows that have been adjusted by the
+respective project's completion percentage. At the respective acquisition dates,
+the development of these projects had not yet reached technological feasibility
+and the research and development in progress had no alternative future uses.
+Accordingly, we expensed these costs as of the respective acquisition dates.
+
+         The values assigned to these assets were determined by identifying
+significant research projects for which technological feasibility had not been
+established. At the acquisition date, RDL was conducting design, development,
+engineering and testing activities associated with the completion of its defense
+and commercial product lines. The projects under development at the valuation
+date represent next-generation technologies which are expected to address
+emerging market demands in the equipment testing and measuring industry. At the
+acquisition date, TriLink was conducting design, development, engineering and
+testing activities associated with its completion of its 10 GB modulator for
+fiber optic systems. We intend to continue with these development efforts and,
+once complete, release the products to market.
+
+         At its acquisition date, RDL expected to spend approximately $1.3
+million to complete all phases of the research and development, with anticipated
+completion dates ranging from 13 to 17 months from that date. At its acquisition
+date, TriLink expected to spend approximately $200,000 to complete the research
+and development, with an anticipated completion date between 6 and 9 months from
+that date.
+
+
+                                      -17-
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+
+         We determined the value assigned to purchased in-process technology by
+estimating the contribution of the purchased in-process technology in developing
+a commercially viable product, estimating the resulting net cash flows from the
+expected sales of such a product, and discounting the net cash flows to their
+present value using an appropriate discount rate.
+
+         Revenue growth rates for the acquired companies were estimated based on
+a detailed forecast, as well as discussions with the finance, marketing and
+engineering personnel of the acquired companies. Allocation of total projected
+revenues to in-process research and development was based on discussions with
+the acquired companies' management. Selling, general and administrative expenses
+and profitability estimates were determined based on forecasts as well as an
+analysis of comparable companies' margin expectations.
+
+         The projections utilized in the transaction pricing and purchase price
+allocation exclude the potential synergetic benefits related specifically to our
+ownership. Due to the relatively early stage of the development and reliance on
+future, unproven products and technologies, the cost of capital (discount rate)
+for the acquired companies was estimated using venture capital rates of return.
+Due to the nature of the forecast and the risks associated with the projected
+growth and profitability of the development projects, a discount rate of 25% for
+RDL and 45% for TriLink was used to discount cash flows from the in-process
+technology. Each discount rate was commensurate with the acquired company's
+market position, the uncertainties in the economic estimates described above,
+the inherent uncertainty surrounding the successful development of the purchased
+in-process technology, the useful life of such technology, the profitability
+levels of such technology, and the uncertainty related to technological advances
+that could render development stage technologies obsolete.
+
+         We believe that the foregoing assumptions used in the forecasts were
+reasonable at the time of the acquisition. No assurance can be given, however,
+that the underlying assumptions used to estimate sales, development costs or
+profitability, or the events associated with such projects will transpire as
+estimated. For these reasons, actual results may vary from projected results.
+
+         Remaining development efforts for the acquired companies' research and
+development included various phases of design, development and testing. Funding
+for such projects is expected to come from internally generated sources.
+
+         As evidenced by the continued support of the development of the
+acquired companies' projects, we believe we have a reasonable chance of
+successfully completing the research and development programs. However, as with
+all of our technology development, there is risk associated with the completion
+of the research and development projects, and there is no assurance that
+technological or commercial success will be achieved.
+
+         If the development of these in-process research and development
+projects is unsuccessful, our sales and profitability may be adversely affected
+in future periods. Commercial results are also subject to certain market events
+and risks, which are beyond our control, such as trends in technology, changes
+in government regulation, market size and growth, and product introduction or
+other actions by competitors.
+
+         Other Expense (Income). Interest expense decreased to $1.4 million in
+fiscal 2001 from $2.4 million in fiscal 2000, primarily due to reduced levels of
+borrowings. Other income of $3.6 million in fiscal 2001 consists primarily of
+$3.9 million of interest income offset by a $229,000 decrease in the fair value
+of our interest rate swap agreements. Other income of $554,000 in fiscal 2000
+consisted primarily of $650,000 of interest income and a $193,000 gain on the
+sale of securities offset, in part, by a $300,000 expense for the settlement of
+a lawsuit. Interest income increased due to increased levels of cash equivalents
+and marketable securities. The decreased levels of borrowings and the increased
+levels of cash equivalents and marketable securities resulted from the net
+proceeds of $68.5 million from stock issued in a public offering completed in
+May 2000, as well as cash generated from operations during fiscal 2001.
+
+
+                                      -18-
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+         Provision for Income Taxes. Income taxes increased 84.7% to $11.5
+million (an effective income tax rate of 34.0%, exclusive of the non-deductible
+$1.0 million charge for the acquired in-process R&D for TriLink) in fiscal 2001
+from $7.2 million (an effective income tax rate of 35.0%), excluding a $1.0
+million benefit from the utilization of a capital loss carryforward, in fiscal
+2000. The income tax provisions for the two periods differed from the amount
+computed by applying the U.S. Federal income tax rate to income before income
+taxes primarily due to state and local income taxes and research and development
+credits.
+
+         Cumulative Effect of a Change in Accounting. Effective July 1, 2000,
+the Company adopted SFAS No. 133, "Accounting for Derivative Instruments and
+Hedging Activities," as amended. This statement requires companies to record
+derivatives on the balance sheet as assets or liabilities at their fair value.
+In certain circumstances changes in the value of such derivatives may be
+required to be recorded as gains or losses. The impact of this statement did not
+have a material effect on our consolidated financial statements. The cumulative
+effect of the adoption of this accounting policy was a $132,000, net of tax,
+credit in the quarter ended September 30, 2000 which represented the net of tax
+fair value of certain interest rate swap agreements at July 1, 2000.
+
+Fiscal Year Ended June 30, 2000 Compared to Fiscal Year Ended June 30, 1999
+
+         Net Sales. Net sales increased 17.7% to $188.8 million in fiscal 2000
+from $160.4 million in fiscal 1999. Net sales in our microelectronic solutions
+segment increased 13.8% to $110.3 million in fiscal 2000 from $96.8 million in
+fiscal 1999 due to the acquisition of UTMC Microelectronic Systems in 1999
+partially offset by reductions in sales in microelectronic modules due to
+temporary slowdowns in the satellite market. Net sales in our test solutions
+segment increased 31.1% to $58.7 million in fiscal 2000 from $44.8 million in
+fiscal 1999 primarily due to increased sales volume in frequency synthesizers
+(primarily shipments of the FS-1000 for use in commercial communications test
+systems). Net sales in our isolator products segment increased 5.4% to $19.8
+million in fiscal 2000 from $18.7 million in fiscal 1999.
+
+         Gross Profit. Gross profit increased 15.2% to $68.6 million in fiscal
+2000 from $59.5 million in fiscal 1999. Gross margin decreased to 36.3% in
+fiscal 2000 from 37.1% in fiscal 1999. This increase in gross profit was
+primarily a result of increased sales. The decrease in gross margin was due
+primarily to low margins in both the satellite test system development program
+and the start up of the FS-1000, a low-cost, high speed, high performance
+frequency synthesizer.
+
+         Selling, General and Administrative Costs. Selling, general and
+administrative costs increased 21.9% to $34.5 million (18.3% of net sales) in
+fiscal 2000 from $28.3 million (17.6% of net sales) in fiscal 1999. The increase
+was primarily due to labor related expenses, including salaries for additional
+personnel, in connection with our growth and the addition of the expenses of
+UTMC Microelectronic Systems.
+
+         Research and Development Costs. Our self-funded research and
+development costs increased 15.3% to $11.6 million (6.1% of net sales) in fiscal
+2000 from $10.1 million (6.3% of net sales) in fiscal 1999. This increase was
+primarily attributable to the additional costs of UTMC Microelectronic Systems,
+partially offset by reduced costs, relative to the prior year, related to the
+development of the FS-1000, a low-cost, high speed, high performance frequency
+synthesizer intended for commercial communication test systems, which was
+completed in early fiscal 2000.
+
+         Acquired In-Process Research and Development. In connection with the
+acquisition of UTMC, we allocated $3.5 million of the purchase price to
+incomplete research and development projects and expensed these costs in fiscal
+1999.
+
+
+                                      -19-
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+         Other Expense (Income). Interest expense increased to $2.4 million in
+fiscal 2000 from $1.5 million in fiscal 1999, primarily due to higher average
+levels of borrowings throughout most of fiscal 2000. Other income of $554,000
+for the year ended June 30, 2000 consists primarily of $650,000 of interest
+income, $193,000 gain on the sale of securities and a $300,000 expense for the
+settlement of a lawsuit. Other income of $777,000 for the year ended June 30,
+1999 consists primarily of interest income. Interest income decreased due to
+lower average levels of cash and cash equivalents throughout most of fiscal
+2000. The increased average levels of borrowings and the decreased average
+levels of cash and cash equivalents resulted from the acquisition of UTMC
+Microelectronic Systems in February 1999. In connection with this acquisition,
+we used most of our cash and cash equivalents and increased our borrowings by
+$20.0 million.
+
+         Provision for Income Taxes. Income taxes were $7.2 million (an
+effective income tax rate of 35.0%), excluding a $1.0 million benefit from the
+utilization of a capital loss carryforward, in fiscal 2000, and $7.2 million (an
+effective income tax rate of 35.0%, exclusive of the non-deductible $3.5 million
+charge for the acquired in-process R&D for UTMC) in fiscal 1999. The income tax
+provisions in fiscal 2000 and 1999 were different from the amounts computed by
+applying the U.S. Federal income tax rate to income before income taxes
+primarily due to state and local income taxes and research and development
+credits.
+
+Liquidity and Capital Resources
+
+          As of June 30, 2001, we had $152.4 million in working capital. Our
+current ratio was 5.1 to 1 at June 30, 2001. As of February 25, 1999, we
+replaced a previous agreement with a revised revolving credit, term loan and
+mortgage agreement with two banks which is secured by substantially all of our
+assets not otherwise encumbered. The agreement provided for a revolving credit
+line of $23.0 million, a term loan of $20.0 million and a mortgage on our
+Plainview property for $4.5 million. The revolving credit loan facility expires
+in December 2002. The term loan was fully paid in May 2000 with the proceeds
+from the sale of our common stock, described below. The interest rate on
+borrowings under this agreement is at various rates depending upon certain
+financial ratios, with the current rate substantially equivalent to prime
+(approximately 6.75% at June 30, 2001) on the revolving credit borrowings. The
+mortgage is payable in monthly installments of approximately $26,000 through
+March 2008 and a balloon payment of $1.6 million in April 2008. We have entered
+into an interest rate swap agreement for the outstanding amount under the
+mortgage agreement at approximately 7.6% in order to reduce the interest rate
+risk associated with these borrowings.
+
+         The terms of the agreement require compliance with certain covenants
+including minimum consolidated tangible net worth and pretax earnings,
+maintenance of certain financial ratios, limitations on capital expenditures and
+indebtedness and prohibition of the payment of cash dividends. In connection
+with the purchase of certain materials for use in manufacturing, we have a
+letter of credit of $2.0 million.
+
+         In December 1998, we financed the acquisition and renovation of the
+land and building of our Pearl River, NY facility and received proceeds
+amounting to $4.2 million. The debt requires a balloon payment of $3.8 million
+in 2019.
+
+         Effective February 25, 1999, we acquired all of the outstanding stock
+of UTMC Microelectronic Systems, Inc. for $42.5 million of cash. Prior to the
+acquisition, UTMC Microelectronic Systems distributed by dividend to its
+then-parent, United Technologies Corporation, the assets and United Technologies
+assumed the liabilities of the circuit card assembly portion of UTMC
+Microelectronic Systems' business. The purchase price was paid with available
+cash of $22.5 million and borrowings
+
+
+                                      -20-
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+under our bank loan agreement of $20.0 million. UTMC Microelectronic Systems is
+a leader in supplying radiation-tolerant integrated circuits for satellite
+communications. The acquired company's net sales, excluding the circuit card
+assembly business, were approximately $33.4 million for the year ended December
+31, 1998.
+
+         In May 2000, we sold 6.3 million shares (adjusted for a five-for-four
+stock split and a two-for-one stock split) of our common stock in a public
+offering for $68.5 million, net of an underwriting discount of $3.5 million and
+issuance costs of $500,000. Of these net proceeds, $13.0 million was used to
+repay the term loan. The balance of the net proceeds is invested in short-term
+marketable securities and is intended to be used ultimately for additional
+working capital, including research and development, for expansion of our
+facilities, and for general corporate purposes, including possible acquisitions
+of technologies, product lines or businesses.
+
+         In fiscal 2001, our operations provided cash of $47.2 million primarily
+from our continued profitability and the tax benefit of stock option exercises.
+In fiscal 2001, our investing activities used cash of $28.4 million including
+$14.6 million for purchases of businesses (primarily $14.0 million for RDL),
+$30.8 million for the purchase of available-for-sale securities and $13.3
+million for capital expenditures offset, in part, by $30.1 million of proceeds
+from the sale of available-for-sale marketable securities. In fiscal 2001, our
+financing activities used cash of $3.7 million including $22.2 million for
+amounts paid for withholding taxes on stock option exercises and $3.9 million
+for debt payments partially offset by $18.0 million of withholding taxes
+collected for stock option exercises and $3.8 million of proceeds from the
+exercise of stock options and warrants.
+
+         We believe that existing cash, cash equivalents and marketable
+securities coupled with internally generated funds and available lines of credit
+will be sufficient for our working capital requirements, capital expenditure
+needs and the servicing of our debt for the foreseeable future. Our cash, cash
+equivalents and marketable securities are available to fund acquisitions and
+other potential large cash needs that may arise. At June 30, 2001, our available
+unused line of credit was $21.0 million after consideration of the letter of
+credit.
+
+Legal Proceedings
+
+         One of our subsidiaries whose operations were discontinued in 1991, is
+one of several defendants named in a personal injury action initiated in August
+1994 by a group of plaintiffs. The plaintiffs are seeking damages which
+cumulatively may exceed $500 million. The complaint alleges, among other things,
+that the plaintiffs suffered injuries from exposure to substances contained in
+products sold by our subsidiary to one of its customers. This action is in the
+discovery stage. Based upon available information and considering our various
+defenses, together with our product liability insurance, in our opinion, the
+outcome of the action against our subsidiary will not have a materially adverse
+effect on our consolidated financial statements.
+
+         We are involved in various other routine legal matters. We believe the
+outcome of these matters will not have a materially adverse effect on our
+consolidated financial statements.
+
+         We are undergoing routine audits by various taxing authorities of our
+state and local income tax returns covering periods from 1997 to 1999. We
+believe that the probable outcome of these various audits should not materially
+affect our consolidated financial statements.
+
+
+                                      -21-
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+Backlog
+
+         Our backlog of orders was $105.8 million at June 30, 2001 and $120.0
+million at June 30, 2000.
+
+Market Risk
+
+         We are exposed to market risk related to changes in interest rates and,
+to an immaterial extent, to foreign currency exchange rates. Most of our debt is
+at fixed rates of interest or at a variable rate with an interest rate swap
+agreement which effectively converts the variable rate debt into fixed rate
+debt. Therefore, if market interest rates increase by 10 percent from levels at
+June 30, 2001, the effect on our net income would not be material. Most of our
+invested cash and marketable securities are at variable rates of interest. If
+market interest rates decrease by 10 percent from levels at June 30, 2001, the
+effect on our net income would be approximately $205,000.
+
+Seasonality
+
+         Although our business is not affected by seasonality, historically our
+revenues and earnings increase sequentially from quarter to quarter within a
+fiscal year, but the first quarter is less than the previous year's fourth
+quarter.
+
+Recent Accounting Pronouncements
+
+         In July 2001, the FASB issued SFAS No. 141, "Business Combinations",
+and SFAS No. 142, "Goodwill and Other Intangible Assets." SFAS No. 141 requires
+that the purchase method of accounting be used for all future business
+combinations and specifies criteria that intangible assets acquired in a
+business combination must meet to be recognized and reported apart from
+goodwill. SFAS No. 142 requires that goodwill and intangible assets with
+indefinite useful lives no longer be amortized, but instead tested for
+impairment at least annually in accordance with the provisions of SFAS No. 142.
+Amortization expense related to goodwill was $1.2 million, $640,000 and $437,000
+for the years ended June 30, 2001, 2000 and 1999, respectively. SFAS No. 142
+will also require that intangible assets with estimable useful lives be
+amortized over their respective estimated useful lives, and reviewed for
+impairment in accordance with SFAS No. 121, "Accounting for the Impairment of
+Long- Lived Assets and for Long-Lived Assets to be Disposed Of." We will adopt
+the provisions of SFAS 141 and SFAS 142 as of July 1, 2001.
+
+         We will evaluate our existing intangible assets and goodwill that were
+acquired in prior purchase business combinations, and make any necessary
+reclassifications in order to conform with the new criteria in SFAS No. 141 for
+recognition apart from goodwill. We will be required to reassess the useful
+lives and residual values of all intangible assets acquired, and make any
+necessary amortization period adjustments by September 30, 2001. In addition, we
+will be required to test goodwill and, to the extent an intangible asset is
+identified as having an indefinite useful life, the intangible asset, for
+impairment in accordance with the provisions of SFAS No. 142 by June 30, 2002
+and September 30, 2001, respectively. Any impairment loss will be measured as of
+the date of adoption and recognized as the cumulative effect of a change in
+accounting principle as of July 1, 2001.
+
+         Because of the extensive effort needed to comply with adopting SFAS 141
+and SFAS 142, it is not practicable to reasonably estimate the impact of
+adopting these statements on our consolidated financial statements at the date
+of this report, including whether we will be required to recognize any
+transitional impairment losses as the cumulative effect of a change in
+accounting principle.
+
+
+                                      -22-
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+Forward-Looking Statements
+
+         All statements other than statements of historical fact included in
+this Annual Report, including without limitation statements under "Management's
+Discussion and Analysis of Financial Condition and Results of Operations"
+regarding our financial position, business strategy and plans and objectives of
+our management for future operations, are forward-looking statements. When used
+in this Annual Report, words such as "anticipate," "believe," "estimate,"
+"expect," "intend" and similar expressions, as they relate to us or our
+management, identify forward-looking statements. Such forward-looking statements
+are based on the beliefs of our management, as well as assumptions made by and
+information currently available to our management. Actual results could differ
+materially from those contemplated by the forward-looking statements as a result
+of certain factors, including but not limited to, competitive factors and
+pricing pressures, changes in legal and regulatory requirements, technological
+change or difficulties, product development risks, commercialization
+difficulties and general economic conditions. Such statements reflect our
+current views with respect to future events and are subject to these and other
+risks, uncertainties and assumptions relating to our operations, results of
+operations, growth strategy and liquidity.
+
+
+ITEM EIGHT - FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+The financial statements and supplementary data listed in the accompanying Index
+to Financial Statements and Schedules are attached as part of this report.
+
+ITEM NINE - DISAGREEMENTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+
+None.
+
+                                    PART III
+
+The information required by Part III is incorporated by reference to our
+definitive proxy statement in connection with our Annual Meeting of Stockholders
+scheduled to be held in November 2001. The proxy statement is to be filed with
+the Securities and Exchange Commission within 120 days following the end of our
+fiscal year ended June 30, 2001.
+
+
+                                      -23-
+
+
+
+
+
+<PAGE>
+
+
+
+
+                                     PART IV
+
+ITEM FOURTEEN - EXHIBITS, FINANCIAL STATEMENT SCHEDULES,
+                AND REPORTS ON FORM 8-K
+
+<TABLE>
+     <S>         <C>
+         (a)      See Index to Financial Statements at beginning of attached
+                  financial statements.
+
+         (b)      Reports on Form 8-K:
+
+                           None
+
+         (c)      Exhibits
+
+         3.1      Certificate of Incorporation, as amended. (Exhibit 3.1 to Form
+                  10-Q for the quarter ended September 30, 2000).
+
+         3.2      By-Laws, as amended (Exhibit 3 to Form 10-Q for the quarter
+                  ended March 31, 1998).
+
+         4.1      Fourth Amended and Restated Loan and Security Agreement dated
+                  as of February 25, 1999 among the Registrant, certain of its
+                  subsidiaries, The Chase Manhattan Bank (as successor to
+                  Chemical Bank) and Fleet Bank, N.A. (as successor to NatWest
+                  Bank, N.A.) (Exhibit 10.5 to Form 8-K dated February 25,
+                  1999).
+
+         10.1     1989 Non-Qualified Stock Option Plan, as amended (Exhibit 10.8
+                  to Form 10-K for the year ended June 30, 1990).
+
+         10.2     1994 Non-Qualified Stock Option Plan. (Exhibit 10.2 to Form
+                  10-K for the year ended June 30, 1994).
+
+         10.3     1994 Outside Directors Stock Option Plan. (Exhibit 10.3 to
+                  Form 10-K for the year ended June 30, 1994).
+
+         10.4     Employment Agreement between Aeroflex Incorporated and Harvey
+                  R. Blau (Exhibit 10.1 to Form 10-Q for the quarter ended March
+                  31, 1999).
+
+         10.5     Employment Agreement between Aeroflex Incorporated and Michael
+                  Gorin (Exhibit 10.2 to Form 10-Q for the quarter ended March
+                  31, 1999).
+
+         10.6     Employment Agreement between Aeroflex Incorporated and Leonard
+                  Borow (Exhibit 10.3 to Form 10-Q for the quarter ended March
+                  31, 1999).
+
+         10.7     Deferred Compensation Agreement between Aeroflex Incorporated
+                  and Harvey R. Blau (Exhibit 10.4 to Form 8-K dated May 17,
+                  1997).
+
+         10.8     Employment Agreement between Aeroflex Incorporated and Carl
+                  Caruso (Exhibit 10.5 to Form 8-K dated May 17, 1997).
+
+         10.9     1996 Stock Option Plan (Exhibit A to Definitive Schedule 14A
+                  filed September 30, 1996).
+
+         10.10    1998 Stock Option Plan (Exhibit 10 to Form 10-Q for the
+                  quarter ended March 31, 1998).
+</TABLE>
+
+
+                                      -24-
+
+
+
+
+
+
+<PAGE>
+
+
+
+<TABLE>
+     <S>         <C>
+         10.11    1999 Stock Option Plan (Exhibit A to Definitive Schedule 14A
+                  filed December 3, 1999).
+
+         10.12    2000 Stock Option Plan, as amended.
+
+         10.13    Amendment No. 1 to Employment Agreement between Aeroflex
+                  Incorporated and Harvey R. Blau, effective September 1, 1999
+                  (Exhibit 10.17 to Form 10-K for the year ended June 30, 2000).
+
+         10.14    Amendment No. 1 to Employment Agreement between Aeroflex
+                  Incorporated and Michael Gorin, effective September 1, 1999
+                  (Exhibit 10.18 to Form 10-K for the year ended June 30, 2000).
+
+         10.15    Amendment No. 1 to Employment Agreement between Aeroflex
+                  Incorporated and Leonard Borow, effective September 1, 1999
+                  (Exhibit 10.19 to Form 10-K for the year ended June 30, 2000).
+
+         10.16    Amendment No. 2 to Employment Agreement between Aeroflex
+                  Incorporated and Harvey R. Blau, effective August 13, 2001.
+
+         10.17    Amendment No. 2 to Employment Agreement between Aeroflex
+                  Incorporated and Michael Gorin, effective August 13, 2001.
+
+         10.18    Amendment No. 2 to Employment Agreement between Aeroflex
+                  Incorporated and Leonard Borow, effective August 13, 2001.
+
+         10.19    Aeroflex Incorporated Key Employee Deferred Compensation Plan.
+
+         10.20    Trust Under Deferred Compensation Plan, dated August 22, 2001.
+
+         10.21    Key Employee Stock Option Plan (Exhibit A to Definitive
+                  Schedule 14A filed October 2, 2000).
+
+         22       The following is a list of the Company's subsidiaries:
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+                                                              Jurisdiction of
+           Name                                               Incorporation
+       ------------                                           -------------
+      <S>                                                    <C>
+       Aeroflex Altair Cybernetics Corp.                      Maryland
+       Aeroflex Amplicomm, Inc.                               Delaware
+       Aeroflex Laboratories Incorporated                     Delaware
+       Aeroflex Lintek Corp.                                  Ohio
+       Aeroflex MIC Technology Corporation                    Texas
+       Aeroflex RDL, Inc.                                     Delaware
+       Aeroflex Systems Corp.                                 Delaware
+       Aeroflex TriLink Communications Corp.                  California
+       Aeroflex UTMC Microelectronic Systems, Inc.            Delaware
+       Europtest, S.A.                                        France
+       Vibration Mountings and Controls, Inc.                 New York
+</TABLE>
+
+
+         23       Consent of Independent Auditors
+
+
+                                      -25-
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+         Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Company has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized on the 28th day of
+September 2001.
+
+                                            Aeroflex Incorporated
+
+                                            By:    /s/ Harvey R. Blau
+                                                ------------------------------
+                                            Harvey R. Blau, Chairman
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below on September 28th, 2001 by the following
+persons in the capacities indicated:
+
+<TABLE>
+<S>                                      <C>
+/s/ Harvey R. Blau                          Chairman of the Board
+-----------------------------------         (Chief Executive Officer)
+Harvey R. Blau
+
+/s/ Michael Gorin                           President and Director
+-----------------------------------         (Chief Financial Officer and Principal Accounting Officer)
+Michael Gorin
+
+/s/ Leonard Borow                           Executive Vice President, Secretary and Director
+----------------------------------          (Chief Operating Officer)
+Leonard Borow
+
+/s/ Paul Abecassis                          Director
+-----------------------------------
+Paul Abecassis
+
+/s/ Milton Brenner                          Director
+-----------------------------------
+Milton Brenner
+
+/s/ Ernest E. Courchene, Jr.                Director
+-----------------------------------
+Ernest E. Courchene, Jr.
+
+/s/ Donald S. Jones                         Director
+-----------------------------------
+Donald S. Jones
+
+/s/ Eugene Novikoff                         Director
+-----------------------------------
+Eugene Novikoff
+
+/s/ John S. Patton                          Director
+-----------------------------------
+John S. Patton
+</TABLE>
+
+
+                                      -26-
+
+
+
+
+<PAGE>
+
+
+
+
+
+                              AEROFLEX INCORPORATED
+
+                                AND SUBSIDIARIES
+
+                               ------------------
+
+                       FINANCIAL STATEMENTS AND SCHEDULES
+
+                 COMPRISING ITEM 8 OF ANNUAL REPORT ON FORM 10-K
+
+                      TO SECURITIES AND EXCHANGE COMMISSION
+
+                          AS OF JUNE 30, 2001 AND 2000
+
+                                AND FOR THE YEARS
+
+                       ENDED JUNE 30, 2001, 2000 AND 1999
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+                       FINANCIAL STATEMENTS AND SCHEDULES
+
+<TABLE>
+<CAPTION>
+                           I  N  D  E  X                                           PAGE
+                           -------------                                           ----
+<S>                                                                              <C>
+    ITEM FOURTEEN (a)
+
+1.  FINANCIAL STATEMENTS:
+
+       Independent auditors' report                                                S-1
+
+       Consolidated financial statements:
+
+       Balance sheets - June 30, 2001 and 2000                                     S-2-3
+
+       Statements of earnings - each of the three years
+          in the period ended June 30, 2001                                        S-4
+
+       Statements of stockholders' equity and comprehensive income -
+          each of the three years in the period ended June 30, 2001                S-5
+
+       Statements of cash flows - each of the three years
+          in the period ended June 30, 2001                                        S-6
+
+       Notes (1-14)                                                                S-7-25
+
+       Quarterly financial data (unaudited)                                        S-26
+
+
+2.  FINANCIAL STATEMENT SCHEDULES:
+
+       II - Valuation and qualifying accounts                                      S-27
+
+</TABLE>
+
+All other schedules have been omitted because they are inapplicable, not
+required, or the information is included elsewhere in the financial statements
+or notes thereto.
+
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+                          Independent Auditors' Report
+
+The Board of Directors and Stockholders of Aeroflex Incorporated
+
+We have audited the accompanying consolidated balance sheets of Aeroflex
+Incorporated and subsidiaries as of June 30, 2001 and 2000 and the related
+consolidated statements of earnings, stockholders' equity and comprehensive
+income, and cash flows for each of the years in the three-year period ended June
+30, 2001. Our audits also included the financial statement schedule listed in
+the Index at item 14(a)2. These consolidated financial statements and financial
+statement schedule are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these consolidated financial
+statements and financial statement schedule based on our audits.
+
+We conducted our audits in accordance with auditing standards generally accepted
+in the United States of America. Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above present
+fairly, in all material respects, the financial position of Aeroflex
+Incorporated and subsidiaries as of June 30, 2001 and 2000 and the results of
+their operations and their cash flows for each of the years in the three-year
+period ended June 30, 2001, in conformity with accounting principles generally
+accepted in the United States of America. Also, in our opinion, the financial
+statement schedule, when considered in relation to the basic consolidated
+financial statements taken as a whole, presents fairly, in all material
+respects, the information set forth therein.
+
+KPMG LLP
+
+
+Melville, New York
+August 10, 2001
+
+                                      S-1
+
+
+
+
+
+
+
+<PAGE>
+
+
+
+                              AEROFLEX INCORPORATED
+                                AND SUBSIDIARIES
+
+                           CONSOLIDATED BALANCE SHEETS
+
+                                 (In thousands)
+
+
+<TABLE>
+<CAPTION>
+                                                            June 30,
+                                                   ------------------------
+                            ASSETS                    2001           2000
+                                                   ----------      --------
+                                                      (Restated, Note 2)
+<S>                                                <C>            <C>
+Current assets:
+  Cash and cash equivalents...................     $ 69,896       $ 54,732
+  Marketable securities.......................       12,012         11,512
+
+  Accounts receivable, less allowance for
+    doubtful accounts of $459 and $509
+    at June 30, 2001 and 2000, respectively...       49,409         51,777
+
+  Inventories, net............................       48,423         37,367
+
+  Deferred income taxes.......................        7,148          5,317
+
+  Prepaid expenses and other current assets...        2,583          2,859
+                                                   --------       --------
+       Total current assets...................      189,471        163,564
+
+Property, plant and equipment, net............       62,137         52,251
+
+Intangible assets acquired in connection with
+  the purchase of businesses, net of
+  accumulated amortization of $6,917 and $4,689
+  at June 30, 2001 and 2000, respectively.....       20,286         12,839
+
+Cost in excess of fair value of net assets of
+  businesses acquired, net of accumulated
+  amortization of $4,957 and $3,800 at June 30,
+  2001 and 2000, respectively.................       21,006         13,380
+
+Deferred income taxes.........................        8,538          3,093
+
+Other assets..................................        8,814          4,368
+                                                   --------       --------
+
+       Total assets...........................     $310,252       $249,495
+                                                   ========       ========
+</TABLE>
+
+                 See notes to consolidated financial statements.
+
+                                       S-2
+
+
+
+
+
+
+
+<PAGE>
+
+
+
+                              AEROFLEX INCORPORATED
+                                AND SUBSIDIARIES
+
+                           CONSOLIDATED BALANCE SHEETS
+                                   (Continued)
+
+                    (In thousands, except per share amounts)
+
+<TABLE>
+<CAPTION>
+
+                                                               June 30,
+                                                       -----------------------
+    LIABILITIES AND STOCKHOLDERS' EQUITY                  2001         2000
+                                                       ---------     ---------
+                                                          (Restated, Note 2)
+
+<S>                                                    <C>           <C>
+Current liabilities:
+  Current portion of long-term debt..............      $  1,905      $  2,102
+
+  Accounts payable...............................        16,794        12,629
+
+  Accrued expenses and other current
+    liabilities..................................        18,398        15,247
+                                                       ---------     ---------
+
+       Total current liabilities.................        37,097        29,978
+
+Long-term debt...................................        11,428        12,983
+Other long-term liabilities......................         6,606         4,890
+                                                       ---------     ---------
+
+       Total liabilities.........................        55,131        47,851
+                                                       ---------     ---------
+
+Commitments and contingencies
+
+Stockholders' equity:
+  Preferred Stock, par value $.10 per share;
+    authorized 1,000 shares:
+    Series A Junior Participating Preferred
+    Stock, par value $.10 per share; authorized
+    80 shares; none issued.......................          -             -
+  Common Stock, par value $.10 per share;
+    authorized 80,000 shares; issued 59,674 and
+    28,110 at June 30, 2001 and 2000,
+    respectively.................................         5,967         2,811
+  Additional paid-in capital.....................       219,278       190,141
+  Accumulated other comprehensive income (loss)..          (154)           82
+  Retained earnings..............................        30,044         8,690
+                                                       ---------     ---------
+                                                        255,135       201,724
+  Less:  Treasury stock, at cost (4 and 13
+   shares at June 30, 2001 and 2000,
+   respectively).................................            14            80
+                                                       ---------     ---------
+       Total stockholders' equity................       255,121       201,644
+                                                       ---------     ---------
+
+       Total liabilities and stockholders'
+         equity..................................      $310,252      $249,495
+                                                       =========     =========
+</TABLE>
+
+
+                 See notes to consolidated financial statements.
+
+                                       S-3
+
+
+
+
+
+<PAGE>
+
+                     AEROFLEX INCORPORATED AND SUBSIDIARIES
+                       CONSOLIDATED STATEMENTS OF EARNINGS
+
+                    (In thousands, except per share amounts)
+
+<TABLE>
+<CAPTION>
+                                                  Years Ended June 30,
+                                           ---------------------------------
+                                             2001       2000        1999
+                                             ----       ----        ----
+                                                  (Restated, Note 2)
+
+<S>                                        <C>         <C>         <C>
+Net sales.............................     $232,808    $188,750    $160,382
+Cost of sales.........................      136,659     120,200     100,892
+                                           ---------   ---------   ---------
+  Gross profit........................       96,149      68,550      59,490
+                                           ---------   ---------   ---------
+
+Operating costs:
+  Selling, general and
+    administrative costs..............       44,277      34,491      28,306
+  Research and development
+    costs.............................       18,909      11,592      10,053
+  Acquired in-process research
+    and development costs (note 2)....        2,500        -          3,500
+                                           ---------   ---------   ---------
+      Total operating costs...........       65,686      46,083      41,859
+                                           ---------   ---------   ---------
+Operating income .....................       30,463      22,467      17,631
+                                           ---------   ---------   ---------
+
+Other expense (income):
+  Interest expense....................        1,397       2,442       1,493
+  Other income, net
+    (including interest income
+    and dividends of $3,854,
+    $650 and $781)....................       (3,606)       (554)       (777)
+                                           ---------   ---------   ---------
+      Total other expense
+           (income)......................    (2,209)      1,888         716
+                                           ---------   ---------   ---------
+
+Income before income taxes............       32,672      20,579      16,915
+Provision for income taxes............       11,450       6,200       7,150
+                                           ---------   ---------   ---------
+Income before cumulative effect
+ of a change in accounting............       21,222      14,379       9,765
+Cumulative effect of a change in
+ accounting, net of tax (Note 1)......          132        -           -
+                                           ---------   ---------   ---------
+
+Net income ...........................     $ 21,354    $ 14,379    $  9,765
+                                           =========   =========   =========
+
+Net income per common share:
+   Basic
+     Income before cumulative effect..        $0.37       $0.30       $0.22
+     Cumulative effect of a change
+       in accounting..................          -           -           -
+                                              ------      ------      ------
+     Net income.......................        $0.37       $0.30       $0.22
+                                              ======      ======      ======
+
+   Diluted
+     Income before cumulative effect..        $0.35       $0.28       $0.20
+     Cumulative effect of a change
+       in accounting..................          -           -           -
+                                              ------      ------      ------
+     Net income.......................        $0.35       $0.28       $0.20
+                                              ======      ======      ======
+
+Weighted average number of common
+ shares outstanding:
+   Basic..............................       58,124      48,189      45,011
+   Diluted............................       61,041      51,474      48,371
+
+</TABLE>
+
+                 See notes to consolidated financial statements.
+
+
+                                       S-4
+
+
+
+
+
+
+<PAGE>
+                              AEROFLEX INCORPORATED
+                                AND SUBSIDIARIES
+    CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY AND COMPREHENSIVE INCOME
+
+                    Years Ended June 30, 2001, 2000 and 1999
+                                 (In thousands)
+                               (Restated, Note 2)
+<TABLE>
+<CAPTION>
+                                                                              Accumulated
+                                                                               Other Comp-  Retained
+                                               Common Stock       Additional    rehensive   Earnings
+                                          ----------------------   Paid-in       Income   (Accumulated
+                                 Total      Shares   Par Value     Capital       (Loss)     Deficit)
+                              ----------  --------- ------------ -----------  -----------  -----------
+<S>                             <C>         <C>         <C>       <C>         <C>             <C>
+Balance, July 1, 1998......   $  86,761     17,598   $  1,760    $100,460     $   -        $ (15,454)
+Stock issued upon
+ exercise of stock
+ options and warrants......       4,967      1,051        105       4,563         -             -
+Purchase of treasury
+ stock.....................        (343)      -          -           -            -             -
+Deferred compensation......         676       -          -            676         -             -
+Net income.................       9,765       -          -           -            -            9,765
+                              ----------  ---------  ---------  ----------   ----------    -----------
+
+Balance, June 30, 1999.....     101,826     18,649      1,865     105,699         -           (5,689)
+
+
+Stock issued in
+ public offering...........      68,500      2,500        250      68,250         -             -
+Stock issued upon
+ exercise of stock
+ options and warrants......      18,457      1,339        133      16,365         -             -
+Purchase of treasury
+ stock.....................      (1,990)      -          -           -            -             -
+Deferred compensation......         401       -          -            401                       -
+Five-for-four
+ stock split...............         (11)     5,622        563        (574)        -             -
+Other comprehensive
+ income....................          82       -          -                          82          -
+Net income.................      14,379       -          -           -            -           14,379
+                              ----------  ---------  ---------  ----------   ----------    -----------
+Balance, June 30, 2000.....     201,644     28,110      2,811     190,141           82         8,690
+
+
+Stock and options issued for
+ acquisition of businesses.      11,766      1,153        115      11,651         -             -
+Stock issued upon
+ exercise of stock
+ options and warrants......      20,390      1,450        145      20,179         -             -
+Deferred compensation......         203       -          -            203         -             -
+Two-for-one stock split....        -        28,961      2,896      (2,896)        -             -
+Other comprehensive loss...        (236)      -          -           -            (236)         -
+Net income.................      21,354       -          -           -            -           21,354
+                              ----------  ---------  ---------  ----------   ----------    ----------
+Balance, June 30, 2001.....   $ 255,121     59,674   $  5,967   $ 219,278    $    (154)    $  30,044
+                              ==========  =========  =========  ==========   ==========    ==========
+
+<CAPTION>
+                                  Treasury Stock
+                               --------------------    Comprehensive
+                                 Shares      Cost     Income (Loss)
+                                --------   --------- ---------------
+<S>                             <C>       <C>         <C>
+Balance, July 1, 1998......          1     $    (5)
+Stock issued upon
+ exercise of stock
+ options and warrants......        (34)        299
+Purchase of treasury
+ stock.....................         39        (343)
+Deferred compensation......        -           -
+Net income.................        -           -         $   9,765
+                                 -------   ---------     ----------
+
+Balance, June 30, 1999.....          6         (49)      $   9,765
+                                                         ==========
+Stock issued in
+ public offering...........        -           -
+Stock issued upon
+ exercise of stock
+ options and warrants......       (296)      1,959
+Purchase of treasury
+ stock.....................        300      (1,990)
+Deferred compensation......       -           -
+Five-for-four
+ stock split...............          3        -
+Other comprehensive
+ income....................       -           -         $      82
+Net income.................       -           -            14,379
+                                -------   ---------     ----------
+Balance, June 30, 2000.....         13         (80)     $  14,461
+                                                        ==========
+Stock and options issued for
+ acquisition of businesses.       -           -
+Stock issued upon
+ exercise of stock
+ options and warrants......        (11)         66
+Deferred compensation......       -           -
+Two-for-one stock split....          2        -
+Other comprehensive loss...       -           -         $    (236)
+Net income.................       -           -            21,354
+                               -------   ---------      ----------
+Balance, June 30, 2001.....          4   $     (14)     $  21,118
+                               =======   ==========     ==========
+</TABLE>
+                 See notes to consolidated financial statements.
+
+                                       S-5
+
+
+
+
+<PAGE>
+
+
+
+
+
+                     AEROFLEX INCORPORATED AND SUBSIDIARIES
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+                                 (In thousands)
+
+<TABLE>
+<CAPTION>
+                                                       Years Ended June 30,
+                                               ---------------------------------
+                                                  2001        2000        1999
+                                                  ----        ----        ----
+                                                             (Restated, Note 2)
+<S>                                                 <C>        <C>          <C>
+Cash flows from operating activities:
+  Net income ..............................     $ 21,354   $ 14,379     $  9,765
+  Adjustments to reconcile net income to
+    net cash provided by operating
+    activities:
+      Acquired in-process research
+        and development....................        2,500       -           3,500
+      Depreciation and amortization........       11,600      9,004        6,569
+      Amortization of deferred gain........         (823)      (596)        (588)
+      Tax benefit from stock option
+        exercises (Note 10)................        8,962      5,114        3,203
+      Deferred income taxes................        2,488      1,086        1,812
+      Other................................          365        390          292
+  Change in operating assets and
+    liabilities, net of effects from
+    purchase of businesses:
+      Decrease (increase) in accounts
+        receivable..........................       4,330    (11,481)     (16,445)
+      Decrease (increase) in inventories....      (6,177)    (4,232)       3,825
+      Decrease (increase) in prepaid
+        expenses and other assets...........      (3,170)    (1,069)      (2,231)
+      Increase (decrease) in accounts
+        payable, accrued expenses and
+        other long-term liabilities.........       5,779      2,462        2,272
+      Increase (decrease) in income
+        taxes payable.......................        -          (698)      (1,113)
+                                                ---------  ---------    ----------
+Net cash provided by operating
+  activities................................      47,208     14,359       10,861
+                                                ---------  ---------    ----------
+Cash flows from investing activities:
+  Payment for purchase of businesses,
+    net of cash acquired....................     (14,580)      (566)     (43,656)
+  Capital expenditures......................     (13,292)    (7,226)      (9,127)
+  Proceeds from sale of property,
+    plant and equipment.....................         168      1,686          967
+  Purchase of marketable securities.........     (30,767)   (11,430)        -
+  Proceeds from sale of marketable
+    securities..............................      30,121        193          198
+                                                ---------  ---------    ----------
+Net cash used in investing activities.......     (28,350)   (17,343)     (51,618)
+                                                ---------  ---------    ----------
+Cash flows from financing activities:
+  Proceeds from issuance of
+    common shares in public
+    offering.................................       -        69,000         -
+  Costs in connection with
+    public offering..........................       -          (500)        -
+  Borrowings under debt agreements...........        635      6,474       24,444
+  Debt repayments............................     (3,919)   (23,182)      (4,663)
+  Bank debt financing costs..................       -          -            (438)
+  Purchase of treasury stock.................       -        (1,990)        (343)
+  Proceeds from the exercise of stock
+    options and warrants.....................      3,800      5,170        2,539
+  Amounts paid for withholding taxes on
+    stock option exercises...................    (22,193)   (11,169)      (5,434)
+  Withholding taxes collected for stock
+    option exercises.........................     17,983     11,166        2,671
+                                                ---------  ---------    ---------
+Net cash provided by (used in) financing
+  activities.................................     (3,694)    54,969       18,776
+                                                ---------  ---------    ---------
+Net increase (decrease) in cash and
+  cash equivalents...........................     15,164     51,985      (21,981)
+Cash and cash equivalents at beginning of
+ year........................................     54,732      2,747       24,728
+                                                ---------  ---------    ---------
+Cash and cash equivalents at end of year.....   $ 69,896   $ 54,732     $  2,747
+                                                =========  =========    =========
+</TABLE>
+
+                 See notes to consolidated financial statements.
+
+
+                                       S-6
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+                     AEROFLEX INCORPORATED AND SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+ 1. Summary of Significant Accounting Principles and Policies
+
+       Principles of Consolidation
+       The accompanying consolidated financial statements include the accounts
+       of Aeroflex Incorporated and its subsidiaries (the "Company"), all of
+       which are wholly-owned with the exception of Europtest which is 96.8%
+       owned and Amplicomm which is 75% owned as of June 30, 2001 (see Note 2).
+       All intercompany balances and transactions have been eliminated.
+
+       Use of Estimates
+       The preparation of financial statements in conformity with generally
+       accepted accounting principles requires that management of the Company
+       make a number of estimates and assumptions relating to the reporting of
+       assets and liabilities and the disclosure of contingent assets and
+       liabilities. Among the more significant estimates included in the
+       consolidated financial statements are the estimated costs to complete
+       contracts in process. Actual results could differ from those estimates.
+
+       Cash and Cash Equivalents
+       The Company considers all highly liquid investments having maturities of
+       three months or less at the date of acquisition to be cash equivalents.
+
+       Inventories
+       Inventories are stated at the lower of cost (first-in, first-out) or
+       market. Inventories related to long-term contracts are recorded at cost
+       less amounts expensed under percentage-of-completion accounting.
+
+       Financial Instruments
+       The fair values of all on-balance sheet financial instruments, other than
+       long-term debt (see Note 7), approximate book values because of the short
+       maturity of these instruments. Amounts receivable or payable under
+       interest rate swap agreements are accounted for as adjustments to
+       interest expense.
+
+       Revenue Recognition
+       The Company's revenue is generally recognized based upon shipments.
+       Revenues associated with certain long term contracts are recognized under
+       the units-of-delivery method which includes shipments and progress
+       billings, in accordance with Statement of Position 81-1 "Accounting for
+       Performance of Construction-Type and Certain Production-Type Contracts."
+       The Company records costs on its long-term contracts using
+       percentage-of-completion accounting. Under percentage of completion
+       accounting, costs are recognized on revenues in the same relation that
+       total estimated manufacturing costs bear to total contract value.
+       Estimated costs at completion are based upon engineering and production
+       estimates. Provisions for estimated losses or revisions in estimated
+       profits on contracts-in-process are recorded in the period in which such
+       losses or revisions are first determined.
+
+       Property, Plant and Equipment
+       Property, plant and equipment are stated at cost less accumulated
+       depreciation computed on a straight-line basis over the estimated useful
+       lives of the related assets. Leasehold improvements are amortized over
+       the life of the lease or the estimated life of the asset, whichever is
+       shorter.
+
+       Research and Development Costs
+       All research and development costs are charged to expense as incurred.
+       See Note 2 for a discussion of acquired in-process research and
+       development.
+
+
+
+
+                                       S-7
+
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+       Intangible Assets
+       Intangible assets are recorded at cost less accumulated amortization. The
+       excess of purchase price over the fair value of tangible assets acquired
+       is being amortized on a straight-line basis over periods ranging from 6
+       to 40 years except for certain costs allocated to identifiable intangible
+       assets including existing technology, assembled workforce, customer
+       relationships and patents which are amortized over 6 to 15 years, the
+       estimated remaining lives of the intangibles at the time they were
+       acquired by the Company. In accordance with Statement of Financial
+       Accounting Standards ("SFAS") No. 121, "Accounting for the Impairment of
+       Long-Lived Assets and for Long-Lived Assets to be Disposed Of," the
+       Company periodically, and whenever events or changes in circumstances
+       indicate that the carrying value of its intangible assets may be
+       impaired, evaluates the recoverability of such asset by estimating the
+       future cash flows. If the sum of the expected undiscounted cash flows
+       expected to result from the use of the asset, and its eventual
+       disposition, is less than the carrying amount of the asset, the Company
+       will recognize an impairment loss to the extent of this shortfall. The
+       Company assesses the recoverability of unamortized goodwill based on the
+       undiscounted projected future earnings of the related businesses.
+
+       Income Per Common Share
+       In accordance with SFAS No. 128 "Earnings Per Share," income per common
+       share ("Basic EPS") is computed by dividing net income by the weighted
+       average common shares outstanding. Income per common share assuming
+       dilution ("Diluted EPS") is computed by dividing net income by weighted
+       average common shares outstanding plus potential dilution from the
+       exercise of stock options and warrants.
+
+       Accounting for Stock-Based Compensation
+       The Company records compensation expense for employee and director stock
+       options only if the current market price of the underlying stock exceeds
+       the exercise price on the date of the grant. Effective July 1, 1996, the
+       Company adopted SFAS No. 123, "Accounting for Stock-Based Compensation."
+       The Company has elected not to implement the fair value based accounting
+       method for employee and director stock options, but instead has elected
+       to disclose the pro forma net income and pro forma net income per share
+       for employee and director stock option grants made beginning in fiscal
+       1996 as if such method had been used to account for stock-based
+       compensation cost as described in SFAS No. 123.
+
+       Income Taxes
+       In accordance with SFAS No. 109, "Accounting for Income Taxes," the
+       Company measures deferred tax assets and liabilities based upon the
+       differences between the financial accounting and tax bases of assets and
+       liabilities.
+
+       Foreign Currency Translations
+       The financial statements of the Company's subsidiary in France are
+       measured in the local currency and then translated into U.S. dollars
+       using the current rate method. Under the current rate method, assets and
+       liabilities are translated using the exchange rate at the balance sheet
+       date. Revenues and expenses are translated at average rates prevailing
+       throughout the year. Gains and losses resulting from the translation of
+       financial statements of the foreign susidiary are accumulated in other
+       comprehensive income (loss) and presented as part of stockholders'
+       equity. Exchange gains or losses from the settlement of foreign currency
+       transactions are reflected in the consolidated statement of earnings.
+
+       Comprehensive Income
+       On July 1, 1998, the Company adopted SFAS No. 130, "Reporting
+       Comprehensive Income." Comprehensive income consists of net income and
+       equity adjustments relating to foreign currency translation, fair value
+       of derivatives and available-for-sale securities and is presented in the
+       Consolidated Statements of Stockholders' Equity and Comprehensive Income.
+       The statement requires only additional disclosures in the consolidated
+       financial statements; it does not effect the Company's results of
+       operations.
+
+                                       S-8
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+       Accounting for Derivative Instruments and Hedging Activities
+       Effective July 1, 2000, the Company adopted SFAS No. 133, "Accounting for
+       Derivative Instruments and Hedging Activities," as amended. This
+       statement requires companies to record derivatives on the balance sheet
+       as assets or liabilities at their fair value. In certain circumstances,
+       changes in the value of such derivatives may be required to be recorded
+       as gains or losses. The impact of this statement did not have a material
+       effect on the Company's consolidated financial statements. The cumulative
+       effect of the adoption of this accounting policy was a $132,000, net of
+       tax, credit in the quarter ended September 30, 2000 which represented the
+       net of tax fair value of certain interest rate swap agreements at July 1,
+       2000.
+
+       Reclassifications
+       Reclassifications have been made to the 1999 and 2000 consolidated
+       financial statements to conform to the 2001 presentation.
+
+       Recent Accounting Pronouncements
+       Effective July 1, 2000, the Company adopted the SEC's Staff Accounting
+       Bulletin No. 101, "Revenue Recognition in Financial Statements," ("SAB
+       101") and the Emerging Issues Task Force Issue 00-10, "Accounting for
+       Shipping and Handling Fees and Costs," ("EITF 00-10"). SAB 101 provides
+       guidance related to revenue recognition. EITF 00-10 requires companies to
+       recognize revenue for amounts billed to customers for shipping and
+       handling charges. The adoption of these two pronouncements did not have a
+       material impact on the Company's consolidated statements of earnings.
+
+       In July 2001, the FASB issued SFAS No. 141, "Business Combinations", and
+       SFAS No. 142, "Goodwill and Other Intangible Assets." SFAS No. 141
+       requires that the purchase method of accounting be used for all future
+       business combinations and specifies criteria that intangible assets
+       acquired in a business combination must meet to be recognized and
+       reported apart from goodwill. SFAS No. 142 requires that goodwill and
+       intangible assets with indefinite useful lives no longer be amortized,
+       but instead tested for impairment at least annually in accordance with
+       the provisions of SFAS No. 142. Amortization expense related to goodwill
+       was $1.2 million, $640,000 and $437,000 for the years ended June 30,
+       2001, 2000 and 1999, respectively. SFAS No. 142 will also require that
+       intangible assets with estimable useful lives be amortized over their
+       respective estimated useful lives, and reviewed for impairment in
+       accordance with SFAS No. 121. The Company will adopt the provisions of
+       SFAS 141 and SFAS 142 as of July 1, 2001.
+
+       The Company will evaluate its existing intangible assets and goodwill
+       that were acquired in prior purchase business combinations, and make any
+       necessary reclassifications in order to conform with the new criteria in
+       SFAS No. 141 for recognition apart from goodwill. The Company will be
+       required to reassess the useful lives and residual values of all
+       intangible assets acquired, and make any necessary amortization period
+       adjustments by September 30, 2001. In addition, the Company will be
+       required to test goodwill and, to the extent an intangible asset is
+       identified as having an indefinite useful life, the intangible asset, for
+       impairment in accordance with the provisions of SFAS No. 142 by June 30,
+       2002 and September 30, 2001, respectively. Any impairment loss will be
+       measured as of the date of adoption and recognized as the cumulative
+       effect of a change in accounting principle as of July 1, 2001.
+
+       Because of the extensive effort needed to comply with adopting SFAS 141
+       and SFAS 142, it is not practicable to reasonably estimate the impact of
+       adopting these statements on the Company's consolidated financial
+       statements at the date of this report, including whether it will be
+       required to recognize any transitional impairment losses as the
+       cumulative effect of a change in accounting principle.
+
+                                       S-9
+
+
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+2.     Acquisition of Businesses
+
+       TriLink
+       Effective March 23, 2001, the Company acquired all of the outstanding
+       stock of TriLink Communications Corp. ("TriLink") for 1.1 million shares
+       of Aeroflex common stock. TriLink designs, develops, manufactures and
+       markets fiber optic components for the communications industry, including
+       Lithium Niobate modulators and optical switches.
+
+       The Company evaluated the acquired tangible and identifiable intangible
+       assets to serve as a basis for allocation of the purchase price. The
+       Company allocated the purchase price, including acquisition costs of
+       approximately $300,000, as follows:
+
+<TABLE>
+<CAPTION>
+                                                                                        (In thousands)
+                           <S>                                                              <C>
+                           Net tangible assets                                             $ 1,171
+                           Identifiable intangible assets - existing technology              6,000
+                                                          - assembled workforce                430
+                           Deferred income taxes on identifiable
+                             intangible assets                                              (2,572)
+                           Excess costs over fair value of net assets
+                             acquired                                                        5,668
+                           In-process research and development                               1,000
+                                                                                           -------
+                                                                                           $11,697
+                                                                                           =======
+</TABLE>
+
+       The existing technology, assembled workforce and costs in excess of fair
+       value of net assets acquired are being amortized on a straight-line basis
+       over 6 years. The acquired in-process research and development was not
+       considered to have reached technological feasibility and, in accordance
+       with accounting principles generally accepted in the United States of
+       America, the value of such has been expensed in the quarter ended March
+       31, 2001. At the acquisition date, TriLink was conducting design,
+       development, engineering and testing activities associated with the
+       completion of its 10 GB modulator.
+
+       Summarized below are the unaudited pro forma results of operations of the
+       Company as if TriLink had been acquired at the beginning of the fiscal
+       periods presented. The $1.0 million write-off has been included in the
+       June 30, 2001 pro forma income but not the June 30, 2000 pro forma income
+       in order to provide comparability to the respective historical periods.
+
+<TABLE>
+<CAPTION>
+                                                                            Pro Forma
+                                                                           Years Ended
+                                                                             June 30,
+                                                                    --------------------------
+                                                                    2001                  2000
+                                                                    ----                  ----
+                                                             (In thousands, except per share data)
+
+         <S>                                                           <C>                  <C>
+         Net Sales                                                     $ 233,168            $ 188,790
+         Income before
+           cumulative effect
+           of a change in
+           accounting                                                     19,870               12,721
+
+         Income before
+           cumulative effect
+           of a change in
+           accounting per share:
+             Basic                                                       $.34                 $.26
+             Diluted                                                      .32                  .24
+
+</TABLE>
+
+
+
+                                      S-10
+
+
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+      The pro forma financial information presented above is not necessarily
+      indicative of either the results of operations that would have occurred
+      had the acquisition taken place at the beginning of the periods presented
+      or of future operating results of the combined companies.
+
+      RDL
+      On October 23, 2000, the Company acquired all of the outstanding stock of
+      RDL, Inc. ("RDL") for $14.0 million of available cash. RDL designs,
+      develops and manufactures advanced commercial communications test and
+      measurement products and defense subsystems. The acquired company's net
+      sales were approximately $15.0 million for the year ended March 31, 2000.
+
+      The Company evaluated the acquired tangible and identifiable intangible
+      assets to serve as a basis for allocation of the purchase price. The
+      Company allocated the purchase price, including acquisition costs of
+      approximately $100,000, as follows:
+
+<TABLE>
+<CAPTION>
+                                                                                                  (In thousands)
+                  <S>                                                                                <C>
+                  Net tangible assets                                                                $ 6,774
+                  Existing technology                                                                  2,970
+                  Excess costs over fair value of net assets
+                    acquired                                                                           2,856
+                  In-process research and development                                                  1,500
+                                                                                                     -------
+                                                                                                     $14,100
+                                                                                                     =======
+</TABLE>
+
+
+      The existing technology and costs in excess of fair value of net assets
+      acquired are being amortized on a straight-line basis over 7 years. The
+      acquired in-process research and development was not considered to have
+      reached technological feasibility and, in accordance with accounting
+      principles generally accepted in the United States of America, the value
+      of such has been expensed in the quarter ended December 31, 2000. At the
+      acquisition date, RDL was conducting design, development, engineering and
+      testing activities associated with the completion of its defense and
+      commercial product lines representing next-generation technologies.
+
+      Summarized below are the unaudited pro forma results of operations of the
+      Company as if RDL had been acquired at the beginning of the fiscal periods
+      presented. The $1.5 million write-off has been included in the June 30,
+      2001 pro forma income but not the June 30, 2000 pro forma income in order
+      to provide comparability to the respective historical periods.
+
+<TABLE>
+<CAPTION>
+                                                                               Pro Forma
+                                                                              Years Ended
+                                                                                June 30,
+                                                                        -------------------------
+                                                                        2001                 2000
+                                                                        ----                 ----
+                                                                   (In thousands, except per share data)
+
+         <S>                                                           <C>                  <C>
+         Net sales                                                     $ 237,690            $ 204,586
+         Income before
+           cumulative effect
+           of a change in
+           accounting                                                     20,799               13,163
+
+         Income before
+           cumulative effect
+           of a change in
+           accounting per share:
+             Basic                                                       $.36                $.27
+             Diluted                                                      .34                 .26
+</TABLE>
+
+                                      S-11
+
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+      The pro forma financial information presented above is not necessarily
+      indicative of either the results of operations that would have occurred
+      had the acquisition taken place at the beginning of the periods presented
+      or of future operating results of the combined companies.
+
+      Altair
+      On October 16, 2000, the Company issued 550,000 shares(after adjustment
+      for the 2- for-1 stock split effective in November 2000) of its common
+      stock for all the outstanding common stock of Altair Aerospace Corporation
+      ("Altair"). Altair designs and develops advanced object-oriented control
+      systems software based upon a proprietary software engine. This business
+      combination has been accounted for as a pooling-of-interests and,
+      accordingly, for all periods prior to the business combination, the
+      Company's historical consolidated financial statements have been restated
+      to include the accounts and results of operations of Altair. Altair's net
+      sales were approximately $2.8 million and $3.3 million for the years ended
+      June 30, 2000 and 1999, respectively, and its net income (loss) was
+      $(21,000) and $8,000, respectively. As of June 30, 2000, Altair's total
+      assets were $788,000 and its total liabilities were $1.1 million.
+
+      For periods preceding the combination, there were no intercompany
+      transactions which required elimination from the combined consolidated
+      results of operations and there were no adjustments necessary to conform
+      the accounting practices of the two companies.
+
+      Amplicomm
+      Effective September 7, 2000, Aeroflex Amplicomm, Inc. ("Amplicomm") was
+      formed as a wholly-owned subsidiary of the Company. On September 20, 2000,
+      Amplicomm acquired certain equipment and intellectual property from a
+      third party for approximately $300,000, entered into employment agreements
+      with this third party's former owners and issued 25% of the stock of
+      Amplicomm to them. Amplicomm designs and develops fiber optic amplifiers
+      and modulator drivers used by manufacturers of advanced fiber optic
+      systems. On a pro forma basis, had the Amplicomm acquisition taken place
+      as of the beginning of the periods presented, results of operations for
+      those periods would not have been materially affected.
+
+      UTMC
+      Effective February 25, 1999, the Company acquired all of the outstanding
+      stock of UTMC Microelectronic Systems, Inc. ("UTMC") for $42.5 million of
+      cash. The purchase price was paid with available cash of $22.5 million and
+      borrowings under the Company's bank loan agreement of $20.0 million. UTMC
+      is a supplier of radiation-tolerant integrated circuits for satellite
+      communications. The acquired company's net sales were approximately $33.4
+      million for the year ended December 31, 1998.
+
+      The Company evaluated the acquired tangible and identifiable intangible
+      assets to serve as a basis for allocation of the purchase price. The
+      Company allocated the purchase price, including acquisition costs of
+      approximately $500,000, as follows:
+
+<TABLE>
+<CAPTION>
+                                                                         (In thousands)
+             <S>                                                             <C>
+             Net tangible assets                                             $28,771
+             Identifiable intangible assets - existing technology              4,700
+                                            - tradename                        1,000
+                                            - assembled workforce                600
+             Costs in excess of fair value of
+                  net assets acquired                                          4,429
+             In-process research and development                               3,500
+                                                                             -------
+                                                                             $43,000
+                                                                             =======
+</TABLE>
+
+
+                                      S-12
+
+
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+      The identifiable intangibles and costs in excess of fair value of net
+      assets are being amortized on a straight-line basis over 6 to 15 years.
+      The acquired in-process research and development was not considered to
+      have reached technological feasibility and, in accordance with accounting
+      principles generally accepted in the United States of America, the value
+      of such was expensed in the third quarter of fiscal 1999.
+
+      Summarized below are the unaudited pro forma results of operations of the
+      Company as if UTMC had been acquired as of July 1, 1998. The $3.5 million
+      write-off has been included in the June 30, 1999 pro forma income in order
+      to provide comparability to the actual results.
+
+<TABLE>
+<CAPTION>
+                                               Pro Forma Year Ended
+                                                     June 30,
+                                               --------------------
+                                                      1999
+                                                      ----
+                                       (In thousands, except per share data)
+
+             <S>                                    <C>
+             Net sales                              $ 180,427
+             Net income                                 9,477
+
+             Net income per share
+               Basic                                  $ .21
+               Diluted                                  .20
+</TABLE>
+
+
+
+       The pro forma financial information presented above is not necessarily
+       indicative of either the results of operations that would have occurred
+       had the acquisition taken place at the beginning of the period presented
+       or of future operating results of the combined companies.
+
+       Europtest
+       Effective September 1, 1998, the Company acquired 90% of the stock of
+       Europtest, S.A. (France) for approximately $1.1 million. The purchase
+       agreement also requires that the Company purchase the remaining 10% of
+       Europtest pro rata over a three-year period at prices determined based
+       upon net sales of Europtest products. In each of March 2001 and October
+       1999, the Company purchased an additional 3.4% of Europtest's stock for
+       approximately $47,000 and $54,000, respectively. Europtest develops and
+       sells specialized software-driven test equipment used primarily in
+       cellular, satellite and other communications applications. The acquired
+       company's net sales were approximately $1.9 million for the year ended
+       March 31, 1998. On a pro forma basis, had the Europtest acquisition taken
+       place as of the beginning of the periods presented, results of operations
+       for those periods would not have been materially affected. The purchase
+       price has been allocated to the assets acquired and liabilities assumed
+       based on their fair values.
+
+       The acquisitions (except for Altair, as discussed above) have been
+       accounted for as purchases and, accordingly, the acquired assets and
+       liabilities assumed have been recorded at their estimated fair values at
+       the respective dates of acquisition. The operating results of each
+       acquired company are included in the consolidated statements of earnings
+       from the respective acquisition dates. Further, with respect to Altair,
+       the Company's historical consolidated financial statements have been
+       restated for all periods prior to the business combination.
+
+
+                                      S-13
+
+
+
+
+
+<PAGE>
+
+
+
+3.     Marketable Securities
+
+       All of the Company's marketable securities are deemed by management to be
+       available-for-sale and are reported at fair value with net unrealized
+       gains or losses reported within stockholders' equity. Realized gains and
+       losses are recorded based on the specific identification method. For
+       fiscal years 2001, 2000 and 1999, gross realized gains and (losses) were
+       $0, $193,000 and $0, respectively. The carrying amount of the Company's
+       investments is shown in the table below:
+
+<TABLE>
+<CAPTION>
+                                                                     June 30,
+                                                              -------------------
+                                                                2001        2000
+                                                              --------    -------
+                                                                 (In thousands)
+             <S>                                               <C>        <C>
+             Amortized cost                                    $12,075    $11,430
+             Gross unrealized gains                                  6         85
+             Gross unrealized losses                               (69)        (3)
+                                                               -------    -------
+             Estimated fair value                              $12,012    $11,512
+                                                               =======    =======
+</TABLE>
+
+
+       The marketable securities at June 30, 2001 were virtually all U.S.
+       government agency debt securities with scheduled maturities within one
+       year.
+
+4.     Inventories
+       Inventories consist of the following:
+
+<TABLE>
+<CAPTION>
+                                                    June 30,
+                                         --------------------------
+                                           2001              2000
+                                         --------          --------
+                                                (In thousands)
+             <S>                           <C>                <C>
+             Raw materials.........       $28,999            20,392
+             Work-in-process.......        13,071            12,783
+             Finished goods........         6,353             4,192
+                                          -------           -------
+                                          $48,423           $37,367
+                                          =======           =======
+</TABLE>
+
+       Inventories include contracts-in-process of $15.3 million and $9.3
+       million at June 30, 2001 and 2000, respectively, which consist
+       substantially of unbilled material, labor and overhead costs that are or
+       were expected to be billed during the succeeding fiscal year.
+
+5.     Property, Plant and Equipment
+       Property, plant and equipment consists of the following:
+
+<TABLE>
+<CAPTION>
+                                                     June 30,
+                                         -----------------------------
+                                              2001            2000       Estimated
+                                         -------------   -------------  Useful Life
+                                               (In thousands)             In Years
+                                                                        -----------
+         <S>                              <C>            <C>              <C>
+         Land.........................    $   5,024      $   4,725
+         Building and leasehold
+          improvements................       37,266         33,061        2 to 40
+         Machinery, equipment, tools
+          and dies....................       48,087         38,411        3 to 10
+         Furniture and fixtures.......        9,536          8,270        5 to 10
+         Assets recorded under
+          capital leases..............        6,711          6,769        5 to 10
+                                          ---------      ---------
+                                            106,624         91,236
+         Less accumulated depreciation
+          and amortization............       44,487         38,985
+                                          ---------      ---------
+                                          $  62,137      $  52,251
+                                          =========      =========
+</TABLE>
+
+       Repairs and maintenance expense on property, plant and equipment was $2.6
+       million, $2.5 million and $2.3 million for the years ended June 30, 2001,
+       2000 and 1999, respectively.
+
+                                      S-14
+
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+6.     Accrued Expenses and Other Current Liabilities
+       Accrued expenses and other current liabilities include accrued salaries,
+       wages and other compensation of $7.4 million and $6.9 million at June 30,
+       2001 and 2000, respectively.
+
+7.     Long-Term Debt and Credit Arrangements
+       Long-term debt consists of the following:
+
+<TABLE>
+<CAPTION>
+                                                      June 30,
+                                              -----------------------
+                                               2001            2000
+                                              ------          ------
+                                                  (In thousands)
+           <S>                               <C>              <C>
+           Revolving credit, term loan
+            and mortgage agreement (a)...    $  3,724         $  4,038
+           Building mortgage (b).........       3,765            3,965
+           Capitalized lease
+            obligations (c)..............       5,152            6,026
+           Other.........................         692            1,056
+                                             ---------        ---------
+                                               13,333           15,085
+           Less current maturities.......       1,905            2,102
+                                             ---------        ---------
+                                             $ 11,428         $ 12,983
+                                             =========        =========
+</TABLE>
+
+       Aggregate long-term debt as of June 30, 2001 matures in each fiscal year
+       as follows:
+
+<TABLE>
+<CAPTION>
+                                       (In thousands)
+
+                     <S>                  <C>
+                     2002...............  $ 1,905
+                     2003...............    1,331
+                     2004...............    1,433
+                     2005...............    1,615
+                     2006...............    1,063
+                     Thereafter.........    5,986
+                                          -------
+                                          $13,333
+                                          =======
+</TABLE>
+
+       Interest paid was $1.4 million, $2.5 million and $1.6 million during the
+       years ended June 30, 2001, 2000 and 1999, respectively.
+
+
+       (a) As of February 25, 1999, the Company replaced a previous agreement
+       with a revised revolving credit, term loan and mortgage agreement with
+       two banks which is secured by substantially all of the Company's assets
+       not otherwise encumbered. The agreement provided for a revolving credit
+       line of $23.0 million, a term loan of $20.0 million and a mortgage on the
+       Company's Plainview property for $4.5 million. The revolving credit loan
+       facility expires in December 2002. The outstanding balance of the term
+       loan was fully paid with the proceeds from the Company's sale of its
+       Common Stock in May 2000. The interest rate on borrowings under this
+       agreement is at various rates depending upon certain financial ratios,
+       with the current rate substantially equivalent to prime (approximately
+       6.75% at June 30, 2001) on the revolving credit borrowings. The Company
+       paid a facility fee of $100,000 and is required to pay a commitment fee
+       of .25% per annum of the average unused portion of the credit line. The
+       mortgage is payable in monthly installments of approximately $26,000
+       through March 2008 and a balloon payment of $1.6 million in April 2008.
+       The Company has entered into an interest rate swap agreement for the
+       outstanding amount under the mortgage agreement at approximately 7.6% in
+       order to reduce the interest rate risk associated with these borrowings.
+       The fair market value of the interest rate swap agreement was $66,000 as
+       of June 30, 2001 in favor of the banks.
+
+                                      S-15
+
+
+
+
+
+
+<PAGE>
+
+
+
+       The terms of the agreement require compliance with certain covenants
+       including minimum consolidated tangible net worth and pretax earnings,
+       maintenance of certain financial ratios, limitations on capital
+       expenditures and indebtedness and prohibition of the payment of cash
+       dividends. In connection with the purchase of certain materials for use
+       in manufacturing, the Company has a letter of credit of $2.0 million. At
+       June 30, 2001, the Company's available unused line of credit was $21.0
+       million after consideration of the letter of credit.
+
+       (b) In December 1998, the Company financed the acquisition and renovation
+       of the land and building of its Pearl River, NY facility and received
+       proceeds amounting to $4.2 million. This debt requires a balloon payment
+       of $3.8 million in 2019.
+
+       (c) During the year ended June 30, 1998, the Company entered into
+       equipment loans with two banks totaling $6.2 million. In June 2000, the
+       remaining balance of these loans of $4.1 million was refinanced under two
+       sale and capital leaseback agreements for approximately $6.0 million. For
+       purposes of the Consolidated Statements of Cash Flows, the $4.1 million
+       refinancing was considered a non-cash transaction. These agreements
+       expire through June 2006 and bear interest at approximately 7.9%.
+
+8.     Stockholders' Equity
+
+       Common Stock Offering
+       In May 2000, the Company sold 6.3 million shares (adjusted for the stock
+       splits) of its Common Stock in a public offering for $68.5 million, net
+       of an underwriting discount of $3.5 million and issuance costs of
+       $500,000. Of these net proceeds, $13.0 million was used to repay the term
+       loan. The balance of the net proceeds is invested in short-term
+       marketable securities and is intended to ultimately be used for
+       additional working capital, including research and development, for
+       expansion of our facilities, and for general corporate purposes,
+       including possible acquisitions of technologies, product lines or
+       businesses.
+
+       Common Stock Splits
+       On June 12, 2000, the Company's Board of Directors authorized a
+       five-for-four stock split on its Common Stock, effective June 26, 2000.
+       On November 2, 2000, the Company's Board of Directors authorized a
+       two-for-one stock split of its Common Stock, effective November 16, 2000.
+       The share and per share amounts in the consolidated financial statements
+       give effect to the stock splits.
+
+       Stock Options and Warrants
+       Under the Company's stock option plans, options may be granted to
+       purchase shares of the Company's Common Stock exercisable at prices equal
+       to the fair market value on the date of grant. During 1990, the Company's
+       shareholders approved the Non-Qualified Stock Option Plan (the "NQSOP").
+       In December 1993, the Board of Directors adopted the Outside Director
+       Stock Option Plan (the "Directors' Plan") which provides for options to
+       non-employee directors, which become exercisable in three installments
+       and expire ten years from the date of grant. The Directors' Plan, as
+       amended, covers 1.3 million shares of the Company's Common Stock. In
+       November 1994, the shareholders approved the Directors' Plan and the 1994
+       Non-Qualified Stock Option Plan (the "1994 Plan"). In November 1996, the
+       shareholders approved the 1996 Stock Option Plan (the "1996 Plan"). In
+       April 1998, the Board of Directors adopted the 1998 Stock Option Plan
+       (the "1998 Plan"). In January 2000, the shareholders approved the 1999
+       Stock Option Plan (the "1999 Plan"). In March 2000, the Board of
+       Directors adopted the 2000 Stock Option Plan ("the 2000 Plan"). In
+       November 2000, the shareholders approved the Key Employee Stock Option
+       Plan ("the Key Employee Plan"). The NQSOP, the 1994 Plan, the 1996 Plan,
+       the 1998 Plan, the 1999 Plan, the 2000 Plan and the Key Employee Plan
+       provide for options which become exercisable in one or more installments
+       and each covers 3.8 million shares of the Company's Common Stock except
+       for the 1999 Plan which covers 2.3 million
+
+                                      S-16
+
+
+
+
+
+
+<PAGE>
+
+
+
+       shares, the 2000 Plan which covers 4.6 million shares and the Key
+       Employee Plan which covers 4.0 million shares. Options under the NQSOP
+       and the 1994 Plan expire five years from the date of grant. Options under
+       the 1996 Plan, the 1998 Plan, the 1999 Plan, the 2000 Plan and the Key
+       Employee Plan shall expire not later than ten years from the date of
+       grant.
+
+       The Company has also issued to employees, who are not executive officers,
+       options to purchase 1.4 million shares of Common Stock which were not
+       covered by one of the above plans.
+
+
+       Additional information with respect to the Company's stock options is as
+       follows:
+
+<TABLE>
+<CAPTION>
+                                      Weighted       Shares
+                                      Average         Under
+                                      Exercise     Outstanding
+                                       Prices        Options
+                                      --------     ------------
+                                                  (In thousands)
+                 <S>                <C>              <C>
+                 Balance, July 1,
+                  1998.........      $  2.22          9,729
+                 Granted.......         4.73          2,889
+                 Forfeited.....         1.80             (8)
+                 Exercised.....         1.50         (3,650)
+                                                    ---------
+                 Balance, June 30,
+                  1999.........         3.32          8,960
+                 Granted.......        14.01          4,395
+                 Forfeited.....         4.82            (56)
+                 Exercised.....         2.23         (3,733)
+                                                    ---------
+                 Balance, June 30,
+                  2000.........         8.65          9,566
+                 Granted.......        21.22          7,128
+                 Forfeited.....         9.22           (148)
+                 Exercised.....         4.02         (2,702)
+                                                    ---------
+                 Balance, June 30,
+                  2001.........        16.02         13,844
+                                                    =========
+</TABLE>
+
+       The Company's stock option plans allow employees to use shares received
+       from the exercise of the option to satisfy the tax withholding
+       requirements. During fiscal years 2001, 2000 and 1999, payroll tax on
+       stock option exercises were withheld from employees in shares of the
+       Company's Common Stock amounting to $4.2 million, $0 and $2.6 million,
+       respectively.
+
+       Options to purchase 4.4 million, 3.3 million and 3.8 million shares were
+       exercisable at weighted average exercise prices of $10.21, $6.80 and
+       $2.03 as of June 30, 2001, 2000 and 1999, respectively.
+
+                                      S-17
+
+
+
+
+
+
+<PAGE>
+
+
+       The options outstanding as of June 30, 2001 are summarized in ranges as
+       follows:
+
+<TABLE>
+<CAPTION>
+
+                                   Options Outstanding
+                         ----------------------------------------------
+                           Weighted                           Weighted
+       Range of            Average                            Average
+       Exercise            Exercise         Options           Remaining
+        Prices             Price            Outstanding       Life
+     -----------           --------         -----------       ---------
+                                            (In thousands)
+<S>                        <C>               <C>              <C>
+     $ 1.67-$ 2.50         $ 1.89                  328         5.6 years
+     $ 3.28-$ 4.65           4.13                1,697         6.9
+     $ 5.38-$ 7.03           6.36                2,231         7.7
+     $10.13-$13.56          12.93                1,775         9.2
+     $15.34-$22.53          17.88                4,685         9.2
+     $26.00-$34.41          29.82                3,128         7.4
+                                              ---------
+                                                13,844
+                                              =========
+</TABLE>
+
+<TABLE>
+<CAPTION>
+
+               Options Exercisable
+          ----------------------------------
+
+                    Weighted
+        Range of    Average
+        Exercise    Exercise   Options
+        Prices      Price      Exercisable
+      -----------   --------   -----------
+                              (In thousands)
+<S>                 <C>         <C>
+     $ 1.67-$ 2.50   $ 1.89          328
+     $ 3.28-$ 4.65     4.15        1,218
+     $ 5.38-$ 7.03     6.18        1,021
+     $10.13-$13.56    13.56          474
+     $15.34-$22.53    19.22        1,400
+                                 --------
+                                   4,441
+                                 ========
+</TABLE>
+
+       As of June 30, 2000, the Company had outstanding warrants to purchase
+       132,000 shares of its Common Stock exercisable between $2.70 and $3.00
+       per share. All of these warrants were exercised or expired during fiscal
+       year 2001.
+
+       Accounting for Stock-Based Compensation
+       In fiscal 1997, the Company adopted SFAS No. 123, "Accounting for
+       Stock-Based Compensation." The Company has chosen not to implement the
+       fair value based accounting method for employee and director stock
+       options, but has elected to disclose the pro forma net income and net
+       income per share as if such method had been used to account for
+       stock-based compensation cost as described in SFAS No. 123.
+
+       The per share weighted average fair value of stock options granted during
+       fiscal 2001, 2000 and 1999 was $18.68, $10.60 and $3.00, respectively, on
+       the date of grant using the Black Scholes option-pricing model with the
+       following weighted average assumptions: 2001 - expected dividend yield of
+       0%, risk free interest rate of 5.6%, expected stock volatility of 137%,
+       and an expected option life of 5.1 years; 2000 - expected dividend yield
+       of 0%, risk free interest rate of 6.0%, expected stock volatility of 94%,
+       and an expected option life of 5.3 years; 1999 - expected dividend yield
+       of 0%, risk free interest rate of 5.3%, expected stock volatility of 77%,
+       and an expected option life of 5.1 years. The pro forma compensation cost
+       before income taxes was $66.3 million, $14.0 million and $4.8 million for
+       the years ended June 30, 2001, 2000 and 1999, respectively, based on the
+       aforementioned fair value at the grant date only for options granted
+       after fiscal year 1995. The Company's net income and net income per share
+       using this pro forma compensation cost would have been:
+
+
+                                      S-18
+
+
+
+
+
+
+
+<PAGE>
+
+
+
+<TABLE>
+<CAPTION>
+
+                                         Years Ended June 30,
+                                     ----------------------------
+                                 (In thousands, except per share data)
+
+                                                 2001
+                                     ----------------------------
+                                     As Reported        Pro Forma
+                                     -----------        ---------
+<S>                                   <C>              <C>
+     Net income (loss) before
+       cumulative effect of
+       a change in
+       accounting.................    $ 21,222         $(22,513)
+
+     Net income (loss) before
+       cumulative effect of
+       a change in
+       accounting per share
+                 Basic................$  0.37         $ (0.39)
+                 Diluted..............   0.35             *
+
+</TABLE>
+
+     * As a result of the loss, all options are anti-dilutive.
+
+<TABLE>
+<CAPTION>
+
+                                                    2000
+                                        ----------------------------
+                                        As Reported        Pro Forma
+                                        -----------        ---------
+<S>                                   <C>              <C>
+
+
+     Net income...................        $ 14,379         $  5,284
+
+     Net income per share
+                 Basic.................   $  0.30          $  0.11
+                 Diluted...............      0.28             0.11
+
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+
+                                                    1999
+                                        ----------------------------
+                                        As Reported        Pro Forma
+                                        -----------        ---------
+<S>                                   <C>              <C>
+     Net income...............            $  9,765         $  6,617
+
+     Net income per share
+                 Basic.............       $  0.22          $  0.15
+                 Diluted...........          0.20             0.14
+
+</TABLE>
+
+       Since the pro forma compensation cost reflects only options granted after
+       fiscal year 1995, the full impact of calculating stock-based compensation
+       costs under SFAS No. 123 is not reflected in the pro forma net income
+       because compensation cost is recognized over the respective vesting
+       period and compensation cost for options granted prior to fiscal year
+       1996 was not reflected.
+
+       Shareholders' Rights Plan
+       On August 13, 1998, the Company's Board of Directors approved a
+       Shareholders' Rights Plan which provides for a dividend distribution of
+       one right for each share to holders of record of the Company's Common
+       Stock on August 31, 1998 and the issuance of one right for each share of
+       Common Stock that shall be subsequently issued. The rights become
+       exercisable only in the event a person or group ("Acquiring Person")
+       accumulates 15% or more of the Company's Common Stock, or if an Acquiring
+       Person announces an offer which would result in it owning 15% or more of
+       the Common Stock. The rights expire on August 31, 2008. Each right will
+       entitle the holder to buy 1/2500 of a share of Series A Junior
+       Participating Preferred Stock, as amended, of the Company at a price of
+       $65. In addition, upon
+
+                                      S-19
+
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+       the occurrence of a merger or other business combination, or the
+       acquisition by an Acquiring Person of 50% or more of the Common Stock,
+       holders of the rights, other than the Acquiring Person, will be entitled
+       to purchase either Common Stock of the Company or common stock of the
+       Acquiring Person at half their respective market values. The Company will
+       be entitled to redeem the rights for $.01 per right at any time prior to
+       a person becoming an Acquiring Person.
+
+       Net Income Per Share
+       A reconciliation of the numerators and denominators of the Basic EPS and
+       Diluted EPS calculations is as follows:
+
+<TABLE>
+<CAPTION>
+
+                                               Years Ended June 30,
+                                       ------------------------------------
+                                           2001        2000        1999
+                                          ------      ------      ------
+                                       (In thousands, except per share data)
+
+<S>                                       <C>           <C>         <C>
+       Computation of Adjusted Net Income:
+       Income before cumulative
+         effect of a change in
+         accounting.....................  $ 21,222      $ 14,379    $  9,765
+       Cumulative effect of a
+         change in accounting, net
+         of tax.........................       132          -           -
+                                          --------      --------    --------
+       Net income.......................  $ 21,354      $ 14,379    $  9,765
+                                          ========      ========    ========
+       Computation of Adjusted
+         Weighted Average Shares
+         Outstanding:
+       Weighted average shares
+         outstanding....................    58,124        48,189      45,011
+       Add: Effect of dilutive
+         options and warrants
+         outstanding....................     2,917         3,285       3,360
+                                          --------      --------    --------
+       Weighted average shares and
+         common share equivalents used
+         for computation of diluted
+         earnings per common share......    61,041        51,474      48,371
+                                          ========      ========    ========
+       Income Per Share - Basic:
+         Income before cumulative
+           effect.......................    $0.37         $0.30       $0.22
+         Cumulative effect of a change
+           in accounting................      -             -           -
+                                            -----         -----       -----
+         Net income.....................    $0.37         $0.30       $0.22
+                                            =====         =====       =====
+       Income Per Share - Diluted:
+         Income before cumulative
+           effect.......................    $0.35         $0.28       $0.20
+         Cumulative effect of a change
+           in accounting................      -             -           -
+                                            -----         -----       -----
+         Net income.....................    $0.35         $0.28       $0.20
+                                            =====         =====       =====
+
+</TABLE>
+
+       Options to purchase 9.3 million shares at exercise prices ranging between
+       $13.56 and $34.41 per share were outstanding as of June 30, 2001 but were
+       not included in the computation of Diluted EPS because the exercise
+       prices of these options were greater than the average market price of the
+       common shares.
+
+
+
+                                      S-20
+
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+9.     Comprehensive Income
+
+       The components of comprehensive income are as follows:
+
+
+<TABLE>
+<CAPTION>
+                                                               Years Ended June 30,
+                                                        ---------------------------------
+                                                          2001         2000         1999
+                                                        -------      -------       ------
+                                                                 (In thousands)
+<S>                                                 <C>          <C>           <C>
+       Net income                                       $21,354      $14,379       $9,765
+
+       Unrealized gain (loss) on
+         interest rate swap
+         agreement, net of tax                              (43)          -            -
+
+       Unrealized investment
+         gain (loss), net of tax                           (124)          82           -
+
+       Foreign currency
+         translation adjustment                             (69)          -            -
+                                                        -------      -------       ------
+       Total comprehensive income                       $21,118      $14,461       $9,765
+                                                        =======      =======       ======
+</TABLE>
+
+
+10.    Income Taxes
+
+       The provision (benefit) for income taxes consists of the following:
+
+
+<TABLE>
+<CAPTION>
+                                          Years Ended June 30,
+                                   ----------------------------------
+                                     2001          2000          1999
+                                   -------        ------        ------
+                                              (In thousands)
+     <S>                        <C>             <C>           <C>
+       Current:
+         Federal...............    $ 8,412        $4,656        $4,465
+         State and local.......        550           458           873
+                                   -------        ------        ------
+                                     8,962         5,114         5,338
+                                   -------        ------        ------
+       Deferred:
+         Federal...............      2,559           990         1,989
+         State and local.......        (71)           96          (177)
+                                   -------        ------        ------
+                                     2,488         1,086         1,812
+                                   -------        ------        ------
+                                   $11,450        $6,200        $7,150
+                                   =======        ======        ======
+</TABLE>
+
+
+       The provision for income taxes varies from the amount computed by
+       applying the U.S. Federal income tax rate to income before income taxes
+       as a result of the following:
+
+
+<TABLE>
+<CAPTION>
+                                          Years Ended June 30,
+                                   ----------------------------------
+                                     2001          2000          1999
+                                   -------        ------        ------
+                                              (In thousands)
+     <S>                        <C>             <C>           <C>
+       Tax at statutory rate....   $11,435       $ 7,203        $5,920
+       Utilization of capital
+        loss carryforward.......       -          (1,017)          -
+       Non-deductible acquired
+        in-process research
+        and development charge..       350          -            1,225
+       State and local
+        income tax..............       311           360           452
+       Research and development
+        credit..................      (675)         (300)         (500)
+       Other, net...............        29           (46)           53
+                                   -------       -------        ------
+                                   $11,450       $ 6,200        $7,150
+                                   =======       =======        ======
+</TABLE>
+
+
+                                      S-21
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+       Deferred tax assets and liabilities consist of:
+
+<TABLE>
+<CAPTION>
+                                                               June 30,
+                                                        ----------------------
+                                                          2001          2000
+                                                        --------      --------
+                                                           (In thousands)
+  <S>                                                 <C>            <C>
+       Accounts receivable.......................       $    206      $    210
+       Inventories...............................          6,376         4,891
+       Accrued expenses and other current
+         liabilities.............................            566           216
+                                                        --------      --------
+         Current assets..........................          7,148         5,317
+                                                        --------      --------
+       Capital lease obligation..................          1,574         1,955
+       Other long-term liabilities...............          1,811         1,793
+       Capital loss carryforwards................            684         1,262
+       Tax loss carryforwards....................         11,268         6,189
+       Tax credit carryforwards..................          5,016         4,164
+       Less: valuation allowance.................         (1,088)       (2,165)
+                                                        --------      --------
+         Non-current assets......................         19,265        13,198
+                                                        --------      --------
+       Property, plant and equipment.............         (4,688)       (5,698)
+       Intangibles...............................         (6,039)       (4,407)
+                                                        --------      --------
+         Long-term liabilities...................        (10,727)      (10,105)
+                                                        --------      --------
+         Net non-current assets (liabilities)....          8,538         3,093
+                                                        --------      --------
+           Total.................................       $ 15,686      $  8,410
+                                                        ========      ========
+</TABLE>
+
+       The Company recorded credits of $20.8 million, $13.3 million and $5.2
+       million to additional paid-in capital during the years ended June 30,
+       2001, 2000 and 1999, respectively, in connection with the tax benefit
+       related to compensation deductions on the exercise of stock options and
+       warrants. The deduction in fiscal 2001 and 2000, has created a net
+       operating loss carryforward for tax purposes which has resulted in an
+       increase in the Company's deferred tax assets. The tax loss carryforwards
+       and tax credit carryforwards expire through 2021.
+
+       In accordance with SFAS No. 109, the Company records a valuation
+       allowance against deferred tax assets if it is more likely than not that
+       some or all of the deferred tax assets will not be realized. The Company
+       has recorded a valuation allowance primarily against capital loss
+       carryforwards and certain other tax loss and credit carryforwards which
+       may expire before they can be utilized. The reduction of the valuation
+       allowance in fiscal 2001, was primarily due to the expiration of capital
+       loss carryforwards.
+
+       The Company is undergoing routine audits by various taxing authorities of
+       its state and local income tax returns covering periods from 1997 to
+       1999. Management believes that the probable outcome of these various
+       audits should not materially affect the consolidated financial statements
+       of the Company.
+
+       The Company made income tax payments of $227,000, $2.0 million and $3.3
+       million and received refunds of $2.3 million, $940,000 and $75,000 during
+       the years ended June 30, 2001, 2000 and 1999, respectively.
+
+11.    Employment Contracts
+
+       As of June 30, 2001, the Company has employment agreements with certain
+       of its officers for periods through June 30, 2004 with annual
+       remuneration ranging from $228,000 to $381,000, plus cost of living
+       adjustments and, in some cases, additional compensation based upon
+       earnings of the Company. Future aggregate minimum payments under these
+       contracts are $1.3 million per year. Certain of the contracts provide for
+       a three-year consulting period at the expiration of the employment term
+       at two-thirds of salary. In addition, these officers have the option to
+       terminate their employment agreements upon change in control of the
+       Company, as defined, and receive lump sum payments equal to the salary
+       and bonus, if any, for the remainder of the term.
+
+
+                                      S-22
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+12.    Employee Benefit Plans
+
+       All employees of the Company and certain subsidiaries who are not members
+       of a collective bargaining agreement are eligible to participate in one
+       of three company sponsored 401(k) plans. Each participant has the option
+       to contribute a portion of his or her compensation and receive a
+       discretionary employer matching contribution. Furthermore, employees of
+       certain subsidiaries are eligible to participate in qualified profit
+       sharing plans and receive an allocation of a discretionary share of their
+       respective subsidiary's profits. For fiscal years ended June 30, 2001,
+       2000 and 1999, these 401(k) and profit sharing plans had an aggregate
+       expense of $2.3 million, $1.7 million and $1.0 million, respectively.
+
+       Effective January 1, 1994, the Company established a Supplemental
+       Executive Retirement Plan (the "SERP") which provides retirement, death
+       and disability benefits to certain of its officers. The SERP expense for
+       the fiscal years ended June 30, 2001, 2000 and 1999 was $625,000,
+       $454,000 and $384,000, respectively. The assets of the SERP are held in a
+       Rabbi Trust and amounted to $2.4 million and $1.8 million at June 30,
+       2001 and 2000, respectively. The accumulated benefit obligation was $3.0
+       million and $2.6 million at June 30, 2001 and 2000, respectively. The
+       projected benefit obligation was $4.8 million and $3.3 million at June
+       30, 2001 and 2000, respectively. The intangible asset related to the SERP
+       was $366,000 and $586,000 at June 30, 2001 and 2000, respectively. A
+       discount rate of 7.0% and 7.5% was assumed in the above calculations as
+       of June 30, 2001 and 2000, respectively, and a rate of compensation
+       increase of 3.0% was assumed for both years. No participants are
+       currently receiving benefits.
+
+13.    Commitments and Contingencies
+
+       Operating Leases
+
+       Several of the Company's operating facilities and certain machinery and
+       equipment are leased under agreements expiring through 2007. The leases
+       for machinery and equipment generally contain options to purchase at the
+       then fair market value of the related leased assets.
+
+       Future minimum payments under operating leases as of June 30, 2001 are as
+       follows for the fiscal years:
+
+
+<TABLE>
+<CAPTION>
+                                                     (In thousands)
+                                                     --------------
+                              <S>                  <C>
+                                2002................... $ 4,027
+                                2003...................   3,442
+                                2004...................   2,223
+                                2005...................   1,384
+                                2006...................     773
+                                Thereafter.............     416
+                                                        -------
+                                                        $12,265
+                                                        =======
+</TABLE>
+
+
+
+       Rental expense was $3.7 million, $3.0 million and $2.7 million during the
+       fiscal years 2001, 2000 and 1999, respectively.
+
+       Legal Matters
+
+       A subsidiary of the Company whose operations were discontinued in 1991,
+       is one of several defendants named in a personal injury action initiated
+       in August 1994 by a group of plaintiffs. The plaintiffs are seeking
+       damages which cumulatively exceed $500 million. The complaint alleges,
+       among other things, that the plaintiffs suffered injuries from exposure
+       to substances contained in products sold by the subsidiary to one of its
+       customers. This action is in the discovery stage. Based upon available
+       information and considering its various defenses, together with its
+       product liability insurance, in the opinion of management of the Company
+       the outcome of the action against its subsidiary will not have a
+       materially adverse effect on the Company's consolidated financial
+       statements.
+
+
+                                      S-23
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+       The Company is involved in various other routine legal matters.
+       Management believes the outcome of these matters will not have a
+       materially adverse effect on the Company's consolidated financial
+       statements.
+
+14.    Business Segments
+
+       The Company's business segments and major products included in each
+       segment, are as follows:
+
+           Microelectronic Solutions:
+           a) Microelectronic Modules
+           b) Thin Film Interconnects
+           c) Integrated Circuits
+
+           Test Solutions:
+           a) Instrument Products
+           b) Motion Control Systems
+
+           Isolator Products:
+           a) Commercial Spring and Rubber Isolators
+           b) Industrial Spring and Rubber Isolators
+           c) Military Wire-rope Isolators
+
+
+       The Company is a manufacturer of advanced technology systems and
+       components for commercial industry, government and defense contractors.
+       Approximately 29%, 33% and 42% of the Company's sales for the fiscal
+       years 2001, 2000 and 1999, respectively, were to agencies of the United
+       States government or to prime defense contractors or subcontractors of
+       the United States government. The only customers which constituted more
+       than 10% of the Company's sales during any year in the period presented
+       were Agere which comprised 10.8% of sales in fiscal year 2001, Teradyne
+       and Lockheed Martin which comprised 10.9% and 10.3% of sales in fiscal
+       year 2000, respectively, and Lockheed Martin and Lucent Technologies
+       which comprised 12.0% and 11.1% of sales in fiscal year 1999,
+       respectively. The Company's customers are located primarily in the United
+       States, but export sales accounted for 14.7%, 11.6% and 7.6% of sales in
+       fiscal years 2001, 2000 and 1999, respectively.
+
+
+                                      S-24
+
+
+
+
+
+
+<PAGE>
+
+
+<TABLE>
+<CAPTION>
+                                             Years Ended June 30,
+                                       ------------------------------
+                                          2001       2000      1999
+                                         ------     ------    ------
+     Business Segment Data:
+                                                 (In thousands)
+<S>                                    <C>        <C>        <C>
+     Net sales:
+       Microelectronic Solutions...    $144,901   $110,253   $ 96,846
+       Test Solutions..............      68,394     58,744     44,793
+       Isolator Products...........      19,513     19,753     18,743
+                                       ---------  ---------  ---------
+         Net sales.................    $232,808   $188,750   $160,382
+                                       =========  =========  =========
+
+     Operating income:
+       Microelectronic Solutions...    $ 35,959   $ 22,734   $ 20,104
+       Test Solutions..............       1,971      2,438      3,181
+       Isolator Products...........       2,326      2,692      2,108
+       General corporate expenses..      (7,293)    (5,397)    (4,262)
+                                       ---------  ---------  ---------
+                                         32,963     22,467     21,131
+     Acquired in-process research
+         and development(1)(2).....      (2,500)      -        (3,500)
+       Interest expense............      (1,397)    (2,442)    (1,493)
+       Other income (expense), net.       3,606        554        777
+                                       ---------  ---------  ---------
+       Income before income
+         taxes.....................    $ 32,672   $ 20,579   $ 16,915
+                                       =========  =========  =========
+
+     Total assets:
+       Microelectronic Solutions...    $130,119   $112,183   $104,222
+       Test Solutions..............      74,308     53,189     44,414
+       Isolator Products...........       9,445      9,567     10,020
+       Corporate...................      96,380     74,556      7,016
+                                       ---------  ---------  ---------
+         Total assets..............    $310,252   $249,495   $165,672
+                                       =========  =========  =========
+
+     Capital expenditures:
+       Microelectronic Solutions...    $  8,057   $  4,777   $  6,955
+       Test Solutions..............       4,878      2,297      1,582
+       Isolator Products...........         341        152        586
+       Corporate...................          16       -             4
+                                       ---------  ---------  ---------
+       Total capital
+         expenditures..............    $ 13,292   $  7,226   $  9,127
+                                       =========  =========  =========
+
+     Depreciation and amortization
+      expense:
+       Microelectronic Solutions...    $  8,010   $  6,657   $  4,112
+       Test Solutions..............       3,042      1,765      1,864
+       Isolator Products...........         522        554        563
+       Corporate...................          26         28         30
+                                       ---------  ---------  ---------
+         Total depreciation and
+          amortization expense.....    $ 11,600   $  9,004   $  6,569
+                                       =========  =========  =========
+</TABLE>
+
+       (1)     The fiscal year 2001 special charges for the write-off of
+               in-process research and development acquired in the purchase of
+               RDL ($1.5 million) and TriLink ($1.0 million) are allocable fully
+               the Test Solutions and Microelectronic Solutions segments,
+               respectively.
+        (2)    The fiscal year 1999 special charge for the write-off of
+               in-process research and development acquired in the purchase of
+               UTMC ($3.5 million) is allocable fully to the Microelectronic
+               Solutions segment.
+
+
+                                      S-25
+
+
+
+
+
+
+<PAGE>
+
+
+Quarterly Financial Data (Unaudited):
+(In thousands, except per share data and footnotes)
+
+<TABLE>
+<CAPTION>
+
+                                             Quarter
+                            ------------------------------------------   Year Ended
+2001                          First     Second     Third      Fourth      June 30,
+----------------------------------------------------------------------------------
+<S>                         <C>        <C>        <C>        <C>        <C>
+Net Sales                   $ 51,127   $ 58,448   $ 64,026   $ 59,207   $232,808
+Gross Profit                  19,465     24,827     28,129     23,728     96,149
+Income before cumulative
+  effect of a change in
+  accounting (1)            $  5,089   $  5,625   $  6,334   $  4,174   $ 21,222
+                            =========  =========  =========  =========  =========
+Net income before
+  cumulative effect of a
+  change in accounting
+  per share:
+  Basic (1)                 $ 0.09     $ 0.10     $ 0.11     $ 0.07     $ 0.37
+                            =======    =======    =======    =======    =======
+  Diluted (1)               $ 0.09     $ 0.09     $ 0.10     $ 0.07     $ 0.35
+                            =======    =======    =======    =======    =======
+
+<CAPTION>
+
+                                             Quarter
+                            ------------------------------------------  Year Ended
+2000 (Restated, Note 2)       First     Second     Third      Fourth      June 30,
+----------------------------------------------------------------------------------
+<S>                         <C>        <C>        <C>        <C>        <C>
+Net Sales                   $ 42,634   $ 41,912   $ 47,054   $ 57,150   $188,750
+Gross Profit                  15,247     13,535     17,213     22,555     68,550
+Net Income                  $  2,779   $  1,025   $  3,105   $  7,470   $ 14,379
+                            =========  =========  =========  =========  =========
+Net income per share:
+  Basic                     $ 0.06     $ 0.02     $ 0.07     $ 0.14     $ 0.30
+                            =======    =======    =======    =======    =======
+  Diluted                   $ 0.06     $ 0.02     $ 0.06     $ 0.13     $ 0.28
+                            =======    =======    =======    =======    =======
+</TABLE>
+
+(1)     Includes $1.5 million, or $990,000, net of tax, for the year ended June
+        30, 2001 and quarter ended December 31, 2000, for the write-off of the
+        in-process research and development acquired in connection with the
+        purchase of RDL, Inc. and $1.0 million for the year ended June 30, 2001
+        and the quarter ended March 31, 2001, for the write-off of the
+        in-process research and development acquired in connection with the
+        purchase of TriLink Communications Corp. (combined $.03 per basic and
+        diluted share).
+
+Since per share information is computed independently for each quarter and the
+full year, based on the respective average number of common and common
+equivalent shares outstanding, the sum of the quarterly per share amounts does
+not necessarily equal the per share amounts for each year.
+
+All per share amounts have been restated to reflect a five-for-four stock split
+that was paid on July 7, 2000 and a two-for-one stock split that was paid on
+November 22, 2000.
+
+
+
+                                      S-26
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+
+                              AEROFLEX INCORPORATED
+                                AND SUBSIDIARIES
+                 SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+
+                                 (In thousands)
+
+<TABLE>
+<CAPTION>
+
+
+Column A                              Column B                   Column C                        Column D              Column E
+--------                              --------                   --------                        --------              --------
+                                                                 Additions
+                                                          -----------------------------
+                                                                              Charged
+                                      Balance at          Charged to          to other                             Balance at
+                                      beginning           costs and           accounts           Deductions        end of
+Description                           of period           expenses            - describe         - describe        period
+-----------                           ----------          ----------          ----------         ----------        ----------
+
+<S>                                   <C>                <C>                  <C>                <C>               <C>
+YEAR ENDED JUNE 30, 2001:
+------------------------
+
+Allowance for doubtful
+  accounts                            $  509             $   58                   $     -         $  108  (A)      $  459
+                                      =======            =======                  ========        =======          =======
+Reserve for inventory
+  obsolescence                        $2,830             $2,032                   $     -         $  796  (B)      $4,066
+                                      =======            =======                  ========        =======          =======
+
+
+YEAR ENDED JUNE 30, 2000:
+------------------------
+
+Allowance for doubtful
+  accounts                            $  381             $  183                   $     -         $   55  (A)      $  509
+                                      =======            =======                  ========        =======          =======
+Reserve for inventory
+  obsolescence                        $2,764             $  640                   $     -         $  574  (B)      $2,830
+                                      =======            =======                  ========        =======          =======
+
+
+YEAR ENDED JUNE 30, 1999:
+------------------------
+
+Allowance for doubtful
+  accounts                            $  317             $  152                   $     -         $   88  (A)      $  381
+                                      =======            =======                  ========        =======          =======
+Reserve for inventory
+  obsolescence                        $2,357             $  450                   $     -         $   43  (B)      $2,764
+                                      =======            =======                  ========        =======          =======
+
+</TABLE>
+
+Note:    (A) - Net write-offs of uncollectible amounts.
+         (B) - Write-off of inventory.
+
+
+                                      S-27
+
+
+                        STATEMENT OF DIFFERENCES
+                        ------------------------
+The trademark symbol shall be expressed as........................... 'TM'
+The Greek letter mu shall be expressed as............................ 'u'
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

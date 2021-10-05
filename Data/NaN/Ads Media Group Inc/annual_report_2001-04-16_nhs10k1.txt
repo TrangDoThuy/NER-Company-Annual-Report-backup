@@ -1,0 +1,1772 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>nhs10k1.txt
+<DESCRIPTION>ORIGINAL DOCUMENT
+<TEXT>
+
+
+
+                    SECURITIES AND EXCHANGE COMMISSION
+                          WASHINGTON, D.C. 20549
+
+                                FORM 10-KSB
+
+               ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+                  OF THE SECURITIES EXCHANGE ACT OF 1934
+
+  For the Fiscal Year Ended December 31, 2000 Commission File No. 0-24778
+
+                   NATIONAL HEALTH & SAFETY CORPORATION
+              (Name of small business issuer in its charter)
+
+                 UTAH                               87-0505222
+    (State or other jurisdiction of     (I.R.S. Employer Identification No.)
+     incorporation or organization)
+
+
+
+                      3811 BEE CAVE ROAD, SUITE 210,
+                            AUSTIN, TEXAS 78746
+                 (Address of principal executive offices)
+                  Issuer's telephone no.:  (512) 328-0433
+
+   SECURITIES REGISTERED PURSUANT TO SECTION 12(B) OF THE EXCHANGE ACT:
+                                   None
+
+   SECURITIES REGISTERED PURSUANT TO SECTION 12(G) OF THE EXCHANGE ACT:
+                 Common Stock, par value $0.001 per share
+                             (Title of Class)
+
+Check whether the issuer  (1) filed all reports required to be filed by
+Section 13 or 15(d) of the Exchange Act during the past 12 months (or for
+such shorter period that the registrant was required to file such reports),
+and  (2) has been subject to such filing requirements for the past 90 days.
+Yes  [X]
+                                   No [  ]
+
+Check if there is no disclosure of delinquent filers in response to Item
+405 of Regulation S-B contained in this form, and no disclosure will be
+contained, to the best of the Registrant's knowledge, in definitive proxy
+or information statements incorporated by reference in Part III of this
+Form 10-KSB or any amendment to this Form 10-KSB.  [X]
+
+State the issuer's revenues for its most recent fiscal year:   $ 742
+
+At March 30, 2001, there were 188,453,311 shares of registrant's Common
+Stock held by non-affiliates, with an aggregate market value of
+approximately $11,309,199, based on the closing price on the OTC Bulletin
+Board on that day.
+
+At March 30, 2001, a total of 236,850,021 shares of registrant's Common
+Stock were outstanding.
+
+DOCUMENTS INCORPORATED BY REFERENCE: None
+
+
+
+
+                                    -1-
+<PAGE>
+
+
+                             TABLE OF CONTENTS
+
+
+PART I..........................................................3
+ITEM 1.DESCRIPTION OF BUSINESS..................................3
+  POWER{X} Medical Benefits Network.............................3
+  Research and Development......................................5
+  Marketing.....................................................5
+  Competition...................................................5
+  Government Regulation.........................................6
+  Employees.....................................................6
+
+ITEM 2. DESCRIPTION OF PROPERTY.................................6
+
+ITEM 3. LEGAL PROCEEDINGS.......................................7
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.....7
+
+PART II.........................................................7
+
+ITEM 5. MARKET PRICE OF THE COMPANY'S COMMON STOCK
+        AND RELATED STOCKHOLDER MATTERS.........................7
+  Dividend Policy...............................................9
+
+ITEM 6. MANAGEMENT'S DISCUSSION AND ANALYSIS OR
+        FINANCIAL CONDITION AND RESULTS OF OPERATIONS...........9
+  Recent Accounting Pronouncements..............................9
+  Results of Operations for the Twelve Months Ended
+    December 31, 2000, as Compared to the Twelve
+    Months Ended December 31, 1999.............................10
+  Net Operating Losses.........................................11
+  Liquidity and Capital Resources..............................11
+  Inflation....................................................11
+  Risk Factors and Cautionary Statements.......................11
+
+ITEM 7. FINANCIAL STATEMENTS...................................12
+
+PART III.......................................................12
+
+ITEM 9. DIRECTORS, EXECUTIVE OFFICERS, PROMOTERS AND
+        CONTROL PERSONS, COMPLIANCE WITH SECTION 16(A)
+        OF THE EXCHANGE ACT....................................12
+  Compliance with Section 16(a) of the Exchange Act............13
+
+ITEM 10. EXECUTIVE COMPENSATION................................13
+  Employment Agreements........................................14
+  Stock Option Grants and Exercises in 2000....................14
+  Compensation of Directors....................................14
+
+ITEM 11. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL
+         OWNERS AND MANAGEMENT.................................14
+
+ITEM 13. EXHIBITS, LISTS, AND REPORTS ON FORM 8-K..............15
+
+SIGNATURES.....................................................17
+
+FINANCIAL STATEMENTS..........................................F-1
+
+
+                             -2-
+<PAGE>
+                   NATIONAL HEALTH & SAFETY CORPORATION
+
+PART I
+
+
+ITEM 1.   DESCRIPTION OF BUSINESS
+
+National Health & Safety Corporation (the "Company") since 1993 has been
+engaged in the business of providing health care products and services to
+the general public on a discount basis.  The Company developed POWER{X}
+Medical Benefits Network ("POWER{X}"), which offers discounts on a wide
+array of medical and supplemental benefits for consumers.  On July 1, 1999,
+the Company voluntarily filed for reorganization under Chapter 11 of the
+United States Bankruptcy Code in the Untied States Bankruptcy Court of the
+Eastern District of Pennsylvania (file no. 99-18339).
+
+On October 1, 1999, the bankruptcy court approved an Asset Purchase
+Agreement between the Company and MedSmart Healthcare Network, Inc.
+("MedSmart").  Pursuant to this agreement, the Company transferred to
+MedSmart all of its POWER{X} related assets, including the POWER{X} name,
+all POWER{X} related contracts with provider networks and broker networks,
+all POWER{X} related expenses and all of the Company's personnel, with the
+exception of its Chief Financial Officer, Roger H. Folts.  Under the
+agreement, MedSmart paid the Company a total of $150,000 in five
+installments for the assets, plus a royalty for each POWER{X} related card
+sold or renewed.  MedSmart paid the Company an insignificant amount of
+royalties during 1999 and 2000.
+
+The bankruptcy court confirmed the Company's Fourth Amended Joint Plan of
+Reorganization (the "Plan") on November 27, 2000.  On January
+22, 2001, the Plan was implemented, whereby the former shareholders of
+MedSmart Healthcare Network, Inc. ("MedSmart") exchanged all of their
+MedSmart stock for a majority of the outstanding common stock of the
+Company.  This exchange, together with the contribution of $600,000 from
+new investors as part of the Plan, resulted in a change of control of the
+Company.  When the Company acquired MedSmart as a wholly owned subsidiary
+under the Plan, it reacquired the POWER{X} related assets.
+
+POWER{X} MEDICAL BENEFITS NETWORK
+
+MedSmart has one operating division which offers discounts on a wide
+array of medical and supplemental benefits for consumers.
+Through membership in POWER{X}, the Company makes available more than
+200,000 different medical products, services and supplies at discounts up
+to 50% below retail.  The POWER{X} Medical Benefits Network is fully
+operational and all of its products and services described herein are
+currently available.  The majority of the Company's revenues are generated
+from sales of POWER{X} memberships and not through the use of the card.
+
+POWER{X} members have available to them, at discount prices, the services
+                                 -3-
+<PAGE>
+of professional providers of medical services including hospitals,
+inpatient facilities, clinics and laboratories, physicians, pharmacies,
+dentists and chiropractors.  The Company contracts directly with national
+preferred provider organization ("PPO") networks to provide access to
+medical services at discounts ranging from approximately 10% to 40%.  PPOs
+are organizations that offer access to medical services and products to a
+specific group usually at a discounted rate through an established network
+of professional providers.  The Company contracts with individual PPOs
+rather than directly with the individual healthcare providers.  The
+services of the professional providers are included in the list of services
+available to POWER{X} members at a discounted rate under a specific plan.
+POWER{X} members select the particular providers they wish to use; however,
+the Company is not involved in the contact between the professional
+providers and its POWER{X} members except to provide the name of the
+providers in the list of member benefits.
+
+The Company, through participating PPOs, has been able to procure access to
+the various services of the professional providers at discounted rates
+primarily based on anticipated volume increases which the individual
+provider could expect due to use by POWER{X} members.  Typically, the
+professional provider will agree to provide services and related functions
+to members for specific identified discounts in reliance upon anticipated
+increased business from POWER{X} members.
+
+Current POWER{X} professional services available include, but are not
+limited to, physicians, hospital, laboratory and radiology services,
+nursing home/extended care facility, audiology, chiropractic, dental, home
+nursing, orthodontic, ophthalmology and optometry, holistic health
+providers and a 24 hour nurse hotline.  In addition to the various products
+and services available to POWER{X} members, the network also offers
+discounts on prescription drugs, either from local pharmacies or by mail
+order.  In order to provide discount prescription drugs to POWER{X}
+members, the Company has entered into an agreement with a national network
+of retail pharmacies to provide low-cost and fast access to pharmaceutical
+medications. POWER{X} uses a prescription network, which represents
+national pharmacy chains as well as independent pharmacies.  POWER{X}
+members requiring immediate prescriptions will be able to purchase needed
+medications in their local participating pharmacies at discount prices.
+
+The Company also makes available to its POWER{X} members certain non-
+medical products and services including discounts on travel, hotels and
+motels, auto care, grocery coupons, and golf outings.  These consumer
+product options are available in conjunction with any of the POWER{X} card
+programs for an additional fee.  Although the Company is constantly seeking
+to expand the number and variety of programs and providers that are part of
+the POWER{X} network, there can be no assurance that the Company will
+retain any particular program or provider for any particular period of
+time.  In the future, the Company may add or remove the programs that are
+available through the POWER{X} network and also increase or decrease the
+number of providers that participate in the POWER{X} network.  Management
+believes that these possible changes are part of the normal evolution of
+the overall program.
+
+POWER{X} is marketed primarily to institutions and organizations that will
+then market and distribute the POWER{X} benefit plans to employer groups,
+associations, and other affinity groups, as well as to individual
+                               -4-
+<PAGE>
+consumers.  The POWER{X} memberships are purchased either by individual
+consumers or by an employer group to offer as a benefit of employment.
+Typically, organizations will select the POWER{X} benefits that will best
+meet the needs of their membership or employee base, with the price of the
+package being determined by its components. POWER{X} benefits packages are
+either funded by the organization directly so that every eligible
+individual in the organization automatically becomes a POWER{X} member, or
+the organizations will offer POWER{X} memberships to their members and/or
+employees as an option for the individual to purchase the a POWER{X} card
+and pay the POWER{X} membership fee if they accept the offer.  The
+Company's revenue for each POWER{X} program is based on a per member annual
+charge.  Each POWER{X} membership covers everyone living in a household.
+
+POWER{X} is designed to be a complementary supplement to most standard
+health insurance policies and corporate benefits packages. POWER{X} can be
+purchased as a stand-alone benefit, a low cost alternative to health
+insurance or to enhance the benefits of an existing health insurance policy
+by reducing a member's out-of-pocket medical expenses.
+
+Currently, the Company has approximately 150 contracts with various
+organizations to provide access to POWER{X} benefits.  Approximately 1,200
+POWER{X} cards are presently in use.
+
+POWER{X} is uniquely designed to enable each participating organization to
+make its own selection from among the various benefit programs offered by
+the Company, including both medical and supplemental (non-medical)
+benefits.  This mechanism allows each organization to develop a customized
+benefits package that will best fit the needs of its members or employees.
+
+RESEARCH AND DEVELOPMENT
+
+The Company has previously conducted a test marketing campaign in various
+cities using actual POWER{X} cards and participating pharmacies, dentists,
+and other medical services providers.  Data collected from these tests was
+used to design and develop the POWER{X} program currently being marketed by
+the Company.  The Company did not expend any money in 2000 on development
+of its POWER{X} product.
+
+MARKETING
+
+The Company's overall marketing strategy is to promote and market POWER{X}
+to institutions and organizations that will then market and distribute the
+POWER{X} benefit plans to employer groups, associations, and other affinity
+groups, as well as to individual consumers.  These institutions and
+organization would have the ability to private-label the POWER{X} card,
+which may allow them to deepen their relationship with their existing and
+potential employees, members or customers.
+
+COMPETITION
+
+The Company believes that the principal competitive factors in the discount
+medical benefits industry include the ability to identify, develop and
+offer innovative product and service programs, the quality and breadth of
+product and service programs offered, price and marketing expertise and the
+level and quality of customer service. In the managed healthcare industry
+                               -5-
+<PAGE>
+today, there are numerous firms, including health maintenance
+organizations, preferred provider organizations, other discount medical and
+consumer discounters, large retailers, insurance companies and financial
+service institutions that offer discount membership programs and benefits
+which provide services similar to, or which directly compete, with those
+provided by the Company.
+
+With the recent reorganization of Company, including a new management team,
+redefined corporate focus and strategy, an improved marketing and
+distribution model and assuming adequate capitalization, management of the
+Company believes it can effectively compete in the marketplace.
+
+GOVERNMENT REGULATION
+
+The Company's operation of the POWER{X} membership program requires the
+Company to comply with certain state regulations, changes in which could
+materially increase the Company's operating costs associated with complying
+with such regulations.
+
+The Company currently monitors its security and quality controls to ensure
+that all of its marketing practices meet or exceed industry standards and
+all state and federal regulations. The Company only collects and maintains
+customer data that is required to administer its business activities, such
+as a customer's name, address and billing information and only public
+information is used for marketing and modeling purposes, such as
+demographic, neighborhood and lifestyle.
+
+EMPLOYEES
+
+On March 31, 2001, the Company had one full-time employee, its chief
+financial officer.  Any new employees will be employed by MedSmart.
+
+As of December 31, 2000, MedSmart employed five full-time employees.  When
+the Plan was implemented in January 2001, a seven member management team
+replaced the MedSmart employees.  Management presently anticipates hiring
+additional employees as the business warrants and as funds become
+available.
+
+
+ITEM 2.   DESCRIPTION OF PROPERTY
+
+During 2000, the Company shared leased office space with MedSmart in
+Horsham, Pennsylvania.  The operating lease is in the name of MedSmart and
+obligates MedSmart through December 31, 2002.  The lease is for a total of
+2,045 square feet and the Company occupies less than 1,000 square feet.
+The Company did not make any rental payments to MedSmart for the year ended
+December 31, 2000.  Management anticipates that the Company will occupy
+these premises until such time as operations are centralized in Austin,
+Texas during the second quarter of 2001.
+                               -6-
+<PAGE>
+Upon implementation of the Plan, the Company's principal executive offices
+were relocated to 3811 Bee Cave Road, Suite 210, Austin, Texas 78746
+(telephone number 512-328-0433).
+
+ITEM 3.   LEGAL PROCEEDINGS
+
+Except as otherwise set forth below, the Company is not a party to any new
+material pending legal proceedings and no such action by, or to the best of
+its knowledge, against the Company has been threatened.
+
+On July 1, 1999, the Company voluntarily filed for reorganization under
+Chapter 11 of the United States Bankruptcy Code in the Untied States
+Bankruptcy Court of the Eastern District of Pennsylvania (file no.
+99-18339). The Company filed the Fourth Amended Disclosure Statement With
+Respect to Fourth Amended Joint Plan of Reorganization, dated August 21,
+2000, and it was confirmed by the Bankruptcy Court on November 27, 2000.
+The Plan was implemented on January 22, 2001.
+
+In January 1999, a writ of execution for money judgment in the amount of
+$361,034 was entered against the Company in Bucks County, Pennsylvania, to
+collect a judgment against the Company from the Supreme Court of the
+State of New York, County of Nassau, in the case titled Schwartz, Berger
+and Berger vs. National Health and Safety Corporation (# 99000212).
+In the confirmed Plan, the judgment creditors were treated as unsecured
+creditors and received Common Stock and Warrants in complete satisfaction
+of their claims.
+
+ITEM 4.   SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+During the fourth quarter of the Company's fiscal year ending December 31,
+2000, the Company's creditors and Security Holders voted on the Plan that
+was ultimately confirmed by the Bankruptcy Court on November 27, 2000, and
+implemented on January 22, 2001.  There were no other matters submitted to
+a vote by the Company's Security Holders during the year ended December 31,
+2000.
+
+PART II
+
+
+ITEM 5.   MARKET PRICE OF THE COMPANY'S COMMON STOCK AND RELATED
+          STOCKHOLDER MATTERS
+
+The Company's Common Stock is traded in the over-the-counter market and
+quotations are published on the OTC Bulletin Board under the symbol "NHLT,"
+and in the National Quotation Bureau, Inc. "pink sheets" under "National
+Health & Safety Corporation."  Quotations on the Company's Common Stock set
+forth below do not constitute a reliable indication of the price that a
+holder of the Common Stock could expect to receive upon a sale of any
+particular quantity thereof.
+
+                               -7-
+<PAGE>
+No trading market exists or is expected to develop for the Company's issued
+and outstanding Preferred Shares.
+
+The following table sets forth the range of high and low bid prices of the
+Common Stock for each calendar quarterly period since the first quarter of
+1999 as reported by the OTC Bulletin Board.  Prices reported represent
+prices between dealers, do not include retail markups, markdowns or
+commissions and do not necessarily represent actual transactions.
+
+<TABLE>
+<CAPTION>
+       1ST QUARTER     2ND QUARTER      3RD QUARTER      4TH QUARTER
+       HIGH    LOW     HIGH    LOW      HIGH    LOW      HIGH    LOW
+<S>    <C>     <C>     <C>     <C>      <C>     <C>      <C>     <C>
+1999    .32    .15      .52    .12       .24    .06       .13    .05
+2000    .32    .05      .15    .07       .26    .11       .17    .06
+</TABLE>
+
+As of December 31, 2000 the Company had issued and outstanding 58,803,716
+shares of Common Stock and there were approximately 449 shareholders of
+record, which figure does not take into account those shareholders whose
+certificates are held in the name of broker-dealers.
+
+At December 31, 2000, the Company had outstanding 14,363 shares of
+Preferred Stock.  The Preferred Shares were exchanged for Series B
+Preferred Stock (described below) upon implementation of the Plan,
+effective January 22, 2001.
+
+Pursuant to and effective upon implementation of the Plan, January 22,
+2001, the Company authorized and issued certain new classes of securities
+as follows:
+
+The Company authorized the issuance of 500,000,000 common shares, $.001 par
+value and the issuance of 50,000,000 shares of preferred stock, which may
+consist of one or more series.  Cumulative voting of any shares of stock,
+whether common or preferred, shall be prohibited.
+
+The Company authorized the issuance of 4,000,000 shares of Series A
+Preferred Stock, par value $.001("Series A").  At March 31, 2001, 1,595,264
+Series A Preferred shares were issued and outstanding.  Each Series A share
+has a $1.00 liquidation preference and preference over Series B Preferred
+Stock, Common Stock and all other series of stock ranking junior to Series
+A.  Each share of Series A is convertible, at the option of the holder,
+into 5 shares of Common Stock at such times and in such amounts as stated
+in the Certificate of Designation.  The holders of Series A stock are
+entitled to vote together with the holders of Series B and Common Stock and
+are entitled to one vote for each share of Common Stock which would be held
+by them if all of their shares of Series A were converted into shares of
+Common Stock.
+
+The Company authorized the issuance of 600,000 shares of Series B Preferred
+Stock, par value $.001 ("Series B").  At March 31, 2001, 600,000 Series B
+Preferred shares were issued and outstanding.  Each Series B share has a
+$1.00 liquidation preference that is inferior to Series A but is preferred
+to Common Stock and all other series of stock ranking junior to Series B.
+Each share of Series B is convertible, at the option of the holder, into 5
+shares of Common Stock at such times and in such amounts as stated in the
+Certificate of Designation.  The holders of Series B stock are entitled to
+                                 -8-
+<PAGE>
+vote together with the holders of Series A and Common Stock and are
+entitled to one vote for each share of Common Stock which would be held by
+them if all of their shares of Series B were converted into shares of
+Common Stock.
+
+The Company has Class A and Class B Warrants, which were issued to each
+holder of the Series A and Series B Preferred Stock.  There are 4,000,000
+Class A warrants authorized; 2,195,264 Class A warrants issued and
+outstanding that allow the holder to purchase, for the exercise price of
+$1.00, expiring two years from January 22, 2001, one share of Common Stock
+plus one Class B warrant.  There are 4,000,000 Class B warrants authorized
+that entitle the holder to purchase, for an exercise price of $1.50,
+expiring three years from January 22, 2001, one share of Common Stock.
+
+DIVIDEND POLICY
+
+The Company has not declared or paid cash dividends or made distributions
+in the past, and the Company does not anticipate that it will pay cash
+dividends or make distributions in the foreseeable future. The Company
+currently intends to retain and reinvest future earnings to finance its
+operations.  Holders of the Preferred Shares are entitled to receive their
+redemption payments prior to the Company paying any dividends on its other
+capital stock.
+
+ITEM 6.   MANAGEMENT'S DISCUSSION AND ANALYSIS OR FINANCIAL CONDITION AND
+          RESULTS OF OPERATIONS
+
+The following information should be read in conjunction with the financial
+statements and notes thereto appearing elsewhere in this Form 10-KSB.
+
+When the Plan was implemented in January 2001, the Company received a cash
+infusion of $600,000 for payment of administrative claims associated with
+the Chapter 11 proceeding and for use as operating capital.  This amount
+has proved inadequate to fund the Company's operations.  Continued
+operation of the Company will require additional debt or equity funding to
+enable it to properly deploy POWER{X}.  The Company's auditor's report
+contains a "going concern" qualification.
+
+RECENT ACCOUNTING PRONOUNCEMENTS
+
+The Financial Accounting Standards Board ("FASB") has issued SFAS No 132.
+"Employers' Disclosures about Pensions and other Postretirement Benefits,"
+which standardizes the disclosure requirements for pensions and other
+Postretirement benefits and requires additional information on changes in
+the benefit obligations and fair values of plan assets that will facilitate
+financial analysis. SFAS No. 132 is effective for years beginning after
+December 15, 1997 and requires comparative information for earlier years to
+be restated, unless such information is not readily available. Management
+believes the adoption of this statement will have no material impact on the
+Company's financial statements.
+
+In June 1998, the FASB issued SFAS No. 133, "Accounting for Derivative
+Instruments and Hedging Activities" which requires companies to record
+derivatives as assets or liabilities, measured at fair market value.  Gains
+                                 -9-
+<PAGE>
+or losses resulting from changes in the values of those derivatives would
+be accounted for depending on the use of the derivative and whether it
+qualifies for hedge accounting.  The key criterion for hedge accounting is
+that the hedging relationship must be highly effective in achieving
+offsetting changes in fair value or cash flows.  SFAS No. 133 is effective
+for all fiscal quarters of fiscal years beginning after June 15, 1999.
+Management believes the adoption of this statement will have no material
+impact on the Company's financial statements.
+
+RESULTS OF OPERATIONS FOR THE TWELVE MONTHS ENDED DECEMBER 31, 2000, AS
+COMPARED TO THE TWELVE MONTHS ENDED DECEMBER 31, 1999
+
+The following table sets forth, for the two most recent fiscal years ended
+December 31, 2000 and 1999, the percentage relationship to total revenues
+of principal items in the Company's Statement of Operations.  It should be
+noted that percentages discussed throughout this analysis are stated on an
+approximate basis.
+
+                                      Years Ended December 31,
+                                      2000               1999
+
+Total revenues                        100%               100%
+Costs of sales                         25%                51%
+Operating expenses                  37660%              2916%
+(Loss) from operations             (37585%)            (2867%)
+Other income                         1292%               130%
+Net (loss)                         (36293%)            (2737%)
+
+Total revenue of $742 for the year ended December 31, 2000 ("2000")
+represents a 99% decrease from total revenue of $80,340 for year ended
+December 31, 1999 ("1999").  This entire decrease is primarily attributed
+to the decrease in POWER{X} sales in 2000 as a result of the POWERx sale to
+MedSmart in October 1999.  For the most part, the Company had no other
+operating business during 2000.  Cost of sales (as a percentage of total
+revenue) decreased from 51% for 1999 to 25% in 2000.  This decrease in 2000
+occurred because royalty income, unlike sales of medical supplies, had no
+cost of sales associated with it.
+
+Operating expenses for 2000 decreased 88% when compared with the same
+period for 1999, primarily from the (88%) decrease in general and
+administrative expenses.  This decrease was attributed to the substantial
+elimination of operations for the Company because of the bankruptcy and the
+Chief Financial Officer being the only employee.  The Company shared
+offices with MedSmart and had no rent expense in 2000 due to the reduction
+of personnel, and the elimination of marketing and advertising expenses due
+to discontinuing sales activities.
+
+Net other income in 2000 was $9,589 primarily from financial services
+provided to an outside customer.  In 1999, the Company had net other income
+of $104,708 primarily from the $142,697 gain realized on the sale of
+Company assets.
+
+                               -10-
+<PAGE>
+NET OPERATING LOSSES
+
+The Company has accumulated approximately $10,950,000 of net operating loss
+carryforwards as of December 31, 2000, which may be offset against taxable
+income and income taxes in future years.  The use of these losses to reduce
+future income taxes will depend on the generation of sufficient taxable
+income prior to the expiration of the net operating loss carryforwards.
+The carry-forwards expire in the year 2018.  In the event of certain
+changes in control of the Company, there will be an annual limitation on
+the amount of net operating loss carryforwards which can be used.  No tax
+benefit has been reported in the financial statements for the year ended
+December 31, 2000 because the Company believes the carryforward may expire
+unused.  Accordingly, the potential tax benefits of the loss carryforward
+is offset by a valuation allowance of the same amount.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Historically, the Company's working capital needs have been satisfied
+primarily through its financing activities including private loans and
+raising capital through the sale of securities.  Working capital at
+December 31, 2000 was a negative $4,896,888 compared to a negative
+$4,601,252 at December 31, 1999.  Net cash used in operating activities was
+$156,220 in 2000 compared to $692,504 in 1999.  This decrease in net cash
+used in 2000 was due primarily to the decrease in net loss.  The Company
+also realized $154,550 from financing activities in 2000 compared to
+$662,313 in 1999.  This decrease was primarily due to no proceeds from the
+issuance of common stock in 2000 and no proceeds from notes payable from
+related parties.
+
+The Company's ability to meet its working capital needs and continuation as
+a going concern during fiscal 2001 will depend primarily on its ability to
+obtain additional future financing  and successful implementation of
+MedSmart's marketing, distribution and sale of POWERx cards and related
+products.
+
+As of December 31, 2000, the Company had total assets of $32,301 and total
+stockholders' deficiency of $4,902,676, compared to December 31, 1999 at
+which time the Company had total assets of $198,521 and total stockholders'
+deficiency of $4,550,348.
+
+INFLATION
+
+In the opinion of management, inflation has not had a material effect on
+the operations of the Company.
+
+RISK FACTORS AND CAUTIONARY STATEMENTS
+
+Forward-looking statements in this report are made pursuant to the "safe
+harbor" provisions of the Private Securities Litigation Reform Act of 1995.
+The Company wishes to advise readers that actual results may differ
+substantially from such forward-looking statements.  Forward-looking
+statements involve risks and uncertainties that could cause actual results
+                                 -11-
+<PAGE>
+to differ materially from those expressed in or implied by the statements,
+including, but not limited to, the following: the ability of the Company to
+continue as a viable concern post implementation of the Plan, the ability
+of the Company to obtain financing in order to implement its business plan
+and other risks detailed in the Company's periodic report filings with the
+Securities and Exchange Commission.
+
+ITEM 7.   FINANCIAL STATEMENTS
+
+The Company's financial statements as of and for the fiscal years ended
+December 31, 2000 and 1999 have been examined to the extent indicated in
+their report by Sprouse & Winn, LLP and Jones, Jensen and Company,
+respectively, independent certified accountants, and have been prepared in
+accordance with generally accepted accounted principles and pursuant to
+Regulation S-B as promulgated by the Securities and Exchange Commission.
+The aforementioned financial statements are included herein in response to
+Item 7 of this Form 10-KSB.
+
+
+PART III
+
+
+ITEM 9.   DIRECTORS, EXECUTIVE OFFICERS, PROMOTERS AND CONTROL PERSONS,
+COMPLIANCE WITH SECTION 16(A) OF THE EXCHANGE ACT
+
+Listed below is information about the Company's directors and executive
+officers as of December 31, 2000.  As part of the implementation of the
+Plan in January 2001, a new slate of directors and officers were installed,
+as described in the Company's report on Form 8-K dated January 22, 2001.
+Directors are elected by shareholders at each annual shareholders' meeting
+and serve until their successors are elected and qualified.  There are no
+agreements with respect to the election of directors. Officers are
+appointed annually by the Board of Directors and each executive officer
+serves at the discretion of the Board of Directors.  The Company does not
+have any standing committees.
+
+None of the officers and/or directors of the Company are officers or
+directors of any other publicly traded corporation, nor have any of the
+directors and/or officers, nor have any of the affiliates or promoters of
+the Company filed any bankruptcy petition, been convicted in or been the
+subject of any pending criminal proceedings, or the subject or any order,
+judgment, or decree involving the violation of any state or federal
+securities laws within the past five years.
+
+At December 31, 2000, the following persons served as the directors and
+executive officers of the Company its subsidiaries and affiliated
+companies.
+
+NAME                    AGE              POSITIONS HELD
+
+James R. Kennard         64     Chief Executive Officer, Chairman and
+                                Director
+
+Eugene M. Rothchild      69     President and Director
+
+Roger H. Folts           62     Secretary/Treasurer and
+                                Chief Financial Officer
+
+                              -12-
+<PAGE>
+     JAMES R. KENNARD became a director of the Company in 1999 and was
+appointed Chief Executive Officer on January 17, 2000.  Mr. Kennard has
+over forty years of business experience in the aerospace, computer and
+medical equipment industries.  He retired in 1988 from Transicoil, Inc.,
+where he was C.O.B, C.E.O and President.  Since his retirement, Mr. Kennard
+been active in business planning and consulting projects.  He is presently
+the majority shareholder and President of Fore Seasons Golf, Inc., a golf
+practice facility in Pennsylvania.  He received his initial education with
+General Electric's Apprentice Toolmaker program, affiliated with Purdue
+University, in the 1950's and continued with a four year manufacturing
+management program and advanced manufacturing management program, also with
+General Electric.  Mr. Kennard has also completed a series of programs with
+the American Management Association and has completed the "Presidents
+Course" as a member of their President's Association in 1985.
+
+     EUGENE M. ROTHCHILD became a director of the Company in July 1999 and
+was appointed and was named President of the Company on January 17, 2000.
+Mr. Rothchild received a BBA Degree from the University of Cincinnati in
+1954 and earned his Juris Doctor degree from the University of Cincinnati,
+College of Law, in 1956.  Mr. Rothchild served as a U.S. Air Force Judge
+Advocate on active duty from 1958 to 1960 and was an attorney for the
+National Labor Relations Board from 1964 to 1969.  From 1969 to the
+present, he has practiced law in the Cincinnati, Ohio area specializing in
+estate, business and negligence law.
+
+     ROGER H. FOLTS has been the Company's Chief Financial Officer and
+Treasurer since March 1993, was appointed corporate Secretary in January
+2000.  He also served as a director until 1998.  Mr. Folts first joined
+NHSC-Pennsylvania at its inception in 1989 and has served as Vice President
+and Chief Financial Officer since November, 1991.  Also from 1989 to the
+present, Mr. Folts has been an adjunct professor at the Philadelphia
+College of Textiles and Science teaching business policy and marketing
+courses.  From 1990 to 1992, Mr. Folts was the owner and operator of Delval
+Recharge, Inc., located in Southhampton, Pennsylvania, a company involved
+in servicing laser printers and copiers, and from 1987 to 1990, Mr. Folts
+operated Roger H. Folts & Associates, which presented management seminars
+and which was located in Southhampton, Pennsylvania.  Mr. Folts earned a
+B.A. Degree in mathematics from Harvard University in 1960, and a M.B.A.
+from the University of Chicago in 1966.
+
+COMPLIANCE WITH SECTION 16(A) OF THE EXCHANGE ACT
+
+Section 16(a) of the Securities Exchange Act of 1934 and Securities and
+Exchange Commission Regulations require that the Company's directors,
+certain officers, and greater than 10 percent shareholders file reports of
+ownership and changes in ownership with the SEC and the NASD and furnish
+the Company with copies of all such reports they file.  Based solely upon a
+review of the copies of the form furnished to the Company, or written
+representations from certain reporting persons that no reports were
+required, the Company believes that no other persons failed to file
+required reports on a timely basis during or in respect of 2000.
+
+                                -13-
+<PAGE>
+ITEM 10.  EXECUTIVE COMPENSATION
+
+In January 2000, James R. Kennard became the chief executive officer of the
+Company.  Mr. Kennard received no salary or other compensation for his
+services in 2000 or in any prior year. No executive officer of the Company
+has received compensation of more than $100,000 in any of the past three
+years. The Company has not had a bonus, profit sharing, or deferred
+compensation plan for the benefit of its employees, officers or directors.
+
+EMPLOYMENT AGREEMENTS
+
+In accordance with the confirmed Fourth Amended Joint Plan of
+Reorganization in conjunction with its bankruptcy, all employment
+agreements have been canceled.  Neither the Company nor MedSmart have any
+employment agreements.
+
+STOCK OPTION GRANTS AND EXERCISES IN 2000
+
+The Company did not grant any stock options, stock appreciation rights or
+Long-Term Incentive Plan Awards to its officers or employees during 2000.
+None of the executive officers exercised any stock options or stock
+appreciation rights in 2000, 1999, or 1998.  James R. Kennard, the chief
+executive officer, had no stock options outstanding at the end of 2000.
+
+COMPENSATION OF DIRECTORS
+
+The Company has not compensated its directors for service on the Board of
+Directors or any committee thereof, but directors are reimbursed for
+expenses incurred for attendance at meetings of the Board of Directors and
+any committee of the Board of Directors.
+
+ITEM 11.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+The following tables set forth certain information regarding the ownership
+of the Company's voting securities as of December 31, 2000, by: (i) each
+person the Company knows to own beneficially more than 5% of the
+outstanding shares of each class of equity securities, (ii) each of the
+Company's directors, and (iii) all of the Company's directors and officers
+as a group.
+
+On December 31, 2000, 58,803,716 shares of the Company's Common Stock were
+outstanding.
+
+                                                    Shares Owned{ (1)}
+SHAREHOLDER                                        NUMBER         PERCENT
+
+James R. Kennard, Chairman, Director               75,380             *
+and Chief Executive Officer
+1053 Buckeye Lane
+Greentown, PA 18426
+
+                                  -14-
+<PAGE>
+Eugene M. Rothchild, President and Director       722,500          1.23%
+14 Woodcreek Drive
+Cincinnati, OH 45241
+
+Roger H. Folts, Chief Financial Officer           253,500(3)          *
+19 Foxcroft Drive
+Doylestown, PA 18901
+
+Joseph Hirschberg                               3,790,000          6.45%
+10110 N. Lee Court
+Mequon, WI 53092
+
+All directors and executive officers as a
+group (4 persons)                               1,051,380          1.79%
+
+* Constitutes less than one percent of outstanding shares.
+
+(1)Based upon 58,803,716 shares of Common Stock outstanding on December 31,
+2000, but does not include shares of Common Stock issuable upon conversion
+of Preferred Stock, because the Preferred Stock was exchanged for new
+shares of Series B Preferred Stock as part of the Plan of Reorganization
+that was confirmed in November 2000 and implemented in January 2001.
+Percentage ownership is calculated separately for each person on the basis
+of the actual number of outstanding shares as of December 31, 2000.  All
+previously issued stock options have been cancelled as a part of the Plan.
+
+(2)  Includes 90,000 shares in the names of Mr. Bowers' children.
+
+(3)  Includes 3,000 shares owned by Barbara Folts, wife of Roger Folts.
+
+ITEM 13.  EXHIBITS, LISTS, AND REPORTS ON FORM 8-K
+
+(a)Certain of the Exhibits set forth in the following index are
+incorporated by reference.
+
+2.1*     Fourth Amended Joint Plan of Reorganization, In Re: National
+         Health & Safety Corporation, Debtor, Case No.  99-18339-DWS, U.S.
+         Bankruptcy Court, Eastern District of Pennsylvania, dated August
+         21, 2000, incorporated by reference to the Company's report on
+         Form 8-K dated November 28, 2000.
+
+2.2*     Fourth Amended Disclosure Statement , In Re: National Health &
+         Safety Corporation, Debtor, Case No.  99-18339-DWS, U.S.
+         Bankruptcy Court, Eastern District of Pennsylvania, dated August
+         21, 2000.
+
+2.3*     Asset Purchase Agreement by and between MedSmart Healthcare
+         Network, Inc., as Seller and National Health & Safety Corporation,
+         as Purchaser, January 22, 2001.
+
+                                    -15-
+<PAGE>
+2.4*     Order confirming Fourth Amended Joint Plan of Reorganization,
+         dated November 27, 2000.
+
+3.1*     Amended and Restated Articles of Incorporation, filed with the
+         Utah Department of Commerce Division of Corporations and
+         Commercial Code on January 22, 2001.
+
+3.2*     Bylaw Amendment, adopted on January 22, 2001.
+
+4.1*     Certificate of Designation for Series A Preferred Stock, filed
+         with the Utah Department of Commerce Division of Corporations and
+         Commercial Code on January 22, 2001.
+
+4.2*     Certificate of Designation for Series B Preferred Stock, filed
+         with the Utah Department of Commerce Division of Corporations and
+         Commercial Code on January 22, 2001.
+
+4.3*     Warrant Agreement, filed with the Utah Department of Commerce
+         Division of Corporations and Commercial Code on January 22, 2001.
+
+4.4*     Class A Warrant Certificate, dated January 22, 2001.
+
+4.5*     Class B Warrant Certificate, dated January 22, 2001.
+
+21.1*    Subsidiaries of the Registrant- MedSmart Healthcare Networks, Inc.
+
+27.1     Financial Data Schedule.
+
+----------
+* Previously filed as an exhibit to the Company's report on Form 8-K dated
+January 22, 2001 and incorporated by reference herein.
+
+(b)  Reports on Form 8-K
+
+The Company filed an 8-K report dated November 28, 2000, announcing the
+confirmation of its Plan of Reorganization by the bankruptcy court.
+
+After the close of the 2000 fiscal year, the Company filed an 8-K report
+dated January 22, 2001, reporting the implementation of the Plan of
+Reorganization, including the acquisition of MedSmart Healthcare Network,
+Inc.
+
+The Company filed another 8-K report dated February 8, 2001, reporting that
+it had terminated its former accountant and had retained Sprouse & Winn,
+LLP as its independent auditors.  The Company also reported the election of
+new directors to its board, as part of the implementation of its Plan of
+Reorganization.
+
+                                  -16-
+<PAGE>
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be
+signed on its behalf by the undersigned, thereunto duly authorized.
+
+NATIONAL HEALTH & SAFETY CORPORATION
+
+                                              /s/
+Date: April 16, 2001               ___________________________
+                                   Gary Davis, President and Chief
+                                   Executive Officer
+
+                                              /s/
+Date: April 16, 2001               ___________________________
+                                   Roger Folts, Chief Financial Officer
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities indicated.
+
+                                              /s/
+Date: April 16, 2001               ___________________________
+                                   Gary Davis, Director and Chairman of the
+                                   Board of Directors
+
+                                              /s/
+Date: April 16, 2001               ___________________________
+                                   Eugene M. Rothchild, Director
+
+
+                                              /s/
+Date: April 16, 2001               ___________________________
+                                   James R. Kennard, Director
+
+
+                                              /s/
+Date: April 16, 2001               ___________________________
+                                   Jimmy E. Nix II, Director
+
+                                  -17-
+<PAGE>
+
+
+                     NATIONAL HEALTH & SAFETY CORPORATION
+
+                         (A DEVELOPMENT STAGE COMPANY)
+
+                             FINANCIAL STATEMENTS
+                                      AND
+                         INDEPENDENT AUDITOR'S REPORT
+
+                               DECEMBER 31, 2000
+
+                               TABLE OF CONTENTS
+
+
+
+
+
+                                          PAGE
+
+INDEPENDENT AUDITORS' REPORT               F-1-3
+
+FINANCIAL STATEMENTS
+
+   Balance Sheet                             F-4
+
+   Statements of Operations                  F-5
+
+   Statements of Stockholders' Deficiency    F-6
+
+   Statements of Cash Flows                  F-7
+
+   Notes to Financial Statements          F-8-14
+
+
+<PAGE>
+
+Board of Directors
+  National Health & Safety Corporation
+  (A Development Stage Company)
+
+
+                         INDEPENDENT AUDITORS' REPORT
+                         ----------------------------
+
+
+We have audited the accompanying balance sheet of National Health & Safety
+Corporation (a development stage company) as of December 31, 2000 and the
+related statements of operations, stockholders' deficiency and cash flows for
+the year ended December 31, 2000 and from the inception of the
+development stage on January 1, 1999 through December 31, 2000.  The balance
+sheet, statements of operations, stockholder's deficiency and cash flows
+of National Health & Safety Corporation for the year ended December 31,
+1999 were audited by other auditors whose report dated January 18, 2000,
+included an explanatory paragraph describing conditions that raised substantial
+doubt about the Company's ability to continue as a going concern.  These
+financial statements are the responsibility of the Company's management.
+Our responsibility is to express an opinion on these financial statements
+based on our audits.
+
+We   conducted  our  audit  in  accordance  with  generally  accepted  auditing
+standards.   Those  standards  require  that  we  plan and perform the audit to
+obtain reasonable assurance about whether the financial  statements are free of
+material misstatement.  An audit includes examining, on a  test basis, evidence
+supporting the amounts and disclosures in the financial statements.   An  audit
+also   includes  assessing  the  accounting  principles  used  and  significant
+estimates  made  by  management,  as  well  as evaluating the overall financial
+statement presentation. We believe that our audit  provides a reasonable basis
+for our opinion.
+
+In our opinion, the financial statements referred to above present  fairly,  in
+all  material  respects,  the  financial  position  of National Health & Safety
+Corporation  (a  development stage company) as of December  31,  2000,  and  the
+results of its operations  and  its  cash flows for the years ended December 31,
+2000 and from the inception of the development stage on January 1, 1999
+through December 31, 2000, in conformity with generally accepted accounting
+principles.
+
+                                 F-1
+<PAGE>
+
+The accompanying financial statements  have  been  prepared  assuming  that the
+Company  will  continue  as a going concern. As discussed in Notes 1 and 3,  on
+July 1, 1999, the Company  filed  a Voluntary Petition for Relief under Chapter
+11 of the United States Bankruptcy  Code  in the United States Bankruptcy Court
+for the Eastern District of Pennsylvania. The   filing  was made necessary by a
+lack  of  sufficient  liquidity.  The  Company, has experienced  recurring  net
+losses.  Additionally, as of December 31, 2000, the Company had a stockholders'
+deficit  of  $4,902,676.   These  matters raise  substantial  doubt  about  the
+Company's ability to continue as a  going concern. Management's plans in regard
+to these matters are partially described  in  Notes  1  and 3. The accompanying
+financial   statements   do  not  include  any  adjustment  relating   to   the
+recoverability and classification  of  asset carrying amounts or the amount and
+classification of liabilities that might result should the Company be unable to
+continue as a going concern.
+
+
+SPROUSE & WINN, L.L.P.
+Austin, Texas
+
+April 6, 2001
+
+                                 F-2
+<PAGE>
+                         INDEPENDENT AUDITORS' REPORT
+
+
+Board of Directors
+National Health & Safety Corporation
+(A Development Stage Company)
+Warminster, Pennsylvania
+
+
+We have audited the accompanying balance sheet of National Health & Safety
+Corporation (a development stage company) as of December 31, 1999 and the
+related statements of operations, stockholders' deficiency and cash flows for
+the years ended December 31, 1999 and 1998 and from the inception of the
+development stage on January 1, 1999 through December 31, 1999.  These
+financial statements are the responsibility of the Company's management.
+Our responsibility is to express an opinion on these financial statements
+based on our audits.
+
+We   conducted  our  audits  in  accordance  with  generally  accepted  auditing
+standards.   Those  standards  require  that  we  plan and perform the audit to
+obtain reasonable assurance about whether the financial  statements are free of
+material misstatement.  An audit includes examining, on a  test basis, evidence
+supporting the amounts and disclosures in the financial statements.   An  audit
+also   includes  assessing  the  accounting  principles  used  and  significant
+estimates  made  by  management,  as  well  as evaluating the overall financial
+statement presentation. We believe that our audit  provides a reasonable basis
+for our opinion.
+
+In our opinion, the financial statements referred to above present  fairly,  in
+all  material  respects,  the  financial  position  of National Health & Safety
+Corporation  (a  development stage company) as of December  31,  1999,  and  the
+results of its operations  and  its  cash flows for the years ended December 31,
+1999 and 1998 and from the inception of the development stage on January 1, 1999
+through December 31, 1999, in conformity with generally accepted accounting
+principles.
+
+The accompanying financial statements  have  been  prepared  assuming  that the
+Company  will  continue  as a going concern. As discussed in Notes 1 and 4,  on
+July 1, 1999, the Company  filed  a Voluntary Petition for Relief under Chapter
+11 of the United States Bankruptcy  Code  in the United States Bankruptcy Court
+for the Eastern District of Pennsylvania. The   filing  was made necessary by a
+lack  of  sufficient  liquidity.  The  Company, has experienced  recurring  net
+losses.  Additionally, as of December 31, 1999, the Company had a stockholders'
+deficit  of  $4,550,348.   These  matters raise  substantial  doubt  about  the
+Company's ability to continue as a  going concern. Management's plans in regard
+to these matters are partially described  in  Notes  1  and 4. The accompanying
+financial   statements   do  not  include  any  adjustment  relating   to   the
+recoverability and classification  of  asset carrying amounts or the amount and
+classification of liabilities that might result should the Company be unable to
+continue as a going concern.
+
+
+Jones, Jensen & Company
+Salt Lake City, Utah
+January 18, 2000
+                                 F-3
+<PAGE>
+
+
+
+                   NATIONAL HEALTH & SAFETY CORPORATION
+                       (A Development Stage Company)
+
+                               BALANCE SHEET
+
+                             DECEMBER 31, 2000
+
+                                  ASSETS
+
+Current Assets
+  Cash                                                      $           1,475
+  Accounts receivable net of allowance for doubtful
+    accounts of $f8,200                                                16,614
+                                                             ----------------
+    Total Current Assets                                               18,089
+                                                             ----------------
+Other Assets
+  Restricted case                                                      14,212
+                                                             ----------------
+  Total Current Assets                                                 14,212
+                                                             ----------------
+
+TOTAL ASSETS                                                 $         32,301
+                                                             ================
+
+                        LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Current Liabilities
+  Accounts payable and accrued expenses-post petition        $        334,276
+  Post petition notes payable-related party                           255,750
+  Pre-petition accruals                                             4,344,951
+                                                             ----------------
+    Total Current Liabilities                                       4,914,977
+                                                             ----------------
+
+STOCKHOLDERS' DEFICIENCY
+  Preferred Stock; $0.001 par value;
+    5,000,000 shares authorized;
+    14,363 shares issued and outstanding                                   14
+  Common stock; $0.001 par value;
+    100,000,000 shares authorized;
+    59,634,062 shares issued and
+    outstanding                                                        58,804
+  Additional paid-in capital                                        9,482,308
+  Accumulated deficit                                             (11,975,773)
+  Deficit accumulated during the
+    development stage                                              (2,468,029)
+                                                             ----------------
+
+    Total Stockholders' Deficiency                                 (4,902,676)
+                                                             ----------------
+TOTAL LIABILITIES AND STOCKHOLDERS' DEFICIENCY               $         32,301
+                                                             ================
+
+                  SEE ACCOMPANYING NOTES TO FINANCIAL STATEMENTS
+                                   F-4
+
+<PAGE>
+                   NATIONAL HEALTH & SAFETY CORPORATION
+                       (A Development Stage Company)
+
+                         STATEMENTS OF OPERATIONS
+<TABLE>
+<CAPTION>
+
+                                                             From the Inception of the
+                                For the Years Ended             Development Stage
+                                December 31,                 on January 1, 1999 Through
+                                2000             1999           December 31, 1999
+                                ----             ----        --------------------------
+<S>                             <C>            <C>           <C>
+
+REVENUE
+  Sales - operations            $       228    $    80,340           $    80,568
+  Royalty revenue                       514            -0-                   514
+                                -----------    -----------           -----------
+    Total Revenue                       742         80,340                81,082
+                                ===========    ===========           ===========
+
+COST OF SALES                           185         41,045                41,230
+                                -----------    -----------           -----------
+  Gross Profit                          557         39,295                39,852
+                                -----------    -----------           -----------
+
+EXPENSES
+  Rent                                  -0-         99,424                99,424
+  Depreciation and
+    amortization                        -0-          2,078                 2,078
+  General and administrative        279,439      2,241,237             2,520,676
+                                -----------    -----------           -----------
+    Total Expenses                  279,439      2,342,739             2,622,178
+                                ===========    ===========           ===========
+LOSS FROM OPERATIONS               (278,882)    (2,303,444)           (2,582,326)
+
+
+OTHER INCOME (EXPENSE)
+  Gain on sale of assets                -0-        142,697               142,697
+  Legal settlement                   11,673            -0-                11,673
+  Bad debt expense                   (2,084)        (2,388)               (4,472)
+  Interest expense                      -0-        (35,601)              (35,601)
+                                -----------    -----------           -----------
+  Total Other Income (Expense)        9,589        104,708               114,297
+                                ===========    ===========           ===========
+
+NET LOSS                        $  (269,293)  $(2,198,736)          $(2,468,029)
+                                ============   ===========           ===========
+BASIC LOSS PER SHARE            $     (0.05)   $     (0.04)
+                                ============   ===========
+Weighted Average Shares
+  Outstanding                    59,008,459     57,734,638
+                                ============   ===========
+</TABLE>
+
+                  SEE ACCOMPANYING NOTES TO FINANCIAL STATEMENTS
+                                     F-5
+<PAGE>
+                   NATIONAL HEALTH & SAFETY CORPORATION
+                       (A Development Stage Company)
+
+                  STATEMENTS OF STOCKHOLDERS' DEFICIENCY
+
+<TABLE>
+<CAPTION>
+                           Stock    COMMON      Additional     Accumulated
+                         Preferred   STOCK    Paid-in Capital    Deficit
+<S>                      <C>       <C>        <C>              <C>
+BALANCE, DECEMBER 31,
+1998                           14  $52,455      $8,512,687     $(11,975,773)
+
+Issuance of common
+stock in payment of debt        -    3,095         211,905                -
+
+Issuance of common
+stock for services
+rendered                        -    1,640         220,165                -
+
+Issuance of common
+stock for cash                  -    2,444         199,756                -
+
+Options issued below
+market price                    -        -         420,000                -
+
+Net loss for the
+year ended
+December 31, 1999              -        -               -       (2,198,736)
+                         --------  -------    ------------     ------------
+
+BALANCE, DECEMBER 31,
+1999                           14   59,634       9,564,513      (14,174,509)
+
+Cancellation of
+Common Stock                    -     (830)        (82,205)               -
+
+Net loss for the
+year ended
+December 31, 2000               -        -               -         (269,293)
+                         --------  -------    ------------     ------------
+
+BALANCE, DECEMBER 31,
+2000                           14  $58,804    $  9,482,308     $(14,443,802)
+                         ========  =======    ============     ============
+
+</TABLE>
+
+
+
+
+                  SEE ACCOMPANYING NOTES TO FINANCIAL STATEMENTS
+                                   F-6
+<PAGE>
+
+                   NATIONAL HEALTH & SAFETY CORPORATION
+                       (A Development Stage Company)
+
+                         STATEMENTS OF CASH FLOWS
+
+<TABLE>
+<CAPTION>
+                                   For the Years Ended         From Inception
+                                       December 31,          On January 1, 1999
+                                                                  Through
+                                   2000           1999       December 31, 2000
+                                   ----           ----       -------------------
+<S>                              <C>            <C>          <C>
+
+CASH FLOWS FROM OPERATING
+ACTIVITIES
+  Net (loss)                     $  (269,293)   $(2,198,736)    $(2,468,029)
+  Adjustments to reconcile
+   net (loss) to net cash (used)
+   by operating activities:
+   Depreciation and amortization         -0-          2,078           2,078
+   Expenses paid with common
+    stock                                -0-        641,805         641,805
+   Cancellation of Stock             (83,035)           -0-         (83,035)
+   Gain on sale of assets                -0-       (142,697)       (142,697)
+
+  Changes in operating
+   assets and liabilities:
+   (Increase) in restricted
+    cash                               36,692       (50,904)        (14,212)
+   (Increase) decrease in
+    accounts receivable                 7,858         6,385          14,243
+   (Increase) decrease in
+    royalties receivable                  -0-        41,000          41,000
+   Decrease in deposits                   -0-         9,298           9,298
+   Increase (decrease) in
+    accounts payable                  172,358       133,791         326,149
+   Increase (decrease) in
+    accrued expenses                  (40,800)      865,476         824,676
+                                 ------------   -----------     -----------
+     Net Cash (Used) by
+      Operating Activities           (156,220)     (692,504)       (848,724)
+
+CASH FLOWS FROM INVESTING
+ACTIVITIES
+  Proceeds from sale of assets            -0-        30,000          30,000
+                                 ------------   -----------     -----------
+
+  Net Cash Provided by
+   Investing Activities                   -0-        30,000          30,000
+
+CASH FLOWS FROM FINANCING
+ACTIVITIES
+  Proceeds from loans
+   payable, individuals               120,000           -0-         120,000
+  Proceeds from loans
+   payable, stockholder                   -0-        48,000          48,000
+  Proceeds from notes
+   payable - related party             34,550       469,113         503,663
+  Repayment of loans payable              -0-       (57,000)        (57,000)
+  Proceeds from issuance of
+   common stock                           -0-       202,200         202,200
+                                 ------------   -----------     -----------
+   Net Cash Provided by
+    Financing Activities              154,550       662,313         816,863
+                                 ------------   -----------     -----------
+
+INCREASE (DECREASE) IN CASH            (1,670)         (191)         (1,861)
+
+NET CASH, BEGINNING OF YEAR             3,145         3,336           3,336
+                                 ------------   -----------     -----------
+NET CASH, END OF YEAR            $      1,475   $     3,145     $     1,475
+                                 ============   ===========     ===========
+
+CASH PAID DURING THE YEAR FOR:
+  Interest                       $        -0-   $    16,597     $    16,597
+  Income taxes                            -0-           -0-             -0-
+
+NON-CASH FINANCING ACTIVITIES:
+  Issuance of common stock in
+   payment of debt                        -0-       215,000         215,000
+  Issuance of common stock
+   for services                           -0-       221,805         221,805
+  Options issued below market
+   value                                  -0-       420,000         420,000
+  Cancellation of common stock         83,035           -0-          83,035
+</TABLE>
+
+
+
+                  SEE ACCOMPANYING NOTES TO FINANCIAL STATEMENTS
+                                   F-7
+<PAGE>
+                     NATIONAL HEALTH & SAFETY CORPORATION
+                         (A Development Stage Company)
+
+                         NOTES TO FINANCIAL STATEMENTS
+
+                               DECEMBER 31, 2000
+
+
+NOTE 1    SIGNIFICANT ACCOUNTING POLICIES AND BUSINESS OPERATIONS
+
+          a. Nature of Organization
+
+          The Company  was  incorporated  on  March  23,  1989.   The Company's
+          principal  business  activities  consist  of  providing medical  cost
+          containment services to both institutional and consumer markets.  The
+          Company  performs  on-going  credit  evaluations  of  its  customers'
+          financial condition and generally requires no collateral.
+
+          On  March  22,  1993  the  Company entered into a merger  with  State
+          Policeman Annual Magazine, Inc.  (State),  whereby  each share of the
+          Company's common and preferred stock was exchanged for  one share, of
+          State's  common  and  preferred stock.  State is a Company which  was
+          organized under the laws  of  the  State  of  Utah  on  May 14, 1983.
+          Pursuant  to  the  merger  agreement,  State amended its Articles  of
+          Incorporation  to  change  its  name  to  National  Health  &  Safety
+          Corporation.  The Company entered the development stage on January 1,
+          1999  per SFAS No. 7 because of the bankruptcy  proceedings  and  the
+          sale of the Company's assets.
+
+          On July  1, 1999, National Health & Safety Corporation (the "Debtor")
+          filed  a  petition  for  relief  under  Chapter  11  of  the  federal
+          bankruptcy laws in the United states bankruptcy Court for the Eastern
+          District of  Pennsylvania,  Case  No.:99-18339.   Under  Chapter  11,
+          certain claims against the Debtor in existence prior to the filing of
+          the petitions for relief under the federal bankruptcy laws are stayed
+          while     the     Debtor    continues    business    operations    as
+          debtor-in-possession.   These claims are reported in the December 31,
+          2000  balance  sheet as "pre-petition  accruals"  in  the  amount  of
+          $4,344,951.  Claims  secured  against  the  Debtor's assets ("secured
+          claims") also are stayed, although the holders  of  such  claims have
+          the right to move the Court for relief from the stay.  Secured claims
+          amounted to $1,473,141 at December 31, 2000.  On August 21, 2000, the
+          Company filed the Fourth Amended Disclosure Statement with respect to
+          the Fourth Amended Joint Plan of Reorganization (the "Plan")  for its
+          consideration  by  the  Company's  creditors  and  shareholders,  and
+          ultimate approval by the Bankruptcy Court.
+
+          On November 27, 2000 the Bankruptcy Court confirmed the Plan, and the
+          Plan was implemented effective January 22, 2001 (See Note 8).
+
+          b.   Accounts Receivable
+
+          Accounts  receivable  are  shown  net  of  an  allowance for doubtful
+          accounts of $8,200. Bad debts are written off in  the period in which
+          they are deemed uncollectible.  Any bad debts subsequently  recovered
+          are  recorded  as  income  in  the financial statements in the period
+          during which they are recovered.
+
+                                    F-8
+<PAGE>
+                     NATIONAL HEALTH & SAFETY CORPORATION
+                         (A Development Stage Company)
+
+                         NOTES TO FINANCIAL STATEMENTS
+
+                               DECEMBER 31, 2000
+
+
+NOTE 1    SIGNIFICANT ACCOUNTING POLICIES AND BUSINESS OPERATIONS
+          (Continued)
+
+          c. Property and Equipment
+
+          Property and equipment are stated  at cost.  Depreciation is provided
+          using  accelerated  and straight-line  methods,  over  the  estimated
+          useful life of each class of asset as follows:
+
+                      Furniture and Fixtures     7 years
+                      Office Equipment           7 years
+                      Computers                  5 years
+
+          Expenditures  for repairs, maintenance and minor renewals are charged
+          against income  as  incurred  and expenditures for major renewals and
+          betterment are capitalized.  The cost and accumulated depreciation of
+          assets sold or retired are removed  from the respective accounts with
+          any  gain  or  loss on disposal reflected  in  income.   Depreciation
+          expense was $-0- and $2,078 for the years ended December 31, 2000 and
+          1999, respectively.  All  of  the  property and equipment was sold in
+          July 1999.
+
+          d. Basic Loss per Share of Common Stock
+
+
+                                      For the Year Ended
+                                      December 31, 2000
+          ------------------------------------------------------------------
+                             Loss         Shares                 Per Share
+                         (Numerator)  (Denominator)               Amount
+
+            Net loss      $(269,293)   59,008,459                $(.005)
+
+
+                                      For the Year Ended
+                                      December 31, 1999
+          ------------------------------------------------------------------
+                             Loss         Shares                 Per Share
+                         (Numerator)  (Denominator)               Amount
+
+            Net loss      $(2,198,736) 57,734,638                $ (.04)
+
+          Basic loss per common share has been calculated based on the weighted
+          average  number  of  shares  of  common  stock outstanding during the
+          period.
+
+          e. Cash Equivalents
+
+          The Company considers all highly liquid investments  with  a maturity
+          of three months or less to be cash equivalents.
+
+                                   F-9
+<PAGE>
+                     NATIONAL HEALTH & SAFETY CORPORATION
+                         (A Development Stage Company)
+
+                         NOTES TO FINANCIAL STATEMENTS
+
+                               DECEMBER 31, 2000
+
+
+NOTE 1    SIGNIFICANT ACCOUNTING POLICIES AND BUSINESS OPERATIONS
+          (Continued)
+
+          f.  Provision for Taxes
+
+          At   December   31,   2000,   the  Company  had  net  operating  loss
+          carryforwards of approximately $10,950,000 that may be offset against
+          future taxable income through 2018.  No tax benefit has been reported
+          in  the  financial  statements,  because  the  Company  believes  the
+          carryforwards  may expire unused.   Accordingly,  the  potential  tax
+          benefits  of  the  loss  carryforwards  are  offset  by  a  valuation
+          allowance of the same amount.
+
+          g. Estimates
+
+          The preparation  of financial statements in conformity with generally
+          accepted accounting  principles requires management to make estimates
+          and  assumptions that affect  the  reported  amounts  of  assets  and
+          liabilities  and  disclosure  of contingent assets and liabilities at
+          the date of the financial statements  and  the  reported  amounts  of
+          revenues  and  expenses  during the reporting period.  Actual results
+          could differ from those estimates.
+
+          h. Revenue Recognition
+
+          The Company has not yet established  ongoing  operations.   A revenue
+          recognition   policy  will  be  established  when  planned  principal
+          operations commence.
+
+          i. Recent Accounting Pronouncements
+
+          In June 1998, the FASB issued SFAS No. 133, "Accounting for
+          Derivative Instruments and Hedging Activities" which requires
+          companies to record derivatives as assets or liabilities, measured at
+          fair market-value.  Gains or losses resulting from changes in the
+          values of those derivatives would be accounted for depending on the
+          use of the derivative and whether it qualifies for hedge accounting.
+          The key criterion for hedge accounting is that the hedging
+          relationship must be highly effective in achieving offsetting changes
+          in fair value or cash flows. SFAS No. 133 is effective for all fiscal
+          quarters of fiscal years beginning after June 15, 1999. Management
+          believes the adoption of this statement will have no material impact
+          on the Company's financial statements.
+
+                                      F-10
+<PAGE>
+                     NATIONAL HEALTH & SAFETY CORPORATION
+                         (A Development Stage Company)
+
+                         NOTES TO FINANCIAL STATEMENTS
+
+                               DECEMBER 31, 2000
+
+
+NOTE 1    SIGNIFICANT ACCOUNTING POLICIES AND BUSINESS OPERATIONS
+          (CONTINUED)
+
+          j. Bankruptcy Accounting
+
+          Since the Chapter  11  bankruptcy filing, the Company has applied the
+          provisions in Statement  of Position (SOP) 90-7 " Financial Reporting
+          by Entities in Reorganization  Under  the Bankruptcy Code."  SOP 90-7
+          does not change the application of accepted  accounting principles in
+          the  preparation of statements.  However, it does  require  that  the
+          financial  statements  for periods including and subsequent to filing
+          the Chapter 11 petition  distinguish transactions and events that are
+          directly  associated  with  the   reorganization   from  the  ongoing
+          operations of the business.
+
+NOTE 2    RESTRICTED CASH
+
+          Pursuant  to  the bankruptcy proceedings, the Company  has  one  cash
+          account which has been attached by creditors or allocated for certain
+          debt payments totaling  $14,212  at  December 31, 2000.  This cash is
+          being presented as restricted cash because  the Company does not have
+          full access to this account.
+
+NOTE 3    GOING CONCERN
+
+          The accompanying financial statements have been prepared on a going
+          concern basis, which contemplates the realization of assets and the
+          satisfaction of liabilities in the normal course of business.  The
+          Company has a working capital deficiency of $ 4,896,888, an
+          accumulated deficit of $ 14,443,802 as of December 31, 2000, and a
+          net loss for the year then ended of $269,293.  Accordingly, its
+          ability to continue as a going concern is dependent on obtaining
+          capital and financing for its planned marketing and distribution of
+          the POWERx memberships through the Company's benefits network.  The
+          Company plans to secure financing for its acquisition strategy
+          through the sale of its equity or issuance of debt.  However, there
+          is no assurance that they will be successful in their efforts to
+          raise capital or secure other financing.  These factors among others
+          may indicate that the Company will be unable to continue as a going
+          concern for a reasonable period of time.
+
+
+                                   F-11
+<PAGE>
+
+                     NATIONAL HEALTH & SAFETY CORPORATION
+                         (A Development Stage Company)
+
+                         NOTES TO FINANCIAL STATEMENTS
+
+                               DECEMBER 31, 2000
+
+NOTE 4    PREFERRED STOCK
+
+          In  1992,  the Company entered into a stock exchange  agreement  with
+          certain shareholders,  whereby  such  stockholders agreed to exchange
+          certain of their shares of the pre-split  common stock of the Company
+          and certain other rights for 14,363 authorized  shares of a new class
+          of redeemable preferred stock.  The stock is redeemable at $41.78 per
+          share (aggregate - $600,086), payable as follows:
+
+          Upon closing of private placement issues                 $50,011
+          Upon closing of secondary public offering                 50,011
+          One year after closing of a secondary public offering    150,074
+          Two years after closing of a secondary public offering   174,975
+          Three years after closing of a secondary public offering 175,015
+
+          On November 27, 2000 the Plan was confirmed.  On January 22, 2001 the
+          Plan was implemented, and each share of preferred stock was exchanged
+          in  accordance with the Plan.  Holders of the Company's 14,363 shares
+          of Preferred  Stock  exchanged their shares for 600,000 shares of new
+          Preferred Stock, Series B.
+
+NOTE 5    OPTIONS AND WARRANTS
+
+          The Company has the following outstanding warrants:
+
+NUMBER ISSUED   PURCHASE PRICE                           EXPIRATION DATE
+-------------   --------------                           ---------------
+
+487,500         Lesser of $1.50 or 75% of current price     12/31/00
+131,665         Lesser of $2.13 or 75% of current price     12/31/00
+250,000         $0.25 per share                             04/01/01
+200,000         $0.25 per share                             04/01/01
+
+The Company has the following outstanding stock options:
+
+<TABLE>
+<CAPTION>
+                                 STOCK OPTIONS ISSUED
+DATE      PRICE    EXPIRATION      BOWERS     FOLTS     BATHURST        TOTAL
+----      -----    ----------      ------     -----     --------        -----
+<C>       <C>      <C>            <C>        <C>        <C>             <C>
+06/06/95  @$0.17    06/06/2010    2,000,000    500,000    500,000        3,000,000
+04/30/96  @$0.17    04/30/2011    2,000,000    500,000    500,000        3,000,000
+02/20/98  @$0.07    02/20/2013    2,800,000  1,000,000  1,000,000        4,800,000
+                                                                        ----------
+                                                        Total:          10,800,000
+</TABLE>
+
+          On  November  27, 2000 the Plan was confirmed.  On  January 22, 2001,
+          the Plan was implemented,  and   all outstanding options and warrants
+          were cancelled.
+
+                                      F-12
+<PAGE>
+                     NATIONAL HEALTH & SAFETY CORPORATION
+                         (A Development Stage Company)
+
+                         NOTES TO FINANCIAL STATEMENTS
+
+                               DECEMBER 31, 2000
+
+
+NOTE 6    REORGANIZATION ITEMS
+
+          Although the Chapter 11 bankruptcy  filing  raises  substantial doubt
+          about  the  Company's  ability  to  continue as a going concern,  the
+          accompanying  financial statements have  been  prepared  on  a  going
+          concern basis.   This  basis contemplates the continuity of operating
+          realization of assets, and  discharge  of liabilities in the ordinary
+          course of business.  The statements also  present  the  assets of the
+          Company at historical cost, and the current intention that  they will
+          be realized as a going concern and in the normal course of business.
+
+NOTE 7    RELATED PARTY TRANSACTIONS
+
+          Under  the  Plan,  the  Company  was  advanced  $255,750  by Medsmart
+          Healthcare Network, Inc., a related party.  This amount is  shown  in
+          the financial statements as post petition notes payable.  No interest
+          accrues  on  this  note,  and  is  to  be  repaid  once  the  Plan is
+          implemented.
+
+
+
+NOTE 8    SUBSEQUENT EVENTS
+
+          The Plan was confirmed on November 27, 2000 and filed as an exhibit
+          to the Company's Form 8-K, dated November 28, 2000, that reported the
+          confirmation.  On January 22, 2001 the Plan was implemented, whereby
+          the former shareholders of MedSmart Healthcare Network, Inc.
+          ("MedSmart")  exchanged all of their MedSmart stock for a majority of
+          the outstanding common stock of the Company.  MedSmart became a
+          wholly owned subsidiary of the Company. This exchange, together with
+          the contribution of $600,000 by the Co-Proponent of the Plan and
+          other investors implemented the Plan and resulted in a change of
+          control of the Company.
+
+          Holders  of  the Company's 14,363 shares of Preferred Stock exchanged
+          their shares for 600,000 shares of new Preferred Stock, Series B.
+
+          Pursuant to and effective upon implementation of the Plan, January
+          22, 2001, the Company authorized and issued certain new classes of
+          securities as follows:
+
+               The Company authorized the issuance of 500,000,000 common
+               shares, par value $.001 and the issuance of 50,000,000 shares of
+               preferred stock, which may consist of one or more series.
+               Cumulative voting of any shares of stock, whether common or
+               preferred, shall be prohibited.
+
+
+                                     F-13
+<PAGE>
+
+                     NATIONAL HEALTH & SAFETY CORPORATION
+                         (A Development Stage Company)
+
+                         NOTES TO FINANCIAL STATEMENTS
+
+                               DECEMBER 31, 2000
+
+
+
+
+
+NOTE 8    SUBSEQUENT EVENTS (CONTINUED)
+
+
+               Series A  Preferred  Stock,  par  value  $.001  ("Series  A");
+               4,000,000 shares authorized;   1,595,264   shares   issued;
+               $1.00 liquidation preference and preference over Series B
+               Preferred Stock,  Common Stock and all other series of stock
+               ranking junior to Series  A.  Each  share  of  Series  A  is
+               convertible, at the option of the holder, into 5 shares of
+               Common  Stock at such times and in such amounts  as  stated  in
+               the Certificate  of  Designation.   The holders of Series A
+               stock are entitled to vote together with the holders of Series
+               B and Common  Stock  and  are  entitled to one vote for each
+               share of Common Stock which would be  held by them if all of
+               their shares of Series A were converted into shares of Common
+               Stock.
+
+               Series B Preferred Stock, par value $.001 ("Series B");  600,000
+               shares authorized and issued; $1.00 liquidation preference  that
+               is  inferior   to  Series A but is preferred to Common Stock and
+               all other series of  stock  ranking  junior  to  Series B.  Each
+               share  of  Series B is convertible at the option of  the  holder
+               into five shares  of  Common  Stock  at  such  times and in such
+               amounts  as  stated  in  the  Certificate  of Designation.   The
+               holders of Series B stock are entitled to vote together with the
+               holders  of Series A and Common Stock and are  entitled  to  one
+               vote for each  share of Common Stock which would be held by them
+               if all of their shares of Series B were converted into shares of
+               Common Stock.
+
+               Warrants, Class  A  and  Class  B,  issued to each holder of the
+               Series A and Series B Preferred Stock. There are 4,000,000 Class
+               A warrants authorized; 2,195,264 Class  A  warrants  issued  and
+               outstanding  that allow the holder to purchase, for the exercise
+               price of $1.00,  expiring  two  years from January 22, 2001, one
+               share  of  Common Stock plus one Class  B  warrant.   There  are
+               4,000,000 Class  B  warrants authorized; entitling the holder to
+               purchase, for an exercise  price  of $1.50, expiring three years
+               from January 22, 2001, one share of Common Stock.
+
+               All shares of stock, warrants and other Interests in the Company
+               other than the common stock of the  Company  was cancelled as of
+               January 22, 2001.
+
+                                      F-14
+</TEXT>
+</DOCUMENT>

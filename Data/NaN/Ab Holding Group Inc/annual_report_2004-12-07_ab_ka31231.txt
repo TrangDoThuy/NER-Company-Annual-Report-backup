@@ -1,0 +1,446 @@
+<DOCUMENT>
+<TYPE>10-K/A
+<SEQUENCE>1
+<FILENAME>ab_ka31231.txt
+<DESCRIPTION>AMENDED ANNUAL REPORT
+<TEXT>
+================================================================================
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                   FORM 10-K/A
+                                (AMENDMENT NO. 2)
+              ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+FOR THE FISCAL YEAR ENDED DECEMBER 31, 2003     COMMISSION FILE NUMBER:  0-18259
+
+                          AG-BAG INTERNATIONAL LIMITED
+             (Exact name of registrant as specified in its charter)
+
+           DELAWARE                                           93-1143627
+(State or other jurisdiction of                         (I.R.S. Employer
+incorporation or organization)                               Identification No.)
+
+             2320 SE AG-BAG LANE
+              WARRENTON, OREGON                                         97146
+  (Address of principal executive offices)                           (Zip Code)
+
+       REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE: (503) 861-1644
+
+           SECURITIES REGISTERED PURSUANT TO SECTION 12(B) OF THE ACT:
+
+                                      None
+
+           SECURITIES REGISTERED PURSUANT TO SECTION 12(G) OF THE ACT:
+
+                     Common Stock, par value $.01 per share
+                                (Title of Class)
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+                                           Yes      |X|     No  _
+                                                    ---
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. _
+
+     Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Exchange Act Rule 12b-2)
+                                           Yes       _     No  |X|
+                                                               ---
+
+     State the aggregate market value of the voting and non-voting equity held
+by non-affiliates computed by reference to the price at which the common equity
+was last sold, or the average bid and asked price of such common equity, as of
+the last business day of the registrant's most recently completed second fiscal
+quarter: $1,717,292.
+
+     The registrant has one class of Common Stock with 11,956,991 shares
+outstanding as of March 15, 2004.
+
+================================================================================
+<PAGE>
+
+
+
+                                EXPLANATORY NOTE
+
+This amendment is being filed to include the signatures on the Independent
+Auditor's Report and Independent Auditor's Report on Supplementary Information
+as part of Part II, Item 8 of Form 10-K. These signatures were accidentally
+omitted in pages F-1 and F-29, respectively, in the original filing.
+<PAGE>
+                          INDEPENDENT AUDITOR'S REPORT
+
+
+To the Board of Directors and Shareholders
+Ag-Bag International Limited
+
+
+We have audited the accompanying balance sheets of Ag-Bag International Limited
+as of December 31, 2003 and 2002, and the related statements of operations and
+comprehensive loss, changes in shareholders' equity, and cash flows for each of
+the years in the three-year period ended December 31, 2003. These financial
+statements are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+
+We conducted our audits in accordance with auditing standards generally accepted
+in the United States of America. These standards require that we plan and
+perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of Ag-Bag International Limited as
+of December 31, 2003 and 2002, and the results of its operations and its cash
+flows for each of the years in the three-year period ended December 31, 2003, in
+conformity with accounting principles generally accepted in the United States of
+America.
+
+The accompanying financial statements have been prepared assuming that the
+Company will continue as a going concern. As discussed in Note 2 to the
+financial statements, the Company has suffered recurring losses from operations,
+has a retained deficit, negative cash flows from operations and is out of
+compliance with its bank covenants, which raise substantial doubt about its
+ability to continue as a going concern. Management's plans regarding those
+matters also are described in Note 2. The financial statements do not include
+any adjustments that might result from the outcome of this uncertainty.
+
+
+/s/ Moss Adams LLP
+------------------
+Medford, Oregon
+February 20, 2004
+
+                                       F-1
+<PAGE>
+            INDEPENDENT AUDITOR'S REPORT ON SUPPLEMENTAL INFORMATION
+
+
+To the Board of Directors and Shareholders
+Ag-Bag International Limited
+
+
+Under date of February 20, 2004, we reported on the balance sheets of Ag-Bag
+International Limited as of December 31, 2003 and 2002, and the related
+statements of income, changes in shareholders' equity, and cash flows for the
+years ended December 31, 2003, 2002, and 2001, as contained in the annual report
+on Form 10-K for the year 2003. In connection with our audits of the
+aforementioned financial statements, we also audited the related schedule of
+Valuation and Qualifying Accounts. This schedule is the responsibility of the
+Company's management. Our responsibility is to express an opinion on the
+financial statement schedule based on our audits.
+
+In our opinion, the schedule of Valuation and Qualifying Accounts, when
+considered in relation to the basic financial statements taken as a whole,
+presents fairly, in all material respects, the information set forth therein.
+
+
+
+/s/ Moss Adams LLP
+------------------
+Medford, Oregon
+February 20, 2004
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      F-29
+<PAGE>
+                                   SIGNATURES
+
+         Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Company has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+                                                 AG-BAG INTERNATIONAL LIMITED,
+                                                 a Delaware corporation
+
+Date: December 7, 2004                           By: \s\ Larry R. Inman
+                                                     ----------------------
+                                                     Larry R. Inman, President
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+                                                                    Exhibit 31.1
+                                  Certification
+
+I, Larry R. Inman, certify that:
+
+1.            I have reviewed this annual report on Form 10-K of Ag-Bag
+              International Limited;
+
+2.            Based on my knowledge, this report does not contain any untrue
+              statement of a material fact or omit to state a material fact
+              necessary to make the statements made, in light of the
+              circumstances under which such statements were made, not
+              misleading with respect to the period covered by this report;
+
+3.            Based on my knowledge, the financial statements, and other
+              financial information included in this report, fairly present in
+              all material respects the financial condition, results of
+              operations and cash flows of the registrant as of, and for, the
+              periods presented in this report;
+
+4.            The registrant's other certifying officer and I are responsible
+              for establishing and maintaining disclosure controls and
+              procedures (as defined in Exchange Act Rules 13a-15(e) and
+              15d-15(e)) for the registrant and have:
+
+a)            designed such disclosure controls and procedures, or caused such
+              disclosure controls and procedures to be designed under our
+              supervision, to ensure that material information relating to the
+              registrant, including its consolidated subsidiaries, is made known
+              to us by others within those entities, particularly during the
+              period in which this report is being prepared;
+b)            evaluated the effectiveness of the registrant's disclosure
+              controls and procedures and presented in this report our
+              conclusions about the effectiveness of the disclosure controls and
+              procedures, as of the end of the period covered by this report
+              based on such evaluation; and
+c)            disclosed in this report any change in the registrant's internal
+              control over financial reporting that occurred during the
+              registrant's most recent fiscal quarter (the registrant's fourth
+              fiscal quarter in the case of an annual report) that has
+              materially affected, or is reasonably likely to materially affect,
+              the registrant's internal control over financial reporting; and
+
+5.            The registrant's other certifying officer and I have disclosed,
+              based on our most recent evaluation of internal control over
+              financial reporting, to the registrant's auditors and the audit
+              committee of registrant's board of directors (or persons
+              performing the equivalent functions):
+a)            all significant deficiencies and material weaknesses in the design
+              or operation of internal controls over financial reporting, which
+              are reasonably likely to adversely affect the registrant's ability
+              to record, process, summarize and report financial information;
+              and
+b)            any fraud, whether or not material, that involves management or
+              other employees who have a significant role in the registrant's
+              internal control over financial reporting.
+
+
+Date: December 7, 2004
+
+/s/Larry R. Inman
+-----------------
+President
+<PAGE>
+                                                                    Exhibit 31.2
+
+                                  Certification
+
+I, Michael R. Wallis, certify that:
+
+
+1.            I have reviewed this annual report on Form 10-K of Ag-Bag
+              International Limited;
+
+2.            Based on my knowledge, this report does not contain any untrue
+              statement of a material fact or omit to state a material fact
+              necessary to make the statements made, in light of the
+              circumstances under which such statements were made, not
+              misleading with respect to the period covered by this report;
+
+3.            Based on my knowledge, the financial statements, and other
+              financial information included in this report, fairly present in
+              all material respects the financial condition, results of
+              operations and cash flows of the registrant as of, and for, the
+              periods presented in this report;
+
+4.            The registrant's other certifying officer and I are responsible
+              for establishing and maintaining disclosure controls and
+              procedures (as defined in Exchange Act Rules 13a-15(e) and
+              15d-15(e)) for the registrant and have:
+
+a)            designed such disclosure controls and procedures, or caused such
+              disclosure controls and procedures to be designed under our
+              supervision, to ensure that material information relating to the
+              registrant, including its consolidated subsidiaries, is made known
+              to us by others within those entities, particularly during the
+              period in which this report is being prepared;
+b)            evaluated the effectiveness of the registrant's disclosure
+              controls and procedures and presented in this report our
+              conclusions about the effectiveness of the disclosure controls and
+              procedures, as of the end of the period covered by this report
+              based on such evaluation; and
+c)            disclosed in this report any change in the registrant's internal
+              control over financial reporting that occurred during the
+              registrant's most recent fiscal quarter (the registrant's fourth
+              fiscal quarter in the case of an annual report) that has
+              materially affected, or is reasonably likely to materially affect,
+              the registrant's internal control over financial reporting; and
+
+5.            The registrant's other certifying officer and I have disclosed,
+              based on our most recent evaluation of internal control over
+              financial reporting, to the registrant's auditors and the audit
+              committee of registrant's board of directors (or persons
+              performing the equivalent functions):
+a)            all significant deficiencies and material weaknesses in the design
+              or operation of internal controls over financial reporting, which
+              are reasonably likely to adversely affect the registrant's ability
+              to record, process, summarize and report financial information;
+              and
+b)            any fraud, whether or not material, that involves management or
+              other employees who have a significant role in the registrant's
+              internal control over financial reporting.
+
+
+Date: December 7, 2004
+
+/s/Michael R. Wallis
+--------------------
+Chief Financial Officer, Treasurer
+and Vice President of Finance
+<PAGE>
+                                                                    Exhibit 32.1
+
+
+                            CERTIFICATION PURSUANT TO
+                             18 U.S.C. SECTION 1350
+                             AS ADOPTED PURSUANT TO
+                  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+
+
+In connection with the Annual Report of Ag-Bag International Limited (the
+"Company") on Form 10-K for the period ended December 31, 2003 as filed with the
+Securities and Exchange Commission on the date hereof (the "Report"), the
+undersigned hereby certifies pursuant to 18 U.S.C. Section 1350, as adopted
+pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to the best of
+my knowledge:
+
+         (1)  The Report fully complies with the requirements of section 13(a)
+              or 15(d) of the Securities Exchange Act of 1934; and
+
+         (2)  The information contained in the Report fairly presents, in all
+              material respects, the financial condition and results of
+              operations of the Company.
+
+
+
+
+December 7, 2004           /s/ Larry R. Inman        President
+                           ------------------
+                           (Larry R. Inman)
+<PAGE>
+                                                                    Exhibit 32.2
+                            CERTIFICATION PURSUANT TO
+                             18 U.S.C. SECTION 1350
+                             AS ADOPTED PURSUANT TO
+                  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+
+
+In connection with the Annual Report of Ag-Bag International Limited (the
+"Company") on Form 10-K for the period ended December 31, 2003 as filed with the
+Securities and Exchange Commission on the date hereof (the "Report"), the
+undersigned hereby certifies pursuant to 18 U.S.C. Section 1350, as adopted
+pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to the best of
+my knowledge:
+
+         (1)  The Report fully complies with the requirements of section 13(a)
+              or 15(d) of the Securities Exchange Act of 1934; and
+
+         (2)  The information contained in the Report fairly presents, in all
+              material respects, the financial condition and results of
+              operations of the Company.
+
+
+
+December 7, 2004            /s/ Michael R. Wallis    Chief Financial Officer,
+                            ---------------------
+                              (Michael R. Wallis)    Vice President of Finance,
+                                                        and Treasurer
+
+</TEXT>
+</DOCUMENT>

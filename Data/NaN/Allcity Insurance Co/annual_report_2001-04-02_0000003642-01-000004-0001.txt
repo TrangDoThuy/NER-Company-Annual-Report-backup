@@ -1,0 +1,3754 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>0001.txt
+<TEXT>
+
+                      SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+                                  FORM 10-K
+[S]
+[x]    ANNUAL REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES
+                      EXCHANGE ACT OF 1934 [FEE REQUIRED]
+                 For the fiscal year ended December 31, 2000
+                                           OR
+[ ]     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+           SECURITIES EXCHANGE ACT OF 1934 [NO FEE REQUIRED]
+[S]
+                    For the transition period from ___to___
+[S]
+                         Commission file number 1-7411
+[S]
+                            ALLCITY INSURANCE COMPANY
+            (Exact name of registrant as specified in its charter)
+[S]
+    New York                           13-2530665
+ (State of incorporation)     (I.R.S. Employer Identification Number)
+
+
+335 Adams Street, Brooklyn, N.Y.                      11201-3731
+(Address of principal executive offices)             (Zip  Code)
+
+Registrant's telephone number, including area code   718-422-4000
+
+Securities registered pursuant to Section 12(b) of the Act:
+                                          Name of each exchange on
+ Title of each class                          which registered
+
+                                          None
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+                                          None
+                                    (Title of Class)
+
+Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be
+contained, to the best of registrant's knowledge, in definitive proxy
+or information statements incorporated by reference in Part III of this
+Form 10-K or any amendment to this Form 10-K. [x]
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period
+that the registrant was required to file such reports), and (2) has been
+subject to such filing requirements for the past 90 days.
+
+Yes      X         No
+
+
+The aggregate market value of the voting stock held by nonaffiliates
+of the registrant as of March 19, 2001 was $3,117,680.
+
+The number of shares outstanding of each of the registrant's
+classes of common shares, as of March 19, 2001, was 7,078,625.
+
+DOCUMENTS INCORPORATED BY REFERENCE - NONE
+Exhibit Index on Page 25.                  Total number of pages 54.
+
+<PAGE>
+<TABLE>
+                                     TABLE OF CONTENTS
+  <S>
+                                          Part I
+
+                  Page
+  <C>         <C>                                                    <C>
+  Item 1-     Business...............................................  1
+  Item 2-     Properties.............................................  9
+  Item 3-     Legal Proceedings......................................  9
+  Item 4-     Submission of Matters to a Vote of Security Holders....  9
+
+                                Part II
+  Item 5-     Market for the Registrant's Common Equity and Related
+                Stockholder Matters.................................. 10
+
+  Item 6-     Selected Financial Data................................ 10
+  Item 7-     Management's Discussion and Analysis of Financial
+                Condition and Results of Operations.................. 12
+  Item 7A-    Quantitative and Qualitative
+               Disclosures about Market Risk......................... 15
+  Item 8-     Financial Statements and Supplementary Data............ 16
+  Item 9-     Changes in and Disagreements with Accountants on
+                Accounting and Financial Disclosure.................. 16
+
+                               Part III
+  Item 10-    Directors and Executive Officers of the Registrant..... 17
+  Item 11-    Executive Compensation................................. 20
+  Item 12-    Security Ownership of Certain Beneficial
+               Owners and Management................................. 21
+
+  Item 13-    Certain Relationships and Related Transactions......... 22
+
+                                Part IV
+  Item 14-    Exhibits, Financial Statement Schedules,
+              and Reports on Form 8-K ............................... 23
+
+  Signatures......................................................... 24
+
+  </TABLE>
+<PAGE>
+
+  PART I
+  Item 1.         Business
+  General
+  Allcity Insurance Company (the "Registrant", "Allcity" or the
+  "Company") is a property and casualty insurer.  Empire
+  Insurance Company ("Empire"), a property and casualty insurer,
+  owns approximately 84.6% of the outstanding common shares of
+  the Company and 100% of the outstanding common shares of
+  Centurion Insurance Company ("Centurion"). Empire's common
+  shares are 100% owned and controlled, through subsidiaries, by
+  Leucadia National Corporation ("Leucadia").  Additionally,
+  Leucadia indirectly owns an additional 6.7% of the outstanding
+  common shares of the Company.  The Company, Empire and
+  Centurion are sometimes hereinafter collectively referred to
+  as the Group.
+
+  Historically, the Group has specialized in commercial and
+  personal property and casualty insurance business primarily in
+  the New York metropolitan area.  The Group has offered
+  insurance products for vehicles (including medallion and
+  radio-controlled livery vehicles), general liability coverage,
+  property coverage (including mercantile and multi-family
+  residential real estate) and workers' compensation to
+  commercial accounts and private passenger automobile and
+  homeowners products to individuals.  The Group is organized
+  into three divisions: the Small Business Division, the
+  Personal Lines Division and the Mid-Market Division.  Each of
+  these divisions has separate management teams responsible for
+  all underwriting decisions with the Small Business Division
+  focusing on commercial package products for small businesses;
+  the Personal Lines Division focusing on personal automobile
+  and homeowners insurance; and the Mid-Market Division focusing
+  on commercial automobile, commercial package and workers'
+  compensation insurance for larger accounts.
+
+  During the past several years, the Group has experienced poor
+  underwriting results and adverse reserve development in all of
+  its lines of business.  The Group has responded to these
+  developments by raising premium rates and reducing the volume
+  of unprofitable business, while at the same time attempting to
+  reduce its overhead.
+
+  Effective January 1, 2000, all assigned risk policy renewal
+  obligations were assigned to another insurance company.  In
+  1999, a determination was made not to accept any applications
+  for new private passenger automobile business from certain
+  agents with the highest loss ratios.  During the fourth
+  quarter of 2000, this determination was extended to include
+  the entire agency force.  Existing policies of private
+  passenger automobile insurance will be either sold,
+  non-renewed or cancelled in accordance with New York insurance
+  law.  If this book of business is not sold, it is expected
+  that the Group will continue to issue renewal policies over
+  the next several years as required by applicable insurance
+  law.  The Group also announced that all statutory automobile
+  policies (public livery vehicles) would be non-renewed
+  effective March 1, 2001 due to poor underwriting results.
+
+  On March 1, 2001, the Group announced that, effective
+  immediately, it would no longer issue any new (as compared to
+  renewal) insurance policies in any lines of business and that
+  it has filed plans of orderly withdrawal with the New York
+  Insurance Department as required.  Existing commercial lines
+  policies will be non-renewed or canceled in accordance with
+  New York insurance law or replaced by Tower Insurance Company
+  of New York or Tower Risk Management (collectively, "Tower")
+  under an agreement for the sale of the Group's renewal rights
+  (the "Tower Agreement").  Under the Tower Agreement, Tower
+  will buy the renewal rights for substantially all of the
+  Group's remaining lines of business, excluding private
+  passenger automobile and commercial automobile/garage, for a
+  fee based on the direct written premium actually renewed by
+  Tower.  The amount of the fee is not expected to be material.
+  The Group will continue to be responsible for the remaining
+  term of existing policies and all claims incurred prior to the
+  expiration of these policies.  For commercial lines, the Group
+  will thereafter have no renewal obligations for those
+  policies.  Under New York insurance law, the Group is
+  obligated to offer renewals of homeowners, dwelling fire,
+  personal insurance coverage and personal umbrella for a
+  three-year policy period; however, the Tower Agreement
+  provides that Tower must offer replacements for these
+  policies.  The closing of the transaction is subject to the
+  approval of the New York Insurance Department.
+
+  Certain of the lines of business included in the agreement
+  with Tower historically had acceptable loss ratios.  However,
+  despite repeated attempts, the Group has not been able to
+  reduce its expenses sufficiently to be profitable with its
+  reduced volume of business.  This has been due in part to
+  information systems and a personnel infrastructure built to
+  service multiple lines of property and casualty business where
+  the costs are more fixed than variable in nature, and a high
+  cost agency distribution channel.  An additional investment of
+  both capital and management would have been required to
+  attempt to reduce the Group's cost structure to a level
+  commensurate with its book of business.  In weighing the
+  potential returns against the risks inherent in that strategy,
+  the Group determined not to make the investment.
+
+<PAGE>
+
+  The Group is currently exploring its options for the future.
+  Assuming the Tower Agreement is consummated, the Group will
+  only have renewal obligations for remaining personal lines
+  insurance (primarily automobile) not replaced by Tower, the
+  remaining policy term of all existing policies and a claim
+  run-off operation.  The Group may commence new property and
+  casualty insurance operations if a new business model with an
+  acceptable expense structure can be developed, enter into a
+  joint venture with another property and casualty insurance
+  operation, explore entering the claim services business or
+  commence a liquidation.  There may be other options that the
+  Company will explore, but no assurance can be given at this
+  time as to what the ultimate plan will be.
+
+  The Group is rated "B+" (very good) by A.M. Best Company
+  ("Best") and rated "BB-" (marginal) by Standards & Poors
+  Insurance Rating Services ("S&P").  Should the Group decide to
+  commence new property and casualty insurance operations or
+  enter into an insurance joint venture, its existing ratings
+  may affect its ability to pursue its plans.  As with all
+  ratings, Best and S&P ratings are subject to change at any
+  time.
+
+  For the years ended December 31, 2000, 1999 and 1998 net
+  earned premiums for the Company were $30.9 million, $42.4
+  million and $67.5 million, respectively. During the year ended
+  December 31, 2000, 4% of net earned premiums of the Company
+  were derived from assigned risk business, 21% from commercial
+  automobile lines, 40% from other commercial lines and 35% from
+  personal lines.  Substantially all of the Group's policies are
+  written in New York for a one-year period.  The Group is
+  licensed in New York to write most lines of insurance that may
+  be written by a property and casualty insurer.  Empire is also
+  licensed to write insurance in Connecticut, Massachusetts,
+  Missouri, New Hampshire and New Jersey.
+
+  On a quarterly basis, the Group reviews and adjusts its
+  estimated loss reserves for any changes in trends and actual
+  loss experience.  Included in the Company's results for 2000
+  was approximately $15.9 million related to losses and loss
+  adjustment expenses ("LAE") from prior accident years. The
+  Group will continue to evaluate the adequacy of its loss
+  reserves and record future adjustments to its loss reserves as
+  appropriate.
+
+
+Pooling Agreement
+
+  All insurance business written by the Company is subject to a
+  pooling agreement with Empire under which the Company and Empire
+  effectively operate as one company. The pooling agreement and
+  subsequent amendments were approved by the New York Insurance
+  Department.  The Company operates under the same general management
+  as Empire and has full use of Empire's personnel, information
+  technology systems and facilities.  As of December 31, 2000, Empire
+  and its subsidiaries had 335 full and part-time employees.
+  Currently, and for all periods presented, all premiums, losses, LAE
+  and other underwriting expenses are shared on the basis of 70% to
+  Empire and 30% to the Company.
+
+  Financial Information Relating to Business Segments
+
+  For all periods presented, the Company's operations are presented
+  in the following business segments:
+
+  (1)     Small Business - includes commercial package products
+  for small businesses.
+  (2)     Mid-Market - includes commercial automobile (including
+  medallion and radio-controlled livery vehicles), commercial
+  package and workers' compensation insurance for larger
+  accounts.
+  (3)     Personal Lines - includes private passenger
+  automobile, homeowners and fire and allied insurance
+  coverages.
+
+<PAGE>
+
+
+<TABLE>
+The following table presents business segment data, net of reinsurance, for each of
+the three years ended December 31, 2000 (in thousands, except loss ratio information):
+<CAPTION>
+
+                      Premiums       Premiums          Losses and LAE          Loss
+                       Written         Earned             Incurred             Ratio
+<S>                    <C>            <C>                  <C>                <C>
+2000
+
+Personal Lines (1)     $  9,647       $ 12,099             $ 17,862            147.6%
+Mid-Market               13,994         13,152               22,001            167.3%
+Small Business            5,443          5,604                3,944             70.4%
+Total                  $ 29,084       $ 30,855             $ 43,807            141.9%
+
+
+1999
+
+Personal Lines (1)     $ 15,156       $ 22,404             $ 19,236             85.9%
+Mid-Market               11,679         13,771               19,751            143.4%
+Small Business            5,977          6,273                3,551             56.6%
+Total                  $ 32,812       $ 42,448             $ 42,538            100.2%
+
+
+1998
+
+Personal Lines (1)     $ 29,357       $ 39,251             $ 35,741             91.1%
+Mid-Market               22,162         21,643               27,459            126.9%
+Small Business            6,540          6,618                6,389             96.5%
+Total                  $ 58,059       $ 67,512             $ 69,589            103.1%
+
+
+
+
+
+
+<FN>
+(1) Includes assigned risk automobile business, which the Company no
+longer participates in effective January 1, 2000.
+</TABLE>
+[S]
+For further information concerning Business Segments, see
+Notes 8 and 12 of the Notes to Consolidated Financial Statements,
+included elsewhere herein.
+
+
+  Combined Ratios
+  Set forth below is certain statistical information for the
+  Company prepared in accordance with generally accepted
+  accounting principles ("GAAP") and statutory accounting
+  principles ("SAP"), for the three years ended December 31,
+  2000.  The Loss Ratio is the ratio of net incurred losses and
+  LAE to net premiums earned.  The Expense Ratio is the ratio of
+  underwriting expenses (policy acquisition costs, commissions,
+  and a portion of administrative, general and other expenses
+  attributable to underwriting operations) to net premiums
+  written, if determined in accordance with SAP, or to net
+  premiums earned, if determined in accordance with GAAP.  A
+  Combined Ratio below 100% indicates an underwriting profit and
+  a Combined Ratio above 100% indicates an underwriting loss.
+  The Combined Ratio does not include the effect of investment
+  income.
+<PAGE>
+<TABLE>
+<CAPTION>
+                                               Years Ended December 31,
+
+                                          2000           1999           1998
+                                        <C>            <C>            <C>
+<S>
+Loss Ratio: (a)
+      GAAP                               141.9%         100.2%          103.1%
+      SAP                                141.9%         100.2%          103.1%
+      Industry (SAP) (b)                   N/A           78.8%           76.5%
+
+Expense Ratio:
+      GAAP                                51.2%          39.7%           26.3%
+      SAP                                 50.4%          45.0%           31.3%
+      Industry (SAP) (b)                   N/A           29.3%           29.5%
+
+Combined Ratio:  (c)
+      GAAP                               193.1%         139.9%          129.4%
+      SAP                                192.3%         145.2%          134.4%
+      Industry (SAP) (b)                   N/A          108.1%          106.0%
+
+
+<FN>
+(a) Includes Loss and Loss Adjustment Expenses.
+
+(b) Source: Best's Aggregates & Averages, Property/Casualty, 2000 Edition. Industry
+    Combined Ratios may not be fully comparable as a result of, among other things,
+    differences in geographical concentration and in the mix of property and casualty
+    insurance products.
+
+(c) For 1998, the difference in the accounting treatment for curtailment gains relating
+    to defined benefit pension plans was the principal reason for the difference between
+    the GAAP Combined Ratio and the SAP Combined Ratio.  Additionally, for all three years,
+    the difference relates to the accounting for certain costs which are treated differently
+    under SAP and GAAP.  For further information about the Company's Combined Ratios see
+    Item 7, "Management's Discussion and Analysis of Financial Condition and Results of
+    Operations" of this Report.
+</TABLE>
+
+     [S]
+
+  Reinsurance
+
+  The Company's maximum retained limit for all lines of business
+  was $0.3 million for 2000 and 1999.  The Company's maximum
+  retained limit for 1998 was $0.5 million for workers'
+  compensation and $0.3 million for other property and casualty
+  lines.  Additionally, the Company has entered into a property
+  catastrophe excess of loss treaty to protect against certain
+  losses.  Its retention of lower level losses in this treaty is
+  $7.5 million for 2001, and was $7.5 million for 2000, 1999 and
+  1998.
+
+  Effective January 1, 1997 Empire entered into a quota share
+  reinsurance agreement with its subsidiary, Centurion.  Under
+  this agreement, Empire assumes 50% up to July 1, 1997 and 75%
+  thereafter of the effective period premiums and losses of
+  Centurion and grants Centurion a ceding commission.  Under the
+  pooling agreement, 70% of such business assumed will be
+  retained by Empire and 30% will be ceded to the Company.
+
+  Although reinsurance does not legally discharge an insurer
+  from its primary liability for the full amount of the policy
+  liability, it does make the assuming reinsurer liable to the
+  insurer to the extent of the reinsurance ceded. The Company's
+  reinsurance generally has been placed with certain of the
+  largest reinsurance companies, including (with their
+  respective Best ratings) General Reinsurance Corporation (A++)
+  and Zurich Reinsurance (NA), Inc. (A+).  The Company believes
+  its reinsurers to be financially capable of meeting their
+  respective obligations.  However, to the extent that any
+  reinsuring company is unable to meet its obligations, the
+  Company would be liable for the reinsured risks.  The Company
+  has established reserves, which the Company believes are
+  adequate, for any nonrecoverable reinsurance.
+
+<PAGE>
+
+  Investments
+
+  Investment activities represent a significant part of the
+  Company's total income.  Investments are managed by the
+  Company's investment advisors under the direction of, and upon
+  consultation with, the Company's investment committee.
+
+  The Company has a diversified investment portfolio of
+  securities, a substantial portion of which is rated
+  "investment grade" by established bond rating agencies or
+  issued or guaranteed by the U.S. Treasury or by governmental
+  agencies.  A portion of the Company's invested assets
+  represent an investment in a limited partnership which invests
+  principally in convertible preferred stocks, convertible
+  long-term debt securities, limited partnerships, and common
+  stocks sold, but not yet purchased.  At December 31, 2000,
+  1999 and 1998, the average yield of the Company's bond
+  portfolio was approximately 6.4%, 6.5% and 5.8%, respectively,
+  and the average maturity of the Company's bond portfolio for
+  2000, 1999 and 1998 was approximately 2.2 years, 2.6 years and
+  3.2 years, respectively.
+
+  Tax Sharing Agreement
+
+  The Company has been included in the consolidated federal
+  income tax returns of Leucadia since 1993.  Under the terms of
+  the tax sharing agreement between Leucadia and the Company,
+  the Company computes its tax provision on a separate return
+  basis and is either charged its share of federal income tax
+  resulting from its taxable income or is credited for tax
+  benefits resulting from its losses to the extent it could use
+  the losses on a separate return basis.
+
+  Government Regulation
+
+  Insurance companies are subject to detailed regulation and
+  supervision in the states in which they transact business.
+  Such regulation pertains to matters such as approving policy
+  forms and various premium rates, minimum reserves and loss
+  ratio requirements, the type and amount of investments,
+  minimum capital and surplus requirements, granting and
+  revoking licenses to transact business, levels of operations
+  and regulating trade practices.  Insurance companies are
+  required to file detailed annual reports with the supervising
+  agencies in each of the states in which they do business, and
+  are subject to examination by such agencies at any time.
+  Increased regulation of insurance companies at the state level
+  and new regulation at the federal level is possible, although
+  the Company cannot predict the nature or extent of any such
+  regulation or what impact it would have on the Company's
+  operations.
+
+  For additional information see Item 7, "Management's
+  Discussion and Analysis of Financial Condition and Results of
+  Operations" of this Report.
+
+  In 1998, the National Association of Insurance Commissioners
+  ("NAIC") adopted the Codification of Statutory
+  Accounting Principles ("Codification"), which replaces the
+  current Accounting Practices and Procedures manual as the
+  NAIC's primary guidance on statutory accounting as of January
+  1, 2001. The Codification provides guidance for areas where
+  statutory accounting has been silent and changes current
+  statutory accounting in some areas. The New York Insurance
+  Department recently adopted the Codification guidance
+  (Regulation 172), effective January 1, 2001, but did not adopt
+  several key provisions of the guidance.  The Company will
+  reflect the cumulative effect of the Codification guidance in
+  its statutory financial statements as a direct adjustment to
+  statutory surplus for the quarter ending March 31, 2001, to be
+  filed with the New York Insurance Department by May 15, 2001.
+  The Company is in the process of determining the potential
+  effects of the codification.
+
+  The Group is a member of state insurance funds, which provide
+  certain protection to policyholders of insolvent insurers
+  doing business in those states.  Due to insolvencies of
+  certain insurers, the Group has been assessed certain amounts
+  which have not been material and are likely to be assessed
+  additional amounts by state insurance funds.  The Company
+  believes that it has provided for all anticipated assessments
+  and that any additional assessments will not have a material
+  adverse effect on the Company's financial condition or results
+  of operations.
+
+<PAGE>
+
+  Competition
+
+  The insurance industry is a highly competitive industry, in
+  which many of the Company's competitors have substantially
+  greater financial resources, larger sales forces, more
+  widespread agency and broker relationships, endorsements from
+  affinity groups and more diversified lines of insurance
+  coverage. Additionally, federal administrative, legislative
+  and judicial activity has resulted in changes to federal
+  banking laws that increase the ability of  national banks to
+  offer insurance products.
+
+  The Company believes that property and casualty insurers
+  generally compete on the basis of price, customer service,
+  consumer recognition, product design, product mix and
+  financial stability.  The industry has historically been
+  cyclical in nature, with periods of less intense price
+  competition generating significant profits, followed by
+  periods of increased price competition resulting in reduced
+  profitability or loss.  The current cycle of intense price
+  competition has continued for a longer period than in the
+  past, suggesting that the significant infusion of capital into
+  the industry in recent years, coupled with larger investment
+  returns has been, and may continue to be, a depressing
+  influence on policy rates.  The profitability of the property
+  and casualty insurance industry is affected by many factors,
+  including rate competition, severity and frequency of claims
+  (including catastrophe losses), interest rates, state
+  regulation, court decisions and judicial climate, all of which
+  are outside  the Company's control.
+
+  Loss and Loss Adjustment Expenses
+
+  Liabilities for unpaid losses, which are not discounted
+  (except for certain workers' compensation liabilities), and
+  LAE are determined using case-basis evaluations, statistical
+  analyses and estimates for salvage and subrogation recoverable
+  and represent estimates of the ultimate claim costs of all
+  unpaid losses and LAE.  Liabilities include a provision for
+  losses that have occurred but have not yet been reported.
+  These estimates are subject to the effect of trends in future
+  claim severity and frequency experience.  Adjustments to such
+  estimates are made from time to time due to changes in such
+  trends as well as changes in actual loss experience.  These
+  adjustments are reflected in current earnings.
+
+  The Company relies upon standard actuarial ultimate loss
+  projection techniques to obtain estimates of liabilities for
+  losses and LAE. These projections include the extrapolation of
+  both losses paid and incurred by business line and accident
+  year and implicitly consider the impact of inflation and
+  claims settlement patterns upon ultimate claim costs based
+  upon historical patterns.  In addition, methods based upon
+  average loss costs, reported claim counts and pure premiums
+  are reviewed in order to obtain a range of estimates for
+  setting the reserve levels.  For further input, changes in
+  operations in pertinent areas including underwriting
+  standards, product mix, claims management and legal climate
+  are periodically reviewed.
+
+<TABLE>
+  In the following table, the liability for losses and LAE of
+  the Company, is reconciled for each of the three years ended
+  December 31, 2000.  Included therein are current year data and
+  prior year development.
+
+<PAGE>
+<CAPTION>
+                                     RECONCILIATION OF LIABILITY FOR LOSSES AND LAE
+
+                                               2000          1999          1998
+                                          <C>           <C>           <C>
+(In thousands)
+<S>
+Net SAP liability for losses and LAE,
+at beginning of the year                    $113,602     $ 139,771     $ 145,260
+
+Provision for losses and LAE for
+claims occurring in the current year          27,880        36,524        56,698
+Increase in estimated losses and LAE
+for claims occurring in prior years           15,927         6,014        12,891
+Total incurred losses and LAE                 43,807        42,538        69,589
+
+
+Loss and LAE payments for claims
+occurring during:
+    Current year                               8,920        12,382        19,203
+    Prior years                               52,902        56,325        55,875
+                                              61,822        68,707        75,078
+
+Net SAP liability for losses and LAE,
+at end of year                                95,587       113,602       139,771
+
+Reinsurance recoverable                      172,919       228,334       294,461
+
+Liability for losses and LAE at
+the end of year as reported in
+the financial statements (GAAP)            $ 268,506     $ 341,936     $ 434,232
+</TABLE>
+
+[S]
+  The following table presents the development of balance sheet
+  liabilities for 1990 through 2000 for the Company.  The
+  liability line at the top of the table indicates the estimated
+  liability for unpaid losses and LAE recorded at the balance
+  sheet date for each of the indicated years.  The middle
+  section of the table shows the re-estimated amount of the
+  previously recorded liability based on experience as of the
+  end of each succeeding year.  As more information becomes
+  available and claims are settled, the estimated liabilities
+  are adjusted upward or downward with the effect of decreasing
+  or increasing net income at the time of adjustment. The lower
+  section of the table shows the cumulative amount paid with
+  respect to the previously recorded liability as of the end of
+  each succeeding year
+
+  The "cumulative deficiency" represents the aggregate change in
+  the estimates over all prior years.  For example, the initial
+  1990 liability estimate indicated on the table of $75,420,000
+  has been re-estimated during the course of the succeeding ten
+  years, resulting in a re-estimated liability at December 31,
+  2000 of $85,129,000 or a deficiency of $9,709,000.  If the
+  re-estimated liability were less than the liability initially
+  established, a cumulative redundancy would be indicated.
+
+  In evaluating this information it should be noted that each
+  amount shown for "cumulative deficiency" includes the effects
+  of all changes in amounts for prior periods.  For example, the
+  amount of the deficiency related to losses settled in 1994,
+  but incurred in 1990, will be included in the cumulative
+  deficiency amount for 1990, 1991, 1992 and 1993.  This table
+  is not intended to and does not present accident or policy
+  year loss and LAE development data.  Conditions and trends
+  that have affected development of the liability in the past
+  may not necessarily occur in the future. Accordingly, it would
+  not be appropriate to extrapolate future redundancies or
+  deficiencies based on this table.
+
+  For further discussion of the Company's loss development
+  experience, see Item 7, "Management's Discussion and Analysis
+  of Financial Condition and Results of Operations" of this
+  Report.
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+Analysis of Loss and Loss Adjustment Expenses Development
+(In thousands)
+
+Years ended
+December 31,        1990      1991      1992      1993       1994       1995      1996       1997       1998      1999     2000
+<S>                 <C>      <C>       <C>        <C>       <C>         <C>       <C>        <C>        <C>       <C>      <C>
+
+Liability for Unpaid
+Losses and Loss
+Adjustment Expenses $75,420  $ 84,178  $ 96,712   $106,115   $ 121,923  $142,718  $ 143,494  $ 145,260  $ 139,771 $113,602 $95,587
+
+Liability Re-
+estimated as of:
+ One year later     $74,844  $ 83,987  $ 96,516   $103,181   $ 132,189  $150,852  $ 151,798  $ 158,152  $ 145,785 $129,529 $     -
+ Two years later     73,538    83,341    97,208    112,176     140,620   160,686    163,378    163,609    162,692
+ Three years later   73,151    85,197   103,592    118,127     150,434   172,650    179,200    176,825
+ Four years later    74,190    88,928   108,430    124,375     160,542   182,318    184,693
+ Five years later    76,509    92,035   112,988    132,606     167,164   183,482
+ Six years later     78,392    95,273   118,446    137,669     166,893
+ Seven years later   80,040    99,467   121,715    137,462
+ Eight years later   83,670   101,505   121,383
+ Nine years later    84,981   101,276
+ Ten years later     85,129
+Cumulative
+Deficiency          $(9,709) $(17,098) $(24,671)  $(31,347)  $ (44,970) $(40,764) $ (41,199) $ (31,565) $ (22,921)$(15,927)$     -
+
+Cumulative Amount
+of Liability
+Paid Through:
+ One year later     $23,681  $ 26,852  $  33,903  $  35,048  $  45,789  $ 60,382  $  56,475  $  55,875  $  56,325 $ 52,902 $     -
+ Two years later     38,067    44,989     54,615     59,701     80,911    95,190     94,062     93,714     97,887
+ Three years later   50,194    59,336     71,653     81,680    105,977   121,900    122,811    126,295
+ Four years later    58,830    69,955     85,689     97,917    124,645   141,259    146,697
+ Five years later    65,025    77,965     95,938    109,083    136,791   156,006
+ Six years later     69,568    83,886    102,416    116,929    146,283
+ Seven years later   72,683    88,139    107,246    123,022
+ Eight years later   75,932    91,364    111,097
+ Nine years later    78,103    93,862
+ Ten years later     79,863
+
+Net Liability - End of year as shown above        $ 106,115  $ 121,923  $ 142,718  $ 143,494 $ 145,260  $139,771  $113,602 $ 95,587
+Reinsurance                                         184,718    219,676    257,161    262,593   272,266   294,461   228,334  172,919
+Gross Liability - End of year
+  as shown above                                  $ 290,833  $ 341,599  $ 399,879  $ 406,087 $ 417,526  $434,232  $341,936 $268,506
+
+Net Re-Estimated Liability -
+  Latest                                          $ 137,462  $ 166,893  $ 183,482  $ 184,693 $ 176,825  $162,692  $129,529
+Re-estimated Reinsurance -
+  Latest                                            273,682    325,569    353,635    363,792   341,658   318,663   240,396
+Gross Re-estimated Liability -
+  Latest                                          $ 411,144  $ 492,462  $ 537,117  $ 548,485 $ 518,483  $481,355  $369,925
+
+Gross Cumulative
+ Deficiency                                       $(120,311) $(150,863) $(137,238) $(142,398)$(100,957) $(47,123) $(27,989)
+
+</TABLE>
+<PAGE>
+
+
+  Item 2.         Properties
+
+  The Group has entered into a twenty year lease agreement which
+  expires in 2018, consisting of 286,510 square feet, in an
+  office building located at 335 Adams Street in Brooklyn, New
+  York, in which Leucadia has an equity interest.  The Group
+  received certain incentives from both the City and State of
+  New York in connection with this lease, which will be
+  recognized over the term of the lease.
+
+  Empire has subleased 133,140 square feet of the office space
+  to its parent, Leucadia, at similar terms as in the original
+  lease.  In 2000, Empire subleased an additional 64,340 square
+  feet of the office space to the Board of Education of the City
+  School District of the City of New York.  Both sublease
+  agreements expire in 2018.
+
+  The Group also conducts limited operations from branch offices
+  located in Rochester, New York, Mineola, New York and Boston,
+  Massachusetts.  The rental charged to the Company for these
+  facilities is prorated in accordance with the pooling
+  agreement described in "Pooling Agreement" under Item 1,
+  herein.
+
+  Item 3.         Legal Proceedings
+
+  The Company is party to legal proceedings that are considered
+  to be either ordinary, routine litigation or incidental to its
+  business. Based on discussion with counsel, the Company does
+  not believe that such litigation will have a material effect
+  on its financial position, results of operations or cash
+  flows.
+
+  Item 4.         Submission of Matters to a Vote of Security Holders
+
+  The following matters were submitted to a vote of shareholders
+  at the Company's 2000 Annual Meeting of Shareholders held on
+  October 16, 2000.
+                                  Number of           Number of
+  a) Election of directors:     Shares in favor      Votes Withheld
+  [S]
+  Class I Directors, term expires 2003:
+  [S]
+   Ian M. Cumming                  4,891,588            54,551
+   Thomas E. Mara                  4,891,588            54,551
+   Joseph S. Steinberg             4,891,588            54,551
+   Daniel G. Stewart               4,891,588            54,551
+   Carmen M. Rivera                4,891,588            54,551
+  [S]
+  Class II Director, term expires in 2001:
+  [S]
+   H. E. Scruggs, Jr.              4,891,588            54,551
+  [S]
+  b) No other matter was voted upon at the meeting.
+
+
+  <TABLE>
+<PAGE>
+                               PART II
+  <S>
+  Item 5.    Market for the Registrant's Common Equity and Related
+             Stockholder Matters
+
+  (a) Market Information
+  The Company's common stock trades on The NASDAQ National Stock
+  Market under the symbol "ALCI".  The following table sets
+  forth, for the calendar quarters indicated, the high and low
+  closing trade price per common share as reported by the
+  National Association of Securities Dealers, Inc.
+       <CAPTION>
+                                                High
+  Low
+                                              <C>                 <C>
+  1st Quarter 2001                            $ 7.125             $ 5.031
+  (Through March 19, 2001)
+  1st Quarter 2000                              9.750               5.875
+  2nd    "      "                               9.250               6.875
+  3rd    "      "                              11.500               8.000
+  4th    "      "                               8.000               6.000
+
+  1st Quarter 1999                              8.219               7.000
+  2nd    "      "                               8.750               7.000
+  3rd    "      "                               8.000               6.375
+  4th    "      "                               7.063               6.375
+
+</TABLE>
+  [S]
+  (b) Holders
+  The number of shareholders of record of common shares at
+  December 31, 2000 was 471.
+  [S]
+  (c) Dividends
+  The Company has paid no dividends on its common shares since
+  1975.  The New York Insurance Law prohibits New York domiciled
+  property and casualty companies from paying dividends except
+  out of earned surplus.  Without the approval of the New York
+  Insurance Department, no New York domestic property/ casualty
+  insurer may declare or distribute any dividend to shareholders
+  which, together with any dividends declared or distributed by
+  it during  the preceding twelve months, exceeds the lesser of
+  (1) 10% of surplus  to policyholders as shown by its last
+  statutory annual statement or (2) one hundred percent of
+  adjusted net investment income during such period.  At
+  December 31, 2000, $4,670,000 was available for distribution
+  of dividends.  The Company does not presently anticipate
+  paying dividends in the near future.
+
+<TABLE>
+  Item 6.         Selected Financial Data
+ <S>
+  The following selected financial data have been summarized
+  from the Company's consolidated financial statements and are
+  qualified in their entirety by reference to, and should be
+  read in conjunction with, such consolidated financial
+  statements and Item 7, "Management's Discussion and Analysis
+  of Financial Condition and Results of Operations" of this
+  Report:
+
+                                                  Year ended December 31,
+                                 2000         1999         1998         1997         1996
+                                         (In thousands, except per share amounts)
+<CAPTION>
+                               <C>           <C>         <C>          <C>          <C>
+Total Revenues                 $ 42,303      $55,662     $ 92,070     $102,624     $120,790
+
+Net (Loss)/Income (a)          $(30,800)     $(3,731)    $    504     $    (83)    $  2,634
+
+Basic and Diluted
+(Loss)/Earnings Per share:
+(Loss)/Income(a)               $  (4.35)     $ (0.53)    $   0.07     $  (0.01)    $   0.37
+</TABLE>
+
+<PAGE>
+<TABLE>
+Item 6. Selected Financial Data, continued
+<S>
+  a) Net (loss) income includes net securities (losses)/gains
+  net of applicable tax, as follows (in thousands, except per
+  share amounts):
+<S>
+<CAPTION>
+                                (Losses)/Gains            Per Share
+                                <C>                       <C>
+         <S>
+         2000                   $   (213)                  $(0.03)
+         1999                     (1,084)                   (0.15)
+         1998                      3,951                     0.56
+         1997                       (125)                   (0.02)
+         1996                        735                     0.10
+</TABLE>
+  [S]
+<TABLE>
+                                                     At  December 31,
+                             2000         1999         1998         1997         1996
+                                                      (In thousands)
+<CAPTION>
+                           <C>          <C>          <C>          <C>          <C>
+Total assets               $372,284     $486,020     $605,704     $640,249     $653,730
+Invested assets             163,873      205,246      234,039      271,736      272,992
+
+Surplus note:
+   Face value                 7,000        7,000        7,000        7,000        7,000
+   Accrued Interest           9,486        8,851        8,300        7,710        7,115
+Common Shareholders'
+   Equity(a)                 43,791       71,716       78,200       78,164       75,658
+</TABLE>
+[S]
+<TABLE>
+                                              For the years ended December 31,
+                             2000         1999         1998         1997         1996
+<CAPTION>
+                             <C>          <C>          <C>          <C>          <C>
+GAAP Combined Ratio(b)       193.1%       139.9%       129.4%       119.3%       114.1%
+SAP Combined Ratio (b)       192.3%       145.2%       134.4%       118.6%       107.5%
+Industry SAP Combined
+  Ratio (c)                    N/A        108.1%        106.0%       101.6%       105.8%
+Premium to Surplus
+  Ratio (d)                    0.5x         0.5X         0.8X         1.1X         1.4X
+<S>
+</TABLE>
+  [FN]
+
+  (a) Includes unrealized appreciation of approximately $0.6 million
+  in 2000, $0.5 million in 1998 and $0.9 million in 1997 and
+  unrealized depreciation of approximately $2.3 million in 1999
+  and $1.7 million 1996, all net of tax, on investments
+  classified as available for sale.
+  (b) For 1998, the difference in the accounting treatment for
+  curtailment gains relating to the defined benefit pension
+  plans was the principal reason for the difference between the
+  GAAP Combined Ratio and the SAP Combined Ratio.  For 1996, a
+  change in the statutory accounting treatment for
+  retrospectively rated reinsurance agreements was the principal
+  reason for the difference between the GAAP Combined Ratio and
+  the SAP Combined Ratio. Additionally, for all years presented,
+  the difference relates to the accounting for certain costs,
+  which are treated differently under SAP and GAAP.  For further
+  information about the Company's Combined Ratios, see Item 7,
+  "Management's Discussion and Analysis of Financial Condition
+  and Results of Operations" of this report.
+  (c) Source:  Best's Aggregates & Averages,
+  Property/Casualty, 2000 Edition. Industry Combined Ratios may
+  not be fully comparable as a result of, among other things,
+  differences in geographical concentration and in the mix
+  of property and casualty insurance products.
+  (d) Premium to Surplus Ratio was calculated by dividing annual
+  statutory net premiums written by statutory surplus at the end
+  of the year.
+
+<PAGE>
+
+  Item 7.         Management's Discussion and Analysis of
+          Financial Condition and Results of Operations
+  The purpose of this section is to discuss and analyze the
+  Company's financial condition, liquidity and capital resources
+  and results of operations.  This analysis should be read in
+  conjunction with the financial statements and related notes
+  which appear elsewhere in this Report.
+
+  Liquidity and Capital Resources
+
+  In 2000 and 1999, net cash was used for operations as a result
+  of a decrease in premiums written and the payment of claims.
+  As discussed above, it is currently anticipated the Company's
+  premiums will continue to decline while the Company runs off
+  its claims liabilities.  This is expected to result in a
+  continued net use of the Company's cash for operations over
+  the next several years.
+
+  At December 31, 2000 and 1999 the yield of the Company's fixed
+  maturities portfolio was 6.4% and 6.5%, respectively, with an
+  average maturity of 2.2 years and 2.6 years for 2000 and 1999,
+  respectively.  Additionally, the Company maintains a
+  diversified investment portfolio of securities, of which at
+  December 31, 2000, approximately 66% of the fixed maturities
+  portfolio was invested in issues of the U.S. Treasury and its
+  governmental agencies with the remainder primarily invested in
+  investment grade corporate and industrial issues.
+
+  The Company maintains cash, short-term and readily marketable
+  securities and anticipates that the cash flow from investment
+  income, maturities and sales of short-term investments and
+  fixed maturities will be sufficient to satisfy its anticipated
+  cash needs.  During 2000 and 1999, the Company sold certain
+  securities at a net realized capital loss to meet short-term
+  cash flow needs.  The Company does not presently anticipate
+  paying dividends in the near future and believes it has
+  sufficient capital to meet its currently anticipated level of
+  operations.
+
+  Results of Operations
+
+  Net earned premium revenues of the Company were $30.9 million,
+  $42.4 million and $67.5 million for the years ended December
+  31, 2000, 1999 and 1998, respectively. While earned premiums
+  declined in almost all lines of business during 2000 and 1999,
+  the most significant reductions during 2000 were in assigned
+  risk automobile ($4.4 million) and voluntary private passenger
+  automobile ($4.4 million), and during 1999 were in assigned
+  risk automobile ($7.3 million), voluntary private passenger
+  automobile ($8.1 million) and commercial package policies
+  ($3.7 million).  Effective January 1, 2000, all policy renewal
+  obligations for assigned risk contracts were assigned to
+  another insurance company. However, the Company remains liable
+  for the claim settlement costs for assigned risk claims that
+  occurred during the policy term.  The decline in voluntary
+  private passenger automobile resulted from tighter
+  underwriting standards, increased competition and the
+  Company's decision in 1999 to no longer accept new policies
+  from those agents who historically have had poor underwriting
+  results.  The Company's termination of certain unprofitable
+  agents also adversely affected premium volume in other lines
+  of business.
+
+  During the fourth quarter of 2000, the Group announced that it
+  would no longer accept any new private passenger automobile
+  policies from any agents.  Existing policies of private
+  passenger automobile insurance will be either sold,
+  non-renewed or cancelled in accordance with New York insurance
+  law.  If this book of business is not sold, it is expected
+  that the Group will continue to issue renewal policies over
+  the next several years as required by applicable insurance
+  law.  The Group also announced that all statutory automobile
+  policies (public livery vehicles) would be non-renewed
+  effective March 1, 2001, due to poor underwriting results.
+
+  On March 1, 2001, the Group announced that, effective
+  immediately, it would no longer issue any new (as compared to
+  renewal) insurance policies and that it has filed plans of
+  orderly withdrawal with the New York Insurance Department as
+  required.  Existing commercial lines policies will be
+  non-renewed or canceled in accordance with New York insurance
+  law or replaced by Tower.  The Group will continue to be
+  responsible for the remaining term of its existing policies
+  and all claims incurred prior to the expiration of these
+  policies.  For commercial lines, the Group will thereafter
+  have no renewal obligations for those policies.  Under New
+  York insurance law, the Group is obligated to offer renewals
+  of homeowners, dwelling fire, personal insurance coverage and
+  personal umbrella for a three-year policy period; however, the
+  Tower Agreement provides that Tower must offer replacements
+  for these policies.  The closing of the transaction is subject
+  to the approval of the New York Insurance Department.
+
+<PAGE>
+
+
+  The NAIC has adopted model laws incorporating the concept of a
+  "risk based capital" ("RBC") requirement for insurance companies.
+  Generally, the RBC formula is designed to measure the adequacy
+  of an insurer's statutory capital in relation to the risks
+  inherent in its business.  The RBC formula is used by the
+  states as an early warning tool to identify weakly capitalized
+  companies for the purpose of initiating regulatory action.
+  Although New York State has not adopted the RBC requirements
+  for property and casualty insurance companies, New York does
+  require that property and casualty insurers file the RBC
+  information with the New York Insurance Department ("the
+  Department").  The NAIC also has adopted various ratios for
+  insurance companies which, in addition to the RBC ratio, are
+  designed to serve as a tool to assist state regulators in
+  screening and analyzing the financial condition of insurance
+  companies operating in their respective states. The Company
+  and its parent had certain NAIC ratios outside of the
+  acceptable range of results for the year ended December 31,
+  2000.
+
+  In 2001, the Department completed its fieldwork for its
+  triennial examination of the statutory-basis financial
+  statements of the Company and its parent as of December 31,
+  1999 but has not as yet issued its report.  However, the
+  Department has verbally informed the Company that its estimate
+  of the Company's required loss and loss adjustment expense
+  reserves as of December 31, 1999 was higher than the amount
+  recorded by the Company.  The Department's estimate of loss
+  and loss adjustment expense reserves for accident years 1999
+  and prior is approximately $15,000,000 higher than the
+  Company's recorded reserves for such accident years as of
+  December 31, 2000.  The Company and its parent are currently
+  discussing the results of the Department's reserve study with
+  them, and are working to reconcile the differences between the
+  two estimates.  Based on the Company's and its parent's recent
+  discussions with the Department, and their decision to file
+  plans of orderly withdrawal from all lines of business, as
+  previously described, the Company believes that no material
+  adverse action will be taken by the Department at this time.
+  However, no assurance can be given that the Company and its
+  parent will not be required to increase their reserves or that
+  the Department will not take materially adverse regulatory
+  action in the future.
+
+  The Group is currently exploring its options for the future.
+  Assuming the Tower Agreement is consummated, the Group will
+  only have renewal obligations for remaining personal lines
+  insurance (primarily automobile) not replaced by Tower, the
+  remaining policy term of all existing policies and a claim
+  run-off operation.  The Group may commence new property and
+  casualty insurance operations if a new business model with an
+  acceptable expense structure can be developed, enter into a
+  joint venture with another property and casualty insurance
+  operation, explore entering the claim services business or
+  commence a liquidation.  There may be other options that the
+  Company will explore, but no assurance can be given at this
+  time as to what the ultimate plan will be.
+
+
+<TABLE>
+The Company's combined ratios as determined under GAAP and SAP were as
+follows:
+<CAPTION>
+                                  Years Ended December 31,
+				  2000             1999              1998
+      <S>                <C>              <C>               <C>
+      GAAP               193.1%           139.9%            129.4%
+      SAP                192.3%           145.2%            134.4%
+</TABLE>
+
+  [S]
+  The Company's combined ratios increased in 2000 primarily due
+  to unfavorable loss reserve development from prior accident
+  years, increased loss adjustment expenses for newly outsourced
+  claims and adverse development in loss adjustment expenses.
+  In addition, these ratios increased due to reduced service
+  fees, higher 2000 accident year loss ratios, higher severance
+  costs and overhead costs which, although lower, have not
+  declined commensurate with the reduced premium volume.  The
+  Company's combined ratios increased in 1999 primarily due to
+  the reduction in premium volume at a rate greater than the
+  reduction in net underwriting and other costs.  In addition,
+  in 1999, the expense ratios were adversely affected by the
+  reduction in service fees, increased expenditures related to
+  the installation of new information systems, providing
+  Internet access to agents and severance costs.  Included in
+  the Company's results for 2000, 1999 and 1998 were $15.9
+  million $6.0 million and $12.9 million respectively, for
+  increases in estimated losses and loss adjustment expenses for
+  prior accident years.
+
+  During 2000, the Company experienced unfavorable development
+  principally in the 1996 through 1999 accident years in the
+  private passenger automobile line ($2.8 million), the
+  commercial automobile line ($1.9 million), the assigned risk
+  automobile line ($1.4 million) and the commercial package
+  policies line ($4.5 million). In addition, the Company
+  increased its estimate for loss adjustment expenses by $3.3
+  million as a result of the decision to outsource a significant
+  amount of claim handling functions in 2000.  Claim files for
+  workers' compensation, automobile no-fault and automobile and
+  other liability claims were outsourced at a cost greater than
+  the reserves previously recorded to handle the claims
+  internally.  The Group has outsourced almost two-thirds of its
+  claims.  Currently, the Group is primarily handling complex
+  claims, first party claims and certain automobile liability
+  and general liability claims internally.  Complex claims
+  generally consist of those that have potentially large
+  settlement exposure and are not expected to settle quickly.
+  The Company has also increased its reserve estimate for claims
+  handled internally.
+
+  During 1999, the Company experienced unfavorable development
+  due to an increase in severity of 1998 accident year losses in
+  the assigned risk automobile and voluntary private passenger
+  automobile lines, and 1996 accident year losses in certain
+  classes of the commercial automobile line.  As a result, the
+  Company increased its reserves by $2.2 million for assigned
+  risk automobile, $1.5 million for voluntary private passenger
+  automobile and $1.4 million for commercial automobile lines.
+
+  During 1998, the Company reviewed the adequacy of the reserves
+  carried for its open claims' files, focusing on workers'
+  compensation, commercial auto and other commercial liability
+  lines of business.  As part of the review, substantially all
+  open workers' compensation claim files were reviewed for every
+  accident year up to and including 1998. Additionally, during
+  1998, the Group reorganized the commercial auto claims
+  department.  As part of this realignment, more complex claims
+  files were reviewed by the most experienced claims examiners
+  and assumptions regarding average claims severity and probable
+  ultimate losses were revised.  Accordingly, reserves were
+  strengthened by $3.9 million for workers' compensation, $4.2
+  million for commercial automobile and $4.2 million for other
+  commercial liability lines of business.
+
+  As a consequence of its reserve increases, the Company has
+  reduced premiums and pre-tax profits to recognize reinsurance
+  premiums due for 1995 and prior years under retrospectively
+  rated reinsurance agreements.  Such amounts totaled $1.4
+  million, $1.4 million and $0.6 million  for the years ended
+  December 31, 2000, 1999 and 1998, respectively.  The Company
+  has not entered into retrospectively rated reinsurance
+  agreements after 1995.
+
+<PAGE>
+
+  For all lines of property and casualty insurance business, the
+  Company employs a variety of standard actuarial ultimate loss
+  projection techniques, statistical analyses and case-basis
+  evaluations to estimate its liability for unpaid losses.  The
+  actuarial projections include an extrapolation of both losses
+  paid and incurred by business line and accident year and
+  implicitly consider the impact of inflation and claims
+  settlement patterns upon ultimate claim costs based upon
+  historical patterns.  These estimates are performed quarterly
+  and consider any changes in trends and actual loss experience.
+   Any resulting change in the estimate of the liability for
+  unpaid losses, including those discussed above, is reflected
+  in current year earnings during the quarter the change in
+  estimate is identified.
+
+  The reserving process relies on the basic assumption that past
+  experience is an appropriate basis for predicting future
+  events.  The probable effects of current developments, trends
+  and other relevant matters are also considered.  Since the
+  establishment of loss reserves is affected by many factors,
+  some of which are outside the Company's control or are
+  affected by future conditions, reserving for property and
+  casualty claims is a complex and uncertain process requiring
+  the use of informed estimates and judgments.  As additional
+  experience and other data become available and are reviewed,
+  the Company's estimates and judgments may be revised.  While
+  the effect of any such changes in estimates could be material
+  to future results of operations, the Company does not expect
+  such changes to have a material effect on its liquidity or
+  financial condition.
+
+  In management's judgment, information currently available has
+  been appropriately considered in estimating the Company's loss
+  reserves.  The Company will continue to evaluate the adequacy
+  of its loss reserves on a quarterly basis, incorporating any
+  future changes in trends and actual loss experience, and
+  record adjustments to its loss reserves as appropriate.
+
+  Investment income has decreased by approximately $1.0 million
+  or 8.2% in 2000 and decreased by approximately $2.1 million,
+  or 14.2% in 1999, primarily as a result of lower invested
+  assets due to claim payments and a decrease in premiums
+  written.  During 2000 and 1999, the Company had realized
+  capital losses of $0.2 million and $1.7 million, respectively,
+  principally due to the sale of fixed maturities to satisfy
+  operating cash needs.  During 1998, the Company recorded $6.1
+  million in realized capital gains principally on the sale of
+  fixed maturities, primarily U.S. Treasury Notes.
+
+  The combination of other underwriting expenses incurred and
+  the amortization of deferred policy acquisition costs
+  reflected a decrease of $3.1 million or 16.4% in 2000 and
+  approximately $2.2 million or 10.5% in 1999. The decrease in
+  both 2000 and 1999 primarily related to the decline in premium
+  revenue coupled with a reduction in operating expenses.  1998
+  included increased expenses relating to the move of the
+  Company's executive and administrative offices to Brooklyn,
+  New York and higher underwriting costs offset in part by a
+  $2.0 million pension curtailment gain.
+
+  Due to the uncertainty of future taxable income necessary for
+  realization of the deferred tax asset, a valuation allowance
+  has been provided as of December 31, 2000 on the total amount
+  of the deferred tax asset.
+
+  Impact of Inflation
+
+  The Company, as well as the property and casualty insurance
+  industry in general, is affected by inflation.  With respect
+  to losses, the Company's claim severity is affected by the
+  impact of inflation on the cost of automobile repair parts,
+  medical costs  and  lost  wages.  The  costs  of  adjusting
+  claims  and  other  underwriting  expenses  have  also  been
+  affected by inflationary  pressures  on  salaries  and
+  employee  benefits.  The Company receives rate increases based
+  in part upon its experience  as  well  as the industry's
+  experience.  Accordingly, premium increases generally follow
+  the rate of inflation.
+
+  Cautionary Statement for Forward-Looking Information
+
+  Statements included in this Report may contain forward-looking
+  statements pursuant to the safe-harbor provisions of the
+  Private Securities Litigation Reform Act of 1995.  Such
+  forward-looking statements may relate, but are not limited, to
+  projections of revenues, income or loss, capital expenditures,
+  fluctuations in insurance reserves, plans for growth and
+  future operations, competition and regulation as well  as
+  assumptions relating to the foregoing.  Forward-looking
+  statements are inherently subject to risks and uncertainties,
+  many of which cannot be predicted or quantified.  When used in
+  this Report, the words "estimates", "expects", "anticipates",
+  "believes", "plans", "intends" and variations of such words
+  and similar expressions are intended to identify
+  forward-looking statements that involve risks and
+  uncertainties.  Future events and actual results could differ
+  materially from those set forth in, contemplated by or
+  underlying the forward-looking statements.  The factors that
+  could cause actual results to differ materially from those
+  suggested by any such statements include, but are not limited
+  to, those discussed or identified from time to time in the
+  Company's public filings, including general economic and
+  market conditions, changes in  domestic laws, regulations and
+  taxes, changes in competition and pricing environments,
+  regional or general changes in asset valuation, the occurrence
+  of significant natural disasters, the inability to reinsure
+  certain risks economically, the adequacy of loss reserves,
+  prevailing interest rate levels, weather related conditions
+  that may affect the Company's operations, consummation of the
+  Tower Agreement, the ability to attract and retain key
+  personnel, adverse selection through renewals of the Group's
+  policies, the Group's ability to develop an alternative
+  business model and changes in composition of the Company's
+  assets and liabilities through acquisitions or divestitures.
+  Undue reliance should not be placed on these forward-looking
+  statements, which are applicable only as of the date hereof.
+  The Company undertakes no obligation to revise or update these
+  forward-looking statements to reflect events or circumstances
+  that arise after the date of this Report or to reflect the
+  occurrence of unanticipated events.
+
+<PAGE>
+
+  Item 7A.   Quantitative and Qualitative Disclosures about Market
+  Risk
+
+  The following includes "forward-looking statements" that
+  involve risks and uncertainties.  Actual results could differ
+  materially from those projected in the forward-looking
+  statements.
+
+  The Company's market risk arises principally from interest
+  rate risk related to its investment portfolio.  The Company
+  does not enter into material derivative financial instrument
+  transactions.
+
+  The Company's investment portfolio is primarily classified as
+  available for sale, and consequently, is recorded on the
+  balance sheet at fair value with unrealized gains and losses
+  reflected in shareholders' equity.  Included in the Company's
+  investment portfolio are fixed income securities, which
+  comprised approximately 77.1% of the Company's total
+  investment portfolio at December 31, 2000.  These fixed income
+  securities are primarily rated "investment grade" or are U.S.
+  governmental agency issued or guaranteed obligations, although
+  limited investments in "non-rated" or rated less than
+  investment grade securities have been made from time to time.
+  The estimated weighted average remaining life of these fixed
+  income securities was approximately 2.2 years at December 31,
+  2000.  The Company's fixed income securities, like all fixed
+  income instruments, are subject to interest rate risk and will
+  fall in value if market interest rates increase.  At December
+  31, 1999, fixed income securities comprised approximately 80%
+  of the Company's investment portfolio and had an estimated
+  weighted average remaining life of 2.6 years.  A portion of
+  the Company's invested assets represent an investment in a
+  limited partnership which invests principally in convertible
+  preferred stocks, convertible long-term debt securities,
+  limited partnerships, and common stocks sold, but not yet
+  purchased. Expected maturities will differ from contractual
+  maturities because the borrowers may have the right to call or
+  prepay obligations with or without call or prepayment
+  penalties.  The Company manages the investment portfolio to
+  preserve principal, maintain a high level of quality, comply
+  with applicable insurance industry regulations and achieve an
+  acceptable rate of return.  In addition, the Company considers
+  the duration of its insurance reserves in comparison with that
+  of its investments.
+
+     <TABLE>
+  The following table provides information about the Company's
+  fixed income securities.  The table presents principal cash
+  flows by expected maturity dates.
+<S>
+Expected Maturity Date
+<S>
+                                    2001    2002     2003     2004     2005     Thereafter   Total    Fair Value
+                                                   (Dollars in thousands)
+<CAPTION>
+                                  <C>      <C>      <C>      <C>      <C>        <C>        <C>       <C>
+<S>
+Rate Sensitive Assets:
+Available for Sale Fixed
+   Income Securities:
+U.S. Government                   $30,494  $44,425  $   328       -         -    $10,266    $85,513   $85,513
+ Weighted Average Interest Rate      5.58%    6.38%    7.88%      -         -       6.80%        -         -
+Other Fixed Maturities:
+Rated Investment Grade            $ 3,558  $ 3,291  $10,202  $10,500   $12,724   $    -     $40,275   $40,275
+  Weighted Average Interest Rate     6.87%    6.61%    6.72%    6.69%     6.80%       -          -         -
+Rated Less Than Investment
+ Grade/Not Rated                       -        -        -   $    50   $    25        -     $    75   $    75
+ Weighted Average Interest Rate        -        -        -      5.50%     5.50%       -          -         -
+
+Held to Maturity Fixed Income
+  Securities:
+U.S. Government                        -        -   $   483        -         -        -     $   483   $   483
+ Weighted Average Interest Rate        -        -      6.38%       -         -        -          -         -
+</TABLE>
+
+[S]
+  Item 8.   Financial Statements and Supplementary Data
+
+ See page F1.
+
+  Item 9. Changes in and Disagreements with Accountants on Accounting
+          and Financial Disclosure
+  NONE
+
+<PAGE>
+  PART III
+  Item 10. Directors and Executive Officers of the Registrant
+  Pursuant to the Company's Charter and By-Laws, the Board of
+  Directors of the Company consists of 14 members divided into
+  three classes: Class I, Class II and Class III.  Class I and
+  Class III consists of five directors and Class II consists of
+  four directors.  Robert V. Toppi resigned from the Boards of
+  the Group in September 2000 and was replaced by H.E. Scruggs,
+  Jr. in September 2000.  Carmen M. Rivera resigned from the
+  Boards of the Group in January 2001 and was replaced by Rocco
+  J. Nittoli in March 2001.  Christopher J. Gruttemeyer was made
+  a Class III director of the Group in March 2001.  One class of
+  directors is elected in each year for a three-year term.  All
+  of the directors of the Company are also directors of Empire
+  and Centurion.
+    <TABLE>
+                                    <C>
+<S>
+Name, Age and Position              Principal Occupation, Office
+     with Company                      and Term of Office
+
+H. E.  Scruggs, Jr., 44,            Principal Occupation - President, and Chief Executive
+Director, President and Chief       Officer of the Company and Empire since
+Executive Officer                   September 2000.  Chairman and Chief Executive Officer
+                                    of American Investment Bank, a Leucadia subsidiary,
+                                    since 1997 and Vice President of Leucadia since March
+                                    2000; Director of MK Gold Company ("MK Gold") (an
+                                    international precious metals mining company) since
+                                    March 2001. Member of the Utah Bar; Previously Vice
+                                    President of American Investment Bank from June 1995
+                                    to February 1997; Professor of political science at
+                                    Brigham Young University from 1991 to 1995; Chief of
+                                    Staff to the Governor of Utah from 1985 to 1991.
+                                    Class II Director since September 2000; current term
+                                    expires 2001.
+
+Martin B. Bernstein, 67,            Principal Occupation - President and
+Director                            Director of Ponderosa Fibres of America, Inc.
+                                    (a pulp manufacturer for paper producers).
+                                    Class II Director since February 1988; current term
+                                    expires 2001.
+
+Ian M. Cumming, 60,                 Principal Occupation - Presently and since June 1978,
+Director                            Chairman of the Board and a Director of Leucadia.
+                                    Director of Skywest, Inc. (a Utah-based
+                                    regional air carrier) since June 1986.
+                                    Director of MK Gold since June 1995.
+                                    Director of HomeFed Corporation ("HomeFed"),
+                                    (a California real estate developer) since May 1999.
+                                    Class I Director since February 1988; current
+                                    term expires 2003.
+
+James E. Jordan, 57,                Principal Occupation - Private Investor.
+Director                            Previously, President of  The William Penn Corporation
+                                    from 1986 until 1997. Director of First Eagle SoGen
+                                    Mutual Funds and JZ Equity Partners PLC (a British
+                                    investment trust company).
+                                    Class III Director since 1997; current term
+                                    expires 2002.
+
+Thomas E. Mara, 55,                 Principal Occupation - Presently and
+Director                            since May 1980, Executive Vice President of Leucadia
+                                    and Treasurer of Leucadia since January 1993.
+                                    Class I Director since October 1994; current
+                                    term expires 2003.
+
+
+
+
+<PAGE>
+Name, Age and Position              Principal Occupation, Office
+   with Company                      and Term of Office
+
+<S>
+Louis V. Siracusano, 54,            Principal Occupation - Attorney with
+Director                            McKenna, Fehringer, Siracusano &
+                                    Chianese (a law firm) for over eight years.
+                                    Class II Director since 1985; current term
+                                    expires 2001.
+
+Joseph A. Orlando, 45,              Principal Occupation - Chief Financial Officer
+Director                            of Leucadia since April 1996 and Vice President
+                                    of Leucadia since January 1994.
+                                    Class III Director  since 1998; current term
+                                    expires 2002.
+
+Joseph S. Steinberg, 57,            Principal Occupation - President of Leucadia
+Director, Chairman of the Board     since January 1979 and Director of Leucadia since
+                                    December 1978.  Director of MK Gold since June
+                                    1995. Director of Jordan Industries, Inc., (a
+                                    holding company principally engaged in
+                                    manufacturing) since June 1988.  Director of
+                                    HomeFed  since August 1998.
+                                    Class I Director since February 1988;
+                                    current term expires 2003.
+
+Daniel G. Stewart, 82,              Principal Occupation - Independent
+Director                            consulting actuary. Previously, Senior Vice
+                                    President of Mutual Benefit Life Insurance
+                                    Company from 1985 to November 1991.
+                                    Class I Director since 1980; current term
+                                    expires 2003.
+
+Lucius Theus, 78,                   Principal Occupation - President, The U.S.
+Director                            Associates (consultants in civic affairs, human
+                                    resources and business management) since 1989.
+                                    Principal and Director of the Wellness Group, Inc.
+                                    (a provider of health promotion programs) since 1989
+                                    Corporate Director, Civic Affairs of Allied
+                                    Corporation (a diversified industrial company) since
+                                    1979.
+                                    Class II Director since 1980; current term
+                                    expires 2001.
+
+Rocco J. Nittoli, 42,               Principal Occupation -Chief Operating Officer
+Director, Chief Operating           of the Company and Empire since February 2001,
+Officer                             Senior Vice President & Chief Information Officer of
+                                    the Company and Empire from January 2000 to February 2001.
+                                    Vice President and Controller from September 1997 to
+                                    January 2000.  Previously, Controller of Aegis Insurance
+                                    Services, Inc. from October 1995 to September 1997.
+                                    Class I Director since March 2001, current term
+                                    expires 2003.
+
+Harry H. Wise, 62	                  Principal Occupation - President and
+Director                            Director, H.W. Associates, Inc. (an investment
+                                    advisory firm). President and Director, Madison
+                                    Equity Capital Corp. (a sponsor of private investment
+                                    partnerships).
+                                    Class III Director since 1988; current term expires 2002.
+
+
+
+
+
+
+<PAGE>
+Name, Age and Position              Principal Occupation, Office
+   with Company                      and Term of Office
+
+<S>
+Francis M. Colalucci, 56,           Principal Occupation - Executive Vice President,
+Director, Executive Vice            Chief Financial Officer and Treasurer of the
+President, Chief Financial          Company and Empire since March 1999.
+Officer and Treasurer               Senior Vice President, Chief Financial Officer and
+                                    Treasurer since January 1996.  Previously, Vice
+                                    President & Corporate Treasurer of Continental
+                                    Corporation (an insurance holding Company) from 1991
+                                    to January 1996.
+                                    Class III Director since October 1996; Current term
+                                    expires in 2002.
+
+Christopher J. Gruttemeyer, 35,     Principal Occupation - Vice President for the Company
+Director, Vice President            and Empire since December 2000.  Assistant Vice President
+                                    from September 1999 to December 2000.  Senior Financial
+                                    Analyst from December 1996 to September 1999. Internal
+                                    Auditor from September 1994 to December 1996. Previously,
+                                    Senior Accountant at Campos & Stratis, (a public accounting
+                                    firm) from March 1991 to September 1994.
+                                    Class III Director since March 2001; current term
+                                    expires in 2002.
+
+Robert F. Boyle, 47,                Principal Occupation - Senior Vice President, Mid-Market
+Senior Vice President               Division of the Company and Empire since March 1998. Vice
+                                    President, Underwriting from January 1997 to March 1998.
+                                    Previously,  Northeast Regional Commercial Underwriting
+                                    Manager at Allstate Insurance Company from March 1988 to
+                                    January 1997.
+
+Edward A. Hayes, 49,                Principal Occupation - Senior Vice President,
+Senior Vice President               Claims for the Company and Empire since November 1999.
+                                    Previously, attorney with Hawkins, Feretic, Daly, Maroney &
+                                    Hayes (a law firm) from May 1997 to November 1999.  Vice
+                                    President at Travelers Property Casualty Corporation from
+                                    February 1996 to May 1997. Attorney of  Record and Managing
+                                    Attorney of Aetna Casualty & Surety Company's Staff Counsel
+                                    Office in New York City from July 1988 to February 1996.
+
+
+
+
+
+</TABLE>
+
+
+
+
+     <PAGE>
+     <TABLE>
+Item 11.	Executive Compensation
+
+
+Summary Compensation Table
+  The following table sets forth certain compensation
+  information for H.E. Scruggs, Jr. currently the President and
+  Chief Executive Officer ("CEO") of  the Company and Robert V.
+  Toppi who was previously President and  CEO of the Company,
+  the only executive officers whose compensation paid, or
+  accrued for, under the pooling arrangement exceeded $100,000
+  for the years ended December 31, 2000, 1999 and 1998.
+
+<CAPTION>
+                                                   Summary Compensation Table
+                                                                       All Other
+                                             Annual Compensation     Compensation
+Name and Principal
+  Position                                   Salary      Bonus
+                       Year                    $           $               $
+                       <C>                   <C>         <C>              <C>
+<S>
+H. E. Scruggs, Jr.     2000                  (a)         (a)              (a)
+President  & CEO
+
+Robert V. Toppi        2000                  (a)         (a)              (a)
+President  & CEO       1999                  (a)         (a)              (a)
+                       1998                  (a)         (a)              (a)
+
+</TABLE>
+[S]
+[FN]
+
+  (a) Mr. Scruggs and Mr. Toppi received no compensation from the
+  Company.  Messrs. Scruggs and Toppi are compensated directly by
+  Leucadia.
+
+  The Company does not directly remunerate directors.  The
+  directors of the Company and Empire who are not officers or
+  employees of Empire and the Company were paid an annual
+  retainer of  $5,000.  In addition, eligible directors receive
+  $1,500 for each joint board meeting attended.  For attendance
+  at a meeting of a committee of the joint board, such directors
+  receive $1,500 per meeting.  In addition, each Chairperson of
+  a committee is entitled to $500 per annum.  All fees paid to
+  such directors are shared in accordance with the pooling
+  agreement.
+
+  In 2000, Mr. Toppi retired as Director, President and CEO of
+  the Company and the Group.  He was succeeded by Mr. Scruggs
+  who is President and CEO and a Director.
+
+  In 1998, Mr. Richard G. Petitt retired as Director, Chairman
+  of the Board, President and CEO of the Company and the Group.
+  He was succeeded by Mr. Toppi as President and CEO and a
+  Director.  Mr. Steinberg succeeded Mr. Petitt as Chairman of
+  the Board.
+
+  Pension Plan
+  Effective January 1, 1999, Empire adopted a non-contributory
+  defined contribution plan (the "Plan").  The contributions,
+  ranging from 2% - 16% of employees' current pension eligible
+  compensation, are based on the age and service of the
+  employee.  These contributions accumulate for participants on
+  a tax-deferred basis.  Participants direct the investment of
+  their contributions to their accounts.  Empire contributed
+  $682,000 and $1,145,000 to the Plan in 2000 and 1999,
+  respectively.  In accordance with the pooling agreement, the
+  Company is obligated to provide 30% of Empire's contributions
+  to the Plan.
+
+  Prior to January 1, 1999, pensions for officers and employees
+  of the Company were provided under a non-contributory defined
+  benefit pension plan ("prior pension plan").  Any employee was
+  eligible for membership in the plan on January 1st or July 1st
+  of any plan year after which they had completed one full year
+  of service, consisting of a minimum of 1000 credited hours
+  with Empire, provided they had attained the age of 21 years by
+  or before such date.  Members of the prior plan received a
+  basic pension if they worked until their normal retirement
+  date, which was the last day of the month in which they
+  attained 65 years of age with 5 years of, credited service.
+  Any member in the active employ of Empire may have elected
+  early retirement between 55 and 65.  A member electing early
+  retirement must have had at least 10 years of service. A
+  monthly average of total compensation received over the
+  highest 5 consecutive plan or calendar years before retirement
+  was taken to compute benefits as follows:
+
+  1.30% of the first $833 per month of average pay, plus
+  1.75% of average pay over $833 per month.
+
+<PAGE>
+  The sum of these two credits was multiplied by the years of
+  credited service. The basic benefit amounts listed in the
+  table below were not subject to any deduction for Social
+  Security benefits or other offset amounts. The maximum benefit
+  payable under the prior pension plan was $96,400 per year.
+  Benefits accrued under the prior pension plan were frozen as
+  of December 31, 1998.  The prior pension plan was merged with
+  the Leucadia pension plan effective  January 1, 1999.
+
+  As a result of the curtailment of the pension benefits in
+  1998, the Group recognized a gain of $6,548,000.  In
+  accordance with the pooling agreement, the Company's share of
+  the curtailment gain was 30%.
+<TABLE>
+
+  The amounts set forth in the following table show estimated
+  annual benefits upon retirement to which the Company
+  contributed 30% of such cost through the pooling agreement.
+<S>
+<CAPTION>
+         Highest
+     Five Year Average
+      Compensation at                                   Years of Service
+         Retirement          10        15         20         25       30        35
+       <S>              <C>          <C>         <C>        <C>      <C>       <C>
+       $ 10,000         $ 1,300      $ 1,950     $ 2,600    $ 3,250  $ 3,900   $ 4,550
+         25,000           3,925        5,888       7,850      9,813   11,775    13,738
+         50,000           8,300       12,450      16,600     20,750   24,900    29,050
+         75,000          12,675       19,013      25,350     31,688   38,025    44,363
+        100,000          17,050       25,575      34,100     42,625   51,150    59,675
+        160,000          27,500       41,300      55,100     69,000   82,600    96,400
+</TABLE>
+
+     [S]
+
+  Salary Cap Restoration Plan
+
+  In 1994, Empire established a Salary Cap Restoration Plan
+  ("SCRP") for certain corporate officers.  Under the SCRP,
+  Empire provided these officers with an additional benefit, to
+  be paid in a lump-sum upon retirement, equal to the difference
+  between the actuarially determined lump-sum benefits, as
+  computed under the prior pension plan, of the officer's
+  highest five year average compensation (not to exceed
+  $320,000, adjusted for the cost-of-living) at retirement and
+  the current Internal Revenue Service maximum compensation
+  limit of $160,000. The SCRP was an unfunded plan.  Along with
+  the prior pension plan, the benefits under SCRP were curtailed
+  as of December 31, 1998.
+
+  Employees' Savings Plan
+
+  Empire sponsors an Employees' Savings Plan (the "Savings
+  Plan"), under which each eligible employee may defer a portion
+  of his or her annual compensation, subject to limitations.
+  Empire contributes a matching amount, subject to certain
+  limits. Empire matches contributions equal to 50% of an
+  employee's contributions up to a maximum of 3% of the
+  employee's salary.  Empire's contributions to the Savings Plan
+  were, $294,000,  $452,000 and $420,000 in 2000, 1999 and 1998,
+  respectively. Under the pooling agreement, the Company is
+  obligated to provide 30% of Empire's contributions to the
+  Savings Plan.
+
+  Item 12. Security Ownership of Certain Beneficial Owners and
+  Management
+
+  Security Ownership of Certain Beneficial Owners
+
+  The following table sets forth information as of March 19,
+  2001 as to the Common Shares of the Company owned of record
+  and beneficially by each person who owns of record, or is
+  known by the Company to own beneficially, more than 5% of such
+  Common Shares.
+  <TABLE>
+<CAPTION>
+           Name and                       Amount and
+           Address of                     Nature of
+           Beneficial                     Beneficial                    Percent of
+           Owner                          Ownership                       Class
+                                          <C>                           <C>
+<S>
+          Empire Insurance Company        5,987,401 Common              84.6%
+          335 Adams Street                Shares owned of
+          Brooklyn, N.Y.  11201           record
+
+          Baldwin Enterprises, Inc.       471,407 Common                 6.7%
+          529 East South Temple           Shares owned of
+          Salt Lake City, Utah 84102      record
+</TABLE>
+<PAGE>
+[S]
+
+
+  As discussed in Item 1, "Business", Leucadia (and certain of
+  its wholly-owned subsidiaries) may be deemed a parent of
+  Empire and therefore of the Company as a result of its
+  indirect ownership of 100% of the outstanding common stock of
+  Empire.
+
+  Security Ownership of Management
+
+  The following table sets forth information concerning
+  beneficial ownership of the Company's common stock and the
+  equity securities of Leucadia by each director and by all
+  directors and officers of the Company as a group as of March
+  19, 2001.
+
+<PAGE>
+
+  Each holder shown exercises sole voting and sole investment
+  power of the shares shown opposite his or her name.
+
+Name of Beneficial         Amount and Nature of          Percent of
+  Owner                    Beneficial Ownership
+  Class
+Martin B. Bernstein                     -                     -
+Robert F. Boyle                         -                     -
+Francis M. Colalucci                    -                     -
+Ian M. Cumming (1)                      -                     -
+Christopher J. Gruttemeyer              -                     -
+  Edward A. Hayes                       -                     -
+  James E. Jordan                       -                     -
+  Thomas E. Mara                        -                     -
+  Rocco J. Nittoli                      -                     -
+  Joseph A. Orlando                     -                     -
+  H.E. Scruggs, Jr.                     -                     -
+  Louis V. Siracusano                   -                     -
+  Joseph S. Steinberg (1)               -                     -
+  Daniel G. Stewart                     -                     -
+  Lucius Theus                          -                     -
+  Harry H. Wise                         -                     -
+  Directors and Executive
+  Officers as a group                   -                     -
+  (22 persons) (2)
+
+  (1) Although neither Ian M. Cumming nor Joseph S. Steinberg
+  directly owns any shares of common stock of the Company, by
+  virtue of their respective interest of approximately 18.2% and
+  16.7% in Leucadia, each may be deemed to be the beneficial
+  owner of a proportionate number of the shares of common stock
+  of the Company beneficially owned by Leucadia through its
+  subsidiaries, Empire and Baldwin Enterprises, Inc.
+
+  (2) Aside from the beneficial ownership described in Note 1 to
+  this table, five directors and two officers beneficially own
+  common shares of Leucadia, which in the aggregate, represent
+  less than 1% of Leucadia's common stock.
+
+  Item 13. Certain Relationships and Related Transactions
+
+  See Item 1 of this report and Notes 1, 2, 3, 8, 9, 10 and 11
+  of Notes to Consolidated Financial Statements for information
+  relating to transactions and relationships between the Company
+  and its affiliates.
+
+<PAGE>
+                                 PART IV
+  Item 14.   Exhibits, Financial Statement Schedules, and
+  Reports on Form 8-K
+  (a) Financial Statements and Schedule.
+
+  1.    The following Financial Statements of Allcity Insurance
+        Company are included in Item 8:
+          Report of Independent Accountants
+          Consolidated Balance Sheets as of December 31, 2000
+           and 1999
+          Consolidated Statements of Operations for the years
+           ended December 31, 2000, 1999 and 1998
+          Consolidated Statements of Changes in Shareholders'
+           Equity for the years ended
+          December 31, 2000, 1999 and 1998
+          Consolidated Statements of Cash Flows for the years
+           ended December 31, 2000, 1999 and 1998
+          Notes to Consolidated Financial Statements
+
+  2.  The information for Schedules I, IV and V required to be filed
+  pursuant to Regulation S-X, Article 7 is contained in the
+  Notes to Consolidated Financial Statements and, therefore,
+  these schedules have been omitted.  The information required
+  by Schedules III and IV of Article 7 is combined in Schedule
+  VI - Supplemental Insurance Information Concerning
+  Property/Casualty Insurance Operations.  All other required
+  schedules are not applicable.
+
+  Schedule VI - Supplemental Insurance Information Concerning
+  Property/Casualty Insurance Operations for the years ended December
+  31, 2000, 1999 and 1998.
+
+  3.  The exhibits required by Item 601 of Regulation S-K have
+  been filed herewith, see attached Exhibit
+  Index.
+
+  (b) Reports on Form 8-K.
+
+  The Company filed a current report on Form 8-K dated December
+  20, 2000, which sets forth information under Item 5.  Other
+  Events. and Item 7.  Financial Statements and Exhibits.
+
+  (c) Exhibits Required by Item 601 of Regulation S-K.
+      See attached Exhibit Index.
+
+  (d) Financial Statements Required by Regulation S-X.
+      See Item 14(a).
+
+<PAGE>
+
+  Signatures
+
+  Pursuant to the requirements of Section 13 or 15 (d) of the
+  Securities Exchange Act of 1934, the registrant has duly
+  caused this report to be signed on its behalf by the
+  undersigned, thereunto duly authorized.
+
+
+                                         ALLCITY INSURANCE COMPANY
+
+  April 2, 2001                 By:  /s/ Francis M. Colalucci
+                                         Francis M. Colalucci
+                                         Director, Executive Vice
+                                         President, CFO and Treasurer
+
+  Pursuant to the requirements of the Securities Exchange Act of
+  1934, this report has been signed below by the following
+  persons on behalf of the registrant and in the capacities
+  indicated and on the date set forth above.
+
+
+  /s/ H. E. Scruggs, Jr.              /s/ Francis  M. Colalucci
+
+  H. E. Scruggs, Jr.                  Francis M. Colalucci
+  Director, President & C.E.O.        Director, Executive Vice
+  President,                          C.F.O. and Treasurer
+
+  /s/ Joseph S. Steinberg             /s/ Martin B. Bernstein
+
+  Joseph S. Steinberg                 Martin B. Bernstein
+  Director, Chairman of the Board     Director
+
+
+  /s/ Louis V. Siracusano             /s/ Harry H. Wise
+
+  Louis V. Siracusano                 Harry H. Wise
+  Director                            Director
+
+
+  /s/ Daniel G. Stewart               /s/ Thomas E. Mara
+  Daniel G. Stewart                   Thomas E. Mara
+  Director                            Director
+
+
+  /s/ Ian M. Cumming                  /s/ James E. Jordan
+  Ian M. Cumming                      James E. Jordan
+  Director                            Director
+
+
+  /s/ Lucius Theus                    /s/ Rocco J. Nittoli
+  Lucius Theus                        Rocco J. Nittoli
+  Director                            Director, Chief Operating
+  Officer
+
+
+  /s/ Joseph A. Orlando               /s/ Christopher J. Gruttemeyer
+  Joseph A. Orlando                       Christopher J. Gruttemeyer
+  Director                                Director, Vice President
+
+
+
+
+
+
+  <PAGE>
+  EXHIBIT INDEX
+
+  The following designated exhibits, as indicated below,
+  are either filed herewith (if indicated by an asterisk) or
+  have heretofore been filed with the Securities and Exchange
+  Commission under the Securities Act of 1933 or the Securities
+  Exchange Act of 1934 and are incorporated herein by reference
+  to such filings.  Reference is made to Item 8 of this Form
+  10-K for a listing of certain financial information and
+  statements incorporated by reference herein.
+
+  [S]
+  Exhibit Number          Description of Document
+  [S]
+         3                Corporate charter, as amended, and by-laws,
+                          as amended, of the Company (incorporated by
+                          reference to Exhibit 3 of the Company's Annual
+                          Report on Form 10-K for the year ended December
+                          31, 1994).
+         10(a)            Pooling Agreement, as amended through March
+                          31, 1992 between Empire and the Company
+                          (incorporated by reference to Exhibit 10(a)-20
+                          of the Company's Form 8 Amendment No. 1 of its
+                          Annual Report on Form 10-K for the year ended
+                          December 31, 1981).
+
+         10(b)            Centurion Agreement, made effective as of
+                          August 21, 1987 by and between Empire and
+                          the Company, and Centurion  (incorporated by
+                          reference to Exhibit 10(e) of the Company's
+                          Annual Report on Form 10-K for the year ended
+                          December 31, 1987).
+
+         10(c)            Empire Mutual Executive Deferred
+                          Compensation Plan dated November 17, 1987
+                          (incorporated by reference to Exhibit 10(f) of
+                          the Company's Annual Report on Form 10-K for the
+                          year ended December 31, 1987).
+
+         10(d)            Empire Mutual Insurance Company Supplemental
+                          Retirement Plan dated November 17, 1987
+                          (incorporated by reference to Exhibit 10(g)
+                          of the Company's Annual Report on Form 10-K for
+                          the year ended December 31, 1987).
+
+
+
+
+
+
+<PAGE>
+
+
+
+       [S]
+  Exhibit Number          Description of Document
+       [S]
+          10(e)           Tax Allocation Agreement dated February 28,
+                          1989 among the Company, PHLCORP, Inc., Empire,
+                          Centurion, Empire Livery Services, Inc.,
+                          Executroll Services Corporation, and Empall
+                          Agency Incorporated. (incorporated by reference
+                          to Exhibit 10(m) of the Company's Annual Report
+                          on Form 10-K for the year ended December
+                          31, 1988).
+
+        10(f)             Empire Insurance Company Salary Cap Restoration
+                          Plan dated May 26, 1994 (incorporated by
+                          reference to Exhibit 10(i) of the Company's
+                          Annual Report on Form 10-K for the December 31,
+                          1994).
+
+        10(g)             Quota Share Reinsurance Agreement between Empire
+                          Insurance Company and Centurion Insurance
+                          Company (incorporated by reference to Exhibit
+                          10(i) of the Company's Annual Report on Form
+                          10-K for the year ended December 31, 1997).
+
+        10(h)             Lease agreement dated June 27, 1996 between
+                          Empire Insurance Company and Brooklyn
+                          Renaissance Plaza L.L.C., as Landlord, BRPII
+                          L.L.C as sub-landlord (incorporated by
+                          reference to Exhibit 10(a) of the Company's
+                          quarterly report on Form 10-Q for the quarter
+                          ended March 31, 1997).
+
+        10(i)             Sublease agreement dated November 9, 2000
+                          between Empire Insurance Company and The
+                          New York City School Construction Authority.*
+
+        10(j)             Transfer Agreement dated February 28, 2001
+                          between Empire Insurance Company, Allcity
+                          Insurance Company, Centurion Insurance Company
+                          and Tower Risk Management Corporation and
+                          Tower Insurance Company of New York.*
+
+
+
+  <PAGE>
+
+
+ITEM 8.  Financial Statements and Supplementary Data             Page
+The following financial information is submitted herein:
+
+Report of Independent Accountants                                  F2
+Consolidated Balance Sheets as of December 31, 2000 and 1999       F3
+Consolidated Statements of Operations for the years
+      ended December 31, 2000, 1999 and 1998                       F4
+Consolidated Statements of Changes in Shareholders' Equity
+      for the years ended December 31, 2000, 1999 and 1998         F5
+Consolidated Statements of Cash Flows for the years ended
+      December 31, 2000, 1999 and 1998                             F6
+Notes to Consolidated Financial Statements                     F7-F25
+
+Financial Statement Schedule:
+
+Schedule VI- Supplemental Insurance Information
+Concerning Property/Casualty Insurance Operations for the
+      years ended December 31, 2000, 1999 and 1998                F26
+
+
+
+
+
+
+
+
+-F1-
+<PAGE>
+
+
+  REPORT OF INDEPENDENT ACCOUNTANTS
+
+  To the Board of Directors and Shareholders
+  Of Allcity Insurance Company:
+
+  In our opinion, the consolidated financial statements listed
+  in the index appearing under item 14(a)(1) of this Form 10-K
+  present fairly, in all material respects, the financial
+  position of Allcity Insurance Company and its subsidiary at
+  December 31, 2000 and 1999, and the results of their
+  operations and their cash flows for each of the three years in
+  the period ended December 31, 2000 in conformity with
+  accounting principles generally accepted in the United States
+  of America.  In addition, in our opinion, the financial
+  statement schedule listed in the index appearing under Item
+  14(a)(2) of this Form 10-K presents fairly, in all material
+  respects, the information set forth therein when read in
+  conjunction with the related consolidated financial
+  statements.  These financial statements and the financial
+  statement schedule are the responsibility of the Company's
+  management; our responsibility is to express an opinion on
+  these financial statements and the financial statement
+  schedule based on our audits.  We conducted our audits of
+  these statements in accordance with auditing standards
+  generally accepted in the United States of America which
+  require that we plan and perform the audit to obtain
+  reasonable assurance about whether the financial statements
+  are free of material misstatement.  An audit includes
+  examining, on a test basis, evidence supporting the amounts
+  and disclosures in the financial statements, assessing the
+  accounting principles used and significant estimates made by
+  management, and evaluating the overall financial statement
+  presentation.  We believe that our audits provide a reasonable
+  basis for our opinion.
+
+
+  PricewaterhouseCoopers LLP
+  New York, New York
+  March 30, 2001
+
+
+
+
+
+
+
+
+  -F2-
+  <PAGE>
+
+  <TABLE>
+  CONSOLIDATED BALANCE SHEETS
+  <S>
+  ALLCITY INSURANCE COMPANY AND SUBSIDIARY
+  (In thousands, except share and per share amounts)
+  <CAPTION>
+  <S>
+                                                    December   31,
+                                                       <C>        <C>
+   ASSETS                                              2000       1999
+     Investments:
+      Fixed maturities
+          Available for sale (amortized cost of
+        $118,833 in 2000 and $167,294 in 1999)         $119,029   $163,495
+        Held to maturity (fair value
+        of $483 in 2000 and $476 in 1999)                   486        492
+      Equity securities available for sale                  375        255
+      Short-term                                          6,834      7,129
+      Other invested assets                              37,149     33,875
+          TOTAL INVESTMENTS                             163,873    205,246
+
+     Cash                                                    77        644
+     Agents' balances, less allowance for
+       doubtful accounts ($1,770 in 2000 and
+       $1,812 in 1999)                                    5,773      6,115
+     Accrued investment income                            2,329      3,041
+     Reinsurance balances receivable                    174,629    230,193
+     Prepaid reinsurance premiums                        17,748     22,282
+     Deferred policy acquisition costs                    3,035      3,415
+     Deferred tax benefit                                     -     14,438
+     Other assets                                         4,820      5,146
+                                      TOTAL ASSETS     $372,284   $490,520
+   LIABILITIES
+     Unpaid losses                                     $239,051   $307,075
+     Unpaid loss adjustment expenses                     29,455     34,861
+     Unearned premiums                                   32,622     38,927
+     Due to affiliates                                      649     11,976
+     Reinsurance balances payable                         1,505        717
+     Other liabilities                                    8,725      9,397
+     Surplus note                                        16,486     15,851
+                                      TOTAL LIABILITIES 328,493    418,804
+   SHAREHOLDERS' EQUITY
+     Common stock, $1 par value: 7,368,420
+       shares authorized; 7,078,625 shares issued
+       and outstanding in 2000 and 1999                   7,079      7,079
+     Additional paid-in capital                           9,331      9,331
+     Accumulated other comprehensive income/(loss)
+       net of deferred tax/(benefit) of $0 and
+       $(1,240) in 2000 and 1999, respectively              571     (2,304)
+     Retained earnings                                   26,810     57,610
+                       TOTAL SHAREHOLDERS' EQUITY        43,791     71,716
+          TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY   $372,284   $490,520
+  <S>
+  See Notes to Consolidated Financial Statements.
+  <S>
+  </TABLE>
+          -F3-
+<PAGE>
+
+       <TABLE>
+       CONSOLIDATED STATEMENTS OF OPERATIONS
+       <S>
+       ALLCITY INSURANCE COMPANY AND SUBSIDIARY
+       (In thousands, except share
+       and per share amounts)
+       <CAPTION>
+       <S>
+
+
+                                             Years  Ended December  31,
+                                              2000      1999     1998
+  REVENUES
+  <S>                                        <C>       <C>       <C>
+
+     Premiums earned                         $30,855   $42,448   $67,512
+     Net investment income                    11,443    12,466    14,523
+     Service fee income                           -      2,032     3,389
+     Net securities (losses)/gains              (213)   (1,668)    6,079
+     Other income                                218       384       567
+                                              42,303    55,662    92,070
+
+  LOSSES AND EXPENSES
+     Losses                                   31,760    33,597    62,282
+     Loss adjustment expenses                 12,047     8,941     7,307
+     Other underwriting expenses, less
+       deferrals of $7,413 in 2000, $7,398
+       in 1999 and $11,697 in 1998             8,009     9,547     7,705
+     Amortization of deferred policy
+       acquisition costs                       7,793     9,348    13,411
+     Interest on surplus note                    634       551       591
+                                              60,243    61,984    91,296
+
+  (LOSS)/INCOME BEFORE FEDERAL INCOME TAXES  (17,940)   (6,322)      774
+
+  FEDERAL INCOME TAXES
+      Current expense/(benefit)                 (338)   (   49)   (1,031)
+      Deferred expense                        13,198    (2,542)    1,301
+                                              12,860    (2,591)      270
+
+               NET (LOSS)/INCOME            $(30,800)  $(3,731)  $   504
+  Per share data, based on 7,078,625
+     average shares outstanding in 2000,
+     1999 and 1998
+  BASIC AND DILUTED(LOSS)/EARNINGS PER SHARE  $(4.35)  $ (0.53)  $  0.07
+
+ <FN>
+ See Notes to Consolidated Financial Statements.
+ </TABLE>
+
+
+                                           -F4
+<PAGE>
+
+    <TABLE>
+  CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS' EQUITY
+  <S>
+  ALLCITY INSURANCE COMPANY AND SUBSIDIARY
+  For the years ended December 31, 2000, 1999 and 1998
+  (In thousands)
+<CAPTION>
+                                       SHAREHOLDERS' EQUITY
+
+                                                           Accumulated           Total
+                                             Additional         Other            Share-
+                            Common Stock    Paid-In   Comprehensive  Retained          holders'
+                             Shares    Amount  Capital     (Loss)/Income  Earnings       Equity_
+                                              <C>           <C>         <C>       <C>        <C>        <C>
+<S>
+
+  Balance as of January 1, 1998                7,079          7,079      9,331         917     60,837      78,164
+  Comprehensive Income:
+    Net income for the year                                                                       504         504
+    Unrealized holding gains arising during
+    the period (net of deferred tax of $767)                                         1,425                  1,425
+    Less reclassification of net securities
+    gains included in net income (net of
+    deferred tax of $1,019)                                                         (1,893)                (1,893)
+      Comprehensive Income                                                                                     36
+
+
+  Balance as of December 31, 1998              7,079          7,079      9,331         449     61,341      78,200
+
+  Comprehensive Loss:
+    Net loss for the year                                                                      (3,731)     (3,731)
+    Unrealized holding losses arising during
+    the period (net of deferred benefit of
+      $1,803)                                                                        (3,349)               (3,349)
+    Less reclassification of net securities
+    losses included in net loss (net of
+    deferred benefit of $321)                                                           596                   596
+      Comprehensive Loss                                                                                   (6,484)
+
+  Balance as of December 31, 1999              7,079         $7,079      $9,331     $(2,304)  $57,610     $71,716
+
+  Comprehensive Loss:
+    Net loss for the year                                                                     (30,800)    (30,800)
+    Unrealized holding gains arising during
+    the period (net of deferred tax of
+    $1,240)                                                                           1,776                 1,776
+    Less reclassification of net securities
+    losses included in net loss (net of
+    deferred tax of $0)                                                               1,099                 1,099
+      Comprehensive Loss                                                                                  (27,925)
+
+  Balance as of December 31, 2000              7,079         $7,079      $9,331      $  571   $26,810     $43,791
+
+<S>
+  See Notes to Consolidated Financial Statements
+</TABLE>
+
+     F5
+ <PAGE>
+
+   <TABLE>
+  CONSOLIDATED STATEMENTS OF CASH FLOWS
+  ALLCITY INSURANCE COMPANY AND SUBSIDIARY
+  (In thousands)
+                                                          Years  Ended December 31,
+                                                     <C>        <C>        <C>
+<S>                                                     2000        1999        1998
+  NET CASH FLOWS FROM OPERATING ACTIVITIES
+   Net(loss)/income                                  $(30,800)  $  (3,731) $     504
+    Adjustments to reconcile net (loss)/income
+      to net cash used for operating
+      activities:
+        Provision for deferred tax expense             13,198      (2,542)     1,301
+        Amortization of deferred policy
+         acquisition costs                              7,793       9,348     13,411
+        Provision for doubtful accounts                   (42)         (5)       256
+        Net securities losses/(gains)                     213       1,668     (6,079)
+        Policy acquisition costs incurred
+          and deferred                                 (7,413)     (7,398)   (11,697)
+        Net change in:
+          Agents' balances                                384       3,905      2,838
+          Reinsurance balances receivable              55,564      65,801    (22,714)
+          Prepaid reinsurance premiums                  4,534      15,409     17,383
+          Unpaid losses and loss adjustment
+            expenses                                  (73,430)    (92,296)    16,706
+          Unearned premiums                            (6,305)    (25,045)   (26,835)
+          Due (from)and to affiliates                 (11,327)     15,674    (18,125)
+          Reinsurance balances payable                    788        (168)    (3,940)
+          Other, net                                    1,755      (2,000)    (7,867)
+   NET CASH USED FOR OPERATING ACTIVITIES             (45,088)    (21,380)   (44,858)
+
+  NET CASH FLOWS FROM INVESTING ACTIVITIES
+        Acquisition of fixed maturities               (23,245)   (186,831)  (246,375)
+        Net change in other invested assets            (3,274)     (2,429)   (31,446)
+        Proceeds from sale of fixed maturities         67,560     181,863    323,177
+        Proceeds from maturities of fixed
+          maturities                                    3,185      15,974     15,466
+        Net change in short-term investments              295      13,057    (18,437)
+    NET CASH PROVIDED BY INVESTING ACTIVITIES          44,521      21,634     42,385
+
+          NET (DECREASE)/INCREASE IN CASH                (567)        254     (2,473)
+                Cash at beginning of year                 644         390      2,863
+                      Cash at the end of year        $     77   $     644 $      390
+       Cash paid for federal income taxes            $ 1,583    $   2,872 $    2,242
+<S>
+  See Notes to Consolidated Financial Statements.
+</TABLE>
+
+     F6
+<PAGE>
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+  ALLCITY INSURANCE COMPANY AND SUBSIDIARY
+
+  NOTE 1-ORGANIZATION
+
+  Allcity Insurance Company ("Allcity" or the "Company") is a
+  property and casualty insurer and includes the results of its
+  subsidiary, Empall Agency, Inc. ("Empall").  Empire Insurance
+  Company ("Empire"), a property and casualty insurer owns
+  approximately 84.6% of the outstanding common shares of the
+  Company and 100% of the outstanding common shares of Centurion
+  Insurance Company ("Centurion").  Empire's common shares are
+  100% owned and controlled, through subsidiaries, by Leucadia
+  National Corporation ("Leucadia").  Additionally, Leucadia
+  indirectly owns an additional 6.7% of the outstanding  common
+  shares of the Company.  The Company, Empire and Centurion are
+  sometimes hereinafter collectively referred to as the Group.
+
+  The property and casualty insurance business written by Empire
+  and Allcity is subject to a pooling agreement under which
+  premiums, losses, loss adjustment expenses and other
+  underwriting expenses, net of reinsurance, are shared on the
+  basis of 70% to Empire and 30% to Allcity.  The pooling
+  percentages have been changed from time to time and may be
+  changed in the future subject to New York Insurance Department
+  approval.  Allcity has no employees of its own.  Empire
+  provides administrative services and 30% of the related
+  expenses are allocated to Allcity.
+
+  Historically, the Group has specialized in commercial and
+  personal property and casualty insurance business primarily in
+  the New York metropolitan area.  The Group has offered
+  insurance products for vehicles (including medallion and
+  radio-controlled livery vehicles), general liability coverage,
+  property coverage (including mercantile and multi-family
+  residential real estate) and workers' compensation to
+  commercial accounts and private passenger automobile and
+  homeowners products to individuals.  The business of the Group
+  is organized into three divisions: the Small Business
+  Division, the Personal Lines Division and the Mid-Market
+  Division.  Each of these divisions has separate management
+  teams responsible for all underwriting decisions within their
+  divisions with  the Small Business Division focusing on
+  commercial package products for small businesses; the Personal
+  Lines Division focusing on personal automobile and homeowners
+  insurance; and the Mid-Market Division focusing on commercial
+  automobile, commercial package and workers' compensation
+  insurance for larger accounts. Based on the Company's net
+  earned premiums for the year ended December 31, 2000,
+  approximately 39%, 43% and 18% of such premiums were for the
+  Personal Lines, Mid-Market and Small Business lines of
+  business, respectively.
+
+  During the past several years, the Group has experienced poor
+  underwriting results and adverse reserve development in all of
+  its lines of business.  The Group has recently announced that
+  it will no longer accept any applications for new insurance
+  policies, has filed plans of orderly withdrawal with the New
+  York Insurance Department, has entered into an agreement to
+  sell its renewal rights to an unaffiliated insurance company
+  and made arrangements with the unaffiliated insurance company
+  to offer renewal policies in those lines of business (other
+  than private passenger automobile insurance) where New York
+  insurance law imposes a renewal obligation.  Assuming this
+  agreement is consummated, the Group will only have renewal
+  obligations for remaining personal lines insurance (primarily
+  automobile) not replaced by the unaffiliated insurance
+  company, the remaining policy term of all existing policies
+  and a claim run-off operation.
+
+F7
+<PAGE>
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS-CONTINUED
+  ALLCITY INSURANCE COMPANY AND SUBSIDIARY
+
+  NOTE   1-ORGANIZATION-CONTINUED
+  The National Association of Insurance Commissioners ("NAIC")
+  has adopted model laws incorporating the concept of a "risk
+  based capital" ("RBC") requirement for insurance companies.
+  Generally, the RBC formula is designed to measure the adequacy
+  of an insurer's statutory capital in relation to the risks
+  inherent in its business.  The RBC formula is used by the
+  states as an early warning tool to identify weakly capitalized
+  companies for the purpose of initiating regulatory action.
+  Although New York State has not adopted the RBC requirements
+  for property and casualty insurance companies, New York does
+  require that property and casualty insurers file the RBC
+  information with the New York Insurance Department ("the
+  Department").  The NAIC also has adopted various ratios for
+  insurance companies which, in addition to the RBC ratio, are
+  designed to serve as a tool to assist state regulators in
+  screening and analyzing the financial condition of insurance
+  companies operating in their respective states. The Company
+  and its parent had certain NAIC ratios outside of the
+  acceptable range of results for the year ended December 31,
+  2000.
+
+  In 2001, the Department completed its fieldwork for its
+  triennial examination of the statutory-basis financial
+  statements of the Company and its parent as of December 31,
+  1999 but has not as yet issued its report.  However, the
+  Department has verbally informed the Company that its estimate
+  of the Company's required loss and loss adjustment expense
+  reserves as of December 31, 1999 was higher than the amount
+  recorded by the Company.  The Department's estimate of loss
+  and loss adjustment expense reserves for accident years 1999
+  and prior is approximately $15,000,000 higher than the
+  Company's recorded reserves for such accident years as of
+  December 31, 2000.  The Company and its parent are currently
+  discussing the results of the Department's reserve study with
+  them, and are working to reconcile the differences between the
+  two estimates.  Based on the Company's and its parent's recent
+  discussions with the Department, and their decision to file
+  plans of orderly withdrawal from all lines of business, as
+  previously described, the Company believes that no material
+  adverse action will be taken by the Department at this time.
+  However, no assurance can be given that the Company and its
+  parent will not be required to increase their reserves or that
+  the Department will not take materially adverse regulatory
+  action in the future.
+
+  The Group is currently exploring its options for the future.
+  The Group may commence new property and casualty insurance
+  operations if a new business model with an acceptable expense
+  structure can be developed, enter into a joint venture with
+  another property and casualty insurance operation, explore
+  entering the claim services business or commence a
+  liquidation.  There may be other options that the Company will
+  explore, but no assurance can be given at this time as to what
+  the ultimate plan will be.
+
+  The Company and Empire are licensed to transact insurance in
+  the State of New York with Empire being additionally licensed
+  in Connecticut, Massachusetts, Missouri, New Hampshire and New
+  Jersey. Based on direct premiums written, approximately 6%, 6%
+  and 4% of the property and casualty business written by the
+  Group were from sources outside New York State for the years
+  ended December 31, 2000, 1999 and 1998, respectively.
+
+F8
+<PAGE>
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+  ALLCITY INSURANCE COMPANY AND SUBSIDIARY
+
+NOTE   1-ORGANIZATION-CONTINUED
+  The Company and Empire distributed their products through
+  seven general agents, one of which was an Empire subsidiary,
+  and independent agents and brokers. Effective October 3, 2000,
+  Empire's wholly owned general agent sold its book of business
+  to an unrelated party. Empire's wholly-owned general agent was
+  its largest producer and generated approximately 8%, 12% and
+  12% of its total earned premium volume for the years ended
+  December 31, 2000, 1999 and 1998, respectively.
+
+  The consolidated financial statements include the accounts of
+  the Company and its wholly-owned subsidiary, Empall.  The
+  preparation of financial statements in conformity with
+  generally accepted accounting principles ("GAAP") requires
+  management to make estimates and assumptions that affect the
+  reported amounts in the financial statements and disclosures
+  of contingent assets and liabilities at the date of the
+  financial statements.   Actual results could differ from those
+  estimates.
+
+  NOTE 2- SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+  Investments: At acquisition, marketable debt and equity
+  securities  are designated as either (i) "held to maturity"
+  and carried at amortized cost, (ii) "trading" and carried at
+  estimated fair value with differences between cost and
+  estimated fair value reflected in results of operations or
+  (iii) "available for sale" and carried at estimated fair
+  value, with differences between cost and estimated fair value
+  being reflected as a separate component of shareholders'
+  equity,  net of taxes. Other invested assets, which are
+  designated as trading securities, represent an investment in a
+  limited partnership which invests principally in convertible
+  preferred stocks, convertible long-term debt securities,
+  limited partnerships, and common stocks sold, but not yet
+  purchased. Short-term investments are carried at cost which
+  approximates fair value.  Estimated fair values are
+  principally based on quoted market prices.
+
+  At December 31, 2000 and 1999, investments in fixed maturities
+  on deposit with the New York Insurance Department, which the
+  Company has the intent and ability to hold to maturity, are
+  classified as "Investments held to maturity".  Investment
+  income is reported when earned.
+
+  Net securities gains or losses on the sales of investments are
+  determined on a specific identification basis. Investments
+  with an impairment in value considered to be other than
+  temporary are written down to estimated net realizable values.
+
+  Unearned Premiums: Unearned premiums have been calculated
+  predominantly using the daily pro rata method.
+
+  Unpaid Losses and Loss Adjustment Expenses: Liabilities for
+  unpaid losses, which are not discounted (except for certain
+  workers' compensation liabilities), and loss adjustment
+  expenses ("LAE") are determined using case-basis evaluations,
+  statistical analyses for losses incurred but not reported and
+  estimates for salvage and subrogation recoverable and
+  represent estimates of the ultimate claim costs of all unpaid
+  losses and LAE.  Liabilities include a provision for losses
+  that have occurred but have not yet been reported.  These
+  estimates are subject to the effect of trends in future claim
+  severity and frequency experience.  Adjustments to such
+  estimates are made from time to time due to changes in such
+  trends as well as changes in actual loss experience. These
+  adjustments are reflected in current earnings.
+
+F9
+<PAGE>
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+  ALLCITY INSURANCE COMPANY AND SUBSIDIARY
+
+  NOTE 2- SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES-CONTINUED
+
+  Reinsurance: Unpaid losses, unpaid loss adjustment expenses
+  and unearned premiums are stated gross of reinsurance ceded.
+  Premiums written and earned, losses and LAE paid and incurred,
+  and other underwriting expenses are stated net of reinsurance
+  ceded.
+
+  Pension Cost: Empire funds actuarially determined pension
+  costs as currently accrued; 30% of such pension costs are
+  allocated to the Company.
+
+  Policy Acquisition Costs: Policy acquisition costs, which
+  consist of  commissions, premium taxes and certain other
+  underwriting expenses (net of reinsurance allowances), are
+  deferred and amortized ratably over the terms of the related
+  policies.  Deferred policy acquisition costs are limited to
+  their net realizable value after consideration of investment
+  income on the related premium. If recoverability of such costs
+  from future premiums and related investment income is not
+  anticipated, the amounts not considered recoverable are
+  charged to operations.
+
+  Participating Policies: Participating business on workers'
+  compensation lines constitutes approximately 1.3% of the
+  Company's policies in force and net premiums written.  Amounts
+  transferred to the participating policyholders' funds are
+  determined by means of specific identification based upon
+  premium volume and loss experience.  The amount of dividends
+  to be paid to participating policyholders is approved
+  quarterly by the Board of Directors. The amount of
+  policyholders' dividends paid on participating policies was
+  $59,000  $133,000 and $212,000 in 2000, 1999 and 1998,
+  respectively.  Unpaid dividends to participating policyholders
+  are included as a liability in the consolidated balance
+  sheets.
+
+  Servicing Arrangements: Service fee income from assigned risk
+  business acquired through contractual arrangements with other
+  insurance companies was recognized as revenue and earned over
+  the life of the covered policies on a monthly pro-rata method.
+
+  Service fee income for the administrative services, including
+  underwriting, policy issuance, premium collection and claims
+  services, provided to the New York Public Auto Pool (the
+  "NYPAP") was recorded as a reduction to other underwriting and
+  loss adjustment expenses and is earned over the life of the
+  policies issued.  The premiums and losses processed by the
+  Company on behalf of the NYPAP, which are not reflected in the
+  consolidated financial statements for the years ended December
+  31, are as follows (in thousands):
+
+                                  2000       1999       1998
+  Premiums Earned               $   -     $   -       $ 4,091
+  Losses Incurred                  231     (12,972)    23,543
+  Unpaid Losses                 21,781      32,250     70,469
+
+  The premiums, losses and expenses of the business for which
+  the Company provides administrative services are reflected on
+  the financial statements of those insurance companies,
+  including the Company, in New York State which are required to
+  participate in the NYPAP.  In its role as a servicing carrier,
+  the Company is liable only for the loss adjustment expenses
+  which are incurred to adjust and settle the claims processed
+  on behalf of the NYPAP. Liabilities for these loss adjustment
+  expenses are determined using case basis evaluations and
+  statistical analyses.
+
+F10
+<PAGE>
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+  ALLCITY INSURANCE COMPANY AND SUBSIDIARY
+
+  NOTE 2- SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES-CONTINUED
+
+  Federal Income Taxes: The Company uses the liability method in
+  providing for income taxes.  Under the liability method,
+  deferred income taxes are provided at the enacted tax rates
+  for differences between the financial statement carrying
+  amounts and tax bases of assets and liabilities and for net
+  operating loss carryforwards.  A valuation allowance is
+  provided if tax loss carryforwards and deferred tax benefits
+  are not considered more likely than not to be realized.
+
+  Earnings Per Share: Earnings per share ("EPS") are based on
+  the weighted average number of common shares outstanding.
+  There were no outstanding common stock equivalents during
+  2000, 1999 and 1998 and therefore, basic and diluted EPS are
+  the same.
+
+  New Pronouncements: In June 1999, the Financial Accounting
+  Standards Board issued Financial Accounting Standards No. 137,
+  "Accounting for Derivative Instruments and Hedging Activities
+  - Deferral of the Effective date of FASB Statement No. 133
+  ("SFAS 133")", which will be effective for fiscal years
+  beginning after June 15, 2000.  Under SFAS 133, the Company
+  will have to reflect derivative financial instruments at fair
+  value.  The Company has reviewed the impact of the
+  implementation of SFAS 133 and does not expect it to have a
+  material effect on the Company's financial position or results
+  of operations.
+
+  Presentation: Certain prior year amounts have been
+  reclassified to conform with the 2000 presentation.
+
+  NOTE 3-SURPLUS NOTE
+  The Company issued a surplus note to Empire in 1980.  The
+  surplus note provides, among other things, for interest to be
+  accrued on the principal of the note based on a bank's prime
+  rate at the end of the current calendar quarter.  Neither the
+  principal amount of the surplus note nor the accrued interest
+  may be paid, in whole or in part, without the consent of the
+  Superintendent of Insurance of the State of New York
+  ("Superintendent") and must be repaid, in whole or in part,
+  when so ordered by the Superintendent
+
+  NOTE 4-INVESTMENTS
+
+  Investment income by source is summarized as follows:
+  <TABLE>
+     <CAPTION>
+
+                                            Years Ended December 31,
+                                             2000         1999      1998
+                                                    (In thousands)
+     <S>                                    <C>         <C>       <C>
+     Investment income:
+      Fixed maturities                      $ 8,077     $ 9,214   $12,702
+      Other invested assets                   3,273       2,430     1,445
+      Short-term investments                    329       1,025       715
+                                             11,679      12,669    14,862
+           Less: Investment expenses            236         203       339
+                    NET INVESTMENT INCOME   $11,443     $12,466   $14,523
+
+  </TABLE>
+
+F11
+<PAGE>
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+  ALLCITY INSURANCE COMPANY AND SUBSIDIARY
+
+  NOTE 4-INVESTMENTS-CONTINUED
+
+   Investments at December 31, 2000 are summarized as follows:
+<TABLE>
+     <CAPTION>
+
+                                           Gross Unrealized   Estimated
+                              Amortized      Appre-   Depre-     Fair
+                                Cost        ciation  ciation    Value
+                                             (In thousands)
+
+  <S>                          <C>           <C>      <C>       <C>
+  Available for sale:
+  U.S. Treasury securities
+    and obligations of U.S.
+    government agencies        $ 69,432      $ 142    $ 268     $ 69,306
+  Mortgage-backed
+    securities                    9,310         66        3        9,373
+  Foreign governments             3,696         66        -        3,762
+  All other corporate bonds      36,395        370      177       36,588
+  Total fixed maturities        118,833        644      448      119,029
+  Equity securities                   -        375        -          375
+  TOTAL INVESTMENTS
+        AVAILABLE FOR SALE      118,833      1,019      448      119,404
+
+  Held to maturity:
+  U.S. Treasury securities          486          -        3          483
+        TOTAL INVESTMENTS
+        HELD TO MATURITY            486          -        3          483
+  Short-term                      6,834          -        -        6,834
+  Other invested assets          37,149          -        -       37,149
+        TOTAL INVESTMENTS      $163,302     $1,019     $451     $163,870
+
+     </TABLE>
+
+
+        Investments at December 31, 1999 are summarized as follows:
+     <TABLE>
+     <CAPTION>
+
+                                             Gross Unrealized Estimated
+                                Amortized    Appre-  Depre-    Fair
+                                Cost         ciation ciation   Value
+                                             (In thousands)
+
+     <S>                        <C>          <C>     <C>       <C>
+
+       Available for sale:
+       U.S. Treasury securities
+         and obligations of U.S.
+         government agencies    $129,132     $  -    $3,145    $125,987
+       Mortgage-backed
+         securities                7,622       18      87         7,553
+       Foreign governments           897      -         3           894
+       All other corporate bonds  29,643       51     633        29,061
+       Total fixed maturities    167,294       69   3,868       163,495
+       Equity securities              -       255     -             255
+             TOTAL INVESTMENTS
+             AVAILABLE FOR SALE  167,294      324   3,868       163,750
+       Held to maturity:
+       U.S. Treasury securities      492      -        16           476
+             TOTAL INVESTMENTS
+             HELD TO MATURITY:       492      -        16           476
+
+
+
+       Short-term                  7,129      -       -           7,129
+       Other invested assets      33,875      -       -          33,875
+
+             TOTAL INVESTMENTS  $208,790   $  324  $3,884      $205,230
+     </TABLE>
+     F12
+
+<PAGE>
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+  ALLCITY INSURANCE COMPANY AND SUBSIDIARY
+
+  NOTE 4-INVESTMENTS-CONTINUED
+
+  The amortized cost and estimated fair values of fixed maturities
+  (including short-term securities) at December 31, 2000 are shown as
+  follows (in thousands):
+                                                        Amortized
+   Fair
+                                               Cost        Value
+  Investments available for sale:
+  Due in one year or less                   $ 34,088     $ 34,060
+  Due after one year through five years       75,194       75,357
+  Due after five years through ten years       5,568        5,574
+  Thereafter                                   1,507        1,499
+                Sub total                    116,357      116,490
+  Mortgage-backed securities                   9,310        9,373
+                Sub total                   $125,667     $125,863
+  Investments held to maturity:
+  Due after one year through five years          486          483
+                                 TOTAL      $126,153     $126,346
+
+  Expected maturities will differ from contractual maturities
+  because borrowers may have the right to call or prepay
+  obligations with or without call or prepayment penalties.
+
+  The Company sold certain fixed maturities classified as
+  available for sale during 2000, 1999 and 1998 and realized
+  gross capital gains of $661,000, $148,000 and $6,227,000,
+  respectively, and gross capital losses of $874,000, $1,820,000
+  and $91,000, respectively, before income taxes.
+
+  The changes in unrealized appreciation/(depreciation) on
+  investments available for sale were $4,115,000 and
+  ($4,235,000) before taxes for the years ended December 31,
+  2000 and 1999, respectively.
+
+  As of December 31, 2000 and 1999, a security with an amortized
+  cost of approximately $486,000 and $492,000 respectively, was
+  on deposit with the New York Insurance Department.
+
+  During 1999 and 1998, the Company sold call options on certain
+  U.S. Treasury Notes and recognized investment gains and losses
+  of $4,000 and ($57,000), respectively.
+
+     F13
+
+<PAGE>
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+  ALLCITY INSURANCE COMPANY AND SUBSIDIARY
+
+  NOTE 5-STATUTORY INFORMATION
+
+  The following is a reconciliation of net loss and surplus as
+  reported on a statutory basis ("SAP") to net (loss)/income and
+  shareholders' equity as determined in conformity with GAAP
+  (in thousands):
+     <TABLE>
+     <CAPTION>
+                                                   Years Ended December 31,
+                                                    2000         1999      1998
+     <S>                                          <C>          <C>        <C>
+  Statutory net loss                              $(16,694)    $(4,174)   $ (50)
+  Add (deduct):
+    Change in deferred policy acquisition costs       (380)     (1,950)  (1,714)
+    Change in allowances for doubtful accounts          42           5     (256)
+    Policyholders' dividends                            36         234       90
+    Sublease real estate commission                    416           -        -
+    Pension plan curtailment gain                        -           -    1,964
+    Capitalized systems development costs             (696)         582   1,440
+    Other postretirement benefits                      (41)         253     210
+    Current tax benefit                                338         (688)    688
+    Deferred tax expense                           (13,198)       2,542  (1,301)
+    Interest on surplus note                          (634)        (551)   (591)
+    Other                                               11           16      24
+                                     GAAP         $(30,800)     $(3,731) $  504
+  </TABLE>
+     <TABLE>
+     <CAPTION>
+
+
+                                                         DECEMBER 31,
+                                                    2000              1999
+     <S>                                            <C>               <C>
+
+  Statutory Shareholders' Equity and Surplus       $53,707            $69,422
+   Add (deduct):
+    Deferred policy acquisition costs                3,035              3,415
+    Nonadmitted assets, less allowance
+      for doubtful accounts                            250                907
+    Sublease real estate commission                    416                  -
+    Capitalized systems development costs            1,926              2,622
+    Provision for unauthorized reinsurance             110                110
+    Policyholders'dividends                            (30)               (66)
+    Current tax payable                                  -               (338)
+    Deferred tax benefit                                 -             14,438
+    Other postretirement benefits                      (45)                (4)
+    Net unrealized appreciation/(depreciation)
+        on investments                                 196             (3,800)
+    Surplus note                                   (16,486)           (15,851)
+    Other                                              712                861
+                                   GAAP            $43,791            $71,716
+     </TABLE>
+
+  The Company has paid no dividends on its common shares since
+  1975.  The New York Insurance Law prohibits New York domiciled
+  property and casualty companies from paying dividends except
+  out of earned surplus.  Without the approval of the New York
+  Insurance Department, no New York domestic property/casualty
+  insurer may declare or distribute any dividend to shareholders
+  which, together with any dividends declared or distributed by
+  it during the preceding twelve months, exceeds the lesser of
+  (1) 10% of surplus to policyholders as shown by its last
+  statutory annual statement or (2) one hundred percent of
+  adjusted net investment income during such period.  At
+  December 31, 2000, $4,670,000 was available for distribution
+  of dividends. The Company does not presently anticipate paying
+  dividends in the near future.
+
+     F14
+     <PAGE>
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+  ALLCITY INSURANCE COMPANY AND SUBSIDIARY
+
+  NOTE 5-STATUTORY INFORMATION-CONTINUED
+
+  In 1998, the National Association of Insurance Comissioners
+  ("NAIC") adopted the Codification of Statutory Accounting
+  Principles ("Codification"), which replaces the current
+  Accounting Practices and Procedures manual as the NAIC's
+  primary guidance on statutory accounting as of January 1,
+  2001. The Codification provides guidance for areas where
+  statutory accounting has been silent and changes current
+  statutory accounting in some areas. The New York Insurance
+  Department recently adopted the Codification guidance
+  (Regulation 172), effective January 1, 2001, but did not adopt
+  several key provisions of the guidance.  The Company will
+  reflect the cumulative effect of the Codification guidance in
+  its statutory financial statements as a direct adjustment to
+  statutory surplus for the quarter ending March 31, 2001, to be
+  filed with the New York Insurance Department by May 15, 2001.
+  The Company is in the process of determining the potential
+  effects of the codification.
+
+  NOTE 6-AGENTS' BALANCES
+
+  Activity affecting the allowance for uncollectible agents'
+  balances for the years ended December 31, 2000, 1999 and 1998
+  is summarized as follows (in thousands):
+     <TABLE>
+     <CAPTION>
+
+             <S>                                        <C>
+
+             Balance at January 1, 1998                 $1,561
+             Provision                                   1,362
+             Charge-offs, net of recoveries             (1,106)
+             Balance at December 31, 1998                1,817
+             Provision                                   1,130
+             Charge-offs, net of recoveries             (1,135)
+             Balance at December 31, 1999                1,812
+             Provision                                     386
+             Charge-offs, net of recoveries               (428)
+             Balance at December 31, 2000               $1,770
+
+
+
+
+     </TABLE>
+     F15
+     <PAGE>
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+  ALLCITY INSURANCE COMPANY AND SUBSIDIARY
+
+  NOTE 7-UNPAID LOSSES AND LAE
+
+  The Company has relied upon standard actuarial ultimate loss
+  projection techniques to obtain estimates of liabilities for
+  losses and LAE.  These projections include the extrapolation
+  of both losses paid and incurred by business line and accident
+  year and implicitly consider the impact of inflation and
+  claims settlement patterns upon ultimate claim costs based
+  upon historical patterns.  In addition, methods based upon
+  average loss costs, reported claim counts and pure premiums
+  are reviewed in order to obtain a range of estimates for
+  setting the reserve levels.  For further input, changes in
+  operations in pertinent areas including underwriting
+  standards, product mix, claims management and legal climate
+  are periodically reviewed.
+
+  In the following table, the liability for losses and LAE are
+  reconciled for the three years ended December 31, 2000, 1999
+  and 1998. Included therein are current year data and prior
+  year development.
+     <TABLE>
+     <CAPTION>
+                     RECONCILIATION OF LIABILITY FOR LOSSES AND LAE
+                                                 2000       1999        1998
+                                                 (In thousands)
+ <S>                                            <C>        <C>         <C>
+
+  (In thousands)
+  Net SAP liability for losses and LAE,
+   net of reinsurance, at beginning of year     $113,602   $139,771    $145,260
+  Provision for losses and LAE for claims
+   occurring in the current year                  27,880     36,524      56,698
+  Increase in estimated losses and LAE
+   for claims occurring in prior years            15,927      6,014      12,891
+  Total incurred losses and LAE                   43,807     42,538      69,589
+  Loss and LAE payments for claims
+    occurring during:
+      Current year                                 8,920     12,382      19,203
+      Prior years                                 52,902     56,325      55,875
+                                                  61,822     68,707      75,078
+  Net SAP liability for losses and LAE,
+   at end of year                                 95,587    113,602     139,771
+  Reinsurance recoverable                        172,919    228,334     294,461
+  Liability for losses and LAE
+    at end of year as reported in
+    financial statements (GAAP)                 $268,506   $341,936    $434,232
+
+</TABLE>
+
+  During 2000, the Company experienced unfavorable development
+  principally in the 1996 through 1999 accident years in the
+  private passenger automobile line ($2.8 million), the
+  commercial automobile line ($1.9 million), the assigned risk
+  automobile line ($1.4 million) and the commercial package
+  policies line ($4.5 million). In addition, the Company
+  increased its estimate for loss adjustment expenses by $3.3
+  million as a result of the decision to outsource a significant
+  amount of claim handling functions in 2000.  Claim files for
+  workers' compensation, automobile no-fault and automobile and
+  other liability claims were outsourced at a cost greater than
+  the reserves previously recorded to handle the claims
+  internally.  The Group has outsourced almost two-thirds of its
+  claims.  Currently, the Group is primarily handling complex
+  claims, first party claims and certain automobile liability
+  and general liability claims internally.  Complex claims
+  generally consist of those that have potentially large
+  settlement exposure and are not expected to settle quickly.
+  The Company has also increased its reserve estimate for claims
+  handled internally.
+
+     F16
+     <PAGE>
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+  ALLCITY INSURANCE COMPANY AND SUBSIDIARY
+
+  NOTE 7-UNPAID LOSSES AND LAE-CONTINUED
+
+  During 1999, the Company experienced unfavorable development
+  due to an increase in severity of 1998 accident year losses in
+  the assigned risk automobile and voluntary private passenger
+  automobile lines, and 1996 accident year losses in certain
+  classes of the commercial automobile line.  As a result, the
+  Company increased its reserves by $2.2 million for assigned
+  risk automobile, $1.5 million for voluntary private passenger
+  automobile and $1.4 million for commercial automobile lines.
+
+  During 1998, the Company reviewed the adequacy of the reserves
+  carried for its open claims' files, focusing on workers'
+  compensation, commercial auto and other commercial liability
+  lines of business.  As part of the review, substantially all
+  open workers' compensation claim files were reviewed for every
+  accident year up to and including 1998. Additionally, during
+  1998, the Group reorganized the commercial auto claims
+  department.  As part of this realignment, more complex claims
+  files were reviewed by the most experienced claims examiners
+  and assumptions regarding average claims severity and probable
+  ultimate losses were revised.  Accordingly, reserves were
+  strengthened by $3.9 million for workers' compensation, $4.2
+  million for commercial automobile and $4.2 million for other
+  commercial liability lines of business.
+
+  NOTE 8-REINSURANCE
+  The Company has purchased annuities with various life insurance
+  companies for a number of settled claims.  The claimants have been
+  designated as payees; however, the Company has a contingent
+  liability of approximately $5.0 million which represents the
+  aggregate amount of settlements with the claimants, in the event of
+  the failure of the various life insurance companies to perform.
+
+  The Company has obtained reinsurance coverage to reduce its
+  risk of and exposure to large insurance claims and
+  catastrophes.  The Company's maximum retained limit for all
+  lines of business was $0.3 million for 2000 and 1999. The
+  Company's maximum retained limit for 1998 was $0.5 million for
+  workers' compensation and $0.3 million for other property and
+  casualty lines of business.  Additionally,  the Company has
+  entered into a property catastrophe excess of loss treaty  to
+  protect against certain losses. Its retention of lower level
+  losses under this treaty is $7.5 million for 2001, and was
+  $7.5 million for 2000, 1999 and 1998.  Due to the geographic
+  concentration of its business, the Company believes
+  hurricanes, windstorms and civil disturbances are its most
+  significant exposures to catastrophic losses. Computer
+  modeling programs provided by independent consultants are used
+  to estimate exposure to such losses.
+
+  Although reinsurance does not legally discharge an insurer
+  from its primary liability for the full amount of the policy
+  liability, it does make the assuming reinsurer liable to the
+  insurer to the extent of the reinsurance ceded. The Company's
+  reinsurance generally has been placed with certain of the
+  largest reinsurance companies, including (with their
+  respective A.M Best & Co. ratings) General Reinsurance
+  Corporation (A++) and Zurich Reinsurance (NA), Inc. (A+). The
+  Company believes its reinsurers to be financially capable of
+  meeting their respective obligations.  However, to the extent
+  that any reinsuring company is unable to meet its obligations,
+  the Company would be liable for the reinsured risks.  The
+  Company has established reserves, which the Company believes
+  are adequate, for any nonrecoverable reinsurance.
+
+
+     F17
+<PAGE>
+
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+  ALLCITY INSURANCE COMPANY AND SUBSIDIARY
+
+  NOTE 8-REINSURANCE-CONTINUED
+
+  Effective January 1, 1997 Empire entered into a quota share
+  reinsurance agreement with its subsidiary, Centurion.  Under
+  this agreement, Empire assumes 50% up to July 1, 1997 and 75%
+  thereafter of the effective period premiums and losses of
+  Centurion and grants Centurion a ceding commission.  Under the
+  pooling agreement, 70% of such business assumed will be
+  retained by Empire and 30% will be ceded to the Company.
+
+  Assets and insurance reserves at December 31, 2000 and 1999
+  (including $192.4 million and $252.5 million, respectively, of
+  reinsured amounts principally arising from the intercompany
+  pooling agreement with Empire) are as follows (in thousands):
+     <TABLE>
+     <CAPTION>
+                                                     Ceded to
+                                               Empire     Others   Total
+     <S>                                      <C>         <C>      <C>
+  As of December 31, 2000
+  Prepaid reinsurance premiums                $ 17,452    $   296  $ 17,748
+  Reinsurance balances receivable on:
+    Paid losses                                      -      1,710     1,710
+    Unpaid losses                              132,143     22,672   154,815
+    Unpaid loss adjustment expenses             18,104          -    18,104
+
+
+</TABLE>
+<TABLE>
+     <CAPTION>
+
+                                                     Ceded to
+                                               Empire     Others   Total
+     <S>                                      <C>         <C>      <C>
+       As of December 31, 1999
+       Prepaid reinsurance premiums           $ 22,071    $   211  $ 22,282
+       Reinsurance balances receivable on:
+         Paid losses                                -       1,859     1,859
+         Unpaid losses                         170,060     34,936   204,996
+         Unpaid loss adjustment expenses        19,009      4,329    23,338
+
+     </TABLE>
+     <TABLE>
+     <CAPTION>
+
+  An analysis of reinsurance premiums, losses, LAE and
+  commissions for the years ended December 31, 2000, 1999 and
+  1998 are summarized as follows (in thousands):
+
+                            Direct    Assumed          Ceded              Net
+                                      Empire    Others Empire   Others
+     <S>                   <C>       <C>        <C>   <C>       <C>      <C>
+
+       2000
+       Premiums earned     $ 56,407  $ 30,855   $(13) $ 52,868  $3,526   $30,855
+       Losses incurred       46,825    31,760   (303)   48,238  (1,716)   31,760
+       LAE incurred           9,453    12,047    (83)   13,296  (3,926)   12,047
+       Commissions incurred   8,317     5,175     (3)    7,512     802     5,175
+
+       Premiums written      49,893    29,084    (13)   46,268   3,612    29,084
+       Losses paid          112,872    49,604     80   102,405  10,547    49,604
+       LAE Paid              14,959    12,218     34    14,590     403    12,218
+
+       Unearned premiums(a)  25,207    14,874     20    24,931     296    14,874
+       Unpaid losses (a)    210,828    84,236    620   188,776  22,672    84,236
+        Unpaid LAE (a)       25,863    11,351     -     25,863      -     11,351
+
+
+     </TABLE>
+     F18
+     <PAGE>
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+  ALLCITY INSURANCE COMPANY AND SUBSIDIARY
+
+  NOTE 8-REINSURANCE-CONTINUED
+
+       1999
+       Premiums earned     $ 87,793  $ 42,448   $485  $ 81,528  $ 6,750  $42,448
+       Losses incurred       58,022    33,597    659    56,088    2,593   33,597
+       LAE incurred          (6,302)    8,941    223    (6,316)     237    8,941
+       Commissions incurred  10,111     5,051     34     9,300      845    5,051
+
+       Premiums written      65,794    32,812     473   59,520    6,747   32,812
+       Losses paid          130,845    56,034     958  124,513    7,290   56,034
+       LAE Paid              13,289    12,673     107   12,853      543   12,673
+
+       Unearned premiums(a)  31,722    16,645     20    31,531      211   16,645
+       Unpaid losses (a)    276,875   102,080  1,003   242,942   34,936  102,080
+       Unpaid LAE (a)        31,369    11,522    116    27,156    4,329   11,522
+
+       1998
+       Premiums earned     $142,065  $ 67,512   $100  $135,419  $ 6,746  $67,512
+       Losses incurred      173,235    62,282    409   155,446   18,198   62,282
+       LAE incurred          17,202     7,307     74    15,963    1,313    7,307
+       Commissions incurred  15,886     8,438     10    14,795    1,101    8,438
+
+       Premiums written     117,449    58,059     48   111,135    6,362   58,059
+       Losses paid          146,208    62,323    655   135,539   11,324   62,323
+       LAE Paid              15,576    12,755     74    15,157      493   12,755
+
+
+  (a) Amounts as reflected in the consolidated balance sheets
+  can be derived by adding together amounts for direct and
+  assumed and subtracting from this sum 30% of the amount ceded
+  to Empire.  The Company remains primarily liable for amounts
+  ceded to reinsurers for unpaid losses, LAE and unearned
+  premiums to the extent that the assuming reinsuring companies
+  are unable to meet their obligations.
+
+  An analysis of the effect of reinsurance on premiums by business
+  segment for the years ended December 31, 2000, 1999 and 1998 are
+  summarized as follows (in thousands):
+     <TABLE>
+     <CAPTION>
+
+
+                                                                         Percentage
+                                            Assumed   Ceded               of Amount
+                                Direct      from      to        Net        Assumed
+                                Amount      Empire(a) Empire(b) Amount     to Net
+     <S>                        <C>        <C>       <C>        <C>        <C>
+       2000
+       Premiums written:
+         Personal Lines         $10,654    $  9,647  $ 10,654   $ 9,647    100.0%
+         Mid-Market              20,724      13,981    20,711    13,994     99.9%
+         Small Business          18,515       5,443    18,515     5,443    100.0%
+                  Total         $49,893     $29,071  $ 49,880   $29,084
+       1999
+       Premiums written:
+         Personal Lines          $22,738   $15,629   $ 23,211   $15,156    103.0%
+         Mid-Market               22,706    11,679     22,706    11,679    100.0%
+         Small Business           20,350     5,977     20,350     5,977    100.0%
+                       Total     $65,794   $33,285   $ 66,267   $32,812
+
+
+     F19
+     <PAGE>
+
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+  ALLCITY INSURANCE COMPANY AND SUBSIDIARY
+
+  NOTE 8-REINSURANCE-CONTINUED
+       1998
+       Premiums written:
+         Personal Lines         $ 56,222   $29,405   $ 56,270   $29,357    100.2%
+         Mid-Market               38,485    22,162     38,485    22,162    100.0%
+         Small Business           22,742     6,540     22,742     6,540    100.0%
+                     Total      $117,449   $58,107   $117,497   $58,059
+
+     </TABLE>
+
+   (a)Includes $(13), $473 and $48 assumed from non-affiliates in
+  2000, 1999 and 1998, respectively, before the effects of the pooling
+  agreement described in Note 1.
+
+   (b)Includes $3,612, $6,747 and $6,362 ceded to non-affiliates
+      in 2000, 1999 and 1998, respectively, before the effects of the
+      pooling agreement described in Note 1.
+
+
+  NOTE 9-FEDERAL INCOME TAXES
+
+  The Company has been included in the consolidated federal
+  income tax returns of Leucadia since 1993.  Under the terms of
+  the tax sharing agreement between Leucadia and the Company,
+  the Company computes its tax provision on a separate return
+  basis and is either charged its share of federal income tax
+  resulting from its taxable income or is credited for  tax
+  benefits resulting from its losses to the extent it could use
+  the losses on a separate return basis.
+
+  The principal components of the deferred tax benefit at
+  December 31, 2000 and 1999 were as follows (in thousands):
+     <TABLE>
+     <CAPTION>
+
+                                                   2000       1999
+     <S>                                         <C>       <C>
+    Unpaid loss and loss adjustment
+     expense reserves                             $4,014    $5,192
+    Unearned premiums                              1,041     1,162
+    Employee benefits and compensation               574       566
+    Interest accrued on surplus note               3,320     3,098
+    Allowance for doubtful accounts                  620       636
+    Deferred policy acquisition costs             (1,062)   (1,195)
+    Pension plan curtailment gain                   (344)     (688)
+    Unrealized appreciation/(depreciation)
+     on investments                                 (200)    1,240
+    Investment in a limited partnership              476       297
+    Unamortized deferred income                      681       708
+    Capitalized systems development costs           (674)     (918)
+    Tax loss carryforwards                        10,068     4,500
+    Other, net                                      (329)     (160)
+    Deferred tax benefit                          18,185    14,438
+    Valuation allowance                          (18,185)        -
+                     Total                       $     -   $14,438
+     </TABLE>
+
+
+     F20
+     <PAGE>
+
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+  ALLCITY INSURANCE COMPANY AND SUBSIDIARY
+
+  NOTE 9-FEDERAL INCOME TAXES-CONTINUED
+
+  Due to the Company's recent announcement that it will no
+  longer accept any applications for new insurance policies and
+  its having entered into an agreement to sell its renewal
+  rights, there is uncertainty as to having future taxable
+  income necessary for realization of the deferred tax asset.
+  Accordingly, a valuation allowance was provided as of December
+  31, 2000 for the total amount of the deferred tax asset.
+
+  For the years 2000, 1999 and 1998, the difference between the
+  "expected" statutory federal income tax applicable to
+  continuing operations and the actual income tax expense is as
+  follows (in thousands):
+     <TABLE>
+     <CAPTION>
+
+                                           2000        1999       1998
+     <S>                                  <C>         <C>         <C>
+
+  Expected federal income tax
+   (benefit)/expense                      $(6,279)    $(2,213)    $ 271
+  Establishment of deferred tax
+   valuation allowance                     18,185           -         -
+  Other                                       954        (378)       (1)
+  Actual federal income tax
+   expense /(benefit)                     $12,860     $(2,591)    $ 270
+
+ </TABLE>
+
+
+  NOTE 10-PENSION PLAN AND POSTRETIREMENT BENEFITS
+
+  Effective January 1, 1999, Empire adopted a non-contributory
+  defined contribution plan.  The contributions, ranging from 2%
+  - 16% of employees' current pension eligible compensation, are
+  based on age and service life of the employee.  These
+  contributions accumulate for participants on a tax-deferred
+  basis.  Participants direct the investment of the
+  contributions to their accounts. In accordance with the
+  pooling agreement, the Company shared 30% of the amount
+  contributed by the Group to the Plan ($682,000 and $1,145,000
+  in 2000 and 1999, respectively).
+
+  Prior to January 1, 1999, Empire had a trusteed
+  non-contributory defined benefit pension plan ("prior pension
+  plan") covering substantially all employees.  The benefits
+  were based on years of credited service and the employees'
+  highest compensation during any five consecutive plan or
+  calendar years before retirement.  Empire's policy was to fund
+  pension costs on a current basis using an aggregate method.
+
+  Benefits accrued under the prior pension plan were  frozen as
+  of  December 31, 1998.  The prior pension plan was merged with
+  the   Leucadia plan   effective  January 1, 1999. As a result
+  of the curtailment of the pension benefits in 1998, the Group
+  recognized a gain of $6,548,000. In accordance with the
+  pooling agreement, the Company's share of prepaid pension and
+  net periodic pension cost is 30% of the amounts reflected
+  above.
+
+
+     F21
+     <PAGE>
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+  ALLCITY INSURANCE COMPANY AND SUBSIDIARY
+
+  NOTE 10-PENSION PLAN AND POSTRETIREMENT BENEFITS-CONTINUED
+
+  The following table sets forth certain information, before the
+  effects of the pooling arrangements, relating to Empire's
+  prior pension plan for the year ended December 31, 1998 (in
+  thousands).
+
+
+  Components of net pension cost:
+  Service cost-benefits earned during the period           $1,794
+  Interest cost on projected benefit obligation             1,906
+  Actual return on plan assets                             (1,637)
+  Deferred (loss) on plan assets                             (124)
+  Net amortization and deferral                               145
+
+                      NET PERIODIC PENSION COST            $2,084
+
+  Discount rate                                              6.75%
+  Rate of increase in future compensation                    N/A
+  Long-term rate of return on plan assets                    7.50%
+
+
+  Empire provides certain health care and life insurance
+  benefits for retired employees.  During 1996, Empire amended
+  the eligibility requirement to only those employees who had at
+  least ten years of service and were at least 50 years of age
+  as of October 1, 1996.  Prior to this amendment, substantially
+  all of Empire's employees were eligible for such benefits if
+  they reached normal or early retirement age while still
+  working for Empire. As a result of this amendment, the
+  accumulated postretirement benefit obligation was reduced by
+  approximately $7,602,000 which has been amortized over three
+  years. Those benefits are provided through an insurance
+  company whose premiums are based on the cost of benefits paid
+  during the year.
+
+  The following table sets forth certain information, before the
+  effects of the pooling arrangement, relating to Empire's
+  unfunded substantive plan for postretirement benefits (in
+  thousands):
+     <TABLE>
+     <CAPTION>
+                                                2000            1999
+  <S>                                           <C>           <C>
+
+  Reconciliation of the benefit obligation
+  Accumulated postretirement obligation
+    at beginning of year                        $4,606        $5,574
+  Service cost                                      33            32
+  Interest cost                                    355           363
+  Actuarial (gain)/loss                            239        (1,065)
+  Participant contributions                        161            28
+  Benefits paid (net of contributions)            (460)         (326)
+  Accumulated postretirement obligation at
+    end of year                                 $4,934       $ 4,606
+
+  Unrecognized net gain from past
+    experience different from that assumed
+    and effects of changes in assumptions          (541)        (799)
+      ACCRUED POSTRETIREMENT BENEFITS COST      $(5,475)     $(5,405)
+
+     </TABLE>
+     <TABLE>
+<CAPTION>
+  Components of net postretirement benefits
+                                                    2000     1999     1998
+<S>                                                <C>     <C>       <C>
+Service cost--benefits earned during the period    $   33  $    32   $    29
+Interest cost on projected benefit obligation         355      363       370
+Amortization of curtailment gain                        -   (1,900)   (2,533)
+Net amortization and deferral                         (19)       -         -
+  PERIODIC POSTRETIREMENT BENEFITS COST/(INCOME)   $  369  $(1,505)  $(2,134)
+
+
+</TABLE>
+
+     F22
+     <PAGE>
+
+
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS-CONTINUED
+  ALLCITY INSURANCE COMPANY AND SUBSIDIARY
+
+  NOTE 10-PENSION PLAN AND POSTRETIREMENT BENEFITS-CONTINUED
+
+  In accordance with the pooling agreement, the Company's share
+  of accrued postretirement benefit cost and net periodic
+  postretirement benefit income  is 30% of the amounts reflected
+  above and is included in other liabilities.  In determining
+  the accumulated postretirement benefit obligation at December
+  31, 2000 and 1999, Empire utilized discount rates of 7.5% and
+  8%, respectively. The assumed health care cost trend rates
+  used in measuring the accumulated postretirement benefit
+  obligation were 10% for 2000 declining to an ultimate rate of
+  5% by 2010.  If the health care cost trend rates were
+  increased by 1%, the accumulated postretirement benefit
+  obligation as of December 31, 2000 would have increased by
+  approximately $442,000 before the effects of the pooling
+  agreement.  If the health care cost trend rates were decreased
+  by 1%, the accumulated postretirement benefit obligation as of
+  December 31, 2000 would have decreased by approximately
+  $382,000 before the effects of the pooling agreement. The
+  effect of a 1% increase or decrease on the estimated aggregate
+  of service and interest cost for 2000, 1999 and 1998 would be
+  immaterial.
+
+  In 1994, Empire established a Salary Cap Restoration Plan
+  ("SCRP") for certain corporate officers.  Under the SCRP,
+  Empire provided these officers with an additional benefit, to
+  be paid in a lump-sum upon retirement, equal to the difference
+  between the actuarially determined lump-sum benefits, as
+  computed under the prior pension plan, of the officer's
+  highest five year average compensation (not to exceed
+  $320,000, adjusted for the cost of living) at retirement and
+  the current Internal Revenue Service maximum compensation
+  limit of $160,000.  The SCRP is an unfunded plan. In 2000,
+  1999 and 1998 Empire expensed $0, $98,000 and $74,000,
+  respectively.  Along with the prior plan, the benefits under
+  SCRP were curtailed as of December 31, 1998.  Under the
+  pooling arrangement, the Company is obligated to pay 30% of
+  the cost of the SCRP.
+
+  Empire sponsors an Employees' Savings Plan (the "Savings
+  Plan"), under which each eligible employee may defer a portion
+  of their annual compensation, subject to certain limits.
+  Empire matches contributions equal to 50% of the employee's
+  contributions up to a maximum of 3% of the employee's salary.
+  A participant may also contribute, from after-tax dollars, an
+  amount, not to exceed 10% of annual compensation. Empire's
+  contributions to the Savings Plan were $294,000, $452,000 and
+  $420,000 in 2000, 1999 and 1998, respectively. Under the
+  pooling agreement, the Company is obligated to provide 30% of
+  Empire's contributions to the Savings Plan.
+
+  NOTE 11-LEASES
+
+  The Group has entered into a twenty year lease agreement which
+  expires in 2018, consisting of 286,510 square feet, in an
+  office building located at 335 Adams Street in Brooklyn, New
+  York, in which Leucadia has an equity interest.  The Group
+  received certain incentives from both the City and State of
+  New York in connection with this lease, which will be
+  recognized over the term of the lease.
+
+  Empire has subleased four floors consisting of 133,140 square
+  feet of the office space to its parent, Leucadia, at similar
+  terms as are in the original lease.  An additional two floors
+  consisting of 64,340 square feet have been subleased to the
+  Board of Education of the City School District of the City of
+  New York.
+
+
+     F23
+     <PAGE>
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+  ALLCITY INSURANCE COMPANY AND SUBSIDIARY
+
+  NOTE 11-LEASES-CONTINUED
+
+  Empire guaranteed the payment of lease rentals by a
+  wholly-owned subsidiary which relocated its offices in 1998 to
+  the new office building with Empire.  In accordance with the
+  guarantee, in 1998, $2.0 million of a $2.3 million liability
+  for lease abandonment costs established by Empire in 1997 was
+  reversed upon release by the landlord from its obligation. The
+  remainder was paid in 1999. Under the pooling agreement, the
+  Company was obligated for 30% of this transaction.
+
+  Future minimum rentals, which exclude escalation amounts, on
+  non-cancelable leases in the aggregate for each of the next
+  five years and thereafter are as follows (in thousands):
+     <TABLE>
+     <CAPTION>
+                                Lease          Sublease  Net
+     <S>                        <C>           <C>         <C>
+      2001                      $ 4,906       $ 4,632     $  274
+      2002                        4,906         4,982        (76)
+      2003                        5,029         5,039        (10)
+      2004                        5,642         5,324        318
+      2005                        5,642         5,324        318
+      Thereafter                 85,751        77,187      8,564
+      Total                    $111,876      $102,488     $9,388
+     </TABLE>
+
+  Rental expense for the Group for the years 2000, 1999 and 1998
+  was $3.8 million, $3.3 million and $3.3 million, respectively.
+  The Company is obligated to pay 30% of these rental charges in
+  accordance with the pooling agreement.
+
+
+  NOTE 12-BUSINESS SEGMENTS
+
+  Allcity operates in three business segments-Personal Lines,
+  Mid-Market and Small Business.  Results by business segment for each
+  year ended December 31, 2000, 1999 and 1998 are summarized as follows
+  (in thousands):
+  <TABLE>
+  <CAPTION>
+
+                                                  Premiums  Underwriting
+                                                   Earned    Gain(Loss)
+  <S>                                              <C>       <C>
+  2000
+  Personal Lines                                   $12,099   $(11,414)
+  Mid-Market                                        13,152    (16,048)
+  Small Business                                     5,604     (1,292)
+
+                   TOTAL FROM UNDERWRITING         $30,855   $(28,754)
+  Net investment income, net securities losses,
+    other income and interest on surplus note                  10,814
+            LOSS BEFORE FEDERAL INCOME TAXES                 $(17,940)
+
+  1999
+  Personal Lines                                   $22,404   $ (3,974)
+  Mid-Market                                        13,771    (12,647)
+  Small Business                                     6,273       (332)
+                  TOTAL FROM UNDERWRITING          $42,448   $(16,953)
+  Net investment income, net securities losses,
+    other income and interest on surplus note                  10,631
+            LOSS BEFORE FEDERAL INCOME TAXES                 $ (6,322)
+
+  1998
+  Personal Lines                                   $39,251   $ (4,418)
+  Mid-Market                                        21,643    (14,598)
+  Small Business                                     6,618       (788)
+                       TOTAL FROM UNDERWRITING     $67,512    (19,804)
+  Net investment income, net securities gains,
+    other income and interest on surplus note                  20,578
+            INCOME BEFORE FEDERAL INCOME TAXES               $    774
+
+     </TABLE>
+     F24
+     <PAGE>
+
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+  ALLCITY INSURANCE COMPANY AND SUBSIDIARY
+
+  NOTE 12-BUSINESS SEGMENTS-CONTINUED
+
+  Direct  investment portfolios  are  not  maintained  for  each
+  segment  and accordingly, allocation  of  assets  to  each
+  segment  is  not   performed.
+
+  Seven  general agents  produced approximately 30%, 33%, and
+  32% of Allcity's  premiums for the years ended December 31,
+  2000, 1999 and 1998, respectively.  All of Allcity's business
+  is conducted in the State of New York.
+
+  NOTE 13-FAIR VALUE OF FINANCIAL INSTRUMENTS
+
+  The Company's only material financial instruments are
+  investments for which the  fair values  are disclosed in Note
+  4 and  the surplus note and short-term  investments, for
+  which the  carrying amounts  approximate fair  value.
+
+  NOTE 14-LITIGATION
+
+  The Company is a party to legal proceedings that are
+  considered to be either ordinary,  routine litigation or
+  incidental to its  business.  Based on discussions with
+  counsel, the Company does not believe that such litigation
+  will have   a material  effect  on  its  financial  position,
+  results  of operations or cash flows.
+
+  NOTE 15-RELATED PARTIES
+
+  See Notes 1, 2, 3, 8, 9, 10 and 11 regarding Allcity's
+  relationships with the Group and Leucadia.
+
+  NOTE 16-SUMMARY OF UNAUDITED QUARTERLY RESULTS OF OPERATIONS
+<TABLE>
+  <CAPTION>
+
+  The following is a summary of unaudited quarterly results of
+  operations for 2000 and 1999 (in thousands, except per share
+  amounts):
+
+                                                     2000
+                                      1st       2nd        3rd        4th
+     <S>                              <C>     <C>      <C>        <C>
+       Total Revenues                 $11,299 $10,907  $10,925    $ 9,172
+       Net Income/(Loss)                  287    (564)  (3,120)   (27,403)
+       Basic and Diluted Earnings/
+        (Loss) Per Share                 0.04   (0.08)   (0.44)     (3.87)
+
+                                                   1999
+                                      1st       2nd        3rd        4th
+     <S>                              <C>     <C>      <C>        <C>
+       Total Revenues                 $17,390 $14,682  $12,353    $11,237
+       Net Income/(Loss)                   87    (426)    (314)    (3,078)
+       Basic and Diluted Earnings/
+        (Loss) Per Share                 0.01   (0.06)   (0.04)     (0.44)
+
+     </TABLE>
+See Notes 1, 7 and 9 for certain additional information concerning
+results of operations for 2000.
+     F25
+     <PAGE>
+
+<TABLE>
+<CAPTION>
+ALLCITY INSURANCE COMPANY
+SCHEDULE VI - SUPPLEMENTAL INSURANCE INFORMATION
+CONCERNING PROPERTY/ CASUALTY INSURANCE OPERATIONS
+(Thousands of dollars)
+
+ Col. A        Col. B      Col. C     Col. D     Col. E   Col. F   Col. G      Col. H        Col. I      Col. J     Col. K    Col. L
+                          Reserves                                         Claims and Claim   Amortiz-                       Paid
+                         For Unpaid                                      Adjustment Expenses  ation of                      Claims
+              Deferred     Claims     Discount                           Incurred related to  Deferred                    and Claim
+               Policy    and Claim    if any                        Net      (1)     (2)      Policy    Other               Adjust-
+            Acquisition  Adjustment  Deducted  Unearned  Earned  Investment Current Prior   Acquisition Operating Premiums   ment
+Segment       Costs      Expenses    in Col.C  Premiums Premiums Income (b)  Year   Years     Costs   Expenses (b) Written Expenses
+
+Year Ended
+12/31/00:
+<S>             <C>         <C>       <C>       <C>      <C>      <C>       <C>     <C>       <C>        <C>      <C>       <C>
+
+Year ended
+12/31/00:
+
+Personal Lines   $1,160     $ 72,672		$ 9,950  $12,099   $3,090   $11,086 $ 6,776   $3,008     $2,643   $ 9,647   $29,445
+Mid - Market	1,290      166,278     239     13,430   13,152    6,866    12,893   9,108    3,355      3,844    13,994    27,256
+Small Business 	  585	      29,556		  9,242    5,604    1,487     3,901      43    1,430      1,522     5,443     5,121
+		     $3,035     $268,506   $ 239    $32,622  $30,855  $11,443   $27,880 $15,927   $7,793	   $8,009   $29,084   $61,822
+
+Year Ended
+12/31/99:
+
+Personal Lines   $1,670     $105,219            $15,794  $22,404  $ 4,114   $21,000 $(1,764)  $ 4,372    $2,769   $15,156   $32,634
+Mid-market        1,118      200,278   $ 250     13,047   13,771    6,856    12,008   7,743     3,222     3,445    11,679    32,096
+Small Business      627	      36,439             10,086    6,273    1,496     3,516      35     1,754     1,301     5,977     3,977
+                 $3,415     $341,936   $ 250    $38,927  $42,448  $12,466   $36,524   6,014   $ 9,348    $7,515   $32,812   $68,707
+
+Year Ended
+12/31/98:
+
+Personal Lines   $2,920     $182,447            $33,097  $39,251  $ 5,869   $35,142 $   599   $ 7,340    $1,144   $29,357   $43,866
+Mid-market        1,609      215,363   $ 307     19,797   21,643    7,500    17,081  10,378     4,441     3,292    22,162    26,692
+Small Business      836       36,422             11,078    6,618    1,154     4,475   1,914     1,630      (120)    6,540     4,520
+                 $5,365     $434,232   $ 307    $63,972  $67,512  $14,523   $56,698 $12,891   $13,411    $4,316   $58,059   $75,078
+
+</TABLE>
+
+
+     [FN]
+     (a) Liabilities for losses for certain long - term disability
+     payments under workers' compensation insurance are discounted
+     at a maximum of 6%. The liabilities discounted are deemed
+     insignificant and do not have a material effect on reported income.
+
+     (b) Allocations of Net Investment Income and Other Operating Expenses
+     are based on a number of assumptions and estimates and results would
+     change if different methods were applied.   Other Operating Expenses
+     are reflected net of service fee income excluding other income and
+     interest on surplus note.
+
+     * Information required by Schedule III - Supplementary Insurance
+     Information has been incorporated within this schedule.
+
+     F26
+     <PAGE>
+
+       </TEXT>
+       </DOCUMENT>

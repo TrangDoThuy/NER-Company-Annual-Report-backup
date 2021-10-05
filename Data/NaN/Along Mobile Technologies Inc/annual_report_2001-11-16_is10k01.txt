@@ -1,0 +1,820 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>is10k01.txt
+<DESCRIPTION>ANNUAL REPORT AUG 31, 2001
+<TEXT>
+
+Form 10-K for INTERNATIONAL SYNERGY HOLDING COMPANY, LTD.
+Filed for the period ending August 31, 2001
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D. C. 20549
+FORM 10-K
+
+ANNUAL REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+
+Date of Report:  August 31, 2001
+
+INTERNATIONAL SYNERGY HOLDING COMPANY, LTD.
+
+(Exact name of Registrant as specified in its charter)
+
+
+	 Nevada	  	               0-12423           94-2906927
+(state or other jurisdiction)   (Commission File No.) (IRS Employer #)
+
+
+1801 Avenue of the Stars, Suite 635, Los Angeles, CA       90067
+(address or principal executive office)	                (Zip Code)
+
+(310) 552-0870
+(Registrant's telephone number)
+
+Securities registered pursuant to section 12(g) of the Act:
+(Common Stock, no par value
+(Title of class)
+
+
+Indicate by check mark whether the Registrant (1) has filed all
+reports required to be filed by Section 13 or 15(d) of the Securities
+Exchange Act of 1934 during the preceding 12 months (or for such
+shorter period that the Registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90
+days.
+
+Yes	___X___	No	______
+
+
+The aggregate market value of the voting stock held by non-affiliates
+of the Registrant:  Currently, the Company's stock is thinly traded.
+There are 2,154,000 shares held by non-affiliates.  The average bid
+and ask price for the period covered by this Form 10-K was $1.28 per
+share.  Using this value of $1.28 per share, the aggregate market
+value is estimated at $4,846,57.20. Number of common shares, without
+par value, outstanding as of August 31, 2001, was 3,786,390.
+
+
+1
+
+
+
+
+INTERNATIONAL SYNERGY HOLDING COMPANY, LTD.
+FORM 10-K
+
+Fiscal Year ended August 31, 2001
+
+
+TABLE OF CONTENTS
+
+							Page No.
+
+
+Part I
+
+	Item 1	Business
+
+	Item 2	Properties
+
+	Item 3	Legal Proceedings
+
+	Item 4	Submission of Matters to a vote of Security Holders
+
+
+Part II
+
+	Item 5	Market for Registrant's Common Stock and Related
+			Stockholder Matters
+
+	Item 6	Selected Financial Data
+
+	Item 7	Management's Discussion and Analysis of Financial
+			Condition and Results of Operation
+
+	Item 8	Consolidated financial Statements and Supplementary
+			Data
+
+	Item 9	Changes in and Disagreements with Accounts on
+			Accounting and Financial Disclosure
+
+
+Part III
+
+	Item 10	Directors and Executive Officers of the Registrant
+
+	Item 11	Executive Compensation
+
+	Item 12	Security Ownership of Certain Beneficial Owners
+			and Management
+
+	Item 13	Certain Relationships and Related Transactions
+
+
+Part IV
+
+	Item 14	Exhibits, Financial Statements, Schedules and Reports
+			on Form 8-K
+INTERNATIONAL SYNERGY HOLDING COMPANY, LTD.
+
+PART I
+
+
+ITEM 1:	BUSINESS (General)
+
+The Company INTERNATIONAL SYNERGY HOLDING COMPANY, LTD., formerly
+
+Merit Diversified International, Inc. ("the Company") owns entertainment
+
+related assets.
+
+B.	History of Operations
+
+The Company was incorporated in the State of
+Utah, in 1983, subsequently reincorporated in the State of Nevada.
+Initially, the Company published a telephone directory, but this
+operation was suspended in 1987 due to lack of operating funds and
+revenues.  From 1988 until new management was appointed in 1998,
+the Company made several attempts to acquire and operate various
+businesses. During the fiscal year ended August 31, 2000, the company
+acquired all outstanding shares of Allied Entertainment Group, Inc.
+As of September 15, 2000 the company changed its name from Merit
+Diversified International to Allied Artists Entertainment Group,
+Inc., and more recently to International Synergy Holding Company,
+Ltd.  The Company has brought a law suit against the former owner
+of Allied Artists Entertainment Group, Inc., for misrepresentations
+as reflected in past 8k filings.
+
+ITEM 2:	PROPERTIES
+
+The following assets were contributed to the company
+by shareholders:
+1. Master Tapes: Value of $1,203,814 appraised by
+   George L. (Sonny) Carter, Tape Librarian, MCA
+   Records, Inc.  This as a result of the prior
+   commitment specified in the previous 8-K.
+
+
+2. Films:  Two motion pictures ready for production;
+value of $880,000 appraised by Dr. Philip Chamberlin
+of the Academy of Motion Picture Arts & Sciences.
+This as a result of the prior commitment specified
+in the previous 8-K.
+
+3. 30,000 Dino Babies animation cels valued at
+$3,000,000. Items 3,4 and 5 were transferred into
+the Company as a result of the prior commitment
+specified in the previous 8-K for the then new
+controlling shareholders to transfer into the Company
+$5,000,000 in assets.
+
+ITEM 3:	LEGAL PROCEEDINGS
+
+The Company is suing Kim Richardson for misrepresentations in his
+sale of Allied Artists Entertainment Group to The Company.
+
+
+ITEM 4:	SUBMISSION OF MATTERS TO A VOTE OF SECURITIES HOLDERS
+Controlling shareholders voted to reverse split the stock 8-1 and
+change name of the Company from Allied Artists Entertainment Group,
+Inc. to International Synergy HOLDING COMPANY, LTD., during the
+year ending August 31, 2001.
+
+
+ITEM 5:	MARKET FOR THE REGISTRANT'S COMMON STOCK AND RELATED
+            STOCKHOLDER MATTERS
+
+The Company's common stock is traded on the OTC Bulletin Board.
+
+The quote below is from the "Pink sheets: and the OTC bulletin Board.
+These numbers represent an average.  The Company's stock was thinly
+traded in fiscal year ended August 31, 2000.
+
+Bid	High		16.00		Low			 .25
+
+Ask	High		21.00		Low			.75
+
+ITEM 6:	SELECTED FINANCIAL DATA
+
+The following information is derived from the consolidated financial
+statements included elsewhere herein.  All information presented
+below should be read in conjunction with the Consolidated Financial
+Statements and Notes included elsewhere in this Form 10K.
+
+<Table>                    <C>     <C>        <C>    <C>    <C>
+For Year Ended August 31   2001      2000     1999   1998   1997
+Net Sales	                  0        0        0	 0	  0
+
+Net Income (Loss)	         3,053       0        0       0      0
+
+Earnings (Loss) per Share  .001     (.007)     NIL     NIL   NIL
+
+Cash Dividends per Share      0        0        0	  0	  0
+
+Total Assets	         5,153,008 5,149,955  0	  0     0
+
+Long-term Notes Payable	     0         0	      0	  0     0
+Total Stockholders'
+Equity                     5,153,008 5,149,955  0       0     0
+</Table>
+
+ITEM 7:	MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+	CONDITION RESULTS OF OPERATIONS (Continued)
+
+The information set forth in "Management's Discussion and Analysis
+of Financial Condition and Results of Operations" below includes
+"forward-looking statements" within the meaning of Section 27A of
+the Securities Act, and is subject to the safe harbor created by
+that section.  Factors that could cause actual results to differ
+materially from these contained in the forward-looking statements
+are set forth in "Management's Discussion and Analysis of Financial
+condition and Results of Operations".
+
+Year Ended August 31, 2001 and 2000
+
+During the fiscal year ended August 31, 2000, the Company acquired
+a 100% interest in Allied Entertainment Group, Inc.
+
+The Company is a development stage company and has had no operations
+during the Year ending August 31, 2001.  The Company is seeking to
+acquire or merge with operating companies.
+
+Item 8:	CONSOLIDATED FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+Andrew M. Smith, CPA
+3711 Long Beach Blvd., Suite 809
+Long Beach, Ca 90807
+(562) 424-8679
+
+To the Board of Directors
+INTERNATIONAL SYNERGY HOLDING COMPANY, LTD.:
+
+INDEPENDENT AUDITOR'S REPORT
+I have audited the accompanying consolidated balance sheet of
+INTERNATIONAL SYNERGY HOLDING COMPANY, LTD., as of August 31,
+2001, 2000, and 1999 respectively; and the related statements of
+operations, stockholders' equity and cash flows for the years
+then ended.  My responsibility is to express an opinion on these
+financial statements based on my audit.  I have conducted my
+audit in accordance with generally accepted auditing standards.
+Those standards require that I plan and perform the audit to
+obtain reasonable assurance about whether the financial
+statements are free of material misstatement.
+
+An audit includes examining, on a test basis.  Evidence supporting
+the amounts and disclosures in the financial statements.  An audit
+also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating
+the overall financial statement presentation.  I believe that my
+audit and those of other auditors provides a reasonable basis for
+my opinion.
+
+In my opinion, the financial statements referred to above present
+fairly, in all material respects, the financial position of
+International Synergy Holding Co, Ltd., as of August 31, 2001, 2000
+and 1999, and the results of it's operations and cash flows for the
+years then ended, in conformity with generally-accepted accounting
+principles.
+
+Andrew M. Smith, CPA
+Dated:   September 27, 2001
+
+
+
+
+INTERNATIONAL SYNERGY HOLDING COMPANY, LTD.
+BALANCE SHEET
+AS OF AUGUST 31,
+
+
+	                       Assets
+<Table>
+					  <C>	          <C>
+			              2001	    2000
+ Current Assets
+	 Cash                     $  -           $ -
+
+	 Accounts Receivable  	     -             -
+
+       Less: Allowance for
+       Doubtful Accounts 	     -   	       -
+	 Inventories 		     -
+      Prepaid Expenses 		     -   		 -
+	     Total Current Assets    -             -
+
+ Property, Plant, and
+ Equipment Net of
+ Accumulated Depreciation 	  70,000         70,000
+
+ Other Assets
+  Investment Assets   	      5,083,008     5,079,955
+
+	   Total Assets 	    $ 5,153,008  $  5,149,955
+
+
+	              Liabilities and Stockholders Equity
+
+ Current Liabilities
+	 Accounts Payable     $   -            $   -
+
+	   Total Currrent
+         Liabilities            -   	       -
+
+ Long Term Liabilities 		  -   		 -
+
+	 Total Liabilities        -   		 -
+
+
+ Stockholders' Equity
+ Common Stock (50,000,000
+ shares authorized, no
+ par value, 3,892,782
+ shares issued and
+ outstanding) (Note 1) 	  1,333,229 	  1,552,349
+
+
+
+Additional Paid in
+Capital (Note 8)	        3,816,726         3,597,606
+
+Retained Earnings
+(Note 8)                      3,053
+
+
+Total Equity 		  5,153,008 	   5,149,955
+
+Total Liabilities
+and Equity 		      $ 5,153,008       $  5,149,955
+</Table>
+
+INTERNATIONAL SYNERGY HOLDING COMPANY, LTD.
+INCOME STATEMENT
+YEAR ENDED AUGUST 31,
+<Table>                   <C>               <C>
+			        2001		  2000
+
+Revenues	            $   -   	        $   -
+
+Less: Cost of Revenues	    -                   -
+
+	Gross Margin          -   		      -
+
+Operating Expenses	    -                   -
+
+Income from Continuing
+Operations		          -                   -
+
+Income from Discontinued
+Operation		         3,053 		      -
+
+Net Income		  $      3,053 		 $    -
+
+
+Weighted average
+number of shares		3,755,282	       3,892,782
+
+Earnings/(Loss) per
+common share	     $   0.001 	       $    -
+</Table>
+
+INTERNATIONAL SYNERGY HOLDING COMPANY, LTD.
+STATEMENT OF CASH FLOWS
+YEAR ENDED AUGUST 31,
+
+<Table>                  <C>                   <C>
+			       2001				2000
+CASH FLOWS FROM OPERATING ACTIVITIES
+   Net Income	    $    -   		 $      -
+   Adjustments to
+   reconcile net
+   income to net
+   cash provided
+   by operating
+   activities
+   Depreciation Expense	    -   	               -
+   (Increase) Decrease in
+     Accounts receivables   -                      -
+     Inventories		    -   	               -
+     Prepaid Expenses	    -   	               -
+
+   Increase(Decrease) in
+     Accounts Payables	    -   			   -
+       NET CASH PROVIDED BY
+       OPERATING ACTIVITIES -                      -
+
+CASH FLOWS FROM INVESTING ACTIVITIES
+    Acquisition of Fixed
+    Assets			     -   		         -
+
+      NET CASH USED FOR
+      INVESTING ACTIVITIES   -   			   -
+
+CASH FLOWS FROM FINANCING ACTIVITIES
+    Proceeds from sale of stock
+    Repayment of debt	     -   			   -
+    Proceeds from long
+    term debt		     -   			   -
+      NET CASH PROVIDED BY
+      FINANCING ACTIVITIES   -                     -
+
+
+Increase (Decrease) in Cash			            					                 -
+    CASH AT BEGINNING OF
+    PERIOD			     -   			   -
+
+    CASH AT END OF PERIOD $  -   			$  -
+</Table>
+
+INTERNATIONAL SYNERGY HOLDING COMPANY, LTD.
+STATEMENT OF SHAREHOLDERS EQUITY
+YEAR ENDED AUGUST 31,
+<Table>              <C>        <C>          <C>           <C>          <C>
+					                             Additional
+	                    Common	   	Common       	Paid-in	     Retained
+	                    Shares	   	Stock	       	Capital	     Earnings    	Total
+
+Bal August 31, 1999  31,142,257  $1,552,349    $6,283,149  $(2,685,543)	$5,149,955
+
+Net Income							                 -
+
+Quasi-reorganization				     (2,685,543)   2,685,543
+
+Bal August 31, 2000  31,142,257   1,552,349 	3,597,606 	     -   	 5,149,955
+
+Net Income							                3,053        3,053
+
+Reaquired Shares
+from Allied Artists
+and Eye Candy Post  (1,100,000)   (219,120)	              219,120 		-
+
+8:1 Reverse Stock
+Split	             (26,255,867)
+
+Quasi-reorganization			               219,120 	  (219,120)
+
+Bal August 31, 2001  3,786,390   $1,333,229 	$3,816,726 	   $ 3,053 	$ 5,153,008
+</Table>
+
+
+
+Note 1. General Company Information and Summary of  Significant
+        Accounting Policies
+
+International Synergy Holding Company, Ltd., ., formerly Merit
+Diversified International, Inc. ("the Company") was incorporated
+in the State of Utah, in 1983, subsequently reincorporated in the
+State of Nevada.  Initially, the Company published a telephone
+directory, but this operation was suspended in 1987 due to lack
+of operating funds and revenues.  From 1988 until new management
+was appointed in 1998, the Company made several attempts to
+acquire and operate various businesses.
+
+The company changed its name in 2000 to International Synergy
+Holding Company, Ltd. Its current focus has been in the
+entertainment industry.  The Company is anticipating broadening
+its holdings through strategic acquisitions, and will move with
+careful determination.
+
+Basis of Presentation
+
+The accompanying consolidated financial statements have been
+prepared in accordance with United States generally accepted
+accounting principles.
+
+Property and Equipment
+
+As of August 31, 2000 the Company acquired fixed assets.
+Previously the Company depreciated its fixed assets over
+their estimated useful lives on a straight line bases.
+
+Reverse Stock Split
+
+In August, 2001 there was a 8 to 1 reverse split of common stock.
+All share and per share amounts have been restated accordingly.
+
+Net Loss Per Share
+
+Income/Loss per share is computed based on the average number
+of shares outstanding during each year. Shares outstanding for
+the year ended August 31, 2001 have been adjusted for an 8-1
+reverse stock split.
+
+
+Revenue Recognition
+
+The Company employs the accrual method of accounting, and
+therefore recognizes revenues when earned.
+
+Provision for Income Taxes
+The provision for income taxes is the total of the current
+taxes payable and the net of the change in the deferred income
+taxes.  During the current year there was no operating activity.
+As a result there is no current provision for income taxes.
+Provision is made for deferred income taxes where differences
+exist between the period in which transactions affect current
+taxable income and the period in which they enter into the
+determination of net income in the financial statements. The
+Company has a net operating loss carry forward of approximately
+$2,000,000 available to offset future taxable income.  The
+last of the carry forward expires in 2009. No benefit has
+been recorded on the face of the balance sheet for this benefit.
+
+Note 2 - Net Income (Loss) Per Share
+Net income (loss) per share and common equivalent share is
+computed using The weighted average number of shares outstanding
+during each period.
+
+Note 3.	Related Party Transactions
+
+There are no outstanding obligations due to or from related
+parties as of August 31, 2001 and 2000.
+
+Note 4.	Commitments and Contingencies
+
+The Company has no commitments or contingencies as of August 31,
+2001,  or 2000
+
+Note 5 - Contributed Assets
+
+Controlling interest in INTERNATIONAL SYNERGY HOLDING, INC.,
+a Nevada Corporation, and its predecessor Merit Diversified
+Holding Company (the "Company"), was transferred from  Jen
+Investment Corporation to the following entities:
+
+1. Selective Entertainment                   	  406,250 shares
+2. United Assurance Company, Ltd. 	          	  406,250 shares
+3. Apple Juice Productions		              406,250 shares
+4. International Synergy Corporation         	  406,250 shares
+5. International Annuity Trust Corporation   	  406,250 shares
+6. IAT Mortgage Bankers		                    406,250 shares
+   (The above has been adjusted for 8:1 reverse stock split as of
+    August 31, 2001)
+
+As a result of the transfer of controlling interest, the above
+listed companies  have irrevocably  transferred into the Company
+assets having a value $5,000,000 as follows:
+
+1.	Master Tapes: Value of $1,203,814 appraised by George L.
+      (Sonny) Carter, Tape Librarian, MCA Records, Inc.
+
+2.	Films:  Two motion pictures ready for production; value of
+      $880,000 appraised  by Dr. Philip Chamberlin of the Academy
+      of Motion Picture Arts & Sciences.
+
+3.	30,000 Dino Babies animation cels valued at $3,000,000 as
+      appraised by Edward N. Okil, National Institute of
+      Appraisers.
+
+Note 6.  Going Concern
+The Company has incurred significant losses since its inception.
+Due to the nature of the music and entertainment businesses,
+the Company's prospects for the future are  dependent on a
+number of variables which cannot be predicted. There is fierce
+competition in these industries, and the availability of future
+financing is unknown.
+
+Note 7. Mergers and Acquisitions
+The Company acquired 100% ownership of Allied Entertainment Group
+valued at historic cost of $2,000,000.  The Company issued 500,000
+shares for this business. The Company has written off this
+$2,000,000 figure, since Allied may not have the value originally
+represented to the Company.  In the Company's 10-K for 2000, this
+transaction was accounted for as a purchase, with the results
+of operations of the acquired entity included in the consolidated
+statement of income. The presentation of the year 2000 comparatives,
+excludes the effect of this transaction.
+
+Note 8. Quasi-reorganization
+As a result of the demerging of Allied Artists Entertainment Group,
+it was felt that a readjustment of the company's accounts in the
+form of a quasi-reorganization was appropriate
+
+A quasi-reorganization is an accounting procedure which results in
+eliminating the accumulated defecit in retained earnings. This
+accounting procedure is limited to a reclassification of accumulated
+defecit as a reduction of paid-in capital.  The Company believes the
+quasi-reorganization is appropriate because of the installation of
+new executive officers, the above mentioned demerging of Allied
+Artists Entertainment Group, and the formulation of a revised
+operating plan. As a result thereof, it would be able to devote its
+resources to its continuing operations. Because asset have been
+stated at approximate fair values, the quasi-reorganization had no
+effect on recorded assets.
+
+Note 9. Subsequent Events
+
+On September 28, 2001 (subsequent to the balance sheet date), 175,000
+shares of common stock and 100,000 warrants were registered with the
+Securities and Exchange Commission on For S-8.  The shares and
+warrants issued were for compensation to certain independent consultants.
+
+
+
+
+
+
+Balance of Page Left Blank Intentionally
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INTERNATIONAL SYNERGY HOLDING COMPANY, LTD.
+
+
+
+
+ITEM 8	Financial Statements
+	Index to Consolidated Financial Statements
+
+_______________________________________________________________
+_______________________________________________________________
+2001, 2000, and 1999 Consolidated Financial Statements:
+
+	Report of Independent Certified Public Accountants
+
+	Balance Sheets as of August 31, 2001 and 2000
+
+	Statements of Operations for the Years Ended August 31, 2001,
+	and 2000
+
+	Statements of Stockholders' Equity for the Years Ended August
+      31, 2001, 2000 and 1999
+
+      Statement of Cash Flows for the Years Ended August 31, 2001,
+      and 2000
+
+	Summary of Accounting Policies and Notes to Consolidated
+      Financial  Statements
+
+
+      Schedules --
+
+	II	Valuation and Qualifying Accounts
+
+SCHEDULE 11 - VALUATION AND QUALIFYING ACCOUNTS
+
+NONE.
+
+ITEM 9:	CHANGES AND DISAGREEMENTS WITH ACCOUNTANTS ON
+      		ACCOUNTING AND FINANCIAL DISCLOSURES
+
+The Company has continued to retain Andrew M. Smith, C.P.A. as
+auditor and no disagreements with accounts were at issue.
+
+
+ITEM 10:	DIRECTORS AND EXECUTIVE OFFICERS OF THE COMPANY
+
+		The officers and directors of the Company were the
+            following:
+
+	Name		         		Title
+	Hiroko Sagawa		 	Secretary/Treasurer
+	Kenta Rooks				President
+	John P. Farquhar 			Director
+	H.H. Brookings			Director
+
+Mr. John P. Farquhar, a director, is a research
+scientist, inventor and investor.  Mr. Farquhar is a graduate of
+Harvard College; received his B.S. in mathematics at California
+Institute of Technology with an M.S. in Chemistry. He represented
+his family in major land reversion cases involving the Pacific
+Electric Railway, City of Santa Monica, Country of Los Angeles,
+State of California. Mr. Farquhar Contributed information and
+historical photographs and various documents to the Santa Monica
+Historical Society, the Heritage Square Museum and Miramar Hotel,
+which were family homes, and the Huntington Library in San Marino,
+California. He invented and obtained a patent for correcting
+extra-axial aberrations of both refractive and reflective lenses.
+Mr. Farquhar developed several other inventions on which he is
+still working; one of them is a system for eliminating pollutants
+form the exhaust of combustion engine systems, including internal
+combustion engines (such as in motor vehicles) and from factory
+smokestacks. During the last few years, he has been working with
+Robert Rooks in putting together Synergy Group of companies.
+
+
+
+
+ITEM 11:	EXECUTIVE COMPENSATION
+
+No officer or director receives compensation for services rendered
+except that the directors are authorized to receive 100 shares of
+R-144 Company stock for each directors meeting that they attend.
+No such stock has been issued.
+
+
+ITEM 12:	SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+            MANAGEMENT
+
+As of August 31, 2001, the following were beneficial owners of
+more than five percent of the Company's common stock.
+
+
+
+Stock			       Name and Address				Ownership
+
+Common		       Selective Entertainment		406,250
+			       1801 Avenue of the Stars #640
+ 				 Los Angeles, CA 90067
+
+				I A T Mortgage Bankers			406,250
+				1801 Avenue of the Stars #640
+				Los Angeles, CA 90067
+
+
+				International Annuity Trust
+                        Corporation                         406,250
+				6348 De Roja
+				Woodland Hills, CA 91364
+
+				Apple Juice Productions	            406,250
+				6348 De Roja
+				Woodland Hills, CA 91364
+
+				International Synergy Corporation  406,250
+				1054 Thomas Street, South East
+				Grand Rapids, MI
+
+				United Assurance Company, Ltd.     406,250
+				1142 King Street
+				Chrisiansted, St.Croix, U.S.V.I.
+
+	                  Total as a Group:                2,437,500
+
+
+The table below sets forth those directors and officers who own
+shares of Company stock.
+
+None
+
+ITEM 13:	CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+No director or officer, directly or indirectly, is indebted to the
+Company in any amount as of the close of the fiscal year August 31,
+2001.
+
+
+ITEM 14:	EXHIBITS, FINANCIAL STATEMENTS, SCHEDULES AND REPORTS
+
+a.	Audited Financial Statements.
+
+SIGNATURES
+
+
+Pursuant to the requirements of Section 13 or 15(d) of the
+Securities Exchange Act of 1934, the Registrant has duly
+caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+INTERNATIONAL SYNERGY HOLDING COMPANY, LTD.
+(Registrant)
+
+
+
+
+		____________/s/_____________________________
+               Hiroko Sagawa, Secretary
+
+
+Dated:  September 27, 2001
+
+
+
+</TEXT>
+</DOCUMENT>

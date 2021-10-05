@@ -1,0 +1,34 @@
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>1
+<FILENAME>exhib21_01.txt
+<DESCRIPTION>SUBSIDIARIES OF THE REGISTRANT
+<TEXT>
+
+
+                         AG SERVICES OF AMERICA, INC.
+
+                              EXHIBIT 21.1
+
+                         SUBSIDIARIES OF THE REGISTRANT
+
+
+  There is no parent of the Company.  The following is a listing of
+subsidiaries of the company.
+
+
+                                                  Jurisdiction of
+                                                    Organization
+                                                  ---------------
+
+Ag Acceptance Corporation                           Delaware
+
+Powerfarm, Inc.                                     Delaware
+
+
+
+                              - 23 -
+
+<PAGE>
+</TEXT>
+</DOCUMENT>

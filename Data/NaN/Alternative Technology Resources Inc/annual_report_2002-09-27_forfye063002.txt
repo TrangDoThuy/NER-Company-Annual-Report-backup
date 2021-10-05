@@ -1,0 +1,2948 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>forfye063002.txt
+<TEXT>
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    Form 10-K
+(Mark One)
+   [X]    ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT
+          OF 1934 FOR THE FISCAL YEAR ENDED JUNE 30, 2002
+
+   [ ]    TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+          ACT OF 1934 For the transition period from _____ to ____
+
+   Commission file number 0-20468
+
+                     ALTERNATIVE TECHNOLOGY RESOURCES, INC.
+               (Exact name of issuer as specified in its charter)
+
+                               Delaware 68-0195770
+                   (State or other jurisdiction (IRS Employer
+              of incorporation or organization) Identification No.)
+
+                     33 Jewell Court, Portsmouth, N.H. 03801
+          (Address of principal executive offices, including zip code)
+
+                                 (603) 501-3200
+                (Issuer's telephone number, including area code)
+
+                     Securities registered under Section 12(b) of the Act:
+          Title of Each Class Name of Each Exchange on Which Registered
+                                      None
+
+              Securities registered under Section 12(g) of the Act:
+
+                     Common Stock, par value $0.01 per share
+                                (Title of Class)
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the  preceding 12 months (or for such  shorter  period that the  registrant  was
+required  to file  such  reports),  and  (2) has  been  subject  to such  filing
+requirements for the past 90 days. Yes X No__
+
+Indicate by check mark if disclosure of delinquent  filers  pursuant to Item 405
+of Regulation  S-K is not contained  herein,  and will not be contained,  to the
+best of registrant's  knowledge,  in definitive proxy or information  statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [ ]
+
+Aggregate  market  value  of  the  Registrant's  common  voting  stock  held  by
+non-affiliates of the Registrant on September 12, 2002 was $38,410,596 (based on
+the final trading price on that date).
+
+Number of shares of Common Stock outstanding at August 31, 2002:  60,916,017
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of the Company's  definitive  Proxy Statement for the Company's  Annual
+Meeting of  Stockholders  are  incorporated  by reference in Part III. The Proxy
+Statement will be filed within 120 days of the Company's fiscal year end.
+
+                      Exhibit index is located on page 24.
+
+
+<PAGE>
+
+
+
+                                     PART I
+
+Item 1.  Business
+
+General
+
+     Alternative  Technology Resources,  Inc. (hereinafter referred to as "ATR,"
+the  "Company,"  "we" or "us") has  developed  and is  operating an Exchange for
+healthcare  services  ("Healthcare  Exchange").  The  purpose of the  Healthcare
+Exchange  is to  utilize  the  Internet  and other  technologies  to  facilitate
+Provider initiated discounts and administrative, billing and remittance services
+for all commercial lines of business in the healthcare industry.  The Healthcare
+Exchange offers a direct and efficient  conduit between Providers and Purchasers
+of  healthcare   services  and/or  their  agents,  such  as  Preferred  Provider
+Organizations.
+
+     Providers  submit bills to the Company,  who reprices the bills to the rate
+set by the Providers,  including adding a  transaction-processing  fee, and then
+routes them to Purchasers or their intermediaries. The Company receives payments
+from Purchasers on behalf of Providers, and then remits payments to Providers.
+
+     ATR's  Healthcare  Exchange  began  operations  with a  limited  number  of
+Providers  and  Purchasers  in the  quarter  ending June 30,  2001.  The Company
+continues to receive, process and analyze operating data, and the results of the
+Company's analysis will determine the amount and timing of remaining development
+related efforts.
+
+     The  Company is  currently  recruiting  medical  doctors,  medical  groups,
+hospitals and other health care  practitioners  (collectively,  "Providers")  in
+thirty-two  markets in  twenty-two  states to offer their  services  through the
+Healthcare  Exchange  to those  who  purchase  or  facilitate  the  purchase  of
+healthcare services ("Purchasers").
+
+     The Company has outsourced to multiple  vendors portions of the development
+and  operations of the  information  systems for its  Healthcare  Exchange.  The
+Company contracts with an application services provider to license,  support and
+run software to process  medical  bills  submitted to the  Company's  Healthcare
+Exchange.  ATR also works with vendors to receive claims from Providers  through
+electronic  clearinghouses and to convert paper claims into electronic  formats.
+ATR is evaluating other potential technology vendors as well.
+
+     ATR does not provide  healthcare  services,  but rather expects to act as a
+neutral  conduit  for  efficiency  between   Providers,   Purchasers  and  their
+intermediaries  including preferred provider organizations,  that should benefit
+all. ATR believes that reducing the costs  associated with  traditional  "bricks
+and mortar"  operations,  creating  economies of scale,  facilitating  access to
+Providers and Purchasers,  streamlining overhead costs, exploiting possibilities
+for functional  integration,  reducing errors and speeding the payment of claims
+should allow  Purchasers  to pay less and Providers to recover more of what they
+bill.
+
+History
+
+     Alternative Technology Resources, Inc. was founded as 3Net Systems, Inc. in
+1989. In August 1999, James W. Cameron,  Jr., the Company's largest stockholder,
+
+<PAGE>
+
+was named Chairman and Chief Executive Officer.  Under his direction the Company
+identified what it believes to be a significant  business  opportunity and began
+developing a business model involving the establishment of a Healthcare Exchange
+under the name "DoctorandPatient."
+
+     In  February  2000,  Jeffrey  S.  McCormick  assumed  the  position  of the
+Company's Chief Executive Officer.  Mr. McCormick has significant  experience in
+financing,  managing and growing early stage development companies as a managing
+director of Boston-based Saturn Asset Management,  Inc. Mr. McCormick has served
+as an advisor or director of several Internet and electronic  commerce companies
+over the last six years. As the Company's CEO, Mr.  McCormick is responsible for
+all  phases  of  development,  implementation  and  operation  of the  Company's
+Healthcare  Exchange.  Mr.  Cameron  still acts as Chairman and Chief  Financial
+Officer and continues to play an active and substantial  role in formulating the
+Company's business strategy and policy.
+
+     The  Company  is using  its  management's  experience  in  health  care and
+information  technology to establish the Healthcare  Exchange,  which has become
+the Company's sole focus.  ATR's  Healthcare  Exchange began  operations  with a
+limited  number of Providers and Purchasers in the quarter ending June 30, 2001.
+The Company  continues to receive,  process and analyze  operating data, and the
+results  of the  Company's  analysis  will  determine  the  amount and timing of
+remaining  development related efforts.  ATR's previous business was recruiting,
+hiring,  and training  foreign  computer  programmers and placing them with U.S.
+companies.  In line with the Company's strategy to focus on the establishment of
+the  Healthcare  Exchange,   ATR  suspended   recruitment  of  foreign  computer
+programmers  in  December  1999 and began  pursuing  the  conversion  of foreign
+computer  programmers to become  employees of ATR's  customers.  This conversion
+process was complete as of June 30,  2001,  and the Company is no longer in that
+business.
+
+Overview of the Industry
+
+     According to the  Healthcare  Financing  Administration  ("HCFA"),  in 1999
+health care in the United States was a $1.2 trillion  dollar  industry,  up 5.6%
+from  1998 and  comprising  approximately  13% of gross  domestic  product.  The
+industry  is   characterized   by  extremely   complex   decision-making,   high
+fragmentation,  high  barriers  to entry,  rising  costs and slow  adoption  and
+incorporation of many information technologies.  The health care industry's poor
+rate of investment in technological innovation has created a system rampant with
+inefficiencies. According to the Health Data Directory, less than 39% of private
+sector billing claims (including commercial, indemnity, PPO and HMO claims) were
+automated in 1999. Even those that are automated  often have  processing  delays
+because  of a myriad of  reasons,  including  improper  coding  of  information,
+inaccurate data on patients and improper eligibility  information.  Waste in the
+acquisition,  delivery and processing of billing and payment for health services
+has been widely  reported and  documented.  The Company  believes that there are
+gaps and  inefficiencies  in the  purchasing  process  and in billing and claims
+processing  systems  creating  a key  business  opportunity  for the  Healthcare
+Exchange.
+
+     In its  simplest  form,  health  care can be  described  as the  demand for
+services by  individuals  ("Patients")  and the supply of services by Providers,
+which include medical doctors,  hospitals,  physical therapists and other health
+practitioners. Providers often form groups and practice associations. Purchasers
+include  Patients and various forms of third parties,  such as HMO's,  insurance
+companies,  Medicare, Medicaid and self-insured employers, that act as purchaser
+and payor for services provided to Patients.
+
+     In most  instances,  Patients  are members of a health  service  purchasing
+group or pool commonly  offered by Purchasers.  The members'  health coverage is
+described  in a plan  that  spells  out what  care is  fully,  partially  or not
+covered, rules relating to payment and deductibles,  selection of Providers, use
+
+<PAGE>
+
+of  specialists,   required   permissions,   exclusions  and  so  on.  In  these
+circumstances, Patients rarely pay Providers directly except for co-payments and
+deductibles that represent only a fraction of the total bill.
+
+     Purchasers pay Providers generally after considerable delay. Provider bills
+are reviewed by Purchasers and their managed care companies to verify  Patient's
+eligibility, plan group membership, compliance with treatment and billing format
+and rules, and other plan provisions.  The Provider's bill often is adjusted for
+violations and errors.  Providers,  like their Patients, often do not understand
+many health plans and may accept incorrect payment lowered by reductions they do
+not understand.
+
+     There    are   a   large    number    of    variations    of   the    above
+Patient-Provider-Purchaser relationship - such as HMOs, PPOs, Medicare, Medicare
+enrolled   HMOs,   Medicaid  -  all  of  which  involve  some   combination   or
+redistribution of some of the functions described.
+
+     In a cash  model,  the Patient  will pay the  Provider  directly.  For many
+Americans,  this simple cash model is the only one  possible  for all or much of
+their care. In many cases, these individuals may have the financial  wherewithal
+to pay for many health services.  However,  Providers  generally do not have the
+time, inclination or capability to seek out these cash Patients.
+
+Business Description
+
+     The purpose of the Healthcare Exchange is to utilize the Internet and other
+technologies  to facilitate  Provider  initiated  discounts and  administrative,
+billing and  remittance  services  for all  commercial  lines of  business.  The
+Healthcare  Exchange offers a direct and efficient conduit between Providers and
+Purchasers of health care services,  their PPOs' and/or their agents.  Providers
+submit bills to the Company, who reprices the bills to the Provider's Healthcare
+Exchange rate,  including adding a  transaction-processing  fee, and then routes
+them to Purchasers or their  intermediaries.  The Company receives payments from
+Purchasers on behalf of Providers, and then remits payments to Providers.
+
+Relationship to the Provider
+
+     The Company has developed the Healthcare Exchange for Providers  (including
+Provider  groups) to market their services to Purchasers more  efficiently.  The
+Company  believes  eliminating  costs and delays in the billing  process  should
+allow  Providers to recover more of what they bill. In the United States,  there
+are approximately 750,000 medical doctors,  6,000 hospitals and 539,000 licensed
+ancillary  Providers (such as chiropractors,  optometrists,  physical therapists
+and physician  assistants)  and suppliers  (such as pharmacies,  durable medical
+equipment suppliers, and transportation).  The Company is currently marketing to
+and entering into contracts with Providers. A transaction-processing fee will be
+added to bills  received  from  Providers  and  routed  to  Purchasers  or their
+intermediaries.
+
+Relationship to Purchasers
+
+     The Company has developed the Healthcare  Exchange so Purchasers can access
+services offered by Providers. The Company believes eliminating costs and delays
+in the billing process should allow Purchasers to reduce costs. The Company will
+process  medical  bills  submitted  to  the  Healthcare  Exchange  so as to  add
+efficiencies  to the  purchasing  and  processing  function.  We will make these
+
+<PAGE>
+
+additional  services  available to Purchasers on a contractual basis and through
+Provider initiated discount offers.  Purchasers may contract with us in order to
+receive Providers' offered rates, and in order to lower their costs by receiving
+bills  electronically  and  pre-priced.  The goal of this system is to introduce
+additional cost certainty and to streamline the billing and payment  process.  A
+transaction-processing   fee   will  be   charged   to   Purchasers   or   their
+intermediaries.
+
+Relationship to Individual Uninsured and Under Insured Purchasers
+
+     In September  1999, the Company  entered into an agreement with WebMD Corp.
+to  develop  a  web-based   portal  through  which   individual   uninsured  and
+under-insured  Patients can procure healthcare services.  Currently both parties
+are reevaluating this agreement, given changed directions and priorities of each
+company.  The agreement has not formally  been modified or  terminated,  nor has
+either party proposed any specific changes.  However, neither party is currently
+devoting any  substantial  resources to this  project.  (See Note 4 to Financial
+Statements.)
+
+Application Services Provider
+
+     The Company signed agreements effective in January 2001 with an application
+services provider to license,  support and run software to process medical bills
+submitted to the Company's Healthcare Exchange.  The agreements are for a period
+of 66 months.  They required payment of an initial base license fee of $250,000,
+which is being  amortized  over 66 months,  and start-up  costs,  including data
+center set up, training and implementation fees of approximately $145,000, which
+were expensed.  The agreements  require  monthly minimum  payments  currently of
+about $35,000 and additional fees that are  transaction  based if volumes exceed
+levels included in the monthly minimums.
+
+Competition
+
+     The Company's Healthcare Exchange generally will endeavor to cooperate with
+certain  established  preferred  provider  organizations,   integrated  delivery
+systems  and  health  plans and other  companies  offering  "discount  plans" to
+potential Purchasers, and Internet companies.  However, such plans and companies
+may  choose to compete  against  the  Healthcare  Exchange  and its  purchasers,
+providers  and  affiliated   organizations.   These   industries  are  intensely
+competitive and rapidly evolving.
+
+     Increased  competition  in the industry  could result in price  reductions,
+reduced gross margins or loss of market share,  which could  seriously  harm the
+Company's business and operating  results.  The Company's success depends on the
+ability to market the Healthcare  Exchange to potential Providers and Purchasers
+and their agents. The Company believes that the principal competitive factors in
+this market are health and managed care expertise, data integration and transfer
+of  technology,  ability to  persuade  Providers  and  Purchasers  to accept new
+technology and new models,  customer service and support and product and service
+fees. Competition is expected to increase in the future.
+
+     As a new participant in the health care industry,  the Company's  potential
+competitors have longer operating  histories,  significantly  greater financial,
+technical,   marketing  and  other  resources  and  significantly  greater  name
+recognition.   In   addition,   many   of   the   Company's   competitors   have
+well-established   relationships   with  the  Company's  current  and  potential
+Purchasers and have extensive  knowledge of the industry.  Current and potential
+competitors  have  established or may establish  strategic  relationships  among
+themselves or with third  parties to increase the ability of their  products and
+services  to address  Purchaser  needs.  These  competitors  may seek and obtain
+business  method  patents on  portions of or all their  operations,  which could
+effectively  preclude the Company from competing with the most efficient  model.
+Also,  other  companies may  implement a similar  strategy.  Accordingly,  it is
+possible that new  competitors  or alliances  among  competitors  may emerge and
+rapidly acquire significant market share.
+<PAGE>
+
+Government Regulation
+
+     The Company's operations are subject to various federal and state laws. The
+Company believes that its operations  currently comply with such laws, but there
+can be no assurance that subsequent laws, or subsequent  changes in current laws
+or legal interpretations, will not adversely affect the Company's operations.
+
+     The Health  Insurance  Portability and  Accountability  Act of 1996 (HIPAA)
+will impose obligations previously unknown on the healthcare industry.  HIPAA is
+designed to reduce the amount of administrative waste in the healthcare industry
+and to protect the privacy of patients' medical  information.  HIPAA establishes
+new  requirements  for the  confidentiality  of patient health  information  and
+standard formats for the secure transmission of healthcare data among healthcare
+providers  and  purchasers.  HIPAA,  among other  things,  will  create  federal
+criminal penalties for health plans,  providers and claims  clearinghouses  that
+knowingly and improperly disclose  information or obtain information under false
+pretenses.  The  regulations  regarding  the  standard  formats  for the  secure
+transmission of healthcare  information  will become  effective in October 2002,
+but extended to October 2003 if an extension is requested and a compliance  plan
+is filed with  Secretary of the  Department  of Health and Human  Services.  The
+regulations regarding privacy issues will become effective in April 2003.
+
+     The Company was aware of and tried to  incorporate  HIPAA  requirements  or
+their timely adoption as its products and services were developed. We have filed
+a compliance plan and a request for extension to October 2003 to comply with the
+standard formats requirements.  We are currently reviewing processes, systems or
+policies  that  may  require  modification,  and we  are  working  to  implement
+appropriate  changes  to avoid any  adverse  impact on our  ability  to  perform
+services in accordance  with HIPAA  standards.  We are also  communicating  with
+significant  third-party  service  providers to assess their  readiness  and the
+extent to which we will need to modify our agreements or relationships with them
+to comply with HIPAA standards.
+
+     The cost of this  compliance  effort is estimated to be less than $100,000.
+However,  there can be no guarantee  that the costs will not  materially  exceed
+this, or that changes in federal  standards would require  expending  additional
+resources.
+
+     The   confidentiality   of  patient   records   and  claims  data  and  the
+circumstances  under  which  records and data may be released or must be secured
+for  inclusion  in  the  Company's  databases  may  be  subject  to  substantial
+regulation by state governments. These state laws govern both the disclosure and
+the use of confidential patient medical records.  Although compliance with these
+laws currently is principally the  responsibility of Providers and health plans,
+these  regulations may be extended to cover the business and the claims data and
+other  information that are included in the Company's  databases.  If these laws
+are  extended to cover the  Company's  business,  the Company may be required to
+expend  additional  resources  in order to comply  with  these  laws,  including
+changes  to the  Company's  security  practices,  and may be  exposed to greater
+liability in the event of failure to comply with these laws.
+
+     The offering of health provider services is subject to extensive regulation
+under state laws. Under some state laws, regulators may take the position that a
+registration fee for Purchaser access to favorable fees from Providers  requires
+meeting the  requirements  for licensing as a health plan or health insurer.  In
+addition, to the extent that fees are paid by Providers,  state regulators could
+
+<PAGE>
+
+assert  that the  Company's  Healthcare  Exchange  is a referral  agency,  which
+requires  licensing  under  many  state  laws,  or  that  Providers  are  paying
+prohibited  referral  fees,  which could  subject the Provider or the Company to
+civil or criminal  penalties.  In addition,  the  Company's  relationships  with
+Purchasers  may  require  licensing  or  certifications  in some  states.  Also,
+although  the Company  does not  currently  anticipate  entering the Medicare or
+state Medicaid markets,  similar federal  regulations could adversely impact the
+business.  Because the  e-commerce  business is  relatively  new to the provider
+network  industry,  the impact of current or future  regulations is difficult to
+anticipate.
+
+     As we develop our business plan,  compliance  with or prohibitions by state
+regulations could delay or eliminate certain aspects of our business or force us
+to modify  our  business,  which  could have a  material  adverse  impact on our
+business and prospects.
+
+Human Resources
+
+     At August  31,  2002,  the  Company  had 119  employees,  consisting  of 73
+employees  located in  Sacramento,  and 44 employees in satellite  offices in 17
+states,  including  California,  and 2 employees in the  Company's  headquarters
+located in Portsmouth,  New Hampshire.  This includes Provider Development staff
+of 44 that is recruiting  medical  providers for contracting in 32 markets in 22
+states for the Healthcare Exchange.
+
+Insurance
+
+     The annual coverage limits for the Company's  general  premises  liability,
+professional   liability  and  workers'  compensation   insurance  policies  are
+$3,000,000  for  liability   insurance  policies  and  $1,000,000  for  workers'
+compensation.  ATR  also  has a  $1,000,000  policy  for  errors  and  omissions
+insurance.  Management  believes  such  limits are  adequate  for the  Company's
+business;  however,  there can be no assurance  that  potential  claims will not
+exceed the limits on these policies.
+
+RISK FACTORS
+
+     An investment in our common stock involves  considerable  risk. In addition
+to the other information  contained in this annual report,  you should carefully
+consider the following factors in evaluating an investment in the Company.  This
+annual  report  contains  forward-looking  statements  that  involve  risks  and
+uncertainties.  Our  actual  results  may  differ  materially  from the  results
+discussed in such  forward-looking  statements.  Factors that might cause such a
+difference   includes  those  discussed   below.   Note  that  this  is  not  an
+all-inclusive list of the risks to which we are subject.
+
+We only  have a  limited  operating  history  in the  health  care and  Internet
+industries that investors may use to assess our future prospects.
+
+     Although  we have been an  operating  company  in the  computer  programmer
+recruiting  and placement  industry for several  years,  we only recently  began
+operating  in the  Internet and health care  industries.  We have not  generated
+significant  revenues  and may never  generate  sufficient  revenues  to achieve
+profitability  in this  new  venture.  We  have  limited  experience  addressing
+challenges  frequently  encountered by  early-stage  companies in the electronic
+commerce and health care industries.  Accordingly, our limited operating history
+does not provide  investors with a meaningful basis for evaluating an investment
+in our common stock.
+
+     The  likelihood of our success must be considered in light of the potential
+problems,   expenses,   difficulties,   complications   and  delays   frequently
+
+<PAGE>
+
+encountered  in connection  with any  enterprise  starting a new business with a
+completely new business plan,  particularly in new and rapidly  evolving markets
+such as the Internet. Such risks include an evolving, untested and unpredictable
+business  model,  the creation of brand  identity,  the expansion or creation of
+competing  services,  the uncertainty of the acceptance of the marketing  medium
+and the management of anticipated growth.
+
+Our current  operations  are not profitable and we have a history of significant
+losses.
+
+     We have experienced losses since our inception.  Our net loss applicable to
+common  stockholders  for the years ended June 30, 2002 and 2001 was  $9,815,906
+and  $9,800,897.  As of June 30,  2001 we had  completed  the  phase  out of the
+contract  programmer  operations  that  resulted in previous  operating  losses.
+However,  there is no assurance we can develop our  Healthcare  Exchange  into a
+profitable  and  sustainable  business.  As a result,  the report of independent
+auditors  on the  Company's  June 30,  2002  financial  statements  includes  an
+explanatory  paragraph indicating there is substantial doubt about the Company's
+ability to continue as a going concern.  The financial statements do not include
+any adjustments to reflect the possible future effects on the recoverability and
+classification  of assets or the amounts and  classification of liabilities that
+may result from the outcome of this uncertainty.
+
+We need additional financing.
+
+     Based on the steps the  Company  has taken to refocus  its  operations  and
+obtain additional financing, the Company believes that it has developed a viable
+plan to address the Company's  ability to continue as a going concern,  and that
+this plan will  enable the Company to  continue  as a going  concern  through at
+least the end of fiscal  2003.  However,  the  Company  believes it will need to
+raise  additional  funds during fiscal 2003. The Company has engaged a placement
+agent to assist in the sale of shares of the Company  common  stock in a private
+placement.  However  there can be no assurance  that the Company will be able to
+raise  sufficient  funds  to  successfully   implement  its  business  plan.  If
+unsuccessful  the Company may be required to reduce the  development  efforts of
+its  Healthcare  Exchange or be forced into  seeking  protection  under  federal
+bankruptcy  laws.  Traditionally,  we  have  relied  on  major  stockholders  or
+affiliates to finance our  operations.  However,  there can be no assurance that
+they will continue to do so. The issuance of  additional  shares of common stock
+will dilute the ownership of existing stockholders.
+
+Our growth  depends on  industry  acceptance  of our health  care  products  and
+services.
+
+     The time,  expense  and effort of securing  Purchasers  and  Providers  may
+exceed our  expectations  and may  negatively  impact our business and operating
+results.  The decision to implement  our  products  and services  requires  time
+intensive  education of both  Providers and  Purchasers of the advantages of our
+products  and  services.  The  failure of  industry  participants  to accept our
+services and products as a  replacement  for  traditional  methods of operations
+could limit our revenue growth. We, therefore, will devote significant resources
+and incur costs without any assurance  that  sufficient  medical  providers will
+join our network or that  Purchasers  will use our products or services.  In the
+event that Purchasers do not use our products or services,  we may have incurred
+substantial  costs that cannot be recovered  and which will not result in future
+revenues.
+
+Our future  revenue  growth depends upon our  establishment  and  maintenance of
+successful  relationships  with  Providers  and  strategic  vendors  in order to
+attract Purchasers to our products and services.
+
+     We  believe  that  our  future  revenue  growth  depends  in part  upon the
+successful creation and maintenance of relationships with Providers,  Purchasers
+
+<PAGE>
+
+and strategic  vendors.  To date we have established  relationships with a small
+number of the Providers that we are targeting.  In order to successfully attract
+Purchasers,  we may need to have a large number of relationships  with Providers
+with diverse  practices and over broad  geographic  areas. We may not be able to
+adequately  develop  relationships  with the number of  Providers  necessary  to
+achieve  this type of coverage and those  already  existing  relationships  with
+Providers may not be ultimately successful.
+
+     The Company signed agreements effective in January 2001 with an application
+services provider to license,  support and run software to process medical bills
+submitted to the Company's Healthcare  Exchange.  ATR has also signed agreements
+to receive  claims from  Providers  through  electronic  clearing  houses and to
+convert  paper  claims  into  electronic   formats.   These   relationships  are
+non-exclusive.
+
+     In  September  1999,  ATR entered  into an  agreement  with WebMD Corp.  to
+develop a web-based  portal through which Patients can procure health  services.
+This  relationship  is  nonexclusive  and the status of the project is currently
+being reevaluated by the parties.
+
+     We may enter into additional strategic  relationships in the future and are
+currently evaluating other potential  technology vendors.  Strategic vendors may
+offer products or services of several different  companies,  including  products
+and services that compete with our products or services.  Strategic  vendors may
+be influenced by our competitors to scale back or end their  relationships  with
+us.  We  may  not  establish   additional  strategic   relationships,   and  any
+relationships we do establish ultimately may be unsuccessful.
+
+     If we are unable to establish and maintain  successful  relationships  with
+Providers  or  strategic  vendors,  we may  have to  devote  substantially  more
+resources to the sales and marketing of our products and services.
+
+The failure of our Providers to provide high quality  services will diminish our
+brand  value and the number of  Purchasers  who use our  proposed  services  may
+decline.
+
+     Promotion  of our brand  value  depends  on our  ability  to provide a high
+quality  experience  for  finding  Providers.  If our  Providers  do not provide
+Purchasers high quality service,  the value of our services could be damaged and
+the number of Purchasers using our proposed  services may decrease.  The failure
+by our Providers to provide the level of health care that Purchasers expect will
+result in low  satisfaction,  damage to our brand name and could  materially and
+adversely affect our business, results of operations and financial condition.
+
+Failure to manage our growth  effectively  could harm our business and operating
+results.
+
+     We have hired a  significant  number of new  employees and will continue to
+add  personnel  to maintain  our ability to grow in the future.  Our growth will
+place  significant  strain  upon our  management  and  operational  systems  and
+resources.  We must  integrate our new employees into a cohesive team and at the
+same time  increase  the total  number of  employees  and train and  manage  our
+employee work force in a timely and effective manner to expand our business.  We
+may not be able to do so successfully.
+
+Our  business  could  suffer if the  integrity of our systems and the systems of
+those third parties we depend on are inadequate.
+
+     We will  depend on third  parties to develop  significant  portions  of the
+information systems for our Healthcare  Exchange.  Any failure of the systems we
+
+<PAGE>
+
+are developing, or those of third parties, could harm our business and operating
+results.  We intend for these  systems to process  vast  amounts of pricing  and
+financial data and execute large numbers of payment  transactions.  Any delay or
+failure in these systems or in our ability to  communicate  electronically  with
+Purchasers or in our ability to collect,  store,  analyze or process  accurately
+pricing and financial  data may result in the denial of claims,  or in the delay
+or failure to execute  payment  transactions  accurately.  This type of delay or
+failure would harm our business and operating results.
+
+Our  business  and  reputation  may be harmed if we are  unable to  protect  the
+privacy of our confidential health information.
+
+     Our information  systems and Internet  communications  may be vulnerable to
+damage from physical break-ins, computer viruses, programming errors, attacks by
+computer hackers and similar disruptive  problems.  A user who is able to access
+our computer or communication  systems could gain access to confidential  health
+information of individuals. Therefore, a material security breach could harm our
+business and our reputation or could result in liability to us.
+
+Our future  revenue growth depends in part on increasing use of the Internet and
+on the growth of e-commerce.
+
+     Rapid  growth  in the use of the  Internet  is a  recent  phenomenon.  As a
+result,  its acceptance and use may not continue to develop at historical  rates
+and a sufficiently broad base of business customers and individual customers may
+not adopt or continue to use the  Internet as a medium of  commerce.  Demand and
+market  acceptance  for  recently  introduced  products  and  services  over the
+Internet are subject to a high level of uncertainty,  and there exist few proven
+products and services.
+
+     Our future  profitability  depends,  in part,  upon increased  Provider and
+Purchaser demand for additional Internet and e-commerce solutions that we are in
+the process of developing or may develop in the future.
+
+Our ability to comply with the Health Insurance  Portability and  Accountability
+Act of 1996 (HIPAA) could harm our business and operating results.
+
+     The Health  Insurance  Portability and  Accountability  Act of 1996 (HIPAA)
+will impose obligations previously unknown on the healthcare industry.  HIPAA is
+designed to reduce the amount of administrative waste in the healthcare industry
+and to protect the privacy of patients' medical  information.  HIPAA establishes
+new  requirements  for the  confidentiality  of patient health  information  and
+standard formats for the secure transmission of healthcare data among healthcare
+providers  and  purchasers.  HIPAA,  among other  things,  will  create  federal
+criminal penalties for health plans,  providers and claims  clearinghouses  that
+knowingly and improperly disclose  information or obtain information under false
+pretenses.  The  regulations  regarding  the  standard  formats  for the  secure
+transmission of healthcare  information  will become  effective in October 2002,
+but extended to October 2003 if an extension is requested and a compliance  plan
+is filed with  Secretary of the  Department  of Health and Human  Services.  The
+regulations regarding privacy issues will become effective in April 2003.
+
+     The Company was aware of and tried to  incorporate  HIPAA  requirements  or
+their timely adoption as its products and services were developed. We have filed
+a compliance plan and a request for extension to October 2003 to comply with the
+standard formats requirements.  We are currently reviewing processes, systems or
+
+<PAGE>
+
+policies  that  may  require  modification,  and we  are  working  to  implement
+appropriate  changes  to avoid any  adverse  impact on our  ability  to  perform
+services in accordance  with HIPAA  standards.  We are also  communicating  with
+significant  third-party  service  providers to assess their  readiness  and the
+extent to which we will need to modify our agreements or relationships with them
+to comply with HIPAA standards.
+
+     The cost of this  compliance  effort is estimated to be less than $100,000.
+However,  there can be no guarantee  that the costs will not  materially  exceed
+this, or that changes in federal  standards would require  expending  additional
+resources.
+
+State  and  local  laws  regarding   confidentiality   and  security  of  health
+information could harm our business and operating results.
+
+     The   confidentiality   of  patient   records   and  claims  data  and  the
+circumstances  under  which  records and data may be released or must be secured
+for inclusion in our databases may be subject to substantial regulation by state
+governments.  These  state  laws  govern  both  the  disclosure  and  the use of
+confidential  patient  medical  records.  Although  compliance  with  these laws
+currently is principally the responsibility of Providers and health plans, these
+regulations  may be extended to cover our business and the claims data and other
+information  that we include in our  databases.  If these laws are  extended  to
+cover our business,  we may be required to expend additional  resources in order
+to comply with these laws, including changes to our security practices,  and may
+be exposed to greater liability in the event we fail to comply with these laws.
+
+State laws and regulations  concerning the marketing of health provider services
+over the Internet could harm our business and operating results.
+
+     The offering of health provider services is subject to extensive regulation
+under state laws. Under some state laws, regulators may take the position that a
+registration fee for Purchaser access to favorable fees from Providers  requires
+meeting the  requirements  for licensing as a health plan or health insurer.  In
+addition, to the extent that fees are paid by Providers,  state regulators could
+assert  that the  Company's  Healthcare  Exchange  is a referral  agency,  which
+requires  licensing  under  many  state  laws,  or  that  Providers  are  paying
+prohibited  referral  fees,  which could  subject the Provider or the Company to
+civil or criminal  penalties.  In addition,  the  Company's  relationships  with
+Purchasers  may  require  licensing  or  certifications  in some  states.  Also,
+although  the Company  does not  currently  anticipate  entering the Medicare or
+state Medicaid markets,  similar federal  regulations could adversely impact the
+business.  Because the  e-commerce  business is  relatively  new to the provider
+network  industry,  the impact of current or future  regulations is difficult to
+anticipate.
+
+     As we develop our business plan,  compliance  with or prohibitions by state
+regulations could delay or eliminate certain aspects of our business or force us
+to modify  our  business,  which  could have a  material  adverse  impact on our
+business and prospects.
+
+Internet  commerce has yet to attract  significant  regulation,  but  government
+regulations may result in administrative monetary fines, penalties or taxes that
+may reduce our future earnings.
+
+     There are  currently  few laws or  regulations  that apply  directly to the
+Internet.  Because our business  utilizes the Internet,  the adoption of new (or
+applications  of  existing)  local,  state,  national or  international  laws or
+regulations  may  decrease  the growth of Internet  usage or the  acceptance  of
+Internet commerce which could, in turn, decrease the demand for our services and
+increase our costs or otherwise have a material  adverse effect on our business,
+results of operations and financial condition.
+<PAGE>
+
+We face a risk of litigation.
+
+     Although the Company is not currently  involved in any litigation,  we have
+been  involved in several  significant  litigation  matters in our  history.  No
+assurances can be given that additional legal  proceedings will not be initiated
+against us. In addition, involvement in litigation will require us to spend time
+and pay expenses to defend  ourselves,  which will have an adverse effect on our
+operations  and financial  condition  and results.  The health care and Internet
+industry  that we are entering  into may cause us to face an  increased  risk of
+litigation.  Patients who file lawsuits against doctors often name as defendants
+all persons and companies with any relationship to the doctors.
+
+Our Common Stock price is volatile and could be impacted by fluctuating  results
+in the future and by general market conditions.
+
+     Our common  stock  price is volatile  and could be impacted by  fluctuating
+results  in the future and by general  market  conditions.  Our common  stock is
+quoted and traded on the OTC Bulletin Board and the public market for our common
+stock has been limited,  sporadic and highly volatile.  Between July 1, 2001 and
+June 30,  2002,  the closing  price of a share of our Common Stock ranged from a
+low of $2.00 to a high of $3.70  There can be no  assurance  that a more  active
+trading market for our common stock will develop or be sustained.
+
+Our executive officers and existing stockholders have significant control.
+
+     Our executive officers,  directors and holders of over five percent (5%) of
+our  stock  and  their  affiliates  beneficially  own  approximately  80% of the
+outstanding  shares of our common  stock as of June 30,  2002.  As a result,  if
+these  holders  act as a group,  they may be able to  control  us and direct our
+affairs,  including  the  election of  directors  and  approval  of  significant
+corporate  transactions  without further  approval by other  stockholders.  This
+concentration of ownership also may delay,  defer or prevent a change in control
+of our company,  and make some transactions more difficult or impossible without
+the support of these stockholders.
+
+Our stock price may be affected  by the  availability  of shares for sale in the
+near  future,  and the  future  sale  of  large  amounts  of our  stock,  or the
+perception that such sales could occur, could negatively affect our stock price.
+
+     To finance its operations,  the Company has sold shares of its common stock
+and a  convertible  promissory  note  convertible  into common  stock in private
+placements to accredited  investors.  Pursuant to these private placements,  the
+Company  has agreed to register  the shares of common  stock sold in the private
+placement  and  that may be  issued  upon the  conversation  of the  convertible
+promissory note with the SEC. In light of our limited trading market, the market
+price of our common  stock could drop as a result of sales of a large  number of
+restricted shares of our common stock in the market, or the perception that such
+sales could occur, due to the shares of common stock being registered for resale
+pursuant to a registration statement file with the SEC.
+
+     In  addition,  as of August 31,  2002,  the Company has reserved a total of
+11,682,713  shares of common stock  pursuant to outstanding  warrants,  options,
+convertible  notes payable to  stockholders,  and future  issuance of options to
+employees and  non-employee  directors.  Our outstanding  options,  warrants and
+convertible  debt may have a  detrimental  impact on the price of our  shares of
+common stock since they may be dilutive to new investors.
+<PAGE>
+
+
+Future issuances of preferred stock could reduce the value of our common stock.
+
+     We are authorized to issue up to 1,200,000  shares of our preferred  stock.
+The preferred stock may be issued in one or more series,  on such terms and with
+such  rights,  preferences  and  designations  as our  board  of  directors  may
+determine,  without action by stockholders.  The issuance of any preferred stock
+could adversely  affect the rights of the holders of common stock, and therefore
+reduce the value of the common stock. In particular,  specific rights granted to
+future holders of preferred stock could be used to restrict our ability to merge
+with or sell our assets to a third party,  thus making it more  difficult  for a
+third party to acquire a majority of our  outstanding  voting stock.  We have no
+current plans to issue shares of preferred stock.
+
+We  have  not  paid  dividends,  and  expect  to  retain  our  earnings  for the
+foreseeable future.
+
+     We have not paid cash dividends on our common stock since our inception. We
+do not  intend to pay cash  dividends  on our  common  stock in the  foreseeable
+future so that we may  reinvest  earnings,  if any,  in the  development  of our
+business.
+
+Item 2.  Description of Property
+
+     The  Company's  headquarters  are  located in  Portsmouth,  New  Hampshire,
+consisting of approximately 2,340 square feet of office space for a monthly rent
+of $3,263. The lease commenced December 1, 2000, and runs through May 31, 2003.
+
+     In addition,  the Company has an office located in Sacramento,  California.
+The  Company  occupies  approximately  7,523  square  feet of  office  space  in
+Sacramento,  which it leases  from Mr.  James W.  Cameron,  Jr.,  the  Company's
+Chairman of the Board and majority stockholder, for a monthly rent of $12,131. A
+February 1, 2000,  addendum to the lease extended the expiration of the lease to
+January 31, 2004.
+
+Item 3.  Legal Proceedings
+
+     As of  September  12,  2002 the  Company  is not  currently  a party to any
+pending legal proceedings.
+
+Item 4.  Submission of Matters to a Vote of Security Holders
+
+     No matters were submitted  during the quarter ended June 30, 2002 to a vote
+of security holders.
+
+PART II
+
+Item 5.  Market for Common Equity and Related Stockholder Matters
+
+     ATR's  common  stock is quoted on the OTC  Bulletin  Board under the symbol
+"ATEK."  Transactions  in ATR's  common  stock are subject to the "penny  stock"
+disclosure requirements of Rule 15g-9 under the Exchange Act.
+<PAGE>
+
+
+     The table below sets forth the high and low  closing  prices for the common
+stock of the Company for each of the last eight quarters.  Such over the counter
+market quotations reflect inter dealer prices without retail mark-up,  mark-down
+or commission and may not necessarily represent actual transactions.
+
+                 Period                             High            Low
+                 ------                             ----            ---
+      Quarter ended September 30, 2000             $4.81           $2.75
+      Quarter ended December 31, 2000              $3.38           $1.38
+      Quarter ended March 31, 2001                 $2.31           $1.34
+      Quarter ended June 30, 2001                  $2.26           $1.90
+
+      Quarter ended September 30, 2001             $3.70           $2.08
+      Quarter ended December 31, 2001              $3.09           $2.62
+      Quarter ended March 31, 2002                 $3.06           $2.06
+      Quarter ended June 30, 2002                  $2.55           $2.00
+
+     As of August 27,  2002,  the Company had  approximately  244 holders of its
+shares of common stock,  excluding holders of the Company's common stock held in
+street name.
+
+Dividend Policy
+
+     The Company has never paid a cash dividend on its common stock and does not
+anticipate paying cash dividends on its common stock in the foreseeable  future.
+ATR's Series D preferred stock carried a cumulative  dividend of $0.60 per share
+per year until the Series D preferred  stock was  exchanged  for common stock on
+September 11, 2000.  On September  11, 2000, in connection  with the exchange of
+204,167  shares  Series D preferred  stock,  for 408,334  shares of common stock
+based on a per share  price of $3.00 per share,  the  Company  declared  accrued
+dividends of $759,110 in the  aggregate.  Of the $759,110 in accrued  dividends,
+two of the Series D preferred  stockholders  agreed to accept  158,638 shares of
+common stock for $475,915 in accrued dividends based on a $3.00 per share value.
+
+     The Board of  Directors,  on the basis of various  factors,  including  the
+Company's results of operations,  financial condition,  capital requirements and
+other relevant factors, will determine ATR's future dividend policy.
+
+
+<PAGE>
+
+
+
+Item 6.  Selected Financial Data
+
+     The following table presents a summary of unaudited selected financial data
+for each of the five years ended June 30. The data should be read in conjunction
+with the Financial  Statements  and related notes included  herein.
+
+                                        Years Ended June 30,
+<TABLE>
+<CAPTION>
+<S>                                                             <C>            <C>           <C>             <C>           <C>
+
+                                                                2002           2001          2000           1999           1998
+
+Statement of Operations Data
+Healthcare Exchange revenue                              $ 1,642,565   $     50,944    $        -    $         -    $         -
+Healthcare Exchange gross profit (loss)                      179,048        (33,584)            -              -              -
+Contract  programming  revenue                                     -        308,469     2,561,101      6,340,235      5,250,002
+Contract programming gross profit                                  -         62,797       422,062      1,030,893        530,379
+Selling, marketing and product development costs          (7,076,558)    (5,097,513)   (1,154,244)          -                 -
+General and  administrative  expenses                     (2,482,272)    (3,850,971)   (1,276,726)    (1,223,539)    (1,336,342)
+Loss from operations                                      (9,379,782)    (8,919,271)   (2,008,908)      (192,646)      (805,963)
+Total other income (expense)                                (436,124)         4,516    (2,806,733)      (524,101)      (437,981)
+Net loss                                                  (9,815,906)    (8,914,755)   (4,815,641)      (716,747)    (1,243,944)
+Preferred stock dividends                                          -       (886,142)     (122,500)      (122,500)      (122,500)
+Net loss  applicable to common  stockholders              (9,815,906)    (9,800,897)   (4,938,141)      (839,247)    (1,366,444)
+Basic and diluted net loss per share                          $(0.16)        $(0.17)       $(0.10)        $(0.03)        $(0.05)
+Shares used in per share calculation                      59,936,435     58,686,778    50,329,614     26,127,730     25,964,142
+
+Balance Sheet Data
+Total assets                                             $ 1,203,309    $ 5,577,658    $2,502,703    $   599,440    $   837,353
+Long term obligations                                              -      3,740,450     3,567,424      4,258,090      4,006,565
+Accrued preferred stock dividends                            283,195        283,195       735,001        612,501        490,001
+Redeemable Preferred Stock, Series D                               -              -     1,225,002      1,225,002      1,225,002
+</TABLE>
+
+Item 7.  Management's Discussion and Analysis of Financial Condition and Results
+         of Operation
+
+     The  following   discussion   provides   information   to  facilitate   the
+understanding  and  assessment of  significant  changes in trends related to the
+financial  condition of the Company and its results of operations.  It should be
+read  in  conjunction  with  the  audited  financial  statements  and  footnotes
+appearing elsewhere in this annual report.
+
+Critical Accounting Policies
+
+     Revenue    Recognition.    The   Company   recognizes   revenue   for   the
+transaction-processing  fee  when  earned  and  the  Company  has  substantially
+completed all of its obligations under the contract.
+
+     Prepaid  License and Service  Fees.  Prepaid  license and services fees are
+recorded at cost and amortized on a straight-line basis over the service period.
+Management  considers  whether  indicators  of  impairment  of these  assets are
+present  at each  balance  sheet date and an  impairment  loss is  recorded,  if
+
+<PAGE>
+
+necessary.  In assessing the recoverability of the Company's prepaid license and
+service fees, the Company must make assumptions  regarding estimated future cash
+flows and other factors to determine the fair value of the respective assets. If
+these estimates or their related  assumptions  change in the future, the Company
+may be required to record  impairment  charges for these  assets not  previously
+recorded.
+
+Results of Operation
+
+Year ended June 30, 2002 compared to year ended June 30, 2001
+
+Healthcare Exchange
+
+     Healthcare  Exchange  Revenue.  The Company began operations with a limited
+number of Providers in the quarter ending June 30, 2001.  Providers submit bills
+to ATR,  who  reprices  the  bills to the rate set by the  Providers,  including
+adding a transaction-processing fee, and then routes them to Purchasers or their
+intermediaries.  ATR receives  payments from  Purchasers on behalf of Providers,
+and then remits payments to Providers.  The Company  recognizes  revenue for the
+transaction-processing   fee  when  earnedand  the  Company  has   substantially
+completed  all of its  obligations  under the  contract.  For fiscal  year 2002,
+$1,642,565 of revenue was recognized as compared to $50,944 in fiscal year 2001.
+This  increase of  $1,591,621  was primarily due to an increase in the number of
+transactions  processed  by  the  Healthcare  Exchange  during  a full  year  of
+operations.
+
+     Healthcare  Exchange Costs.  Healthcare Exchange costs are the direct costs
+related to the  processing  of the bills  submitted  by  Providers  and payments
+received  from  Purchasers.  These  costs  include the salary and other wage and
+benefit costs of the Healthcare Exchange operations staff and the operating cost
+of the  application  services  provider.  The  costs for  fiscal  year 2002 were
+$1,463,517,  an increase of 1,631% over fiscal year 2001 cost of $84,528.  As of
+June 30,  2002  there  were 25  operations  staff  members  responsible  for the
+processing  of  bills   submitted  by  Providers  and  payments   received  from
+Purchasers, compared to 7 operations staff members as of June 30, 2001.
+
+Contract Programming
+
+     ATR's  previous  business  was  recruiting,  hiring,  training  and placing
+foreign  computer  programmers with U.S.  companies.  In line with the Company's
+strategy to focus on the  establishment  of the  Healthcare  Exchange for health
+care  services,  ATR suspended  recruitment of foreign  computer  programmers in
+December  1999 and began  pursuing the  conversion  of computer  programmers  to
+employees of ATR's  customers.  This conversion  process was complete as of June
+30, 2001.
+
+     Contract  Programming   Revenue.   Contract  programming  revenue  resulted
+primarily from sales of programmer services.  There was no revenue recognized in
+fiscal year 2002 due to the  conversion of all contract  programmers to customer
+employees  and the  phase-out  of-contract  programming  services as of June 30,
+2001. Revenue of $308,469 were recognized in fiscal year 2001
+
+     Programmer Costs.  Programmer costs represent the salary and other wage and
+benefit costs of ATR's programmer  employees.  There were no programmer costs in
+fiscal year 2002 due to the  conversion of all contract  programmers to customer
+employees  and the  phase-out  of-contract  programming  services as of June 30,
+2001. Programmer costs of $235,258 were recognized in fiscal year 2001.
+
+
+<PAGE>
+
+
+
+     Start-up and Other Costs.  Start-up and other costs  represent the costs of
+recruiting  fees,  training,  and travel for programmer  employees coming to the
+United States from the former Soviet Union for the first time,  relocation costs
+within the United  States,  and legal and other costs  related to obtaining  and
+maintaining compliance with required visas, postings and notifications. Start-up
+and other costs were expensed as incurred.
+
+     Included in this  category of costs is  compensation  paid by ATR  whenever
+programmer  employees were hired and entered the United States or were relocated
+once in the United  States  but  before  these  programmers  began  working at a
+customer's  work site.  There were times when under  immigration  law,  ATR,  as
+employer, paid a programmer employee at least 95% of prevailing wages for his or
+her specialty even when the programmer was not placed.
+
+     There were no  start-up-and-other-costs  recognized in fiscal year 2002 due
+to the  conversion  of all contract  programmers  to customer  employees and the
+phase-out   of-contract    programming   services   as   of   June   30,   2001.
+Start-up-and-other-costs of $10,414 was recognized in fiscal year 2001.
+
+Selling, Marketing and Product Development Costs
+
+     In October 1999 the Company began incurring costs to develop its Healthcare
+Exchange.  Costs incurred are primarily the salary, other wage and benefit costs
+of ATR's employees and other  operational  costs  associated with recruiting the
+network of healthcare  Providers.  The increase of the sales and marketing staff
+from 55 in  fiscal  year 2001 to 77 in fiscal  year  2002  resulted  in the cost
+increase of $1,979,045 for fiscal year 2002 as compared to fiscal year 2001.
+
+General and Administrative Expenses
+
+     General and administrative expense decreased $1,368,699 in fiscal year 2002
+compared to fiscal year 2001.  This decrease was primarily due to non-cash stock
+based compensation expense of $1,931,036 related to the purchase of common stock
+in the Company's August 2000 private  placement by the Company's Chief Executive
+Officer and related  entities and non-cash  compensation  due to  conversion  of
+Series D Preferred  Stock into  common  stock by the  Company's  Chairman of the
+Board in fiscal  year 2001.  This was  partially  offset by an  increase  in the
+number of employees and related costs to support the  Healthcare  Exchange,  and
+non-cash  compensation  expense of  $138,583  related to the  purchase of common
+stock by the Company's Chairman.
+
+Other Income (Expense)
+
+     Interest  Income.  Interest income  decreased  $405,179 in fiscal year 2002
+compared  to fiscal  year 2001  primarily  due to a  decrease  of  average  cash
+balances generating interest income in fiscal year 2002.
+
+     Interest  Expense.  Interest expense  increased $35,461 in fiscal year 2002
+compared  to  fiscal  year  2001  due  to  the  increase  in  Notes  Payable  to
+Stockholders  and  Convertible  Notes Payable to  Stockholders,  and interest of
+$31,076 paid on Provider  claims when payment is received from the Purchaser and
+paid to the Provider later than 21 days of receiving a claim in accordance  with
+the terms of the Provider contracts.
+
+
+<PAGE>
+
+
+Year ended June 30, 2001 compared to year ended June 30, 2000
+
+Healthcare Exchange
+
+     Healthcare  Exchange  Revenue.  The Company began operations with a limited
+number of  Providers  in the quarter  ending June 30,  2001.  During the quarter
+ending June 30, 2001,  the first quarter of  operations,  $50,944 of revenue was
+recognized.
+
+     Healthcare  Exchange Costs.  Healthcare Exchange costs are the direct costs
+related to the  processing  of the bills  submitted  by  Providers  and payments
+received from Purchasers.  The costs for fiscal year 2001 were $84,528.  No such
+costs were incurred in fiscal year 2000.
+
+Contract Programming
+
+     Contract  Programming   Revenue.   Contract  programming  revenue  resulted
+primarily from sales of programmer services. Revenue decreased $2,252,632 or 88%
+in fiscal year 2001  compared to fiscal year 2000.  This  decrease  was due to a
+reduction  in the  monthly  average  number of contract  programmers  working at
+customer sites in fiscal year 2001 compared to fiscal year 2000. This decline in
+the number of programmers at customer sites,  started in the last half of fiscal
+year  1999,  was due to  several  customers  choosing  to  exercise  a  contract
+termination   provision  which  allowed  them  to  convert,  for  a  fee,  ATR's
+programmers to their employees.  The Company  escalated this conversion  process
+during  fiscal years 2000 and 2001 to enable it to focus its  business  strategy
+toward developing its Healthcare Exchange.
+
+     As of June  30,  2001,  all  contract  programmers  had been  converted  to
+customer employees.  The phase out of contract  programming services is complete
+and all expenses have been incurred.
+
+     Contract  Termination  Fees.  Contract  termination fees represent  amounts
+received  from  customers  when they  exercised  the contract  provision,  which
+allowed them to convert ATR's programmer to their employee.  In addition,  these
+fees were also received from  programmers  when they  exercised  their  contract
+provision  to  terminate  their  relationship  with  the  Company  prior  to the
+termination  date of their  contract.  These  fee  amounts  were  stipulated  in
+customer and  programmer  contracts,  were based on the length of time remaining
+under the contract, and were recognized as revenue when such contract provisions
+were invoked.
+
+     Programmer Costs.  Programmer costs represent the salary and other wage and
+benefit costs of ATR's programmer employees. These costs decreased by $1,509,753
+or 87% in fiscal  year 2001  compared  to fiscal year 2000.  This  decrease  was
+primarily due to the reduction in the number of contract  programmers working at
+customer sites as discussed above in "Contract Programming Revenue".
+
+     Start-up and Other Costs.  Start-up and other costs  represent the costs of
+recruiting  fees,  training,  and travel for programmer  employees coming to the
+United States from the former Soviet Union for the first time,  relocation costs
+within the United  States,  and legal and other costs  related to obtaining  and
+maintaining compliance with required visas, postings and notifications. Start-up
+and other costs were expensed as incurred.
+
+     Start-up and other costs  decreased  $389,067 or 97% in fiscal year 2001 as
+compared to fiscal year 2000.  This decrease was due to a decrease in the number
+of programmers  who were in the United States but not working at customer sites.
+In fiscal year 2001 there were no programmers  temporarily unassigned compare to
+2 in fiscal year 2000.
+<PAGE>
+
+Product Development Costs
+
+     In October 1999 the Company began incurring costs to develop its Healthcare
+Exchange.  Costs incurred are primarily the salary, other wage and benefit costs
+of ATR's employees and other  operational  costs  associated with recruiting the
+network of healthcare  Providers.  The increase of the sales and marketing staff
+from 23 in  fiscal  year 2000 to 55 in fiscal  year  2001  resulted  in the cost
+increase of $3,943,269 for fiscal year 2001 as compared to fiscal year 2000.
+
+General and Administrative Expenses
+
+     General and administrative expense increased $2,574,245 in fiscal year 2001
+compared to fiscal year 2000.  This increase was primarily due to non-cash stock
+based  compensation  expense of  $1,931,036  and costs  relating to increases in
+support staff, licensing and consulting fees and rent and facilities for the New
+Hampshire headquarters.
+
+Other Income (Expense)
+
+     Interest  Income.  Interest income  increased  $360,070 in fiscal year 2001
+compared to fiscal year 2000 primarily due to increased  interest  income earned
+on higher  average cash balances as a result of funds  received from the sale of
+our common stock in August 2000.
+
+     Interest Expense. Interest expense decreased $2,451,179 in fiscal year 2001
+compared  to fiscal  year 2000 due to the  charges  recorded  as a result of the
+benefit  accruing to the note holders from amending the conversion  terms of the
+$1,000,000 convertible note in fiscal year 2000.
+
+Income Taxes
+
+     As of June 30, 2002 the Company had net operating  loss  carryforwards  for
+federal and state income tax purposes of approximately  $46,119,000  million and
+$26,245,000 million,  respectively. The federal net operating loss carryforwards
+expire  in 2004  through  2022 and the state net  operating  loss  carryforwards
+expire in 2002  through  2022.  The Company also has  approximately  $98,000 and
+$25,000 of research and  development  tax credit  carryforwards  for federal and
+state income tax purposes,  respectively.  The federal  research and development
+tax credit carryforwards expire in 2005.
+
+     In connection with the Company's  initial public offering in August 1992, a
+change of ownership  (as defined in Section 382 of the Internal  Revenue Code of
+1986, as amended)  occurred.  As a result,  the  Company's  net  operating  loss
+carryforwards  generated through August 20, 1992 (approximately  $1,900,000) are
+subject to an annual limitation in the amount of approximately $300,000.
+
+     In 1993,  a  controlling  interest of the  Company's  stock was  purchased,
+resulting in a second annual limitation in the amount of approximately  $398,000
+on the Company's ability to utilize net operating loss  carryforwards  generated
+between August 11, 1992 and September 13, 1993 (approximately $7,700,000).
+
+     In accordance  with  provisions  of the Internal  Revenue Code Section 382,
+additional portions of the net operating loss carryforwards may be disallowed as
+a result of additional changes in ownership of the Company.
+<PAGE>
+
+     The Company expects the  aforementioned  annual  limitations will result in
+net  operating  loss  carryovers,  which  will  not  be  utilized  prior  to the
+expiration of the carryover period.
+
+ Liquidity and Capital Resources
+
+     For the fiscal year ending June 30, 2002,  the Company  earned  revenues of
+$1,642,565 but incurred a net loss of $9,815,906. Until the Company can generate
+sufficient  revenue to finance its  operations,  the  Company  will have to seek
+other financing. Traditionally, the Company has used a combination of equity and
+debt  financing  and  revenue  generated  to fund  operations  but has  incurred
+operating  losses  since its  inception,  which has  resulted in an  accumulated
+deficit of $59,362,879 at June 30, 2002.
+
+     The  Company's   Healthcare  Exchange   development  efforts  will  require
+substantial funds prior to generating sufficient revenues to fund operations and
+repay debt. The Company  believes that it has developed a viable plan to address
+the Company's  ability to continue as a going  concern,  and that this plan will
+enable the Company to continue as a going  concern,  at least through the end of
+fiscal year 2003. However, the Company believes it will need to raise additional
+funds during fiscal 2003. The Company has engaged a placement agent to assist in
+the sale of shares of the Company common stock in a private  placement.  However
+there can be no  assurance  that the  Company  will be able to raise  sufficient
+funds to successfully  implement its business plan.  Traditionally,  the Company
+has  relied on major  stockholders  or  affiliates  to finance  its  operations.
+However,  there  can be no  assurance  that  they  will  continue  to do so.  If
+unsuccessful  the Company may be required to reduce the  development  efforts of
+its  Healthcare  Exchange or be forced into  seeking  protection  under  federal
+bankruptcy  laws.  As a  result,  the  report  of  independent  auditors  on the
+Company's June 30, 2002 financial  statements includes an explanatory  paragraph
+indicating there is substantial doubt about the Company's ability to continue as
+a going  concern.  The financial  statements do not include any  adjustments  to
+reflect the possible future effects on the  recoverability and classification of
+assets or the amounts and classification of liabilities that may result from the
+outcome of this uncertainty.
+
+     During the period  between  January 9, 2002 and March 28, 2002, the Company
+sold  1,232,585  shares of its  common  stock at a  purchase  price of $2.25 per
+share. The shares of common stock issued in the private placement are restricted
+securities.  Further pursuant to the private placement, in the event that within
+one year from the final  closing the Company  sells shares of common  stock,  or
+securities  exercisable or convertible  into common stock,  at a price less than
+$2.25 per share, the Company will issue additional  shares to these investors in
+an amount  such that the  overall  purchase  price  will be equal to the  lower,
+subsequent  sales price.  The forgoing  shall  exclude  common stock that may be
+issued in connection with a merger,  as a dividend,  pursuant to the exercise of
+outstanding options,  warrants and other convertible  securities and pursuant to
+options  subsequently  issued to employees.  Net proceeds from the offering were
+$2,742,519. The proceeds from the private placement were used to fund operations
+and repay debt. The Company's  Chairman and Chief  Financial  Officer  purchased
+222,222 shares of the Company's common stock in the private  placement.  Because
+the purchase  price of such stock was less than the public  trading price on the
+date of purchase,  the Company recorded  compensation expense of $138,583 during
+fiscal year 2002.
+
+     Subsequent  to  year-end,  the Company has  received  short-term  unsecured
+financing in the form of a  convertible  note of  $1,000,000 as of July 26, 2002
+from a lender.  This note bears interest at 8% and is payable at the earliest of
+July 25, 2003 or when the  Company,  in a proposed  Private  Placement of Common
+Stock offering, raises $8,000,000.  All or a portion of the convertible note may
+
+<PAGE>
+
+be converted  into shares of common stock at the lower of $2.25 per share or the
+subscription per share price of the proposed Private  Placement of Common Stock.
+In consideration for the loan the Company will issue three warrants. The Company
+will issue to the lender one warrant to purchase 100,000 shares of common stock.
+The lender  will also  receive a second  warrant to purchase  100,000  shares of
+common  stock that may only be  exercisable  if the  Company  does not repay the
+convertible note within 180 days of the agreement.  The lender will also receive
+a third  warrant  to  purchase  100,000  shares  of  common  stock  that  may be
+exercisable if the Company does not repay the  convertible  note within one year
+of the agreement.  Each of the warrants will have an exercise price equal to the
+lower of $2.14 or the  subscription  per  share  price of the  proposed  Private
+Placement of Common Stock.  When,  and if,  exercisable  the lender may exercise
+these warrants through July 26, 2009.
+
+     During fiscal year 2002,  the Company issued 284,200 shares of common stock
+pursuant to the exercise of warrants for the amount of $213,150.
+
+     On August 28, 2000, the Company sold  3,333,334  shares of its common stock
+at  $3.00  per  share.  Proceeds,  net of  offering  costs,  were  approximately
+$9,560,345. Proceeds were used to develop the Company's Healthcare Exchange. The
+Company's  Chief  Executive  Officer and related  entities  purchased  2,333,335
+shares of the  Company's  common  stock in the  private  placement.  Because the
+purchase  price of such stock was less than the public trading price on the date
+of purchase,  the Company  recorded  compensation  expense of  $1,458,334 in the
+first fiscal quarter ended September 30, 2000.
+
+     During fiscal year 2000, the Company  received  $3,712,348 in private sales
+of its common stock at an average price of $3.42 per share.
+
+     On  September,  11,  2000,  the Company  agreed with the Series D Preferred
+stockholders to exchange all their  outstanding  Series D shares and $475,915 in
+accrued preferred stock dividends into 566,972 shares of common stock based on a
+purchase price of $3.00 per common share.  The benefit  accruing to the Series D
+Preferred  stockholders  was recorded in the quarter  ended  September 30, 2000,
+approximately  $316,702 in compensation  expense and $862,000 in preferred stock
+dividends.
+
+     The  Company  has  received  short-term,  unsecured  financing  to fund its
+operations in the form of notes payable of $4,636,352 as of June 30, 2002,  from
+Mr.  Cameron and another  stockholder.  These notes bear interest at 10.25%.  On
+September 1, 2001, the Company agreed with Mr. Cameron to extend the due date on
+notes payable to him until December 31, 2002 in exchange for an extension fee of
+2%.  These  extended  notes total  $1,630,529,  including  accrued  interest and
+extension fees, and bear interest at 10.25% per annum. During the quarter ending
+June 30, 2002,  Mr. Cameron  loaned the Company an additional  $582,000  bearing
+interest at 10.25%  payable on December  31, 2002.  On  September  1, 2001,  the
+Company  agreed  with  the  other  note  holder  to  extend  the due date of his
+convertible   promissory  notes  until  December  31,  2002.  These  convertible
+promissory notes total $2,423,823,  including accrued interest, bear interest at
+10.25% per annum and are convertible into common stock at $3.00 per share at the
+note holder's option. Subsequent to fiscal year end 2002, Mr. Cameron loaned the
+Company an additional  $426,000  bearing  interest at 10.25% payable on December
+31, 2002.
+
+     On April 21,  1997,  the Company  issued an  unsecured  note  payable  (the
+"Straight   Note")  to  Mr.  Cameron  for  $1,000,000  in  accordance  with  the
+Reimbursement  Agreement  the Company  signed on February 28, 1994.  No maturity
+date was  stated in the  note;  however,  under  the terms of the  Reimbursement
+Agreement,  upon written  demand by Mr.  Cameron,  the  Straight  Note was to be
+
+<PAGE>
+
+replaced by a note convertible into the Company's common stock (the "Convertible
+Note") in a principal  amount equal to the Straight Note and bearing interest at
+9.5%.  Subsequent  to June 30, 1999,  Mr.  Cameron  disposed of a portion of his
+interest in the Straight  Note,  reducing the balance due him to $711,885,  plus
+accrued  interest.  On August 19, 1999, the Company's Board of Directors  agreed
+with the Straight Note holders to fix the  conversion  price of the  Convertible
+Note to $0.044 in exchange for the Straight and/or  Convertible Notes ceasing to
+accrue  interest as of that date.  Because of the decline in revenues  caused by
+the  non-renewal  of programmer  contracts and the steady  decline in the quoted
+value of the Company's  common stock at that time (trading price was at $0.25 on
+August 19, 1999), the Board agreed it was in the best interest of the Company to
+eliminate the future market risk that the  conversion  price become lower than a
+fixed  conversion  price of $0.044.  The benefit  accruing  to the note  holders
+resulting from the amendment to the conversion  terms, as measured on August 19,
+1999,  was  approximately  $2.4 million and was recorded as additional  interest
+expense in the quarter ended September 30, 1999.  Subsequent to August 19, 1999,
+Mr.  Cameron  elected to replace his  remaining  interest in the Straight  Note,
+including  accrued interest,  with the Convertible Note and then  simultaneously
+converted the Convertible  Note into 19,762,786  shares of the Company's  common
+stock.  All other  Straight Note holders also  replaced  their  Straight  Notes,
+including   accrued   interest,   with  Convertible  Notes  and  converted  such
+Convertible  Notes into an aggregate of 7,998,411 shares of the Company's common
+stock during fiscal 2000.
+
+     The  following  table  represents  the  debt  requirements   pertaining  to
+contractual obligations of the Company over the next five years:
+<TABLE>
+<CAPTION>
+<S>                                                 <C>               <C>            <C>             <C>           <C>
+
+-------------------------------------------------------------------------------------------------------------------------
+Contractual Obligations                                                    Payments Due by Period
+-------------------------------------------------------------------------------------------------------------------------
+                                                    Total         Less than 1      1-3 years       4-5 years      After 5
+                                                                      year                                         years
+-------------------------------------------------------------------------------------------------------------------------
+Notes payable to stockholder                  $ 2,212,529       $   2,212,529    $         -     $         -  $         -
+
+Convertible notes payable to stockholder        2,423,823           2,423,823              -               -            -
+
+Operating  leases -  facilities - payable to
+stockholder                                       222,722             147,753         74,969               -            -
+
+Operating leases - equipment                      165,277              51,641        101,528          12,108            -
+
+Application services provider                   1,618,824             404,706      1,214,118               -            -
+
+-------------------------------------------------------------------------------------------------------------------------
+Total contractual cash obligations            $   6,643,175      $   5,240,452   $   1,390,615   $      12,108  $       -
+-------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+Recent Accounting Pronouncements
+
+     In July 2001, the Financial  Accounting  Standards Boards issued Statements
+of Financial Accounting Standards No. 141, "Business  Combinations," or SFAS 141
+and No. 142,  "Goodwill  and Other  Intangible  Assets,"  or SFAS 142.  SFAS 141
+requires  that the  purchase  method  of  accounting  be used  for all  business
+combinations  initiated  after June 30,  2001.  Use of the  pooling-of-interests
+method is no longer  permitted.  SFAS 141 also includes  guidance on the initial
+recognition and measurement of goodwill and other intangible  assets acquired in
+a business combination that is completed after June 30, 2001. SFAS 142 no longer
+permits the  amortization of goodwill and  indefinite-lived  intangible  assets.
+Instead,  these  assets  must be reviewed  annually  (or more  frequently  under
+certain conditions) for impairment in accordance with this statement. Intangible
+assets that do not have  indefinite  lives will  continue to be  amortized  over
+their useful  lives and reviewed for  impairment  in  accordance  with  existing
+guidance.  We are required to adopt SFAS 142 effective July 1, 2002. Because the
+
+
+
+<PAGE>
+
+Company  has  historically  not been  party  to any  business  combinations  and
+therefore has not recorded related goodwill and intangible  assets, the adoption
+of SFAS  141  and  142 did not  have  an  effect  on the  Company's  results  of
+operations, financial position or cash flows.
+
+     In October 2001,  the FASB issued  Statement No. 144,  "Accounting  for the
+Impairment or Disposal of Long-Lived  Assets"  (SFAS 144).  SFAS 144  supersedes
+SFAS 121,  however it  retains  the  fundamental  provisions  of that  statement
+related to the  recognition  and  measurement  of the  impairment  of long-lived
+assets to be "held  and  used."  Among  other  things,  SFAS 144  provides  more
+guidance on estimating  cash flows when  performing a  recoverability  test. The
+Company will adopt SFAS 144 effective July 1, 2002. The adoption of SFAS 144 did
+not have an effect on the Company's results of operations,  financial  condition
+or cash flows.
+
+Effects of Inflation
+
+     Management  does not  expect  inflation  to have a  material  effect on the
+Company's operating expenses.
+
+Item 7A.  Quantitative and Qualitative Disclosures About Market Risk
+
+     The Company has notes payable in the  aggregate  amount of $4,636,352 as of
+June 30,  2002,  payable to two  stockholders  of the  Company.  The notes bears
+interest at 10.25% per annum and are due December 31, 2002. The Company does not
+believe  that any change in  interest  rates will have a material  impact on the
+Company during fiscal 2003.  Further,  the Company has no foreign operations and
+therefore is not subject to foreign currency fluctuations.
+
+Item 8.  Financial Statements and Supplementary Data
+
+     The financial  statements  of the Company,  including the notes thereto and
+report of the independent  auditors  thereon,  and the  supplementary  financial
+information required by Item 302, are attached hereby as exhibits following page
+number 27.
+
+Item 9.  Changes   in  and  Disagreements  with  Accountants  on  Accounting and
+         Financial Disclosure
+
+     Not applicable.
+
+PART III
+
+Item 10.  Directors and Executive Officers of the Company
+
+     The  information  required by this item is incorporated by reference to the
+Captions "Election of Directors",  "Further Information  concerning the Board of
+Directors" and "Section 16 (a)  Information" of the Company's  definitive  Proxy
+Statement for the Annual Meeting of Stockholders, which will be filed within 120
+days of the Company's fiscal year end.
+
+Item 11.  Executive Compensation
+
+     The  information  required by this item is incorporated by reference to the
+Caption "Principal Stockholders" of the Company's definitive Proxy Statement for
+the Annual Meeting of  Stockholders,  which will be filed within 120 days of the
+Company's fiscal year end.
+
+
+<PAGE>
+
+Item 12.  Security Ownership of Certain Beneficial Owners and Management
+
+     The  information  required by this item is incorporated by reference to the
+Caption "Principal Stockholders" of the Company's definitive Proxy Statement for
+the Annual Meeting of  Stockholders,  which will be filed within 120 days of the
+Company's fiscal year end.
+
+Item 13.  Certain Relationships and Related Transactions
+
+     The  information  required by this item is incorporated by reference to the
+Caption  "Certain  Relationships  and  Related  Transactions"  of the  Company's
+definitive Proxy Statement for the Annual Meeting of Stockholders  which will be
+filed within 120 days of the Company's fiscal year end.
+
+Item 14.  Exhibits, Financial Statement Schedules, and Reports on Form 8-K
+
+         Exhibit
+         Number       Description of Document
+
+         3.1      Second   Amended   and   Restated  Bylaws  of  the  Registrant
+                  (incorporated by reference to Exhibit 3.3  to Amendment  No. 1
+                  to Registration Statement on Form S-18, Reg. No. 33-48666).
+
+         3.2      Amendment  to  Second  Amended  and  Restated  Bylaws  of  the
+                  Registrant  (incorporated  by  reference to Exhibit 3.3 of the
+                  Registrant's Annual Report  on Form 10-KSB for the fiscal year
+                  ended June 30, 1994).
+
+         3.3      Amended  and  Restated  Certificate  of  Incorporation  of the
+                  Registrant (incorporated by reference to Exhibit 3.3  of  Form
+                  10-KSB for the fiscal year ended June 30, 1997).
+
+         4.1      Amended  and  Restated   Certificate   of   Incorporation   of
+                  Registrant, including Certificates of Designation with respect
+                  to  Series  A,  Series  B,  Series  C,  Series D, and Series E
+                  Preferred   Stock,   including    any    amendments    thereto
+                  (incorporated   by   reference  to Exhibit 4.1 to Registration
+                  Statement on Form S-3, Reg. No. 33-86962).
+
+         10.1     Form   of   Director  and  Executive  Officer  Indemnification
+                  Agreement  (incorporated   by  reference  to Exhibit  10.19 to
+                  Registration Statement on Form S-18, Reg. No. 33-48666).
+
+         10.11+   1993  Stock  Option/Stock  Issuance  Plan  (incorporated    by
+                  reference  to Exhibit 10.47 to Form 10-KSB for the fiscal year
+                  ended June 30, 1994).
+
+         10.12+   Stock  Option  Agreement,  dated  August 11, 1993, between the
+                  Registrant and Russell J. Harrison (incorporated  by reference
+                  to Exhibit 10.51 to Form 10-KSB for the fiscal year ended June
+                  30, 1994).
+
+         10.18    Note Payable between the Registrant  and the Negri  Foundation
+                  dated December 24, 1996 (incorporated by reference to  Exhibit
+                  10.60 to Form 10-QSB for the quarter ended December 31, 1996).
+
+
+<PAGE>
+
+         10.19    Note  Payable between the Registrant and the Negri  Foundation
+                  dated December 31, 1996  (incorporated by reference to Exhibit
+                  10.61 to Form 10-QSB for the quarter ended December 31, 1996).
+
+         10.20    Note Payable  between  the Registrant  and the Max Negri Trust
+                  dated December 31, 1996 (incorporated by reference to  Exhibit
+                  10.62 to Form 10-QSB for the quarter ended December 31, 1996).
+
+         10.21    Note Payable between the Registrant and the Cameron Foundation
+                  dated December 31, 1996 (incorporated by reference to  Exhibit
+                  10.63 to Form 10-QSB for the quarter ended December 31, 1996).
+
+         10.22    Note Payable between the Registrant and the James W.  Cameron,
+                  Jr., as an  individual, dated  December 31, 1996 (incorporated
+                  by  reference  to Exhibit 10.64 to Form 10-QSB for the quarter
+                  ended December 31, 1996).
+
+         10.23    Note Payable between  the  Registrant  and  James W.  Cameron,
+                  Jr., as an individual, dated January 16, 1997 (incorporated by
+                  reference  to  Exhibit  10.65  to  Form 10-QSB for the quarter
+                  ended December 31, 1996).
+
+         10.24    Note Payable between  the  Registrant  and  James W.  Cameron,
+                  Jr., as an individual, dated January 31, 1997 (incorporated by
+                  reference  to  Exhibit 10.66  to Form  10-QSB for  the quarter
+                  ended December 31, 1996).
+
+         10.25    Note Payable between the Registrant and James W. Cameron, Jr.,
+                  as  an  individual,  dated February 7, 1997  (incorporated  by
+                  reference  to  Exhibit  10.67  to  Form 10-QSB for the quarter
+                  ended December 31, 1996).
+
+         10.29    Note Payable  between  the  Registrant  and  James W. Cameron,
+                  Jr.,  dated  April  21, 1997  (incorporated  by  reference  to
+                  Exhibit 10.29  to  Form  10-KSB  for  the  year ended June 30,
+                  1997).
+
+         10.33+   Alternative Technology Resources, Inc. 1997  Stock Option Plan
+                  (incorporated by reference to Exhibit 10.33 to Form 10-KSB for
+                  the year ended June 30, 1998).
+
+         10.34    Memorandum  regarding  rent  reduction  on  that Lease between
+                  James W. Cameron, Jr., and the Registrant, dated July 15, 1998
+                  (incorporated by reference to Exhibit 10.34 to Form 10-KSB for
+                  the year ended June 30, 1998).
+
+         10.35    Fourth Addendum  to  Lease between  James W. Cameron, Jr., and
+                  the  Registrant,  effective  January 1, 1999 (incorporated  by
+                  reference  to  Exhibit 10.35  to  Form  10-QSB for the quarter
+                  ended March 31, 1999).
+
+         10.36    Fifth Addendum to Lease between James W. Cameron, Jr., and the
+                  Registrant,   effective   January   1,  2000 (incorporated  by
+                  reference  to  Exhibit 10.36 to Form 10-KSB for the year ended
+                  June 30, 2000).
+
+
+<PAGE>
+
+         10.37    Healtheon  Customer  Agreement  effective  September  16, 1999
+                  (incorporated  by  reference to Exhibit 10.37 to Form 10-K for
+                  the year ended June 30, 2001).
+
+         10.38    Employment Agreement with Jeffrey McCormick.  (Incorporated by
+                  reference  to Exhibit 10.38 to Form 10-K for year end June 30,
+                  2001.)
+
+         10.40    Master  Agreement for Computer  Software  Products and Related
+                  Services between Alternative  Technology  Resources,  Inc. and
+                  Resource  Information  Management  Systems, Inc. (incorporated
+                  by reference to Exhibit  10.40 to Form 10-Q for the  quarterly
+                  period ended December 31, 2000).
+
+          23.1    Consent of Ernst & Young LLP, Independent Auditors
+
+          99.1    Chief Executive Officer Certification
+
+          99.2    Chief Financial Officer Certification
+
+
+          + Indicates  a management contract or compensatory plan or arrangement
+as required by Item 13(a).
+
+Financial Statement Schedules
+
+     All  schedules  have been omitted  because they are not required or are not
+applicable or the required  information is shown in the financial  statements or
+related notes
+
+Reports on Form 8-K
+
+     There  were no reports  on Form 8-K filed  during  the last  quarter of the
+period covered by this report.
+
+
+<PAGE>
+
+
+
+
+                                   SIGNATURES
+
+
+     In accordance  with Section 13 or 15(d) of the Exchange Act, the registrant
+caused this report to be signed on its behalf by the undersigned, thereunto duly
+authorized.
+
+
+Dated:       September 20, 2002           ALTERNATIVE TECHNOLOGY RESOURCES, INC.
+
+
+
+
+
+                                          By  /S/ JEFFREY S. MCCORMICK
+                                            ------------------------------------
+                                            Jeffrey S. McCormick.
+                                            Chief Executive Officer
+
+
+     In  accordance  with the Exchange Act, this report has been signed below by
+the following  persons on behalf of the  Registrant and in the capacities and on
+the dates indicated.
+
+
+Signature                   Title                             Date
+---------                   -----                             ----
+
+
+/S/ JAMES W. CAMERON, JR.   Chairman of the Board, Director   September 20, 2002
+------------------------    And Chief Financial Officer
+James W. Cameron, Jr.
+
+
+/S/ EDWARD L. LAMMERDING    Director                          September 20, 2002
+------------------------
+Edward L. Lammerding
+
+
+/S/ JEFFREY S. MCCORMICK    Director                          September 20, 2002
+------------------------
+Jeffrey S. McCormick
+
+
+<PAGE>
+
+
+
+
+                          INDEX TO FINANCIAL STATEMENTS
+
+                     Alternative Technology Resources, Inc.
+
+
+
+                                                                            Page
+                                                                            ----
+
+Report of Ernst & Young LLP, Independent Auditors............................F-1
+Balance Sheets as of June 30, 2002 and 2001..................................F-2
+Statements of Operations for the Years Ended June 30, 2002, 2001 and 2000....F-3
+Statements of Stockholders' Equity (Deficit) for the Years Ended June 30,
+ 2002, 2001 and 2000.........................................................F-4
+Statements of Cash Flows for the Years Ended June 30, 2002, 2001 and 2000....F-5
+Notes to Financial Statements................................................F-7
+
+
+
+<PAGE>
+
+
+
+
+                Report of Ernst & Young LLP, Independent Auditors
+
+The Board of Directors and Stockholders
+Alternative Technology Resources, Inc.
+
+     We have audited the accompanying  balance sheets of Alternative  Technology
+Resources,  Inc. as of June 30, 2002 and 2001,  and the  related  statements  of
+operations, stockholders' equity (deficit), and cash flows for each of the three
+years in the period  ended June 30, 2002.  These  financial  statements  are the
+responsibility of the Company's management.  Our responsibility is to express an
+opinion on these financial statements based on our audits.
+
+     We conducted our audits in accordance  with  auditing  standards  generally
+accepted in the United States.  Those standards require that we plan and perform
+the audit to obtain reasonable  assurance about whether the financial statements
+are free of material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements.  An
+audit also includes  assessing the accounting  principles  used and  significant
+estimates  made by  management,  as well as  evaluating  the  overall  financial
+statement  presentation.  We believe that our audits provide a reasonable  basis
+for our opinion.
+
+     In our opinion,  the financial statements referred to above present fairly,
+in all material  respects,  the  financial  position of  Alternative  Technology
+Resources,  Inc. at June 30, 2002 and 2001 and the results of its operations and
+its cash flows for each of the three years in the period  ended June 30, 2002 in
+conformity with accounting principles generally accepted in the United States.
+
+     The  accompanying  financial  statements  have been prepared  assuming that
+Alternative Technology Resources, Inc. will continue as a going concern. As more
+fully described in Note 1, the Company has incurred  recurring  operating losses
+and has an  accumulated  deficit  of  $59,362,879  as of June  30,  2002.  These
+conditions raise  substantial doubt about the Company's ability to continue as a
+going concern.  Management's plans in regard to these matters are also described
+in Note 1. The financial  statements do not include any  adjustments  to reflect
+the possible future effects on the  recoverability  and classification of assets
+or the  amounts  and  classification  of  liabilities  that may result  from the
+outcome of this uncertainty.
+
+
+
+                                                           /S/ ERNST & YOUNG LLP
+
+Sacramento, California
+August 16, 2002
+
+
+
+<PAGE>
+
+
+                     Alternative Technology Resources, Inc.
+
+                                 Balance Sheets
+
+<TABLE>
+<CAPTION>
+<S>                                                                                          <C>                   <C>
+
+                                                                                                        June 30,
+                                                                                            2002                   2001
+                                                                                            ----                   ----
+                                      Assets
+                                      ------
+Current assets:
+  Cash and cash equivalents                                                            $     402,291          $  3,159,017
+  Short-term investments                                                                           -             1,354,137
+  Trade accounts receivable                                                                    3,602                24,252
+  Interest receivable                                                                              -                52,134
+  Prepaid expenses and other current assets                                                   81,223               267,635
+                                                                                       -----------------------------------
+Total current assets                                                                         487,116             4,857,175
+
+Property and equipment:
+  Equipment and software                                                                     788,192               501,626
+  Accumulated depreciation and amortization                                                 (297,987)             (107,848)
+                                                                                       -----------------------------------
+  Property and equipment, net                                                                490,205               393,778
+
+Prepaid license and service fees                                                             211,498               259,155
+Other non-current assets                                                                      14,490                67,550
+                                                                                       -----------------------------------
+
+                                                                                       $   1,203,309          $  5,577,658
+                                                                                       ===================================
+
+                  Liabilities and Stockholders' Equity (Deficit)
+                  ----------------------------------------------
+Current liabilities:
+  Payable to Healthcare Exchange providers                                             $     409,738          $     40,756
+  Trade accounts payable                                                                     438,460               151,371
+  Accrued payroll and related expenses                                                       274,777               181,028
+  Accrued preferred stock dividends                                                          283,195               283,195
+  Accounts payable and accrued interest payable to stockholders                              797,232               728,941
+  Notes payable to stockholder                                                             2,212,529                     -
+  Convertible notes payable to stockholder                                                 2,423,823                     -
+  Other current liabilities                                                                  254,469               295,680
+                                                                                       -----------------------------------
+Total current liabilities                                                                  7,094,223             1,680,971
+
+Long term notes payable to stockholder                                                             -             1,511,635
+Long term convertible notes payable to stockholder                                                 -             2,228,815
+                                                                                       -----------------------------------
+Total long term liabilities                                                                        -             3,740,450
+
+Commitments and contingencies (Notes 1 and 6)
+
+Stockholders' equity (deficit):
+  Convertible preferred stock, $6.00 par value - 1,200,000 shares authorized,
+     none issued and outstanding at June 30, 2002 and 2001, 204,167 shares designated
+     Series D, none issued and outstanding at June 30, 2002 and 2001
+  Common stock, $0.01 par value - 100,000,000 shares authorized
+     60,968,213 shares issued and outstanding at June 30, 2002 (59,394,844 at
+     June 30, 2001)                                                                          609,682               593,949
+  Additional paid-in capital                                                              52,862,283            49,109,283
+  Accumulated deficit                                                                    (59,362,879)          (49,546,973)
+  Accumulated other comprehensive loss                                                             -                   (22)
+                                                                                       -----------------------------------
+Total stockholders' equity (deficit)                                                      (5,890,914)              156,237
+                                                                                       -----------------------------------
+                                                                                       $   1,203,309           $ 5,577,658
+                                                                                       ===================================
+</TABLE>
+
+See accompanying notes.
+
+
+<PAGE>
+
+
+                     Alternative Technology Resources, Inc.
+
+                            Statements of Operations
+
+<TABLE>
+<CAPTION>
+<S>                                                              <C>                      <C>                   <C>
+
+                                                                              Years Ended June 30,
+                                                       ----------------------------------------------------------------
+                                                                 2002                     2001                 2000
+                                                       ----------------------------------------------------------------
+Healthcare Exchange
+      Healthcare Exchange revenue                      $    1,642,565          $        50,944        $           -
+      Healthcare Exchange costs                            (1,463,517)                 (84,528)                   -
+                                                       ----------------------------------------------------------------
+Healthcare Exchange gross profit (loss)                       179,048                  (33,584)                   -
+
+Contract Programming:
+      Contract programming revenue                                  -                  308,469            2,561,101
+      Contract termination fees                                     -                        -                5,453
+      Programmer costs                                              -                 (235,258)          (1,745,011)
+      Start-up and other costs                                      -                  (10,414)            (399,481)
+                                                       ----------------------------------------------------------------
+Contract programming gross profit                                   -                   62,797              422,062
+
+Selling, marketing & product development costs             (7,076,558)              (5,097,513)          (1,154,244)
+
+General and administrative expenses                        (2,482,272)              (3,850,971)          (1,276,726)
+                                                       ----------------------------------------------------------------
+
+Loss from operations                                       (9,379,782)              (8,919,271)          (2,008,908)
+                                                       ----------------------------------------------------------------
+Other income (expense):
+      Interest income                                          42,563                  447,742               87,672
+      Interest expense to stockholders and directors         (478,687)                (443,226)          (2,894,405)
+                                                       ----------------------------------------------------------------
+Total other income (expense)                                 (436,124)                   4,516           (2,806,733)
+                                                       ----------------------------------------------------------------
+Net loss                                                   (9,815,906)              (8,914,755)          (4,815,641)
+
+Preferred stock dividends                                           -                 (886,142)            (122,500)
+                                                       ----------------------------------------------------------------
+
+Net loss applicable to common stockholders             $   (9,815,906)         $    (9,800,897)       $  (4,938,141)
+                                                       ================================================================
+
+Basic and diluted net loss per share applicable to
+common stockholders                                    $        (0.16)         $         (0.17)       $       (0.10)
+                                                       ================================================================
+Weighted-average common stock outstanding                  59,936,435               58,686,778           50,329,614
+                                                       ================================================================
+
+</TABLE>
+
+
+See accompanying notes.
+
+
+
+
+<PAGE>
+
+
+
+                     Alternative Technology Resources, Inc.
+                  Statements of Stockholders' Equity (Deficit)
+
+                    Years ended June 30, 2002, 2001 and 2000
+<TABLE>
+<CAPTION>
+<S>                                    <C>         <C>     <C>          <C>          <C>           <C>       <C>             <C>
+
+                                                                                                             Accumu-
+                                                                                                             lated
+                                     Convertible Preferred                                                   Other         Total
+                                             Stock             Common Stock       Additional                 Compre-    Stockholders
+                                     -------------------------------------------    Paid-In    Accumulated   hensive       Equity
+                                     Shares       Amount   Shares      Amount       Capital      Deficit      Loss        (Deficit)
+                                     ------       ------   ------      ------       -------      -------      ----        --------
+
+Balance, June 30, 1999               204,167  $ 1,225,002  26,169,718  $ 261,697  $28,742,403  $(35,816,577) $   -     $ (5,587,475)
+
+Issuance of common stock in
+   settlement of accounts
+   payable                                 -            -      15,126        151        8,751            -       -            8,902
+Issuance of common stock
+  upon conversion of notes
+  payable                                  -            -  27,761,197    277,612    3,359,029            -       -        3,636,641
+Private placement of common
+  stock, net of issuance costs             -            -   1,086,145     10,862    3,701,486            -       -        3,712,348
+Options and warrants exercised             -            -     309,919      3,100      190,219            -       -          193,319
+Repurchase of common stock                 -            -     (12,500)      (125)         125            -       -                -
+Preferred stock dividends                  -            -           -          -     (122,500)           -       -         (122,500)
+Net loss                                   -            -           -          -            -   (4,815,641)      -       (4,815,641)
+                                     -----------------------------------------------------------------------------------------------
+
+Balance, June 30, 2000               204,167     1,225,002  55,329,605    553,297   35,879,513  (40,632,218)     -       (2,974,406)
+
+Issuance of common stock in
+  settlement of accounts
+  payable                                  -            -      80,000        800      155,200            -       -          156,000
+Issuance of common stock
+  upon conversion of Series
+  D preferred stock                 (204,167)  (1,225,002)    566,972      5,670    2,011,949            -       -          792,617
+Issuance of common stock upon
+  conversion of note payable               -            -      20,000        200       59,800            -       -           60,000
+Private placement of common
+  stock, net of issuance costs             -            -   3,333,334     33,333   10,985,346            -       -       11,018,679
+Options exercised                          -            -      64,933        649       41,584            -       -           42,233
+Preferred stock dividends                  -            -           -          -      (24,109)           -       -          (24,109)
+Other comprehensive income
+  (loss) change in unrealized
+  gain/loss on available-for-
+  sale securities                          -            -           -          -            -            -     (22)             (22)
+Net loss                                   -            -           -          -            -   (8,914,755)      -       (8,914,755)
+                                      ----------------------------------------------------------------------------------------------
+
+Balance, June 30, 2001                     -            -  59,394,844    593,949   49,109,283  (49,546,973)    (22)         156,237
+
+Private placement of common
+  stock, net of issuance
+  costs                                    -            -   1,232,584     12,325    2,868,777            -       -        2,881,102
+Compensation expense related
+  to grant of stock options to
+  employees and issuance of
+  stock to a consultant                    -            -           -          -      649,028            -       -          649,028
+Options and warrants exercised             -            -     340,785      3,408      235,195            -       -          238,603
+Other comprehensive income
+  (loss) - change in unrealized
+  gain/loss on available-for-
+  sale securities                          -            -           -          -            -            -      22               22
+Net loss                                   -            -           -          -            -   (9,815,906)      -       (9,815,906)
+                                      ----------------------------------------------------------------------------------------------
+Balance, June 30, 2002                     -      $     -  60,968,213   $609,682  $52,862,283  $(59,362,879)  $  -      $(5,890,914)
+                                      ==============================================================================================
+</TABLE>
+
+See accompanying notes.
+
+
+<PAGE>
+
+
+                     Alternative Technology Resources, Inc.
+
+                            Statements of Cash Flows
+                Increase (Decrease) in Cash and Cash Equivalents
+<TABLE>
+<CAPTION>
+<S>                                                                    <C>                   <C>                 <C>
+
+                                                                                    Years ended June 30,
+                                                                       2002                 2001                 2000
+                                                                ------------------------------------------------------------
+Cash flows from operating activities:
+    Net loss                                                    $   (9,815,906)         $   (8,914,755)      $   (4,815,641)
+      Adjustments to reconcile net loss to net cash
+       used in operating activities:
+        Depreciation and amortization                                  190,139                  93,404               14,444
+        Interest expense resulting from amendment to
+          conversion terms of notes payable                                  -                       -            2,415,223
+        Interest expense included in notes payable to
+          stockholders                                                 313,902                 233,026              309,334
+        Write-off of WebMD prepaid service fee                               -                 250,000                    -
+        Stock based compensation                                       787,611               1,931,036                    -
+        Changes in operating assets and liabilities:
+           Trade accounts receivable                                    20,650                  73,876              374,008
+           Interest receivable                                          52,134                  52,135                    -
+           Prepaid expenses and other current assets                   186,412                (287,721)            (239,521)
+           Non-current assets                                          100,717                (326,705)                   -
+           Payable to Healthcare Exchange providers                    368,982                  40,756                    -
+           Trade accounts payable                                      287,089                  54,166               12,911
+           Accrued payroll and related expenses                         93,749                  13,521             (136,781)
+           Accounts payable and accrued interest payable to
+             stockholders                                               68,291                 115,311               73,509
+           Other current liabilities                                   (41,211)                 22,662              157,329
+                                                                ------------------------------------------------------------
+Net cash used by operating activities                               (7,387,441)             (6,649,288)          (1,835,185)
+                                                                ------------------------------------------------------------
+
+Cash flows from investing activities:
+    Purchases of equipment and software                               (286,566)               (326,211)            (175,415)
+    Purchases of short-term investments                                      -              (6,306,989)                   -
+    Maturities of short-term investments                             1,354,159               4,952,830                    -
+                                                                ------------------------------------------------------------
+Net cash provided (used) by investing activities                     1,067,593              (1,680,370)            (175,415)
+                                                                ------------------------------------------------------------
+</TABLE>
+
+
+
+
+
+(Continued on next page)
+
+
+<PAGE>
+
+
+
+                     Alternative Technology Resources, Inc.
+
+                            Statements of Cash Flows
+                Increase (Decrease) in Cash and Cash Equivalents
+                                   (continued)
+<TABLE>
+<CAPTION>
+<S>                                                                  <C>                  <C>                  <C>
+
+                                                                                  Years ended June 30,
+                                                                     2002                 2001                2000
+                                                              -----------------------------------------------------------
+Cash flows from financing activities:
+    Proceeds from private placement of common stock           $   2,742,519           $  9,560,345        $  3,712,348
+    Proceeds from exercise of options and warrants                  238,603                 42,233             193,319
+    Proceeds from notes payable to stockholders                     582,000                      -              33,500
+    Payments on notes payable to stockholders                             -                      -             (33,500)
+    Proceeds from notes payable to directors                              -                      -               3,361
+    Payments on notes payable to directors                                -                (23,324)            (21,649)
+                                                              -----------------------------------------------------------
+Net cash provided (used) by financing activities                  3,563,122              9,579,254           3,887,379
+                                                              -----------------------------------------------------------
+Net increase (decrease) in cash and cash equivalents             (2,756,726)             1,249,596           1,876,779
+Cash and cash equivalents at beginning of year                    3,159,017              1,909,421              32,642
+                                                              -----------------------------------------------------------
+Cash and cash equivalents at end of year                      $     402,291           $  3,159,017        $  1,909,421
+                                                              ===========================================================
+Supplemental disclosure of cash flow information:
+    Cash paid during the year for interest                    $     110,697           $     94,611        $     54,926
+                                                              ===========================================================
+Supplemental disclosure of non-cash financing activities:
+    Conversion of notes payable to common stock               $           -           $     60,000        $  1,000,000
+                                                              ===========================================================
+</TABLE>
+
+
+See accompanying notes.
+
+
+<PAGE>
+
+
+                     Alternative Technology Resources, Inc.
+                          Notes to Financial Statements
+
+                    Years Ended June 30, 2002, 2001 and 2000
+
+
+1.  Summary of Significant Accounting Policies
+
+Description of Business
+
+     Alternative  Technology Resources,  Inc. (hereinafter referred to as "ATR,"
+the  "Company,"  "we" or "us") has  developed  and is  operating an Exchange for
+healthcare services ("Healthcare Exchange").  The Company contracts with medical
+doctors,   medical  groups,   hospitals  and  other  health  care  practitioners
+(collectively,  "Providers")  to offer their  services  through  the  Healthcare
+Exchange to those who purchase or facilitate the purchase of healthcare services
+("Purchasers"). ATR's Healthcare Exchange began operations with a limited number
+of Providers and Purchasers in the quarter ending June 30, 2001
+
+     The purpose of the Healthcare Exchange is to utilize the Internet and other
+technologies  to facilitate  Provider  initiated  discounts and  administrative,
+billing and remittance  services for all commercial lines of business within the
+healthcare  industry.  Our  Healthcare  Exchange  offers a direct and  efficient
+conduit  between  Providers and Purchasers of health care services,  their PPOs'
+and/or their  agents.  Providers  submit bills to the Company,  who reprices the
+bills   to   the   rate   set   by   the   Providers,    including    adding   a
+transaction-processing  fee,  and  then  routes  them  to  Purchasers  or  their
+intermediaries.  The Company  receives  payments  from  Purchasers  on behalf of
+Providers, and then remits payments to Providers.
+
+     The  Company's   Healthcare  Exchange   development  efforts  will  require
+substantial  funds.  The Company believes that it has developed a viable plan to
+address the Company's ability to continue as a going concern, and that this plan
+will enable the Company to continue as a going concern, at least through the end
+of  fiscal  year  2003.  However,  the  Company  believes  it will need to raise
+additional  funds during fiscal 2003. The Company has engaged a placement  agent
+to  assist  in the sale of  shares  of the  Company  common  stock in a  private
+placement,  but there can be no assurance that the Company will be able to raise
+sufficient   funds  to   successfully   implement  its  business   plan.   Also,
+traditionally,  the Company has relied on major  stockholders  or  affiliates to
+finance  its  operations,  although  there  can be no  assurance  that they will
+continue  to do so. If  unsuccessful  the  Company may be required to reduce the
+development  efforts  of its  Healthcare  Exchange  or be  forced  into  seeking
+protection  under  federal  bankruptcy  laws.  The  financial  statements do not
+include  any   adjustments  to  reflect  the  possible  future  effects  on  the
+recoverability and classification of assets or the amounts and classification of
+liabilities that may result from the outcome of this uncertainty.
+
+Use of Estimates in Preparation of Financial Statements
+
+     The  preparation of the financial  statements in conformity with accounting
+principles  generally accepted in the United States requires  management to make
+estimates  and  assumptions  that affect the amounts  reported in the  financial
+statements  and  accompanying  notes.  Actual  results  could  differ from those
+estimates.
+<PAGE>
+
+
+                     Alternative Technology Resources, Inc.
+                          Notes to Financial Statements
+
+                    Years Ended June 30, 2002, 2001 and 2000
+
+
+Cash, Cash Equivalents and Short-Term Investments
+
+     The  Company  considers  all highly  liquid  investments  with an  original
+maturity  of  three  months  or  less  from  the  date  of  purchase  to be cash
+equivalents.  At June 30, 2002 and 2001  substantially all of the Company's cash
+equivalents represent investments in money market accounts.
+
+     As of June 30, 2002 the Company's had no  short-term  investments.  At June
+30, 2001 short-term investments are corporate obligations with maturity dates of
+91 days to one year from the date of purchase.
+
+Prepaid License and Service Fees
+
+     Prepaid  license and service fees are  recorded at cost and  amortized on a
+straight-line  basis  over the  service  period.  Management  considers  whether
+indicators  of impairment of these assets are present at each balance sheet date
+and an impairment loss is recorded, if necessary.
+
+Property and Equipment
+
+     Property  and  equipment  are  recorded  at cost and are  depreciated  on a
+straight-line  basis over the estimated  useful lives of the assets or the lease
+term,  whichever is shorter. The estimated useful lives range from three to five
+years.
+
+Revenue Recognition
+
+     The Company recognizes revenue for the  transaction-processing  fee when it
+is earned and the Company has  substantially  completed  all of its  obligations
+under the contract.
+
+     Contract  programming  revenue  represented  work  performed for customers,
+primarily on a time and materials  basis,  and was  recognized  when the related
+services were rendered.  Contract  termination  fees were amounts  received from
+customers  when they  exercised  the contract  provision,  which allowed them to
+convert ATR's  programmer to their employee.  In addition,  these fees were also
+received  from  programmers  when they  exercised  their  contract  provision to
+terminate their  relationship  with the Company prior to the termination date of
+their  contract.  These fee amounts were  stipulated in customer and  programmer
+contracts,  were based on the length of time remaining  under the contract,  and
+were  recognized as revenue when such contract  provisions  were invoked.  As of
+June 30, 2001, the Company is no longer in the contract programming business.
+
+Product Development Costs
+
+     In  October  1999,  the  Company  began  incurring  costs  to  develop  its
+Healthcare  Exchange.  In  accordance  with  SOP  98-5,  "Reporting  on Costs of
+Start-Up  Activities,"  start-up costs  associated with the Healthcare  Exchange
+have  been  expensed  as  incurred.  The  Company's  Healthcare  Exchange  began
+operations in the quarter ending June 30, 2001.
+<PAGE>
+
+                     Alternative Technology Resources, Inc.
+                    Notes to Financial Statements (continued)
+
+                    Years Ended June 30, 2002, 2001 and 2000
+
+
+Stock-Based Compensation
+
+     As permitted  under the  provisions  of  Statement of Financial  Accounting
+Standards No. 123 "Accounting for  Stock-Based  Compensation"  ("SFAS No. 123"),
+the  Company  has  elected to account  for  stock-based  compensation  using the
+intrinsic value method prescribed by Accounting Principles Board Opinion No. 25,
+"Accounting for Stock Issued to Employees"  ("APB No. 25").  Under the intrinsic
+value  method,  compensation  cost is the excess,  if any, of the quoted  market
+price or fair  value of the stock at the grant  date or other  measurement  date
+over the amount an employee must pay to acquire the stock.  Disclosures required
+under SFAS No. 123 are included in Note 7 to the financial statements.
+
+Net Loss Per Share
+
+     All  loss  per  share  amounts  for all  periods  have  been  presented  in
+accordance  with  Statement of  Financial  Accounting  Standards  Board No. 128,
+"Earnings  per Share".  As the Company  has  reported  net losses in all periods
+presented, basic and diluted loss per share have been calculated on the basis of
+net loss  applicable  to common  stockholders  divided by the  weighted  average
+number  of common  shares  outstanding  without  giving  effect  to  outstanding
+options,  warrants,  and convertible securities whose effects are anti-dilutive.
+For the  fiscal  years  ended  June 30,  2002,  2001 and 2000,  there were stock
+options, stock warrants and a convertible note payable outstanding,  and for the
+fiscal  year ended  June 30,  2000 there was also  convertible  preferred  stock
+outstanding  (Notes 3 and 7), which could potentially  dilute earnings per share
+in the future but were not included in the computation of diluted loss per share
+as their effect was anti-dilutive in the periods presented.
+
+Segment Disclosures
+
+     As of June 30,  2002,  the Company  operates in one  segment,  the selling,
+marketing,  development  and operation of an Exchange for health care  services.
+Prior to beginning  operations with a limited number of Providers and Purchasers
+in the  quarter  ending  June 30,  2001,  the  Company  was in the  business  of
+recruiting,  hiring and training foreign  computer  programmers and placing them
+with U.S. companies.
+
+Comprehensive Loss
+
+     Total  comprehensive  loss  for  fiscal  years  2002,  2001  and  2000  was
+$9,815,884,  $8,914,777 and $4,815,641 respectively.  Other comprehensive income
+(loss)   represents   the  net   change  in   unrealized   gains   (losses)   on
+available-for-sale securities.
+
+Concentrations of Risk
+
+     The  Company   invests  its  cash  with  high  credit   quality   financial
+institutions.  The Company  believes the financial  risks  associated with these
+financial instruments are minimal.
+
+     During fiscal year 2002, no single healthcare  provider  represented 10% or
+more of the Company's  Healthcare  Exchange  revenues.  During fiscal year 2001,
+
+
+
+<PAGE>
+
+                     Alternative Technology Resources, Inc.
+                    Notes to Financial Statements (continued)
+
+                    Years Ended June 30, 2002, 2001 and 2000
+
+
+three  customers  individually  accounted  for  41%,  39%  and  11% of  Contract
+Programming  revenues.  During fiscal year 2000,  three  customers  individually
+accounted for 40%, 21% and 10% of Contract Programming revenues.
+
+     At June 30, 2001, two Contract Programming customers individually accounted
+for 55% and 31% of accounts receivable.
+
+Fair Value of Financial Instruments
+
+     The Company's  financial  instruments  consist of cash,  cash  equivalents,
+short-term  investments,  accounts  receivable,  and accounts and notes payable.
+Fair  values  of  cash,  cash  equivalents,   short-term  investments,  accounts
+receivable,  and accounts  payable (other than accounts payable to stockholders)
+are considered to approximate their carrying values.
+
+     Fair  values of  accounts  payable  to  stockholders  and notes  payable to
+stockholders could not be determined with sufficient  reliability  because these
+are instruments held by related parties and because of the cost involved in such
+determination.  Principal  characteristics of these financial  instruments that,
+along with information on the financial  position of the Company,  are pertinent
+to their fair values are described in Notes 2 and 3.
+
+Recent Accounting Pronouncements
+
+     In July 2001, the Financial  Accounting  Standards Boards issued Statements
+of Financial Accounting Standards No. 141, "Business  Combinations," or SFAS 141
+and No. 142,  "Goodwill  and Other  Intangible  Assets,"  or SFAS 142.  SFAS 141
+requires  that the  purchase  method  of  accounting  be used  for all  business
+combinations  initiated  after June 30,  2001.  Use of the  pooling-of-interests
+method is no longer  permitted.  SFAS 141 also includes  guidance on the initial
+recognition and measurement of goodwill and other intangible  assets acquired in
+a business combination that is completed after June 30, 2001. SFAS 142 no longer
+permits the  amortization of goodwill and  indefinite-lived  intangible  assets.
+Instead,  these  assets  must be reviewed  annually  (or more  frequently  under
+certain conditions) for impairment in accordance with this statement. Intangible
+assets that do not have  indefinite  lives will  continue to be  amortized  over
+their useful  lives and reviewed for  impairment  in  accordance  with  existing
+guidance.  We are required to adopt SFAS 142 effective July 1, 2002. Because the
+Company  has  historically  not been  party  to any  business  combinations  and
+therefore has not recorded related goodwill and intangible  assets, the adoption
+of SFAS  141  and  142 did not  have  an  effect  on the  Company's  results  of
+operations, financial position or cash flows.
+
+     In October 2001,  the FASB issued  Statement No. 144,  "Accounting  for the
+Impairment or Disposal of Long-Lived  Assets"  (SFAS 144).  SFAS 144  supersedes
+SFAS 121,  however it  retains  the  fundamental  provisions  of that  statement
+related to the  recognition  and  measurement  of the  impairment  of long-lived
+assets to be "held  and  used."  Among  other  things,  SFAS 144  provides  more
+guidance on estimating  cash flows when  performing a  recoverability  test. The
+Company will adopt SFAS 144 effective July 1, 2002. The adoption of SFAS 144 did
+not have an effect on the Company's results of operations,  financial  condition
+or cash flows.
+
+
+<PAGE>
+
+
+                     Alternative Technology Resources, Inc.
+                    Notes to Financial Statements (continued)
+
+                    Years Ended June 30, 2002, 2001 and 2000
+
+
+2.  Investor Group Transactions
+
+     In fiscal year 1994, the Company  entered into a series of agreements  with
+James W.  Cameron,  Jr.  pursuant to which Mr.  Cameron and Dr. Max Negri became
+principal  stockholders  of the Company.  As of June 30, 2002, Mr. Cameron owned
+39,614,006  shares of the Company's  common stock. As of June 30, 2002 Dr. Negri
+held less than 5% of the Company's common stock.
+
+     During  fiscal  years 2002,  2001 and 2000,  the  Company did not  generate
+sufficient  cash  flow  from  operations  and  borrowed  funds  from  these  two
+stockholders. Notes payable to stockholders were $4,636,352 at June 30, 2002 and
+$3,740,450 at June 30, 2001 (Note 3).  Accrued  interest of $269,435 at June 30,
+2002 and  $232,469  at June 30,  2001 on these  notes is  included  in  accounts
+payable and accrued interest payable to stockholders.
+
+     The Company leases its office facilities in Sacramento, California from Mr.
+Cameron  (Note 6).  Accrued  lease  expense  of  $527,896  at June 30,  2002 and
+$496,472  at June 30,  2001 is also  included  in  accounts  payable and accrued
+interest payable to stockholders.
+
+     During fiscal years 2002,  2001 and 2000,  Cameron &  Associates,  which is
+wholly owned by Mr. Cameron,  provided consulting services to the Company.  Fees
+for such services totaled $120,000 in fiscal years 2002 and 2001, and $90,000 in
+2000.
+
+3.  Financing Arrangements
+
+     The  Company  has  received  short-term,  unsecured  financing  to fund its
+operations in the form of notes payable of $4,636,352 as of June 30, 2002,  from
+Mr.  Cameron and another  stockholder.  These notes bear interest at 10.25%.  On
+September 1, 2001, the Company agreed with Mr. Cameron to extend the due date on
+notes payable to him until December 31, 2002,in exchange for an extension fee of
+2%.  These  extended  notes total  $1,630,529,  including  accrued  interest and
+extension  fees, and bear interest at 10.25% per annum.  During fiscal year June
+30, 2002 Mr. Cameron loaned the Company an additional  $582,000 bearing interest
+at 10.25% payable on December 31, 2002. On September 1, 2001, the Company agreed
+with the other note holder to extend the due date of his convertible  promissory
+notes  until  December  31,  2002.  These  convertible  promissory  notes  total
+$2,423,823,  including accrued  interest,  bear interest at 10.25% per annum and
+are  convertible  into  common  stock at $3.00  per  share at the note  holder's
+option.  Subsequent to fiscal year end 2002,  Mr.  Cameron loaned the Company an
+additional $426,000 bearing interest at 10.25% payable on December 31, 2002.
+
+     On April 21,  1997,  the Company  issued an  unsecured  note  payable  (the
+"Straight  Note") to Mr. Cameron for $1,000,000 in accordance with the agreement
+the Company  signed on February  28,  1994.  Terms of the note  provided  for an
+interest rate of 9.5% and monthly interest payments. No maturity date was stated
+in the  note;  however,  under the terms of the  Reimbursement  Agreement,  upon
+written  demand by Mr.  Cameron,  the Straight Note was to be replaced by a note
+convertible  into ATR's  common  stock (the  "Convertible  Note") in a principal
+amount equal to the  Straight  Note and bearing  interest at the same rate.  The
+conversion price of the Convertible Note was equal to 20% of the average trading
+price of the  Company's  common stock over the period of ten trading days ending
+on the trading day next preceding the date of issuance of such Convertible Note.
+
+
+<PAGE>
+
+                     Alternative Technology Resources, Inc.
+                    Notes to Financial Statements (continued)
+
+                    Years Ended June 30, 2002, 2001 and 2000
+
+
+     Subsequent  to June 30,  1999,  Mr.  Cameron  disposed  of a portion of his
+interest in the Straight  Note,  reducing the balance due him to $711,885,  plus
+accrued  interest.  On August 19, 1999, the Company's Board of Directors  agreed
+with the Straight Note holders to fix the  conversion  price of the  Convertible
+Note to $0.044 in exchange for the Straight and/or  Convertible Notes ceasing to
+accrue  interest as of that date.  Because of the decline in revenues  caused by
+the  non-renewal  of programmer  contracts and the steady  decline in the quoted
+value of the Company's  common stock at that time (trading price was at $0.25 on
+August 19, 1999), the Board agreed it was in the best interest of the Company to
+eliminate the future market risk that the  conversion  price become lower than a
+fixed  conversion  price of $0.044.  The benefit  accruing  to the note  holders
+resulting from the amendment to the conversion  terms, as measured on August 19,
+1999,  was  approximately  $2,415,222  and was recorded as  additional  interest
+expense.
+
+     Subsequent to August 19, 1999, Mr. Cameron elected to replace his remaining
+interest in the Straight Note, including accrued interest,  with the Convertible
+Note and then  simultaneously  converted the  Convertible  Note into  19,762,786
+shares of ATR's  common  stock.  All other  Straight  Note  holders  have  since
+replaced their Straight Notes,  including  accrued  interest,  with  Convertible
+Notes and converted such Convertible Notes into an aggregate of 7,998,411 shares
+of the Company's common stock.
+
+4.  WebMD Corp. Agreement
+
+     In September  1999, the Company  entered into an agreement with WebMD Corp.
+to develop a web-based  portal  through  which  individual  uninsured  and under
+insured  Patients can procure  healthcare  services.  The  agreement  required a
+prepaid  service  fee to be  paid  to  WebMD  of  $250,000  upon  a  promotional
+announcement  on  WebMD's  Internet  portal,  and a  sharing  of  revenues  when
+operational.  Currently  both parties are  reevaluating  this  agreement,  given
+changed  directions  and  priorities  of each  company.  The  agreement  has not
+formally been modified or terminated, nor has either party proposed any specific
+changes.  However, neither party is currently devoting any substantial resources
+to this project.  Accordingly, the prepaid service fee was written off in fiscal
+year 2001 and is  included as a component  of product  development  costs in the
+statement of operations.
+
+
+<PAGE>
+
+
+
+                     Alternative Technology Resources, Inc.
+                    Notes to Financial Statements (continued)
+
+                    Years Ended June 30, 2002, 2001 and 2000
+
+5.  Income Taxes
+
+     Significant components of the Company's deferred tax assets and liabilities
+for federal and state income taxes as of June 30, 2002 and 2001 are as follows:
+
+                                                         June 30,
+                                              2002                 2001
+                                         ---------------------------------------
+
+Net operating loss carry forwards        $  18,043,000       $  14,603,000
+Research credits                               123,000             123,000
+Common stock options                         2,818,000           2,539,000
+Common stock warrants                          789,000             789,000
+Other - net                                    362,000            (572,000)
+                                         ---------------------------------------
+Total deferred tax assets                   22,135,000          17,482,000
+Valuation allowance for deferred tax       (22,135,000)        (17,482,000)
+ assets                                  ---------------------------------------
+Net deferred tax assets                  $           -       $           -
+                                         =======================================
+
+     The  Company's  valuation  allowance  as of June  30,  2002  and  2001  was
+$22,135,000  and  $17,482,000  respectively,  resulting  in a net  change in the
+valuation  allowance of $4,653,000 and $2,893,000 in the fiscal years ended June
+30, 2001 and 2000, respectively.
+
+     As of June 30, 2002 the Company had net operating  loss  carryforwards  for
+federal and state income tax purposes of approximately  $46,119,000  million and
+$26,245,000 million,  respectively. The federal net operating loss carryforwards
+expire  in 2004  through  2022 and the state net  operating  loss  carryforwards
+expire in 2002  through  2022.  The Company also has  approximately  $98,000 and
+$25,000 of research and  development  tax credit  carryforwards  for federal and
+state income tax purposes,  respectively.  The federal  research and development
+tax credit carryforwards expire in 2005.
+
+     In connection with the Company's  initial public offering in August 1992, a
+change of ownership  (as defined in Section 382 of the Internal  Revenue Code of
+1986, as amended)  occurred.  As a result,  the  Company's  net  operating  loss
+carryforwards  generated through August 20, 1992 (approximately  $1,900,000) are
+subject to an annual limitation in the amount of approximately $300,000.
+
+     In 1993,  a  controlling  interest of the  Company's  stock was  purchased,
+resulting in a second annual limitation in the amount of approximately  $398,000
+on the Company's ability to utilize net operating loss  carryforwards  generated
+between August 11, 1992 and September 13, 1993 (approximately $7,700,000).
+
+     In accordance  with  provisions  of the Internal  Revenue Code Section 382,
+additional portions of the net operating loss carryforwards may be disallowed as
+a result of additional changes in ownership of the Company.
+
+
+<PAGE>
+
+
+                     Alternative Technology Resources, Inc.
+                    Notes to Financial Statements (continued)
+
+                    Years Ended June 30, 2002, 2001 and 2000
+
+
+
+     The Company expects that the aforementioned  annual limitations will result
+in net  operating  loss  carryovers  which  will  not be  utilized  prior to the
+expiration of the carryover period.
+
+6.  Commitments and Contingencies
+
+     The  Company  may  from  time  to time  become  a party  to  various  legal
+proceedings  arising in the ordinary course of its business.  The Company is not
+currently subject to any legal proceedings.
+
+     The Company signed agreements effective in January 2001 with an application
+services provider to license,  support and run software to process medical bills
+submitted to the Company's Healthcare Exchange.  The agreements are for a period
+of 66 months.  They required payment of an initial base license fee of $250,000,
+which is being  amortized over 66 months,  and data center set up,  training and
+implementation  fees of about  $145,000,  which were  expensed.  The  agreements
+require monthly minimum payments  currently of about $35,000 and additional fees
+that are  transaction  based if volumes  exceed  levels  included in the monthly
+minimums.
+
+     In  November  1995,  the Company  entered  into a lease  agreement  for its
+facility in Sacramento,  California under a one-year lease with Mr. Cameron. The
+lease has been  extended to January 31,  2004.  Payments  under this  facilities
+lease are  approximately  $141,330 per year. At June 30, 2002,  $527,896 of rent
+owed for fiscal  years 1996  through 2002 is included in the balance of accounts
+payable and accrued  interest  payable to  stockholders.  Rental expense for all
+operating leases was approximately  $230,897,  $196,390 and $189,121, for fiscal
+years  June 30,  2002,  2001 and  2000,  respectively,  including  approximately
+$148,302,  $139,272 and $114,285  related to the lease of the office  facilities
+from Mr. Cameron.
+
+     Minimum annual payments for all non-cancelable operating leases and amounts
+due to an application services provider are as follows:
+
+                2003                         $   604,100
+                2004                         $   528,500
+                2005                         $   445,717
+                2006                         $   416,398
+                2007                         $     8,220
+                Thereafter                   $     3,888
+
+7.  Stockholders' Equity (Deficit)
+
+Series D Preferred Stock
+
+     In June 1994,  existing  stockholders  purchased 204,167 shares of Series D
+Convertible  Preferred  Stock for  $1,225,002.  ATR's  Series D Preferred  Stock
+carried a  cumulative  dividend of $0.60 per share per year,  until the Series D
+preferred  stock was  exchanged  for common  stock on  September  11,  2000.  On
+September 11, 2000, in connection  with the exchange of 204,167  shares Series D
+preferred  stock,  for 408,334 shares of common stock based on a per share price
+
+
+
+<PAGE>
+
+
+
+                     Alternative Technology Resources, Inc.
+                    Notes to Financial Statements (continued)
+
+                    Years Ended June 30, 2002, 2001 and 2000
+
+
+of $3.00 per share, the Company  declared  accrued  dividends of $759,110 in the
+aggregate.  Of the $759,110 in accrued dividends,  two of the Series D preferred
+stockholders  agreed to accept  158,638  shares of common  stock for $475,915 in
+accrued  dividends based on a $3.00 per share value. The benefit accruing to the
+Series D Preferred stockholders recorded in the quarter ended September 30, 2000
+was  approximately  $316,702 in  compensation  expense and $862,000 in preferred
+stock  dividends.  As of  June  30,  2002,  cumulative  unpaid,  dividends  were
+$283,195.
+
+Common Stock
+
+     The  Company's   Healthcare  Exchange   development  efforts  will  require
+substantial  funds.  On January 9, 2002,  the Board of  Directors of the Company
+unanimously  approved a private  placement of up to $12,000,000 of the Company's
+common stock at a purchase price of $2.25 per share.  The shares of common stock
+issued in the private placement are restricted  securities.  Further pursuant to
+the private placement,  in the event that within one year from the final closing
+the  Company  sells  shares  of  common  stock,  or  securities  exercisable  or
+convertible into common stock, at a price less than $2.25 per share, the Company
+will  issue  additional  shares to these  investors  in an amount  such that the
+overall  purchase price will be equal to the lower,  subsequent sales price. The
+forgoing  shall  exclude  common stock that may be issued in  connection  with a
+merger, as a dividend, pursuant to the exercise of outstanding options, warrants
+and other convertible  securities and pursuant to options subsequently issued to
+employees.   Proceeds  to  date,  net  of  offering  costs,  are   approximately
+$2,742,519.  Proceeds  were used for further  development  and  operation of the
+Healthcare  Exchange.   The  Company's  Chairman  and  Chief  Financial  Officer
+purchased 222,222 shares of the Company's common stock in the private placement.
+Because the purchase  price of such stock was less than the public trading price
+on the date of purchase,  the Company recorded  compensation expense of $138,583
+in fiscal year 2002.
+
+     The Company received  $9,560,345 in a private placement of its common stock
+at a price of $3.00 in  fiscal  year  2001,  and in fiscal  year  2000  received
+$3,712,348  in a private  placement of its common  stock at an average  price of
+$3.42 per share.
+
+Warrants
+
+Warrant activity during the periods indicated is as follows:
+
+                                 Number of        Range of      Weighted Average
+                                   Shares      Exercise Prices   Exercise Price
+                                 -----------------------------------------------
+Balance at June 30, 1999          559,800        $0.01-$25.00         $0.94
+Exercised                         (20,000)       $0.75                $0.75
+                                 ----------
+Balance at June 30, 2000          539,800        $0.01-$25.00         $0.95
+Expired/Canceled                  (40,000)       $0.01                $0.01
+                                 ----------
+Balance at June 30, 2001          499,800        $0.01-$25.00         $1.02
+Exercised                        (284,200)       $0.75                $0.75
+                                 ----------
+Balance at June 30, 2002          215,600        $0.01-$25.00         $1.38
+                                 ==========
+
+
+<PAGE>
+
+                     Alternative Technology Resources, Inc.
+                    Notes to Financial Statements (continued)
+
+                    Years Ended June 30, 2002, 2001 and 2000
+
+
+     At June  30,  2002,  the  weighted-average  remaining  contractual  life of
+outstanding warrants was 4.9 years. All warrants are immediately exercisable for
+common stock at June 30, 2002.
+
+Stock Option/Stock Issuance Plans
+
+     The 1993 Stock  Option/Stock  Issuance Plan (the "1993 Plan"),  pursuant to
+which key employees  (including officers) and consultants of the Company and the
+non-employee members of the Board of Directors may acquire an equity interest in
+the Company, was adopted by the Board of Directors on August 31, 1993 and became
+effective  at that time.  The 1993 Plan  provided  that up to 400,000  shares of
+common stock could be issued over the ten-year term of the 1993 Plan. As of June
+30, 2002, shares available for future issuance under this plan were 31,173.
+
+     The 1997  Stock  Option  Plan  (the  "1997  Plan"),  pursuant  to which key
+employees   (including   officers)  and  consultants  of  the  Company  and  the
+non-employee members of the Board of Directors may acquire an equity interest in
+the  Company,  was adopted by the Board of  Directors  on November  18, 1997 and
+became  effective at that time. An aggregate of 3,000,000 shares of common stock
+may be issued over the five-year term of the 1997 plan. Subject to the oversight
+and  review  of the  Board  of  Directors,  the 1997  Plan  shall  generally  be
+administered by the Company's  Compensation Committee consisting of at least two
+non-employee  directors as appointed by the Board of Directors.  The grant date,
+the  number of shares  covered  by an option  and the terms and  conditions  for
+exercise of options shall be determined  by the  Committee,  subject to the 1997
+Plan  requirements.  The Board of Directors  shall determine the grant date, the
+number of shares  covered by an option and the terms and conditions for exercise
+of options to be granted  to  members  of the  Committee.  As of June 30,  2002,
+shares  available  for  future  issuance  under  this  plan were  329,279.  This
+five-year plan will expire November 18, 2002.
+
+     Option  activity  for the  1993  and the  1997  Plans  during  the  periods
+indicated is as follows:
+
+                                          Number of          Weighted Average
+                                           Shares             Exercise Price
+                                        ----------------------------------------
+
+          Balance at June 30, 1999         594,919                $0.98
+          Granted                          880,000                $2.72
+          Exercised                       (269,919)               $0.65
+          Cancelled                        (25,000)               $0.25
+                                        --------------
+          Balance at June 30, 2000       1,180,000                $2.36
+          Granted                          920,600                $2.77
+          Exercised                        (49,933)               $0.25
+          Cancelled                       (317,500)               $4.04
+                                        --------------
+          Balance at June 30, 2001       1,733,167                $2.33
+          Granted                        1,234,053                $1.83
+
+
+
+<PAGE>
+
+
+
+                     Alternative Technology Resources, Inc.
+                    Notes to Financial Statements (continued)
+
+                    Years Ended June 30, 2002, 2001 and 2000
+
+
+          Exercised                        (51,585)               $0.45
+          Cancelled                       (326,432)               $2.60
+                                        --------------
+          Balance at June 30, 2002       2,589,203                $2.60
+                                        ==============
+
+
+     The following table summarizes  information about stock options outstanding
+under the 1993 and the 1997 Plans at June 30, 2002:
+<TABLE>
+<CAPTION>
+<S>   <C>             <C>             <C>               <C>               <C>             <C>
+
+
+                                                      Weighted
+                                                       Average
+                                     Weighted          Remaining
+  Range of           Options          Average         Contractual        Options       Weighted Average
+Exercise Prices    Outstanding     Exercise Price     Life (Years)      Exercisable     Exercise Price
+-----------------------------------------------------------------------------------------------------------
+
+$  0.01-1.95         1,028,369          $0.58               7             894,479             $0.55
+$  2.00-3.85         1,233,334          $2.50               9             255,834             $2.85
+$  4.00-6.63           312,500          $4.81               8             208,333             $4.81
+$       7.19             5,000          $7.19               8               3,333             $7.19
+$      13.10            10,000         $13.10               2              10,000            $13.10
+
+                  --------------                                       -------------
+
+                     2,589,203          $2.07                           1,371,979             $1.73
+                  ==============                                       =============
+</TABLE>
+
+
+     At June 30, 2001 and 2000 the number and weighted average exercise price of
+options exercisable were 745,022 and $1.88 and 485,000 and $1.77, respectively.
+
+     In  addition  to  options  granted  pursuant  to the 1993  and  1997  Stock
+Option/Stock  Issuance  Plans,  the Company has granted options outside of these
+plans.  In fiscal year 1994, the Company  granted to its former Chief  Executive
+Officer and director  stock options to purchase  400,000  shares of common stock
+exercisable at $0.10 per share. Of these options, 370,000 remain outstanding and
+are fully vested as of June 30, 2002. These options expire on August 10, 2003.
+
+     During fiscal year 2000, in accordance  with an employment  agreement,  the
+Company  granted the current Chief  Executive  Officer stock options to purchase
+7,000,000  shares of common  stock at $3.00 per share,  the fair market value of
+the Company's common stock on the date of grant. The options vest ratably over 5
+years and expire on April 14, 2010. As of June 30, 2002,  2,800,000 options have
+vested, and 7,000,000 remain  outstanding.  Also, on August 1, 2000, Mr. Cameron
+entered into an agreement with the Company's  current Chief Executive Officer to
+grant him the option to purchase  6,000,000 shares of the Company's common stock
+from Mr. Cameron at a purchase price of $3.625 per share,  the fair market value
+of the  Company's  stock on that date.  As of June 30, 2002,  these  options are
+fully vested and 6,000,000 remain outstanding.
+
+
+<PAGE>
+
+
+                     Alternative Technology Resources, Inc.
+                    Notes to Financial Statements (continued)
+
+                    Years Ended June 30, 2002, 2001 and 2000
+
+     Non-cash stock based compensation expense was $787,611 for fiscal year 2002
+and $1,931,036 for fiscal year 2001. No such expense was incurred in fiscal year
+2000. Costs incurred in fiscal year 2002 primarily  represent  $637,528 recorded
+in connection  with the grant of options to employees with an exercise less than
+the  public  trading  price  on the  date of  grant  and  $138,583  recorded  in
+connection with the purchase of 222,222 shares of the Company's  common stock by
+the Company's Chairman and Chief Financial Officer because the purchase price of
+such stock was less than the public trading price on the date of purchase.
+
+     SFAS No. 123 requires  presentation of pro forma information  regarding net
+loss and loss per share as if the Company had accounted  for its employee  stock
+options  under the fair value  method of that  Statement.  The fair value of ATR
+options was  estimated at the date of grant using the  Black-Scholes  model with
+the following weighted average assumptions for fiscal years 2002, 2001 and 2000:
+dividend yield of 0%, an expected life of five years, a risk-free  interest rate
+of 5.0%, and expected volatility of 1.168, 1.271 and 0.959.
+
+     The Black-Scholes  model was developed for use in estimating the fair value
+of  traded  options,   which  have  no  vesting   restrictions   and  are  fully
+transferable.  It  requires  the input of  highly  subjective  assumptions,  the
+quality of which cannot be judged except by  hindsight.  The Company's pro forma
+information is as follows:
+<TABLE>
+<CAPTION>
+<S>                                                    <C>                   <C>                  <C>
+
+                                                                   Years Ended June 30,
+                                               ------------------------------------------------------------
+                                                       2002                  2001                2000
+                                               ------------------------------------------------------------
+Net loss applicable to common stockholders:
+      As reported                              $   (9,815,906)          $   (9,800,897)      $  (4,938,141)
+      Pro forma                                $  (13,815,109)          $  (14,153,429)      $  (6,224,858)
+
+Basic and diluted net loss per share:
+      As reported                              $        (0.16)          $        (0.17)      $       (0.10)
+      Pro forma                                $        (0.23)          $        (0.24)      $       (0.12)
+
+</TABLE>
+
+     Future pro forma results may be materially  different from amounts reported
+as future years will include the effects of additional stock option grants.
+
+     The weighted  average fair value of options granted during the fiscal years
+June 30, 2002, 2001 and 2000 whose exercise price equals the market price of the
+stock  on  the  grant  date  was  $1.95,  $2.30  and  $2.58  respectively.   The
+weighted-average  fair  value of  options  granted  in fiscal  year  2002  whose
+exercise  price was less than the market price of the stock on the date of grant
+was $2.03.  For fiscal  years  2001 and 2000,  all  options  were  granted  with
+exercise prices equal to the market price on the date of grant.
+
+
+<PAGE>
+
+                     Alternative Technology Resources, Inc.
+                    Notes to Financial Statements (continued)
+
+                    Years Ended June 30, 2002, 2001 and 2000
+
+
+Stock Reserved for Issuance
+
+     As of June 30, 2002, the Company has reserved a total of 11,404,268  shares
+of common stock pursuant to outstanding  warrants,  options,  convertible  notes
+payable to  stockholders,  and future  issuance  of  options  to  employees  and
+non-employee directors.
+
+                       Common Shares Reserved for Issuance
+               ------------------------------------------------------
+               Options                                  10,319,655
+               Warrants                                    215,600
+               Notes (including accrued interest)          869,013
+                                                       --------------
+               Total                                    11,404,268
+                                                       ==============
+
+8.  Subsequent Event
+
+     The Company has received  short-term  unsecured  financing in the form of a
+convertible  note of  $1,000,000  as of July 26,  2002 from a lender.  This note
+bears interest at 8% and is payable at the earliest of July 25, 2003 or when the
+Company,  in a proposed  Private  Placement  of Common  Stock  offering,  raises
+$8,000,000.  All or a portion  of the  convertible  note may be  converted  into
+shares of common stock at the lower of $2.25 per share or the  subscription  per
+share price of the proposed Private  Placement of Common Stock. In consideration
+for the loan the Company  will issue three  warrants.  The Company will issue to
+the lender one warrant to purchase  100,000  shares of common stock.  The lender
+will also receive a second  warrant to purchase  100,000  shares of common stock
+that may only be exercisable if the Company does not repay the convertible  note
+within 180 days of the  agreement.  The lender will also receive a third warrant
+to  purchase  100,000  shares of common  stock  that may be  exercisable  if the
+Company does not repay the  convertible  note within one year of the  agreement.
+Each of the warrants will have an exercise  price equal to the lower of $2.14 or
+the  subscription  per share price of the proposed  Private  Placement of Common
+Stock. When, and if, exercisable, the lender may exercise these warrants through
+July 26, 2009.
+
+
+9.  Quarterly Results of Operations (Unaudited)
+
+     The following table presents the Company's unaudited quarterly statement of
+operations  data for the four  quarters  of fiscal  2002 and  fiscal  2001.  The
+Company  believes that this  information  has been prepared on the same basis as
+its  audited   consolidated   financial   statements   and  that  all  necessary
+adjustments, consisting only of normal recurring adjustments, have been included
+to present fairly the selected quarterly  information.  The Company's  quarterly
+results of operations for these periods are not necessarily indicative of future
+results of operations.
+
+
+<PAGE>
+
+                     Alternative Technology Resources, Inc.
+                    Notes to Financial Statements (continued)
+
+                    Years Ended June 30, 2002, 2001 and 2000
+
+<TABLE>
+<CAPTION>
+<S>                                                        <C>                 <C>                  <C>                   <C>
+
+                                                                                          2002
+                                                     --------------------------------------------------------------------------
+                                                       September 30         December 31           March 31             June 30
+                                                       ------------         -----------           --------             -------
+Healthcare Exchange revenue                          $     108,218        $     253,876      $     430,308         $     850,163
+Healthcare Exchange gross profit (loss)                   (116,570)             (96,337)            28,779               363,176
+Contract Programming revenue                                     -                    -                  -                     -
+Contract Programming gross profit                                -                    -                  -                     -
+Selling, marketing and product development costs        (1,505,195)          (1,546,462)        (1,852,186)           (2,172,714)
+General and administrative expenses                       (505,834)            (600,045)          (673,076)             (703,317)
+Loss from operations                                    (2,127,599)          (2,242,844)        (2,496,483)           (2,512,855)
+Total other income (expense)                              (106,384)            (105,364)          (110,929)             (113,447)
+Net loss                                                (2,233,983)          (2,348,208)        (2,607,412)           (2,626,302)
+Preferred stock dividends in arrears                             -                    -                  -                     -
+Net loss applicable to common stockholders              (2,233,983)          (2,348,208)        (2,607,412)           (2,626,302)
+Basic and diluted net loss per share                 $       (0.04)       $       (0.04)     $       (0.04)       $        (0.04)
+Shares used in per share calculation                    59,401,860           59,421,866         61,261,644            60,945,581
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+
+                                                                                        2001
+                                                     ---------------------------------------------------------------------------
+                                                      September 30          December 31           March 31              June 30
+                                                      ------------          -----------           --------              -------
+Healthcare Exchange revenue                          $          -          $          -       $          -         $     50,944
+Healthcare Exchange gross profit (loss)                         -                     -                  -              (33,584)
+Contract Programming revenue                              178,019                47,812             46,385               36,253
+Contract Programming gross profit                          42,217                 1,160              9,466                9,954
+Product development costs                              (1,057,426)           (1,238,497)        (1,227,696)          (1,573,894)
+General and administrative expenses                    (2,141,486)             (490,072)          (640,279)            (579,134)
+Loss from operations                                   (3,156,695)           (1,727,409)        (1,858,509)          (2,176,658)
+Total other income (expense)                              (50,935)               79,980             11,268              (35,797)
+Net loss                                               (3,207,631)           (1,647,429)        (1,847,241)          (2,212,454)
+Preferred stock dividends in arrears                     (886,142)                    -                  -                    -
+Net loss applicable to common stockholders             (4,093,773)           (1,647,429)        (1,847,241)          (2,212,454)
+Basic and diluted net loss per share                 $      (0.07)         $      (0.03)      $      (0.03)       $       (0.04)
+Shares used in per share calculation                   56,695,586            59,329,251         59,358,090           59,383,954
+--------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+<PAGE>
+
+                                                                    Exhibit 23.1
+
+
+               Consent of Ernst & Young LLP, Independent Auditors
+
+We consent to the  incorporation  by  reference in the  Registration  Statements
+listed below of our report dated August 16, 2002,  with respect to the financial
+statements of  Alternative  Technology  Resources,  Inc.  included in the Annual
+Report (Form 10-K) for the year ended June 30, 2002.
+
+-        Form  S-8  No. 33-80300 pertaining to the 3Net Systems, Inc. 1993 Stock
+         Option/Issuance Plan
+
+-        Form  S-8  No.  33-84576  pertaining to  the Nonstatutory  Stock Option
+         Agreement by and between 3Net Systems, Inc. and Russell J. Harrison
+
+-        Form  S-3  No.  33-86962  pertaining to 3Net Systems, Inc. common stock
+         being offered by selling stockholders
+
+-        Form  S-8  No.  333-90021  pertaining  to  the  Alternative  Technology
+         Resources,  Inc. 1997 Stock Option Plan, Non-Statutory Stock Option for
+         Edward Lammerding.
+
+                                                           /s/ Ernst & Young LLP
+
+Sacramento, California
+September 23, 2002
+
+
+<PAGE>
+
+                                                                    Exhibit 99.1
+
+
+                                  CERTIFICATION
+
+
+     I, Jeffrey McCormick, Chief Executive Officer, certify that:
+
+     1. I  have  reviewed  this  annual  report  on  Form  10-K  of  Alternative
+Technology Resources, Inc.;
+
+     2. Based on my  knowledge,  this annual  report does not contain any untrue
+statement of a material fact or omit to state a material fact  necessary to make
+the statements made, in light of the  circumstances  under which such statements
+were made, not  misleading  with respect to the period covered by this quarterly
+report; and
+
+     3. Based on my knowledge,  the financial  statements,  and other  financial
+information  included  in this annual  report,  fairly  present in all  material
+respects the financial  condition,  results of operations  and cash flows of the
+registrant as of, and for, the periods presented in this annual report.
+
+
+
+Date:  September 20, 2002           /S/ JEFFREY MCCORMICK
+                                    --------------------------------------------
+                                      Jeffrey McCormick, Chief Executive Officer
+
+
+<PAGE>
+                                                                    Exhibit 99.2
+
+                                  CERTIFICATION
+
+
+     I, James W. Cameron, Jr., Chief Financial Officer, certify that:
+
+     1. I  have  reviewed  this  annual  report  on  Form  10-K  of  Alternative
+Technology Resources, Inc.;
+
+     2. Based on my  knowledge,  this annual  report does not contain any untrue
+statement of a material fact or omit to state a material fact  necessary to make
+the statements made, in light of the  circumstances  under which such statements
+were made, not  misleading  with respect to the period covered by this quarterly
+report; and
+
+     3. Based on my knowledge,  the financial  statements,  and other  financial
+information  included  in this annual  report,  fairly  present in all  material
+respects the financial  condition,  results of operations  and cash flows of the
+registrant as of, and for, the periods presented in this annual report.
+
+
+Date:  September 20, 2002         /S/ JAMES W. CAMERON
+                                  ----------------------------------------------
+                                  James W. Cameron, Jr., Chief Financial Officer
+
+
+
+
+</TEXT>
+</DOCUMENT>

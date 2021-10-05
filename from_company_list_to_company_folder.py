@@ -1,5 +1,5 @@
 #%%
-import requests,random
+import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 import time
@@ -8,20 +8,20 @@ import os
 #%%
 df = pd.read_csv('cik_ticker.csv',sep="|")
 #%%
-f_json = open('Data/meta_data.json')
+f_json = open('meta_data.json')
 json_object =json.load(f_json)
 f_json.close()
 endpoint = r"https://www.sec.gov/cgi-bin/browse-edgar"
 #%%
-
-
+print(df.loc[10399])
+ 
 #%%
 headers = { 'User-Agent': "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1" }
 #json_object["companies"]=[]
 exchange_list=[]
 parent_dir = "Data/"
 #%%
-df_sub = df[697:]
+df_sub = df[10399:]
 for index, row in df_sub.iterrows():
     print(index)
     if(index!=697):

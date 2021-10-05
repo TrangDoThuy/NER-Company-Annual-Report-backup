@@ -1,0 +1,3256 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>acunetx_10k-123108.txt
+<DESCRIPTION>FORM 10-K
+<TEXT>
+<page>
+
+--------------------------------------------------------------------------------
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 2O549
+
+                                    FORM 10-K
+
+              [x] Annual Report Pursuant to Section 13 or 15 (d) of
+                     the Securities and Exchange Act of 1934
+
+                   For the fiscal year ended December 31, 2008
+
+          [_] Transition report pursuant to section 13 or 15(d) of the
+                        Securities Exchange Act of 1934
+
+       For the transition period from ________________ to _______________
+
+                          Commission File No. 2-95626-D
+
+                                  ACUNETX, INC.
+                 Nevada                                 88-0249812
+-----------------------------------------     --------------------------------
+    (State or other jurisdiction of                  (I.R.S. Employer
+     incorporation or organization)                 Identification No.)
+
+               2301 W. 205TH STREET, SUITE 102, TORRANCE, CA 90501
+                    (Address of principal executive offices)
+
+       Registrant's telephone number, including area code: (310) 328-0477
+
+        Securities registered pursuant to Section 12(b) of the Act: None
+
+           Securities registered pursuant to Section 12(g) of the Act:
+                     Common Stock, Par Value $.001 Per Share
+
+Indicate by check mark if registrant is a well-known seasoned issuer, as defined
+in Rule 405 of the Securities Act. Yes |_| No |X|
+
+Indicate by check mark if the issuer is not required to file reports pursuant to
+Section 13 or Section 15(d) of the Exchange Act.
+                                 Yes [ ] No [X]
+
+Indicate by check mark whether the issuer (l) has filed all reports required to
+be filed by Section 13 or 15(d) of the Exchange Act during the past 12 months
+(or for such shorter period that the registrant was required to file such
+reports), and (2) has been subject to such filing requirements for the past 90
+days. Yes [X] No [_]
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-B is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [X]
+
+Indicate by check mark whether the Registrant is a large accelerated filer, an
+accelerated filer, a non-accelerated filer, or a smaller reporting company.
+
+Large accelerated filer |_|             Non-accelerated filer |_|
+Accelerated filer |_|                   Smaller reporting company |X|
+
+Indicate by check mark whether the registrant is a shell company (as defined in
+Rule 12b-2 of the Exchange Act). Yes [_] No [X]
+
+The aggregate market value of the voting common equity held by nonaffiliates of
+the registrant, computed by reference to the closing sale price of such stock,
+was approximately $1,002,677 as of June 30, 2008, the last business day of the
+registrant's most recently completed second fiscal quarter. The registrant has
+no non-voting common equity.
+
+
+--------------------------------------------------------------------------------
+
+
+
+<page>
+
+
+Certain statements contained in this discussion or elsewhere in this report may
+be deemed "forward-looking statements" within the meaning of the Private
+Securities Litigation Reform Act of 1995 and Section 27A of the Securities Act
+of 1933 and Section 21E of the Securities Exchange Act of 1934. Words and
+phrases such as "expects", "anticipates", "intends", "plans", "believes",
+"seeks", "estimates", "designed to achieve", variations of such words and
+similar expressions are intended to identify such forward-looking statements,
+which generally are not historical in nature. All statements that address
+operating performance, events or developments that we expect or anticipate will
+occur in the future - including statements relating to rent and occupancy
+growth, general conditions in the geographic areas where we operate - are
+forward-looking statements. These statements are not guarantees of future
+performance and involve certain risks, uncertainties and assumptions that are
+difficult to predict.
+
+Although we believe the expectations reflected in any forward-looking statements
+are based on reasonable assumptions, we can give no assurance that our
+expectations will be attained and therefore, actual outcomes and results may
+differ materially from what is expressed or forecasted in such forward-looking
+statements. Many of the factors that may affect outcomes and results are beyond
+our ability to control.
+
+
+--------------------------------------------------------------------------------
+
+
+<page>
+
+                                     PART I
+
+ITEM l.  BUSINESS
+
+BACKGROUND
+
+         AcuNetx, Inc. was formed by the merger of Eye Dynamics, Inc.,
+incorporated in 1988, and OrthoNetx, Inc., in December of 2005. AcuNetx is now
+organized around a dedicated medical division and two separate subsidiaries, as
+follows: (i) IntelliNetx, a medical division with neurological diagnostic
+equipment, (ii) OrthoNetx, Inc., a wholly-owned medical subsidiary company with
+devices that create new bone, and (iii) VisioNetx, Inc., an AcuNetx-controlled
+subsidiary company, formed January 3, 2007, with products for occupational
+safety and law enforcement. Our products offer a technology platform that allows
+the devices to capture data about physiological conditions and connect the
+device-related data to computers operated by users and support persons.
+
+Our products include the following:
+
+o        Neurological diagnostic equipment that measures, tracks and records
+         human eye movements, utilizing our proprietary technology and computer
+         software, as a method to diagnose problems of the vestibular (balance)
+         system and other balance disorders.
+
+o        Devices designed to test individuals for impaired performance resulting
+         from the influences of alcohol, drugs, illness, fatigue and other
+         factors that affect eye and pupil performance. These products target
+         the occupational safety and law enforcement markets.
+
+o        Orthopedic and cranio-maxillofacial (skull and jaw) surgery products,
+         which generate new bone through the process of distraction
+         osteogenesis.
+
+o        Supplementing some of these products is a proprietary information
+         technology system that is designed to establish product registry to
+         individual patients and track device behavior for post-market
+         surveillance, adverse event and outcomes reporting.
+
+
+INTRODUCTION TO EYE-TRACKING DEVICES
+
+         Abnormal human eye movements and pupil reactions are excellent
+indicators of the presence of disease, drugs or other conditions that can alter
+the normal response of the human oculo-motor system. Our medical eye-tracking
+technology addresses the central nervous system condition of nystagmus, a rapid,
+involuntary back-and-forth or up-and-down oscillation of the eyeball. Nystagmus
+occurs in different forms and has a number of causes, ranging from the serious,
+e.g., a tumor in the brain or ear, to the "benign" or non-life threatening, such
+as positional dizziness. The consumption of certain drugs and alcohol also
+causes nystagmus, and there is a direct and quantifiable correlation between
+blood alcohol concentration in the body and the onset of nystagmus. Medical
+research conducted over the past fifty years has furnished evidence
+demonstrating a relationship between irregular eye movement and abnormal central
+nervous system physiology. The numerous causes of these conditions include the
+influences of alcohol, drugs, illness, stress, extreme fatigue and other
+neurological conditions. The underlying technology used in all of our
+eye-tracking products and use. The products utilize infrared sensitive video
+cameras to monitor, record, and analyze eye performance and movement. All of the
+products share in a modular concept to promote efficiency in manufacturing. The
+products are PC-computer based, with specialized and proprietary hardware and
+embedded firmware. A common element of the products is the Ocular Motor Module,
+which involves the subject donning goggles and looking at moving lights within a
+dark environment. The products include an infrared sensitive Charge Coupled
+Device video camera, which provides a bright video image, with the person being
+tested seeing only a small stimulus or tracking light amid complete darkness.
+All of our Video-Nystagmography (VNG) devices are designed to enable doctors to
+diagnose balance problems, including patients, especially the elderly, who are
+in danger of falling.
+
+
+<page>
+
+EYE-TRACKING PRODUCTS
+
+         MEDICAL PRODUCTS (IntelliNetx division): Video-nystagmography assesses
+eye movements using infrared video cameras, and it has largely replaced the
+prior technology, Electronystagmographic (ENG) testing. ENG utilizes electrodes
+to assess eye movement, and a pen recorder to display the results, in order to
+assess problems in the balance systems of patients.
+
+         AcuNetx brought the use of infrared illumination of the eyes into
+clinical use in 1994, when the U.S. Food and Drug Administration ("FDA")
+approved marketing of our House Infrared/VNG System. Our device was the first to
+replace the electrodes with infrared sensitive video cameras and with computer
+digital processing that follows the movement of the eyes and graphically
+portrays the movements. The test subject wears a lightweight goggle assembly,
+which contains miniature infrared video cameras. The goggles comprise an
+essential component, because certain of the VNG tests require the patient to
+move his or her head and often to recline on an examining table. The accuracy
+and display of the Infrared/VNG System has proved to be a significant
+improvement over other existing testing methods, including ENG. In addition, the
+use of video by the Infrared/VNG System allows the test administrator or medical
+practitioner to observe the eye movements directly, and it can provide a digital
+video recording of the test for later playback and additional analysis. Since
+1994, when we received FDA clearance to market this product, most competitors
+have embraced video data acquisition as a superior technology. Results elicited
+from the tests are used by physicians and clinicians.
+
+         We developed the AcuNetx system in conjunction with the world-renowned
+House Ear Clinic and House Ear Institute, in Los Angeles, California. The
+"House" name is used with the permission of the House Ear Institute. AcuNetx's
+IntelliNetx division has obtained ISO 13485: 2003 Certification as a quality
+medical manufacturer and approval from Health Canada for marketing & sales.
+
+IMPAIRMENT DETECTION PRODUCTS (VisioNetx, Inc. subsidiary).
+
+         Our impairment detection products include:
+
+         SafetyScan(TM), to screen workers in safety-sensitive jobs for
+physiological signs of impairment. The system evaluates involuntary changes in
+eye movements and/or pupil reactions, which may result from drug or alcohol
+abuse, reactions to medication, medical conditions, stress or fatigue.
+Occupations in the medical, aviation, emergency response, construction,
+manufacturing and transportation businesses are key markets for this technology.
+Unlike most drug and alcohol test methods, SafetyScan(TM) functions without the
+need for extraction and testing of bodily fluids, such as urine. SafetyScan(TM)
+determines whether or not a person is impaired at the time of the test and is
+not a test for past use of consciousness-altering substances. Unlike blood,
+urine and saliva tests, which only measure the presence of a substance in the
+body, SafetyScan(TM) takes into account the physiological effects of the
+substance or "stressor." While substance abuse receives more attention, worker
+impairment caused by other stressors, such as prescription and over-the-counter
+medications, extreme fatigue, and illness, all result in significant expense to
+employers. Workers suffering from such impairments are characterized by low
+productivity, more accidents, higher workers' compensation and insurance costs,
+and equipment and merchandise damage.
+
+         SafetyScan(TM) is based on methods developed by the federal government
+and used by law enforcement over the past 30 years. SafetyScan(TM) is a simple
+computer system that evaluates the ability of an individual's eyes to follow a
+moving light, and the ability of the pupil of the eye to react to dim and bright
+light stimuli.
+
+         SafetyScan(TM) is non-diagnostic and non-judgmental; it evaluates
+performance of the individual solely for safety and productivity purposes. It
+takes only 90 seconds for SafetyScan(TM) to test the human eye by measuring
+twenty parameters of eye movement and pupil change, assessing parameters of
+position and reaction time of the eye itself and the size of pupil.
+SafetyScan(TM) reports the result of the test instantly with a "Pass" or "Fail"
+result.
+
+                                       2
+
+<page>
+
+         Unlike SafetyScan(TM), traditional drug tests do not determine
+on-the-job impairment in real time. Companies and government agencies around the
+world are beginning to evaluate our cost-effective technology as a replacement
+for traditional drug tests that require body fluids and are much more expensive
+to conduct. We believe that SafetyScan(TM) will be especially useful where
+fatigue in the workplace has an impairing effect on workers. To this end, we
+have contracted with a major human alertness technology consulting and research
+organization to optimize SafetyScan(TM) for fatigue testing. We believe
+SafetyScan(TM) will appeal to employers with round-the-clock workforces who
+desire to reduce industrial accidents caused by employee fatigue and to improve
+worker alertness and safety.
+
+         HawkEye(TM) is an evidence-capture device for use by state and federal
+DREs, or Drug Recognition Experts, in evaluating DUI suspects, in the field and
+in training mode. In most states, law enforcement agencies use a six point
+evaluation of people thought to be intoxicated, known as the Standardized Field
+Sobriety Test ("SFST"). The SFST includes three tests for balance, and three
+tests involving eye performance. We believe there is a need for a product that
+can be utilized not only in the jail or precinct house, but in the field by law
+enforcement personnel in traffic patrol cars. Our HawkEye (TM) product will soon
+be offered as an advanced prototype in a `handheld' or highly portable
+configuration. Current police practices nationwide involve training of officers
+in the SFST, and some advanced officers in Drug Recognition Expert (DRE) are
+trained in protocols to evaluate individuals suspected of DUI or other drug
+impairment. Both methods evaluate eye signs extensively, and this evidence has
+met the exacting Frye standard for scientific validity in courts. Until the
+invention of HawkEye(TM), which is patent-pending, there existed no means for
+the officer to capture irrefutable objective evidence. Our HawkEye(TM) product
+allows direct capture and digital recording of eye motions and pupil responses
+on video, exactly as observed by the police officer. Early product feedback
+suggests significant enthusiasm on the part of the law enforcement community,
+and the company has made initial sales, thereby garnering potential future
+market penetration, to police departments, the U.S. Army, and universities, in a
+large number of states. In 2007, the United States Patent and Trademark Office
+approved two HawkEye(TM) patents for issuance.
+
+DISTRACTION OSTEOGENESIS DEVICES FOR OSTEOPLASTIC SURGERY
+
+         Osteoplastic surgery, which involves formation or molding of bone,
+addresses the art and science of correcting deformities and deficiencies of the
+skeleton caused by errors of birth, trauma, infections and tumors. Osteoplastic
+surgery is applicable to all areas of the skeleton, including the skull and
+face, jaws, long bones of the upper and lower extremities, hands, wrists, feet,
+ankles and the spine.
+
+         Our OrthoNetx subsidiary holds patents and FDA approvals for a family
+of osteoplastic surgery products that generate new bone through the process of
+Distraction Osteogenesis, the growing of new of elongated bone. Together, these
+products address an estimated $730 million potential worldwide market. The first
+of these products, the GenerOs(TM) CF craniofacial bone generator, has been
+available for commercial sale since December 2004.
+
+         Our GenerOs(TM) CF craniofacial bone generator, assists surgeons in
+treating conditions such as birth deformities of the skull, facial bones and
+jaws. It is a small, proprietary device that enables distraction of the bones of
+the face and skull to correct developmental, congenital, and acquired defects
+and deficiencies. The device is made of surgical grade stainless steel with an
+internal gear system that allows for activation to take place even though the
+device is buried below the skin and soft tissues. The device is often implanted
+through incisions inside the mouth, thus minimizing external surgical scars. The
+GenerOs(TM) CF device utilizes two blocks that are fixed to the bone on either
+side of a surgically created bone, cut with miniscrews. A small transcutaneous
+activation pin is turned, which drives a mechanism to separate the two blocks.
+As the two blocks are separated, the bone gap is increased, to a recommended
+distance of 1mm per day. After the desired separation is achieved (usually 10mm
+- 20mm in most cases), the pin is removed and the device is left in position on
+the bone until the bone is completely calcified. The device is then removed in a
+small outpatient procedure. GenerOs CF will distract up to 20 millimeters, which
+is adequate for approximately 95% of cases.
+
+         Our GenerOs (TM) SB small bone generator has the same form factor and
+specifications as GenerOs CF. The difference is an extension of approved
+indications for small bones of the extremities. We have received FDA clearance
+for commercialization of this device.
+
+         In 2007, AcuNetx reached an agreement in principal with Robinson
+MedSurg of Lone Tree, Colorado ("RMS"), that would permit RMS to market and sell
+our proprietary line of bone distraction devices. RMS is a distributor of
+medical devices for maxillofacial, craniofacial, and orthopedic use. RMS has
+special marketing and product supporting relationships with independent
+resellers throughout the world. The company is owned by Dr. Randolph Robinson,
+M.D. DDS, the inventor of the OrthoNetx line of distraction devices, and the
+largest shareholder of AcuNetx, Inc.
+
+                                       3
+
+<page>
+
+
+MARKETING
+
+         VIDEONYSTAGMOGRAPHY (VNG) PRODUCTS. Marketing of the Infrared/VNG
+System is conducted by AcuNetx through independent distributors. One major
+distributor, MedTrak Technologies, Inc, operates through a network of
+independently owned sub-distributors, known as special instrument dealers. These
+independently owned businesses are distributors of not only our VNG System, but
+a variety of allied and related products for the audiometric and otolaryngology
+("ENT") markets. These distributors market across the United States and operate
+in assigned territories. In addition, there are several foreign distributors
+that the product in Latin American, Canada, and the Middle East. We plan to
+obtain the "CE" mark of approval to offer the product in the European Community.
+
+         The market for the VNG products is relatively mature and represents
+estimated annual growth of 5%. Because of the advancement of technology spurred
+by our introduction of video data acquisition methods in 1994, the market for
+replacement products has been strong. We intend to expand efforts to open new
+markets for our products, including the neurology market, through our
+distributors.
+
+IMPAIRMENT DETECTION PRODUCTS. We have test-marketed an early version
+of SafetyScan(TM) and have sold a few units in the prison system for inmate
+testing in drug rehabilitation programs. In general, government drug testing
+regulations are based on urine testing, so testing of employees by governmental
+agencies, quasi-governmental agencies and certain regulated industries must
+comply with these regulations. Accordingly, some modification of these
+regulations may be necessary in order for the SafetyScan(TM) to gain broad
+acceptance in sectors subject to federal drug test regulations, such as those
+regulated by the Department of Transportation and certain others. We have
+conducted discussions with various government agencies regarding modification of
+applicable regulations and procedures so that they will encompass testing based
+on eye movement and performance. While certain governmental agencies have
+expressed an interest in the VisioNetx products, we believe that modifying
+governmental testing regulations may be a lengthy process, and success is not
+assured.
+
+         For these and other reasons, AcuNetx is developing marketing plans
+that focus on nongovernmental private sector companies that are not regulated by
+the federal government with respect to testing employees for substance abuse. In
+general, these are companies with major safety issues related to their
+operations. These companies tend to have employees in close proximity to, and
+often in charge of operating, very expensive and dangerous capital equipment in
+often vulnerable or hostile environments; and some of these companies may have
+encountered recent "cataclysmic" events that have resulted in high-level
+corrective activities within their enterprises. There are many companies in
+various industries that meet these criteria, and the marketing plan will focus
+on those portions of the industry that are not subject to governmental
+regulation.
+
+         Recently, we have entered a distribution agreement for SafetyScan(TM)
+products with Circadian Technologies, Inc., a research and consulting firm to
+industry, concerning shift work and worker safety issues.
+
+HAWKEYE(TM). In 2007, we successfully completed a licensing agreement with our
+majority-owned subsidiary, VisioNetx, Inc. The agreement permits us to
+manufacture, market and distribute the HawkEye(TM) video system to law
+enforcement agencies throughout the world. AcuNetx uses a direct-to-customer
+marketing strategy based on the Internet, E-marketing and a focused approach to
+conferences and seminars. Sales of this product commenced in 2007.
+
+COMPETITION
+
+         VIDEONYSTAGMOGRAPHY (VNG) PRODUCTS. The principal competitors in the
+medical market producing VNG testing equipment are MicroMedical Technologies,
+Inc., ICS Medical Corporation and Interacoustics. Since our VNG product was
+introduced in 1994, these competitors have developed similar video-based VNG
+goggle products. As a result, the market has become very competitive and subject
+to pricing pressures. To combat this competitive pressure, AcuNetx has reduced
+manufacturing costs in an effort to offset the gross margin loss.
+
+         IMPAIRMENT DETECTION PRODUCTS. Competition for SafetyScan(TM) will come
+from companies that have developed tests and devices that evaluate motor and
+cognitive skills. These take the form of hand-eye coordination tests, divided
+attention tests, and other behavioral tests or series of tests administered
+either in series or selectively. We have identified three such competitors that
+have marketed these products in the past, including Performance Factors, Inc.,
+Essex Corporation and Pulse Medical Instruments.
+
+
+                                       4
+
+<page>
+
+         We believe that only Pulse Medical Instruments has developed a product
+that could be directly competitive with our products. The product differs from
+the others manufactured by our competitors in that it does not use the law
+enforcement testing paradigm which forms the basis for SafetyScan; its results
+are displayed in graphic form on a computer monitor for the qualified expert to
+interpret. Based on information available to us, we anticipate that such a
+product will be more expensive than SafetyScan(TM). Also, we believe it is not
+versatile enough to determine impairment regardless of the case of the
+impairment: one model is for fatigue, another for alcohol and drugs, etc. As a
+result, we are not aware of whether that product has been validated as a useful
+device. SafetyScan(TM) differs from its competitors' approach, because the
+SafetyScan(TM) test evaluates changes in eye performance, which are involuntary
+responses and not under the control of the individual. For this reason, these
+responses cannot be faked, changed, improved upon or learned. All of the
+competitive forms of performance tests known to us can be learned, and over time
+the individual being tested can improve his skills in responding to those tests
+and therefore potentially deceive the tester or alter the test results
+improperly. We believe that this difference from our product gives our products
+an additional important competitive advantage over other forms of performance
+testing. SafetyScan(TM) also competes with drug and alcohol abuse test kits and
+devices, which rely principally on collection and testing of urine or breath
+samples. In addition, certain drug and alcohol abuse tests now being developed
+will test saliva and/or hair for evidence of the presence of certain drugs or
+alcohol. Additional advantages of SafetyScan(TM) over other tests, include the
+immediacy of result feedback, and the non-invasive nature of the test procedure.
+We believe that the potential for occupational safety improvement that
+SafetyScan(TM) will provide for life-risk professions, such as airline pilots,
+bus drivers and train engineers, will make the system a very important
+breakthrough for public safety in these fields.
+
+         There are no currently known direct competitors for the HawkEye(TM)
+line of products.
+
+         DISTRACTION OSTEOGENESIS DEVICES. Several companies offer devices which
+compete with our GenerOs(TM) devices, including Stryker Leibinger GmbH & Co
+(bone distraction systems), KLS Martin, L.P. (distraction osteogenesis
+products), Walter Lorenz Surgical, Inc., a subsidiary of Biomet, Inc.
+(distraction osteogenesis devices), Ace Surgical Supply Co. (external mandible
+and dental distraction devices), Osteomed, Inc. (internal mandibular distraction
+device) and Wells Johnson Company (mandibular distraction device). We believe
+our distraction osteogenesis devices offer features that differentiate them from
+competitive devices currently available. Our devices are generally smaller and
+more adaptable to the bone, making it easy for the surgeon to use on patients of
+all ages and varying osteoplastic surgery needs. Also, our craniofacial device
+can be inserted through the mouth for lower jaw applications and can be
+positioned for virtually any distraction vector required, and it features
+break-off plates, which make it fast and simple for the surgeon to insert.
+Finally, its removable, low profile activation pin is unobtrusive and leaves a
+minimal scar.
+
+MANUFACTURING. We have internally performed all design and engineering of our
+VNG, SafetyScan(TM) and HawkEye(TM) products, and have developed all software
+and validation of software algorithms that are used in the analysis portion of
+the proprietary software.
+
+         All of our products boast a modular concept for efficiency in
+manufacturing. Manufacturing of components of both the VNG products and
+SafetyScan(TM) is outsourced. We attempt not to rely on a single supplier for
+the manufacturing of components. Our GenerOs distraction osteogenesis devices
+are manufactured under contract by High Precision Devices, Inc.
+
+GOVERNMENT REGULATION
+
+         Our VNG products have been cleared for marketing by the U.S. Food and
+Drug Administration (FDA), and we are licensed by the State of California as a
+Medical Device Manufacturer. We are ISO 13485 certified for our manufacturing
+processes. SafetyScan(TM) and HawkEye(TM) are not subject to FDA regulation, as
+they are not considered medical devices. However, as discussed above under
+"Marketing," government regulations on substance abuse testing for government
+employees and certain private companies impact our ability to market the
+SafetyScan(TM) in these areas. In 2005, we received ISO 13485-2003
+Certification, which should assist in marketing these products.
+
+
+                                       5
+
+<page>
+
+         Our distraction osteogenesis products are medical devices, subject to
+regulation by the FDA and corresponding state agencies. In order for us to
+market these products for clinical use in the United States, we must obtain
+clearance from the FDA via 510(k) pre-market notification or approval by a more
+extensive submission known as a pre-market approval application ("PMAA"). In
+addition, certain material changes to medical devices are subject to FDA review
+and clearance or approval. The FDA currently has cleared three of our products
+for sale under 510(k); the GenerOs CF, the GenerOs SB and the GenerOs EX.
+
+         Sales of medical devices outside of the United States are subject to
+regulatory requirements that vary from country to country. The time required to
+obtain approval or sales internationally may be longer or shorter than that
+required for FDA clearance, and the requirements may differ.
+
+PATENTS & PROPRIETARY PROTECTION
+
+         We license the technology used in our performance evaluation products
+from Ronald A. Waldorf, former CEO and director of AcuNetx, who holds a patent
+covering claims relating to tracking eye movements in the dark, utilizing
+infrared illumination and infrared sensitive video cameras, as well as the
+related analysis methodology. The patent was issued in 1989. The license is for
+the term of the underlying patent, and calls for nominal royalties of $100 per
+year.
+
+         VisioNetx is the owner of a patent issued in August 1992, covering
+certain technology underlying the SafetyScan(TM) equipment, principally relating
+to the apparatus for testing for impairment by tracking eye movements and pupil
+reactions to presented stimuli. VisioNetx has two patents pending for
+SafetyScan(TM), while two patents have been approved for issue for the
+HawkEye(TM) devices and technology. Additionally, our OrthoNetx subsidiary is
+the owner of two patents and a patent pending covering our devices for
+distraction osteogenesis.
+
+         The existence of patents may be important to our future operations, but
+there is no assurance that additional patents will be issued. We also rely on
+unpatented technology, know-how and trade secrets covering a number of items,
+particularly the methods of obtaining data regarding eye performance; and we
+rely on confidentiality agreements and internal procedures to protect
+information.
+
+EMPLOYEES
+
+         AcuNetx employs four full time employees, including two in executive
+and administrative positions, one in compliance and administration, and one in
+operations, engineering and research. We also employ one part-time employee, and
+three consultants. Our employees are not parties to any collective bargaining
+agreement, and we believe that our employee relations are satisfactory.
+
+ITEM 1A. RISK FACTORS
+
+Not required.
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS
+
+Not required.
+
+ITEM 2.  PROPERTIES
+
+         The principal offices of AcuNetx are located at 2301 205th Street,
+Suite 102, Torrance, California 90501. The offices, with an adjacent
+manufacturing floor, occupy 1620 square feet and the lease expires on January
+31, 2010. The current monthly lease payment is $2,106. These offices are
+considered satisfactory for conducting both corporate business and the
+production and shipment of our products. We believe that suitable additional
+space will be available to accommodate planned expansion.
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+         AcuNetx is not currently a party to any material legal proceedings.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+         There were no matters submitted to a vote of security holders during
+2008.
+                                       6
+
+<page>
+
+
+
+                                     PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND
+ISSUER PURCHASES OF EQUITY SECURITIES
+
+         AcuNetx's Common Stock is traded on the OTC Bulletin Board under the
+symbol "ANTX". The following table sets forth the quarterly high and low closing
+prices for the Common Stock, as reported on the OTC Bulletin Board, during the
+2007 and 2008 calendar years.
+
+                           LOW          HIGH
+                           ---          ----
+
+2008
+First Quarter      $       0.03  $       0.18
+Second Quarter             0.07          0.12
+Third Quarter              0.03          0.08
+Fourth Quarter             0.03          0.08
+
+
+2007
+First Quarter      $       0.02  $       0.230
+Second Quarter             0.028         0.055
+Third Quarter              0.026         0.137
+Fourth Quarter             0.026         0.142
+
+         These quotations reflect inter-dealer prices, without retail mark-up,
+mark-down or commission, and may not represent actual transactions.
+
+HOLDERS
+
+         As of December 31, 2008, AcuNetx Common Stock was held of record by
+approximately 276 holders. Registered ownership includes nominees who may hold
+securities on behalf of multiple beneficial owners.
+
+DIVIDENDS
+
+         AcuNetx has not paid cash dividends on its Common Stock, and we have no
+present intention of paying cash dividends in the foreseeable future.
+
+EQUITY COMPENSATION PLAN INFORMATION
+
+         The following table sets forth information about AcuNetx's Common Stock
+that may be issued upon the exercise of options, warrants or rights under
+existing equity compensation plans. The information in this table is as of
+December 31, 2008.
+
+<TABLE>
+<CAPTION>
+<S>     <C>
+
+                           Number of securities
+                           issuable upon
+                            exercise of            Weighted average
+                            outstanding            exercise price of
+                              options,            outstanding options,      Number of securities
+PLAN CATEGORY            warrants and rights      warrants, and rights      remaining available
+-------------            -------------------      --------------------      -------------------
+Equity compensation
+plans approved by
+security holders                     40,000       $              0.18                     N/A
+Equity compensation
+plans not approved
+by security
+holders                           9,818,168       $              0.11                4,181,832
+                         ------------------       -------------------       ------------------
+
+Total                             9,818,168       $              0.15                4,181,832
+                         ------------------       -------------------       ------------------
+</TABLE>
+
+
+                                       7
+
+<page>
+
+         On March 27, 2006, the Board of Directors adopted the 2006 Stock
+Incentive Plan to provide for the issuance of incentive stock options and/or
+nonstatutory options to all employees and nonstatutory options to consultants
+and other service providers. Generally, all options granted to employees and
+consultants expire in five and three years, respectively, from the date of
+grant. All options have an exercise price equal to or higher than the fair
+market value of the Common Stock on the date the options were granted. Options
+generally vest over three years. The plan reserves 14 million shares of common
+stock under the Plan and is effective through December 31, 2015.
+
+         In the first half of 2008, AcuNetx conducted a private offering of up
+to $500,000 of its equity units, each consisting of one share of Common Stock
+and one warrant to purchase an additional share of common stock, at a price of
+$0.07 per Unit. The exercise price for the warrant included in the unit is $0.10
+and expires two years from the date of purchase. AcuNetx issued 286,429 units in
+the offering, for gross proceeds of $20,050. AcuNetx believes such sales were
+exempt from the registration requirements of the Securities Act of 1933, as
+amended, by virtue of Section 4 (2) thereof and Regulation D thereunder.
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+Not Required.
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS.
+
+         The following discussion and analysis should be read in conjunction
+with our Consolidated Financial Statements and Notes thereto, included elsewhere
+in this Annual Report on Form 10-K. Except for the historical information
+contained in this report, the following discussion contains certain
+forward-looking statements that involve risks and uncertainties, such as
+statements of our plans, objectives, expectations and intentions. The cautionary
+statements made in this Annual Report on Form 10-K should be read as being
+applicable to all related forward-looking statements wherever they appear in
+this Annual Report on Form 10-K. Our actual results may differ materially from
+the results discussed in the forward-looking statements, as a result of certain
+factors including, but not limited to, those discussed elsewhere in this Annual
+Report on Form 10-K.
+
+         AcuNetx has invested substantial funds in the last several years,
+developing and validating its products. We produce and market the Infrared/Video
+VNG System, both as a branded product for our major distributor and under the
+IntelliNetx brand internationally and through independent distributors. In 2008,
+the VNG line of medical products, and Hawkeye traffic sobriety testing devices,
+together accounted for virtually all of our revenue. While the VNG products are
+being sold into a relatively mature market, the Hawkeye market is in the
+beginning of its product life cycle.
+
+         Recent research has indicated that additional markets may be suitable
+for our VNG lines, and we will continue to explore those opportunities with our
+distributors and partners. Several ongoing initiatives are important to our
+future success. In 2008, we made several important changes to realign our
+resources.
+
+         First, we sought and obtained "Purchase Order" financing for the
+corporation and all of its subdivisions, which provides for payment of the bill
+of materials on products as soon as ordered by the customer, as well as
+receivables financing from the date of sale, for those sales where the company
+does not receive full payment from the customer before or upon shipment. This
+financing allows the company to pay for our manufacturing and sales operations
+with reduced concern for the delay in collecting receivables.
+
+         We have also commenced seeking financing for the VisioNetx, Inc.
+subsidiary founded in 2007, and we believe that this subsidiary allows us more
+flexibility in obtaining possible financing.
+
+         Secondly, we have accelerated marketing and sales of the HawkEye(TM)
+eye observation and recording system, now leased from VisioNetx, and this should
+allow AcuNetx management to address this market and generate revenues from the
+product. We believe that we have approximately half of the current, limited
+market for non-portable devices, and that our planned minor technological
+advancements to the Hawkeye line, rendering the devices fully portable, will
+open up to us a multi-billion dollar market in which we currently have
+established penetration.
+
+         Third, we continue to pursue sales and marketing activities for our
+IntelliNetx division, to take advantage of the growing global opportunity for
+balance assessment and fall prevention in the elderly, which we believe has the
+potential to develop into a substantial new market. For example, we have for the
+first time established an in-house sales group to sell to the recently untouched
+California market in our home state.
+
+                                       8
+
+<page>
+
+         We believe that the OrthoNetx product line still has significant
+potential value in the marketplace, either for development or acquisition, and
+the relationship with Robinson Medsurg LLC is an important step to maximize this
+opportunity.
+
+RESULTS OF OPERATIONS
+
+YEAR ENDED DECEMBER 31, 2008 COMPARED TO YEAR ENDED DECEMBER 31, 2007.
+
+         Revenues from sales of products declined by $1,520,315, or 59%, from
+$2,574,645 in 2007, to $1,054,330 in 2008. Changes in revenue recognition from a
+retail model in the second quarter of 2007 back to a wholesale model impacts the
+comparison of these figures. A better way to view the company's progress is a
+comparison of system unit sales. In 2008, 66 IntelliNetx and private label
+medical systems were sold, compared to 96 of the same systems sold in 2007. This
+33% decrease was a result of a management change and the outsourcing of sales
+responsibilities to a consultant not sufficiently familiar with the company's
+sales needs. Two major distributors accounted for approximately 45% of our sales
+revenues in 2008, and in 2007 accounted for 64%. While VNG products and supplies
+continue to make up the majority of our revenue, we did have modest revenue
+growth from the sale of the HawkEye(TM) eye observation and recording law
+enforcement system, providing an additional $90,000 of revenue (15 systems).
+Due to changes in revenue recognition from a retail model in the second quarter
+of 2007 back to a wholesale model and decline in revenue, the gross profit
+declined from $1,960,628 (76%) in 2007 to $684,079 (65%) in 2008. That decline
+was then offset by sales expense for commission payments. The 2008 net loss of
+$715,696 represented an improvement of 18% over 2007, or $161,082, primarily due
+to a reduction in selling, general and administrative expenses which declined
+54% or $1,402,692 from 2007.
+
+         Inventory turnover ratio in 2008 was approximately 3:1, compared to 3:1
+in 2007. This was achieved as we aligned our inventory stocking to the lower
+volumes. Inventory was down $105,259, or 52%, from $204,279 at December 31, 2007
+to $99,020 on December 31, 2008. Collection of accounts receivables has been
+very satisfactory with only minimal slow paying accounts. Year end net accounts
+receivable totaled $79,167 on December 31, 2008, an increase of $34,133, or 76%,
+from $45,034 on December 31, 2007.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+         As of December 31, 2008, AcuNetx had $12,715 in cash and cash
+equivalents, $15,636 in restricted cash, $79,167 in net accounts receivable, and
+$99,020 in inventory. Conversely, AcuNetx had $1,551,042 of current
+liabilities, which included accounts payable of $429,766. AcuNetx also had
+accrued liabilities of $909,508, and notes payable of $361,768, with an
+accumulated deficit of $12,457,279. AcuNetx has no plans for significant capital
+equipment expenditures for the foreseeable future.
+
+GOING CONCERN
+
+         AcuNetx's independent auditors have included an explanatory paragraph
+in their report on the December 31, 2008 consolidated financial statements
+discussing issues which raise substantial doubt about AcuNetx's ability to
+continue as a "going concern." The going concern qualification is attributable
+to the operating losses during the year and the amount of capital that AcuNetx
+projects it needs to satisfy existing liabilities and achieve profitable
+operations.
+
+         Management understands the comments in the auditor's report relative to
+AcuNetx as a going concern. We have taken a number of actions, described
+above and in the footnotes, to obtain financing, significantly reduce expenses
+and conserve cash. We have also hired an internal sales force, to complement the
+occasionally inconsistent, and in some cases non-existent, sales by the
+company's network of representatives. All activities well as the HawkEye (TM)
+product for law enforcement applications, which continue to serve as our source
+of revenue. These activities will include maintaining the excellent
+relationships already formed with our suppliers, distributors, and customers.
+Any future expenses not related to this core business will be examined in the
+light of our current liquidity position before approval. Management believes
+that the plan that has been implemented will allow continuing operations and
+improvements over time.
+
+EFFECT OF INFLATION
+
+         We do not believe that inflation has had a material effect on our net
+sales or profitability in recent years.
+
+
+                                       9
+
+<page>
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+
+Not Required.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+The financial statements of AcuNetx are attached as a separate section of this
+Annual Report on Form 10-K, commencing with page F-1.
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE.
+
+None.
+
+ITEM 9A. CONTROLS AND PROCEDURES
+
+No response required
+
+ITEM 9A (T). CONTROLS AND PROCEDURES
+
+EVALUATION OF DISCLOSURE CONTROLS AND PROCEDURES
+
+         We maintain "disclosure controls and procedures," as such term is
+defined in Rule 13a-15(e) under the Exchange Act, that are designed to ensure
+that information required to be disclosed by us in reports that we file or
+submit under the Exchange Act is recorded, processed, summarized and reported
+within the time periods specified in SEC rules and forms, and that such
+information is accumulated and communicated to our management, including our
+Chief Executive Officer and Chief Financial Officer, as appropriate to allow
+timely decisions regarding required disclosure. In designing and evaluating our
+disclosure controls and procedures, management recognized that disclosure
+controls and procedures, no matter how well conceived and operated, can provide
+only reasonable, not absolute, assurance that the objectives of the disclosure
+controls and procedures are met. Additionally, in designing disclosure controls
+and procedures, our management necessarily was required to apply its judgment in
+evaluating the cost-benefit relationship of possible disclosure controls and
+procedures. The design of any disclosure controls and procedures also is based
+in part upon certain assumptions about the likelihood of future events, and
+there can be no assurance that any design will succeed in achieving its stated
+goals under all potential future conditions.
+
+         Based on their evaluation as of the end of the period covered by this
+Annual Report on Form 10-K, our Chief Executive Officer and Chief Financial
+Officer have concluded that our disclosure controls and procedures were
+effective at the reasonable assurance level.
+
+CHANGES IN INTERNAL CONTROL OVER FINANCIAL REPORTING
+
+         During the quarter ended December 31, 2008, management focused efforts
+to improve internal control over financial reporting. Weaknesses identified in
+our disclosure controls and procedures, and internal controls over financial
+reporting were analyzed and remediation efforts were pursued. We improved our
+control procedures primarily through engaging third party experts in compliance,
+presentation and internal control evaluation, as well as providing additional
+guidance and training to our present staff. As a result of these efforts, at
+December 31, 2008, the material weaknesses identified and reported in prior
+periods have been successfully remediated and adequate control procedures have
+been implemented in those areas to provide reasonable assurance regarding the
+reliability of financial reporting and preparation of financial statements for
+external purposes in accordance with generally accepted accounting principles.
+
+MANAGEMENT'S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING
+
+         Our management is responsible for establishing and maintaining adequate
+internal control over financial reporting, as such term is defined in Exchange
+Act Rules 13a-15(f) and 15d-15(f). Because of its inherent limitations, internal
+control over financial reporting may not prevent or detect misstatements. Also,
+projections of any evaluation of effectiveness to future periods are subject to
+the risk that controls may become inadequate because of changes in conditions,
+or that the degree of compliance with the policies or procedures may
+deteriorate.
+
+         Under the supervision and with the participation of our management,
+including our CEO and CFO, we conducted an evaluation of the effectiveness of
+our internal control over financial reporting as of December 31, 2008 based on
+the guidelines established in INTERNAL CONTROL -- INTEGRATED FRAMEWORK issued by
+
+                                       10
+
+<page>
+
+the Committee of Sponsoring Organizations of the Treadway Commission (COSO).
+Based on the results of our evaluation, our management concluded that our
+internal control over financial reporting was effective as of December 31, 2008
+to provide reasonable assurance regarding the reliability of financial reporting
+and the preparation of financial statements for external reporting purposes in
+accordance with Generally Accepted Accounting Principles applied in the United
+States.
+
+         This annual report does not include an attestation report of our
+registered public accounting firm regarding internal control over financial
+reporting. Management's report was not subject to attestation by our registered
+public accounting firm pursuant to temporary rules of the Securities and
+Exchange Commission that permit the company to provide only management's report
+in this annual report.
+
+ITEM 9B. OTHER INFORMATION
+
+None.
+
+PART III
+
+ITEM 10.  DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE.
+
+The following table sets forth information on the executive officers and
+directors of AcuNetx:
+
+
+
+NAME                         AGE                  POSITION
+----                         ----                 --------
+
+Robert S. Corrigan            55                  President, CEO and Chairman
+                                                    of the Board of Directors
+Dennis G. Geselowitz          55                  Chief Financial Officer
+Ronald A. Waldorf             61                  Director
+Peter Miterko                 55                  Director
+Steven Butler                 49                  Director
+Terry R. Knapp, M.D.          64                  Chairman of VisioNetx, Inc.
+
+         Directors hold office for a period of one year from their election at
+the annual meeting of shareholders or until their successors are duly elected
+and qualified.
+
+         Mr. Corrigan is the Chairman, President and CEO of AcuNetx. He has been
+a director of VisioNetx since its inception in 2007 and has been a director of
+AcuNetx since 2005. He has been Chairman and Chief Executive Officer of
+Centennial Capital Group, Inc. for the past twelve years. CCGI is an investment
+banking enterprise which assists developmental stage and other companies in
+corporate finance, mergers and acquisitions and business development. Prior to
+founding CCGI, Mr. Corrigan was employed by the major financial services
+companies of Merrill Lynch, Pierce Fenner & Smith, Inc. and Paine Webber, Inc.
+Mr. Corrigan is a Director of AcuNetx, Inc, and VisioNetx, Inc. Mr. Corrigan
+holds a B.S. degree from Castleton State College, Castleton, Vermont and an M.S.
+from Youngstown State University, Youngstown, Ohio.
+
+         Mr. Geselowitz has been Chief Financial Officer since September of
+2008. A business and labor lawyer and financial executive, he maintains a
+private legal practice, and he previously held various combined financial
+management and general counsel positions for corporations, including Nature's
+Gate and Moldex Metric, two manufacturing companies. Mr. Geselowitz has also
+held senior banking positions, as an Assistant Vice President at First
+Interstate Bank and Chief Financial Officer of a smaller institution, and he has
+significant experience in fund-raising for small corporations. He has published
+numerous syndicated financial articles on the internet. Mr. Geselowitz holds a
+B.A. Degree from Witwatersrand University, a B. Proc degree from the University
+of South Africa, and J.D. and M.B.A. degrees from the University of Southern
+California (USC) in Los Angeles, California.
+
+         Mr. Waldorf was President and Chief Financial Officer of AcuNetx until
+his retirement in 2008. He has been a director of AcuNetx since 1991 He acted as
+Chairman of the Board of Directors of Eye Dynamics between 1991 and 2005. He is
+the co-inventor of the IR/Video ENG System, SafetyScan and HawkEye products.
+Since 1969 Waldorf has been active in the field of otolaryngology, primarily in
+an academic research environment at the University of Florida,
+
+                                       11
+
+<page>
+
+College of Medicine and at the University of California (Irvine), Department of
+Surgery. He has published numerous articles on vestibular and optokinetic
+research in international scientific and medical journals and was the principal
+investigator in a research grant funded by the National Institute of
+Health/National Institute on Alcohol Abuse and Alcoholism (NIH/NIAAA). Mr.
+Waldorf earned an M.S. from the Department of Physiology of the College of
+Medicine, University of Florida, in 1972.
+
+         Mr. Miterko is a partner and Executive Vice President of Denver
+Management Advisors, Inc. Previously, he was Chairman of HR Source, the largest
+compensation, consulting and human resources outsourcing firm in the Rocky
+Mountain area .As a partner at Ernst & Young, Peter founded and ran the Human
+Resources Consulting Division of the firm, and served on the firm's U.S.
+Operating Committee. Peter practiced law in New York City, where he also served
+as senior associate in compensation and benefits at Carter, Ledyard & Milburn, a
+Wall Street law firm. He has also served on the Board of the Association of
+Private Pension and Welfare Plans, a Washington, D.C. based lobbying group and
+has taught compensation and benefits law at the University Of Denver School Of
+Law.
+
+         Mr. Butler, age 48, has been President and Chief Operating Officer of
+Denver Management Advisors, a compensation and benefits consulting firm, since
+2007. Between 2005 and 2007, he was CEO of Startek, Inc., a NYSE-listed business
+process outsourcing firm. Between 2002 and 2004, he was President and Chief
+Executive Officer of S.D. Butler Financial Consulting Services, LLC, which
+provided consulting services to startup businesses. Mr. Butler has also served
+as Chief Executive Officer and Chief Financial Officer of Verado, Inc., a
+NASDAQ-listed data center company, and as managing Director of Finance and
+Treasurer of United Pan-Europe Communications, a Netherlands-based cable TV
+service provider.
+
+         Dr. Knapp was a director of AcuNetx between December 2005 and April
+2007. In April 2007he became Chairman of the Board of VisioNetx, Inc. He was CEO
+and a director of OrthoNetx, Inc. between December 2003 and its acquisition by
+AcuNetx. He served as President and Chief Executive Officer throughout 2006. He
+was a founder and a director of Collagen Corporation, a publicly traded (NASDAQ)
+medical device company. He co-founded, served as Chairman and Chief Executive
+Officer for Lipomatrix, a medical device company based in Switzerland, with
+operations in the U.S. and Europe, until its acquisition. Dr. Knapp founded
+PrivaComp, Inc. in 1999 as an information technology solution for health care
+data management, product tracking and surveillance, and informed consent. Dr.
+Knapp is a reconstructive facial and hand surgeon, and has spoken and published
+extensively on matters of quality systems and risk management in health care.
+Dr. Knapp is President and co-founder of DRL Foundation, a 501(c) (3)
+humanitarian organization for reconstructive surgery and telehealth to
+developing countries.
+
+ITEM 11.  EXECUTIVE COMPENSATION
+
+SUMMARY COMPENSATION TABLE
+
+The following table sets forth compensation awarded or paid by AcuNetx to
+its Executive Officers during the fiscal years ended December 31, 2008 and 2007.
+
+
+SUMMARY COMPENSATION TABLE
+<TABLE>
+<CAPTION>
+<S>     <C>
+---------------------------------- ------ ---------   ----------- ---------  ---------
+   Name and principal position      Year    Salary    Option awards              Total
+                                              ($)           ($)                    ($)
+---------------------------------- ------ ----------  ------------ --------- ---------
+
+Robert S. Corrigan - CEO            2008    58,333         30,000    (A)(B)     88,333
+                                    2007        --             --                   --
+---------------------------------- ------ ----------  -----------  --------- ---------
+
+Ronald A. Waldorf - CEO             2008     75,000            --    (A)(B)     23,851
+                                    2007    150,000       122,996      (A)     272,996
+---------------------------------- ------ ----------  -----------  --------- ---------
+
+Dennis G. Geselowitz  - CFO         2008     25,000        25,268               50,268
+                                    2007        --             --                   --
+---------------------------------- ------ ----------  -----------  --------- ---------
+</TABLE>
+
+
+(A) Options vested and valued using assumptions as described in Note 11 of Notes
+to Financial Statements - STOCKS OPTIONS AND WARRANTS.
+
+(B) Award amended per Narrative Disclosure to the Summary Compensation Table.
+
+
+                                       12
+
+<page>
+
+NARRATIVE DISCLOSURE TO THE SUMMARY COMPENSATION TABLE
+
+         In July of 2008, Ronald A. Waldorf resigned as Chief Executive Officer
+and the Board appointed Robert Corrigan as Chief Executive Officer. Mr. Corrigan
+receives a salary of $150,000 per year, and is entitled to a stock grant of
+1,000,000 shares of Common Stock, to be issued in 2009. In September 2008, the
+Board approved the employment of Chief Financial Officer Dennis Geselowitz,
+under which he receives an annual salary of $90,000 and options to purchase
+1,000,000 shares of the company's Common Stock, vesting over a two year period.
+
+
+OUTSTANDING EQUITY AWARDS AT YEAR-END
+
+
+The following table sets forth information concerning all equity awards.
+
+OUTSTANDING EQUITY AWARDS AT FISCAL YEAR-END
+<TABLE>
+<CAPTION>
+<S>     <C>
+
+                                        Number of         Number of
+                                        securities        securities
+                                        underlying        underlying
+                                       unexercised       unexercised
+                                         options           options                 Equity
+                                           (#)               (#)                  incentive     Option exercise        Option
+                                       exercisable      unexercisable               plan             price           expiration
+                                                                                     (#)              ($)              date
+------------------------------------ ----------------- ----------------- ----- ---------------- ----------------- -----------------
+Ronald Waldorf(A)                             500,000                 -                       -      0.198            7/14/2009(B)
+------------------------------------ ----------------- ----------------- ----- ---------------- ----------------- -----------------
+Ronald Waldorf                                850,000(C)              -                       -      0.067            7/14/2009(B)
+------------------------------------ ----------------- ----------------- ----- ---------------- ----------------- -----------------
+Ronald Waldorf                                500,000                 -                       -      0.198            7/14/2009(B)
+------------------------------------ ----------------- ----------------- ----- ---------------- ----------------- -----------------
+Dennis Geselowitz                             333,333      666,667(D)                         -      0.03             9/22/2013
+------------------------------------ ----------------- ----------------- ----- ---------------- ----------------- -----------------
+</TABLE>
+
+
+
+(A) Former Chief Executive Officer
+
+(B) The original expiration date is October 14, 2008, 90 days after his
+resignation. The expiration date was extended by action of the Board of
+Directors.
+
+(C) Granted as director compensation
+
+(D) 333,333 shares vest on September 22, 2009 and 333,334 shares vest on
+    September 22, 2010
+
+                                       13
+
+<page>
+
+COMPENSATION OF DIRECTORS
+
+The following table provides information concerning the compensation of all
+directors for the year ended December 31, 2008.
+
+DIRECTOR COMPENSATION
+<TABLE>
+<CAPTION>
+<S>     <C>
+                           Name                                Option                All other              Total
+                                                               awards               compensation              ($)
+                                                                ($)                     ($)
+----------------------------------------------------------- ------------- -------- --------------- ----- ----------
+Charles E. Phillips(F)                                            45,539  (A)(C)                             45,539
+                                                                                                -
+----------------------------------------------------------- ------------- -------- --------------- ----- ----------
+Robert S. Corrigan                                                45,539  (A)(C)          75,000  (B)       120,539
+----------------------------------------------------------- ------------- -------- --------------- ----- ----------
+
+Peter Miterko                                                     47,582  (A)(D)                -            47,582
+----------------------------------------------------------- ------------- -------- --------------- ----- ----------
+
+Steven Butler                                                      9,550  (A)(E)                -             9,550
+----------------------------------------------------------- ------------- -------- --------------- ----- ----------
+</TABLE>
+
+(A) Options vested and valued using assumptions as described in Note 11 of Notes
+to Financial Statements - STOCKS OPTIONS AND WARRANTS.
+
+(B) Consulting Fees and salary
+
+(C) 850,000 Options outstanding as of 12/31/2008.
+
+(D) 630,000 Options outstanding as of 12/31/2008.
+
+
+                                       14
+
+<page>
+
+(E) 377,400 Options outstanding as of 12/31/2008.
+
+(F) Resigned on May 30, 20008.
+
+NARRATIVE DISCLOSURE TO THE DIRECTOR COMPENSATION TABLE
+
+During 2008, the Board of Directors agreed to waive all compensation for service
+on the Board of Directors in 2009.
+
+
+
+                                       15
+
+<page>
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND
+         RELATED STOCKHOLDER MATTERS
+
+The following table sets forth information regarding the beneficial ownership of
+the Common Stock of AcuNetx as of March 24, 2009, by (i) each person known by
+AcuNetx to beneficially own 5% or more of its outstanding Common Stock ; (ii)
+each of AcuNetx's directors; (iii) the Named Executive Officers identified in
+the Summary Compensation Table; and (iv) all directors and Named Executive
+Officers of AcuNetx as a group.
+
+<TABLE>
+<CAPTION>
+<S>     <C>
+
+                                                                                                          Number Of
+Name                                          Address                                                   Shares Owned       % Owned
+
+Randolph Robinson                             7144 S Chapparal Cir E Centennial, CO 80016                     8,834,760     13.50%
+Winchester Financial Services Limited         295 Madison Ave 5th Floor NY, NY 10017                 1        7,142,858     10.92%
+Galen Capital Group LL                        1660 International Drive, #410 McLean, VA 22102                 3,226,231      4.93%
+Charles Philips                               2301 W. 205th St, Suite 102, Torrance, CA 90501        2        3,755,489      5.73%
+Ronald Waldorf                                2301 W. 205th St, Suite 102, Torrance, CA 90501        3        2,352,100      3.59%
+Robert Corrigan                               2301 W. 205th St, Suite 102, Torrance, CA 90501        4        2,650,000      4.05%
+Dennis Geselowitz                             2301 W. 205th St, Suite 102, Torrance, CA 90501        5          333,333      0.51%
+Peter Miterko                                 2301 W. 205th St, Suite 102, Torrance, CA 90501        6          687,143      1.05%
+Steven Butler                                 2301 W. 205th St, Suite 102, Torrance, CA 90501        7          377,400      0.58%
+
+TOTAL                                                                                                        29,359,314     44.87%
+</TABLE>
+
+
+1 - Total includes 3,571,429 warrants
+2 - Total includes 1,350,000 options
+3 - Total includes 1,850,000 options
+4 - Total includes 1,350,000 options and unissued 1,000,000 restricted shares
+5 - Total includes 1,000,000 options
+6 - Total includes 630,000 options
+7 - Total includes 377,400 options
+
+Beneficial ownership is determined in accordance with the rules of the
+Securities and Exchange Commission and generally includes voting or investment
+power with respect to securities. Except as indicated by footnote, and subject
+to community property laws where applicable, the persons named in the table
+above have sole voting and investment power with respect to all shares of Common
+Stock shown as beneficially owned by them. Shares of Common Stock subject to
+securities currently convertible or convertible within 60 days after March 24,
+2009, are deemed to be outstanding in calculating the percentage ownership of a
+person or group but are not deemed to be outstanding as to any other person or
+group.
+
+SECTION 16(A) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+
+Section 16(a) of the Exchange Act requires our officers and directors, and
+persons who own more than 10% of a registered class of the Company's equity
+securities (the "10% Stockholders"), to file reports of ownership and changes of
+ownership with the Securities and Exchange Commission. Officers, directors and
+10% Stockholders of AcuNetx are required by Commission regulation to furnish us
+with copies of all Section 16(a) forms so filed.
+
+Based upon a review of filings made and other information available to it,
+AcuNetx believes that each of its Company's present Section 16 reporting persons
+filed all forms required of them by Section 16(a) during the year 2008.
+
+                                       16
+
+<page>
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR
+         INDEPENDENCE
+
+Not Applicable
+
+ITEM 14.  PRINCIPAL ACCOUNTING FEES AND SERVICES
+
+The following is a summary of the fees billed to AcuNetx by Spector, Wong &
+Davidian, LLP for professional services rendered for the fiscal years ended
+December 31, 2008 and 2007:
+
+Fee Category            Fiscal 2008 Fees     Fiscal 2007 Fees
+--------------------- ------------------- -------------------
+Audit Fees                $   65,000.00  $   74,000.00
+Audit-Related Fees
+Tax Fees
+All Other Fees
+---------------------     -------------  -------------
+Total Fees                $   65,000.00  $   74,000.00
+=====================     =============  =============
+
+
+Audit Fees. Consists of fees billed for professional services rendered for the
+audit of our consolidated financial statements and review of the interim
+consolidated financial statements included in quarterly reports and services
+that are normally provided by Spector, Wong & Davidian, LLP in connection with
+statutory and regulatory filings or engagements.
+
+Audit-Related Fees. Consists of fees billed for assurance and related services
+that are reasonably related to the performance of the audit or review of our
+consolidated financial statements and are not reported under "Audit Fees." There
+were no Audit-Related services provided in fiscal 2008 or 2007.
+
+Tax Fees. Consists of fees billed for professional services for tax compliance,
+tax advice and tax planning. There were no tax fees provided in fiscal 2008 or
+2007
+
+All Other Fees. Consists of fees for products and services other than the
+services reported above. There were no other services provided in fiscal 2008 or
+2007.
+
+Policy On Audit Committee Pre-Approval Of Audit And Permissible Non-Audit
+Services Of Independent Auditors
+
+Our Audit Committee, subject to Board of Directors consent, pre-approves all
+audit and permissible non-audit services provided by the independent auditors.
+These services may include audit services, audit-related services, tax services
+and other services. Pre-approval would generally be provided for up to one year
+and any pre-approval would be detailed as to the particular service or category
+of services, and would be subject to a specific budget. The independent auditors
+and management are required to periodically report to the Audit Committee and
+Board of Directors regarding the extent of services provided by the independent
+auditors in accordance with this pre-approval, and the fees for the services
+performed to date. The Board of Directors may also pre-approve particular
+services on a case-by-case basis.
+
+
+                                       17
+
+<page>
+
+                                    PART IV
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES
+
+(1) Financial Statements
+
+See Index to Financial Statements.
+
+(2) Exhibits
+
+The following exhibits are included herein or incorporated by reference:
+
+2.1      Agreement and Plan of Merger, dated September 1, 2005, among Eye
+         Dynamics, Inc., OrthoNetx, Inc., and Eye Dynamics Acquisition Corp. (1)
+
+3.1      Amended and Restated Articles of Incorporation (2)
+
+3.2      Amended and Restated Bylaws (2)
+
+10.1     Employment Agreement, dated December 23, 2005 between the Company and
+         Ronald A. Waldorf (2)
+
+10.1     Exclusive Licensing Agreement, dated November 1, 1989 between the
+         Company and Ronald A. Waldorf (3)
+
+10.3     Licensing Agreement, dated November 15, 2004 between the Company and
+         Terry Knapp (2)
+
+10.4     Exclusive Manufacturing, Sales, Licensing and Software Ownership
+         Agreement, dated May 18, 2006 between the Company and Medtrak, Inc.
+
+10.5     Standard Multi-Tenant Commercial Industrial Lease-Gross, dated January
+         9, 2003, between the Company and AMB Property, L.P. (4)
+
+10.6     AcuNetx, Inc. 2006 Non-Executive Directors' Stock Plan (2)
+
+31.1     Certification of Chief Executive Officer Pursuant to Section 302 of the
+         Sarbanes-Oxley Act of 2002
+
+31.2     Certification of Interim Chief Financial Officer Pursuant to Section
+         302 of the Sarbanes-Oxley Act of 2002
+
+32.1     Certification of Chief Executive Officer Pursuant to Section 906 of the
+         Sarbanes-Oxley Act of 2002
+
+32.2     Certification of Interim Chief Financial Officer Pursuant to Section
+         906 of the Sarbanes-Oxley Act of 2002
+
+--------------------------------------------------------------------------------
+
+(1)      Incorporated by reference from Report on Form 8K dated September 1,
+         2005.
+
+(2)      Incorporated by reference from Report on Form 10-KSB for the fiscal
+         year ended December 30, 2005, filed on April 24, 2006.
+
+(3)      Incorporated by reference from Report on Form 10-SB filed on December
+         13, 1999.
+
+(4)      Incorporated by reference from Report on Form 10-KSB for the year ended
+         December 31, 2002.
+
+                                       18
+
+<page>
+
+
+
+                                   SIGNATURES
+
+         Pursuant to the requirements of Section 13 or 15 (d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+                                                AcuNetx, Inc.
+
+                                               By:  /s/ Robert S. Corrigan
+                                                    ---------------------------
+                                                    Robert S. Corrigan,
+                                                    President and
+                                                    Chief Executive Officer
+
+Date:    April 24, 2009
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed by the following persons on behalf of the registrant and in the
+capacities and on the date indicated.
+
+(1) Principal Executive Officer and Principal Financial and Accounting Officer
+
+<TABLE>
+<CAPTION>
+<S>     <C>
+
+/s/ Robert S. Corrigan          Chief Executive Officer and a Director           April 24, 2009
+----------------------
+Robert S. Corrigan
+
+
+/s/ Dennis G. Geselowitz        Chief Financial Officer                          April 24, 2009
+-----------------------
+Dennis G. Geselowitz
+
+(2)      Directors
+
+
+/2/ Ronald A. Waldorf
+---------------------
+Ronald A. Waldorf               Director                                         April 24, 2009
+
+
+/s/ Peter Miterko               Director                                         April 24, 2009
+---------------
+Peter Miterko
+
+
+/s/ Steven Butler               Director                                         April 24, 2009
+----------------
+Steven Butler
+</TABLE>
+
+                                       19
+
+<page>
+
+
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the Board of
+Directors and Stockholders of AcuNetx, Inc.
+
+We have audited the accompanying consolidated balance sheets of AcuNetx, Inc. As
+of December 31, 2008 and 2007, and the related consolidated statements of
+operations, changes in stockholders' equity (deficit), and cash flows for the
+years then ended. These financial statements are the responsibility of the
+company's management. Our responsibility is to express an opinion on these
+financial statements based on our audits.
+
+We conducted our audits in accordance with the standards of the Public Company
+Accounting Oversight Board (United States). Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. The company is not required to
+have, nor were we engaged to perform, an audit of its internal control over
+financial reporting. Our audit included consideration of internal control over
+financial reporting as a basis for designing audit procedures that are
+appropriate in the circumstances, but not for the purpose of expressing an
+opinion on the effectiveness of the company's internal control over financial
+reporting. Accordingly, we express no such opinion. An audit also includes
+examining, on a test basis, evidence supporting the amounts and disclosures in
+the financial statements, assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above present
+fairly, in all material respects, the financial position of AcuNetx, Inc. as of
+December 31, 2008 and 2007, and the results of its operations and its cash flows
+for the years then ended in conformity with accounting principles generally
+accepted in the United States of America.
+
+The accompanying consolidated financial statements have been prepared assuming
+that the Company will continue as a going concern. As discussed in Note 2, the
+Company's ability to continue in the normal course of business is dependent upon
+the success of future operations. The Company has recurring losses, substantial
+working capital deficiency, stockholders' deficit and negative cash flows from
+operations. These conditions raise substantial doubt about the Company's ability
+to continue as a going concern. Management's plans regarding these matters are
+also described in Note 2. These consolidated financial statements do not include
+any adjustments that might result from the outcome of this uncertainty.
+
+/s/ SPECTOR, WONG & DAVIDIAN, LLP
+Pasadena, CA
+April 15, 2009
+
+
+                                      F-1
+
+<page>
+
+<TABLE>
+<CAPTION>
+<S>     <C>
+
+ACUNETX, INC.
+CONSOLIDATED BALANCE SHEETS
+DECEMBER 31, 2008 AND 2007
+------------------------------------------------------------------------------------------------------------
+
+ASSETS                                                               December 31, 2008     December 31, 2007
+                                                                     -----------------     -----------------
+Current Assets
+  Cash                                                                  $     12,715         $    205,162
+  Restricted Cash                                                             15,636               75,000
+  Accounts receivable, net                                                    79,167               45,034
+  Inventory                                                                   99,020              204,279
+  Prepaid expenses and other current assets                                   51,816               73,685
+                                                                        ------------         ------------
+    Total Current Assets                                                     258,354              603,160
+
+Property and equipment, net                                                   10,355               18,064
+Goodwill                                                                          --                   --
+Other intangible assets, net                                                 114,996              150,472
+Deferred tax assets                                                          220,635              220,635
+Other investments                                                             15,000                   --
+Other assets                                                                   2,020                2,020
+                                                                        ------------         ------------
+
+TOTAL ASSETS                                                            $    621,360         $    994,351
+                                                                        ============         ============
+
+LIABILITIES AND STOCKHOLDERS' DEFICIT
+Current Liabilities
+  Accounts payable                                                      $    429,766         $    395,157
+  Accrued liabilities                                                        909,508              794,757
+  Notes payable to related parties                                                --                   --
+  Current portion of long-term debt                                          211,768               72,019
+                                                                        ------------         ------------
+    Total Current Liabilities                                              1,551,042            1,261,933
+
+Convertible debt, net of debt discount of $3,124 and
+ $6,124 for 2008 and 2007, respectively                                       36,876               93,876
+
+Long-Term Debt                                                               150,000              197,830
+                                                                        ------------         ------------
+
+Total Liabilities                                                          1,737,918            1,553,639
+                                                                        ------------         ------------
+
+Minority Deficit                                                             (12,916)              (8,394)
+
+Stockholders' Deficit
+  Common stock, $0.001 par value; 100,000,000 shares authorized;
+    65,429,309 shares issued and outstanding                                  65,429               65,143
+  Common stock to be issued                                                       --                   --
+  Paid-in capital                                                         11,288,208           11,125,546
+  Accumulated deficit                                                    (12,457,279)         (11,741,583)
+                                                                        ------------         ------------
+    Total Stockholders' Deficit                                           (1,103,642)            (550,894)
+                                                                        ------------         ------------
+
+TOTAL LIABILITIES AND STOCKHOLDERS' DEFICIT                             $    621,360         $    994,351
+                                                                        ============         ============
+
+
+
+See notes to consolidated financial statements
+
+
+                                      F-2
+
+<page>
+
+
+ACUNETX, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+FOR YEARS ENDED DECEMBER 31, 2008 AND 2007
+------------------------------------------------------------------------------------------
+
+
+                                                           For years ended December 31,
+                                                             2008                2007
+                                                          -----------         -----------
+Sales - Products                                          $ 1,054,330         $ 2,574,645
+
+Cost of sales - products                                      370,251             614,017
+                                                          -----------         -----------
+
+Gross profit                                                  684,079           1,960,628
+                                                          -----------         -----------
+
+Operating Expenses:
+  Selling, general and administrative expenses              1,174,663           2,577,355
+  Stock option expense                                        167,404             253,647
+  Impairment of goodwill                                           --                 362
+                                                          -----------         -----------
+  Research and development                                         --                  --
+                                                          -----------         -----------
+Total Operating Expenses                                    1,342,067           2,831,364
+                                                          -----------         -----------
+
+Operating loss                                               (657,988)           (870,736)
+                                                          -----------         -----------
+
+Other income (expenses)
+  Interest and other income                                    17,978              27,477
+  Loss on equity-method investments                                --                  --
+  Interest and other expenses                                 (70,599)            (54,633)
+                                                          -----------         -----------
+    Total other income (expenses)                             (52,621)            (27,156)
+                                                          -----------         -----------
+
+Net loss before income taxes and minority interest           (710,609)           (897,892)
+
+Provision for income taxes                                        800                 800
+                                                          -----------         -----------
+
+Net loss before minority interest                            (711,409)           (898,692)
+
+Minority interest in gain (losses) of subsidiaries              4,287             (21,914)
+                                                          -----------         -----------
+
+Net loss                                                  $  (715,696)        $  (876,778)
+                                                          ===========         ===========
+
+Net Loss per share-Basic and Diluted                      $     (0.01)        $     (0.01)
+                                                          ===========         ===========
+
+Weighted average number of common shares                   65,387,583          63,703,365
+
+
+
+See notes to consolidated financial statements
+
+                                      F-3
+
+<page>
+
+
+
+ACUNETX, INC.
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+
+                                                                            Common
+                                                    Common Stock            Stock to       Paid-in     Accumulated
+                                             Shares         Amount         be issued      Capital        Deficit          Total
+                                          ------------   ------------    ------------   ------------  ------------   ------------
+ Balance at December 31, 2006               62,974,814   $     62,975    $     40,500   $ 10,736,057  $(10,864,805)  $    (25,273)
+
+ Issuance of stock for services                225,000            225         (40,500)        40,275                           --
+
+ Issuance of stock for cash                    785,715            786                         54,214                       55,000
+
+ Issuance of stock for accounts payable         57,143             57                          3,943                        4,000
+
+ Return to treasury                         (1,064,078)        (1,064)                       (20,205)                     (21,269)
+
+ Shares adjustments on prior
+  year subscriptions                         2,164,286          2,164                         (2,164)                          --
+                                                                                                                                1
+ Stock option and warrant expenses                                                           246,649                      246,649
+
+ Equity adjustments related to
+   subsidiary stock transactions                                                              66,777                       66,777
+
+ Net loss                                                                                                 (876,778)      (876,778)
+                                          ------------   ------------    ------------   ------------  ------------   ------------
+
+ Balance at December 31, 2007               65,142,880   $     65,143    $         --   $ 11,125,546  $(11,741,583)  $   (550,894)
+                                          ------------   ------------    ------------   ------------  ------------   ------------
+
+ Stocks to be issued for services                                  --                         30,000                       30,000
+
+ Issuance of stock for cash                    286,429            286                         19,764                       20,050
+
+ Stock option and warrant expenses                                                           159,143                      159,143
+
+ Equity adjustments related to
+  subsidiary stock transactions                                                              (46,245)                     (46,245)
+
+ Net loss                                                                                                 (715,696)      (715,696)
+                                          ------------   ------------    ------------   ------------  ------------   ------------
+
+ Balance at December 31, 2008               65,429,309   $     65,429    $         --   $ 11,288,208  $(12,457,279)  $ (1,103,642)
+                                          ============   ============    ============   ============  ============   ============
+
+
+See notes to consolidated financial statements
+
+
+                                      F-4
+
+<page>
+
+
+
+
+ACUNETX, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+FOR YEARS ENDED DECEMBER 31, 2008 AND 2007
+-------------------------------------------------------------------------------------------------------------------
+
+CASH FLOW FROM OPERATING ACTIVITIES:                                                    2008              2007
+                                                                                     ---------         ---------
+  Net loss                                                                           $(715,696)        $(876,778)
+  Adjustments to reconcile net loss to net cash used in operating activities:
+    Minority interest                                                                    4,287           (21,914)
+    Depreciation and amortization                                                        8,807            11,527
+    Issuance stock and stock equity awards for services                                133,053           319,447
+    Provision for bad debt                                                              (3,692)            6,089
+    Amortization of debt discount                                                        3,000             1,375
+    Impairment of goodwill and intangible assets                                            --            10,434
+    Intellectual property write-down                                                    47,249                --
+    Gain on recovery from loan loss                                                       (900)          (24,000)
+    Unrealized gain on trading securities                                              (14,100)               --
+    (Increase) Decrease in:                                                                                   --
+     Accounts receivable                                                               (30,441)           45,278
+     Inventory                                                                         105,259            47,157
+     Prepaid and other assets                                                           21,869            21,377
+    Increase (Decrease) in:
+     Accounts payable and accrued expenses                                             150,396           387,379
+                                                                                     ---------         ---------
+Net cash used in operating activities                                                 (290,909)          (72,629)
+                                                                                     ---------         ---------
+CASH FLOW FROM INVESTING ACTIVITIES:
+  Decrease in restricted cash                                                           59,364                --
+  Capitalized intellectual property                                                    (12,871)          (24,357)
+  Repayment from Notes Receivable                                                           --            24,000
+                                                                                     ---------         ---------
+Net cash provided by (used in) investing activities                                     46,493              (357)
+                                                                                     ---------         ---------
+CASH FLOW FROM FINANCING ACTIVITIES:
+  Net proceeds from sales of common stocks                                              20,050            55,000
+  Repurchase of common stock                                                                --            (7,262)
+  Proceeds from convertible debt                                                        15,000            25,000
+  Repayments on convertible debt                                                       (75,000)               --
+  Proceeds from issuance of long-term debt                                             150,000             3,369
+  Repayments on notes payable                                                          (58,081)             (530)
+                                                                                     ---------         ---------
+Net cash provided by financing activities                                               51,969            75,577
+                                                                                     ---------         ---------
+NET DECREASE IN CASH                                                                  (192,447)            2,592
+
+CASH BALANCE AT BEGINNING OF PERIOD                                                    205,162           202,570
+                                                                                     ---------         ---------
+
+CASH BALANCE AT END OF PERIOD                                                        $  12,715         $ 205,162
+                                                                                     =========         =========
+
+Supplemental Disclosures of Cash Flow Information:
+  Taxes Paid                                                                         $       0         $     800
+  Interest paid                                                                      $  38,884         $  14,982
+
+Schedule of Noncash Investing and Financing Activities:
+  Retirement of common stocks for an equity-method investment                        $       0         $  14,007
+  Conversion of accrued interest into debt principal                                 $       0         $  21,451
+  Issuance of stock options for accrued expenses                                     $   1,036         $      --
+  Issuance of warrants as debt discount                                              $       0         $   7,500
+  Issuance of common stocks for accounts payable                                     $       0         $   4,000
+
+See notes to consolidated financial statements
+
+</TABLE>
+
+                                      F-5
+
+<page>
+
+
+
+
+ACUNETX, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+NOTE 1 - NATURE OF BUSINESS AND CRITICAL ACCOUNTING POLICIES
+
+AcuNetx, Inc., a Nevada corporation, (the "Company" or "AcuNetx", formerly known
+as Eye Dynamics, Inc. or "EDI") and its subsidiaries OrthoNetx Inc. and
+VisioNetx Inc., combine diagnostic, analytical and therapeutic devices with
+proprietary software to permit health providers to diagnose and treat balance
+disorders and various bone deficiencies; law enforcement officers to evaluate
+roadside sobriety; and employers in high-risk industries to determine, in
+real-time, the mental fitness of their employees to perform mission-critical
+tasks. AcuNetx is headquartered in Torrance, California.
+
+AcuNetx is organized around a dedicated medical division (i) IntelliNetx, a
+medical division with neurological diagnostic equipment, and two separate
+subsidiary companies: (ii) OrthoNetx, Inc., a wholly-owned medical subsidiary
+company with devices that create new bone, and (iii) VisioNetx, Inc., a
+majority-owned subsidiary company with products for occupational safety and law
+enforcement. For all its devices, AcuNetx is integrating an information
+technology (IT) platform that allows the device to capture data about the
+physiological condition of a human being. The company's IT platform is designed
+to gather data and connect the device-related data with users and support
+personnel.
+
+AcuNetx products include the followings: (a) Neurological diagnostic equipment
+that measures, tracks and records human eye movements, utilizing the company's
+proprietary technology and computer software, as a method to diagnose problems
+of the vestibular (balance) system and other balance disorders; (b) Devices
+designed to test individuals for impaired performance resulting from the
+influences of alcohol, drugs, illness, stress and other factors that affect eye
+and pupil performance. These products target the occupational safety and law
+enforcement markets; (c) Orthopedic and craniomaxillofacial (skull and jaw)
+surgery products, which generate new bone through the process of distraction
+osteogenesis; and (d) A proprietary information technology system called
+SmartDevice-Connect(TM) ("SDC") that establishes product registry to individual
+patients and tracks device behavior for post-market surveillance, adverse event
+and outcomes reporting, and creates "smart devices" that gather and transmit
+physiological data concerning the device and its interaction with patients.
+
+PRINCIPLE OF CONSOLIDATION AND PRESENTATION: The accompanying consolidated
+financial statements include the accounts of AcuNetx, Inc. and its subsidiaries
+after elimination of all intercompany accounts and transactions. Certain prior
+period balances have been reclassified to conform to the current period
+presentation.
+
+USE OF ESTIMATES: The preparation of the accompanying consolidated financial
+statements in conformity with accounting principles generally accepted in the
+United States (U.S. GAAP) requires management to make certain estimates and
+assumptions that directly affect the results of reported assets, liabilities,
+revenue, and expenses. Actual results may differ from these estimates.
+
+
+
+                                      F-6
+
+<page>
+
+
+
+ACUNETX, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+NOTE 1 - NATURE OF BUSINESS AND CRITICAL ACCOUNTING POLICIES (CONTINUED)
+
+REVENUE RECOGNITION: The Company recognizes revenue from the sale of products,
+and related costs of products sold, where persuasive evidence of an arrangement
+exists, shipment has occurred, the seller's price is fixed or determinable and
+collectibility is reasonably assured.
+
+For its domestic customers, the Company supplies systems through several
+distribution channels; though its IntelliNetx sales group of manufacturer
+representatives and international dealers, its private label distributor,
+MedTrak Technologies, Inc. (Scottsdale, AZ) and its direct sales,
+commission-based, HawkEye(TM) team. Revenue is recognized when products are
+shipped. No provisions were established for estimated product returns and
+allowances based on the Company's historical experience. Price discounts and
+other sales incentives are charged to sales when sales are recognized.
+
+The Company provides repair and maintenance, consulting and education services
+to its customers. Revenue from such services is generally recognized over the
+period during which the service is performed or on a service-performed basis.
+
+The Company evaluated Statement of Position No. 97-2, "SOFTWARE REVENUE
+RECOGNITION" ("SOP 97-2"), but does not expect that SOP 97-2 will have a
+material impact on the Company's financial position, results of operations, or
+cash flows since the Company did not sell, license, lease or market any
+individual computer software. The Company's computer software is included with
+equipment sales and is not sold separately.
+
+ACCOUNTS RECEIVABLE: The Company carries its accounts receivable at cost less an
+allowance for doubtful accounts. On a periodic basis, the Company evaluates its
+accounts receivable and establishes an allowance for doubtful accounts, based on
+the history of past write-offs and collections and current credit conditions. An
+allowance for doubtful accounts of $5,164 and $11,143 has been established for
+the years ended December 31, 2008 and 2007, respectively.
+
+STOCK-BASED COMPENSATION: The Company accounts for its stock options in
+accordance with FASB Statement No.123(R), "SHARE-BASED PAYMENT" (SFAS 123R).
+SFAS 123R requires the recognition of the cost of services received in exchange
+for an award of equity instruments in the financial statements and is measured
+based on the grant date fair value of the award. SFAS 123R also requires the
+stock option compensation expense to be recognized over the period during which
+the recipient is required to provide service in exchange for the award (the
+vesting period).
+
+Stock-based employee compensation incurred for the years ended December 31, 2008
+and 2007, was $167,404 and $253,647, respectively.
+
+The Company accounts for stock issued to non-employees in accordance with the
+provisions of SFAS No. 123R and the EITF Issue No. 00-18, "ACCOUNTING FOR EQUITY
+INSTRUMENTS THAT ARE ISSUED TO OTHER THAN EMPLOYEES FOR ACQUIRING, OR IN
+CONJUNCTION WITH SELLING, GOODS OR SERVICES." SFAS No. 123R states that equity
+instruments that are issued in exchange for the receipt of goods or services
+should be measured at the fair value of the consideration received or the fair
+value of the equity instruments issued, whichever is more reliably measurable.
+Under the guidance in Issue 00-18, the measurement date occurs as of the earlier
+of (a) the date at which a performance commitment is reached or (b) absent a
+performance commitment, the date at which the performance necessary to earn the
+equity instruments is complete (that is, the vesting date).
+
+
+                                      F-7
+
+<page>
+
+
+
+ACUNETX, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+NOTE 1 - NATURE OF BUSINESS AND CRITICAL ACCOUNTING POLICIES (CONTINUED)
+
+CONVERTIBLE PROMISSORY NOTES AND WARRANTS: The Company has evaluated all
+freestanding instruments and embedded features embodied in the Convertible
+Promissory Notes financing arrangement in accordance with current accounting
+standards for complex financing transactions. The following points illustrate
+the key considerations in the Company's evaluation:
+
+o        The terms and features of the Convertible Promissory Notes resulted in
+         the Company's conclusion that the instrument was more akin to a debt
+         security than an equity security. Therefore, embedded features that met
+         the definition of derivative financial features were evaluated for
+         their clear and close relationship with a debt instrument. Significant
+         features included conversion features; redemption features and interest
+         features. While conversion features, such as those included in the
+         Convertible Promissory Notes, are generally not clearly and closely
+         related to debt instruments, the Company was afforded the "Conventional
+         Convertible" exemption from derivative accounting. While redemption
+         features and interest features are generally considered clearly and
+         closely related to debt instruments, the Company was also afforded the
+         "Conventional Convertible" exemption from derivative accounting.
+
+o        The terms and features of the freestanding warrants were evaluated
+         under the guidance for equity classification set forth in EITF 00-19,
+         "ACCOUNTING FOR DERIVATIVE FINANCIAL INSTRUMENTS INDEXED TO A COMPANY'S
+         OWN STOCK" and EITF 05-04, "THE EFFECT OF A LIQUIDATING DAMAGES CLAUSE
+         ON A FREESTANDING FINANCIAL INSTRUMENT SUBJECT TO EITF 00-19." As a
+         result, the Company concluded that the warrants did not rise to an
+         uneconomic settlement. In addition, all other indicators of equity
+         provided in EITF 00-19 were present. Therefore, the warrants were
+         afforded equity classification.
+
+NET INCOME PER SHARE: Basic net income per share includes no dilution and is
+computed by dividing net income available to common stockholders by the weighted
+average number of common stock outstanding for the period. Diluted net income
+per share is computed by dividing net income by the weighted average number of
+common shares and the dilutive potential common shares outstanding during the
+period. Diluted net loss per common share is computed by dividing net loss by
+the weighted average number of common shares and excludes dilutive potential
+common shares outstanding, as their effective is anti-dilutive. Dilutive
+potential common shares consist primarily of employee stock options, stock
+warrants and shares issuable under convertible debt.
+
+FAIR VALUE MEASUREMENTS: On January 1, 2008, the Company adopted the provision
+of SFAS No. 157, "FAIR VALUE MEASUREMENTS," except as it applies to those
+nonfinancial assets and nonfinancial liabilities for which the effective date
+ahs been delayed by one year. The Company measures at fair value certain
+financial assets and liabilities, including its marketable securities trading
+
+SFAS No. 157 establishes a fair value hierarchy that prioritizes the inputs to
+valuation techniques used to measure fair value. The hierarchy gives the highest
+priority to unadjusted quoted prices in active markets for identical assets or
+liabilities (Level 1 measurements) and the lowest priority to unobservable
+inputs (Level 3 measurements). The three levels of the fair value hierarchy
+under SFAS No. 157 are described below:
+
+
+                                      F-8
+
+<page>
+
+
+
+ACUNETX, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+NOTE 1 - NATURE OF BUSINESS AND CRITICAL ACCOUNTING POLICIES (CONTINUED)
+
+o        Level 1 Unadjusted quoted prices in active markets that are accessible
+         at the measurement date for identical, unrestricted assets or
+         liabilities;
+
+o        Level 2 Quoted prices in markets that are not active, or inputs that
+         are observable, either directly or indirectly, for substantially the
+         full term of the asset or liability;
+
+o        Level 3 Prices or valuation techniques that require inputs that are
+         both significant to the fair value measurement and unobservable
+         (supported by little or no market activity).
+
+                           Fair Value Measurements as of December 31, 2008
+                            ---------------------------------------------
+
+                              TOTAL      LEVEL 1      LEVEL 2     LEVEL 3
+                              -----      -------      -------     -------
+Marketable securities
+   Trading                  $15,000      $15,000           $0          $0
+                            =======      =======           ==          ==
+
+The adoption of SFAS 157 did not have a material effect on the Company's
+financial position or results of operations.
+
+OTHER SIGNIFICANT ACCOUNTING POLICIES:
+CASH EQUIVALENTS: For purposes of the statements of cash flows, the Company
+considers all highly liquid debt instruments with an original maturity of three
+months or less to be cash equivalents.
+
+CONCENTRATIONS OF CREDIT RISK: Financial instruments which potentially subject
+the Company to concentrations of credit risk consist principally of temporary
+cash investments. The Company places its cash with high quality financial
+institutions and limits its credit exposure with any one financial institution.
+At times, the Company's bank account balances may exceed federally insured
+limits.
+
+FAIR VALUE OF FINANCIAL INSTRUMENTS: The carrying amounts of the financial
+instruments have been estimated by management to approximate fair value.
+
+INVENTORIES: Costs incurred for materials, technology and shipping are
+capitalized as inventories and charged to cost of sales when revenue is
+recognized. Inventories consist of finished goods and are stated at the lower of
+cost or market, using the first-in, first-out method. A provision is provided
+for slow-moving facial bone devices and demo units.
+
+PROPERTY AND EQUIPMENT: Property and Equipment are valued at cost. Maintenance
+and repair costs are charged to expenses as incurred. Depreciation is computed
+on the straight-line method based on the following estimated useful lives of the
+assets: 3 years for computer software, 5 to 7 years for computer and office
+equipment, and 7 years for furniture and fixtures. Depreciation expense was
+$7,709 and $11,527 for 2008 and 2007, respectively.
+
+
+                                      F-9
+
+<page>
+
+
+
+
+ACUNETX, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+NOTE 1 - NATURE OF BUSINESS AND CRITICAL ACCOUNTING POLICIES (CONTINUED)
+
+OTHER INTANGIBLE ASSETS: Other intangible assets consist primarily of
+intellectual property and trademarks. The Company capitalizes intellectual
+property costs as incurred, excluding costs associated with Company personnel,
+relating to patenting its technology. The majority of capitalized costs
+represent legal fees related to patent applications. If the Company elects to
+stop pursuing a particular patent application or determines that a patent
+application is not likely to be awarded or elects to discontinue payment of
+required maintenance fees for a particular patent, the Company, at that time,
+records as expense the capitalized amount of such patent application or patent.
+Awarded patents will be amortized over the shorter of the economic or legal life
+of the patent. Trademarks are not amortized, but rather are tested for
+impairment at least annually.
+
+There was no impairment of other intangible assets for the year ended December
+31, 2008. In December of 2007, the Company stopped paying for certain AcuNetx
+graphic art trademark maintenance fees. As a result, the Company conducted an
+impairment evaluation, which resulted in a $10,072 impairment charge to these
+trademarks, classified in the caption "selling, general and administrative
+expenses".
+
+GOODWILL: The Company accounts for Goodwill and Intangible Assets in accordance
+with SFAS No. 141, "BUSINESS COMBINATIONS" and SFAS No. 142, "GOODWILL AND OTHER
+INTANGIBLE ASSETS." Under SFAS No. 142, goodwill and intangibles that are deemed
+to have indefinite lives are no longer amortized but, instead, are to be
+reviewed at least annually for impairment. Application of the goodwill
+impairment test requires judgment, including the identification of reporting
+units, assigning assets and liabilities to reporting units, assigning goodwill
+to reporting units, and determining the fair value. Significant judgments
+required to estimate the fair value of reporting units include estimating future
+cash flows, determining appropriate discount rates and other assumptions.
+Changes in these estimates and assumptions could materially affect the
+determination of the fair value and/or goodwill impairment for each reporting
+unit.
+
+INCOME TAXES: Income tax expense is based on pretax financial accounting income.
+Deferred tax assets and liabilities are recognized for the expected tax
+consequences of temporary differences between the tax bases of assets and
+liabilities and their reported amounts. Valuation allowances are recorded to
+reduce deferred tax assets to the amount that will more likely than not be
+realized.
+
+ADVERTISING COSTS: The Company uses advertising and marketing to promote its
+product lines. These costs are expensed when time the advertising or marketing
+takes place. Expenses were $0 and $8,717 for 2008 and 2007, respectively.
+
+SHIPPING AND HANDLING COSTS: The Company historically has included inbound
+shipping charges in cost of sales and classified outbound shipping charges as
+operating expenses. For the years ended December 31, 2008 and 2008, the outbound
+shipping charges included in operating expenses were $22,271 and $36,897,
+respectively.
+
+
+                                      F-10
+
+<page>
+
+
+ACUNETX, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+NOTE 1 - NATURE OF BUSINESS AND CRITICAL ACCOUNTING POLICIES (CONTINUED)
+
+RESEARCH AND DEVELOPMENT COSTS: Research and development costs are expensed as
+incurred and consist primarily of product development costs. Financial
+accounting standards require the capitalization of certain development costs
+after technological feasibility of the product is established. In the
+development of the Company's new products and enhancements to existing products,
+technological feasibility is not established until substantially all product
+development is complete. As a result, product development costs that are
+eligible for capitalization are considered insignificant and are charged to
+research and development expense. During the years ended December 31, 2008 and
+2007, the corporation incurred no research and development costs.
+
+MINORITY INTEREST (DEFICIT): Minority interest (deficit) represents other
+stockholders' proportionate share in the equity (deficit) of VisioNetx, Inc. At
+December 31, 2008, the Company owned approximately 74% of the issued and
+outstanding common stocks in VisioNetx, Inc.
+
+NEW ACCOUNTING PRONOUNCEMENTS: In March 2008, the Financial Accounting Standards
+Board ("FASB") issued Statement of Financial Accounting Standards (SFAS) No.
+161, "DISCLOSURES ABOUT DERIVATIVE INSTRUMENTS AND HEDGING Activities" ("SFAS
+161"). SFAS 161 is intended to improve financial reporting about derivative
+instruments and hedging activities by requiring companies to enhance disclosure
+about how these instruments and activities affect their financial position,
+performance and cash flows. SFAS 161 also improves the transparency about the
+location and amounts of derivative instruments in a company's financial
+statements and how they are accounted for under SFAS 133. SFAS 161 is effective
+for financial statements issued for fiscal years beginning after November 15,
+2008 and interim periods beginning after that date. As such, the Company is
+required to adopt these provisions beginning the quarter ending in February
+2009. The Company does not expect the adoption of SFAS No. 161 will have a
+material impact on its financial condition or results of operation.
+
+In May 2008, the FASB issued SFAS No. 162, "THE HIERARCHY OF GENERALLY ACCEPTED
+ACCOUNTING PRINCIPLES." SFAS No. 162 identifies the sources of accounting
+principles and the framework for selecting the principles used in the
+preparation of financial statements of non-governmental entities that are
+presented in conformity with generally accepted accounting principles in the
+United States of America. SFAS No. 162 will be effective 60 days after the
+Securities and Exchange Commission approves the Public Company Accounting
+Oversight Board's amendments to AU Section 411. The Company does not anticipate
+the adoption of SFAS No. 162 will have an impact on its consolidated financial
+statements.
+
+
+                                      F-11
+
+<page>
+
+
+ACUNETX, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+NOTE 1 - NATURE OF BUSINESS AND CRITICAL ACCOUNTING POLICIES (CONTINUED)
+
+In June 2008, the FASB issued FASB SP EITF 03-6-1, "DETERMINING WHETHER
+INSTRUMENTS GRANTED IN SHARE-BASED PAYMENT TRANSACTIONS ARE PARTICIPATING
+SECURITIES." SP EITF 03-6-1 addresses whether instruments granted in share-based
+payment transactions are participating securities prior to vesting, and
+therefore need to be included in the computation of earnings per share under the
+two-class method as described in SFAS No. 128, "Earnings per Share." SP EITF
+03-6-1 is effective for financial statements issued for fiscal years beginning
+on or after December 15, 2008 and earlier adoption is prohibited. The Company is
+required to adopt SP EITF 03-6-1 in the first quarter of 2009 and is currently
+evaluating the impact that SP EITF 03-6-1 will have on its financial statements.
+
+In December 2007, the FASB issued SFAS No. 160, "NONCONTROLLING INTEREST IN
+CONSOLIDATED FINANCIAL STATEMENTS - AN AMENDMENT OF ARB NO. 51." SFAS 160
+clarifies the accounting for noncontrolling or minority interests. This
+statement requires expanded disclosures in the consolidated financial statements
+that clearly identify and distinguish between the interests of the parent's
+owners and interests of the noncontrolling owners of a subsidiary. Those
+expanded disclosures include a reconciliation of the beginning and ending
+balances of the equity attributable to the parent and the noncontrolling owners
+and a schedule showing the effects of changes in a parent's ownership interest
+in a subsidiary on the equity attributable to the parent. The provisions of SFAS
+160 are effective for fiscal years beginning after December 15, 2008. The
+Company is currently evaluating the impact of the adoption of SFAS 160 on its
+consolidated financial statements.
+
+In December 2007, the FASB issued SFAS No. 141 (revised 2007), "BUSINESS
+COMBINATIONS" ("SFAS 141(R)"). SFAS No. 141(R) will replace SFAS No. 141, and
+establishes principles and requirements for how the acquirer in a business
+combination recognizes and measures in its financial statements the identifiable
+assets acquired, the liabilities assumed and any noncontrolling interest in the
+acquire; recognizes and measures the goodwill acquired in the business
+combination or gain from a bargain purchase; and determines what information to
+disclose to enable users of the financial statements to evaluate the nature and
+financial effects of the business combination. SFAS No. 141(R) applies
+prospectively to business combinations for which the acquisition date is on or
+after the beginning of the first annual reporting period beginning on or after
+December 15, 2008. Currently, the Company does not anticipate that this
+statement will have a significant impact on its consolidated financial
+statements.
+
+
+                                      F-12
+
+<page>
+
+
+
+ACUNETX, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+NOTE 2 - GOING CONCERN
+
+The Company's consolidated financial statements have been prepared on a going
+concern basis, which contemplates the realization of assets and the settlement
+of liabilities and commitments in the normal course of business.
+
+As indicated in the accompanying consolidated financial statements, the Company
+incurred operating losses totaling $715,696 and $876,778 for the years ended
+December 31, 2008 and 2007, respectively. In addition, the Company has a working
+capital deficit of $1,292,688 and an accumulated deficit of $12,457,279 as of
+December 31, 2008. Total liabilities exceeded total assets by $1,103,642. In the
+near term, the Company expects the operating cash flows will not be sufficient
+to cover all the old debt and payables.
+
+Management of the Company plans to cover current operating costs and to reduce
+the working capital deficit through sales growth, cost reduction and equity
+financing. In addition, VisioNetx, Inc. is recruiting senior management and is
+seeking funding that will allow it to move forward with its marketing and sales
+efforts. During 2008, the Company and VisioNetx, Inc. raised a total sum of
+$185,050 through issuing debt and selling its common stocks.
+
+The ability of the Company to continue as a going concern is dependent on its
+ability to meet its financing requirements and the success of its future
+operations. The consolidated financial statements do not include any adjustments
+that might be necessary if the Company is unable to continue as a going concern.
+
+
+                                      F-13
+
+<page>
+
+
+
+ACUNETX, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+NOTE 3 - BALANCE SHEET DETAILS
+The following tables provide details of selected balance sheet items:
+
+ ACCOUNTS RECEIVABLE, NET                       DECEMBER 31,       DECEMBER 31,
+                                                   2008               2007
+                                                 ---------         ---------
+Accounts Receivable                              $  84,331         $  56,177
+Allowance for Bad Debt                              (5,164)          (11,143)
+                                                 ---------         ---------
+  Total Accounts Receivable, Net                 $  79,167         $  45,034
+                                                 =========         =========
+
+INVENTORY
+Finished Goods                                   $  46,316         $ 170,697
+Demo units                                          72,754            85,206
+Allowance for loss in inventory                    (20,050)          (51,624)
+                                                 ---------         ---------
+  Total Inventory                                $  99,020         $ 204,279
+                                                 =========         =========
+
+PREPAID EXPENSES AND OTHER CURRENT ASSETS
+Prepaid Insurance                                $   4,042         $  23,038
+Prepaid rent and deposit                                --             2,065
+Employee Advance                                     6,058             3,415
+Other Prepaid Expenses                              41,716            45,167
+                                                 ---------         ---------
+  Total Prepaids and Others                      $  51,816         $  73,685
+                                                 =========         =========
+
+PROPERTY AND EQUIPMENT, NET
+Furniture and Fixtures                           $   9,531         $   9,531
+Equipment                                           40,530            40,530
+Software                                             5,757             5,757
+                                                 ---------         ---------
+                                                    55,818            55,818
+Accumulated Depreciation                           (45,463)          (37,754)
+                                                 ---------         ---------
+  Total Property and Equipment, Net              $  10,355         $  18,064
+                                                 =========         =========
+
+ACCRUED LIABILITIES
+Warranty reserve                                 $   3,045         $  11,339
+Accrued payroll and related taxes                   67,081           120,887
+Accrued consulting fees                            259,692           254,967
+Commissions payable                                  7,596                --
+Deferred Revenues                                   14,016                --
+Accrued vacation                                    58,502            18,072
+Accrued professional fees                          171,136           136,413
+Related party payable                                  (10)           42,165
+Other accrued liabilities                          328,450           210,914
+                                                 ---------         ---------
+  Total Accrued Liabilities                      $ 909,508         $ 794,757
+                                                 =========         =========
+
+                                      F-14
+
+<page>
+
+
+
+ACUNETX, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+NOTE 4 - IMPAIRMENT OF GOODWILL
+The Company recorded $4,823,500 of goodwill in connection with its acquisition
+of OrthoNetx in 2005. The amount that the Company recorded in connection with
+this acquisition was determined by comparing the aggregate amounts of the
+respective purchase price plus related transaction costs to the fair values of
+the net tangible and identifiable intangible assets acquired for the business
+acquired.
+
+As of December 31, 2007, the goodwill was determined not recoverable, and fully
+impaired.
+
+NOTE 5 - OTHER INTANGIBLE ASSETS
+
+The Company capitalizes intellectual property costs as incurred, excluding costs
+associated with Company personnel, relating to patenting its technology. The
+majority of capitalized costs represent legal fees related to patent
+applications. Awarded patents will be amortized over the shorter of the economic
+or legal life of the patent.
+
+In December 2007, two intellectual properties were awarded. These two patents
+are amortized using the straight-line method over 20 years commencing January 1,
+2008.
+
+The Company's intangible assets consisted of the following at December 31, 2008
+and 2007:
+
+                                       2008              2007
+                                     ---------         ---------
+Pending Intellectual Property        $  94,140         $ 128,518
+Awarded patents                         21,954            21,954
+Accumulated amortization                (1,098)               --
+                                     ---------         ---------
+ Other Intangible Assets, Net        $ 114,996         $ 150,472
+                                     =========         =========
+
+Future amortization expense as of December 31, 2008 was as follows:
+
+Years ended December 31,
+------------------------
+         2009              $ 1,098
+         2010                1,098
+         2011                1,098
+         2012                1,098
+2013 and over               17,562
+                           -------
+Total                      $21,954
+                           =======
+
+                                      F-15
+
+<page>
+
+
+
+ACUNETX, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+NOTE 6 - SALES OF INVESTMENTS
+On March 28, 2007, the Company entered into an agreement to exchange the shares
+of common stock it holds in High Precision Devices, Inc. ("HPD"), a privately
+held Colorado corporation, for all the common stock of the Company held by HPD,
+which were 483,100 shares. The market value of the shares returned to the
+Company at closing was $14,007, which was equal to the carrying value.
+Accordingly, the Company did not recognize any gain or loss on this transaction.
+The returned shares were retired at March 31, 2007.
+
+NOTE 7 - SETTLEMENT ON NOTES RECEIVABLE
+
+In March 2007, the Company entered into a settlement agreement with a former
+employee who created indebtedness to the Company of $49,489 in 2001 to 2004 and
+had agreed to a Note Receivable (Receivable). The employee had been in default
+on payments on this Receivable, which was fully reserved in 2004. The agreement
+calls for the former employee to repay the Company $55,000 at a rate of $4,000
+per month beginning in April 2007. The Company had collected $24,000 in 2007 and
+none in 2008. In May 2008, the Company received 1,000,000 shares of Preferred
+Stock of a publicly-traded company which was provided as a security in the
+agreement. The shares are classified as trading securities, of which the shares
+were reported in the balance sheet at fair value with realized and unrealized
+gains and losses included in current period operations. The fair market value at
+the time of collection was $900. An unrealized gain of $14,100 was recorded at
+December 31, 2008.
+
+NOTE 8 - BORROWINGS
+
+LONG-TERM DEBT
+
+<TABLE>
+<CAPTION>
+<S>     <C>
+At December 31,                                                                             2008              2007
+---------------------------------------------------------------------------------------------------------------------
+ Installment note payable secured by computer equipment. Monthly payments total
+ $81, including interest at 18.99%. The original note amount was $2,062. Matures
+July 21, 2009.                                                                            $     783         $   1,298
+
+ Reconstructed note payable to related party. Monthly interest payment only at 13%
+ through January 31. 2008. Effective February 1, 2008, principal and interest
+ payment based on a 36-month amortization. Matures August 1, 2009 (a)                       210,985           268,551
+
+ Secured note payable to a customer. Monthly interest payment only at 10%. A
+ balloon payment due on April 1, 2011. (b)                                                   150,000                --
+                                                                                          ---------         ---------
+                                                                                            361,768           269,849
+ Less: Current Maturities                                                                  (211,768)          (72,019)
+                                                                                          ---------         ---------
+         Long-term debt                                                                   $ 150,000         $ 197,830
+                                                                                          ---------         ---------
+</TABLE>
+
+
+                                      F-16
+
+<page>
+
+
+ACUNETX, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+NOTE 8 - BORROWINGS (CONTINUED)
+
+(a)      On June 30, 2007, the Company entered into an Agreement for Extension
+         and Amendment of a Note ("Agreement") with a related party. Under the
+         Agreement, the Company's subsidiary, OrthoNetx, Inc. executed an
+         Amended and Extended Promissory Note in favor of a related party, in
+         the principal amount of $268,551. The new note replaces a promissory
+         note issued by OrthoNetx, Inc. on January 30, 2005 in the original
+         amount of $300,000. The new note bears interest at 13% per annum, and
+         provides for payments of interest that commenced on August1, 2007.
+         Payments of principal and interest commenced on February 1, 2008, based
+         on a 36-month amortization schedule. All principal and interest is due
+         on August 1, 2009. As of December 31, 2008, the Company was in arrear
+         of two monthly payments, aggregated to $18,097. Under the Agreement,
+         the Company entered into a Commercial Guaranty, under which it
+         guaranteed payment of the note. Also, the related party entered into a
+         termination of guaranty to release the former CEO from his guaranty of
+         the original note.
+
+(b)      The Note provides that if, on the second anniversary of the date of the
+         Note, AcuNetx has not set aside at least $100,000 for repayment of the
+         Note upon maturity, the principal of S&S has the right to compel
+         AcuNetx to conduct a private offering to raise the funds necessary to
+         repay the Note. The Note also provides that if AcuNetx is unable to pay
+         the balance at maturity, S&S is entitled to a penalty equal to 10% of
+         the principal balance of the Note, payable monthly until fully paid. As
+         of December 31, 2008, no fund was set aside.
+
+The following is a schedule of the maturities of long-term debt:
+
+Years ended December 31,
+------------------------
+2009                          $   211,768
+2010                                   --
+2011                              150,000
+                               ----------
+                              $   361,768
+                              ===========
+
+SERIES A CONVERTIBLE PROMISSORY NOTE
+On May 21, 2007, VisioNetx Inc. conducted a private placement offering to sell
+and issue convertible notes and detachable warrants up to $500,000. The offering
+price is $50,000 per unit, each unit consisting of a convertible debenture in
+the amount of $50,000 and a detachable warrant to purchase shares of VisioNetx
+common stock. The note bears interest payable annually at 10% per annum, and is
+due the earlier of (i) December 31, 2010 or (ii) two years from the closing date
+of a minimum of $300,000 of units were sold. In the event that VisioNetx (i)
+issues and sells its common stock for aggregate consideration of at least $3.5
+million ("Qualified Financing") and (ii) the note has not been paid in full,
+then the entire outstanding principal and all unpaid accrued interest of the
+note shall automatically convert into shares of VisioNetx under the same terms
+and conditions as those for investors in the Qualified Financing. Subscribers to
+this offering will receive a warrant to purchase VisioNetx shares equal to a
+150% of the common stock to be issued to investors in the Qualified Financing.
+The warrants expire in seven years after the date of issuance.
+
+
+                                      F-17
+
+<page>
+
+
+ACUNETX, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+-------------------------------------------------------------------------------
+
+NOTE 8 - BORROWINGS (CONTINUED)
+
+The offering was closed on September 14, 2007. Through that date, VisioNetx had
+sold one half of a unit and received $25,000 in proceeds. In consideration for
+the release of the funds from escrow for the Company's working capital needs,
+VisioNetx agreed to issue to the subscriber an additional warrant, with the same
+terms and conditions as the previously issued warrant for an additional 50% of
+the common stock to be issued to investors in a Qualified Financing.
+
+The Company allocated the proceeds between the convertible note ($17,500) and
+the warrants ($7,500) based on the management's subjective judgment as the
+exercise price of the warrants and the conversion feature of the note were not
+determinable. The warrants were classified as a component of equity and charged
+against the note as a debt discount which will be amortized over the life of the
+note using the effective interest method.
+
+CONVERTIBLE PROMISSORY NOTES
+On November 9, 2007, VisioNetx Inc. initiated a private placement offering to
+sell and issue convertible notes for up to $750,000. The offering price is
+$50,000 per unit consisting of a convertible debenture in the amount of $50,000
+which has underlying warrants. The notes bear interest payable annually at 8%
+per annum, and are due the earlier of (i) eighteen months from the date of issue
+or (ii) upon completion of a financing of New Securities, as defined, of at
+least $2.0 million ("Qualified Financing"). Upon completion of a Qualified
+Financing the note holder shall convert the principal and interest of this note
+into the New Securities. Also upon conversion of the note, the note holder shall
+received warrants to purchase up to 100% of the number of New Securities to be
+issued. The warrants are exercisable for five (5) years.
+
+Upon completion of a Qualified Offering, the Company may redeem the notes for a
+cash payment equal to the note amount plus any accrued, but unpaid interest.
+However, upon completion of a Qualified Offering and election to redeem the
+notes, the note holder will be given 30 days notice to elect to either receive
+the proceeds of the redemption (and receive the underlying warrants) or convert
+the notes into New Securities subject to the terms of the Qualified Offering.
+
+Through September 2008, the Company had received $90,000 in proceeds from this
+offering and had deposited these funds in a restricted cash account. Under the
+terms of this offering, proceeds from the offering would have been available for
+use by the Company upon receipt of at least $300,000. In October 2008, VisioNetx
+decided to close the offering and returned $75,000 plus interest to two of the
+investors.
+<TABLE>
+<CAPTION>
+<S>     <C>
+
+                                                                             December 31,      December 31
+                                                                                2008              2007
+                                                                              ---------         ---------
+10% Series A Convertible Promissory Note, matures on December 31, 2010        $  25,000         $  25,000
+
+8% Convertible Promissory Notes, matures commencing May 18, 2009                 15,000            75,000
+                                                                              ---------         ---------
+                                                                                 40,000           100,000
+Less: Unamortized debt discount                                                  (3,124)           (6,124)
+                                                                              ---------         ---------
+Convertible debt, net                                                         $  36,876         $  93,876
+                                                                              ---------         ---------
+</TABLE>
+
+
+                                      F-18
+
+<page>
+
+
+ACUNETX, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+NOTE 9 - INCOME TAXES
+Provision for income taxes consisted of a minimum state franchise tax of $800
+for years ended December 31, 2008 and 2007. The provision for income taxes
+differs from the amount computed by applying the federal statutory rate to the
+income tax expense (benefit) at the effective rate is as follows:
+
+For years ended December 31,                         2008            2007
+                                                   ---------      ---------
+Income tax expense (benefit) at statutory rate     $(241,607)     $(282,579)
+State tax expense, net of federal benefit               (272)          (272)
+Nondeductible deferred stock services                 45,238         94,842
+NOL Carryforwards                                         --             --
+Others                                                   818          1,879
+Valuation Allowance                                  196,623        186,930
+                                                   ---------      ---------
+  Provision of income tax (benefit)                $     800      $     800
+                                                   =========      =========
+
+
+The components of the deferred net tax assets are as follows:
+
+ At December 31,                        2008              2007
+                                     -----------      -----------
+Net Operating Loss Carryforwards     $ 3,019,283      $ 2,586,715
+Property and equipment                    (1,130)            (824)
+Accruals and reserves                  2,272,997        2,335,252
+Other                                        239              547
+Valuation Allowance                   (5,070,754)      (4,701,055)
+                                     -----------      -----------
+Net deferred tax assets              $   220,635      $   220,635
+                                     ===========      ===========
+
+The Company had removed the valuation allowance as of December 31, 2003 because
+it believed it was more likely than not that all deferred tax assets would be
+realized in the foreseeable future and was reflected as a credit to operations.
+However, as of December 31, 2005, the Company's ability to utilize its federal
+net operating loss carryforwards is uncertain due to the net loss of the year
+and the merger with OrthoNetx which has net operating loss carryforwards
+approximately of $1.7 million, as of that date, and thus a valuation reserve has
+been provided against the Company's net deferred tax assets.
+
+As of December 31, 2008, the Company has net operating loss carryforwards of
+approximately, $7,500,000 and $5,800,000 to reduce future federal and state
+taxable income, respectively. To the extent not utilized, the federal net
+operating loss carryforwards will begin to expire in fiscal 2009 and the state
+net operating loss carryforwards will begin to expire in fiscal 2012.
+
+
+                                      F-19
+
+<page>
+
+
+
+ACUNETX, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+-------------------------------------------------------------------------------
+
+NOTE 10 - STOCKHOLDERS' EQUITY
+
+STOCK COMPENSATION
+
+On July 17, 2008, the Compensation Committee approved the issuance of 1,000,000
+shares of common stock to the interim Chief Executive Officer as a signing
+bonus. The shares are vested ratably over the remaining periods in 2008. The
+shares were valued at quoted market price on the grant date and are amortized
+over the vesting period. The stocks will be issued in 2009.
+
+SALES OF COMMON STOCKS
+
+In May, 2008, the Company sold 71,429 equity units, consisting of 71,429 shares
+of common stock and warrants, and received $5,000 in gross proceeds under the
+April 2008 self-underwritten offering.
+
+In February, 2008, the Company sold 215,000 equity units, consisting of 215,000
+shares of common stock and warrants, and received $15,050 in gross proceeds
+under the May 2007 self-underwritten offering.
+
+In July 2007, pursuant to the terms in the investment agreement, the Company
+resolved to issue additional 2,164,286 shares of the common stock to the
+investors who subscribed to the Company shares in October 2006. In addition, the
+Company cancelled all the warrant agreements that were attached in lieu of the
+shares sold and reissued new warrant agreements to those investors. The new
+warrant agreements reduced the exercise price from $0.20 per share to $0.10 per
+share and revised the expiration date to July 11, 2009. COMMON STOCK RETIREMENT
+On April 17, 2007, the Company repurchased and retired 580,978 shares of its
+common Stock. The shares were purchased from a single shareholder in a privately
+negotiated transaction at $0.0125 per share for a total repurchase price of
+$7,262.
+
+In March 2007 the Company retired 483,100 shares of its common stock to rescind
+an equity-method investment. The market value of the shares returned to the
+Company at closing was equal to the carrying value. Accordingly, the Company did
+not recognize any gain or loss on this transaction.
+
+SUBSIDIARY STOCK TRANSACTIONS
+
+In 2007, VisioNetx agreed to issue 650,000 shares at a fair value of $0.10 per
+share to certain executives. The shares were not to be issued until the first
+equity financing was obtained. The aggregate amount of $65,000 was accrued and
+classified as an equity component. In December 2008, the VisioNetx's Board of
+Directors agreed to modify the terms and issued the shares; as a result, the
+aggregate fair value of these shares was reduced to $650. VisioNetx recorded a
+credit of $92,556, including the accrued payroll taxes of $28,206 against the
+compensation expense.
+
+
+
+                                      F-20
+
+<page>
+
+
+
+ACUNETX, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+NOTE 10 - STOCKHOLDERS' EQUITY (CONTINUED)
+
+The Company complies with the requirement of SEC Staff Accounting Bulletin No.
+51, "Accounting for Sales of Stock by a Subsidiary," which requires that the
+difference between the carrying amount of parent's investment in a subsidiary
+and the underlying net book value of the subsidiary after the issuance of stock
+by the subsidiary be reflected as either a gain or loss in the statement of
+operations or reflected as an equity transaction. The Company has elected to
+record gains or losses resulting from the issuance of subsidiary's stock as
+equity transactions.
+
+NOTE 11 - STOCKS OPTIONS AND WARRANTS
+
+STOCK OPTIONS
+
+On March 27, 2006, the Board of Directors approved and adopted the 2006 Stock
+Incentive Plan to provide for the issuance of incentive stock options and/or
+nonstatutory options to all employees and nonstatutory options to consultants
+and other service providers. Generally, all options granted to employees and
+consultants expire in three to ten years from the date of grant. All options
+have an exercise price equal to or higher than the fair market value of the
+Company's stock on the date the options were issued. It is the policy of the
+Company to issue new shares for stock option exercised and restricted stock,
+rather than issue treasury shares. Options generally vest immediately or over a
+three year period. The plan reserves 14 million shares of common stock under the
+Plan and shall be effective through December 31, 2015.
+
+A summary of the status of stock options issued by the Company as of December
+31, 2008 and 2007 is presented in the following table.
+
+<TABLE>
+<CAPTION>
+<S>     <C>
+
+                                                             2008                                2007
+                                               ----------------------------------- ---------------------------------
+                                                                     Weighted                            Weighted
+                                                    Number           Average               Number         Average
+                                                      of             Exercise                of          Exercise
+                                                    Shares            Price                Shares          Price
+                                               ----------------------------------- ---------------------------------
+Outstanding at beginning of year                  5,525,768            $0.15              7,309,102       $0.21
+Granted                                           6,082,400            $0.05              2,425,000       $0.08
+Expired/Cancelled                                (1,790,000)           $0.06             (4,208,334)      $0.21
+Expired and Cancelled                                    --            $0.00                     --       $0.00
+                                                 ----------                              ----------
+Outstanding at end of period                      9,818,168            $0.11              5,525,768       $0.15
+                                                 ==========                              ==========
+
+Exercisable at end of year                        8,526,501            $0.12              2,525,768       $0.15
+                                                 ==========                              ==========
+</TABLE>
+
+The fair value of each stock option granted is estimated on the date of grant
+using the Black-Scholes Merton option valuation model. The assumptions are
+listed in the table below. Expected volatilities are based on the historical
+volatility of the Company's stock. The risk-free rate for periods within the
+expected life of the option is based on the U.S. Treasury yield curve in effect
+at the time of grant.
+
+                                                        2008         2007
+                                                   -----------  ------------
+Weighted average fair value per option granted     $     0.05   $     0.07
+Risk-free interest rate                                  3.25%        4.19%
+Expected dividend yield                                  0.00%        0.00%
+Expected lives                                           5.00         5.00
+Expected volatility                                    130.19%      126.12%
+
+
+
+                                      F-21
+
+<page>
+
+
+ACUNETX, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+NOTE 11 - STOCKS OPTIONS AND WARRANTS (CONTINUED)
+
+As of December 31, 2008 there was $30,150 of total unrecognized compensation
+cost related to nonvested share-based compensation arrangements granted under
+the plans. That cost is expected to be recognized over a weighted average period
+of 1.38 years.
+
+For the years ended December 31, 2008 and 2007, the Company recognized pre-tax
+stock option compensation expense of $159,143 and $246,649, respectively.
+
+The following table sets forth additional information about stock options
+outstanding at December 31, 2008:
+
+
+STOCK WARRANTS
+
+As of December 31, 2008 and 2007, the Company had 8,720,001 and 12,083,336
+outstanding warrants, respectively. The warrants allow for the purchase of
+common stock at pricing ranging from $0.10 to $2.00 per share.
+
+In December 2007, the Board approved to extend 3,333,340 warrants attached in
+lieu of stocks sold between 2005 and 2006 for one year to December 22, 2008 and
+reduced exercised price from $0.33 per share to $0.165 per share. The
+modification had no significant impact on the Company's net loss.
+
+VISIONETX, INC.
+
+On August 16, 2007, the shareholders of VisioNetx, Inc. approved the adoption of
+the 2007 Stock Incentive Plan to provide for the issuance of incentive stock
+options and/or non-statutory options to officers, directors, employees, and
+consultants who provide services to VisioNetx. All options have an exercise
+price equal to or higher than the fair market value of VisioNetx common stock on
+the date the options were granted. Options generally vest over three years and
+exercisable for ten years from the date of grant. The plan reserves 1 million
+shares of common stock.
+
+
+
+                                      F-22
+
+<page>
+
+
+ACUNETX, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+NOTE 11 - STOCKS OPTIONS AND WARRANTS (CONTINUED)
+
+A summary of the status of stock options issued by VisioNetx as of December 31,
+2008 is presented in the following table.
+
+<TABLE>
+<CAPTION>
+<S>     <C>
+
+                                            2008                       2007
+                                    --------------------------------------------------
+                                                   Weighted                  Weighted
+                                       Number      Average      Number        Average
+                                         of        Exercise       of         Exercise
+                                       Shares       Price       Shares         Price
+                                    ------------------------   -----------------------
+Outstanding at beginning of year      479,500      $   0.10           --     $   0.00
+Granted                                96,000      $   0.10      479,500     $   0.10
+Expired/Cancelled                    (150,000)     $   0.00           --     $   0.00
+Expired and Cancelled                      --      $   0.00           --     $   0.00
+                                     --------                   --------
+Outstanding at end of period          425,500      $   0.10      479,500     $   0.10
+                                    =========                   ========
+
+Exercisable at end of period          311,970      $   0.10      157,278     $   0.10
+                                   ==========                   ========
+</TABLE>
+
+
+The fair value of each stock option granted is estimated on the date of grant
+using the Black-Scholes Merton option valuation model. The assumptions are
+listed in the table below. Expected volatilities are based on the historical
+volatility of the AcuNetx's stock. The risk-free rate for periods within the
+expected life of the option is based on the U.S. Treasury yield curve in effect
+at the time of grant.
+
+                                                      2008         2007
+                                                   ----------   ----------
+Weighted average fair value per option granted     $     0.04   $     0.05
+Risk-free interest rate                                  3.45%        4.51%
+Expected dividend yield                                  0.00%        0.00%
+Expected lives                                           5.00         8.78
+Expected volatility                                    134.64%      143.00%
+
+
+As of December 31, 2008 there was $6,031 of total unrecognized compensation cost
+related to nonvested share-based compensation arrangements granted under the
+plans. That cost is expected to be recognized over a weighted average period of
+1.75 years.
+
+For the years ended December 31, 2008 and 2007, VisioNetx, Inc. recognized
+pre-tax stock option compensation expense of $8,259 and $6,999, respectively.
+
+The following table sets forth additional information about stock options
+outstanding at December 31, 2008:
+
+
+                                      F-23
+
+<page>
+
+
+ACUNETX, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+NOTE 12 - NET LOSS PER SHARE
+The following table sets forth the computation of basic and diluted net income
+per share:
+
+                                               For the Years Ended
+                                                   December 31,
+                                             2008              2007
+                                         ------------      ------------
+Numerator:
+  Net loss                               $   (715,696)     $   (876,778)
+                                         ------------      ------------
+Denominator:
+  Weighted average of common shares        65,387,583        63,703,365
+                                         ------------      ------------
+
+Net loss per share-basic and diluted     $      (0.01)     $      (0.01)
+
+
+As a result of our net loss for the years ended December 31, 2008 and 2007, all
+common share equivalents would have been anti-dilutive and therefore, have been
+excluded from the diluted net loss per share calculation. The weighted average
+securities, consisting of stock options and warrants, that were either out of
+the money or anti-dilutive from our calculation of diluted net loss per share
+were approximately 15,663,870 and 17,534,104 for years ended December 31, 2008
+and 2007, respectively.
+
+NOTE 13 - MAJOR CUSTOMERS
+During the years ended December 31, 2008 and 2007, major distributors accounted
+for $535,108 and $1,777,388 or 52% and 69% of IntelliNetx division revenues,
+respectively.
+
+                                2008                    2007
+                         ------------------     -----------------
+National Distributor     $  278,877     27%     $  631,136    25%
+SID Distributors            256,231     25%      1,146,252    44%
+                         ----------     --      ----------    ---
+                         $  535,108     52%     $1,777,388    69%
+
+
+NOTE 14 - SEGMENT INFORMATION
+The Company evaluates its reporting segments in accordance with SFAS No. 131,
+"Disclosures about Segments of an Enterprise and Related Information." The Chief
+Executive Officer has been identified as the Chief Operating Decision Maker as
+defined by SFAS No. 131. The Chief Executive Officer allocates resources to each
+segment based on their business prospects, competitive factors, net sales and
+operating results.
+
+
+                                      F-24
+
+<page>
+
+
+ACUNETX, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+NOTE 14 - SEGMENT INFORMATION (CONTINUED)
+
+In December 2006, the Company changed the structure of its internal organization
+to develop three market-oriented operations: (i) IntelliNetx (INX) division,
+(ii) OrthoNetx (ONX) Inc., a wholly-owned subsidiary, and (iii) VisioNetx (VNX)
+Inc, a majority-owned subsidiary. The IntelliNetx division markets patented
+medical devices that assist in the diagnosis of dizziness and vertigo, and
+rehabilitate those in danger of falling as a result of balance disorders The
+OrthoNetx division markets patented medical devices that mechanically induce new
+bone formation in patients with skeletal deformities o the face, skull, jaws,
+extremities and dentition. The VisioNetx division markets patented products that
+track and analyze human eye movements for worker impairment screening. In
+addition, the Company licensed from its VisioNetx subsidiary the manufacturing
+and sales rights to VisioNetx's law enforcement systems.
+
+The Company reviews the operating companies' income to evaluate segment
+performance and allocate resources. Operating companies' income for the
+reportable segments excludes income taxes and amortization of goodwill. The
+provision for income taxes is centrally managed at the corporate level and,
+accordingly, such items are not presented by segment. The segments' accounting
+policies are the same as those described in the summary of significant
+accounting policies.
+
+The Company does not track its assets by operating segments. Consequently, it is
+not practical to show assets by operating segments.
+
+Summarized financial information of the Company's results by operating segment
+is as follows:
+
+
+                                                   For years ended December 31,
+
+                                                      2008               2007
+                                                   -----------      -----------
+Net Revenue to external customers:
+  INX                                              $ 1,035,564      $ 2,556,890
+  ONX                                                   18,766               --
+  VNX                                                       --           17,755
+                                                   -----------      -----------
+Consolidated Net Revenue to external customers     $ 1,054,330      $ 2,574,645
+                                                   ===========      ===========
+Cost of Revenue:
+  INX                                              $   327,971      $   610,234
+  ONX                                                   42,280               --
+  VNX                                                       --            3,783
+                                                   -----------      -----------
+Consolidated Cost of Revenue                       $   370,251      $   614,017
+                                                   ===========      ===========
+Gross Margin:
+  INX                                              $   707,593      $ 1,946,656
+  ONX                                                  (23,514)              --
+  VNX                                                       --           13,972
+                                                   -----------      -----------
+Consolidated Gross Margin                          $   684,079      $ 1,960,628
+                                                   ===========      ===========
+Intercompany Segment Revenue:
+  INX                                              $        --      $     6,000
+  ONX                                                       --               --
+  VNX                                                       --               --
+                                                   -----------      -----------
+
+Total Intercompany Segment Revenue                 $        --      $     6,000
+                                                   ===========      ===========
+
+
+                                      F-25
+
+<page>
+
+
+
+ACUNETX, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+-------------------------------------------------------------------------------
+
+NOTE 14 - SEGMENT INFORMATION (CONTINUED)
+
+Inter-segment transactions are recorded at cost. The margins reported reflect
+only the direct controllable expenses of each line of business and do not
+represent the actual margins for each operating segment because they do not
+contain an allocation of product development, information technology, marketing
+and promotion, stock-based compensation, and corporate and general and
+administrative expenses incurred in support of the lines of business.
+
+                                                    For years ended December 31,
+                                                         2008           2007
+                                                     -----------    -----------
+Total margin for reportable segments                 $   684,079    $ 1,960,628
+Corporate and general and administrative expenses     (1,174,663)    (2,577,355)
+Stock option expenses                                   (167,404)      (253,647)
+Impairment of goodwill                                         0           (362)
+Interest and Other Expense                               (70,599)       (54,633)
+Interest and Other Income                                 17,978         27,477
+                                                     -----------    -----------
+Net loss before income taxes and minority interest   $  (710,609)   $  (897,892)
+                                                     ===========    ===========
+
+
+NOTE 15 - COMMITMENTS AND CONTINGENCIES
+LEASE COMMITMENTS
+
+The Company leases facilities and a copier under operating leases. As of
+December 31, 2008, the minimum annual operating lease payments were as follows:
+
+Year Ended December 31,                 Amount
+                                       --------
+
+2009                                   $ 31,823
+2010                                      7,817
+2011                                        469
+                                             --
+                                       --------
+                                       $ 40,109
+                                       ========
+
+Rent expense totaled $23,833 and $46,173 for 2008 and 2007, respectively.
+Certain lease agreements contain renewal options providing for an extension of
+the lease term at market rates. The monthly lease payment for the copier does
+not include additional maintenance, insurance and per copy charges.
+
+During 2009, the Company replaced some of its insurance policies, and there may
+have been a temporary intervening lapse. Any exposure from this is considered
+extremely remote, with any theoretical liability negligible.
+
+ACCOUNTS RECEIVABLE PURCHASE AND PURCHASE ORDER FINANCING SECURITY AGREEMENT
+
+On December 12, 2008, the Company entered into an Accounts Receivable Purchase
+and Purchase Order Financing Security Agreement to factor its receivables.
+Pursuant to the agreement, the Company will receive up to 75% of the eligible
+gross receivables and 70% of related purchase orders submitted for financing.
+The fee is 3% for the first 35 days and an additional 1% for each 10 days
+thereafter. The agreement is collateralized by the receivables. The agreement
+lasts for three months and is renewable. As of December 31, 2008, the Company
+had not utilized the financing.
+
+
+                                      F-26
+
+<page>
+
+
+
+ACUNETX, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+NOTE 15 - COMMITMENTS AND CONTINGENCIES (CONTINUED)
+
+MARKETING AND DISTRIBUTION AGREEMENT
+
+On May 25, 2006, the Company executed a Marketing and Distribution Agreement
+with a national distributor. The agreement restructures the Company's
+relationship with the national distributor into a nonexclusive one, so that the
+Company is in a position to manufacture and sell VNG products under its own
+brand names, as well as through the national distributor. The Agreement is for a
+period of eight years, provides for successive three year options, and
+supersedes and replaces the previous Manufacturing, Sales, Licensing, and
+Software Agreement and the Sales Incentive Agreement.
+
+The Company also executed a Consulting Agreement with the owner of the national
+distributor whereby the owner will provide advisory and consulting services to
+the Company for the purposes of improving the Company's VNG products and other
+balance-related product lines. The agreement is for a period of three years, and
+renews for an additional one year term.
+
+The Consulting Agreement requires payments of $100,000 per year payable in the
+Company's common stocks for eight consecutive years and cash payments of $45,000
+per year for three consecutive years. During 2007, the Company setup an accrued
+liability in the amount of $100,000. As of December 31, 2008, the balance due to
+the distributor on this agreement aggregated to $316,250 ($200,000 in stocks and
+$116,250 in cash). The Company is currently negotiating the payments with the
+distributor
+
+The minimum payments schedule under these agreements was as follows:
+
+Year Ended December 31,              Amount
+                                   ---------
+
+2009                               $ 118,750
+2010                                 100,000
+2011                                 100,000
+2012                                 100,000
+2013                                 100,000
+                                   ---------
+                                   $ 518,750
+                                   =========
+
+NOTE 16 - RELATED PARTY TRANSACTIONS
+
+FINANCIAL ADVISOR
+
+In April 2007, the Company entered into a consulting agreement with a director
+of the Company, for the purpose of assisting the Company in strategic planning
+of relevant capital formation alternatives, market making alternatives and
+merger and acquisitions. Such contract provides for monthly consulting fees of
+$5,000 per month. During 2007, the Company paid the director $40,000 in fees
+related to this agreement. This relationship was discontinued during 2008, when
+the director assumed the role of CEO.
+
+
+                                      F-27
+
+<page>
+
+
+
+ACUNETX, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+-------------------------------------------------------------------------------
+
+NOTE 16 - RELATED PARTY TRANSACTIONS (CONTINUED)
+
+LICENSING AGREEMENT
+The Company has a licensing agreement with a former CEO of the Company for the
+licensing of a patent. The licensing agreement provides for contingent payments,
+to be determined at a later date, in the event the Company receives a benefit
+from the patent. As of December 31, 2008, the Company had no liability for
+payment of fees under this agreement.
+
+INTELLECTUAL PROPERTY ASSIGNMENT
+
+In June of 2008, the Company decided to discontinue maintenance fee payments
+related to its Limb Lengthener intellectual property petition. At that time, the
+Company entered into an assignment agreement with a related party. In exchange
+for consideration of $1, the party agreed to maintain the patent at its
+discretion, without obligation, and at its expense. It further agreed that, upon
+patent approval, it would give AcuNetx Inc. first right of refusal to repurchase
+the assignment by reimbursing its expenses plus ten percent (10%) for a period
+of 90 days from the date of issuance.
+
+EMPLOYMENT AGREEMENTS
+
+In July 2008, the Board approved an agreement with the Company's interim Chief
+Executive Officer (CEO) providing that the CEO will receive an annual salary of
+$150,000 and 1 million shares of the Company's common stock, to be issued in
+2009. The stock is fully vested.
+
+In September 2008, the Company entered into an employment agreement with the new
+Chief Financial Officer (CFO). The agreement provides for an annual salary of
+$90,000 and stock options to purchase 1 million shares of the Company's common
+stock, vesting over 2 years.
+
+NOTE 17 - DEPARTURE AND ELECTION OF NEW CHIEF EXECUTIVE OFFICER
+On July 14, 2008, Ronald A. Waldorf, President, Chief Executive Officer, and
+Acting Chief Financial Officer of the Company, resigned from those positions for
+personal and health reasons. At the time of his departure, the Company owed
+Ronald A. Waldorf an accrued salary of $16,668 and accrued vacation of $16,954.
+Mr. Waldorf agreed to receive $1,000 per month as back wages until the balance
+was paid in full.
+
+Robert S. Corrigan, Chairman of the Board of Directors, was appointed as
+President and Acting Chief Executive Officer on an interim basis to replace Mr.
+Waldorf.
+
+Mr. Waldorf remains a member of the Board of Directors.
+
+On July 22, 2008, the Board appointed Alexander P. Limbert to serve as Chief
+Financial Officer of the Company. In September of 2008, Mr. Limbert, resigned
+from his position to pursue his public accounting practice. He was replaced on
+September 22, 2008 by Dennis G. Geselowitz.
+
+On September 27, 2008, David Hunter resigned as CEO of VisioNetx, Inc.
+(VisioNetx). At the time of his departure, VisioNetx owed Mr. Hunter an accrued
+salary of 300,000 shares, which was subsequently issued in December 2008.
+
+
+
+                                      F-28
+
+<page>
+
+ACUNETX, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+--------------------------------------------------------------------------------
+
+NOTE 18 - GUARANTEES AND PRODUCT WARRANTIES
+
+The Company from time to time enters into certain types of contracts that
+contingently require the Company to indemnify parties against third party
+claims. These contracts primarily relate to: (i) divestiture agreements, under
+which the Company may provide customary indemnifications to purchasers of the
+Company's businesses or assets; (ii) certain real estate leases, under which the
+Company may be required to indemnify property owners for environmental and other
+liabilities, and other claims arising from the Company's use of the applicable
+premises; and (iii) certain agreements with the Company's officers, directors
+and employees, under which the Company may be required to indemnify such persons
+for liabilities arising out of their employment relationship.
+
+The terms of such obligations vary. Generally, a maximum obligation is not
+explicitly stated. Because the obligated amounts of these types of agreements
+often are not explicitly stated, the overall maximum amount of the obligations
+cannot be reasonably estimated. Historically, the Company has not been obligated
+to make significant payments for these obligations, and no liabilities have been
+recorded for these obligations on its balance sheet as of December 31, 2008.
+
+In general, the Company offers a one-year warranty for most of the products
+sold. To date, the Company has not incurred any material costs associated with
+these warranties. The Company provides reserves for the estimated costs of
+product warranties based on its historical experience of known product failure
+rates, use of materials to repair or replace defective products and service
+delivery costs incurred in correcting product failures. In addition, from time
+to time, specific warranty accruals may be made if unforeseen technical problems
+arise with specific products. The Company periodically assesses the adequacy of
+its recorded warranty liabilities and adjusts the amounts as necessary.
+
+The following table presents the changes in the Company's warranty reserve in
+the fiscal years ended December 31, 2008 and 2007:
+
+For years ended December 31,        2008           2007
+                                  --------      --------
+Beginning balance                 $ 11,339      $  7,200
+Provision for warranty              (8,294)        5,939
+Utilization of reserve                  --        (1,800)
+                                  --------      --------
+Ending balance                    $  3,045      $ 11,339
+                                  ========      ========
+
+                                      F-29
+
+</TEXT>
+</DOCUMENT>

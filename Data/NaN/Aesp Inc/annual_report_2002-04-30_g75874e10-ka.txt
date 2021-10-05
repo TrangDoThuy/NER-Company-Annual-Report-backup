@@ -1,0 +1,634 @@
+<DOCUMENT>
+<TYPE>10-K/A
+<SEQUENCE>1
+<FILENAME>g75874e10-ka.txt
+<DESCRIPTION>ADVANCED ELECTRONIC SUPPORT PRODUCTS, INC.
+<TEXT>
+<PAGE>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+                      -------------------------------------
+
+
+                                   FORM 10-K/A
+
+                ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+                       THE SECURITIES EXCHANGE ACT OF 1934
+
+                  For the fiscal year ended December 31, 2001
+                         Commission File No. 001-12739
+
+
+                   ADVANCED ELECTRONIC SUPPORT PRODUCTS, INC.
+                   ------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+                  FLORIDA                                  59-2327381
+                  -------                                  ----------
+      (State or Other Jurisdiction of          (IRS Employer Identification No.)
+      Incorporation or Organization)
+
+          1810 N.E. 144TH STREET
+           NORTH MIAMI, FLORIDA                              33181
+           --------------------                              -----
+ (Address of Principal Executive Offices)                  (Zip Code)
+
+                                 (305) 944-7710
+                                 --------------
+              (Registrant's Telephone Number, Including Area Code)
+
+   Securities to Be Registered Pursuant To Section 12(B) Of The Exchange Act:
+
+                                                Name of Each Exchange
+          Title of Each Class                    On Which Registered
+                 NONE                                    N/A
+
+      SECURITIES REGISTERED PURSUANT TO SECTION 12(G) OF THE EXCHANGE ACT:
+
+                          COMMON STOCK $.001 PAR VALUE
+                                (Title of Class)
+
+         Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Exchange Act during the
+preceding 12 months (or for such shorter periods that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. YES [X] NO [ ]
+
+         Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K/A or any
+amendment to this Form 10-K/A. [ ]
+
+
+<PAGE>
+
+                                PURPOSE OF FILING
+
+         This Form 10-K/A to the 2001 Form 10-K of Advanced Electronic Support
+Products, Inc. (the "Company") is being filed to report the information required
+by Items 10, 11, 12 and 13 of Part III of Form 10-K.
+
+
+                                       2
+<PAGE>
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+BOARD OF DIRECTORS
+
+         Each of our Directors currently holds office until his or her successor
+is elected and qualified. At present, our By-Laws provide for not less than one
+Director nor more than twelve Directors. Currently, we have five Directors. Our
+By-Laws permit our Board of Directors to fill any vacancy and such Director may
+serve until the next annual meeting of shareholders or until his successor is
+elected and qualified. Officers serve at the discretion of our Board of
+Directors. Our officers devote their full time to our business. As of April 25,
+2002, the members of the Board are as follows:
+
+<TABLE>
+<CAPTION>
+NAME                                 AGE      DIRECTOR POSITIONS
+----                                 ---      ------------------
+<S>                                  <C>      <C>
+Slav Stein                           57       President, Chief Executive Officer and Director
+Roman Briskin                        52       Executive Vice President, Secretary and Director
+Terrence Daidone (1)(2)              42       Director
+William B. Coldrick (1)(2)           60       Director
+Leonard Sokolow (1)(2)               45       Director
+</TABLE>
+
+------------------------------------
+(1)      Member of the Audit Committee.
+(2)      Member of the Compensation Committee.
+
+BUSINESS EXPERIENCE
+
+         The principal occupation and business experience for each of our
+Directors for at least the past five years is as follows:
+
+         Mr. Stein is one of our founders and has been employed by us in a
+senior executive capacity since our formation in 1983. Mr. Stein has served as
+President, Chief Executive Officer and a Director of our company since our IPO
+in February 1997. Mr. Stein is also one of our principal shareholders. See Item
+12. "Security Ownership of Certain Beneficial Owners and Management" and Item
+13. "Certain Relationships and Related Transactions."
+
+         Mr. Briskin has been one of our senior executive officers since 1984.
+He has served as Executive Vice President, Secretary/Treasurer (Treasurer until
+May 2000) and a Director of our company since our IPO. Mr. Briskin is also one
+of our principal shareholders. See Item 12. "Security Ownership of Certain
+Beneficial Owners and Management" and Item 13. "Certain Relationships and
+Related Transactions."
+
+         Mr. Daidone has served as one of our Directors since our IPO. Mr.
+Daidone has been Vice President of Sales and Marketing of Fugate and Associates,
+Inc./ERS Imaging Supplies, Inc., a private corporation engaged in the collection
+and distribution of empty printer cartridges, since January 1996. From 1993 to
+1996, Mr. Daidone served as Director of Mass Merchant Operations with Nashua
+Corporation, a company engaged in the manufacturing of coated products.
+
+
+                                       3
+<PAGE>
+
+         Mr. Coldrick has served as one of our Directors since June 1997. Mr.
+Coldrick is also a Director of Focus Enhancements, Inc., a Delaware corporation,
+where he has served since 1993. Mr. Coldrick is retired. Prior to his
+retirement, Mr. Coldrick served in various senior capacities with Apple Computer
+and Unisys Corporation. Mr. Coldrick currently acts as an investor in and a
+consultant to several companies.
+
+         Mr. Sokolow has been a Director of our company since November 1999.
+Since November 1999, Mr. Sokolow has been CEO and President of vFinance Inc., an
+investment banking and brokerage firm. Since August 1993 Mr. Sokolow has also
+been President of Genesis Partners, Inc., a private financial business
+consulting firm. Mr. Sokolow was Chairman and Chief Executive Officer of the
+Americas Growth Fund, Inc., a closed-end management investment company, from
+August 1994 to December 1998.
+
+MEETINGS OF THE BOARD AND COMMITTEES
+
+         The Board of Directors held a total of three meetings and acted on four
+occasions by written consent during the year ended December 31, 2001.
+Additionally, the Audit Committee met on five occasions during 2001. Each Board
+member attended at least 75 percent of the meetings except Mr. Briskin, who
+attended 67 percent of the meetings, and Mr. Sokolow, who attended 50 percent of
+the meetings.
+
+COMPENSATION OF DIRECTORS
+
+         Directors who are not employees of the Company are annually granted
+options to purchase 25,000 shares of Common Stock at an option exercise price
+equal to the closing price of the Common Stock on the date of grant. These
+options vest immediately. Directors also receive $3,000 per year for service on
+the Board of Directors and on committees of the Board of Directors. Directors
+who are employees of the Company receive no additional compensation for their
+service on the Board of Directors. All Directors are also reimbursed for
+expenses incurred in attending Board meetings.
+
+
+                                       4
+<PAGE>
+
+EXECUTIVE OFFICERS
+
+         The following list reflects our executive officers, as of the date of
+this report, the capacity in which they serve our company, and when they took
+office:
+
+<TABLE>
+<CAPTION>
+NAME                      AGE      EXECUTIVE POSITION                               OFFICER SINCE
+----                      ---      ------------------                               -------------
+<S>                       <C>      <C>                                              <C>
+Slav Stein                57       President, Chief Executive Officer                   1983
+Roman Briskin             52       Executive Vice President and Secretary               1984
+Stephen Daily             44       Vice President Signamax Division                     2000
+Roy Rafalco               46       Chief Financial Officer and Treasurer                2000
+</TABLE>
+
+BUSINESS EXPERIENCE
+
+         Mr. Stein. See the biographical information contained in "Board of
+Directors."
+
+         Mr. Briskin. See the biographical information contained in "Board of
+Directors."
+
+         Mr. Daily became a Vice President in September 2000. In 1990, Mr. Daily
+founded Interlink Technologies, a manufacturer of premise cabling and
+connectivity products, where he remained as President until 1998 when that
+company was sold. Thereafter, until joining us, Mr. Daily was a consultant for
+various companies including ourselves.
+
+         Mr. Rafalco joined us in May 2000. Prior to joining us, for more than
+the last five years Mr. Rafalco was the Chief Financial Officer and President of
+TopSpeed Corporation, a worldwide publisher of Windows and Internet software
+development tools, and during his last year with that company Mr. Rafalco also
+served as that company's Chief Executive Officer.
+
+FAMILY RELATIONSHIPS
+
+         There are no family relationships between or among any of our Directors
+and executive officers.
+
+
+                                       5
+<PAGE>
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+         The following table shows remuneration paid or accrued by us during the
+year ended December 31, 2001 and for each of the two preceding years, to our
+Chief Executive Officer and to each of our other most highly compensated
+executive officers whose total annual salary and bonus exceeded $100,000:
+
+
+
+<TABLE>
+<CAPTION>
+
+                                                  ANNUAL COMPENSATION                      LONG TERM COMPENSATION
+                                      ------------------------------------------------ -------------------------------
+                                                                                                AWARDS         PAYOUTS
+                                                                                       ----------------------- -------
+                                      Fiscal                             Other  Annual Restricted  Securities    LTIP     All Other
+                                      Year         Salary        Bonus   Compensation    Stock     Underlying  Payouts  Compensation
+Name and Principal Position           Ended         ($)         ($) (1)     ($)(2)       Awards   Options/SARs   ($)       ($) (3)
+---------------------------           -----       -------       -------  ------------- ---------- ------------ -------  ------------
+<S>                                   <C>         <C>           <C>      <C>           <C>        <C>          <C>      <C>
+Slav Stein ...................        2001        217,311            --     6,000         --         75,000        --       5,932
+President and Chief Executive         2000        199,650        24,945     6,000         --        175,000        --       5,579
+Officer                               1999        180,000        31,814     6,000         --         25,000        --       4,378
+
+Roman Briskin ................        2001        217,311            --     6,000         --         75,000        --       5,459
+Executive Vice President and          2000        199,650        24,945     6,000         --        175,000        --       5,106
+Secretary                             1999        180,000        31,814     6,000         --         25,000        --       3,905
+
+Stephen Daily ................        2001        130,000            --        --         --         50,000        --       2,600
+Vice President                        2000        130,000            --        --         --         20,000        --          --
+Signamax Division
+
+Roy Rafalco ..................        2001        116,515        22,600        --         --         60,000        --         210
+Chief Financial Officer               2000        110,000            --        --         --         20,000        --          --
+and Treasurer
+</TABLE>
+------------------------------
+(1)      Bonus paid to Messrs. Stein and Briskin is based on a percentage of
+         pre-tax income pursuant to current employment agreements. In 2000,
+         Messrs. Stein and Briskin voluntarily elected to reduce their bonus
+         percentage for 2000. See "Employment Agreements."
+
+(2)      Messrs. Stein and Briskin each receive an automobile allowance of
+         $6,000 per year pursuant to the terms of their employment agreements
+         with the Company. See "Employment Agreements."
+
+(3)      Messrs. Stein, Briskin, Rafalco and Daily received partially matched
+         contributions as part of the Company's 401(k) Plan. Table includes
+         value of $500,000 term life insurance policy which the Company
+         purchases for the benefit of each of Messrs. Stein and Briskin.
+
+
+                                       6
+<PAGE>
+
+OPTION/SAR GRANTS IN LAST FISCAL YEAR
+
+         The following table sets forth information concerning options granted
+during the fiscal year ended December 31, 2001 to the persons named in the
+preceding summary compensation table under the caption "Executive Compensation":
+
+<TABLE>
+<CAPTION>
+                                                                                               POTENTIAL REALIZABLE VALUE AT ASSUMED
+                                                                                                    ANNUAL RATES OF STOCK PRICE
+                                                    INDIVIDUAL GRANTS                             APPRECIATION FOR OPTION TERM (1)
+                                -------------------------------------------------------        -------------------------------------
+                                  NUMBER OF       % OF TOTAL
+                                 SECURITIES     OPTIONS/SARS
+                                 UNDERLYING       GRANTED TO   EXERCISE OF
+                                OPTIONS/SARS     EMPLOYEES IN   BASE PRICE   EXPIRATION
+NAME                             GRANTED (#)      FISCAL YEAR    ($/SH)         DATE               5% ($)               10% ($)
+-------------                   ------------    -------------  -----------   ----------         ------------         ------------
+<S>                             <C>             <C>            <C>           <C>                <C>                  <C>
+Slav Stein                         75,000           17.0%         1.625        04/05/11           $  76,647            $ 194,237
+
+Roman Briskin                      75,000           17.0%         1.625        04/05/11           $  76,647            $ 194,237
+
+Stephen Daily                      25,000            5.7%         1.625        04/05/11           $  25,549            $  64,746
+                                   25,000            5.7%         1.65         12/13/11           $  25,942            $  65,742
+
+Roy Rafalco                        20,000            4.5%         1.625        04/05/11           $  20,439            $  51,797
+                                   15,000            3.4%         2.85         07/30/11           $  26,885            $  68,132
+                                   25,000            5.7%         1.65         12/13/11           $  25,942            $  65,742
+</TABLE>
+----------------
+(1)      These amounts represent assumed rates of appreciation in the price of
+         common stock during the term of the options in accordance with rates
+         specified in applicable federal securities regulations. Actual gains,
+         if any, on stock option exercises will depend on the future price of
+         common stock and overall stock market conditions. There is no
+         representation that the rates of appreciation reflected in the table
+         will be achieved.
+
+AGGREGATED OPTION/SAR EXERCISES IN LAST FISCAL YEAR AND FISCAL YEAR END
+OPTION/SAR VALUES
+
+         The following table sets forth information concerning the value of
+unexercised stock options at the end of the 2001 fiscal year for the persons
+named in the preceding summary compensation table under the caption "Executive
+Compensation":
+
+<TABLE>
+<CAPTION>
+                                                                NUMBER OF SECURITIES          VALUE OF UNEXERCISED
+                                                               UNDERLYING UNEXERCISED         IN-THE-MONEY OPTIONS/
+                                                              OPTIONS/ SARS AT FISCAL        SARS AT FISCAL YEAR-END
+                                                                    YEAR-END (#)                     ($) (1)
+                                                              -------------------------     -------------------------
+                            SHARES
+                         ACQUIRED ON           VALUE
+NAME                     EXERCISE (#)       REALIZED ($)      EXERCISABLE/UNEXERCISABLE     EXERCISABLE/UNEXERCISABLE
+-------------            ------------       ------------      -------------------------     -------------------------
+<S>                      <C>                <C>               <C>                           <C>
+Slav Stein                    --                --                450,000/180,250                128,250/54,075
+Roman Briskin                 --                --                450,000/180,250                128,250/54,075
+Stephen Daily                 --                --                 45,000/25,000                   2,250/2,500
+Roy Rafalco                   --                --                 56,666/23,334                   2,250/2,500
+</TABLE>
+--------------------
+(1)   Computed based upon the difference between the closing price of our
+      common stock at December 31, 2001 ($1.80) and the exercise price of the
+      outstanding options. No value has been assigned to options which are
+      not in-the-money. As of April 29, 2002, the closing price of our common
+      stock was $0.76, and all of our outstanding options were out-of-the-money.
+
+
+                                       7
+<PAGE>
+
+EMPLOYMENT AGREEMENTS
+
+         On February 19, 1997, Messrs. Stein and Briskin each entered into an
+employment agreement with us. The term of such employment agreements (subject to
+earlier termination for cause) was initially for a period of five years and
+currently continues for successive one-year terms unless canceled by either
+party. During the term of such employment agreements, Messrs. Stein and Briskin
+each receive a base salary (currently $220,000 in 2002) which increases annually
+by 10 percent of the prior year's salary plus the increase in the consumer price
+index, which annual increase may not, in any event, exceed 20 percent of the
+prior year's salary. In addition, Messrs. Stein and Briskin are each entitled to
+receive an annual bonus equal to five percent of our pre-tax net income in each
+fiscal year. We provide each of Messrs. Stein and Briskin with an automobile
+allowance of $500 per month and a term life insurance policy in the amount of
+$500,000.
+
+         In the event that during the term of such employment agreements there
+is a change of control of our company which has not been approved by our
+Board of Directors, Messrs. Stein and Briskin will have the option to terminate
+their employment with us within three months of the change of control and
+receive a lump sum payment of $750,000 each. In such event, all previously
+granted stock options would become automatically vested. If the Board of
+Directors approves a change of control, Messrs. Stein and Briskin may terminate
+their employment, but would only be entitled to receive a payment equal to the
+prior year's annual salary and to become automatically vested in a portion of
+their stock options equal to their percentage completion of the term of their
+employment agreement. For purposes of the employment agreements, a "change in
+control" is defined as an event that: (i) would be required to be reported in
+response to Item 6(e) of Schedule 14(a) of Regulation 14A under the Exchange
+Act; or (ii) causes a person other than Messrs. Stein and Briskin to
+beneficially own more than 30 percent of our outstanding securities. As part of
+such employment agreements, each of Messrs. Stein and Briskin have agreed not to
+compete against us for a 12-month period following the termination of their
+employment with us for any reason other than a change in control without the
+approval of the Board of Directors.
+
+STOCK OPTION PLAN
+
+         The Company has adopted the 1996 Stock Option Plan, as amended (the
+"1996 Plan"). Pursuant to the 1996 Plan, options to acquire a maximum of 530,000
+shares of Common Stock may be granted to Directors, executive officers,
+employees (including employees who are Directors), independent contractors and
+consultants of the Company. As of April 25, 2002, options to purchase 473,068
+shares of Common Stock are outstanding under the 1996 Plan (287,114 of which are
+currently vested).
+
+         The 1996 Plan is administered by the Compensation Committee of the
+Board of Directors. The Compensation Committee determines which persons will
+receive options and the number of options to be granted to such persons. The
+Compensation Committee also interprets the provisions of the 1996 Plan and makes
+all other determinations that it may deem necessary or advisable for the
+administration of the 1996 Plan.
+
+
+                                       8
+<PAGE>
+
+         Pursuant to the 1996 Plan, the Company may grant both ISOs (Incentive
+Stock Options) and NQSOs (Non-Qualified Stock Options). The price at which the
+Company's Common Stock may be purchased upon the exercise of options granted
+under the 1996 Plan are required to be at least equal to the per share fair
+market value of the Common Stock on the date particular options are granted.
+Options granted under the 1996 Plan may have maximum terms of not more than 10
+years and are not transferable, except by will or the laws of descent and
+distribution. None of the ISOs under the 1996 Plan may be granted to an
+individual owning more than 10 percent of the total combined voting power of all
+classes of stock issued by the Company unless the purchase price of the Common
+Stock under such option is at least 110 percent of the fair market value of the
+shares issuable on exercise of the option determined as of the date the option
+is granted, and such option is not exercisable more than five years after the
+grant date.
+
+         Generally, unless otherwise determined by the Compensation Committee or
+the Board of Directors, options granted under the 1996 Plan remain outstanding
+and may be exercised at any time up to three months after the person to whom
+such options were granted is no longer employed or retained by the Company or
+serving on the Company's Board of Directors.
+
+         Pursuant to the 1996 Plan, unless otherwise determined by the
+Compensation Committee, one-third of the options granted to an individual are
+exercisable upon grant, one-third are exercisable on the first anniversary of
+such grant and the final one-third are exercisable on the second anniversary of
+such grant. However, options granted under the 1996 Plan shall become
+immediately exercisable if the holder of such options is terminated by the
+Company or is no longer a Director of the Company, as the case may be,
+subsequent to certain events which are deemed to be a "change in control" of the
+Company. A "change in control" of the Company generally is deemed to occur when
+(i) any person becomes the beneficial owner of or acquires voting control with
+respect to more than 20 percent of the Common Stock (or 35 percent if such
+person is a holder of Common Stock on the effective date of the IPO) (ii) a
+change occurs in the composition of a majority of the Company's Board of
+Directors during a two-year period, provided that a change with respect to a
+member of the Company's Board of Directors shall be deemed not to have occurred
+if the appointment of a member of the Company's Board of Directors is approved
+by a vote of at least 75 percent of the individuals who constitute the then
+existing Board of Directors; or (iii) the Company's shareholders approve the
+sale of substantially all of the Company's assets.
+
+         ISOs granted under the 1996 Plan are subject to the restriction that
+the aggregate fair market value (determined as of the date of grant) of options
+which first become exercisable in any calendar year cannot exceed $100,000.
+
+TOTAL OPTIONS OUTSTANDING
+
+         We have a substantial number of stock options outstanding. Many of our
+outstanding options (including a substantial portion of the options granted to
+our non-employee directors and to our principal executive officers) were granted
+outside of the 1996 Plan pursuant to individual stock option agreements. At the
+date of this Form 10-K/A, the following options were outstanding: (i) options to
+purchase an aggregate 47,000 shares of Common Stock held by consultants; (ii)
+options to purchase an aggregate of 1,660,500 shares of Common Stock held by our
+two principal executive officers (who are also our principal shareholders);
+(iii) options to purchase 373,250 shares of Common Stock held by our
+non-employee Directors; and (iv) options to purchase an aggregate of 446,368
+shares of Common Stock held by our employees.
+
+
+
+                                       9
+<PAGE>
+
+COMPENSATION COMMITTEE INTERLOCKS AND INSIDER PARTICIPATION
+
+         During the last fiscal year, no members of the Company's Compensation
+Committee are or were current or former employees of the Company and there were
+no material transactions between the Company and any of the members of the
+Compensation Committee.
+
+COMPLIANCE WITH SECTION 16(A)
+
+         Based solely upon our review of Forms 3 and 4 and amendments thereto
+furnished to us pursuant to Rule 16a-3(e) under the Securities Exchange Act of
+1934 (the "Exchange Act"), during our fiscal year ended December 31, 2001 and
+any Forms 5 and amendments thereto furnished to us with respect to such fiscal
+year, and any written representations referred to in subparagraph (b)(2)(i) of
+Item 405 of Regulation S-K, except as set forth below, no person who at any time
+during the fiscal year ended December 31, 2001 was a Director, officer or, to
+our knowledge, a beneficial owner of more than 10% of any class of our equity
+securities registered pursuant to Section 12 of the Exchange Act, failed to file
+on a timely basis, as disclosed in Forms 3, 4 and 5, reports required by Section
+16(a) of the Exchange Act during the fiscal year ended December 31, 2001. In
+that regard, each of our officers and Directors were late in filing their Form 5
+relating to their ownership of Company securities during 2001.
+
+
+                                       10
+<PAGE>
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+         As of April 25, 2002, we had outstanding 4,596,721 shares of our common
+stock. The following table sets forth, as of April 25, 2002, certain information
+regarding our common stock owned of record or beneficially by: (i) each person
+who owns beneficially more than 5% of our outstanding common stock; (ii) each of
+our Directors; and (iii) all Directors and executive officers as a group.
+
+<TABLE>
+<CAPTION>
+                                                                                           BENEFICIAL OWNERSHIP
+                                                                                            OF COMMON STOCK (1)
+                                                                                      -----------------------------
+NAME AND ADDRESS OF BENEFICIAL OWNER (1)                                               SHARES               PERCENT
+----------------------------------------                                              ---------             -------
+<S>                                                                                   <C>                     <C>
+Slav Stein (2).............................................................           1,401,007               26.8%
+Roman Briskin (2)..........................................................           1,401,007               26.8%
+Terrence R. Daidone (3)....................................................             155,000                3.3%
+William B. Coldrick (3)....................................................             137,000                2.9%
+Leonard Sokolow (3)........................................................              81,250                1.7%
+Steve Daily (3)(4).........................................................              45,000                1.0%
+Roy Rafalco (3)(5).........................................................              56,666                1.2%
+All Directors and executive officers as a group (7 persons)(6).............           3,276,930               51.8%
+</TABLE>
+----------------------------
+(1)      Unless otherwise indicated, each person named in the table has the sole
+         voting and investment power with respect to the shares beneficially
+         owned. The address for each beneficial owner is c/o Advanced Electronic
+         Support Products, Inc., 1810 N.E. 144th Street, North Miami, Florida
+         33181.
+
+(2)      Includes options to purchase 625,000 shares of Common Stock issuable
+         upon the exercise of vested stock options. Excludes unvested options to
+         purchase 205,250 shares of Common Stock.
+
+(3)      Shares of Common Stock issuable upon the exercise of vested stock
+         options.
+
+(4)      Excludes unvested stock options to purchase 25,000 shares of Common
+         Stock.
+
+(5)      Excludes unvested stock options to purchase 23,334 shares of Common
+         Stock.
+
+(6)      Includes vested stock options to purchase an aggregate of 1,724,917
+         shares of Common Stock.
+
+
+                                       11
+<PAGE>
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+         We are parties to a lease with RSB Holdings, Inc., a Florida
+corporation ("RSB Holdings"), pursuant to which we lease our corporate
+headquarters and warehouse in North Miami, Florida. We make annual payments
+under such lease in the amount of approximately $43,200. Messrs. Stein and
+Briskin each own 50 percent of the issued and outstanding common stock of RSB
+Holdings, and are its sole officers and directors.
+
+         In January 2002, we converted $152,000 due to Messrs. Stein and Briskin
+into 190,000 shares of our Common Stock (at a conversion price of $.80 per
+share, which was the fair market value on the date of conversion). Such debt
+related, among other matters, to amounts due Messrs. Stein and Briskin through
+the end of 2001 under their employment agreements.
+
+         We believe that all the foregoing related-party transactions were on
+terms, as a whole, no less favorable to us than could reasonably be obtained
+from unaffiliated third parties. All transactions with affiliates have been
+approved by a majority of disinterested Directors of the Company and on terms no
+less favorable to the Company than those that are generally available from
+unaffiliated third parties.
+
+
+                                       12
+<PAGE>
+
+                                   SIGNATURES
+
+         In accordance with Section 13 or 15(d) of the Exchange Act, the
+Registrant has caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized.
+
+                                   REGISTRANT:
+
+                                   ADVANCED ELECTRONIC SUPPORT PRODUCTS, INC.
+
+
+
+                                   By:      /s/ SLAV STEIN
+                                            -----------------------------------
+                                            Slav Stein, President
+
+                                   Date:    April 30, 2002
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed by the following persons on behalf of the Registrant
+and in the capacities and on the dates indicated.
+
+
+<TABLE>
+<CAPTION>
+       Signature                                        Title                                 Date
+-----------------------           --------------------------------------------------     ---------------
+<S>                               <C>                                                    <C>
+/s/ SLAV STEIN                    President, Chief Executive Officer and a Director      April 30, 2002
+-----------------------           (Principal Executive Officer)
+Slav Stein
+
+/s/ ROMAN BRISKIN                 Executive Vice President, Secretary and a Director     April 30, 2002
+-----------------------
+Roman Briskin
+
+/s/ TERRENCE R. DAIDONE           Director                                               April 30, 2002
+-----------------------
+Terrence R. Daidone
+
+/s/ WILLIAM B. COLDRICK           Director                                               April 30, 2002
+-----------------------
+William B. Coldrick
+
+/s/ LEONARD SOKOLOW               Director                                               April 30, 2002
+-----------------------
+Leonard Sokolow
+
+/s/ ROY RAFALCO                   Chief Financial Officer and Treasurer                  April 30, 2002
+-----------------------           (Principal Financial and Accounting Officer)
+Roy Rafalco
+</TABLE>
+
+</TEXT>
+</DOCUMENT>

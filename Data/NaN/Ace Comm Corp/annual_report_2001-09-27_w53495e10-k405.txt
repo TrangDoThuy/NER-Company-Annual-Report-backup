@@ -1,0 +1,2955 @@
+<DOCUMENT>
+<TYPE>10-K405
+<SEQUENCE>1
+<FILENAME>w53495e10-k405.txt
+<DESCRIPTION>ANNUAL REPORT
+<TEXT>
+<PAGE>   1
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC 20549
+
+                                    FORM 10-K
+
+[X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT
+                                     OF 1934
+
+                     FOR THE FISCAL YEAR ENDED JUNE 30, 2001
+
+                                       OR
+
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+                                   ACT OF 1934
+
+                         COMMISSION FILE NUMBER 0-21059
+
+                              ACE*COMM CORPORATION
+             (Exact name of registrant as specified in its charter)
+
+<TABLE>
+<S>                                                                     <C>
+                           Maryland                                             52-1283030
+(State or other jurisdiction of incorporation or organization)          (I.R.S. Employer I.D. No.)
+                    704 Quince Orchard Road
+                 Gaithersburg, Maryland 20878                                     20878
+           (Address of principal executive offices)                             (Zip Code)
+</TABLE>
+
+       Registrant's telephone number, including area code: (301) 721-3000
+
+        Securities registered pursuant to Section 12(b) of the Act: NONE
+
+                    Securities registered pursuant to Section
+                               12(g) of the Act:
+
+                                  Common Stock
+                                 $.01 par value
+                                (Title of class)
+
+        Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 12, 13 or 15(d) of the Securities Exchange Act
+of 1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirement for the past 90 days.     YES [X]      NO [ ]
+
+        Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K.    [X]
+
+        As of August 27, 2001 the aggregate market value of the voting stock
+held by non-affiliates of the registrant (i.e., persons who are not directors,
+officers or affiliated therewith) was approximately $8,387,705 (5,991,218 shares
+of Common Stock at a closing price on the NASDAQ National Market of $1.40 on
+such date). Outstanding as of August 27, 2001 were 9,284,093 shares of Common
+Stock.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+           Portions of the Registrant's definitive Proxy Statement for its
+annual meeting to be held on November, 13, 2001 are incorporated by reference in
+Part III.
+
+
+
+                                      -1-
+<PAGE>   2
+
+
+
+                              ACE*COMM CORPORATION
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                                                   PAGE
+                                                                                                   ----
+<S>                  <C>                                                                           <C>
+                                          PART I
+Item 1.              BUSINESS                                                                        3
+
+Item 2.              PROPERTIES                                                                     10
+
+Item 3.              LEGAL PROCEEDINGS                                                              10
+
+Item 4.              SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS                            10
+
+Item 4A.             EXECUTIVE OFFICERS OF THE REGISTRANT                                           11
+
+                                          PART II
+Item 5.              MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED
+                     STOCKHOLDER MATTERS                                                            12
+
+Item 6.              SELECTED FINANCIAL DATA                                                        12
+
+Item 7.              MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+                     CONDITION AND RESULTS OF OPERATIONS                                            14
+
+Item 8.              FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA                                    21
+
+Item 9.              CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS
+                     ON ACCOUNTING AND FINANCIAL DISCLOSURE                                         21
+
+                                          PART III
+Item 10.             DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT                             22
+
+Item 11.             EXECUTIVE COMPENSATION                                                         22
+
+Item 12.             SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS
+                     AND MANAGEMENT                                                                 22
+
+Item 13.             CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS                                 22
+
+                                           PART IV
+Item 14.             EXHIBITS, FINANCIAL STATEMENTS, SCHEDULES AND REPORTS ON
+                     FORM 8-K                                                                       22
+</TABLE>
+
+
+
+                                      -2-
+<PAGE>   3
+
+
+                                     PART I
+
+ITEM 1.    BUSINESS
+
+This Report contains certain statements of a forward-looking nature relating to
+future events or the future financial performance of the Company. Investors are
+cautioned that such statements are only predictions and that actual events or
+results may differ materially. In evaluating such statements, investors should
+specifically consider the various factors identified in this Report which could
+cause actual results to differ materially from those indicated by such
+forward-looking statements, including the matters set forth in "Business -
+Backlog", "Business - Proprietary Rights and Licenses", "Business - Selected
+Financial Data", and "Management's Discussion and Analysis of Financial
+Condition and Results of Operations - Additional Factors Affecting Future
+Operating Results". Investors should not place undue reliance on these
+forward-looking statements. These forward-looking statements speak only as of
+the date in which they are made, and the Company undertakes no obligation to
+update any forward-looking statements.
+
+
+GENERAL BUSINESS DEVELOPMENT
+
+ACE*COMM Corporation (the "Company"), incorporated in Maryland in 1983, delivers
+enterprise telemanagement and Convergent Mediation(TM) solutions to wired and
+wireless voice, data, and Internet communications providers. The Company's
+solutions consist of hardware, software and related services, that enable the
+capture, security, validation, correlation, augmentation, and warehousing of
+data from network elements and the distribution of data in appropriate formats
+to OSS ("Operations Support Systems") and BSS ("Business Support Systems")
+operations. The Company's solutions are tailored to each customer's needs,
+providing the capabilities to extract knowledge from their networks knowledge
+they use to reduce costs, accelerate time-to-market for new products and
+services, generate new sources of revenue, and push forward with next-generation
+initiatives.
+
+The Company's fiscal year ends on June 30. Unless otherwise noted, all
+references to years in this document are assumed to be fiscal.
+
+SOLUTIONS FOR TELECOMMUNICATIONS AND INTERNET SERVICE PROVIDERS
+The Company's Convergent Mediation(TM) solutions bring together wired and
+wireless, voice, data, and Internet communications technologies from across all
+conventional and next-generation network elements to provide a consistent view
+of data and near real-time processing and reporting, in a flexible and scalable
+distributed architecture. Convergent Mediation(TM) solutions are designed to
+solve a customer's data needs while protecting their investment in their
+existing OSS/BSS infrastructure.
+
+The Company's Convergent Mediation(TM) solutions provide the following range of
+capabilities:
+
+DATA CAPTURE
+This functionality installs with the customer's switching system and allows
+rapid integration with new technologies. It captures usage data from all types
+of networks (circuit-switched, packet-switched, Internet protocol ("IP"),
+Voice-over IP ("VoIP"), secures the data, and transfers it, using standard
+protocols, across the customer's network.
+
+DATA COLLECTION
+This functionality supports usage-sensitive billing with configurable
+data-collection for large networks. This includes the polling and verifying of
+records sent directly from most types of network elements. This functionality
+features standards-based solutions with a wide support library of different
+formats and protocols, centralized management for reduced maintenance costs, and
+near real-time data collection.
+
+DATA MANAGEMENT
+This functionality processes fragmented, incomplete, and multi-format records
+and forwards the data to OSS/BSS functions. It augments records with customer,
+service, cost, and other billing information, reassembles fragmented records,
+reformats records into any standard format, eliminates duplication, minimizes
+customers' processing costs, and maximizes their revenue.
+
+
+
+                                      -3-
+<PAGE>   4
+
+RATING/COSTING
+This functionality identifies and monitors inbound and outbound data flows in
+near real-time from a financial perspective. It enables customers to evaluate
+individual and summarized usage records, support multiple rating dimensions and
+flexible plans for inter-carrier invoice reconciliation and pre-billing
+processing, change rates on a scheduled basis or in a near real-time for rapid
+response, and manage termination costs.
+
+DATA PRESENTATION
+This functionality normalizes, formats, correlates, summarizes, and/or augments
+network usage records for numerous downstream applications such as billing and
+fraud systems. It uses a single source of data for all business operations, ends
+duplication, discrepancies, and the need for data reconciliation, and provides
+the ability to plan and make decisions based on solid business analysis.
+
+DATA WAREHOUSING
+This functionality adds value to data by correlating, aggregating, augmenting,
+and storing it in a data warehouse to an individual customer's specifications.
+It can translate large volumes of network data into the knowledge required to
+maintain a competitive advantage, quickly detect and correct traffic flow
+problems, profile customer usage to gain marketing knowledge, filter out
+unbillable data, and reprocess erroneous data until it is resolved.
+
+SOLUTIONS FOR ENTERPRISES
+The Company offers solutions to enterprises, which include government agencies,
+military organizations, educational institutions and "Fortune 1000" size
+organizations, for the automation of network operations and management
+functions. The Company's NetPlus(R) Enterprise Operations Support System is the
+core capability of this solution set and is deployed on
+multi-vendor/multi-protocol voice, data, and video networks. NetPlus(R) is
+scalable, to accommodate numerous network sizes and locations. NetPlus(R)
+enables enterprises to improve service and control costs by managing various
+aspects of the network, including alarm and fault resolution, cabling and
+facilities management, convergent billing, chargeback billing, cost control and
+recovery. NetPlus(R) also provides the capability to automate maintenance by
+providing work orders, trouble tickets, inventory, and switching equipment
+configuration management.
+
+The Company's Enterprise Network Telemanagement solutions provide the following
+range of capabilities:
+
+FAULT MANAGEMENT
+A software product that allows network managers on a near real-time basis to
+detect faults and to determine their origins and to perform fault correction.
+
+CONFIGURATION MANAGEMENT
+A software product that delivers subscriber, connectivity, and equipment
+administration functions. These modules track, maintain, and report on the
+entire network structure.
+
+ACCOUNTING MANAGEMENT
+System functions that collect, store, process, rate and verify billing and
+accounting data.
+
+PERFORMANCE MANAGEMENT
+System functions that aggregate and analyze network performance call data, and
+configuration data to provide managers with an overall performance model of
+their network and operations.
+
+SECURITY MANAGEMENT
+A multi-level, layered system that covers security functions ranging from the
+operating system and database, to forms and commands within forms.
+
+DIRECTORY MANAGEMENT
+An application that handles personnel, departmental and classified directory
+listings in organizational or alphabetical formats.
+
+
+
+                                      -4-
+<PAGE>   5
+
+PRODUCT BACKPLANE(TM)
+An application services layer, software infrastructure common to all NetPlus(R)
+applications, that is based on an Oracle(R) database, client/server distributed
+processing, Web-based User Interface (WUI), and Graphical User Interface (GUI)
+presentation, which operates for a single module or multiple functional system
+and allows users to implement only the modules they need.
+
+NETWORK MANAGEMENT APPLICATIONS
+Infrastructure software that provides high-performance, low-cost,
+small-footprint applications for managing network element performance.
+
+PROFESSIONAL SERVICES AND SUPPORT
+The Company's services are generally delivered in conjunction with the Company's
+solutions. The Company's professional service team assists customers in
+implementing its solutions, educates users, and provides maintenance and
+technical support. Implementation services include identification of technical
+requirements, solution design, product testing, and installation and
+integration. The Company's systems integration partners often provide additional
+expertise on international contracts and orders. The Company provides
+comprehensive educational courses to its customers, alliance partners, and
+employees so they can acquire the knowledge and skills necessary to deploy, use
+and maintain the Company's solutions. The Company also offers train-the-trainer
+programs that enable its customers to conduct their own internal end-user
+training. The Company's maintenance and technical support services include help
+desk support, problem resolution, software maintenance and scheduled software
+upgrades. The Company provides technical support for its products from its
+Gaithersburg headquarters and utilizes the Web, telephone, electronic mail and,
+if necessary, on-site assistance to respond to and resolve customers' technical
+questions. International customers are supported either directly by the Company
+or by third party vendors trained by the Company.
+
+The Company believes that a high level of customer support is critical to the
+Company's continuing success in developing relationships with end-users and its
+strategic partners (See "Strategic Alliances and Partners").
+
+
+QUALITY
+
+The Company maintains an ISO 9001 standard Quality Management Program to monitor
+the quality of its offerings and has an internal Quality Management Committee to
+set quality objectives for the Company and a Quality Assurance Department to
+implement and monitor compliance with the applicable procedures.
+
+
+SALES AND MARKETING
+
+The Company markets and sells product-based solutions directly through its sales
+force. The Company concentrates its sales efforts on a range of service
+providers, from small start-ups to large established communication providers
+that offer voice and data services, including Internet-based services. The
+Company complements its direct sales with indirect sales through its strategic
+alliances with OSS/BSS operators, original equipment manufacturers ("OEM") and
+resellers. These alliance partners give the Company's direct sales force a
+global reach and provide significant leads and referrals. The Company also
+believes that these relationships lend credibility to and help to gain
+additional market acceptance for its product-based solutions.
+
+The Company sells substantially all of its product-based solutions worldwide
+from its headquarters in Gaithersburg, Maryland. In 2001, the Company expanded
+its sales and marketing efforts outside North America through a combination of
+direct sales in selected markets; continued partnerships with systems
+integrators, and the extension of its relationships with existing customers.
+These efforts resulted in greater European sales in fiscal year 2001 and an
+expectation for greater sales in Asia in fiscal year 2002.
+
+The Company derives a majority of its revenues from products delivered or
+services performed within the United States. Products delivered or services
+performed outside of the United States represented approximately 39%, 29% and
+
+
+
+
+                                      -5-
+<PAGE>   6
+
+41% of total revenues in fiscal years 2001, 2000, and 1999, respectively. See
+Note 13 of the Notes to Financial Statements for a summary of the Company's
+revenue by geographic area.
+
+Revenue for a given period typically reflects products delivered or services
+performed during the period with respect to relatively large financial
+commitments from a small number of customers. During 2001, the Company had 23
+customers generating $250,000 or more in revenues during the period ("Major
+Customers") representing approximately 93% of total revenues. Siemens AG, the
+Company's largest customer in fiscal year 2001, represented approximately 23% of
+total revenues and Winstar contributed approximately 14% of total revenues.
+During 2000, the Company had 27 Major Customers representing approximately 90%
+of total revenues. One customer, Winstar, contributed approximately 11% of total
+revenues earned during 2000. During 1999, the Company had 25 Major Customers
+representing approximately 87% of total revenues. During 1999, sales to three
+customers representing a single end-user in Asia comprised approximately 14% of
+total revenue, General Dynamics Network Systems contributed approximately 12%,
+and Winstar contributed approximately 10%. Major Customers and the average
+revenues earned per Major Customer were $979 thousand in 2001, $1,129 thousand
+in 2000, and $1,031 thousand in 1999.
+
+The sales process for new contracts or orders generally requires a significant
+investment of time and money and takes from several months to several years.
+This process involves senior executives, sales representatives and support
+personnel and typically requires presentations, demonstrations, field trials,
+and lengthy negotiations. The Company spends significant time consulting with
+strategic partners and end-users to adapt its products to meet end-user
+requirements and to determine their evolving requirements for updates and
+enhancements.
+
+
+STRATEGIC ALLIANCES AND PARTNERSHIPS
+
+To assist in developing, marketing, and distributing its product-based solutions
+effectively and as part of the Company's marketing efforts, the Company has
+established strategic alliances with several large organizations:
+telecommunication and Internet equipment manufacturers, computer equipment
+manufacturers, telecom systems integrators and other organizations ("strategic
+alliance partners" or "partners"). Each alliance is designed to accomplish one
+or more of the following: develop products designed to meet the needs of the
+partner or its customers, establish a joint marketing relationship to include
+the Company's products in systems sold by the partner, create a reseller channel
+for the Company's products, or jointly provide customer support to end-users.
+These strategic alliances enable the Company to leverage relationships within
+the industry to enhance its market development.
+
+Each alliance typically involves a formal agreement between the Company and a
+strategic alliance partner, pursuant to which the parties agree to develop and
+sell products to the partner for use by the partner, or by its customers who are
+in such cases the end-users of the Company's products. Each agreement specifies
+the terms of the alliance, which may include off-the-shelf products and/or
+parameters for product development and product specifications, product pricing,
+the terms of intellectual property ownership, and the responsibilities of each
+partner for system integration, proposal drafting, sales and marketing. Once the
+products are developed, the strategic alliance partner will issue specific
+orders to the Company from time-to-time to purchase products, subject to the
+terms of the overall agreement. The products are generally purchased and paid
+for by the partner for resale to its customers directly or as part of a larger
+system installation. Sales to a strategic alliance partner may vary from period
+to period, depending on the timing of orders, which in turn may depend on a
+number of factors, including the completion of the Company's product
+development, the partner's marketing and sales efforts to its customers, the
+timing of orders from the partner's customers, and various internal financial,
+strategic and other factors specific to a partner or any of its customers.
+Accordingly, sales to a partner in one period are not necessarily predictive of
+sales to the partner in future periods.
+
+The Company classifies its alliances into the following categories: OSS/BSS, OEM
+and reseller. The following is a list of the Company's current significant
+strategic alliances:
+
+OSS/BSS
+Alliances in this category encompass complementary software application vendors
+with whom the Company has a joint marketing relationship to provide the vendor's
+customers with end-to-end solutions for operations support functions.
+
+
+
+
+                                      -6-
+<PAGE>   7
+
+Dynamicsoft, Inc. - The Company's Convergent Mediation(TM) solutions interface
+with the Dynamicsoft Session Management Suite proxy server to collect important
+usage information, providing mediation and data warehousing capabilities to
+wireline and wireless carriers.
+
+eMerging Information Systems ("eMIS") - The Company's Convergent Mediation(TM)
+solutions work with eMIS' Libertis billing and customer care system to provide a
+total ISP billing solution that performs functions ranging from collecting usage
+data from network elements to sorting, filtering and otherwise preparing data
+for bill rendering.
+
+Geneva Technology ("Geneva") - The Company's Convergent Mediation(TM) solutions
+provide important usage information to Geneva's carrier-grade billing. Geneva
+can handle the volumes of data that are typical of companies such as national
+PTTs that support many millions of customers.
+
+Info Directions, Inc ("IDI"). - The Company's Convergent Mediation(TM) solutions
+provide important usage information to IDI's billing solutions for the
+integrated communications industry. IDI develops fully convergent and flexible
+billing systems.
+
+PortalSoftware, Inc. ("Portal") - The Company's Convergent Mediation(TM)
+solutions provide important usage information to Portal's real-time customer
+management and billing platform, Infranet(TM), targeted at IP and
+next-generation communications service providers.
+
+XACCT Technologies ("XACCT")- XACCT and ACE*COMM together provide a converged
+communication solution for both the IP and circuit-switch markets.
+
+OEM
+Alliances in this category encompass original equipment manufacturers that embed
+the Company's technologies into their solutions for end-users.
+
+Compagnie Financiere Alcatel ("Alcatel") - The Company's Convergent
+Mediation(TM) solutions collect usage information from specific Alcatel switches
+providing the mission-important billing information carriers need.
+
+Cisco Systems, Inc. ("Cisco") - The Company is a Cisco New World Ecosystem
+alliance partner focusing on mediation and data warehousing solutions for
+convergent networks.
+
+Marconi Corporation, PLC ("Marconi")- The Company provides Convergent
+Mediation(TM) solutions that work in conjunction with Marconi's ServiceOn
+Management(R) suite of products.
+
+Motorola, Inc. - The Company provides Convergent Mediation(TM) solutions,
+integrated into the Mobile Data Gateway switch, that collect and format call
+detail records for electronic transmission to a billing center.
+
+TRW, Inc. - The Company provides subcontract services for its Convergent
+Mediation(TM) platform to TRW Inc., for the real-time usage data management,
+warehousing and analysis requirements of a digital radio service in the United
+Kingdom.
+
+RESELLERS
+Alliances in this category encompass leading hardware and software vendors or
+integrators who are resellers for the Company's products.
+
+General Dynamics Corporation ("GD")- As a GD subcontractor for network
+management products, the Company installs and supports NetPlus(TM) at multiple
+military facilities.
+
+Keane, Inc. - The Company's primary involvement with Keane Inc., is the delivery
+of NetPlus(TM) and related services to United States Government installations
+around the world.
+
+
+
+                                      -7-
+<PAGE>   8
+
+Siemens AG - The Company sells its Enterprise Telemanagement Operations Support
+and Convergent Mediation(TM) solutions outside the United States through Siemens
+AG, who serves as a prime contractor.
+
+
+BACKLOG
+
+The Company defines backlog as signed contracts or purchase orders for delivery
+of its product-based solutions generally within the next year. Backlog at June
+30, 2001, 2000, and 1999 was approximately $5.7 million, $8.9 million, and $7.3
+million, respectively. Backlog, as defined, does not include contracts for
+solutions that require the further issuance of purchase orders.
+
+The Company's contracts are large and technically complicated and require a
+significant commitment of management and financial resources from our customers.
+The development of a contract is typically a lengthy process because it must
+address a customer's specific technical requirements and often requires internal
+approvals that require substantial lead-time. Accordingly, the Company may
+experience significant variations in revenue from quarter-to-quarter, as a
+result of delays in contract signing or contract order deliveries. In addition,
+contracts that involve software deliveries may involve tailoring of the product
+to specific customer requirements, which can delay final delivery of the order.
+No assurance can be given that current backlog will necessarily lead to revenue
+in any specific future period.
+
+
+COMPETITION
+
+Competition in the markets for the Company's product-based solutions is driven
+by rapidly changing enabling and core network and communications technologies,
+evolving industry standards, frequent new product introductions and
+enhancements, and rapid changes in customer requirements. To maintain and
+improve its competitive position, the Company must continue to develop and
+introduce value-added, timely and cost-effective new products, features and
+services that keep pace with technological developments and emerging industry
+standards, and address the increasingly sophisticated needs of our customers.
+The Company expects continued growth and intense competition in the
+telecommunications and Internet service provider market and the enterprise
+network market.
+
+The Company believes that the principal competitive factors in these markets
+include specialized project management capabilities and technical expertise,
+compliance with industry quality standards and protocols, customer support,
+product features such as adaptability, scalability and flexibility, the ability
+to integrate with other products, functionality and ease-of-use, product
+reputation, responsiveness to customer needs, and timeliness of implementation.
+To remain competitive, the Company will be required to respond promptly and
+effectively to the challenges of next generation technological changes within
+the industry, as well as to our competitors' innovations.
+
+In the telecommunications and Internet service provider market, the Company's
+current and prospective competitors include: (i) large carriers which internally
+develop full system products for themselves, tailored to their particular
+specifications, (ii) next generation service provider companies, such as Comptel
+Corporation, Narus, Inc., and Xacct Technologies, that can provide data
+collection, mediation components, and data storage capabilities, (iii) vendors
+that supply more inclusive products, such as Veramark Technologies, Inc., and
+CGI, Inc., (iv) telecommunications equipment manufacturers that provide network
+products such as Lucent Technologies, Inc., and Ericsson, (v) companies that
+provide OSS software applications for carriers, such as Stonehouse Technologies,
+Inc., and MetaSolv Software, Inc., (vi) companies that supply product components
+such as Ericcson-Hewlett-Packard Telecommunications (EHPT) and Fujitsu, (vii)
+companies that provide billing and customer care applications, such as Amdocs
+Limited and Portal Software, Inc., and (viii) companies that develop custom
+solutions, such as EDS Inc., and Computer Sciences Corp.
+
+In the enterprise network market, our current and prospective competitors
+include (i) companies that provide products for telephony networks, such as MDR
+Switchview Global Networks Inc., Peregrine Systems, Inc., and Veramark
+Technologies, Inc., and (ii) companies that provide products for data networks,
+such as Remedy Corp. and Computer Associates International, Inc.
+
+
+
+                                      -8-
+<PAGE>   9
+
+The Company believes that its ability to compete in its markets depends in part
+on a number of competitive factors outside its control, including the ability of
+others to develop technology that is competitive with the Company's products,
+the price at which competitors offer comparable products and services, the
+extent of competitors' responsiveness to customer needs, and the ability of our
+competitors to hire, retain and motivate key personnel. The Company competes
+with a number of companies that have substantially greater financial, technical,
+sales, marketing and other resources, as well as greater name recognition. As a
+result, the Company's competitors may be able to adapt more quickly to new or
+emerging technologies and changes in customer requirements, or to devote greater
+resources to the promotion and sale of their products than the Company. There
+can be no assurance that our current or potential competitors will not develop
+products comparable or superior to those developed by the Company, or adapt more
+quickly than the Company to new technologies, evolving industry trends or
+changing customer requirements.
+
+
+RESEARCH AND PRODUCT DEVELOPMENT
+
+The Company's research and development efforts are focused on developing new
+products to meet the growing needs of its customers and on improving existing
+products by incorporating new features and technologies. The Company believes
+that the timely development of new products and enhancements is essential to
+maintaining its competitive position in the marketplace. In its research and
+development efforts the Company works closely with customers, end-users and
+leading technology vendors, in tailoring new features which are subsequently
+incorporated into future versions of products available to all customers. The
+Company continually reviews opportunities to license technologies from third
+parties when appropriate based on timing and cost considerations.
+
+Research and development expenses were $1,650 thousand, $2,263 thousand and
+$1,562 thousand in 2001, 2000, and 1999. As a percent of revenues, research and
+development expenses were approximately 7% in 2001 and 2000, respectively and
+approximately 5% in 1999.
+
+
+PROPRIETARY RIGHTS AND LICENSES
+
+The Company does not currently hold any patents and relies primarily on a
+combination of copyright, trademark, contract and trade secret laws and
+statutory and/or common law to maintain its proprietary rights to its products.
+The Company believes that, because of, among other things, the rapid pace of
+technological change in the telecommunication and software industries, patent
+protection for its products is a less significant factor in the Company's
+success than the knowledge, ability and experience of the Company's employees,
+the frequency of product enhancements and the timeliness and quality of support
+services provided by the Company.
+
+The Company generally enters into confidentiality agreements with its employees,
+consultants, customers and potential customers and limits access to, and
+distribution of, its proprietary information. Use of the Company's software
+products is usually restricted to specified locations and is subject to terms
+and conditions prohibiting unauthorized reproduction or transfer of the software
+products. The Company also seeks to protect its software, including the source
+code, as a trade secret and as copyrighted work.
+
+The Company cannot guarantee that the steps taken to protect its proprietary
+rights will be adequate to deter misappropriation of its intellectual property,
+and the Company may not be able to detect unauthorized use and take appropriate
+steps to enforce its intellectual property rights. If third parties infringe or
+misappropriate the Company's copyrights, trademarks, trade secrets or other
+proprietary information, the Company could be seriously harmed. In addition,
+although the Company believes that its proprietary rights do not infringe on the
+intellectual property rights of others, other parties may assert infringement
+claims against the Company or claim that it has violated their intellectual
+property rights. Claims against the Company, either successful or unsuccessful,
+could result in significant legal and other costs and may be a distraction to
+management. The Company has primarily focused on intellectual property
+protection within the United States but has expanded that scope to selected
+international markets. Protection of intellectual property outside the United
+Sates will sometimes require additional filings with local patent, trademark, or
+copyright offices, as well as the implementation of contractual or license terms
+different from those used in the United States. Protection of intellectual
+property in many foreign countries is weaker and less reliable than in the
+United
+
+
+
+                                      -9-
+<PAGE>   10
+
+States. If our business expands into foreign countries, costs and risks
+associated with protecting our intellectual property abroad will increase.
+
+
+EMPLOYEES
+
+At June 30, 2001, the Company employed 154 full and part-time employees. None of
+the Company's employees are represented by a labor union. The Company has
+experienced no work stoppages and believes that its employee relations are good.
+
+
+
+ITEM 2.    PROPERTIES
+
+The Company leases space at two principal office locations: Gaithersburg,
+Maryland and Montreal, Canada. The Company believes that its facilities are
+adequate for its current needs and that suitable additional space will be
+available as required. The Gaithersburg office is the Company's corporate
+headquarters and is used for product assembly, software and engineering
+development, professional services and support, sales, and administration. The
+following sets forth information concerning the Company's significant
+facilities:
+
+<TABLE>
+<CAPTION>
+                                SQUARE                                 CURRENT
+LOCATION                        FOOTAGE       LEASE EXPIRATION         ANNUAL RENT
+--------                        -------       ----------------         -----------
+
+<S>                             <C>           <C>                      <C>
+Gaithersburg, Maryland          38,427        November 30, 2003        $748,000 (subject to
+                                                                       annual increases of
+                                                                       approximately $21,000
+                                                                       and allocated operating
+                                                                       costs each year)
+</TABLE>
+
+
+ITEM 3.    LEGAL PROCEEDINGS
+
+The Company is not a party to any material legal proceedings.
+
+
+
+ITEM 4.    SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+No matter was submitted to a vote of its security holders during the fourth
+quarter of 2001.
+
+
+
+                                      -10-
+<PAGE>   11
+
+
+ITEM 4A.   EXECUTIVE OFFICERS OF THE REGISTRANT
+
+The following table sets forth the names, ages and positions of the current
+executive officers of the Company.
+
+<TABLE>
+<CAPTION>
+   NAME                                 AGE        CURRENT POSITION
+   ----                                 ---        ----------------
+
+<S>                                     <C>        <C>
+   George T. Jimenez                    65         Chairman of the Board, Chief Executive Officer and Treasurer
+   Joseph A. Chisholm                   60         Chief Operating Officer
+   James K. Eckler                      54         Executive Vice President of Finance and Administration
+   Dr. Thomas V. Russotto               56         Executive Vice President and Chief Technology Officer
+   Martin Demers                        38         Senior Vice President and Chief Marketing Officer
+   Loretta L. Rivers                    44         Corporate Secretary and Director of Human Resources
+</TABLE>
+
+George T. Jimenez is the Chief Executive Officer of the Company and has served
+as Treasurer and a Director of the Company since its inception in 1983. From
+1983 to September 1999, Mr. Jimenez also served as the President of the Company.
+
+Joseph A. Chisholm joined the Company in February 2001 as Vice President of
+Engineering, and was named Chief Operating Officer in August 2001. Mr. Chisholm
+served as Vice President of Engineering and Operations for GE Capital Spacenet
+Services from 1994 until his retirement in 1998.
+
+James K. Eckler joined the Company in October of 1998, and was named the
+Executive Vice President of Finance and Administration in January 1999. Prior to
+joining the Company, Mr. Eckler served as Interim CFO of a privately held
+telecommunications systems integration firm, IMCI Technologies (March 1998 to
+September 1998). Prior to that, Mr. Eckler was President of Eckler & Company, a
+privately held management consulting firm specializing in electronic commerce,
+payment systems, and logistics for global logistics companies (August 1996 to
+March 1998).
+
+Dr. Thomas V. Russotto has been a Vice President of the Company since 1985 and
+is currently an Executive Vice President and Chief Technology Officer. In 1998,
+he served as Vice President of Operations of the Company. From 1988 to 1998, Dr.
+Russotto directed the Carrier Networks Division and from 1983 to 1985 he served
+as Director of Product Development at the Company.
+
+Martin Demers has held various senior positions, including Division Vice
+President, Division Director, and Product Manager, since joining the Company in
+1996. Mr. Demers was named Senior Vice President and Chief Marketing Officer in
+November 2000.
+
+Loretta L. Rivers has been Corporate Secretary since 1989 and was also named
+Director of Human Resources in January 2001. Ms. Rivers has served in various
+capacities with the Company since its inception in 1983.
+
+The term of each executive officer will expire at the next annual meeting of the
+Board of Directors, which is scheduled to be held on November 13, 2001.
+
+
+
+                                      -11-
+<PAGE>   12
+
+
+                                     PART II
+
+ITEM 5.    MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCK HOLDER
+           MATTERS
+
+COMMON STOCK PRICES
+
+The Company's common stock is traded on The Nasdaq Stock Market ("Nasdaq") under
+the symbol ACEC. The following table sets forth for the periods indicated the
+highest and lowest bid prices at the 4:00 close for the shares of common stock
+reported on the Nasdaq National Market.
+
+<TABLE>
+<CAPTION>
+                                                    YEAR ENDED JUNE 30,
+                       -------------------------------------------------------------------------------
+                                        2001                                     2000
+                       --------------------------------------    -------------------------------------
+                             HIGH                  LOW                 HIGH                  LOW
+                       -----------------    -----------------    ----------------     ----------------
+
+<S>                          <C>                  <C>                 <C>                  <C>
+1st Quarter                  $9.81                $5.41               $ 5.50                $3.44
+2nd Quarter                   6.88                 2.25                11.00                 3.50
+3rd Quarter                   2.94                 1.06                16.00                 7.19
+4th Quarter                   1.90                 1.03                10.06                 5.00
+</TABLE>
+
+COMMON STOCKHOLDERS
+
+As of August 27, 2001, there were 9,284,093 common shares outstanding and held
+by 58 shareholders of record.
+
+DIVIDENDS
+
+The Company has never declared or paid cash dividends on the Common Stock. The
+Company currently intends to retain earnings, if any, to finance the growth and
+development of its business and does not anticipate paying cash dividends in the
+foreseeable future. The future payment of cash dividends, if any, is within the
+discretion of the Board of Directors and will depend on the future earnings,
+capital requirements, financial condition and future prospects of the Company
+and such other factors, as the Board of Directors may deem relevant.
+
+
+ITEM 6.    SELECTED FINANCIAL DATA
+
+The selected financial data presented below for each of the Company's fiscal
+years in the five-year period ended June 30, 2001 and as of June 30, 2001, 2000,
+1999, 1998, and 1997 are derived from the audited financial statements of the
+Company.
+
+<TABLE>
+<CAPTION>
+                                                          YEAR ENDED JUNE 30,
+                                  -------------------------------------------------------------------
+                                    2001           2000          1999          1998           1997
+                                  --------       --------      --------      --------       ---------
+                                                  (IN THOUSANDS EXCEPT PER SHARE DATA)
+<S>                               <C>            <C>           <C>           <C>            <C>
+STATEMENT OF OPERATIONS DATA:
+Revenue                           $ 24,179       $ 33,766      $ 29,657      $ 22,465       $ 33,684
+Gross profit (1)                    10,844         19,413        15,892         9,140         16,057
+
+Net (loss) income                 $ (6,927)      $  2,198      $    618      $ (9,219)      $  2,624
+
+Net (loss) income per share:
+                Basic             $  (0.75)      $   0.24      $   0.07      $  (1.06)      $   0.35
+                                  ========       ========      ========      ========       ========
+                Diluted           $  (0.75)      $   0.23      $   0.07      $  (1.06)      $   0.32
+                                  ========       ========      ========      ========       ========
+
+</TABLE>
+
+
+
+                                      -12-
+<PAGE>   13
+
+
+<TABLE>
+<CAPTION>
+                                  ----------------------------------------------------------------------------------------
+                                                                         JUNE 30,
+                                  ----------------------------------------------------------------------------------------
+                                       2001              2000              1999               1998               1997
+                                  ---------------    --------------    --------------     --------------    --------------
+                                                                      (IN THOUSANDS)
+<S>                                  <C>                <C>               <C>                <C>               <C>
+BALANCE SHEET DATA:
+Cash and cash equivalents            $ 5,770            $ 4,386           $ 3,424            $ 2,956           $ 7,920
+Working capital                        7,879             13,335             7,959              5,978            17,864
+Total assets                          14,943             22,785            18,699             24,593            33,518
+Long-term liabilities                    323                597                74                122             1,808
+Total liabilities                      4,686              5,866             5,220             11,808            11,809
+Stockholders' equity                  10,257             16,919            13,479             12,785            21,709
+</TABLE>
+
+
+(1)   Gross profit for fiscal year 2000 differs from amounts previously reported
+      due to a reclassification of depreciation expense and other indirect costs
+      allocable to contracts. These reclassifications were made to conform
+      fiscal year 2000 reported amounts to the current year's presentation and
+      had no effect on net income.
+
+
+SELECTED QUARTERLY INFORMATION
+
+The following table presents certain unaudited statement of operations data for
+each quarter of 2001 and 2000. This data has been derived from the Company's
+unaudited financial statements and has been prepared on the same basis as the
+Company's audited financial statements, which appear in this Annual Report on
+Form 10-K. In the opinion of the Company's management, this data includes all
+adjustments (consisting only of normal recurring adjustments) necessary for a
+fair presentation of such data. Such quarterly results are not necessarily
+indicative of future results of operations. This information is qualified by
+reference to, and should be read in conjunction with, the Company's financial
+statements and notes thereto included elsewhere in this Annual Report on Form
+10-K.
+
+<TABLE>
+<CAPTION>
+                                                            FISCAL THREE MONTHS ENDED
+                               -----------------------------------------------------------------------------------
+                                                 2001                                      2000
+                               -----------------------------------------  ----------------------------------------
+                               SEPT. 30,  DEC. 31,   MARCH 31,  JUNE 30,  SEPT. 30,  DEC. 31,  MARCH 31,  JUNE 30,
+                                 2000       2000       2001       2001      1999       1999      2000       2000
+                               ---------  --------   ---------  --------  ---------  --------  ---------  --------
+                                                       (IN THOUSANDS EXCEPT PER SHARE DATA)
+<S>                            <C>        <C>        <C>        <C>       <C>        <C>       <C>        <C>
+STATEMENT OF OPERATIONS DATA:
+Revenue                         $ 9,005   $ 5,275    $ 5,519      4,380    $ 8,179   $ 7,975   $ 8,073    $ 9,539
+Gross profit (1)                  4,397     2,206      2,656      1,585      4,290     4,731     5,218      5,174
+Net income (loss)                   169    (2,759)    (1,807)    (2,530)       542       672       705        279
+
+Net income (loss) per share:
+          Basic                 $  0.02   $ (0.30)   $ (0.20)   $ (0.27)   $  0.06   $  0.07   $  0.08    $  0.03
+                                =======   =======    =======    =======    =======   =======   =======    =======
+          Diluted               $  0.02   $ (0.30)   $ (0.20)   $ (0.27)   $  0.06   $  0.07   $  0.07    $  0.03
+                                =======   =======    =======    =======    =======   =======   =======    =======
+</TABLE>
+
+
+(1)   Gross profit for fiscal year 2000 differs from amounts previously reported
+      due to a reclassification of depreciation expense and other indirect costs
+      allocable to contracts. These reclassifications were made to conform
+      fiscal year 2000 reported amounts to the current year's presentation and
+      had no effect on net income.
+
+
+
+
+                                      -13-
+<PAGE>   14
+
+The Company's quarterly operating results have in the past and will in the
+future vary significantly as a result of the timing of contract execution,
+receipt of purchase orders, and performance of the work or completion of
+delivery. Large contracts or orders are typically preceded by long sales cycles
+and, accordingly, the timing of such a contract or order has been and will
+continue to be difficult to predict. Certain contracts or orders require
+additional tailoring to customer requirements and, accordingly, vary in timing
+of delivery. The failure to obtain or delays in the completion of one or more
+large contracts or orders, for any reason, could have a material adverse effect
+on the Company's results of operations and financial condition. The variations
+may be material.
+
+The timing of large contracts or orders depends on a variety of factors
+affecting the capital spending decisions of the Company's customers, which in
+turn can affect the Company's quarterly operating results. These factors include
+changes in governmental regulation, changes in the customers' competitive
+environment, changes in industry-specific economic conditions, pricing policies
+by the Company or its competitors, personnel changes, demand for the Company's
+solutions, the number, timing and significance of new technologies developed by
+either the Company or its competitors, the ability of the Company to develop,
+introduce and market new and enhanced versions of its product-based solutions on
+a timely basis, and the mix of direct and indirect sales and general economic
+factors.
+
+The Company's sales cycle, from initial contact to contract execution, order and
+delivery, also varies substantially from customer-to-customer and from
+project-to-project. The purchase of the Company's product-based solutions
+generally involves a significant commitment of customer capital and management
+time. The sales cycle associated with the purchases of the Company's
+product-based solutions is subject to a number of additional significant risks,
+including customers' budgetary constraints and internal acceptance reviews, over
+which the Company has little or no control. The delivery cycle varies depending
+on the extent to which the contract or order requires tailoring to a customer's
+requirements and the extent to which such requirements are fixed in advance or
+developed over time.
+
+The Company's revenues in any quarter are substantially dependent on orders
+booked, products delivered, and services performed. Because the Company's
+operating expenses are based, in part, on anticipated revenue levels and because
+a high percentage of the Company's expenses are relatively fixed, a delay in the
+recognition of revenue from even a limited number of contracts, or the absence
+of anticipated orders, or a delay in adjusting operating expenses to lower
+actual or anticipated revenues could cause significant variation in operating
+results from quarter-to-quarter and could cause net income to fall significantly
+short of anticipated levels.
+
+Based upon all of the foregoing, the Company believes that quarterly revenue and
+operating results are likely to continue to vary significantly in the future and
+that period-to-period comparisons of its results of operations are not
+necessarily meaningful and should not be relied upon as indications of future
+performance. Further, it is likely that in some future quarter the Company's
+revenue or operating results will be below the expectation of public market
+analysts and investors. In such event, the price of the Common Stock could be
+materially adversely affected.
+
+
+
+ITEM 7.    MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+           RESULTS OF OPERATIONS
+
+This Report contains certain statements of a forward-looking nature relating to
+future events or the future financial performance of the Company. Investors are
+cautioned that such statements are only predictions and that actual events or
+results may differ materially. In evaluating such statements, investors should
+specifically consider the various factors identified in this Report which could
+cause actual results to differ materially from those indicated by such
+forward-looking statements, including the matters set forth in "Business -
+Backlog", "Business - Proprietary Rights and Licenses", and "Business - Selected
+Financial Data" and "--Additional Factors Affecting Future Operating Results."
+Investors should not place undue reliance on these forward-looking statements.
+These forward-looking statements speak only as of the date in which they are
+made, and the Company undertakes no obligation to update any forward-looking
+statements.
+
+
+
+                                      -14-
+<PAGE>   15
+
+
+OVERVIEW
+
+The Company enters into formal arrangements that provide for single or multiple
+deliverables of hardware, software and related services. These arrangements are
+formalized by either a simple purchase order or by more complex contracts such
+as development, reseller or master agreements. These arrangements are typically
+U.S. dollar denominated and typically have an aggregate value of several
+thousand to several million dollars and vary in length from 30 days to several
+years (e.g., master agreements). Agreements spanning several years are typically
+implemented in smaller statements of work or orders that are typically
+deliverable within three to twelve months.
+
+The Company derives revenues primarily from the sale of its product-based
+solutions, where a combination of hardware, proprietary software and related
+services are offered to customers. When an agreement provides for significant
+modification or customization of software, or when the Company's system
+integration and product development are essential to the functionality of the
+software, revenues related to the software licenses and services are aggregated
+and the combined revenues are recognized on a percentage-of-completion basis.
+Revenue recognized using the percentage-of-completion method is based on the
+estimated stage of completion of individual contracts determined on a cost or
+level of efforts basis. Any hardware or post contract customer support provided
+for under the terms of the agreement is unbundled. Hardware revenue is
+recognized upon delivery (e.g., transfer of title) and post contract customer
+support is recognized ratably over the term of the arrangement.
+
+Most of the Company's professional services are delivered in conjunction with
+the Company's solutions and are essential to the functionality of other elements
+of the arrangement. However, the Company occasionally sells unbundled services;
+and, in these instances, the Company generally recognizes revenue as the
+services are performed.
+
+In limited instances, the Company enters into a multiple element arrangement
+that does not involve significant modification or customization of the related
+software. In these limited instances, the Company allocates revenue to each
+element of the arrangement based on objective evidence of the element's fair
+value based on internal price listings developed by the Company. Revenue is
+recognized upon delivery (i.e., transfer of title) when a signed agreement
+exists, the fee is fixed and determinable, and collection of the resulting
+receivable is probable.
+
+Revenue for a given period typically reflects products delivered or services
+performed during the period with respect to relatively large financial
+commitments from a small number of customers. During 2001, the Company had 23
+customers generating $250,000 or more in revenues during the period ("Major
+Customers") representing approximately 93% of total revenues. Siemens AG, the
+Company's largest customer in fiscal year 2001, represented approximately 23% of
+total revenues and Winstar contributed approximately 14% of total revenues.
+During 2000, the Company had 27 Major Customers representing approximately 90%
+of total revenues. One customer, Winstar, contributed approximately 11% of total
+revenues earned during 2000. During 1999, the Company had 25 Major Customers
+representing approximately 87% of total revenues. During 1999, sales to three
+customers representing a single end-user in Asia comprised approximately 14% of
+total revenue, General Dynamics Network Systems contributed approximately 12%,
+and Winstar contributed approximately 10%. The average revenues earned per Major
+Customer were $979 thousand in 2001, $1,129 thousand in 2000, and $1,031
+thousand in 1999.
+
+During fiscal 2001, the Company experienced a significant net loss from
+operations, primarily due to lower demand from its North American
+telecommunications customers. Management expects this lower demand to continue
+in the foreseeable future. To offset the effects of the current lower North
+American demand, the Company continues to target sales efforts in what it
+believes to be a growing market for its Convergent Mediation solutions outside
+of North America.
+
+The Company is focused on streamlining the organization to meet its objectives,
+conserve cash and control expenses. In February 2001, the Company reduced staff
+by approximately 15% of the Company's then 175 full-time employees. This
+reduction, along with the elimination of various middle management positions
+during the second quarter of fiscal 2001, was designed to reduce costs without
+materially impacting the Company's ability to maintain its historical levels of
+customer involvement and technological innovation.
+
+
+
+                                      -15-
+<PAGE>   16
+
+The Company plans to continue pursuing new business opportunities in
+partnerships and alliances with other companies, although there can be no
+assurances as to the timing or effectiveness of any partnering arrangements.
+These arrangements could include: technology and marketing alliances driven by
+product development requirements and sales opportunities, as well as other
+business combinations that would strengthen the Company's product offerings and
+market potential.
+
+
+RESULTS OF OPERATIONS
+
+REVENUES
+Total revenues in 2001 were $24,179 thousand compared to $33,766 thousand in
+2000 and $29,657 thousand in 1999. Total revenues decreased $9,587 thousand or
+28% in 2001 and increased $4,109 thousand or 14% in 2000, as compared to the
+prior corresponding periods.
+
+Revenue growth depends, in part, on the overall demand for the Company's
+product-based solutions. Because the Company's sales are primarily to
+telecommunication and Internet service providers and enterprises, its ability to
+generate revenue also depends on specific conditions affecting those providers
+and on general economic conditions. The decrease in revenues in 2001, over the
+prior corresponding period, reflects the weak economic conditions in the
+domestic telecommunication and Internet service provider market during the last
+three quarters of 2001. Customers in this market often rely on the capital
+markets to meet their ongoing cash flow requirements and to support their
+growth. During 2001, customers in this market encountered reduced demand for
+their products and difficulty in accessing capital markets, resulting in a
+softening demand for the Company's products. Consequently, revenues from sales
+to telecommunication and Internet service providers decreased 46% to $14,671
+thousand and represented approximately 61% of total revenues. Revenues from
+sales to enterprises increased 49% to $9,508 thousand in 2001 and represented
+approximately 39% of total revenues. A single international customer in 2001
+contributed significantly to the increase in sales to enterprises.
+
+In 2000, next generation service providers in the telecommunication and Internet
+market were experiencing rapid growth; and, as a result, the Company experienced
+increased demand for Convergent MediationTM product-based solutions. Revenues
+from sales to telecommunication and Internet service providers increased 39% to
+$27,386 thousand in 2000 from 1999 and represented approximately 81% of total
+revenue. Conversely, revenues from sales to enterprises decreased 11% from the
+prior corresponding period to $6,380 thousand in 2000 and represented 19% of
+total revenues. The decrease in sales in 2000 to enterprises, as compared to the
+prior period, is primarily due to a decrease in sales through alliance partners.
+
+COST OF REVENUES
+The Company's cost of revenue consists primarily of direct labor costs, direct
+material costs, and allocable indirect costs; and, to a lesser extent, amortized
+capitalized software development costs, and inventory obsolescence costs. The
+expenses for services provided by certain alliance partners in connection with
+the installation and integration of the Company's products may also be included.
+
+Cost of revenues were $13,335 thousand in 2001, $14,353 thousand in 2000, and
+$13,765 thousand in 1999, representing 55%, 43%, and 46% of total revenues in
+each year, respectively. Cost of revenues decreased in 2001, reflecting a
+reduction in labor and labor related costs in response to unfavorable economic
+conditions. In 2001, the Company reduced direct labor at a slower rate than the
+decrease in revenues for the period. Cost of revenues increased $588 thousand
+or 4% in 2000, reflecting an increase in labor and labor related costs, which
+were partially offset by a decrease in material costs, as the Company increased
+staffing levels in response to new business initiatives and developments.
+
+SELLING, GENERAL AND ADMINISTRATIVE EXPENSES
+Selling, general and administrative expenses consist of costs to support the
+Company's sales and administrative functions. Sales expenses consist primarily
+of salary, commission, travel, trade show, bid and proposal, and other related
+selling and marketing expenses required to sell our product-based solutions to
+target markets. General and
+
+
+
+                                      -16-
+<PAGE>   17
+
+administrative expenses consist of unallocated costs related to information
+systems infrastructure, facilities, finance and accounting, legal, human
+resources and corporate management.
+
+Selling, general and administrative expenses were $15,345 thousand in 2001,
+$15,184 thousand in 2000, and $13,046 in 1999, representing 63%, 45% and 44% of
+total revenues in each year, respectively. Selling, general and administrative
+expenses increased $161 thousand or 1% in 2001. The increase is primarily a
+result of an increase in sales related expenses as the Company modified its
+sales structure to obtain new customers and support existing customers. In
+addition, certain termination costs associated with headcount reductions are
+included. The increase in selling, general and administrative costs were
+partially offset by an increase in the percent of allocable fixed expenses to
+cost of sales and research and development. Selling, general and administrative
+expenses increased $2,138 thousand or 16% in 2000, and reflect higher staffing
+levels, higher compensation and associated benefits, and recruiting costs.
+Higher staffing levels resulted from the need to support new business
+developments. These increases were partially offset by lower professional fees.
+
+Sales, general and administrative expenses increased in 2001 as a percent of
+revenue to 63% due to the fixed component of these costs being spread over a
+smaller revenue base than in the prior period. In 2000, the selling, general and
+administrative expenses as a percent of revenues were comparable with that of
+the prior period.
+
+RESEARCH AND DEVELOPMENT EXPENSES
+Research and development expenses consist of personnel costs and the associated
+infrastructure costs required to support the design and development of the
+Company's product-based solutions.
+
+Research and development expenses were $1,650 thousand in 2001 compared to
+$2,263 thousand in 2000, and $1,562 thousand in 1999. Research and development
+expenses decreased $613 thousand or 27% in 2001 and increased $701 thousand or
+45% in 2000, as compared to the prior corresponding period. Research and
+development expenses represented 7% of revenues in 2001 and 2000, respectively
+and 5% of revenues in 1999. The decrease in research and development in 2001,
+over the prior corresponding period, reflects a decrease in resources applied to
+research and development. The Company was selective in approving new projects
+and in some instances discontinued projects that were not related to the
+development of Convergent Mediation (TM) solutions. The increase in research and
+development in 2000, compared to the prior corresponding period, reflects an
+increase in resources applied to develop next generation technologies,
+especially Convergent Mediation (TM) solutions and a decrease in capitalized
+software development costs. The Company did not capitalize software development
+costs in 2001 or in 2000 because the Company's product development methodology
+generally establishes technological feasibility near the end of the development
+process.
+
+The Company believes that adequate research and development expenditures are
+essential to maintaining its competitive position.
+
+PROVISION FOR DOUBTFUL ACCOUNTS
+The Company recognized a net provision for doubtful accounts of $812 thousand in
+2001 compared to a net recovery of $200 thousand in 2000, and a net provision of
+$812 thousand in 1999, representing an increase of $1,012 thousand in 2001 and a
+decrease of $1,012 thousand in 2000, compared to the prior corresponding period.
+
+During 2001, some of the Company's telecommunication and Internet service
+provider customers, including Winstar, which elected to reorganize under Chapter
+11 of the bankruptcy code, were unable to obtain adequate financing or were
+affected by unfavorable economic conditions in their markets. These conditions,
+in turn, adversely affected the Company's ability to collect outstanding
+accounts receivable resulting in increased bad debts. Additionally, recoveries
+in 2001 were substantially less than that of the prior comparable period. The
+Company expects that domestic telecommunication and Internet service providers
+will continue to encounter difficulties in 2002 and this may impact their
+ability to pay amounts due to the Company. The decrease in the provision for
+doubtful accounts in 2000, as compared to the prior corresponding period,
+reflects the successful collection of accounts previously reserved or written
+off.
+
+
+
+                                      -17-
+<PAGE>   18
+
+
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+<TABLE>
+<CAPTION>
+                                                                     YEARS ENDED JUNE 30,
+                                                                        (IN THOUSANDS)
+                                              --------------------------------------------------------------------
+                                                               CHANGE                        CHANGE
+                                                2001          2001-2000         2000        2000-1999      1999
+                                              --------       -----------     ---------     -----------   ---------
+
+<S>                                           <C>            <C>             <C>           <C>           <C>
+CASH AND CASH EQUIVALENTS                       5,770             32%          4,386           28%         3,424
+
+WORKING CAPITAL                                 7,879            (41)%        13,335           68%         7,959
+
+PERCENT OF CASH AND EQUIVALENTS TO TOTAL
+ASSETS                                             39%                            19%                         18%
+
+NET CASH PROVIDED BY
+(USED FOR) OPERATING ACTIVITIES                 1,827                           (355)                      2,662
+
+NET CASH (USED FOR) INVESTING ACTIVITIES         (502)                          (530)                     (1,239)
+
+NET CASH PROVIDED BY
+(USED FOR) FINANCING ACTIVITIES                    59                          1,847                        (955)
+</TABLE>
+
+At June 30, 2001, the Company's primary sources of liquidity were cash and cash
+equivalents of $5,770 thousand and a $3.0 million Accounts Receivable Purchase
+Agreement, of which there were no outstanding borrowings at June 30, 2001. Cash
+and cash equivalents were $5,770 thousand compared to $4,386 thousand at June
+30, 2000 and represented year-over-year increases at June 30, 2001 and 2000 of
+32% and 28%, respectively. Cash and cash equivalents were 39% of total assets at
+June 30, 2001 compared to 19% at June 30, 2000.
+
+Working capital was $7,879 thousand at June 30, 2001, $13,335 thousand at June
+30, 2000 and $7,959 thousand at June 30, 1999. Working capital decreased $5,456
+thousand or 41% in 2001 and increased $5, 376 thousand or 68% in 2000, as
+compared to the prior corresponding period. The decrease in working capital in
+2001, was primarily a result of operating losses, net of depreciation and
+amortization in excess of purchased assets. In contrast, the increase in working
+capital in 2000 was primarily due to operating income, depreciation and
+amortization in excess of purchased assets, and the proceeds from common stock
+exercises.
+
+The Company's operating activities generated $1,827 thousand in cash during
+2001, used cash of $355 thousand in 2000, and generated $2,662 thousand in 1999.
+The changes between years in cash flows from operating activities are
+principally due to changes in net income (loss) after adjustments for non-cash
+charges such as depreciation and changes in working capital amounts. Changes in
+accounts receivable balances are typically the most significant component of
+working capital and fluctuate relative to the timing and volume of the Company's
+revenues.
+
+Net cash used for investing activities was $502 thousand, $530 thousand and
+$1,239 thousand in 2001, 2000, and 1999, respectively. The cash outflows for
+investing activities in 2001 and 2000 are due to capital purchases of computer
+equipment.
+
+The Company's financing activities generated cash of $59 thousand in 2001,
+$1,847 thousand in 2000, and used cash of $955 thousand in 1999. The Company
+incurred positive cash flows from financing activities in 2001 and 2000
+primarily as a result of common stock option exercises and employee stock
+purchases. Common stock option exercises were more significant in 2000,
+reflecting an increase in the Company's stock market price. Additionally,
+borrowings and other financial obligations resulted in a net cash outflow of
+$206 thousand in 2001, compared to a net cash inflow of $605 thousand in 2000.
+
+
+                                      -18-
+<PAGE>   19
+
+
+LINES OF CREDIT
+On March 28, 2001, the Company replaced its original accounts receivable
+purchase agreement with a new Accounts Receivable Purchase Agreement (the
+"Agreement" or "new Agreement") with Silicon Valley Bank (the "Bank"). Under
+this new Agreement, the Company may borrow up to $3 million through the Bank's
+discretionary purchases of accounts receivable. The Bank will pay up to 80% of
+the face value of each receivable with the balance, net of finance charges,
+payable to the Company following collection of the receivable. The costs of this
+Agreement include a finance charge equal to the Bank's prime rate of the average
+daily balance of receivables purchased and outstanding, a monthly administrative
+fee of 0.25% of the face amount of receivables purchased that month, and certain
+costs and expenses of the Bank in administering the facility. Additionally, the
+Company paid a non-refundable facility fee of $20,000 to the Bank upon execution
+of the new Agreement and issued warrants to purchase 40,000 shares of its common
+stock at any time within five years of the date of grant, at an exercise price
+of $1.56 per share. The receivables purchased by the Bank must be collected
+within 90 days (unless otherwise agreed by the Bank and the Company), must not
+be in dispute, and must conform to other eligibility requirements. The purchases
+are with full recourse against the Company, which has agreed to repurchase any
+non-conforming receivables subject to the Bank's ability to allow the
+substitution of conforming for non-conforming receivables. The Company's
+obligations under the Agreement are secured by a security interest in all of the
+Company's assets and intellectual property. Advances made to the Company are
+repayable in full upon demand in the event of default under the Agreement,
+including a material breach of any representation or warranty regarding the
+receivables purchased or the Company's insolvency. As of June 30, 2001, there
+were no outstanding borrowings under this Agreement.
+
+The Company has amounts outstanding on an Equipment Financing Agreement (the
+"Equipment Agreement") with the Bank, which enabled the Company to borrow
+against recently acquired Company equipment and fixed assets through January 31,
+2001, the date the agreement expired. The Equipment Agreement bears interest at
+the 36-month treasury rate plus 350 basis points as of the borrowing date,
+requires a commitment fee (and the reimbursement of bank expenses for certain
+costs of making and administering this facility) and a final payment equal to
+6.5% of the value of the initial amount of each advance at the end of the
+financing period for that advance. Financial covenants under the Equipment
+Agreement require the Company to maintain certain liquidity ratios. Outstanding
+advances as of June 30, 2001 aggregated approximately $492,000 and are due
+through periods ended September 2003.
+
+Under the terms of its office lease, the Company maintains a letter of credit
+under its line of credit with the Bank, which names the landlord as the sole
+beneficiary and which may be drawn on by the landlord in the event of a monetary
+default by the Company. The letter of credit required under the lease for fiscal
+year 2001 is $300,000, decreasing annually through fiscal year 2003 to $100,000.
+As of the date of this filing, the Company was not subject to any draw against
+this letter of credit by the landlord. The Company also maintains other customer
+related letters of credit issued by Silicon Valley Bank to support specific
+terms and conditions of customer orders. The aggregate of these customer related
+letters of credit total approximately $62,000 at June 30, 2001. The Company
+maintains minimum cash balances to secure its obligations under these letters of
+credit.
+
+The Company has no significant commitments for capital expenditures at June 30,
+2001. The Company believes that existing cash balances, cash flow from
+operations, the availability of credit under its credit facilities with the Bank
+and other potential sources of financing will support the Company's working
+capital requirements for the next twelve months.
+
+
+ADDITIONAL FACTORS AFFECTING FUTURE OPERATING RESULTS
+
+The Company provides product-based solutions to a technology driven industry
+sector. Therefore, the Company's success is dependent in part upon factors
+beyond its control. This report contains forward-looking statements relating to
+the prospective operating results of the Company. The following are factors, in
+addition to those set forth in "Backlog", "Competition", "Proprietary Rights and
+Licenses", and "Selected Quarterly Financial Data", which could affect the
+Company's future operating results. These factors are intended to serve as a
+cautionary statement to statements that may be made, either verbally or in
+writing, including those in any other forward-looking statements made by or on
+behalf of the Company.
+
+
+
+                                      -19-
+<PAGE>   20
+
+To date, a significant portion of the Company's revenue has been derived from
+relatively large financial commitments from a relatively small number of
+customers. The Company expects that in the future it will continue to be
+dependent upon a limited number of customers in any given period for a
+significant portion of its revenue. The Company's future success depends upon
+the continued demand by such customers for its products and services. There can
+be no assurances that revenues from customers that have accounted for
+significant revenues in past periods, individually, or as a group, will continue
+or will reach historical levels in the future. The Company's results of
+operations and financial condition could be materially adversely affected by the
+failure of anticipated orders to materialize and by deferrals or cancellation of
+orders.
+
+Revenue Growth and Economic Conditions. Developments in the telecommunications
+and Internet service provider markets, such as any adverse change in global
+economic conditions, significant industry consolidation, significant formation
+of alliances among network operators and service providers, and any adverse
+changes in the regulatory environment could materially affect the Company's
+existing or potential customers. These factors could reduce growth in the
+telecommunications and Internet service provider markets, or could cause the
+market value, financial results and prospects, as well as capital spending
+levels of providers in these markets to decline. These and other factors
+affecting these markets could reduce demand for the Company's product-based
+solutions.
+
+Revenue Growth and Strategic Alliances. A key element of the Company's business
+strategy is to develop strategic alliances with leading companies that provide
+telecommunications services or that manufacture and market network equipment in
+order to expand the Company's distribution channels and provide additional
+exposure for the company's product offerings. There can be no assurance that the
+Company will be able to continue to increase the number of, or to expand, these
+types of relationships, in order to market its products effectively,
+particularly internationally, or that these alliances will themselves enable the
+Company to sell enough products, or that it will successfully develop other
+sales and marketing strategies.
+
+Managing Growth. The Company's growth has placed significant demands on the
+Company's administrative, operational and financial personnel and systems.
+Additional expansion by the Company may further strain the Company's management,
+financial and other resources. There can be no assurance that the Company's
+systems, procedures, controls and existing space will be adequate, or that
+sufficient growth will be available to support continued growth of the Company's
+operations. If the Company is unable to respond to and manage changing business
+conditions, the quality of its products and services and its results of
+operations could be materially adversely affected.
+
+Credit Risk. Trade receivables subject the Company to the potential for credit
+risk with customers in the telecommunication services industry and government
+sector. Additionally, certain of the Company's customers are often in the early
+stages of their development and their financial resources may be limited, which
+may adversely affect their ability to pay for the Company's product-based
+solutions. To reduce credit risk, the Company conducts ongoing evaluations of
+its customers and monitors their payment patterns. The Company maintains
+accounts receivable allowances to provide for potential credit losses. However,
+there can be no assurances that all customers will be able or willing to pay
+their obligations to the Company and when one or more customers become unable or
+unwilling, in whole or in part, to pay its obligations to the Company, the
+Company's cash flows and financial results have and could continue to be
+adversely affected.
+
+International Sales. A substantial portion of the Company's revenues is derived
+from international sales and is therefore subject to the related risks,
+including the general economic conditions in each country, the overlap of
+different tax structures, the difficulty managing resources in various
+countries, changes in regulatory requirements, compliance with a variety of
+foreign laws and regulations, and longer payment cycles. There can be no
+assurances that the Company will be able to successfully address each of these
+challenges in the near term.
+
+Hiring and Retention of Employees. The Company's ability to successfully develop
+new, and enhance existing, products, to service its customers, and to remain
+competitive depends in large part on its ability to attract and retain highly
+qualified technical, sales and marketing and management personnel. Competition
+for such personnel is intense, and there can be no assurance that the Company
+will be able to continue to attract and retain such personnel.
+
+
+
+                                      -20-
+<PAGE>   21
+
+Accurate Estimates of Resources Necessary to Complete Fixed-Price Contracts.
+Sales of the Company's product based solutions are typically formalized in
+multiple element arrangements involving significant customization of the
+underlying software and services. The Company's failure to accurately estimate
+the resources required for a project or a failure to complete contractual
+obligations in a manner consistent with the project plan may result in lower
+than expected project margins or project losses, which would negatively impact
+operating results. On occasion, the Company has and may be required in the
+future to commit unanticipated additional resources to complete projects.
+Additionally, the Company may fix the price of an arrangement before the final
+requirements are finalized. As a result, project losses may occur that would
+have a negative impact on operating results.
+
+Revenue Forecasting. Under generally accepted accounting principles, revenue may
+be deferred when significant elements required under a contract have not been
+completed, there are express conditions relating to product acceptance, there
+are deferred payment terms, or when collection is not considered probable. With
+these uncertainties the Company may not be able to accurately predict at what
+specific time revenues from any given contract will be recognized.
+
+Uneven Revenue Patterns and Forecasting. Historically, the Company has generated
+a disproportionate amount of its operating revenues toward the end of each
+quarter, making precise predictions of quarterly revenues and earnings
+particularly difficult and resulting in risk of variance of actual results from
+those forecast at any time. In addition, the Company's operating results
+historically have varied from fiscal period to fiscal period; accordingly, the
+Company's financial results in any particular fiscal period are not necessarily
+indicative of results for future periods.
+
+Market Consolidation. The North American communications industry has experienced
+significant consolidation. In the future, there may be fewer potential customers
+requiring operations support systems and related services, increasing the level
+of competition in the industry. In addition, larger, consolidated communication
+companies have strengthened their purchasing power, which could create pressure
+on the prices charged and the margins realized. These companies are also
+striving to streamline their operations by combining different communications
+systems and the related operations support systems into one system, reducing the
+number of vendors needed. The Company may lose customers as a result of industry
+consolidation, which may have a material adverse effect on the Company's
+business, financial condition and results of operations.
+
+Recent Events. Consequences attributable to the events that took place in New
+York City and Washington, D.C. on September 11, 2001 could cause actual results
+to differ from expectations, and the effects of these events on consumer demand,
+the financial markets, product supply and distribution and other conditions
+increase the uncertainty inherent in any forward-looking statements.
+
+
+ITEM 8.    FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+           The Company's Financial Statements, together with the independent
+           accountants' reports thereon, appear at pages F-1 through F-19 of
+           this Form 10-K.
+
+
+ITEM 9.    CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+           FINANCIAL DISCLOSURE
+
+           None.
+
+
+
+                                      -21-
+<PAGE>   22
+
+                                    PART III
+
+ITEM 10.   DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+           DIRECTORS
+           The information concerning Directors of the Company required by Item
+           10 will be contained in the Company's 2001 Proxy Statement under the
+           heading "Election of Directors," and is incorporated herein by
+           reference.
+
+           EXECUTIVE OFFICERS
+           The information concerning executive officers of the Company required
+           by Item 10 is set forth in Item 1 hereof under the heading "Executive
+           Officers".
+
+
+ITEM 11.   EXECUTIVE COMPENSATION
+
+           The information called for by Item 11 is incorporated by reference to
+           Proxy Statement for the 2001 Annual Meeting of Stockholders, to be
+           filed pursuant to Regulation 14A not later than 120 days after the
+           end of the year covered by this report.
+
+ITEM 12.   SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+           The information called for by Item 12 is incorporated by reference to
+           Proxy Statement for the 2001 Annual Meeting of Stockholders, to be
+           filed pursuant to Regulation 14A not later than 120 days after the
+           end of the year covered by this report.
+
+
+ITEM 13.   CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+           The information called for by Item 13 is incorporated by reference to
+           Proxy Statement for the 2001 Annual Meeting of Stockholders, to be
+           filed pursuant to Regulation 14A not later than 120 days after the
+           end of the year covered by this report.
+
+
+                                     PART IV
+
+ITEM 14.   EXHIBITS, FINANCIAL STATEMENTS, SCHEDULES, AND REPORTS ON FORM 8-K
+
+(a)(1)     INDEX TO FINANCIAL STATEMENTS
+
+           The following Financial Statements of the Registrant are filed as
+part of this report:
+
+                                                                         Page
+
+Report of Independent Auditors............................................F-2
+
+Balance Sheets as of June 30, 2001 and 2000...............................F-3
+
+Statements of Operations for the years ended June 30,
+           2001, 2000 and 1999............................................F-4
+
+
+
+                                      -22-
+<PAGE>   23
+
+
+Statements of Stockholders' Equity for the years
+           ended June 30, 2001, 2000 and 1999.............................F-5
+
+Statements of Cash Flows for the years ended June 30,
+           2001, 2000 and 1999............................................F-6
+
+Notes to Financial Statements.............................................F-7
+
+
+
+(a)(2)     FINANCIAL STATEMENT SCHEDULES
+
+           Except for the schedule listed below, all other schedules are omitted
+           because they are not applicable or the required information is shown
+           in the financial statements or notes thereto.
+
+           Schedule II - Valuation and Qualifying Accounts                   S-1
+
+(a)(3)              EXHIBITS
+
+<TABLE>
+<S>                               <C>     <C>
+           3.5                       (A)  Articles of Amendment and Restatement dated August 19, 1996.
+           3.6                       (A)  By-laws of the Company as amended to date.
+           4.1                       (A)  Form of Specimen of Common Stock Certificate.
+           10.13                    *(B)  Form of Non-Qualified Stock Option Grant Agreement (certain executive officers - fiscal
+                                          1997)
+           10.14                    *(B)  Form of Non-Qualified Stock Option Grant Agreement (certain executive officers - fiscal
+                                          1997)
+           10.16                     (B)  Lease Between Principal Mutual Life Insurance Company and the Company as Tenant dated
+                                          August 6, 1996
+           10.22                    *(C)  Amended and Restated Omnibus Stock Plan
+           10.23                    *(C)  Amended and Restated Omnibus Stock Plan for Directors
+           10.24                    *(D)  Employment Agreement dated as of October 1, 1998 between the Company and T. Russotto
+           10.25                    *(D)  Non-Qualified Stock Option Grant Agreement dated March 23, 1999 between the Company and
+                                          T. Russotto.
+           10.26                    *(D)  Incentive Stock Option Grant Agreement dated March 4, 1999 between the Company and
+                                          J. Eckler.
+           10.27                    *(E)  Employment Agreement dated as of October 7, 1999 between the Company and J. Eckler
+           10.28                    *(F)  Amended and Restated Omnibus Stock Plan
+           10.29                    *(H)  Amended and Restated Omnibus Stock Plan for Directors
+           10.30                    *(G)  Amendment to Employment Agreement dated as of March 31, 2000 between the Company and
+                                          J. Eckler
+           10.33                    *(H)  Employment Agreement dated as of  October 1, 1999 between the Company and S. Joseph Dorr
+           10.34                    *(H)  Non-Qualified Stock Option Grant Agreement dated August 24, 1999 between the Company and
+                                          S. Joseph Dorr
+           10.35                  *( I )  2000 Stock Option Plan for Directors
+           23                      ( J )  Consent of Ernst & Young LLP, independent auditors
+
+          --------------------------------------------------------------------------------------------------------------------------
+
+                                   ( A )  Incorporated by reference to the identically numbered exhibit filed as an exhibit to the
+                                          Company's Registration Statement on Form S-1, File No. 333-25439
+
+                                   ( B )  Incorporated by reference to the identically numbered exhibit filed as an exhibit to the
+
+</TABLE>
+
+
+
+                                      -23-
+<PAGE>   24
+
+<TABLE>
+<S>                               <C>     <C>
+                                          Company's Form 10-K, filed October 1, 1997.
+
+                                   ( C )  Incorporated by reference to the Company's Proxy Statement, dated October 21, 1997.
+
+                                   ( D )  Incorporated by reference to the identically numbered exhibit filed as an exhibit to the
+                                          Company's Form 10-K, filed September 28, 1999.
+
+                                   ( E )  Incorporated by reference to the identically numbered exhibit filed as an exhibit to the
+                                          Company's Form 10-Q, filed November 15, 1999
+
+                                   ( F )  Incorporated by reference to the Company's Proxy Statement, dated October 18, 1999.
+
+                                   ( G )  Incorporated by reference to exhibit 10.3 filed as an exhibit to the Company's Form 10-Q,
+                                          filed May 2, 2000.
+
+                                   ( H )  Incorporated by reference to the identically numbered exhibit filed as an exhibit to the
+                                          Company's Form 10-K, filed September 28, 2000.
+
+                                   ( I ) Incorporated by reference to the Company's Proxy Statement, dated October 17, 2000.
+
+
+                                       * Management contract or compensatory plan or amendment required to be filed as an exhibit.
+</TABLE>
+
+(b)        REPORTS ON FORM 8-K and 8-K/A
+
+None
+
+
+                                      -24-
+<PAGE>   25
+
+
+
+ SIGNATURES
+
+        Pursuant to the requirements of section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+                                      ACE*COMM CORPORATION
+
+                                      By: /s/George T. Jimenez
+                                          -------------------------------------
+                                          George T. Jimenez
+                                          Chief Executive Officer
+
+                                      Date:  September 24,  2001
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following persons on behalf of the registrant and
+in the capacities and on the dates indicated:
+
+<TABLE>
+<CAPTION>
+      NAME                                   TITLE                                                          DATE
+      ----                                   -----                                                          ----
+<S>                                          <C>                                                            <C>
+      /s/George T. Jimenez                   Chief Executive Officer                                        September 24, 2001
+      --------------------                   and Chairman of the Board
+      (George T. Jimenez)
+
+
+      /s/James K. Eckler                     Executive Vice President of Finance and Administration         September 24, 2001
+      ------------------                     (Principal Financial Officer and Principal
+      (James K. Eckler)                      Accounting Officer)
+
+
+      /s/Paul G. Casner, Jr.                 Director                                                       September 24, 2001
+      ----------------------
+      (Paul G. Casner, Jr.)
+
+
+      /s/Gilbert A. Wetzel                   Director                                                       September 24, 2001
+      --------------------
+      (Gilbert A. Wetzel)
+
+
+      /s/William R. Newlin                   Director                                                       September 24, 2001
+       -------------------
+      (William R. Newlin)
+
+
+      /s/Harry M. Linowes                    Director                                                       September 24, 2001
+      -------------------
+      (Harry M. Linowes)
+</TABLE>
+
+
+
+                                      -25-
+<PAGE>   26
+
+
+                              ACE*COMM CORPORATION
+
+INDEX TO FINANCIAL STATEMENTS
+
+        The following Financial Statements of the Registrant are filed as part
+of this report:
+
+                                                                        Page
+
+Report of Independent Auditors..........................................F-2
+
+Balance Sheets as of June 30, 2001 and 2000.............................F-3
+
+Statements of Operations for the years ended June 30,
+           2001, 2000 and 1999..........................................F-4
+
+Statements of Stockholders' Equity for the years
+           ended June 30, 2001, 2000 and 1999...........................F-5
+
+Statements of Cash Flows for the years ended June 30,
+           2001, 2000 and 1999..........................................F-6
+
+Notes to Financial Statements...........................................F-7
+
+
+
+                                       F-1
+<PAGE>   27
+
+
+                         REPORT OF INDEPENDENT AUDITORS
+
+To the Board of Directors and Stockholders
+      of ACE*COMM Corporation
+
+We have audited the accompanying balance sheets of ACE*COMM Corporation as of
+June 30, 2001 and 2000, and the related statements of operations, stockholders'
+equity, and cash flows for each of the three years in the period ended June 30,
+2001. Our audits also included the financial statement schedule listed in the
+index at Item 14(a). These financial statements and schedule are the
+responsibility of the Company's management. Our responsibility is to express an
+opinion on these financial statements and schedule based on our audits.
+
+We conducted our audits in accordance with auditing standards generally accepted
+in the United States. Those standards require that we plan and perform our
+audits to obtain reasonable assurance about whether the financial statements are
+free of material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements. An
+audit also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis
+for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of ACE*COMM Corporation at June
+30, 2001 and 2000, and the results of its operations and its cash flows for each
+of the three years in the period ended June 30, 2001, in conformity with
+accounting principles generally accepted in the United States. Also, in our
+opinion, the related financial statement schedule, when considered in relation
+to the basic financial statements taken as a whole, presents fairly in all
+material respects the information set forth therein.
+
+
+
+
+
+                                     Ernst & Young LLP
+
+McLean, VA
+August 10, 2001
+
+
+
+                                      F-2
+
+
+<PAGE>   28
+
+
+                              ACE*COMM CORPORATION
+                                 BALANCE SHEETS
+                (IN THOUSANDS EXCEPT SHARE AND PER SHARE AMOUNTS)
+
+<TABLE>
+<CAPTION>
+                                                                                JUNE 30,
+                                                                         ----------------------
+                                                                           2001          2000
+                                                                         --------      --------
+<S>                                                                      <C>           <C>
+               ASSETS
+
+Current assets:
+  Cash and cash equivalents                                              $  5,770      $  4,386
+  Accounts receivable, net                                                  4,603        11,818
+  Inventories, net                                                          1,360         1,869
+  Prepaid expenses and other                                                  509           531
+                                                                         --------      --------
+     Total current assets                                                  12,242        18,604
+Property and equipment, net                                                 2,489         3,190
+Capitalized software development costs, net                                   184           738
+Other assets                                                                   28           253
+                                                                         --------      --------
+     Total assets                                                        $ 14,943      $ 22,785
+                                                                         ========      ========
+
+               LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Current liabilities:
+  Borrowings                                                             $    299      $    280
+  Accounts payable                                                            239         1,538
+  Accrued expenses                                                            623           414
+  Accrued compensation                                                      1,701         2,267
+  Deferred revenue                                                          1,501           770
+                                                                         --------      --------
+     Total current liabilities                                              4,363         5,269
+  Noncurrent borrowings                                                       221           446
+  Other noncurrent liabilities                                                102           151
+                                                                         --------      --------
+     Total liabilities                                                      4,686         5,866
+                                                                         --------      --------
+
+Commitments and contingencies ( Note 12 )
+
+Stockholders' equity:
+  Preferred stock, $.01 par value, 5,000,000 shares authorized, none
+      issued and outstanding                                                    -             -
+  Common stock, $.01 par value, 45,000,000 shares authorized,
+      9,264,112 and 9,180,638 shares issued and outstanding                    93            92
+  Additional paid-in capital                                               21,400        21,136
+  Accumulated deficit                                                     (11,236)       (4,309)
+                                                                         --------      --------
+     Total stockholders' equity                                            10,257        16,919
+                                                                         --------      --------
+
+     Total liabilities and stockholders' equity                          $ 14,943      $ 22,785
+                                                                         ========      ========
+</TABLE>
+
+
+
+
+
+
+   The accompanying notes are an integral part of these financial statements.
+
+
+
+                                      F-3
+<PAGE>   29
+
+
+
+                              ACE*COMM CORPORATION
+                            STATEMENTS OF OPERATIONS
+                    (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+<TABLE>
+<CAPTION>
+                                                                  YEARS ENDED JUNE 30,
+                                                          -------------------------------------
+
+                                                            2001          2000          1999
+                                                          --------      --------      --------
+
+<S>                                                       <C>           <C>           <C>
+Revenue                                                   $ 24,179      $ 33,766      $ 29,657
+Cost of revenue                                             13,335        14,353        13,765
+                                                          --------      --------      --------
+
+Gross profit                                                10,844        19,413        15,892
+
+Selling, general and administrative expense                 15,345        15,184        13,046
+Research and development expense                             1,650         2,263         1,562
+Provision for doubtful accounts                                812          (200)          812
+                                                          --------      --------      --------
+
+(Loss) income from operations                               (6,963)        2,166           472
+
+Interest income                                               (232)         (143)         (185)
+Interest expense                                               196            90            39
+                                                          --------      --------      --------
+
+(Loss) income before income tax provision                   (6,927)        2,219           618
+Income tax provision                                            --            21            --
+                                                          --------      --------      --------
+
+Net (loss) income                                         $ (6,927)     $  2,198      $    618
+                                                          ========      ========      ========
+
+
+Basic net (loss) income per share                         $  (0.75)     $   0.24      $   0.07
+                                                          ========      ========      ========
+
+Diluted net (loss) income per share                       $  (0.75)     $   0.23      $   0.07
+                                                          ========      ========      ========
+
+Shares used in computing net (loss) income per share:
+
+    Basic                                                    9,230         8,994         8,838
+                                                          ========      ========      ========
+
+    Diluted                                                  9,230         9,587         8,931
+                                                          ========      ========      ========
+</TABLE>
+
+
+
+   The accompanying notes are an integral part of these financial statements.
+
+
+
+                                      F-4
+<PAGE>   30
+
+
+
+                              ACE*COMM CORPORATION
+                       STATEMENTS OF STOCKHOLDERS' EQUITY
+                                 (IN THOUSANDS)
+
+<TABLE>
+<CAPTION>
+                                                        COMMON STOCK
+                                                    -------------------
+                                                                          ADDITIONAL
+                                                                           PAID-IN     (ACCUMULATED
+                                                    SHARES    PAR VALUE    CAPITAL        DEFICIT)      TOTAL
+                                                    ------    ---------   ----------   ------------    --------
+
+<S>                                                 <C>       <C>         <C>          <C>             <C>
+Balance, June 30, 1998                               8,807       $88       $19,822        $ (7,125)    $ 12,785
+   Exercise of common stock options                     66         1            64              --           65
+   Employee stock purchase plan                          4                      11                           11
+   Net income for the year ended June 30, 1999           -         -             -             618          618
+                                                     -----       ---       -------        --------     --------
+Balance, June 30, 1999                               8,877        89        19,897          (6,507)      13,479
+   Exercise of common stock options                    288         3         1,185               -        1,188
+   Employee stock purchase plan                         16         -            54               -           54
+   Net income for the year ended June 30, 2000           -         -             -           2,198        2,198
+                                                     -----       ---       -------        --------     --------
+Balance, June 30, 2000                               9,181        92        21,136          (4,309)      16,919
+   Exercise of common stock options                     36         -           158               -          158
+   Employee stock purchase plan                         47         1           106               -          107
+   Net loss for the year ended June 30, 2001             -         -             -          (6,927)      (6,927)
+                                                     -----       ---       -------        --------     --------
+Balance, June 30, 2001                               9,264       $93       $21,400        $(11,236)    $ 10,257
+                                                     =====       ===       =======        ========     ========
+</TABLE>
+
+
+
+   The accompanying notes are an integral part of these financial statements.
+
+
+
+                                      F-5
+<PAGE>   31
+
+
+
+                              ACE*COMM CORPORATION
+                            STATEMENTS OF CASH FLOWS
+                                 (IN THOUSANDS)
+
+<TABLE>
+<CAPTION>
+                                                                                             YEARS ENDED JUNE 30,
+                                                                                    -------------------------------------
+                                                                                      2001          2000           1999
+                                                                                    -------        -------        -------
+<S>                                                                                 <C>            <C>            <C>
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net (loss) income                                                                   $(6,927)       $ 2,198        $   618
+Adjustments to reconcile net (loss) income to net cash provided by (used for)
+     operating activities:
+             Depreciation and amortization                                            1,752          2,128          2,243
+             Provision for doubtful accounts                                            812           (200)           812
+             Loss of disposal of property and equipment                                  12              -              -
+Changes in operating assets and liabilities:
+             Accounts receivable                                                      6,403         (5,071)         2,626
+             Inventories, net                                                           509            283          1,080
+             Notes receivable                                                             -            516            619
+             Prepaid expenses and other assets                                          240           (250)           221
+             Accounts payable                                                        (1,299)            21           (493)
+             Accrued liabilities                                                       (357)          (304)        (3,341)
+             Deferred revenue                                                           731            324         (1,723)
+             Other liabilities                                                          (49)             -              -
+                                                                                    -------        -------        -------
+Net cash provided by (used for) operating activities                                  1,827           (355)         2,662
+                                                                                    -------        -------        -------
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Purchases of property and equipment                                                    (502)          (530)          (624)
+Additions to capitalized software development costs                                       -              -           (615)
+                                                                                    -------        -------        -------
+Net cash used for investing activities                                                 (502)          (530)        (1,239)
+                                                                                    -------        -------        -------
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Net decrease in line of credit                                                            -              -           (100)
+Borrowings                                                                               91          2,142              -
+Payments on debt                                                                       (236)        (1,481)          (883)
+Principal payments under capital lease obligation                                       (61)           (56)           (48)
+Proceeds from exercise of common stock options                                          158          1,188             65
+Proceeds from employee stock purchase plan                                              107             54             11
+                                                                                    -------        -------        -------
+Net cash provided by (used for) financing activities                                     59          1,847           (955)
+                                                                                    -------        -------        -------
+Net increase in cash and cash equivalents                                             1,384            962            468
+Cash and cash equivalents at beginning of year                                        4,386          3,424          2,956
+                                                                                    -------        -------        -------
+Cash and cash equivalents at end of year                                            $ 5,770        $ 4,386        $ 3,424
+                                                                                    =======        =======        =======
+
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:
+   Cash paid during the period for:
+       Interest                                                                     $   195        $    90        $    39
+       Income taxes                                                                 $     9        $    95        $     -
+</TABLE>
+
+
+
+
+   The accompanying notes are an integral part of these financial statements.
+
+
+
+                                      F-6
+<PAGE>   32
+
+
+
+                              ACE*COMM CORPORATION
+                          NOTES TO FINANCIAL STATEMENTS
+
+NOTE 1 - ORGANIZATION
+
+ACE*COMM Corporation (the "Company"), incorporated in Maryland in 1983, delivers
+enterprise telemanagement applications and advanced Convergent Mediation(TM)
+solutions to wired and wireless voice, data, and Internet communications
+providers. The Company's technology enables the capture, security, validation,
+correlation, augmentation, and warehousing of data from network elements and
+distributes it in appropriate formats to OSS ("Operations Support Systems") and
+BSS ("Business Support Systems") operations. The Company's product-based
+solutions are tailored to each customer's needs, providing the capabilities to
+extract knowledge from their networks--knowledge they use to reduce costs,
+accelerate time-to-market for new products and services, generate new sources of
+revenue, and push forward with next-generation initiatives.
+
+
+NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+USE OF ESTIMATES
+
+The preparation of financial statements in conformity with accounting principles
+generally accepted in the United States requires management to make estimates
+and assumptions that affect the amounts reported in the financial statements.
+Actual results could differ from those estimates. Significant estimates inherent
+in the preparation of the accompanying financial statements include:
+management's forecasts of contract costs and progress toward completion, which
+are used to determine revenue recognition under the percentage-of-completion
+method; estimates of allowances for doubtful accounts receivable and inventory
+obsolescence; tax valuation allowances; and estimates of the net realizable
+value of capitalized software development costs.
+
+REVENUE RECOGNITION
+
+The Company derives revenues primarily from product-based solutions, where a
+combination of hardware, proprietary software, and services are offered to
+customers. These product-based solutions are typically formalized in a multiple
+element arrangement involving significant modification or customization of the
+underlying software and implementation services. The Company's software licenses
+to end-users generally provide for an initial license fee to use the product in
+perpetuity. Under certain contracts, the Company licenses its software to
+resellers for subsequent modification and resale. In situations when the
+Company's product-based solutions involve significant modification or
+customization of software, or when the Company's systems integration and product
+development are essential to the functionality of the software, revenues
+relating to the software licenses and services are aggregated and the combined
+revenues are recognized on a percentage-of-completion basis. The hardware
+revenue on these contracts is recognized upon transfer of title. Revenue
+recognized using the percentage-of-completion method is based on the estimated
+stage of completion of individual contracts determined on a cost or level of
+efforts basis.
+
+In limited instances, the Company enters into a multiple element arrangement
+that does not involve significant modification or customization of the related
+software. In these limited instances, the Company recognizes revenue in
+accordance with Statement of Position 97-2, "Software Revenue Recognition," and
+allocates revenue to each element of the arrangement based on objective evidence
+of the element's fair value based on internal price listings developed by the
+Company. Revenue is recognized upon delivery (i.e., transfer of title), when a
+signed agreement exists, the fee is fixed and determinable, and collection of
+the resulting receivable is probable.
+
+
+
+
+                                      F-7
+<PAGE>   33
+
+
+
+NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES, CONTINUED
+
+While the Company occasionally sells unbundled services, most of the Company's
+services are delivered in conjunction with the Company's product-based
+solutions. Revenue from technical customer support and maintenance services is
+recognized ratably over the term of the related agreement, generally one year.
+Revenue from consulting services is recognized on a time and material basis, as
+the services are performed. Revenue from outsourcing or service bureau services
+is recognized on a per-unit-of-volume basis as the services are performed.
+
+Revenue related to obligations to provide post contract customer support is
+unbundled from the license and recognized ratably over the term of the
+agreement.
+
+Payments received for revenues not yet recognized are reflected as deferred
+revenue in the accompanying balance sheets. Revenue recognized prior to the
+scheduled billing date of an item is reflected as unbilled accounts receivable.
+
+CASH AND CASH EQUIVALENTS
+
+The Company considers all investments with an original maturity of three months
+or less to be cash equivalents.
+
+INVENTORIES
+
+Inventories consist principally of purchased materials to be used in the
+production of finished goods and are stated at the lower of cost, determined on
+the first-in, first-out (FIFO) method, or market.
+
+PROPERTY AND EQUIPMENT
+
+Property and equipment are recorded at cost. Depreciation is calculated using
+the straight-line method over the estimated useful lives of the assets as
+follows: equipment and vehicles - 7 years; computer equipment -3 to 7 years.
+Leasehold improvements are amortized on a straight-line basis over the shorter
+of the improvements' estimated useful lives or related remaining lease terms.
+Maintenance and repair costs are charged to current earnings. Long-lived assets
+held and used by the Company are reviewed for impairment whenever changes in
+circumstances indicate the carrying value of an asset may not be recoverable.
+
+CAPITALIZED SOFTWARE DEVELOPMENT COSTS
+
+The Company owns certain proprietary rights to computer software systems that
+the Company has either developed or purchased and licensed to customers.
+Purchased computer software and the related copyrights are capitalized at their
+costs.
+
+Research and development costs are expensed as incurred. However, the Company
+capitalizes computer software development costs incurred after technological
+feasibility of a product is established through the time when the product is
+available for release to customers. Capitalized software and purchased
+technology costs are amortized on a product-by-product basis based on the
+greater of the ratio of current sales to estimated total future sales or a
+straight-line basis over the remaining estimated economic life of the product,
+not exceeding 3 years. The Company periodically evaluates its capitalized
+software costs for recoverability against anticipated future revenues, and
+writes down or writes off capitalized software costs if recoverability is in
+question.
+
+EARNINGS PER SHARE
+
+Basic earnings per share excludes dilution and is computed by dividing net
+(loss) income by the weighted average common shares outstanding for the period.
+Diluted earnings per share reflect the potential dilution that could occur if
+securities or other contracts to issue common stock were exercised or converted
+into common stock.
+
+
+
+
+                                      F-8
+<PAGE>   34
+
+NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES, CONTINUED
+
+INCOME TAXES
+
+The Company accounts for income taxes under Statement of Financial Accounting
+Standards No. 109, Accounting for Income Taxes. Deferred income tax assets and
+liabilities are determined based upon differences between the financial
+reporting and tax bases of assets and liabilities and are measured using the
+enacted tax rates and laws that will be in effect when the differences are
+expected to reverse. A valuation allowance reduces deferred tax assets when it
+is more likely than not that some portion or all of the deferred tax assets will
+not be realized.
+
+RECLASSIFICATIONS
+
+Certain prior year information has been reclassified to conform to the current
+year's presentation.
+
+FAIR VALUE OF FINANCIAL INSTRUMENTS
+
+The carrying amounts of cash and cash equivalents, accounts receivable, accounts
+payable, and accrued expenses approximate fair value because of the short
+maturity of these items.
+
+The carrying amounts of debt issued pursuant to the Company's bank credit
+agreements approximate fair value because the interest rates on these
+instruments change with market interest rates.
+
+
+NOTE 3 - ACCOUNTS RECEIVABLE
+
+Accounts receivable consist of the following (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                                         JUNE 30,
+                                                         ---------------------------------------
+                                                           2001                          2000
+                                                         ---------                    ----------
+
+<S>                                                      <C>                          <C>
+Billed                                                    $3,670                       $ 8,823
+Unbilled                                                   1,430                         3,464
+Allowance for doubtful accounts                             (497)                         (469)
+                                                         ---------                    ----------
+                                                          $4,603                       $11,818
+                                                         =========                    ==========
+</TABLE>
+
+Unbilled receivables include costs and estimated profit on contracts in progress
+that have been recognized as revenue but not yet billed to customers under the
+provisions of specific contracts. Substantially all unbilled receivables are
+expected to be billed and collected within one year. The Company recorded a
+provision for doubtful accounts of $812,000, credited the allowance for
+recoveries of $13,000, and wrote-off $797,000 in uncollected accounts during the
+year ended June 30, 2001. The Company reduced its provision for doubtful
+accounts by $200,000, credited the allowance for recoveries of $152,000, and
+wrote-off $350,000 during the year ended June 30, 2000. During the year ended
+June 30, 1999, the Company increased its provision for doubtful accounts by
+$812,000, credited recoveries of $392,000 to the allowance, and wrote-off
+$2,802,000 in uncollected accounts.
+
+
+
+                                      F-9
+<PAGE>   35
+
+
+NOTE 4 - INVENTORIES
+
+Inventories consist of the following (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                    JUNE 30,
+                                           ---------------------------
+                                              2001             2000
+                                           ----------       ----------
+
+<S>                                        <C>              <C>
+Inventories                                  $1,564           $2,056
+Allowance for obsolescence                     (204)            (187)
+                                           ----------       ----------
+                                             $1,360           $1,869
+                                           ==========       ==========
+</TABLE>
+
+Inventory write-offs during the years ended June 30, 2001, 2000 and 1999 were
+$438,000, $304,000 and $220,000, respectively.
+
+
+NOTE 5 - PROPERTY AND EQUIPMENT
+
+Property and equipment consists of the following (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                                     JUNE 30,
+                                                            --------------------------
+                                                               2001            2000
+                                                            ----------       ---------
+
+<S>                                                         <C>              <C>
+Computer equipment                                           $ 6,090          $ 5,660
+Office equipment                                                 866              840
+Leasehold improvements                                           462              462
+                                                            ----------        ---------
+                                                               7,418            6,962
+Less accumulated depreciation and amortization                (4,929)          (3,772)
+                                                            ----------        ---------
+                                                             $ 2,489          $ 3,190
+                                                            ==========        =========
+</TABLE>
+
+Depreciation expense of property and equipment amounted to $1,191,000,
+$1,119,000 and $914,000 during the years ended June 30, 2001, 2000 and 1999,
+respectively. As of June 30, 2001 and 2000, leasehold improvements include a
+capitalized lease in the amount of $246,000 and accumulated depreciation of
+$223,000 and $169,000, respectively.
+
+
+NOTE 6 - CAPITALIZED SOFTWARE DEVELOPMENT COSTS
+
+Capitalized software development costs consist of the following (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                        JUNE 30,
+                                              ---------------------------
+                                                 2001             2000
+                                              -----------      ----------
+
+<S>                                           <C>              <C>
+Capitalized software development costs          $ 7,897          $ 7,897
+Less accumulated amortization                    (7,713)          (7,159)
+                                              -----------      ----------
+                                                $   184          $   738
+                                              ===========      ==========
+</TABLE>
+
+Amortization expense of capitalized software amounted to $554,000, $1,009,000
+and $1,329,000 during the years ended June 30, 2001, 2000 and 1999,
+respectively.
+
+
+
+
+                                      F-10
+<PAGE>   36
+
+
+
+NOTE 7 - BORROWINGS
+
+The Company's borrowings consist of the following (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                                                             JUNE 30,
+                                                                                       -------------------
+                                                                                        2001         2000
+                                                                                       ------       ------
+<S>                                                                                    <C>          <C>
+Capital lease obligation for the use of an office telephone system, principal
+      plus interest (from 10.03% to 13.75%), due in monthly installments through
+      November 2001                                                                    $  28        $  88
+
+Advances from equipment financing agreement with Silicon Valley Bank, principal
+      plus interest (from 9.28% to 9.98%) due in monthly installments through
+      September 2003                                                                     492          638
+                                                                                       -----        -----
+
+Total borrowings                                                                         520          726
+
+Less current portion                                                                    (299)        (280)
+                                                                                       -----        -----
+
+Noncurrent portion                                                                     $ 221        $ 446
+                                                                                       =====        =====
+</TABLE>
+
+Annual maturities of noncurrent borrowings are $209,000 and $12,000 during the
+years ended June 30, 2003 and 2004, respectively.
+
+LINES OF CREDIT
+
+As of June 30, 2001, the Company had an Accounts Receivable Purchase Agreement
+with Silicon Valley Bank (the "Bank"). Under this agreement, the Company may
+borrow up to $3 million through the Bank's discretionary purchases of accounts
+receivable. The Bank will pay up to 80% of the face value of each receivable
+with the balance, net of finance charges, payable to the Company following
+collection of the receivable. The costs of this Agreement include a finance
+charge equal to the Bank's prime rate charged on the average daily balance of
+receivables purchased and outstanding, a monthly administrative fee of 0.25% of
+the face amount of receivables purchased that month, and certain costs and
+expenses of the Bank in administering the facility. This agreement was effective
+on March 28, 2001, and replaced a different accounts receivable purchase
+agreement with the Bank. The receivables purchased by the Bank must be collected
+within 90 days (unless otherwise agreed by the Bank and the Company), must not
+be in dispute, and must conform to other eligibility requirements. The purchases
+are with full recourse against the Company, which has agreed to repurchase any
+non-conforming receivable subject to the Bank's ability to allow the
+substitution of conforming for non-conforming receivables. The Company's
+obligations under the Agreement are secured by a security interest in all of the
+Company's assets and intellectual property. Advances made to the Company are
+payable in full upon demand in the event of default under the Agreement,
+including a material breach of any representation or warranty regarding the
+receivables purchased or the Company's insolvency. As of June 30, 2001, there
+were no outstanding borrowings under this Agreement.
+
+The Company has amounts outstanding on an Equipment Financing Agreement (the
+"Equipment Agreement") with the Bank, which enabled the Company to borrow
+against recently acquired Company equipment and fixed assets through January 31,
+2001, the date the agreement expired. The Equipment Agreement bears interest at
+the 36-month treasury rate plus 350 basis points as of the borrowing date,
+requires a commitment fee (and the reimbursement of bank expenses for certain
+costs of making and administering this facility) and a final payment equal to
+6.5% of the value of the initial amount of each advance at the end of the
+financing period for that advance. Financial covenants under the Equipment
+Agreement require the Company to maintain certain liquidity ratios. Outstanding
+advances as of June 30, 2001, aggregated approximately $492,000 and are due
+through periods ended September 2003.
+
+
+
+                                      F-11
+<PAGE>   37
+
+NOTE 8 - RETIREMENT PLAN
+
+The Company has a 401(k) plan available to employees the first full month after
+commencement of their employment, provided they are at least 21 years of age.
+The Company may make contributions to the plan at its discretion. Contributions
+expensed by the Company during the years ended June 30, 2001, 2000, and 1999,
+were approximately $141,000, $111,000 and $110,000, respectively.
+
+NOTE 9 - INCOME TAXES
+
+The primary components of the Company's net deferred tax assets and liabilities
+are as follows (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                            JUNE 30,
+                                                    -----------------------
+                                                      2001           2000
+                                                    --------        -------
+<S>                                                 <C>             <C>
+Tax assets:
+     Allowance for doubtful accounts                $    189        $   178
+     Inventories                                         245            237
+     Accrued expenses                                    476            501
+     Net operating loss carryforwards                  9,055          7,513
+     Tax credit carryforwards                            256            266
+     Other                                                13             33
+                                                    --------        -------
+               Gross deferred tax assets              10,234          8,728
+                                                    --------        -------
+
+Tax liabilities:
+     Income on contracts                                (544)        (1,315)
+     Software costs                                      (70)          (280)
+     Depreciation                                       (248)          (347)
+                                                    --------        -------
+               Gross deferred tax liabilities           (862)        (1,942)
+                                                    --------        -------
+          Net deferred tax asset                       9,372          6,786
+     Valuation allowance                              (9,372)        (6,786)
+                                                    --------        -------
+     Net deferred tax                               $      -        $     -
+                                                    ========        =======
+</TABLE>
+
+At June 30, 2001, the Company had net operating loss carryforwards available to
+offset future taxable income of approximately $23.9 million, which expire from
+2006 through 2021. As of June 30, 2001, the Company also had a general business
+credit carryforward of approximately $242,000 available to reduce future tax
+liabilities through 2006. In addition, the Company also had alternative minimum
+tax credits of approximately $15,000 available to offset future tax liabilities.
+These tax credits do not expire.
+
+Realization of the net deferred tax asset is dependent on generating sufficient
+taxable income prior to expiration of the loss carryforwards. Based on
+historical net operating losses and no assurance that the Company will generate
+any earnings or any specific level of earnings in future years, the Company
+established a valuation allowance on the net deferred assets at June 30, 2001
+and 2000. Approximately $5.2 million of the valuation allowance as of both June
+30, 2001 and 2000, resulted from the tax benefit of non-qualified stock options
+that is included within the deferred tax benefit related to net operating loss
+carryforwards. When the related valuation allowance is released, the tax benefit
+will be credited directly to equity.
+
+
+                                      F-12
+<PAGE>   38
+
+
+NOTE 9 - INCOME TAXES, CONTINUED
+
+The provision for income taxes for 2000 related to current state income taxes.
+In 2001, 2000, and 1999, the Company paid income taxes of $9,000, $95,000 and
+$0, respectively.
+
+The differences between the tax provision calculated at the statutory federal
+income tax rate and the actual tax provision recorded for each year are as
+follows (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                               YEARS ENDED JUNE 30,
+                                                       ------------------------------------
+                                                        2001           2000           1999
+                                                       -------        -------        ------
+
+<S>                                                    <C>            <C>            <C>
+Income tax (benefit) provision at statutory rate       $(2,355)       $   849        $ 210
+State income taxes net of Federal benefit                 (266)            89           30
+Nondeductible expenses                                      71             62           47
+Foreign taxes                                                -             53           53
+Change in valuation allowance                            2,550         (1,032)        (340)
+                                                       -------        -------        -----
+     Actual (benefit) provision                        $     -        $    21        $   -
+                                                       =======        =======        =====
+</TABLE>
+
+NOTE 10 - STOCKHOLDERS' EQUITY
+
+Employee Stock Purchase Plan
+
+In 1999, the Company adopted an Employee Stock Purchase Plan (the "Plan") to
+provide a method whereby all employees have an opportunity to acquire a
+proprietary interest in the Company through the purchase of shares of common
+stock. The Plan is implemented through common stock offerings in consecutive
+offering periods, each constituting a calendar quarter. The option price of the
+common stock, purchased with payroll deductions made during an offering period,
+is the lower of 85% of the closing price of the common stock on the first
+eligible trading day of an offering period or 85% of the closing price of the
+common stock on the last eligible trading day of an offering period. The maximum
+number of shares of common stock, which may be issued under the Plan, is 240,000
+shares. The Company issued 47,924, 15,936, and 4,276 shares of common stock
+under the plan in 2001, 2000, and 1999, respectively.
+
+Stock Options
+
+AMENDED AND RESTATED OMNIBUS STOCK PLAN ("OMNIBUS PLAN")
+
+In connection with the Shareholder-approved Omnibus Plan, the Company has
+reserved 4,200,000 shares of Common Stock to grant nonqualified and incentive
+stock options to officers and employees. The exercise price of each option
+granted under the Omnibus Plan is determined by the Compensation Committee, and
+is limited to a minimum of the fair market value of the Company's Common Stock
+on the date of grant. The Omnibus Plan also provides for the issuance of
+restricted or unrestricted stock, stock appreciation rights and phantom stock
+options. The Company may grant options under the Omnibus Plan until September
+2009.
+
+The terms of option grants and issuances of restricted stock, stock appreciation
+rights and phantom stock options, including vesting and exerciseability, are
+determined by the Compensation Committee of the Board of Directors. Options and
+phantom stock options granted to date vest either immediately or over a period
+of one to eight years from the date of grant, subject to accelerated vesting in
+certain events such as a change of control, and expire upon the earlier of the
+employee's termination or five or ten years from the date of grant. Certain
+options and phantom stock options granted in 2000 and 1999 are further subject
+to accelerated vesting based on achievement of certain pre-determined
+performance goals. During the year ended June 30, 2001, the Company did not
+grant any performance-based options. Options and
+
+
+
+                                      F-13
+<PAGE>   39
+
+NOTE 10 - STOCKHOLDERS' EQUITY, Continued
+
+phantom stock options become exercisable immediately upon vesting or within
+three years from the date of grant. As of June 30, 2001, 2000, and 1999, there
+were outstanding phantom stock options totaling 7,882, 7,082, and 10,082,
+respectively, and no restricted stock or stock appreciation rights had been
+granted. Compensation cost associated with the 2001, 2000, and 1999 phantom
+stock options was immaterial.
+
+In July 1998, the Company re-priced 122,984 options and phantom stock options
+with original exercise and base unit prices of $12.00 to the $5.00 fair market
+value on the date of re-pricing.
+
+STOCK OPTION PLANS FOR DIRECTORS ("DIRECTORS' PLANS")
+
+The Shareholder-approved Directors' Plans provide for the Company to grant
+qualified stock options to non-employee members of the Company's Board of
+Directors. The exercise price of each option granted under the Directors' Plans
+is limited to a minimum of the fair market value of the Company's Common Stock
+on the date of grant.
+
+As of June 30, 2000, the Company had 200,000 shares of Common Stock reserved for
+granting under its Amended and Restated Stock Option Plan for Directors, which
+expired in July 2000. In November 2000, 200,000 shares of Common Stock were
+approved for grants to be made through October 1, 2010, under the Company's 2000
+Stock Option Plan for Directors. As of June 30, 2001, 179,000 shares remained
+available for granting under the 2000 Stock Option Plan for Directors.
+
+Options granted to directors through June 30, 1997, vest 4,500 shares each year
+from the date of grant. Options granted subsequent to June 30, 1997, vest 3,000
+shares each year from the date of grant. Options granted to Directors starting
+in November 2000 vest 3,000 shares each year (4,000 shares in the case of the
+Chairman of the Audit Committee) from the date of grant. Options become
+exercisable immediately upon vesting. Options granted under the Directors' Plans
+generally expire five years from the date of grant.
+
+
+                                      F-14
+<PAGE>   40
+
+
+NOTE 10 - STOCKHOLDERS' EQUITY, CONTINUED
+
+Information relating to all the plans is summarized as follows:
+
+<TABLE>
+<CAPTION>
+                                                             OMNIBUS PLAN                             DIRECTORS' PLAN
+                                                  ------------------------------------    --------------------------------------
+                                                    NUMBER OF         WEIGHTED AVG.           NUMBER OF           WEIGHTED AVG.
+                                                     SHARES            SHARE PRICE             SHARES              SHARE PRICE
+                                                  --------------     -----------------    -----------------     ----------------
+<S>                                               <C>                <C>                  <C>                   <C>
+Outstanding Options at June 30, 1998                 1,110,782              $7.10                 31,500              $10.00
+
+Granted                                                795,259               3.47                 15,000                4.39
+Exercised                                              (66,283)              0.97                      -                   -
+Expired                                               (393,687)              8.07                      -                   -
+                                                  --------------     -----------------    -----------------     ----------------
+Outstanding Options at June 30, 1999                 1,446,071               5.12                 46,500                8.19
+
+Granted                                                765,685               4.49                 52,000                9.75
+Exercised                                             (287,074)              4.14                      -                   -
+Expired                                               (171,218)              4.93                      -                   -
+                                                  --------------     -----------------    -----------------     ----------------
+Outstanding Options at June 30, 2000                 1,753,464               5.02                 98,500                9.01
+
+Granted                                                457,488               3.48                 21,000                3.84
+Exercised                                              (26,550)              5.42                 (9,000)               1.55
+Expired                                               (483,310)              4.36                      -                   -
+                                                  --------------     -----------------    -----------------     ----------------
+Outstanding Options at June 30, 2001                 1,701,092               4.79                110,500                8.19
+                                                  ==============     =================    =================     ================
+
+Options exercisable at June 30, 1999                   576,579              $6.35                 25,500              $ 8.24
+                                                  ==============     =================    =================     ================
+Options exercisable at June 30, 2000                   522,814              $6.40                 37,500              $ 8.20
+                                                  ==============     =================    =================     ================
+Options exercisable at June 30, 2001                   694,151              $5.49                 51,836              $ 9.19
+                                                  ==============     =================    =================     ================
+Options available for granting                         778,964                                   179,000
+                                                  ==============                          =================
+</TABLE>
+
+
+
+The following table summarizes information about stock options outstanding at
+June 30, 2001:
+
+<TABLE>
+<CAPTION>
+                         OPTIONS OUTSTANDING                                                          OPTIONS EXERCISABLE
+-----------------------------------------------------------------------------------------  -----------------------------------------
+
+                                                    Weighted-
+                                                     Average
+                                Number              Remaining             Weighted-              Number               Weighted-
+       Range of              Outstanding           Contractual             Average             Exercisable             Average
+    Exercise Prices        at June 30, 2001        Life (yrs)          Exercise Price       at June 30, 2001       Exercise Price
+------------------------ --------------------- --------------------  --------------------  --------------------  -------------------
+
+<S>                         <C>                 <C>                    <C>                    <C>                  <C>
+$1.79-$3.55                        597,018             8.6                  $ 2.19                 218,068              $ 2.34
+$3.56-$5.33                        451,120             7.7                    4.12                 123,769                4.45
+$5.34-$7.10                        569,319             5.6                    6.74                 308,318                6.75
+$7.11-$17.75                       194,135             5.5                   10.60                  95,832               11.96
+                         ---------------------                                             --------------------
+                                 1,811,592                                                         745,987
+                         =====================                                             ====================
+</TABLE>
+
+
+
+                                      F-15
+<PAGE>   41
+
+
+NOTE 10 - STOCKHOLDERS' EQUITY, CONTINUED
+
+FINANCIAL ACCOUNTING STANDARD DISCLOSURES NO. 123
+
+The Company measures compensation expense for its stock option plans using the
+intrinsic value method prescribed by Accounting Principles Board Opinion No. 25,
+Accounting for Stock Issued to Employees. The Company recorded no compensation
+cost associated with stock options in 2001, 2000 and 1999.
+
+For the purposes of the pro forma amounts shown below, the fair value of each
+option grant is estimated on the date of grant using the Black-Scholes model.
+The weighted-average assumptions included in the Company's fair value
+calculations are as follows:
+
+<TABLE>
+<CAPTION>
+                                                               2001                     2000                   1999
+                                                        --------------------     -------------------     -----------------
+
+<S>                                                       <C>                      <C>                    <C>
+Expected life (years)                                          3-8                      3-8                    3-8
+Risk-free interest rate                                        5-6 %                    5-6 %                  5-6 %
+Expected volatility                                            123 %                    149 %                  123 %
+Dividend yield                                                   0 %                      0 %                    0 %
+</TABLE>
+
+The weighted average fair value of stock options granted under the stock option
+plans during the years ended June 30, 2001, 2000 and 1999 was $2.23, $4.68, and
+$2.91, respectively. If the Company determined compensation costs for these
+plans based on the fair value of stock options in accordance with Statement of
+Financial Accounting Standards No. 123 ("SFAS 123"), the Company's net loss and
+loss per share would have been:
+
+<TABLE>
+<CAPTION>
+(Amounts in thousands except per share amounts)
+                                                               2001                     2000                     1999
+                                                        --------------------     --------------------     -------------------
+<S>                                                        <C>                       <C>                     <C>
+Pro-forma amounts
+  Net loss                                                    $8,832                    $235                    $1,010
+                                                        ====================     ====================     ===================
+  Basic loss per share                                         $0.96                    $0.03                   $0.11
+                                                        ====================     ====================     ===================
+  Diluted loss per share                                       $0.96                    $0.03                   $0.11
+                                                        ====================     ====================     ===================
+</TABLE>
+
+
+
+
+                                      F-16
+<PAGE>   42
+
+
+NOTE 11 - EARNINGS PER SHARE
+(IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+The following is a reconciliation of the numerators and denominators of basic
+net (loss) income per common share ("Basic EPS") and diluted net (loss) income
+per common share ("Diluted EPS"):
+
+<TABLE>
+<CAPTION>
+                                                                                          YEARS ENDED JUNE 30,
+                                                                         -------------------------------------------------------
+                                                                              2001                2000                1999
+                                                                         ---------------     ---------------     ---------------
+<S>                                                                      <C>                 <C>                 <C>
+BASIC EPS:
+(Loss) income (numerator):
+    Net (loss) income available to common shareholders                   $       (6,927)     $        2,198      $          618
+                                                                         ===============     ===============     ===============
+Shares (denominator):
+     Weighted average common shares                                               9,230               8,994               8,838
+                                                                         ===============     ===============     ===============
+Basic EPS                                                                $        (0.75)     $         0.24      $         0.07
+                                                                         ===============     ===============     ===============
+
+DILUTED EPS:
+(Loss) income (numerator):
+    Net (loss) income available to common stockholders                   $       (6,927)     $        2,198      $          618
+                                                                         ===============     ===============     ===============
+Shares (denominator):
+     Weighted average common shares                                               9,230               8,994               8,838
+     Stock options*                                                                   -                 593                  93
+                                                                         ---------------     ---------------     ---------------
+     Total weighted shares and equivalents                                        9,230               9,587               8,931
+                                                                         ===============     ===============     ===============
+Diluted EPS                                                              $        (0.75)     $         0.23      $         0.07
+                                                                         ===============     ===============     ===============
+</TABLE>
+
+        * Due to the loss incurred during the year ended June 30, 2001, zero
+        incremental shares related to stock options are included in the
+        calculation of Diluted EPS because the effect would be antidilutive.
+
+
+NOTE 12 - COMMITMENTS AND CONTINGENCIES
+
+The Company has a $300,000 letter of credit arrangement with the Bank, which
+guarantees the Company's performance to its landlord. The letter of credit is
+secured by restricted cash equivalents maintained at the Bank; the requirement
+decreases annually through 2003 to $100,000.
+
+The Company leases office space under non-cancelable operating leases. Lease
+terms range from two to seven years and include renewal options for additional
+periods. Management expects that in the normal course of business, leases will
+be renewed or replaced by other leases. Additionally, the Company leases
+equipment under operating leases that, in the aggregate, are not significant.
+
+The Company is committed for the payment of minimum rentals under operating
+lease agreements through the year 2006 in the following amounts (in thousands):
+
+<TABLE>
+<CAPTION>
+     YEAR ENDING JUNE 30,                             AMOUNT
+--------------------------------                --------------------
+<S>                                             <C>
+             2002                                  $        954
+             2003
+                                                            788
+             2004
+                                                            327
+             2005                                             -
+             2006                                             -
+                                                --------------------
+                                                   $      2,069
+                                                ====================
+</TABLE>
+
+
+
+                                      F-17
+<PAGE>   43
+
+
+
+NOTE 12 - COMMITMENTS AND CONTINGENCIES, CONTINUED
+
+The total rental expense under operating leases was $1,058,000, $956,000 and
+$868,000 for the years ended June 30, 2001, 2000, and 1999, respectively.
+
+
+NOTE 13 - BUSINESS AND CREDIT CONCENTRATIONS
+
+The Company sells its products worldwide from its headquarters in Gaithersburg,
+Maryland. The following is a breakdown of the Company's revenue by geographic
+area (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                            ------------     -----------     ----------
+                                                                2001             2000           1999
+                                                            ------------     -----------     ----------
+
+<S>                                                         <C>              <C>             <C>
+U.S.                                                           $14,792          $24,016        $17,519
+Canada and Mexico                                                1,199            5,089          1,670
+Asia                                                               587            2,063          7,971
+Europe: Germany                                                  5,545              373              -
+Europe:  Other                                                     656              314            999
+South America                                                      249              618            222
+Africa and Middle East                                           1,151            1,293          1,276
+                                                            ------------     -----------     ----------
+     Total revenue                                             $24,179          $33,766        $29,657
+                                                            ============     ===========     ==========
+</TABLE>
+
+During the year ended June 30, 2001, one customer comprised 23% of total
+revenue. Another customer comprised 14%, 11%, and 10% of the Company's total
+revenues during the years ended June 30, 2001, 2000, and 1999, respectively.
+During the year ended June 30, 1999, sales to three customers representing one
+end-user in Asia comprised approximately 14% of total revenue, and another
+customer accounted for approximately 12% of total revenue.
+
+In addition, five customers represented approximately 49% of the Company's gross
+trade receivable balances as of June 30, 2001. To reduce credit risk, the
+Company conducts ongoing evaluations of its customers and requires letters of
+credit or other pre-payment arrangements, as appropriate. The Company maintains
+accounts receivable allowances to provide for potential credit losses.
+
+
+
+                                      F-18
+<PAGE>   44
+
+
+SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+
+<TABLE>
+<CAPTION>
+                                         BALANCE AT     CHARGED TO   RECOVERIES OF                BALANCE AT
+                                        BEGINNING OF    COSTS AND       PRIOR                       END OF
+             DESCRIPTION                   PERIOD        EXPENSES     WRITE-OFFS    WRITE-OFFS      PERIOD
+<S>                                     <C>             <C>          <C>            <C>            <C>
+Year ended June 30, 2001:
+     Allowance for doubtful accounts     $  469,000     $ 812,000      $ 13,000     $  797,000     $497,000
+     Reserve for obsolete inventory      $  187,354     $ 455,000      $      -     $  438,171     $204,183
+
+Year ended June 30, 2000:
+     Allowance for doubtful accounts     $  867,000     $(200,000)     $152,000     $  350,000     $469,000
+     Reserve for obsolete inventory      $  251,810     $ 239,983      $      -     $  304,439     $187,354
+
+Year ended June 30, 1999:
+     Allowance for doubtful accounts     $2,465,000     $ 812,000      $392,000     $2,802,000     $867,000
+     Reserve for obsolete inventory      $  349,163     $ 122,647      $      -     $  220,000     $251,810
+</TABLE>
+
+
+
+
+</TEXT>
+</DOCUMENT>

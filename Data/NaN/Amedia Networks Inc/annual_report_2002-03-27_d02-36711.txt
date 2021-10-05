@@ -1,0 +1,3095 @@
+<DOCUMENT>
+<TYPE>10-K405
+<SEQUENCE>1
+<FILENAME>d02-36711.txt
+<DESCRIPTION>FORM 10-K
+<TEXT>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-K
+            Annual Report for the Fiscal year ended December 31, 2001
+
+                             TTR TECHNOLOGIES, INC.
+             (Exact name of registrant as specified in its charter)
+
+Delaware                            0-22055                 11-3223672
+(State or Other Jurisdiction        Commission File         IRS Employer
+of Incorporation)                   Number)                 Identification No.)
+
+                           2 HaNagar Street, Kfar Saba
+                    (Address of Principal Executive Offices)
+
+                               011-972-9-766-2393
+              (Registrant's Telephone Number, including Area Code)
+
+[Mark One]
+
+|X|   Annual report under Section 13 or 15(d) of the Securities Exchange Act of
+      1934
+
+      For the fiscal year ended December 31, 2001
+
+|_|   Transition report under Section 13 or 15(d) of the Securities Exchange Act
+      of 1934
+
+         Securities registered under Section 12(b) of the Exchange Act:
+
+Title of each Class:             Name of each exchange on which registered
+     None                                None
+
+         Securities registered under Section 12(g) of the Exchange Act:
+                 Common Stock, par value $0.001(Title of Class)
+
+      Check whether the issuer (1) has filed all reports required to be filed by
+Section 13 or 15(d) of the Exchange Act during the past 12 months (or for such
+shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days.
+|X| Yes |_| No
+
+      Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained, and will not be contained, to the best
+of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. |X|
+
+      As of March 27, 2002, the Registrant had outstanding 17,593,896 shares of
+Common Stock, $0.001 par value per share. The aggregate market value of such
+common stock held by non-affiliates of the Registrant at March 25, 2002 was
+approximately $12.5 million. Such market value was calculated by using the
+closing price of such common stock as of such date as reported on the NASDAQ
+National Market.
+<PAGE>
+
+      CERTAIN STATEMENTS MADE IN THIS ANNUAL REPORT ON FORM 10K ARE
+"FORWARD-LOOKING STATEMENTS" WITHIN THE MEANING OF THE PRIVATE SECURITIES
+LITIGATION REFORM ACT OF 1995. FORWARD-LOOKING STATEMENTS CAN BE IDENTIFIED BY
+TERMINOLOGY SUCH AS "MAY", "WILL", "SHOULD", "EXPECTS", "INTENDS",
+"ANTICIPATES", "BELIEVES", "ESTIMATES", "PREDICTS", OR "CONTINUE" OR THE
+NEGATIVE OF THESE TERMS OR OTHER COMPARABLE TERMINOLOGY AND INCLUDE, WITHOUT
+LIMITATION, STATEMENTS BELOW REGARDING: THE COMPANY'S JOINT VENTURE WITH
+MACROVISION; THE COMPANY'S EXPECTATIONS AS TO SOURCES OF REVENUES; THE COMPANY'S
+INTENDED BUSINESS PLANS; EXPECTATIONS AS TO PRODUCT PERFORMANCE; THE COMPANY'S
+INTENTIONS TO ACQUIRE OR DEVELOP OTHER TECHNOLOGIES; THE PROSPECTS FOR COMSIGN;
+AND BELIEF AS TO THE SUFFICIENCY OF ITS CASH RESERVES. BECAUSE FORWARD-LOOKING
+STATEMENTS INVOLVE RISKS AND UNCERTAINTIES, THERE ARE IMPORTANT FACTORS THAT
+COULD CAUSE ACTUAL RESULTS TO DIFFER MATERIALLY FROM THOSE EXPRESSED OR IMPLIED
+BY THESE FORWARD-LOOKING STATEMENTS. THESE FACTORS INCLUDE, BUT ARE NOT LIMITED
+TO, THE COMPETITIVE ENVIRONMENT GENERALLY AND IN THE COMPANY'S SPECIFIC MARKET
+AREAS; RAPID TECHNOLOGICAL CHANGES; CHANGES IN TECHNOLOGY; FAILURE OF THE
+COMPANY'S TECHNOLOGY TO WORK; LACK OF MARKET ACCEPTANCE FOR SAFEAUDIO; INABILITY
+OF MACROVISION TO SUCCESSFULLY MARKET SAFEAUDIO; PERFORMANCE OF COMSIGN; THE
+AVAILABILITY OF AND THE TERMS OF FINANCING, INFLATION, CHANGES IN COSTS AND
+AVAILABILITY OF GOODS AND SERVICES, ECONOMIC CONDITIONS IN GENERAL AND IN THE
+COMPANY'S SPECIFIC MARKET AREAS, DEMOGRAPHIC CHANGES, CHANGES IN FEDERAL, STATE
+AND /OR LOCAL GOVERNMENT LAW AND REGULATIONS; CHANGES IN OPERATING STRATEGY OR
+DEVELOPMENT PLANS; THE ABILITY TO ATTRACT AND RETAIN QUALIFIED PERSONNEL; AND
+CHANGES IN THE COMPANY'S ACQUISITIONS AND CAPITAL EXPENDITURE PLANS. ALTHOUGH
+THE COMPANY BELIEVES THAT EXPECTATIONS REFLECTED IN THE FORWARD-LOOKING
+STATEMENTS ARE REASONABLE, IT CANNOT GUARANTEE FUTURE RESULTS, PERFORMANCE OR
+ACHIEVEMENTS. MOREOVER, NEITHER THE COMPANY NOR ANY OTHER PERSON ASSUMES
+RESPONSIBILITY FOR THE ACCURACY AND COMPLETENESS OF THESE FORWARD-LOOKING
+STATEMENTS. THE COMPANY IS UNDER NO DUTY TO UPDATE ANY FORWARD-LOOKING
+STATEMENTS AFTER THE DATE OF THIS REPORT TO CONFORM SUCH STATEMENTS TO ACTUAL
+RESULTS.
+
+                                     Part I
+
+Item 1. Business
+
+Introduction
+
+      TTR Technologies, Inc. (hereinafter, the "Company" or "TTR") designs and
+develops digital security technologies that provide copy protection for
+electronic content distributed on optical media and over the Internet. Optical
+media store data that may be retrieved by utilizing a laser and include compact
+discs, which are commonly referred to as CDs, and digital versatile discs which
+are commonly referred to as DVDs. DVDs that store software, including games and
+reference material, are referred to as DVD-ROMs. Copy-protected CDs are
+
+
+                                       2
+<PAGE>
+
+designed to be compatible with and to play on currently existing compact disc
+players and other play-back devices.
+
+      In November 1999, we entered into an agreement with Macrovision
+Corporation to jointly design and develop a copy protection product designed to
+thwart the illegal copying of audio content on CDs. The new product is currently
+marketed under the brand name "SAFEAUDIO" and is based primarily upon our
+proprietary MusicGuard technology, a unique media-based technology designed to
+prevent the unauthorized copying of audio content distributed on CDs, as well as
+related Macrovision technology. SAFEAUDIO(TM) is owned jointly by TTR and
+Macrovision. Macrovision has an exclusive world-wide royalty bearing license to
+market SAFEAUDIO and all other related technologies and products jointly
+developed that are designed to prevent the illicit duplication of audio programs
+(including the audio portion of music videos, movies and other video or audio
+content) distributed on optical media (not limited to CDs and DVDs) and
+technologies for Internet digital rights management for audio applications. We
+are entitled to royalties of thirty percent (30%) of the net revenues collected
+by Macrovision or its affiliates from any products or components incorporating
+SAFEAUDIO.
+
+      We are continually working to expand our technologies in the areas of copy
+protection and Internet security. Presently, we are aggressively engaged in the
+design development and testing of technologies relating to DVD-ROMs and files
+downloaded from the Internet.
+
+      The Company was incorporated under Delaware law in July 1994. The
+principal executive offices of the Company are located at 2 HaNagar Street, Kfar
+Saba, Israel. Additionally, the Company maintains executive and administrative
+offices in New York City at 575 Lexington Avenue, New York, New York 10022.
+
+Industry Background
+
+      Losses related to the unauthorized reproduction and use of music CDs
+present a continuing concern for the recording industry as well as performing
+artists. According to the Recording Industry Association of America, a national
+trade organization, the recording industry loses currently about $4.2 billion
+annually to global piracy of recorded music. The widespread use of new
+technologies enables the distribution of music files electronically via the
+Internet, further exacerbating the piracy problem.
+
+      The cost of producing good quality copies of CDs has been declining
+steadily over the past four years. Until recently, to produce good quality CDs
+required a significant investment. Recent developments in consumer electronics
+technology have enabled consumers to purchase a CD burner (recorder) from a
+local retail outlet for as little as $100. CD burners now often are bundled with
+new computers. Blank recordable discs are widely available for less than $0.50.
+With this technology, even the casual user can easily copy unprotected CDs.
+
+      Additionally, it is now possible to easily download music via the Internet
+due to the widespread use of MP3 compression technology. This technology has
+made the Internet a feasible vehicle for the electronic transmission of music.
+Today there are thousands of websites offering music files in MP3 format.
+According to a recent survey, 1.9 billion music tracks are exchanged or
+downloaded each month on one popular website. Additionally, there exist today
+many peer to peer file sharing services and software that facilitate the
+exchange of music without a central server. Most of the music being downloaded,
+however, is pirated; i.e., no royalties are being paid to the artists or to the
+record companies that produced this music. The music industry, in an effort to
+gain a foothold in this market and limit the consequences of piracy has launched
+various subscription services allowing online access to music for a monthly fee.
+Subscribers use the service to download music files to their computers. The
+downloaded music is, however, locked to the computer and may not be
+
+
+                                       3
+<PAGE>
+
+moved from the computer to which it was downloaded, thereby interfering with
+consumers' enjoyment of the music. According to a recent report by Jupiter,
+portability is a priority for on-line music subscribers.
+
+      Attempts by third parties to circumvent copy protection technologies have
+been and are expected to be a persistent problem, despite the United States
+Digital Millennium Copyright Act. Effective as of May 2000, the Act outlaws copy
+protection circumvention devices and technologies and provides for both criminal
+and civil penalties for companies or individuals who import, produce or
+distribute devices designed to circumvent copy protection devices and
+technologies.
+
+      Several companies have developed copy protection technologies to prevent
+unauthorized CD burning. These have gained the interest of the major music
+labels and others in the music industry. To management's knowledge, to date no
+commercial contracts have been announced respecting the license or other use of
+any of the available technologies or products providing copy protection for
+audio content distributed on CDs.
+
+                               CD Copy Protection
+
+      The Company's management believes that SAFEAUDIO offers recording studios
+and artists a cost-effective solution to protect works distributed on CDs, while
+offering convenience to the end-user. We believe that SAFEAUDIO embodies
+proprietary know-how designed to prevent the unauthorized copying of CDs.
+
+      SAFEAUDIO offers effective multi-level copy protection, enabling record
+labels to choose one or more protection techniques, depending on the record
+labels' requirements for a particular title or genre of music.
+
+      SAFEAUDIO's "coding" protection is applied within the disc structure,
+without altering the sound wave files produced by the studio and without
+affecting the quality, original sound or clarity of the recording in any audible
+manner. The process ensures that the SAFEAUDIO protection is applied at a
+precisely targeted location on the CD, so that the CD player circuitry will be
+able to play-back the music as originally intended without any unwanted
+intrusion. If duplication of a protected disc is attempted, the unauthorized
+copy will be flawed and rendered useless with bursts of loud clicks interlaced
+within the music. The system is designed to be effective on all types of music
+and is designed to be usable on nearly all major commercially available
+play-back devices.
+
+      SAFEAUDIO also contains "timing" and "hiding" options that may be used to
+increase the effectiveness of the protection. The "timing" protection feature
+offers increased security across all tracks by making it more difficult for PCs
+to read the discs. Attempts to rip or copy music protected with this feature on
+a conformant drive will result in either the attempt failing or in the music
+"jumping" or being distorted. The "hiding" option prevents the CD Audio tracks
+from being played on most PCs, and prevents the copying and ripping of audio by
+common software. This feature reduces PC and DVD player compatibility. For music
+protected with "hiding" or "timing" to play on a PC, the music must be recorded
+in data (or Yellow Book) format which can be read by a PC. This Yellow Book
+format music is encrypted and can be read by a PC player with digital rights
+management technology. The music is locked to the PC (and cannot be enjoyed
+elsewhere) using encryption to thwart copying.
+
+      SAFEAUDIO protection does not affect the audio quality on compatible
+players. When SAFEAUDIO protected discs (using only the coding protection
+option) are played on PCs, consoles, Macs, etc., the user does not have to use a
+different or unfamiliar player with a different user experience, as with
+competing products. Users can choose their favorite software CD player. If
+timing and/or hiding are used, the user will be restricted to using players that
+have the digital rights management technology selected by the record label.
+
+
+                                       4
+<PAGE>
+
+Mastering Equipment Manufacturers
+
+      In order to produce SAFEAUDIO protected CDs, modifications to the encoder
+portion of the laser optics system in CD mastering equipment are required. Under
+the contract with Macrovision, Macrovision is responsible for coordinating with
+the companies which produce and sell these encoders. As of March __, 2002,
+SAFEAUDIO has been adopted and integrated by certain of the major encoder
+manufacturers and glass mastering facilities (e.g., Toolex Data Handling,
+Eclipse Data Technologies and Doug Carson & Associates, Inc.). Additionally,
+DaTARIUS Technologies GmbH, a manufacturer of high-end optical media quality
+control systems and process optimization solutions, has SAFEAUDIO-enabled its
+test equipment.
+
+      Macrovision has authorized licensed CD replicators to replicate protected
+CDs. Macrovision has licensing arrangements in place with more than 75
+replication facilities worldwide including the largest multinational
+replicators, such as, Sonopress, MPO, Americ Disc, Nimbus, Cinram, and JVC.
+Therefore, management believes that Macrovision is in a good position to
+leverage its current business relationships to the benefit of SAFEAUDIO.
+Currently, eighteen replicators have been authorized and outfitted to produce
+SAFEAUDIO protected CDs.
+
+Marketing and Sales
+
+      Under the agreement with Macrovision, Macrovision is responsible, at its
+expense, for the marketing of SAFEAUDIO and will determine the staffing and
+other resources to be allocated to the commercialization of the technology
+consistent with Macrovision's good faith determination of its commercial
+potential.
+
+      The Company is entitled to royalties of thirty percent (30%) of the net
+revenues collected by Macrovision or its affiliates from any products or
+components incorporating SAFEAUDIO. Under certain circumstances, the exclusive
+license relating to MusicGuard and the jointly developed technology that the
+Company granted to Macrovision reverts to a non-exclusive license as of the
+second anniversary of the commercial launch. Under the agreement with
+Macrovision, commercial launch is deemed to occur when a certain pre-designated
+number of protected music CDs are manufactured, with a certain specified number
+being manufactured by at least one of certain designated major commercial music
+labels.
+
+      The Company has a limited internal sales and marketing capability. To
+maintain its focus on product development and to avoid the expense of
+establishing its own global sales and marketing staff, the Company does not
+anticipate entering into any markets where a large sales force would be
+required.
+
+New Products and Technologies
+
+      As of March 2002, the Company completed a proto-type for a DVD-ROM copy
+protection solution and is continuing its development efforts toward a
+commercial product/solution. A DVD-ROM is a digital versatile disc containing
+read-only memory. This means that information content on a DVD-ROM cannot be
+modified. Although DVD-ROM can contain all types of information content
+including, software, music, video and text, conventionally, DVD-ROM refers to
+DVDs containing software content. DVD-ROMs containing content other than
+software are referred to simply as DVDs. Our solution is currently being tested
+by replicators.
+
+      We are also engaged in researching various technologies relating to the
+distribution and security of content delivered over the Internet. To lead this
+effort, we hired a vice-president of Internet-based technologies early in 2001.
+
+
+                                       5
+<PAGE>
+
+      Under the Company's agreement with Macrovision, we granted to Macrovision
+an exclusive right of first refusal through December 31, 2009, with respect to
+the acquisition of all rights in or worldwide exclusive marketing and
+distribution rights to any music copy protection technology that we develop, and
+any Internet digital rights management technologies developed by the Company
+which are applicable to music, music video, video, software or data publishing
+products or markets. The DVD and internet technologies noted above may, in
+management's view, be subject to such right of first refusal.
+
+      In connection with the design and development of DiscGuard, the Company's
+proprietary software anti-piracy product, TTR's Israeli subsidiary has received,
+through December 31, 2001, grants totaling $210,000 from the Office of the Chief
+Scientist of the State of Israel. The Company is required to pay royalties to
+the Chief Scientist on proceeds from the sale of products derived from the
+research and development funded by such grants at the rate of 3% of the sales
+revenue for the first three years of such sales, 4% for the following three
+years, and 5% thereafter, up to a maximum of 100% of such grants, plus accrued
+interest. For example, royalties will be payable to the Chief Scientist based on
+royalties the Company receives from Macrovision relating to DiscGuard. The
+Company's obligation to pay royalties to the Chief Scientist is linked to the
+exchange rate of the dollar and the New Israeli Shekel. Also, the Chief
+Scientist places certain restrictions on the transfer of ownership of the
+technology funded by that office. Management does not presently anticipate
+transferring ownership of the technology developed by it to third parties.
+
+Research & Development
+
+      From the date of inception through December 31, 2001, the Company expended
+approximately $5 million on research and development activities, including
+approximately $950,000 for the year ended December 31, 2001, and approximately
+$1.1 million for the year ended December 31, 2000. The amounts expended in 2001
+were used primarily for the enhancement of SAFEAUDIO, developing and expanding
+DVD anti-copying protection and security technologies relating to files
+downloaded from the Internet. We expect to modestly increase our research and
+development levels due to expanded activities in the new areas of development.
+
+Competition
+
+      To management's knowledge, there are currently three other companies
+active in the field of designing and developing technology designed to prevent
+the unauthorized copying of compact discs. MidbarTech, a private Israeli
+company, has a solution that has been, to management's knowledge, tested by the
+major labels in Europe and the United States and is currently marketed under the
+tradename "Cactus Data Shield". We believe that Sony also has a product that it
+is marketing to the industry under the tradename "Key2Audio". SunnComm, a U.S.
+based company whose securities are traded on over-the-counter market, publicly
+announced the execution of use agreements for CD anti-copy technology. There can
+be no assurance that these technologies will not become more widely accepted
+than SAFEAUDIO or that other companies will not enter the market in the future.
+There can be no assurance that companies with substantially greater financial,
+technological, marketing, personnel and research and development resources than
+ours will not develop and begin marketing a similar technology.
+
+      There can be no assurance that the Company will be able to continue
+developing products with innovative features and functions, or that development
+by others of similar or more effective products will not render the Company's
+products or technologies noncompetitive or obsolete.
+
+
+                                       6
+<PAGE>
+
+Proprietary Rights
+
+      The Company currently relies on a combination of trade secret, patent,
+copyright and trademark law, as well as non-disclosure agreements and
+invention-assignment agreements, to protect the technologies used in the
+Company's products and other proprietary information. However, such methods may
+not afford complete protection and there can be no assurance that competitors
+will not independently develop such processes, concepts, ideas and
+documentation. The Company has filed patent applications in the United States,
+Israel, Brazil, Canada, Australia, Mexico, Europe, Britain, Germany, Russia,
+China, Korea, Japan, New Zealand and under the Patent Cooperation Treaty with
+respect to the technologies underlying DiscGuard and MusicGuard. As of March
+2002, three patents have been issued to the Company with respect to
+authenticating and copy protecting digital optical media, which patents are in
+effect through 2018. The Company has also applied for and received a United
+States trademark registration of MusicGuard. There can be no assurance that any
+patent will be issued in respect of any currently pending application or that
+the Company's proprietary technology will remain a secret or that others will
+not develop similar technology and use such technology to compete with the
+Company.
+
+      The Company's policy is to require our employees, consultants, and other
+advisors to execute confidentiality agreements upon the commencement of
+employment, consulting or advisory relationships. These agreements generally
+provide that all confidential information developed or made known to the
+individual by the Company during the course of the individual's relationship
+with the Company is to be kept confidential and not to be disclosed to third
+parties except in specific circumstances. In the case of employees and
+consultants, the agreements provide that all inventions conceived by the
+individual in the course of their employment or consulting relationship with the
+Company shall be the Company's exclusive property. There can be no assurance,
+however, that these agreements will provide meaningful protection or adequate
+remedies for trade secrets in the event of unauthorized use or disclosure of
+such information.
+
+Employees
+
+      The Company employs 13 full-time employees. Two of the employees, the
+Company's Chief Financial Officer and its Vice-President for Corporate Strategy,
+are based in the Company's offices in New York. The remaining employees are
+based in Israel. Except as indicated below with respect to employees of our
+Israeli subsidiary, none of the Company's employees is covered by a collective
+bargaining agreement or is represented by a labor union. The Company considers
+its relations with employees to be good.
+
+      The Company's future performance depends highly upon the continued service
+of Dr. Baruch Sollish, our Chief Technology Officer, as well as other members of
+our senior management team.
+
+      The Company believes that its future success will also depend upon its
+continuing ability to identify, attract, train and retain other highly skilled
+managerial, technical, sales and marketing personnel. Hiring for such personnel
+is competitive, and there can be no assurance that the Company will be able to
+retain its key employees or attract, assimilate or retain the qualified
+personnel necessary for the development of its business.
+
+Minority Subsidiary
+
+      In July 2000, the Company purchased a 50% equity interest in ComSign Ltd.
+("ComSign"), an Israeli based company which is the exclusive marketer in Israel
+and in the territories controlled by the Palestinian Authority of VeriSign
+Inc.'s digital authentication certificates and related services. The remaining
+50% equity interest in ComSign is held by a private company based in Israel.
+VeriSign, Inc. is a leading provider of Internet based trust services. The
+agreement between ComSign and VeriSign provides ComSign with the rights to
+
+
+                                       7
+<PAGE>
+
+market these services in the designated territory for a period of six years and
+a sharing of revenues derived from these activities. ComSign is to receive 50%
+of net revenues from web certificates and between 50-70% for Onsite services (a
+product designed to enable ComSign's customers to directly sign up their clients
+to receive and use a digital certificate). ComSign is focusing on marketing the
+VeriSign web certificates and onsite enterprise services. ComSign plans to
+exploit VeriSign's brand and dominant position to build a key position in the
+Israeli market for trust and Internet security services and products.
+
+      According to the Teleseker/Taylor Nelson Sofres report, Israel has the
+twelfth highest rate of Internet access in the world with approximately 20% of
+the population over the age of 13 connected to the World Wide Web. There are
+currently approximately 20,000 registered domains in Israel and according to the
+IDC that number should reach 34,000 by mid- 2003. Domains primarily engaged in
+commercial transactions over the Internet are, in management's view, candidates
+to license the web certificate service. Management believes that large
+corporations, educational institutions, financial institutions, health services
+and government agencies are candidates to purchase the onsite services.
+
+      In April 2001, ComSign upgraded its status to a full VeriSign processing
+center and became a non-VeriSign Issuing Authority within the VeriSign Public
+Certification Services. The upgrade from a service center to a processing center
+allows ComSign to improve its service capabilities by issuing and distributing
+certificates directly from its facility in Israel.
+
+      ComSign is currently in discussion with VeriSign to resolve certain issues
+between them, including the contract fees payable by ComSign under the terms of
+the license agreement, though no assurance can be provided that ComSign will be
+successful in reaching a mutually agreeable resolution of these issues. Despite
+the opportunities referred to above, the Israeli market is facing a reduction in
+demand for information technology and security products very similar to that
+being experienced by United States based entities. Given the decrease in demand,
+if the license fees payable by ComSign are not reduced upon terms mutually
+agreeable to ComSign and VeriSign, then, in the view of management, ComSign may
+not be able to continue operations as presently conducted.
+
+                              CONDITIONS IN ISRAEL
+
+      The following information discusses certain conditions in Israel that
+could affect its Israeli subsidiary, TTR Technologies, Ltd. All figures and
+percentages are approximate. A portion of the information with respect to Israel
+presented hereunder has been taken from reports of the Bank of Israel and
+publications of the Israeli Central Bureau of Statistics.
+
+Political Conditions
+
+      Since the establishment of the State of Israel in 1948, a number of armed
+conflicts have taken place between Israel and its Arab neighbors and a state of
+hostility, varying from time to time in intensity and degree, has led to
+security and economic problems for Israel. Additionally, from time to time since
+December 1987, Israel has experienced civil unrest, primarily in the West Bank
+and Gaza Strip territories administered by Israel since 1967. A peace agreement
+between Israel and Egypt was signed in 1979, a peace agreement between Israel
+and Jordan was signed in 1994 and, since 1993, several agreements between Israel
+and Palestinian representatives have been signed. Since September 2000, however,
+there has been intense violence, hostility and on-going clashes between the
+Palestinians and Israeli Security Forces through-out the West Bank and the Gaza
+Strip. Israel has not entered into any peace agreement with Syria or Lebanon and
+is still in a state of war with these countries. Further, there have been delays
+in the negotiations and implementation of the agreements with the Palestinians.
+There can be no assurance as to whether or how the "peace process" will develop
+or what effect it may have upon the Company. Beginning in 1948, nearly all Arab
+countries formally adhered to a boycott of Israel and Israeli companies and,
+since the early 1950's of non-Israeli companies doing business in Israel or with
+such companies. Despite measures to counteract the boycott, including
+anti-boycott legislation in the United States, the boycott has
+
+
+                                       8
+<PAGE>
+
+had an indeterminate negative effect upon trade with and foreign investment in
+Israel. The Company does not believe that the boycott has had a material adverse
+effect on it, but there can be no assurance that restrictive laws, policies or
+practices directed toward Israel or Israeli businesses will not have an adverse
+impact on the operation or expansion of the Company's business.
+
+      Generally, all male adult citizens and permanent residents of Israel under
+the age of 54 are, unless exempt, obligated to perform certain military duty
+annually. Additionally, all such residents are subject to being called to active
+duty at any time under emergency circumstances. Some of the employees of the
+Israeli subsidiary currently are obligated to perform annual reserve duty. While
+the Israeli subsidiary has operated effectively under these and similar
+requirements in the past, no assessment can be made of the full impact of such
+requirements on the Company in the future, particularly if emergency
+circumstances occur.
+
+Economic Conditions
+
+      Israel's economy has been subject to numerous destabilizing factors,
+including a period of rampant inflation in the early to mid-1980s, low foreign
+exchange reserves, fluctuations in world commodity prices, military conflicts,
+security incidents and for at least the five years preceding 1997, expansion.
+The Israeli government has, for these and other reasons, intervened in the
+economy by utilizing, among other means, fiscal and monetary policies, import
+duties, foreign currency restrictions and control of wages, prices and exchange
+rates. The Israeli government periodically changes its policies in all these
+areas.
+
+      During 1997, the monetary policy of the Bank of Israel changed in several
+respects. These changes included a decision of the Bank of Israel to reduce its
+intervention in the currency markets to allow the NIS to trade more freely. In
+addition, the Bank of Israel has adopted and implemented certain measures to
+liberalize foreign currency regulations. There are currently no Israeli currency
+control restrictions on remittance of dividends or the proceeds from the sale of
+the ordinary shares, although legislation remains in effect pursuant to which
+currency controls may be imposed by administrative action at any time. The
+Israeli government's monetary policy has contributed to relative price and
+exchange rate stability in recent years, despite fluctuating rates of economic
+growth and unemployment. The Israeli inflation rates for the years 2000 and 2001
+were 0% and 1.4%, respectively. No assurance can be provided that the Israeli
+government will be successful in its attempts to keep prices and exchange rates
+stable.
+
+Trade Relations
+
+      Israel is a member of the United Nations, the International Monetary Fund,
+the International Bank for Reconstruction and Development and the International
+Finance Corporation. Israel is also a signatory to the General Agreement on
+Tariffs and Trade, which provides for reciprocal lowering of trade barriers
+among its members. In addition, Israel has been granted preferences under the
+Generalized System of Preferences from the United States, Australia, Canada and
+Japan. These preferences allow Israel to export the products covered by such
+programs either duty-free or at reduced tariffs.
+
+      In recent years, Israel has established commercial and trade relations
+with a number of other nations, including Russia, China and nations in Eastern
+Europe, with which Israel had not previously had such relations.
+
+Employees
+
+      The Israel subsidiary is subject to various Israeli labor laws and
+collective bargaining agreements between Histadrut and the federation of
+industrial employers. Such laws and agreements cover a wide range of areas,
+including hiring practices, wages, promotions, employment conditions (such as
+working hours, overtime payment, vacations, sick leave and
+
+
+                                       9
+<PAGE>
+
+severance pay), benefits programs (such as pension plans and education funds)
+and special issues, such as equal pay for equal work, equal opportunity in
+employment and employment of women. The collective bargaining agreements also
+cover the relations between management and the employees' representatives,
+including Histadrut's involvement in certain aspects of hiring and dismissing
+employees and procedures for settling labor disputes. Our Israel subsidiary
+continues to operate under the terms of Israel's national collective bargaining
+agreement, portions of which expired in 1994. Israeli employers and employees
+are required to pay predetermined sums to the National Insurance Institute, an
+organization similar to the United States Social Security Administration. These
+contributions entitle the employees to receive a range of medical services and
+other benefits. Certain employees of the Israeli subsidiary are covered by
+individual employment agreements.
+
+                                  Risk Factors
+
+      In addition to the other information contained in this Annual Report on
+Form 10-K, you should consider carefully the following risks. If any of these
+risks occurs, our business, financial condition or operating results could be
+adversely affected.
+
+      The Company has lost money in every quarter and year, and it expects these
+losses to continue in the foreseeable future.
+
+      Since TTR began operations in 1994, the Company has lost money in every
+quarter and year. As of December 31, 2001, the Company had an accumulated
+deficit of approximately $35 million. The Company had no revenues in 2001. TTR's
+ability to generate revenue depends primarily upon Macrovision's success in
+promoting and marketing the technology, as well as the ability to independently
+successfully develop and commercialize other products. There can be no assurance
+that the Company will ever generate revenues and, if it ever does, that the
+levels of revenues will allow the Company to become profitable.
+
+      TTR's relationship with Macrovision is very important to TTR, since
+Macrovision is the exclusive licensee of SAFEAUDIO and is responsible for
+marketing SAFEAUDIO.
+
+      As of November 24, 1999, the Company entered into a ten-year agreement
+with Macrovision to jointly develop a commercially viable anti-piracy protection
+technology and product for audio content distribution on optical media. The
+Company granted to Macrovision exclusive worldwide royalty bearing rights to the
+Company's proprietary anti-piracy technology, MusicGuard, which serves, in large
+part, as the basis for SAFEAUDIO, the audio content protection technology
+marketed by Macrovision. Under the terms of the agreement, Macrovision is
+responsible for promoting and marketing SAFEAUDIO. Macrovision has the
+discretion to determine the staffing and resources it allocates to commercialize
+the technology consistent with Macrovision's good faith determination as to the
+technology's commercial potential. The Company also granted to Macrovision
+exclusive rights to its proprietary CD software anti-piracy protection
+technology, DiscGuard. Only a limited portion of the license for DiscGuard is
+royalty bearing and Macrovision is not required to pay any minimum royalties in
+order to retain its exclusivity. The Company expects that sales through
+Macrovision, if any, will account for most of the Company's revenues for at
+least the next two years. The Company believes that the rapid penetration by
+SAFEAUDIO in the recording industry in the United States and Europe to be
+crucial to its success. If the Company is unable to effectively manage and
+maintain its relationship with Macrovision or for any reason Macrovision cannot
+successfully market SAFEAUDIO, the Company's business will be materially
+adversely affected. In addition, the Company's condition could be adversely
+affected by changes in the financial condition of Macrovision or by any changes
+to Macrovision's business.
+
+      As discussed in "Business - CD Copy Protection", music in data (Yellow
+Book) format is often locked to the PC (encrypted) to prevent copying of the
+music in data format. Macrovision and the Company both have digital rights
+management products to create the key
+
+
+                                       10
+<PAGE>
+
+to unlock the encrypted Yellow Book format in which the music may exist. The
+Company's operative assumption had been that Macrovision's product,
+SafeAuthenticate, if ever sold in conjunction with SafeAudio, would be an
+insignificant portion of the price of the SafeAudio product. However, it is
+possible that Macrovision's pricing policy may potentially effectively reduce
+the SafeAudio revenues for the Company.
+
+      The Company currently has only one commercially viable product or
+technology and it cannot assure you that it will develop any additional
+commercially viable products or technologies.
+
+      Other than SafeAudio, the Company has no other currently commercially
+viable product. The Company has also given to Macrovision an exclusive worldwide
+partially royalty-bearing license to DiscGuard, which the Company launched
+commercially in February 1998. The Company expects that Macrovision will use
+components of DiscGuard to support its CD-ROM product, SafeDisc(TM). Although
+the Company is working to develop technologies with applications in other areas,
+including DVD-ROM copy protection and Internet related security, these
+technologies are not currently ready to be commercialized. Additonally, there
+can be no assurance that the Company will have sufficient resources to
+commercialize these technologies.
+
+      Even if TTR develops other commercially viable technologies, the right of
+first refusal granted to Macrovision with respect to certain products may impair
+the Company's ability to exploit them.
+
+      Under the terms of our agreement with Macrovision, the Company granted to
+Macrovision first refusal rights until December 31, 2009 with respect to any
+music protection technology that it develops which is not included in the
+license to Macrovision and any Internet digital rights management technologies
+that it develops which are applicable to music, music video, video, software or
+data publishing products or markets. These rights include rights of ownership if
+the Company decides to sell the technology or grant worldwide exclusive
+marketing or distribution rights if it decides to license the technology. The
+Company's obligation is to negotiate a sale or license to Macrovision in good
+faith should it receive a bona fide offer from a third party to purchase or
+license on an exclusive world-wide basis the technology. As is ordinarily the
+case where a right of first refusal is granted, the existence of this right may
+impair the Company's ability to fully exploit the commercial potential inherent
+in other technology that the Company may develop which is subject to this right
+by creating the possibility that an interested third party may abstain from
+making an offer for such technology due to a possible concern on the part of
+such third party that its offer will be utilized by the Company solely for
+negotiating an offer from Macrovision on more favorable terms.
+
+      The Company has only been in business for a limited period of time, so
+your basis for evaluating it is limited.
+
+      The Company is a development stage company with a limited history of
+operations. Prior to the commencement of its joint efforts with Macrovision to
+develop SAFEAUDIO and before its software product, DiscGuard, first became
+commercially available in February 1998, the Company was engaged primarily in
+research and development. As a result, there is a limited history of operations
+for evaluating the Company's business. You must consider the risks and
+difficulties frequently encountered by early stage companies in new and rapidly
+evolving markets, including the audio content copy protection and anti-piracy
+market. Some of these risks and uncertainties relate to:
+
+      * the successful commercial launch by Macrovision of SAFEAUDIO;
+
+
+                                       11
+<PAGE>
+
+      * the Company's ability to stay ahead of the efforts of hackers and
+counterfeiters to circumvent the Company's copy protection technologies;
+
+      * the Company's ability to respond effectively to actions taken by
+competitors;
+
+      * the Company's ability to build organizational and technical
+infrastructures to manage the Company's growth effectively;
+
+      * the Company's ability to design, develop and implement effective
+products for existing clients and new clients;
+
+      * the Company's ability to extend copy protection to DVDs and content
+delivered over the Internet; and
+
+      * the Company's ability to attract, retain and motivate qualified
+personnel.
+
+If the Company is unsuccessful in addressing these risks and uncertainties, its
+business, financial condition and results of operations will be materially and
+adversely affected.
+
+      The market for audio content copy protection technology is unproven.
+
+      The market for copy protection technology for audio content distribution
+on CDs, especially in the consumer multimedia market, is unproven. For the
+Company to be successful in entering this market, recording studios and artists
+must accept copy protection generally and also adopt SAFEAUDIO, the solution
+that the Company developed with Macrovision. There can be no assurance that copy
+protection of multimedia audio content distributed on CDs will be widely
+commercially accepted. For example, some consumers have reacted negatively to
+the introduction of copy protected CDs if they are prevented from copying the
+content of their favorite audio content. Moreover, copy protection may not be
+effective or compatible with all hardware platforms or configurations or may
+prove to be easily circumvented. Further, the technology the Company is
+developing with Macrovision may not achieve or sustain market acceptance under
+emerging industry standards. If the market for copy protection of audio content
+distributed on CDs fails to develop or develops more slowly than expected, or if
+SAFEAUDIO does not achieve or sustain market acceptance, the Company's business,
+financial condition and results of operations would be materially adversely
+affected.
+
+      There are several competitors in the copy protection industry and the
+Company may not be able to compete effectively against them.
+
+      To management's knowledge, MidbarTech, a private Israeli company markets a
+CD copy protection product under the tradename "Cactus Data Shield" that, to
+management's knowledge, has to date protected millions of discs. Sony has a
+product that it is marketing to the industry under the tradename "Key2Audio".
+SunnComm, a U.S. based company whose securities are traded on over-the-counter
+market, publicly announced the execution of use agreements for CD anti-copy
+technology and there are a number of companies who claim to have an audio CD
+anti-piracy technology in some stage of development. There can be no assurance
+that these technologies will not be more widely accepted than SAFEAUDIO or that
+other companies will not enter the market in the future. There can be no
+assurance that companies with substantially greater financial, technological,
+marketing, personnel and research and development resources than those of the
+Company will not develop and begin marketing a similar technology.
+
+      Third parties may be able to circumvent the Company's anti-piracy
+technology.
+
+      The Company must continually enhance and upgrade audio content protection
+technology to stay ahead of the efforts of counterfeiters and hackers to
+circumvent its
+
+
+                                       12
+<PAGE>
+
+technologies, despite the new United States Digital Millennium Copyright Act. It
+is conceivable that counterfeiters and hackers could develop a way to circumvent
+the Company's copy protection techniques or that the Company will not be
+successful in designing and developing a version of SAFEAUDIO that is effective
+at preventing copying on a sufficient number of CD-ROM drives to induce music
+labels to adopt such technology. In either event, these may result in a
+potentially substantial decrease in the demand for Company products.
+Additionally, music rights owners could choose not to use the Company's
+anti-piracy technology if they believe that such technology will be unable to
+deter counterfeiters or if they believe it interferes with legitimate consumer
+use of the original copyrighted product. In this regard, the copy protection
+technologies are intended to prevent both consumer copying and professional
+remastering and replication. Any reduction in demand for the Company's
+technologies could have a material adverse effect on its business, financial
+condition and results of operations.
+
+      The Company is vulnerable to technological obsolescence.
+
+      The SAFEAUDIO technology is based upon a single set of core technologies.
+The market for this technology is characterized by rapid change, often resulting
+in product obsolescence or short product life cycles. Although the Company is
+not aware of any developments in the audio content protection industry which
+would render its planned products less competitive or obsolete, there can be no
+assurance that future technological changes or the development of new or
+competitive products by others will not do so. Additionally, it is possible that
+the medium that SAFEAUDIO is applied to, CDs, will be responsible for fewer
+purchases of music as alternate formats (e.g. digital downloads over the
+Internet) are developed.
+
+      The Company may soon be delisted from the NASDAQ National Market.
+
+      Since August 16, 2001, the daily closing price of the Company's stock on
+the NASDAQ National Market has fluctuated between $0.69 and $2.29. If the per
+share closing price remains below $1.00 for 30 consecutive business days, then,
+under certain conditions, the Company's stock could be delisted from trading on
+the NASDAQ National Market. Additionally, under the standards by which the
+Company shares remain qualified for listing on the NASDAQ National Market, until
+November 2002 the Company will be required to maintain net tangible assets of at
+least $4 million, at which time the Company must achieve stockholder equity of
+at least $10.0 million to maintain its listing. The Company does not expect to
+be able to record revenues in an amount to satisfy such requirement. If the
+Company is unable to generate revenues, then it will need to raise capital. No
+assurance can be furnished that the Company will be successful in raising such
+capital on terms and conditions acceptable to it or at all. Alternatively, the
+Company will be able to maintain its status on the NASDAQ National Market if the
+market capitalization of the Company at such time is at least $50.0 million
+(which translates into a per share price as of the date of the filing of this
+report of approximately $3) and it has at least four registered and active
+market makers. The Company has limited ability to control the price of the
+Company's stock. Consequently, if the Company fails to meet the foregoing
+standards, the Company's shares may soon be delisted from trading on the NASDAQ
+National Market.
+
+      The Company has a limited number of employees and is particularly
+dependent on its Chief Technology Officer.
+
+      The Company has a small number of employees. Although management believes
+that the Company maintains a core group of employees sufficient for it to
+effectively conduct its operations, the loss of certain key personnel could, to
+varying degrees, have an adverse effect on the Company's operations and product
+development. The loss of Dr. Baruch Sollish, the Company's Chief Technology
+Officer, would have a material adverse affect. The Company has not obtained
+"key-man" life insurance on the life of Dr. Sollish. Dr. Sollish resides in
+Israel.
+
+
+                                       13
+<PAGE>
+
+      The Company may be required to write off its investment in ComSign.
+
+      ComSign is currently negotiating with VeriSign to reduce the license fees
+payable by ComSign under the terms of the license agreement. The Israeli market
+is facing a reduction in demand for information technology and security products
+very similar to that being experienced by United States based entities. Given
+the decrease in demand, if the license fees payable by ComSign are not reduced
+upon terms mutually agreeable to ComSign and VeriSign, then, in the view of
+management, ComSign may not be able to continue operations as presently
+conducted. As of the date of the filing of this report, the Company does not
+consider the investment in ComSign to be impaired. However, there can be no
+assurance that the Company will not determine in the future that the investment
+has become impaired and consequently write-off such investment.
+
+      The Company is subject to risks associated with international operations.
+
+      The Company conducts business from its facilities in Israel and the United
+States, and through its exclusive licensee, Macrovision. Its international
+operations and activities subject the Company to a number of risks, including
+the risk of political and economic instability, difficulty in managing foreign
+operations, potentially adverse taxes, higher expenses and difficulty in
+collection of accounts receivable. Although the Company Israeli subsidiary
+receives most of its operating funds in U.S. dollars, a portion of its payroll
+and other expenses are fixed in the currency of Israel. Because the Company's
+financial results are reported in U.S. dollars, they are affected by changes in
+the value of the various foreign currencies that the Company uses to make
+payments in relation to the U.S. dollar. The Company does not currently cover
+known or anticipated operating exposures through foreign currency exchange
+option or forward contracts.
+
+      The Company is subject to risks associated with operations in Israel.
+
+      Although the Company's business plans envision that nearly all of the
+prospective customers for SAFEAUDIO as well as any other technology which it may
+in the future develop will be based outside of Israel, the Company's
+wholly-owned Israeli subsidiary TTR Technologies, Ltd., as well as its 50% owned
+subsidiary ComSign, maintains offices and research and development facilities in
+Israel and is directly affected by prevailing economic, military and political
+conditions that affect Israel. Any major hostilities involving Israel or the
+interruption or curtailment of trade between Israel and its present trading
+partners might have a material adverse effect on the Company's business,
+financial condition or results of operations.
+
+      The Company needs to establish and maintain licensing relationships with
+companies in related fields.
+
+      The Company's success in developing and commercializing other technologies
+will depend in part upon its ability to establish and maintain licensing
+relationships with companies in related business fields, including international
+distributors. The Company believes that these relationships can allow it greater
+access to manufacturing, sales and distribution resources. However, the amount
+and timing of resources to be devoted to these activities by these other
+companies may not be within the Company's control. The Company may not be able
+to maintain relationships or enter into beneficial relationships in the future.
+Other parties may not perform their obligations as expected. The Company's
+reliance on others for the development, manufacturing and distribution of its
+technologies and products may result in unforeseen problems. There can be no
+assurance that the Company's licensees will not develop or pursue alternative
+technologies either on their own or in collaboration with others, including the
+Company's competitors, as a means of developing or marketing products targeted
+by the collaborative programs and by the Company's products.
+
+      The Company's efforts to protect its intellectual property rights may not
+be adequate.
+
+
+                                       14
+<PAGE>
+
+      The Company's success depends on its proprietary technologies. The Company
+relies on a combination of patent, trademark, copyright and trade secret laws,
+nondisclosure and other contractual provisions, and technical measures to
+protect its intellectual property rights. The Company's patents, trademarks or
+copyrights may be challenged and invalidated or circumvented. Any patents that
+issue from the Company's pending or future patent applications or the claims in
+pending patent applications may not be of sufficient scope or strength or be
+issued in all countries where the Company's products can be sold or its
+technologies can be licensed to provide meaningful protection or any commercial
+advantage to it. Others may develop technologies that are similar or superior to
+the Company's technologies, duplicate its technologies or design around the
+Company's patents. Effective intellectual property protection may be unavailable
+or limited in certain foreign countries. Despite efforts to protect our
+proprietary rights, unauthorized parties may attempt to copy or otherwise use
+aspects of processes and devices that the Company regards as proprietary.
+Policing unauthorized use of the Company's proprietary information is difficult,
+and there can be no assurance that the steps we have taken will prevent
+misappropriation of its technologies. In the event that the Company's
+intellectual property protection is insufficient to protect its intellectual
+property rights, the Company could face increased competition in the market for
+its products and technologies, which could have a material adverse effect on the
+Company's business, financial condition and results of operations.
+
+      Litigation may be necessary in the future to enforce any patents that may
+issue and other intellectual property rights, to protect the Company's trade
+secrets or to determine the validity and scope of the proprietary rights of
+others.
+
+      There can be no assurance that any litigation of these types will be
+successful. Litigation could result in substantial costs, including
+indemnification of customers, and diversion of resources and could have a
+material adverse effect on the Company's business, financial condition and
+results of operations, whether or not this litigation is determined adversely to
+the Company. In the event of an adverse ruling in any litigation, the Company
+might be required to pay substantial damages, discontinue the use and sale of
+infringing products, expend significant resources to develop non-infringing
+technology or obtain licenses to infringed technology. The Company's failure to
+develop or license a substitute technology could have a material adverse effect
+on the Company's business, financial condition and results of operations.
+
+      The rights of first refusal granted to Macrovision relating to the sale of
+our equity securities may impair the Company's ability to obtain other
+financing.
+
+      In the January 2000 stock purchase agreement under which the Company sold
+to Macrovision $4 million of its common stock, the Company granted to
+Macrovision rights of first refusal to purchase equity securities (including
+securities convertible or exchangeable into common stock) that the Company
+proposed to sell to third parties if the amount of the securities to be sold
+would constitute a majority of the Company's outstanding common stock. Subject
+to some exceptions, the Company further granted to Macrovision a right to
+purchase its pro rata share (based on Macrovision's then current ownership of
+common stock) of any equity securities the Company offers in private
+transactions above a certain dollar amount. The existence of these rights may
+impair the Company's ability to obtain equity financing from third parties on
+terms satisfactory to it or at all because investors may be reluctant to devote
+the time and expense necessary to negotiate the terms of a transaction which the
+Company may not be able to consummate if Macrovision elects to exercise its
+rights. Although, Macrovision waived its right of first refusal with respect to
+our private placement in February 2000 of 1,800,000 shares of Common Stock and
+900,000 Class A Warrants for an aggregate purchase price of $10 million, we
+cannot assure you that Macrovision would do so with respect to any future
+financing.
+
+      The Company's stock price is volatile and could continue to be volatile.
+
+
+                                       15
+<PAGE>
+
+      Investor interest in the Company's common stock may not lead to the
+development of an active or liquid trading market. The market price of the
+Company's common stock has fluctuated in the past and is likely to continue to
+be volatile and subject to wide fluctuations. In addition, the stock market has
+experienced extreme price and volume fluctuations. The stock prices and trading
+volumes for many "high tech" companies fluctuate widely for reasons that may be
+unrelated to their business or results of operations. The market price of the
+Company's common stock may decline. General economic, market and political
+conditions could also materially and adversely affect the market price of the
+Company's common stock and investors may be unable to resell their shares of
+common stock at or above their purchase price.
+
+      It may be difficult for a third party to acquire the Company.
+
+      Provisions of Delaware law could make it more difficult for a third party
+to acquire the Company, even if it would be beneficial to the Company's
+stockholders.
+
+Item 2. Properties
+
+      We lease a 2,400 square foot facility used in our research and development
+and administrative activities in Kfar Saba, Israel. The lease provides for a
+monthly rent of approximately $2,292 and an expiration date of May 31, 2002.
+Upon or near the expiration of the lease, we will move our research and
+development and administrative activities to new premises in Kfar Saba.
+Beginning April 1, 2002, we leased a 2,531 square foot facility at a monthly
+rent of approximately $3,000. The new lease expires on March 31, 2003 but is
+renewable, at the Company's option, for five one-year periods, with an increase
+of 3% in the rent for each of the first three (3) extensions and an increase of
+7% for the remaining last two (2) extension periods. We did not need to improve
+this facility to meet the requirements of our research and development
+activities but purchased fixtures from the former tenant at an aggregate
+approximate cost of $20,000. Management believes that this facility is
+sufficient to meet its current and anticipated future requirements for research
+and development and administrative functions.
+
+      We also lease 245 square feet of office space in midtown Manhattan, New
+York City, for our executive and administrative activities out of which work the
+Company's Chief Financial Officer, and its Vice-President of Corporate Strategy.
+The lease provides for a monthly rent of approximately $2,700 and expires on May
+31, 2002. Management believes that the Company will be able either to renew the
+present lease or obtain suitable replacement facilities.
+
+Item 3. Legal Proceedings
+
+      The Company is not involved in any legal proceedings.
+
+Item 4. Submission of Matters to a Vote of Security Holders
+
+      None
+
+                                     Part II
+
+Item 5. Market for Common Equity and Related Stockholder Matters
+
+      The Company's common stock, par value $0.001 per share (the "Common
+Stock") began to be quoted on the NASDAQ National Market as of February 6, 2001
+under the symbol "TTRE". Prior to its quotation of the NASDAQ National Market,
+the Company's Common Stock, commencing October 23, 2000 through February 5,
+2001, was quoted on the
+
+
+                                       16
+<PAGE>
+
+NASDAQ SmallCap Market. Prior to the NASDAQ SmallCap listing, the Common Stock
+was quoted on the OTC Electronic Bulletin Board.
+
+      The following table sets forth the range of high and low bid prices for
+the Common Stock as reported on the relevant NASDAQ National Market System, the
+NASDAQ SmallCap Market and the OTC Electronic Bulletin Board by the National
+Association of Securities Dealers, Inc., Automated Quotations System for the
+periods indicated.
+
+                                  Common Stock
+
+Quarter Ended                                                  High         Low
+
+  2001
+December 31                                                   $ 2.29       $1.22
+September 30                                                  $ 6.24       $0.69
+June 30                                                       $ 6.33       $4.60
+March 31                                                      $ 6.88       $4.75
+
+  2000
+December 31                                                   $ 8.75       $3.34
+September 30                                                  $ 6.47       $3.31
+June 30                                                       $ 6.69       $3.00
+March 31                                                      $10.50       $4.97
+
+      The foregoing represent inter-dealer prices, without retail mark-up,
+mark-down or commission, and may not necessarily represent actual transactions.
+
+      As of March 26, 2002, there were approximately 120 record holders of the
+Common Stock of the Company. We believe that there are a significant number of
+shares of Common Stock held either in nominee name or street name brokerage
+accounts and consequently, we are unable to determine the number of beneficial
+owners of the Common Stock.
+
+      The Company has paid no dividends on its Common Stock and does not expect
+to pay cash dividends in the foreseeable future. It is the present policy of the
+Board of Directors to retain all earnings to provide funds for the growth of the
+Company. The declaration and payment of dividends in the future will be
+determined by the Board of Directors based upon the Company's earnings,
+financial condition, capital requirements and such other factors as the Board of
+Directors may deem relevant. The Company is not under any contractual
+restriction as to its present or future ability to pay dividends.
+
+Item 6. Selected Consolidated Financial Data
+
+      The following table sets forth our consolidated financial data for the
+five years ended December 31, 2001. The selected consolidated financial data for
+the years ended December 31, 1997, 1998, 1999, 2000 and 2001 are derived from
+our consolidated financial statements for such years, which have been audited by
+Brightman Almagor & Co., a member of Deloitte Touch Tohmatsu, independent
+auditors. The consolidated financial data set forth below should be read in
+conjunction with our Consolidated Financial Statements and related Notes and
+"Management's Discussion and Analysis of Financial Condition and Results of
+Operations" included elsewhere in this prospectus.
+
+
+                                       17
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                                                                                 From inception
+                                                          Year Ended December 31,                                (July 14,1994)
+                                                                                                                   to December
+Income Statement Data:           1997             1998             1999              2000             2001           31, 2001
+<S>                         <C>              <C>              <C>               <C>                <C>             <C>
+Revenues                             --      $    54,922      $     68,803      $      1,999               --      $   125,724
+Total expenses                3,784,635        5,178,872         7,944,252         5,107,978        5,153,724      $28,685,702
+Operating loss               (3,784,635)      (5,123,950)       (7,875,449)       (5,105,979)      (5,153,724)     $28,559,978
+Net loss                    ($4,119,612)     ($5,578,540)     ($13,072,237)     $ (4,796,693)      (5,498,637)     $35,125,678
+
+Net loss per share               ($1.35)          ($1.54)           ($2.07)           ($0.30)          ($0.31)
+Weighted average shares
+Outstanding                   3,054,519        3,615,908         6,321,719        16,006,403       17,560,013
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                     Year Ended December 31,
+                               1997            1998            1999            2000           2001
+<S>                         <C>            <C>              <C>            <C>             <C>
+Balance Sheet Data:
+
+    Working  capital
+      (deficiency)          $  448,679     ($2,834,448)     ($494,744)     $ 8,122,456     $4,495,617
+    Total assets             1,188,627         490,545        467,867       10,348,713     $6,550,947
+    Total liabilities          278,898       3,588,712        798,863          351,756     $1,134,730
+    Total Stockholders'
+     equity (deficit)       $  677,229     ($3,098,167)     ($330,996)     $ 9,996,957     $5,416,217
+</TABLE>
+
+Item 7. Management's Discussion and Analysis of Financial Condition and Results
+Of Operation
+
+      The Company designs and develops digital security technologies that
+provide copy protection for electronic content distributed on optical media and
+over the Internet. The Company has not had any significant revenues to date. As
+of December 31, 2001, the Company had an accumulated deficit of approximately
+$35.1 million. The Company's expenses related primarily to expenses related to
+and expenditures on research and development, marketing, recruiting and
+retention of personnel, costs of raising capital and operating expenses.
+
+REVENUE SOURCE
+
+      The Company expects, for the near-term, that its primary source of revenue
+will be royalties under the license agreement with Macrovision. However, no
+assurance can be provided that the SAFEAUDIO technology will be commercially
+successful or whether any royalties from the sale thereof will be generated. The
+Company is currently seeking to develop or acquire other technologies that may
+provide other sources of revenue. However, there can be no assurance that the
+Company will develop or acquire other technologies or if it does, that such
+technologies will generate any revenue or profits.
+
+RESULTS OF OPERATIONS
+
+YEAR ENDED DECEMBER 31, 2001 COMPARED TO YEAR ENDED DECEMBER 31, 2000
+
+      There were no revenues in 2001. Nominal revenues in 2000 were derived from
+licensing fees of the Company's DiscGuard product, which has since been
+discontinued.
+
+      Research and development costs in 2001 were $949,766 as compared to
+$1,111,889 in 2000. The 2000 period included the costs incurred in the
+development of SAFEAUDIO. Research and development costs in 2001 included the
+enhancement of SAFEAUDIO, developing and expanding DVD anti-copying protection
+and designing an effective anti-copying solution for application to files
+downloaded from the Internet. Commencing June 2001 and continuing through May
+2002, the Company agreed to pay to Macrovision, on a monthly basis, $20,000 to
+partially cover unanticipated expenses incurred in the development of SAFEAUDIO.
+
+
+                                       18
+<PAGE>
+
+      Sales and marketing expenses in 2001 were $399,523 as compared to $579,006
+in 2000. The decrease is primarily due to Macrovision's assumption (since 2000)
+of most of the sales and marketing expenses for SAFEAUDIO, as provided for in
+the agreement. The 2000 period includes approximately $132,800 of reimbursements
+to Macrovision of certain sales and marketing expenses as required under the
+agreement.
+
+      General and administrative expenses in 2001 were $2,894,616 as compared to
+$1,785,434 in 2000. The increase is primarily attributable to the adjustment of
+senior management salaries, the hiring in June 2001 of a Chief Financial Officer
+and Executive Vice President for Business Development, increased filing fees
+associated with the commencement of the Company's NASDAQ listing and increased
+expenditures in connection with public relations. Additionally, under the
+employment agreement entered into by the Company and its former Chief Operating
+Officer, the Company is obligated to pay the annual salary of such former
+officer through September 2003. As of October 2001, such officer was no longer
+employed by the Company. Accordingly, the Company accrued and charged during
+2001 approximately $437,000, representing the aggregate salary payments through
+September 2003 to such former officer.
+
+
+      Stock-based compensation for the year ended 2001 was $909,819 as compared
+to $1,631,649 for the year ended 2000. The 2000 period includes approximately
+$656,000 from stock options granted to the Company's CEO and Chief Technology
+Officer with exercise prices below the fair value of the underlying common
+stock. At December 31, 2001, the Company had deferred compensation of
+approximately $39,000, of which $31,000 will be amortized in the first quarter
+of 2002.
+
+      The Company's affiliate, ComSign Ltd., commenced operations in July 2000.
+ComSign serves as VeriSign Inc.'s sole principal affiliate in Israel and the
+Palestinian Authority and exclusive marketer of VeriSign's digital
+authentication certificates and related services. The Company's share of net
+losses for the year ended 2001 and for the seven-month period ended December 31,
+2000 was, respectively, $618,090 and $209,157. The losses are primarily
+attributable to the amortization of intangible assets. In order to address its
+cash flow needs, in December 2001, ComSign entered into a three year commercial
+secured loan agreement with an Israeli bank pursuant to which ComSign borrowed
+the maximum available amount of $1,000,000. Loan amounts outstanding accrue
+interest at a per annum rate of Libor plus 2.5% during the first year following
+borrowing. The interest rate for subsequent years is to be fixed by agreement.
+The Company does not provide any guaranty or other security for the loan. The
+terms of the loan grant the lending bank options to purchase equity of ComSign
+in an amount equal to that purchasable at an aggregate purchase price of
+$300,000, based on ComSign's valuation at the time of exercise. ComSign's
+valuation has been set at a minimum of $5 million. If exercised in full at the
+minimum valuation of $5 million, the Company's equity in ComSign will be reduced
+from the initial 50% interest originally purchased in June 2000 to 47% (on a
+fully-diluted basis).
+
+      Interest income for the year ended 2001 was $276,179 as compared to
+$524,253 for the year ended 2000. The decrease is attributable to the lower cash
+and cash equivalent balances, primarily resulting from the expenditure of cash
+to finance Company operations as well as due to lower interest rates on invested
+balances.
+
+      The Company reported a net loss for the year ended 2001 of $5,948,637 or
+$(0.31) per share on a basic and diluted basis, as compared to $4,796,693 or
+$(0.30) per share on a basic and diluted basis, for the year ended 2000.
+
+
+                                       19
+<PAGE>
+
+YEAR ENDED DECEMBER 31, 2000 COMPARED TO YEAR ENDED DECEMBER 31, 1999.
+
+      Revenues for the year ended 2000 were $1,999 and $68,803, respectively,
+and were derived from licensing fees of the DiscGuard product, which has since
+been discontinued.
+
+      Pursuant to the agreement with Macrovision, the Company agreed to
+reimburse Macrovision for up to $1.0 million for research and development and
+sales and marketing expenses incurred within the first year of the joint
+development of SAFEAUDIO. In 2000, the Company reimbursed Macrovision $1.0
+million.
+
+      Research and development costs for the year ended 2000 were $1,111,889
+compared to $345,989 for the year ended 1999. The increase is primarily
+attributable to the joint development efforts associated with SAFEAUDIO.
+
+      Sales and marketing expenses for the year ended 2000 were $579,006 as
+compared to $815,586 for the year ended 1999. This decrease was primarily
+attributable to the Company's agreement with Macrovision whereby Macrovision
+assumed most of the sales and marketing responsibilities associated with
+SAFEAUDIO.
+
+      General and administrative expenses for the year ended 2000 were
+$1,785,434 as compared to $630,090 for the year ended 1999. The increase was
+primarily due to increased general operations, additional legal and associated
+fees incurred in connection with the Company's application to be listed on
+NASDAQ's National Market System.
+
+      Stock-based compensation for the year ended 2000 was $1,631,649 as
+compared to $6,152,587 for the year ended 1999. Due to the shortage of available
+funds in 1999, the Company compensated employees and other consultants by
+issuing common stock, warrants and options.
+
+      The Company's affiliate, ComSign Ltd., commenced operations in July 2000.
+The Company's share of the net losses for the seven months ended December 31,
+2000 was $209,157.
+
+      Amortization of deferred financing costs for the year ended 1999 was
+$4,180,540. A significant portion of the financing costs was a result of the
+issuance of 1.3 million warrants in connection with the sale of the Company's
+10% Convertible Debentures in 1999. Using Black-Scholes model for estimating
+fair value of the warrants, the Company recorded $3,845,000 as deferred
+financing costs and charged the entire balance to operations when the debentures
+were converted in October 1999.
+
+      Interest income for the year ended 2000 increased to $524,253 from $3,689
+for the year ended 1999. The increase is primarily attributable to the higher
+cash and cash equivalent balances resulting from the private placement of the
+Company's securities in February 2000.
+
+      Interest expense for the year ended 2000 decreased to $5,810 from
+$1,109,937 for the year ended 1999. The decrease is primarily attributable to
+the reduction in debt.
+
+      The Company reported a net loss for the year ended 2000 of $4,796,693 or
+$(0.30) per share on a basic and diluted basis, as compared to a net loss of
+$13,072,237 or $(2.07) per share on a basis and diluted basis, for the year
+ended 1999. Of the net loss for 2000, $1.0 million is attributable to the
+reimbursement to Macrovision.
+
+Liquidity and Capital Resources
+
+      At December 31, 2001, the Company had cash and cash equivalents of
+approximately $4.9 million, representing a decrease of approximately $3.3
+million over December 31, 2000.
+
+
+                                       20
+<PAGE>
+
+Cash used by operating activities during 2001 was $3.1 million compared to $3.4
+million during 2000. In 2001, the Company used $214,000 in investing activities
+of which $87,000 was used for the purchase of property and equipment, and
+$130,000 was loaned to a consultant to the Company.
+
+      The Company has no long-tem debt or any material commitments. The Company
+believes, that cash on-hand is sufficient to meet its requirements for the next
+12 months.
+
+Recent Accounting Pronouncements
+
+      In June 2001, the Financial Accounting Standards Board ("FASB") issued
+Statement of Financial Accounting Standards No. 141, "Business Combinations."
+This statement eliminates the pooling of interests method of accounting for all
+business combinations initiated after June 30, 2001, and addresses the initial
+recognition and measurement of goodwill and other intangible assets acquired in
+a business combination. The Company had no business combinations after June 30,
+2001.
+
+      In June 2001, the FASB issued Statement of Financial Accounting Standards
+No. 142, "Goodwill and Other Intangible Assets." With the adoption of this
+Statement, goodwill is no longer subject to amortization over its estimated
+useful life. Rather, goodwill will be subject to at least an annual assessment
+for impairment by applying a fair-value-based test. Similarly, goodwill
+associated with equity method investments is no longer amortized. Equity method
+goodwill is not, however, subject to the new impairment rules; the impairment
+guidance in existing rules for equity method investments continues to apply.
+Goodwill amortization associated with equity method investments in 2001
+approximated $240,000.
+
+      In August 2001, the FASB issued Statement of Financial Accounting
+Standards No. 144 ("SFAS 144"), "Accounting for the Impairment or Disposal of
+Long-Lived Assets". This statement supercedes Statement of Financial Accounting
+Standards No. 121, "Accounting for the Impairment of Long-Lived Assets and for
+Long-Lived Assets to be Disposed of." The Company adopted SFAS 144 as of January
+1, 2002, but does not believe the statement will have a material effect on its
+consolidated financial statements.
+
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk
+
+Interest Rate Risk
+
+      To date, the Company has not utilized derivative financial instruments or
+derivative commodity instruments. The Company invests its cash primarily in
+money market funds and certificates of deposit, which are subject to minimal
+credit and market risk. The Company has no long-term debt.
+
+Foreign Currency Risk
+
+      The Company is exposed to foreign exchange rate fluctuations as they
+relate to operating expenses as the financial results of foreign subsidiaries
+are translated into U.S. dollars in consolidation. Most of the Company cash
+balances are held in dollar-based accounts. As exchange rates vary, these
+results, when translated, may vary from expectations and adversely impact
+overall expected profitability. The effect of foreign exchange rate fluctuations
+on the Company in 2001 was not material.
+
+Item 8. Financial Statements
+
+      The information called for by this Item 8 is included following the "Index
+to Financial Statements" contained in this Annual Report on Form 10-K.
+
+Item 9. Changes in and Disagreements With Accountants on Accounting and
+Financial Disclosure
+
+None
+
+                                    Part III
+
+      The information called for by items 10, 11, 12 and 13 will be contained in
+the Company's definitive proxy statement which the Company intends to file
+within 120 days after the end of the Company's fiscal year ended December 31,
+2001 and such information is incorporated herein by reference.
+
+                                     Part IV
+
+ITEM 14. Exhibits, Reports on Form 8-K and Financial Statements
+
+(a) Exhibits
+
+3.1 Certificate of Incorporation of TTR dated July 14, 1994 and Certificate of
+Amendment to the Certificate of Incorporation of TTR dated August 17, 1994(2)
+3.2 Certificate of Amendment to the Certificate of Incorporation of TTR, dated
+January 30, 1999(3)
+3.3 Certificate of Amendment to the Certificate of Incorporation of TTR, dated
+December 21, 1999(3)
+3.4 Certificate of Amendment to the Certificate of Incorporation of TTR, dated
+July 15, 2000. (5)
+3.4 By-Laws of TTR, as amended(2)
+
+
+                                       21
+<PAGE>
+
+4.1 Specimen Common Stock Certificate(1)
+4.2.1 Warrant dated November 29, 1999 between TTR and Biscount Overseas Ltd.(3)
+4.2.2 Warrant dated November 29, 1999 between TTR and Biscount Overseas Ltd.(3)
+4.2.3 Form of Class A Warrant between TTR and certain private investors(3)
+4.2.4 Form of Agent Warrant between TTR and certain entities(3)
+4.2.5 Form of Common Stock Purchase Warrant dated as of June, 2000, between TTR
+and Brean Murray & Co., Inc(4)
+4.2.6 Warrant dated October 2, 2000 between TTR and Mantle International
+Investment Ltd(5)
+4.2.7 Promissory Note made as of July 9, 2001 by Ripp Entertainment Group, Inc.
+in favor of TTR(6)
+10.1 1996 Incentive and Non-Qualified Stock Option Plan, as amended (2)
+10.2 Non-Executive Directors Stock Option Plan(2)
+10.3 Employment Agreement between TTR Technologies Ltd. and Marc D. Tokayer (1)+
+10.4 Employment Agreement between TTR Technologies Ltd. and Baruch Sollish (1)+
+10.5 Alliance Agreement between TTR and Macrovision Corporation effective as of
+November 24, 1999(3)
+10.6 Stock Purchase Agreement, effective as of January 10, 2000 between TTR and
+Macrovision Corporation(3)
+10.7 Agreement between TTR and H.C. Wainwright & Co. Inc. dated February 8,
+2000(3)
+10.8 Form of Subscription Agreement dated February 18, 2000 between TTR and
+certain private investors and supplement thereto.(3)
+10.9 Form of Registration Rights Agreement between TTR and certain private
+investors and supplement thereto(3)
+10.10 Amendment to Employment Agreement between TTR and Baruch Sollish, dated
+July 22, 1998 (3)+
+10.11 Agreement between TTR and Comda (1985) Ltd. and ComSign Ltd. dated as of
+June 4, 2000(4)
+10.12 Agreement between TTR and Brean Murray & Co., Inc. dated June 19,2000(4)
+10.13 Agreement between TTR and Bluestone Capital dated August 23, 2000(4)
+10.14 2000 Equity Incentive Plan(4)
+10.15 Restated Employment Agreement between TTR and Emanuel Kronitz, dated
+October 1, 2000 (5)+
+10.16 Restated Employment Agreement between TTR Technologies Ltd and Emanuel
+Kronitz, dated as of October 1, 2000(5)+
+10.17 Amendment to Employment Agreement between TTR and Marc Tokayer, dated
+February 1, 2001(5)+
+10.18 Amendment to Employment Agreement between TTR and Baruch Sollish, dated
+February 1, 2001(5)+
+10.19 Amendment No. 2, dated as of June 29, 2001, to the Alliance Agreement,
+dated as of November 24, 1999, between TTR and Macrovision Corporation (6)
+10.20 Agreement dated as of June 22, 2001 between TTR and Ripp Entertainment
+Group Inc. (6)
+10.21 Pledge Agreement made July 9, 2001 by Ripp Entertainment Group Inc. in
+favor of TTR (6)
+10.22 Employment Agreement between TTR and Mathew L. Cohen dated June 1 2001
+(6)+
+10.23 Employment Agreement between TTR and Sam Brill dated as of November 5,
+2001.*+
+10.24 Amended 2000 Equity Incentive Plan*+
+10.25 Amended Non-Executive Directors Stock Option Plan*+
+21.1 Subsidiaries of TTR: TTR Technologies, Ltd., an Israeli corporation,
+wholly-owned by TTR.
+23.1 Consent of Brightman Almagor & Co., a member of Deloitte Touche Tohmatsu,
+certified public accountants.*
+
+*     Filed herewith.
++     Management Agreement.
+
+
+                                       22
+<PAGE>
+
+(1) Filed as an Exhibit to the Registrant's Registration Statement on Form SB-2,
+No. 333-11829, and incorporated herein by reference.
+
+(2) Filed as an Exhibit to the Registrant's Annual Report on Form 10-KSB filed
+for the year ended December 31, 1998 and incorporated herein by reference.
+
+(3) Filed as an Exhibit to TTR's Registration Statement on Form S-1, No.
+33-32662 and incorporated herein by reference.
+
+(4) Filed as an Exhibit to TTR's Report on Form 10-Q for the third quarter of
+2000 and incorporated herein by reference.
+
+(5) Filed as an Exhibit to TTR's Report on Form 10-K filed for the year ended
+December 31, 2000 and incorporated herein by reference.
+
+(6) Filed as an Exhibit to TTR's Report on Form 10-Q for the second quarter of
+2001 and incorporated herein by reference.
+
+(b) Reports on Form 8-K
+
+(i) Report on Form 8-K filed for the month October 2001
+
+(ii) Report on Form 8-K filed for the month July 2001
+
+                                   Signatures
+
+      In accordance with the requirements of the Securities Exchange Act of
+1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned, thereunto duly authorized.
+
+                                        TTR TECHNOLOGIES, INC.
+
+
+                                        By: /s/ MARC D. TOKAYER
+                                        MARC D. TOKAYER,
+
+Date: March 27, 2002
+
+
+                                       23
+<PAGE>
+
+      Pursuant to the requirements of the Securities Exchange Act of 1934, this
+Report has been signed below by the following person on behalf of the Company
+and in the capacities so indicated.
+
+<TABLE>
+<CAPTION>
+Signature                           Title                                       Date
+<S>                                 <C>                                         <C>
+
+/s/ Marc D. Tokayer                 Chief Executive Officer,
+                                    Chairman of the Board
+Marc D. Tokayer                     Principal Executive Officer                 March 27, 2002
+
+
+/s/ Matthew L. Cohen                Chief Financial Officer                     March 27, 2002
+
+Matthew L. Cohen
+
+
+/s/ Baruch Sollish                  Vice President, Research
+                                    & Development, Director                     March 27, 2002
+Baruch Sollish
+
+
+/s/ Sam Brill                       Vice President--Corporate
+                                    Strategy, Director                          March 27, 2002
+
+Sam Brill
+
+
+/s/ Christopher Illick              Director                                    March 27, 2002
+
+Christopher Illick
+
+
+/s/ Michael Fine                    Director                                    March 27, 2002
+
+Michael Fine
+
+
+/s/ Michael Braunold                Director                                    March 27, 2002
+
+Michael Braunold
+
+
+/S/ Thomas McIntyre                 Director                                    March 27, 2002
+
+Thomas McIntyre
+</TABLE>
+
+
+                                       24
+<PAGE>
+
+                             TTR TECHNOLOGIES, INC.
+
+                   INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                                                                            Page
+
+Report of Independent Auditors                                              F-1
+
+Consolidated Financial Statements
+
+Balance Sheets as of December 31, 2001 and 2000                             F-2
+
+Statements of Operations for the years ended December 31, 2001, 2000
+  and 1999 and the period from July 14, 1994 (inception) to December
+  31, 2001                                                                  F-3
+
+Statements of Comprehensive Loss for the years ended December 31, 2001,
+  2000 and 1999 and the period from July 14, 1994 (inception) to December
+  31, 2000                                                                  F-4
+
+Statements of Stockholder's Equity (Deficiency) for the period from
+July 14, 1994 (inception) to December 31, 2001                              F-5
+
+Statements of Cash Flows for the years ended December 31, 2001, 2000
+ and 1999 and the period from July 14, 1994 (inception) to December
+ 31, 2001                                                                   F-6
+
+Notes to the Consolidated Financial Statements                              F-7
+
+
+                                      (i)
+<PAGE>
+
+                    REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+To the Shareholders of
+TTR Technologies, Inc.
+
+We have audited the accompanying consolidated balance sheets of TTR
+Technologies, Inc. ("the Company") (a development-stage company) and its
+subsidiary at December 31, 2001 and 2000, and the related consolidated
+statements of operations, comprehensive loss, stockholders' equity (deficit) and
+cash flows for the three years ended December 31, 2001 and for the period from
+December 5, 1994 (date of inception) to December 31, 2001. These consolidated
+financial statements are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+
+We conducted our audits in accordance with auditing standards generally accepted
+in the United States of America. Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by the Company's management, as well as evaluating
+the overall financial statement presentation. We believe that our audits provide
+a reasonable basis for our opinion.
+
+In our opinion, the aforementioned consolidated financial statements present
+fairly, in all material respects, the consolidated financial position of the
+Company and its subsidiary at December 31, 2001 and 2000, and the consolidated
+results of operations, comprehensive loss, stockholders' equity (deficit) and
+its cash flows for the three years ended December 31, 2001 and for the period
+from December 5, 1994 (date of inception) to December 31, 2001, in conformity
+with accounting principles generally accepted in the United States of America.
+
+Brightman Almagor & Co.
+Certified Public Accountants (Israel)
+A member of Deloitte & Touche
+
+Tel-Aviv, Israel
+February 28, 2002
+
+
+                                      F-1
+<PAGE>
+
+                    TTR TECHNOLOGIES, INC. AND ITS SUBSIDIARY
+                          (A DEVELOPMENT STAGE COMPANY)
+                           CONSOLIDATED BALANCE SHEETS
+
+<TABLE>
+<CAPTION>
+                                                               December 31,      December 31,
+                                                                   2001              2000
+                                                                   ----              ----
+<S>                                                            <C>               <C>
+ASSETS
+Current assets
+     Cash and cash equivalents                                 $  4,915,269      $  8,234,686
+     Accounts receivable                                                 --             1,019
+     Note receivable                                                130,000                --
+     Prepaid expenses and other current assets                      155,156           101,208
+                                                               ------------      ------------
+
+     Total current assets                                         5,200,425         8,336,913
+
+Property and equipment - net                                        201,453           220,957
+
+Investment in ComSign, Ltd.                                       1,145,519         1,790,843
+Other assets                                                          3,550                --
+                                                               ------------      ------------
+
+     Total assets                                              $  6,550,947      $ 10,348,713
+                                                               ============      ============
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+LIABILITIES
+Current liabilities
+     Accounts payable                                          $    151,400      $     46,726
+     Accrued expenses                                               553,408           167,731
+                                                               ------------      ------------
+
+     Total current liabilities                                      704,808           214,457
+
+Accrued severance pay                                               429,922           137,299
+                                                               ------------      ------------
+
+     Total liabilities                                            1,134,730           351,756
+                                                               ------------      ------------
+
+STOCKHOLDERS' EQUITY
+Preferred Stock,  $.001 par value;
+  5,000,000 shares authorized; none issued and outstanding               --                --
+Common stock,  $.001 par value;
+  50,000,000 shares authorized; 17,593,896 and 17,356,340
+   shares issued and outstanding, respectively                       17,594            17,357
+Additional paid-in capital                                       40,526,583        40,340,966
+Other accumulated comprehensive income                               36,934            46,246
+Deficit accumulated during the development stage                (35,125,678)      (29,627,041)
+  Less: deferred compensation                                       (39,216)         (780,571)
+                                                               ------------      ------------
+
+     Total stockholders' equity                                   5,416,217         9,996,957
+                                                               ------------      ------------
+
+     Total liabilities and stockholders' equity                $  6,550,947      $ 10,348,713
+                                                               ============      ============
+</TABLE>
+
+                 See Notes to Consolidated Financial Statements.
+
+
+                                      F-2
+<PAGE>
+
+                    TTR TECHNOLOGIES, INC. AND ITS SUBSIDIARY
+                          (A DEVELOPMENT STAGE COMPANY)
+                      CONSOLIDATED STATEMENTS OF OPERATIONS
+
+<TABLE>
+<CAPTION>
+                                                                                                                    From
+                                                                                                                  Inception
+                                                                                Year                              (July 14,
+                                                                               Ended                              1994) to
+                                                                            December 31,                        December 31,
+                                                              2001              2000              1999              2001
+                                                              ----              ----              ----              ----
+<S>                                                       <C>               <C>               <C>               <C>
+Revenue                                                   $         --      $      1,999      $     68,803      $    125,724
+
+Expenses
+     Research and development (1)                              949,766         1,111,889           345,989         5,002,502
+     Sales and marketing (1)                                   399,523           579,006           815,586         4,297,971
+     General and administrative (1)                          2,894,616         1,785,434           630,090         8,020,820
+     Stock based compensation                                  909,819         1,631,649         6,152,587        11,364,409
+                                                          ------------      ------------      ------------      ------------
+
+     Total expenses                                          5,153,724         5,107,978         7,944,252        28,685,702
+                                                          ------------      ------------      ------------      ------------
+
+Operating loss                                              (5,153,724)       (5,105,979)       (7,875,449)      (28,559,978)
+
+Other (income) expense
+     Legal settlement                                               --                --                --           232,500
+     Loss on investment                                             --                --                --            17,000
+     Other income                                                   --                --                --           (75,000)
+     Net losses of affiliate                                   618,090           209,157                --           827,247
+     Amortization of deferred financing costs                       --                --         4,180,540         4,516,775
+     Interest income                                          (276,179)         (524,253)           (3,689)         (862,427)
+     Interest expense                                            3,002             5,810         1,019,937         1,909,605
+                                                          ------------      ------------      ------------      ------------
+
+Total other (income) expenses                                  344,913          (309,286)        5,196,788         6,565,700
+                                                          ------------      ------------      ------------      ------------
+
+Net loss                                                  $ (5,498,637)     $ (4,796,693)     $(13,072,237)     $(35,125,678)
+                                                          ============      ============      ============      ============
+
+Per share data:
+
+      Basic and diluted                                   $      (0.31)     $      (0.30)     $      (2.07)
+                                                          ============      ============      ============
+
+Weighted average number
+  of common shares used in
+  basic and diluted loss per share                          17,560,013        16,006,403         6,321,719
+                                                          ============      ============      ============
+</TABLE>
+
+(1) Excludes non-cash, stock-based compensation expense as follows:
+
+<TABLE>
+<S>                                                       <C>               <C>               <C>               <C>
+     Research and development                             $         --      $    230,258      $    200,878      $    456,239
+     Sales and marketing                                       261,463            78,732         3,776,407         5,305,971
+     General and administrative                                648,356         1,322,659         2,175,302         5,602,199
+                                                          ------------      ------------      ------------      ------------
+
+                                                          $    909,819      $  1,631,649      $  6,152,587      $ 11,364,409
+                                                          ============      ============      ============      ============
+</TABLE>
+
+                 See Notes to Consolidated Financial Statements.
+
+
+                                      F-3
+<PAGE>
+
+                    TTR TECHNOLOGIES, INC. AND ITS SUBSIDIARY
+                          (A DEVELOPMENT STAGE COMPANY)
+                  CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS
+
+<TABLE>
+<CAPTION>
+                                                                                                              From
+                                                                                                           Inception
+                                                                   Year                                    (July 14,
+                                                                  Ended                                     1994) to
+                                                               December 31,                               December 31,
+                                                          2001             2000             1999              2001
+                                                          ----             ----             ----              ----
+<S>                                                   <C>              <C>              <C>               <C>
+Net loss                                              $(5,498,637)     $(4,796,693)     $(13,072,237)     $(35,125,678)
+
+Other comprehensive income (loss)
+         Foreign currency translation adjustments          (9,312)         (10,725)          (22,444)           36,934
+                                                      -----------      -----------      ------------      ------------
+
+         Comprehensive loss                           $(5,507,949)     $(4,807,418)     $(13,094,681)     $(35,088,744)
+                                                      ===========      ===========      ============      ============
+</TABLE>
+
+                 See Notes to Consolidated Financial Statements.
+
+
+                                      F-4
+<PAGE>
+
+                    TTR TECHNOLOGIES, INC. AND ITS SUBSIDIARY
+                          (A DEVELOPMENT STAGE COMPANY)
+            CONSOLIDATED STATEMENT OF STOCKHOLDERS' EQUITY (DEFICIT)
+
+<TABLE>
+<CAPTION>
+                                                                                     Common Stock            Additional
+                                                         Common Stock                 Subscribed               Paid-in
+                                                     Shares       Amount        Shares        Amount           Capital
+                                                     ------       ------        ------        ------           -------
+<S>                                                <C>           <C>            <C>        <C>              <C>
+Balances at July 14, 1994 (date of inception)              --    $     --            --    $         --     $         --
+
+Issuances of common stock, par value $.001
+     Services rendered                              1,200,000       1,200
+     Cash                                           1,200,000       1,200                                         23,800
+
+Net loss
+                                                   ----------    --------       -------    ------------     ------------
+Balances at December 31, 1994                       2,400,000       2,400            --              --           23,800
+
+Common stock contributed                             (561,453)       (561)                                           561
+Issuances of common stock, par value $.001
+     Services rendered                                361,453         361                                         17,712
+Stock options and warrants granted                                                                                   600
+Foreign currency translation adjustment
+Net loss
+                                                   ----------    --------       -------    ------------     ------------
+Balances at December 31, 1995                       2,200,000       2,200            --              --           42,673
+
+Issuances of common stock, par value $.001
+     Cash, net of offering costs of $11,467           850,000         850                                        362,683
+Foreign currency translation adjustment
+Net loss
+                                                   ----------    --------       -------    ------------     ------------
+Balances at December 31, 1996                       3,050,000       3,050            --              --          405,356
+
+Common stock contributed                             (135,000)       (135)                                           135
+
+Issuances of common stock, par value $.001
+     Cash, net of offering costs of $832,551          908,000         908                                      5,000,440
+     Services rendered                                 74,000          74                                        832,551
+     Exercise of options                              374,548         375                                          3,370
+Common stock subscriptions                                                       16,000         100,000
+Sale of Underwriters warrants                                                                                         80
+Stock options and warrants granted                                                                             1,875,343
+Amortization of deferred compensation
+Foreign currency translation adjustment
+Net loss
+                                                   ----------    --------       -------    ------------     ------------
+Balances at December 31, 1997                       4,271,548       4,272        16,000         100,000        8,117,275
+
+Common stock subscriptions                             16,000          16       (16,000)       (100,000)          99,984
+Common Stock forfeited                             (1,000,000)     (1,000)                                          1000
+Transfer of temporary equity to permanent capital      15,000          15                                         77,141
+Issuances of common stock, par value $.001
+     Cash                                              41,667          42                                         24,958
+     Services rendered                                244,000         244                                        620,344
+Stock options and warrants granted (cancelled)                                                                  (255,992)
+Discount relating to shares and warrants issued       156,111         156                                        486,307
+Amortization of deferred compensation
+Warrant exchange                                      432,000         432                                           (432)
+Foreign currency translation adjustment
+Net loss
+                                                   ----------    --------       -------    ------------     ------------
+Balances at December 31, 1998                       4,176,326       4,177                                      9,170,585
+
+Issuances of common stock, par value $.001
+     Cash                                             314,774         315                                        225,140
+     Services rendered                              1,227,000       1,227                                      1,669,548
+     Exercise of option                             1,714,952       1,715                                      1,401,660
+Stock options granted  (cancelled)                                                                             4,449,015
+Conversion of debt into common stock                3,220,508       3,221                                      3,376,748
+Fair value of warrants associated with finacing
+     agreement                                                                                                 3,845,400
+Amortization of deferred compensation
+Value assigned to beneficial conversion feature
+     of convertible notes                                                                                        572,505
+Foreign currency translation adjustment
+Net loss
+                                                   ----------    --------       -------    ------------     ------------
+Balances at December 31, 1999                      10,653,560      10,654                                     24,710,602
+
+Issuances of common stock, par value $.001
+     Cash, net of offering costs of $730,000        3,680,937       3,681                                     13,266,319
+     Services rendered                                 16,269          16                                        114,609
+     Exercise of options and warrants               3,005,574       3,006                                        220,716
+Stock options granted                                                                                          2,028,720
+Amortization of deferred compensation
+Foreign currency translation adjustment
+Net loss
+                                                   ----------    --------       -------    ------------     ------------
+Balances at December 31, 2000                      17,356,340      17,357            --              --       40,340,966
+
+Issuances of common stock, par value $.001
+     Exercise of options and warrants                 237,556         238                                         17,012
+Stock options granted                                                                                            168,604
+Amortization of deferred compensation
+Foreign currency translation adjustment
+Net loss
+                                                   ----------    --------       -------    ------------     ------------
+Balances at December 31, 2001                      17,593,896    $ 17,594            --    $         --     $ 40,526,583
+                                                   ==========    ========       =======    ============     ============
+
+<CAPTION>
+                                                                      Deficit
+                                                     Foreign        Accumulated
+                                                     Currency         During
+                                                   Translation      Development          Deferred
+                                                    Adjustment         Stage           Compensation        Total
+                                                    ----------         -----           ------------        -----
+<S>                                                <C>             <C>                <C>              <C>
+Balances at July 14, 1994 (date of inception)      $         --    $         --       $         --     $         --
+
+Issuances of common stock, par value $.001
+     Services rendered                                                                                        1,200
+     Cash                                                                                                    25,000
+
+Net loss                                                                (42,085)                            (42,085)
+                                                   ------------    ------------       ------------     ------------
+Balances at December 31, 1994                                --         (42,085)                --          (15,885)
+
+Common stock contributed
+Issuances of common stock, par value $.001
+     Services rendered                                                                                       18,073
+Stock options and warrants granted                                                                              600
+Foreign currency translation adjustment                  22,652                                              22,652
+Net loss                                                               (896,663)                           (896,663)
+                                                   ------------    ------------       ------------     ------------
+Balances at December 31, 1995                            22,652        (938,748)                --         (871,223)
+
+Issuances of common stock, par value $.001
+     Cash, net of offering costs of $11,467                                                                 363,533
+Foreign currency translation adjustment                  35,044                                              35,044
+Net loss                                                             (1,121,211)                         (1,121,211)
+                                                   ------------    ------------       ------------     ------------
+Balances at December 31, 1996                            57,696      (2,059,959)                --       (1,593,857)
+
+Common stock contributed                                                                                         --
+
+Issuances of common stock, par value $.001
+     Cash, net of offering costs of $832,551                                                              5,001,348
+     Services rendered                                                                    (500,000)         332,625
+     Exercise of options                                                                                      3,745
+Common stock subscriptions                                                                                  100,000
+Sale of Underwriters warrants                                                                                    80
+Stock options and warrants granted                                                      (1,875,343)              --
+Amortization of deferred compensation                                                      972,567          972,567
+Foreign currency translation adjustment                 (19,667)                                            (19,667)
+Net loss                                                             (4,119,612)                         (4,119,612)
+                                                   ------------    ------------       ------------     ------------
+Balances at December 31, 1997                            38,029      (6,179,571)        (1,402,776)         677,229
+
+Common stock subscriptions                                                                                       (0)
+Common Stock forfeited
+Transfer of temporary equity to permanent capital                                                            77,156
+Issuances of common stock, par value $.001
+     Cash                                                                                                    25,000
+     Services rendered                                                                    (620,588)
+Stock options and warrants granted (cancelled)                                             255,992
+Discount relating to shares and warrants issued                                                             486,463
+Amortization of deferred compensation                                                    1,173,139        1,173,139
+Warrant exchange
+Foreign currency translation adjustment                  41,386                                              41,386
+Net loss                                                             (5,578,540)                         (5,578,540)
+                                                   ------------    ------------       ------------     ------------
+Balances at December 31, 1998                            79,415    $(11,758,111)          (594,233)      (3,098,167)
+
+Issuances of common stock, par value $.001
+     Cash                                                                                                   225,455
+     Services rendered                                                                    (445,725)       1,225,050
+     Exercise of option                                                                                   1,403,375
+Stock options granted  (cancelled)                                                        (613,435)       3,835,580
+Conversion of debt into common stock                                                                      3,379,969
+Fair value of warrants associated with finacing
+     agreement                                                                                            3,845,400
+Amortization of deferred compensation                                                    1,374,518        1,374,518
+Value assigned to beneficial conversion feature
+     of convertible notes                                                                                   572,505
+Foreign currency translation adjustment                 (22,444)                                            (22,444)
+Net loss                                                            (13,072,237)                        (13,072,237)
+                                                   ------------    ------------       ------------     ------------
+Balances at December 31, 1999                            56,971    $(24,830,348)          (278,875)        (330,996)
+
+Issuances of common stock, par value $.001
+     Cash, net of offering costs of $730,000                                                             13,270,000
+     Services rendered                                                                                      114,625
+     Exercise of options and warrants                                                                       223,722
+Stock options granted                                                                   (2,028,720)
+Amortization of deferred compensation                                                    1,527,024        1,527,024
+Foreign currency translation adjustment                 (10,725)                                            (10,725)
+Net loss                                                             (4,796,693)                         (4,796,693)
+                                                   ------------    ------------       ------------     ------------
+Balances at December 31, 2000                            46,246    $(29,627,041)         (780,571)       9,996,957
+
+Issuances of common stock, par value $.001
+     Exercise of options and warrants                                                                       17,250
+Stock options granted                                                                    (168,604)
+Amortization of deferred compensation                                                     909,959          909,959
+Foreign currency translation adjustment                  (9,312)                                            (9,312)
+Net loss                                                             (5,498,637)                        (5,498,637)
+                                                   ------------    ------------      ------------     ------------
+Balances at December 31, 2001                      $     36,934    $(35,125,678)     $    (39,216)    $  5,416,217
+                                                   ============    ============      ============     ============
+</TABLE>
+
+
+                                      F-5
+<PAGE>
+
+                    TTR TECHNOLOGIES, INC. AND ITS SUBSIDIARY
+                          (A DEVELOPMENT STAGE COMPANY)
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+<TABLE>
+<CAPTION>
+                                                                                                         Year
+                                                                                                        Ended
+                                                                                                     December 31,
+                                                                                       2001              2000
+                                                                                       ----              ----
+<S>                                                                                <C>              <C>
+INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS
+CASH FLOWS FROM OPERATING ACTIVITIES
+     Net loss                                                                      $(5,498,637)     $ (4,796,693)
+     Adjustments to reconcile net loss
+      to net cash used by operating activities:
+          Depreciation and amortization                                                 85,597            58,066
+          Amortization of note discount and finance costs                                   --                --
+          Translation adjustment                                                                              --
+          Beneficial conversion feature of convertible debt                                 --                --
+          Stock, warrants and options issued for services and legal settlement         909,819         1,631,649
+          Payment of common stock issued with guaranteed selling price                      --                --
+          Net losses of affiliate                                                      618,090           209,157
+          Increase (decrease) in cash attributable
+           to changes in assets and liabilities
+               Accounts receivable                                                         929             9,297
+               Other current assets                                                    (57,063)          (62,030)
+               Other assets                                                             (3,550)            3,700
+               Accounts payable                                                        105,120          (355,881)
+               Accrued expenses                                                        596,054          (171,181)
+               Accrued severance                                                       122,141            97,962
+               Interest payable                                                             --                --
+                                                                                   -----------      ------------
+        Net cash used by operating activities                                       (3,121,500)       (3,375,954)
+                                                                                   -----------      ------------
+CASH FLOWS FROM INVESTING ACTIVITIES
+     Proceeds from sales of fixed assets                                                 2,837            28,637
+     Purchases of property and equipment                                               (86,931)         (105,354)
+     Investment in ComSign, Ltd.                                                            --        (2,000,000)
+     Note receivable                                                                  (130,000)               --
+     Increase in organization costs                                                         --                --
+                                                                                   -----------      ------------
+        Net cash used by investing activities                                         (214,094)       (2,076,717)
+                                                                                   -----------      ------------
+CASH FLOWS FROM FINANCING ACTIVITIES
+     Proceeds from issuance of common stock                                             17,250        13,493,722
+     Stock offering costs                                                                   --                --
+     Deferred financing costs                                                               --                --
+     Proceeds from short-term borrowings                                                    --                --
+     Proceeds from long-term debt                                                           --                --
+     Proceeds from convertible debentures                                                   --                --
+     Repayment of short-term borrowings                                                     --                --
+     Repayments of long-term debt                                                           --           (16,308)
+                                                                                   -----------      ------------
+       Net cash provided by financing activities                                        17,250        13,477,414
+                                                                                   -----------      ------------
+Effect of exchange rate changes on cash                                                 (1,073)              363
+                                                                                   -----------      ------------
+INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS                                    (3,319,417)        8,025,106
+
+CASH AND CASH EQUIVALENTS AT BEGINNING OF PERIOD                                     8,234,686           209,580
+                                                                                   -----------      ------------
+CASH AND CASH EQUIVALENTS AT END OF PERIOD                                         $ 4,915,269      $  8,234,686
+                                                                                   ===========      ============
+SUPPLEMENTAL DISCLOSURES OF
+ CASH FLOW INFORMATION
+  Cash paid during the period for:
+       Interest                                                                    $     3,002      $        869
+                                                                                   ===========      ============
+Noncash financing activity
+       Conversion of debt and accrued interest to common stock
+
+
+<CAPTION>
+                                                                                                          From
+                                                                                                        Inception
+                                                                                                        (July 14,
+                                                                                                        1994) to
+                                                                                                      December 31,
+                                                                                        1999              2001
+                                                                                        ----              ----
+<S>                                                                                <C>               <C>
+INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS
+CASH FLOWS FROM OPERATING ACTIVITIES
+     Net loss                                                                      $(13,072,237)     $(35,125,678)
+     Adjustments to reconcile net loss
+      to net cash used by operating activities:
+          Depreciation and amortization                                                  94,016           865,308
+          Amortization of note discount and finance costs                             4,394,216         4,666,225
+          Translation adjustment                                                             --            (1,528)
+          Beneficial conversion feature of convertible debt                             572,505           572,505
+          Stock, warrants and options issued for services and legal settlement        6,266,398        11,537,370
+          Payment of common stock issued with guaranteed selling price                       --          (155,344)
+          Net losses of affiliate                                                            --           827,247
+          Increase (decrease) in cash attributable
+           to changes in assets and liabilities
+               Accounts receivable                                                       (2,305)             (396)
+               Other current assets                                                      (4,081)         (149,979)
+               Other assets                                                                  --            (3,550)
+               Accounts payable                                                        (694,469)          (46,165)
+               Accrued expenses                                                        (109,220)        1,228,787
+               Accrued severance                                                        (19,332)          278,341
+               Interest payable                                                         160,099           251,019
+                                                                                    -----------      ------------
+        Net cash used by operating activities                                        (2,414,410)      (15,255,838)
+                                                                                    -----------      ------------
+CASH FLOWS FROM INVESTING ACTIVITIES
+     Proceeds from sales of fixed assets                                                  6,098            37,572
+     Purchases of property and equipment                                                 (6,822)         (874,870)
+     Investment in ComSign, Ltd.                                                             --        (2,000,000)
+     Note receivable                                                                         --          (130,000)
+     Increase in organization costs                                                          --            (7,680)
+                                                                                    -----------      ------------
+        Net cash used by investing activities                                              (724)       (2,974,978)
+                                                                                    -----------      ------------
+CASH FLOWS FROM FINANCING ACTIVITIES
+     Proceeds from issuance of common stock                                           1,628,830        21,175,372
+     Stock offering costs                                                                    --          (475,664)
+     Deferred financing costs                                                          (276,901)         (682,312)
+     Proceeds from short-term borrowings                                                     --         1,356,155
+     Proceeds from long-term debt                                                            --         2,751,825
+     Proceeds from convertible debentures                                             2,000,000         2,000,000
+     Repayment of short-term borrowings                                                (307,480)       (1,357,082)
+     Repayments of long-term debt                                                      (494,207)       (1,615,825)
+                                                                                    -----------      ------------
+       Net cash provided by financing activities                                      2,550,242        23,152,469
+                                                                                    -----------      ------------
+Effect of exchange rate changes on cash                                                      27            (6,384)
+                                                                                    -----------      ------------
+INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS                                        135,135         4,915,269
+
+CASH AND CASH EQUIVALENTS AT BEGINNING OF PERIOD                                         74,445                --
+                                                                                    -----------      ------------
+CASH AND CASH EQUIVALENTS AT END OF PERIOD                                          $   209,580      $  4,915,269
+                                                                                    ===========      ============
+SUPPLEMENTAL DISCLOSURES OF
+ CASH FLOW INFORMATION
+  Cash paid during the period for:
+       Interest                                                                     $    50,046      $    476,028
+                                                                                    ===========      ============
+Noncash financing activity
+       Conversion of debt and accrued interest to common stock                      $ 3,379,696
+                                                                                    ===========
+</TABLE>
+
+                 See Notes to Consolidated Financial Statements.
+
+
+                                      F-6
+<PAGE>
+
+                    TTR TECHNOLOGIES INC. AND ITS SUBSIDIARY
+                          (A Development Stage Company)
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 1 - Description of Business
+
+      TTR Inc. (the "Company") was incorporated on July 14, 1994 under the laws
+      of the State of Delaware. In December 1998 the Company amended its
+      certificate of incorporation to change its name to TTR Technologies, Inc.
+
+      TTR Technologies Ltd., ("TTR Ltd") was formed under the laws of the State
+      of Israel on December 5, 1994 as a wholly owned research and development
+      subsidiary of the Company.
+
+      The Company is engaged in the design, development and commercialization of
+      proprietary software security products.
+
+      The Company is considered to be in the development stage and has earned
+      limited revenues to date. Business activities to date have focused on
+      product and marketing research, product development, and raising capital.
+
+      In November 1999, the Company signed an agreement with Macrovision
+      Corporation to jointly develop music copy protection technology for
+      optical based media. In connection with the agreement the Company granted
+      to Macrovision an exclusive world-wide, royalty-bearing license to use the
+      Company's proprietary technology through December 31, 2009. The Company
+      will be entitled to a 30% royalty. Also under certain conditions, the
+      exclusive license may revert to a non-exclusive license as of the second
+      anniversary of the Commercial Launch, as defined.
+
+Note 2 - Summary of Significant Accounting Policies
+
+      Principles of Consolidation
+
+      The consolidated financial statements include the accounts of the Company
+      and its wholly owned subsidiary, TTR Ltd. All significant intercompany
+      accounts and transactions have been eliminated in consolidation. Certain
+      consolidated amounts have been reclassified for consistent presentation.
+
+      Use of Estimates
+
+      Management uses estimates and assumptions in preparing these financial
+      statements in accordance with generally accepted accounting principles.
+      Those estimates and assumptions affect the reported amounts of assets and
+      liabilities, the disclosure of contingent assets and liabilities and the
+      reported revenues and expenses. Actual results could vary from the
+      estimates that were used.
+
+      Cash Equivalents
+
+      Cash equivalents consist of short-term, highly liquid debt investments
+      that are readily convertible into cash with original maturities when
+      purchased of three months or less.
+
+
+                                      F-7
+<PAGE>
+
+                    TTR TECHNOLOGIES INC. AND ITS SUBSIDIARY
+                          (A Development Stage Company)
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+      Fair Value of Financial Instruments
+
+      Substantially all of the Company's financial instruments, consisting
+      primarily of cash equivalents, current receivables, accounts payable and
+      accrued expenses, are carried at, or approximate, fair value because of
+      their short-term nature or because they carry market rates of interest.
+
+      Revenue recognition
+
+      Revenues were generated from licensing software. The Company recognizes
+      this revenue in accordance with Statement of Position 97-2, "Software
+      Revenue Recognition", and related interpretations, when delivery has
+      occurred, the fee for the software is fixed or determinable,
+      collectability is reasonably assured and a written software license
+      agreement has been signed by the Company and the customer.
+
+      Stock Based Compensation
+
+      The Company accounts for stock-based compensation in accordance with APB
+      Opinion No. 25, "Accounting for Stock Issued to Employees" and FASB
+      Interpretation 44, "Accounting for Certain Transactions Involving Stock
+      Compensation". Pursuant to these accounting standards, the Company records
+      deferred compensation for share options granted to employees at the date
+      of grant based on the difference between the exercise price of the options
+      and the market value of the underlying shares at that date. Deferred
+      compensation is amortized to compensation expense over the vesting period
+      of the underlying options. No compensation expense is recorded for fixed
+      stock options that are granted to employees and directors at an exercise
+      price equal to the fair market value of the common stock at the time of
+      the grant
+
+      See Note 10 for pro forma disclosures required in accordance with SFAS No.
+      123, "Accounting for Stock-Based Compensation".
+
+      Stock options and warrants granted to non-employees are recorded at their
+      fair value, as determined in accordance with SFAS No. 123 and Emerging
+      Issues Task Force Consensus No. 96-18, and recognized over the related
+      service period. Deferred charges for options granted to non-employees are
+      periodically re-measured as the options vest.
+
+      Foreign Currency Translations
+
+      The financial statements of TTR Ltd. have been translated into U.S.
+      dollars in accordance with Statement No. 52 of the Financial Accounting
+      Standards Board (FASB). Assets and liabilities have been translated at
+      year-end (period-end) exchange rates and statement of operations have been
+      translated at average rates prevailing during the year. The translation
+      adjustments have been recorded as a separate component of stockholders'
+      deficit (cumulative translation adjustment).
+
+      Net loss per share
+
+      Basic earnings (loss) per share EPS is computed by dividing net income
+      (loss) applicable to common shares by the weighted-average of common
+      shares outstanding during the period.
+
+
+                                      F-8
+<PAGE>
+
+                    TTR TECHNOLOGIES INC. AND ITS SUBSIDIARY
+                          (A Development Stage Company)
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+      Diluted earnings (loss) per share adjusts basic earnings (loss) per share
+      for the effects of convertible securities, stock options and other
+      potentially dilutive instruments, only in the periods in which such effect
+      is dilutive. The shares issuable upon exercise of stock options and
+      warrants are excluded from the calculation of net loss per share, as their
+      effect would be antidilituve
+
+      Depreciation and Amortization
+
+      Furniture, equipment and vehicles are recorded at cost and depreciated
+      using the straight-line method over the estimated useful lives of the
+      assets, which range from three to fourteen years. For leasehold
+      improvements, amortization is provided over the shorter of the estimated
+      useful lives of the assets or the lease term.
+
+      Research and Development Costs
+
+      Research and development expenditures are charged to operations as
+      incurred. Software development costs are required to be capitalized when a
+      product's technological feasibility has been established by completion of
+      a working model of the product and ending when a product is available for
+      general release to customers. To date, completion of a working model of
+      the Company's products and general release have substantially coincided.
+      As a result, the Company has not capitalized any software development
+      costs since such costs have not been significant.
+
+      Income Taxes
+
+      The Company uses the liability method to determine its income tax expense.
+      This method requires the establishment of a deferred tax asset or
+      liability for the recognition of future deductible or taxable amounts and
+      operating loss carryforwards. Deferred tax expense or benefit is
+      recognized as a result of the changes in the assets and liabilities during
+      the year. Valuation allowances are established when necessary, to reduce
+      deferred tax assets, if it is more likely than not that all or a portion
+      of it will not be realized.
+
+      Concentrations
+
+      Cash and cash equivalents are, for the most part, maintained with major
+      financial institutions. Deposits held with these banks exceed the amount
+      of insurance provided on such deposits. Generally, these deposits may be
+      redeemed upon demand and therefore, bear minimal risk.
+
+      Impairment of Long-Lived Assets
+
+      The Company reviews its long-lived assets for impairment whenever events
+      or changes in circumstances indicate that the carrying amount of an asset
+      may not be recoverable from future undiscounted cash flows. Impairment
+      losses are recorded for the excess, if any, of the carrying value over the
+      fair value of the long-lived assets.
+
+      Comprehensive Income (loss)
+
+
+                                      F-9
+<PAGE>
+
+                    TTR TECHNOLOGIES INC. AND ITS SUBSIDIARY
+                          (A Development Stage Company)
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+      In January 1998, the Company adopted SFAS 130, "Reporting Comprehensive
+      Income," which establishes standards for reporting the components of
+      comprehensive income. The foreign currency translation adjustment is the
+      Company's only component of comprehensive income.
+
+      Recently Issued Accounting Pronouncements
+
+      In June 2001, the Financial Accounting Standards Board ("FASB") issued
+      Statement of Financial Accounting Standards No. 141, "Business
+      Combinations." This statement eliminates the pooling of interests method
+      of accounting for all business combinations initiated after June 30, 2001,
+      and addresses the initial recognition and measurement of goodwill and
+      other intangible assets acquired in a business combination. The Company
+      had no business combinations after June 30, 2001.
+
+      In June 2001, the FASB issued Statement of Financial Accounting Standards
+      No. 142, "Goodwill and Other Intangible Assets." With the adoption of this
+      Statement, goodwill is no longer subject to amortization over its
+      estimated useful life. Rather, goodwill will be subject to at least an
+      annual assessment for impairment by applying a fair-value-based test.
+      Similarly, goodwill associated with equity method investments is no longer
+      amortized. Equity method goodwill is not, however, subject to the new
+      impairment rules; the impairment guidance in existing rules for equity
+      method investments continues to apply. Goodwill amortization associated
+      with equity method investments in 2001 approximated $240,000.
+
+      In August 2001, the FASB issued Statement of Financial Accounting
+      Standards No. 144 ("SFAS 144"), "Accounting for the Impairment or Disposal
+      of Long-Lived Assets". This statement supercedes Statement of Financial
+      Accounting Standards No. 121, "Accounting for the Impairment of Long-Lived
+      Assets and for Long-Lived Assets to be Disposed of." The Company will
+      adopt SFAS 144 as of January 1, 2002, but does not believe the statement
+      will have a material effect on its consolidated financial statements.
+
+Note 3 - Note Receivable
+
+      In July 2001, in connection with a consulting agreement, the Company
+      advanced a loan to a consultant in the amount of $130,000, evidenced by a
+      promissory note. The note bears interest at the rate of 8% per annum, and
+      is due on June 27, 2002. As collateral for the loan, the consultant
+      pledged 150,000 Company shares issuable to him upon the exercise of
+      150,000 unexercised option. Prusuant to consulting agreements the
+      consultant was granted 50,000 and 100,000 immediately vested options
+      exercisable at $.35 and $6.00 per share, respectively.
+
+
+                                      F-10
+<PAGE>
+
+                    TTR TECHNOLOGIES INC. AND ITS SUBSIDIARY
+                          (A Development Stage Company)
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 4 - Property and Equipment
+
+      Property and equipment consist of the following:
+
+                                                             December 31,
+                                                         2001             2000
+                                                         ----             ----
+
+Computer equipment                                     $315,361         $220,640
+Leasehold improvements                                  109,178          118,114
+Office equipment                                         96,970          131,936
+Vehicles                                                124,251          146,824
+                                                       --------         --------
+                                                        645,760          617,514
+Less:  Accumulated depreciation                         444,307          396,557
+                                                       --------         --------
+                                                       $201,453         $220,957
+                                                       ========         ========
+
+      Depreciation expense was $85,597, $58,066, and $94,016 for the years ended
+      December 31, 2001, 2000 and 1999, respectively.
+
+Note 5 - Investment In Comsign, Ltd.
+
+      In July 2000, the Company invested $2 million for a 50% equity interest in
+      ComSign Ltd. ("ComSign") a newly established subsidiary of Comda Ltd.
+      ("Comda"). ComSign is engaged in the distribution and delivery of digital
+      authentication certificates of VeriSign, Inc.("VeriSign"). In June 2000,
+      ComSign entered into an agreement with VeriSign to act as VeriSign's sole
+      principal affiliate in Israel and the territories administered by the
+      Palestinian Authority. Under the provisions of the agreement with Comda
+      60% of any dividends up to an accumulated amount of $2,000,000 will first
+      be distributed to TTR and 40% to Comda. Thereafter, 60% of dividends up to
+      an accumulated amount of $2,000,000 will first be distributed to Comda and
+      40% to TTR. Thereafter, all distributions will be 50% to each.
+
+      In December 2001, ComSign entered into a three year commercial secured
+      loan agreement with an Israeli bank pursuant to which ComSign borrowed the
+      maximum amount available of $1,000,000 between December 2001 and February
+      2002. Loan amounts outstanding accrue interest at the rate of Libor plus
+      2.5% per annum during the first year following borrowing. The interest
+      rate for subsequent years is to be fixed by agreement of ComSign and the
+      Bank. The Company does not provide any guaranty or other security for the
+      loan. The terms of the loan grant the lending bank options to purchase
+      equity of ComSign in an amount equal to that purchasable at an aggregate
+      purchase price of $300,000, based on ComSign's company valuation at the
+      time of exercise. ComSign's company valuation has been fixed at not less
+      than $5 million.
+
+      ComSign is currently negotiating with VeriSign to reduce the license fees
+      payable by ComSign under the terms of the license agreement. If the
+      license fees payable by ComSign are not reduced upon terms mutually
+      agreeable to ComSign and VeriSign, then, in the view of management,
+      ComSign may not be able to continue operations as presently conducted.
+      Based on the present negotiations, the Company does not consider the
+      investment in ComSign to be impaired
+
+
+                                      F-11
+<PAGE>
+
+                    TTR TECHNOLOGIES INC. AND ITS SUBSIDIARY
+                          (A Development Stage Company)
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+      The Company applies the equity method of accounting for this investment.
+      At the time of the investment the carrying value of the investment
+      exceeded the Company's share of the underlying net assets of ComSign. The
+      excess is considered to be goodwill and is being amortized on a
+      straight-line basis over five years. Upon adoption of FASB No. 142 on
+      January 1, 2002, the Company will no longer amortize the goodwill.
+      Goodwill amortization expense has been included in net losses of affiliate
+      in the accompanying Consolidated Statement of Operations.
+
+      Condensed summarized financial data for ComSign, Ltd. as of and for the
+      year ended December 31, 2001 are as follows:
+
+Condensed balance sheet data
+     Current assets                                                 $   176,712
+     Noncurrent assets                                                1,720,611
+     Current liabilities                                              1,002,784
+     Noncurrent liabilities                                              87,500
+
+Condensed statement of operations data
+     Revenue                                                            341,525
+     Net loss                                                       $  (751,575)
+
+Note 6 - Accrued Expenses
+
+      Accrued expenses consist of the following:
+
+                                                              December 31,
+                                                         2001             2000
+                                                         ----             ----
+Accrued payroll and related amounts                    $250,591         $135,144
+Accrued severance, current portion *                    249,714               --
+Other                                                    53,103           32,587
+                                                       --------         --------
+                                                       $553,408         $167,731
+                                                       ========         ========
+
+      * In October 2001, the Company's former Chief Operating Officer was no
+      longer employed by the Company. Under the terms of his employment
+      agreement, the Company is obligated to continue to pay his salary through
+      September, 2003. The total amount due is $437,000, of which $249,714 is
+      payable within the next twelve months.
+
+Note 7- Accrued Severance Pay
+
+      Under Israeli law, TTR Ltd. is required to make severance payments to
+      dismissed employees (including officers) and to employees leaving
+      employment under certain other circumstances. This liability is calculated
+      based on the years of employment for each employee, in accordance with the
+      "severance pay laws." Funding into severance pay funds and the purchase of
+      insurance policies covers the Company's liabilities for required severance
+      payments.
+
+
+                                      F-12
+<PAGE>
+
+                    TTR TECHNOLOGIES INC. AND ITS SUBSIDIARY
+                          (A Development Stage Company)
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 8 - Debt Financings
+
+      o     In 1998, the Company issued $1,462,000 of its 10% Convertible
+            Debentures to private investors. In December 1999, after repaying
+            approximately $200,000 of principal, the Company offered any
+            remaining note holders an option to convert their outstanding
+            principal and accrued interest to shares of common stock. The
+            conversion rate was based on 85% of the average closing bid price of
+            the common shares for the 30 trading days preceding the date of
+            conversion. In accordance with applicable accounting rules, the
+            Company recorded a charge to interest expense in the amount of
+            $572,505 to reflect this beneficial conversion feature. A total of
+            $1,329,202 of note principal and accrued interest was converted to
+            common stock.
+
+      o     In 1999 the Company issued $2,000,000 of its 10% Convertible
+            Debentures to private investors. The Debentures were convertible
+            into shares of the Company's Common Stock at the rate of $.77 per
+            share based on the closing trading prices of the Common Stock during
+            certain specified periods. In addition, upon conversion, warrants
+            were issued to purchase additional shares of Common Stock equal to
+            one-half of the shares of Common Stock issued. The warrants were
+            exercisable at $.92 per share.
+
+            In October and November 1999, the investors converted all of the
+            outstanding debentures and were issued 2,681,934 shares of common
+            stock and 1,340,967 warrants exercisable at $.92 per share. In
+            November 1999, the investors exercised of all the outstanding
+            conversion warrants.
+
+            In connection with the sale of Debentures, the Company also issued
+            warrants to purchase up to 1.3 million shares of Common Stock at a
+            nominal price per share, to an independent consultant. These
+            warrants were exercised in 2000. Using the Black-Scholes model for
+            estimating the fair value of the warrants, the Company recorded
+            $3,845,400 as deferred financing costs, which was charged to
+            operations in 1999.
+
+Note 9 - Income Taxes
+
+      At December 31, 2001, the Company had available approximately $13 million
+      of net operating loss carryforwards for U.S. federal income tax purposes
+      which expire in the years 2014 through 2021, and $9.7 million of foreign
+      net operating loss carryforwards with no expiration date. Due to the
+      uncertainty of their realization, no income tax benefit has been recorded
+      by the Company for these net operating loss carryforwards as valuation
+      allowances have been established for any such benefits. The use of the
+      U.S. federal net operating loss carryforwards is subject to limitations
+      under section 382 of the Internal Revenue code pertaining to changes in
+      stock ownership.
+
+
+                                      F-13
+<PAGE>
+
+                    TTR TECHNOLOGIES INC. AND ITS SUBSIDIARY
+                          (A Development Stage Company)
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+      Significant components of the Company's deferred tax assets for U.S.
+      federal and Israel income taxes are as follows:
+
+                                                          December 31,
+                                                          ------------
+                                                     2001               2000
+                                                     ----               ----
+
+Net operating loss carryforwards                 $ 7,992,108        $ 7,626,174
+Stock based compensation                             821,778            438,280
+Other                                                282,099            229,747
+                                                 -----------        -----------
+      Total deferred tax assets                    9,095,985          8,294,201
+      Valuation allowance                         (9,095,985)        (8,294,201)
+                                                 -----------        -----------
+
+      Net deferred tax assets                    $        --        $        --
+                                                 ===========        ===========
+
+Note 10 - Stockholders' Equity
+
+      Stock option plans
+
+      In July 1996, the Board of Directors adopted the Company's Incentive and
+      Non-qualified Stock Option Plan (the " Plan") and has reserved up to
+      450,000 shares of Common Stock for issuance thereunder. In December 1999,
+      the Plan was amended to increase the total number of shares available for
+      grant to 1.5 million. There are currently a total of 1,184,275 options
+      outstanding under the 1996 Plan and future grants have been discontinued.
+
+      In July 1998, the Board of Directors adopted the Non-Executive Directors
+      Stock Option Plan ("the Directors' Plan") and has reserved up to 25,000
+      shares of common stock for issuance thereunder. In May 2001, the Plan was
+      amended to increase the total number of shares available for grant to
+      75,000. The plan provides for the grant of options to directors who are
+      not otherwise employed by the Company. As of December 31, 2001, 58,000
+      options had been granted under the Directors' Plan.
+
+      In July 2000, the Company adopted the 2000 Equity Incentive Plan (the
+      "2000 Incentive Plan") and has reserved a total of 1.5 million shares of
+      common stock for issuance thereunder. In May 2001, the Plan was amended to
+      increase the total number of shares available for grant to 3,500,000. The
+      2000 Incentive Plan provides for the grant of incentive stock options,
+      nonqualified stock options, stock appreciation rights, restricted stock,
+      bonus stock, awards in lieu of cash obligations, other stock-based awards
+      and performance units. The 2000 Incentive Plan also permits cash payments
+      under certain conditions.
+
+      The Compensation Committee of the Board of Directors is responsible for
+      determining the type of award, when and to who awards are granted, the
+      number of shares and the terms of the awards and exercise prices. The
+      options are exercisable for a period not to exceed ten years from the date
+      of grant. Vesting periods range from immediately to four years.
+
+
+                                      F-14
+<PAGE>
+
+                    TTR TECHNOLOGIES INC. AND ITS SUBSIDIARY
+                          (A Development Stage Company)
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+      Other Option Grants
+
+      In addition to the options granted under the Stock Option Plans, the
+      Company has issued options outside of the plans, pursuant to various
+      agreements.
+
+      Option activity for 1999, 2000 and 2001 is summarized as follows:
+
+<TABLE>
+<CAPTION>
+                                                                                       Weighted
+                                                                                        Average
+                                                            Options                    Exercise
+                                               Plan         Non-plan        Total        Price
+                                               ----         --------        -----
+<S>                                         <C>            <C>            <C>            <C>
+Options outstanding, January 1, 1999          157,750       128,872         286,622      $3.67
+ Granted                                      736,500       196,000         932,500       0.39
+ Exercised                                         --      (128,872)       (128,872)      0.01
+ Forfeited                                   (144,850)           --        (144,850)      6.73
+                                            ---------      --------       ---------
+
+Options outstanding, December 31, 1999        749,400       196,000         945,400       0.47
+ Granted                                    2,238,500            --       2,238,500       3.86
+ Exercised                                   (200,000)     (146,000)       (346,000)      0.23
+ Forfeited                                     (2,275)           --          (2,275)      5.19
+                                            ---------      --------       ---------
+
+Options outstanding, December 31, 2000      2,785,625        50,000       2,835,625       3.18
+ Granted                                      575,000            --         575,000       3.53
+ Exercised                                    (80,000)      (50,000)       (130,000)      0.01
+ Forfeited                                     (4,000)           --          (4,000)      6.03
+                                            ---------      --------       ---------
+
+Options outstanding, December 31, 2001      3,276,625            --       3,276,625      $3.36
+                                            =========      ========       =========
+
+Shares of common stock available for
+  future grant under the plan               1,466,000
+                                            =========
+</TABLE>
+
+
+                                      F-15
+<PAGE>
+
+                    TTR TECHNOLOGIES INC. AND ITS SUBSIDIARY
+                          (A Development Stage Company)
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+      The following table summarizes information about stock options outstanding
+      at December 31, 2001:
+
+<TABLE>
+<CAPTION>
+                                                                             Options Exercisable
+                                                 Weighted Average              Weighted Average
+                                            Remaining
+                           Number          Contractual      Exercise       Number          Exercise
+Ranges of price          Outstanding           Life           Price      Exercisable         Price
+---------------          -----------           ----           -----      -----------         -----
+<S>                       <C>                  <C>            <C>         <C>                <C>
+$0.01                       394,000            7.73           $0.01         374,000          $0.01
+$0.35                        50,000            8.74            0.35          50,000           0.35
+$1.29-1.66                  300,000            9.82            1.63              --             --
+$2.56-3.56                  400,600            8.32            3.31         367,267           3.38
+$3.91-5.72                2,024,025            8.60            4.21       1,464,191           4.15
+$6.84-7.00                  108,000            2.77            6.07         108,000           6.07
+                          ---------            ----           -----       ---------          -----
+
+$.01-$7.00                3,276,625            8.38           $3.36       2,363,458          $3.38
+                          =========            ====           =====       =========          =====
+</TABLE>
+
+      Weighted-average grant date fair value of options granted in 2001, 2000
+      and 1999, under the Black-Scholes option pricing model, was $2.18, $2.10,
+      and $2.20 per option, respectively.
+
+      The Company has adopted the pro forma disclosure provisions of SFAS No.
+      123. Had compensation cost for all of the Company's stock-based
+      compensation grants been determined in a manner consistent with the fair
+      value approach described in SFAS No. 123, the Company's net loss and net
+      loss per share as reported would have been increased to the pro forma
+      amounts indicated below:
+
+                                                   Year ended
+                                                  December 31,
+                                     2001             2000             1999
+                                     ----             ----             ----
+Net loss
+    As reported                  $(5,498,637)     $(4,796,693)     $(13,072,237)
+    Proforma                     $(6,627,561)     $(8,118,242)     $(13,123,185)
+
+Loss per share
+    As reported                  $     (0.31)     $     (0.30)     $      (2.07)
+    Proforma                     $     (0.38)     $     (0.51)     $      (2.08)
+
+
+                                      F-16
+<PAGE>
+
+                    TTR TECHNOLOGIES INC. AND ITS SUBSIDIARY
+                          (A Development Stage Company)
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+      The fair value of each option granted in 2001, 2000 and 1999 is estimated
+      on the date of grant using the Black-Scholes option-pricing model with the
+      following weighted average assumptions:
+
+                                              2001           2000          1999
+                                              ----           ----          ----
+
+Risk free interest rates                       3.97%         6.32%         5.52%
+Expected option lives                          3.26          2.46          2.50
+Expected volatilities                        106.00         70.00         46.50
+Expected dividend yields                       None          None          None
+
+      Warrants
+
+      o     In May 1999, in connection with the sale of convertible debentures
+            (see Note 8) the Company issued 1.3 million warrants exercisable at
+            a nominal price per share. These warrants were exercised in 2000.
+
+      o     In July 1999, the Company issued 200,000 warrants exercisable at
+            $2.75 to a consultant pursuant to a three-month consulting
+            agreement.
+
+      o     In August 1999 a consultant was issued warrants to purchase up to 1
+            million shares of common stock at a nominal price per share. The
+            warrants are exercisable only upon the Company entering into an
+            agreement with a strategic investor through the efforts of the
+            consultant. In November 1999, upon the signing of an agreement with
+            Macrovision, the warrants became exercisable. Using the
+            Black-Scholes model for estimating the fair value of the warrants,
+            the Company recorded a charge to operations of $2,741,000 in
+            connection with the warrants. These warrants were exercised in 2000.
+
+      o     In November 1999, in connection with a legal settlement, the Company
+            issued a total of 50,000 warrants with exercise prices ranging from
+            $2.50 to $3.50.
+
+      o     In November 1999, the Company issued 25,000 warrants exercisable at
+            a nominal price per share to a consultant.
+
+      o     In May 2000, the Company granted 250,000, three-year warrants to a
+            consultant pursuant to a one-year consulting agreement. The
+            agreement was subsequently amended to reduce the number of warrants
+            to 100,000 which vested immediately. The exercise prices of the
+            warrants are $4.13 per share. Using the Black-Scholes model for
+            estimating the fair value of the warrants, the Company recorded a
+            charge to operations of $123,175 in connection with this grant.
+
+      o     In June 2000, the Company granted 350,000 five-year warrants to a
+            consultant pursuant to a one-year consulting agreement. The warrants
+            become exercisable when the average weighted bid price of the
+            Company's Common Stock exceeds $10 per share for twenty consecutive
+            trading days. The exercise prices of the warrants are $6.50, $7.50
+            and $8.50 for 125,000, 125,000 and 100,000 respectively.
+
+
+                                      F-17
+<PAGE>
+
+                    TTR TECHNOLOGIES INC. AND ITS SUBSIDIARY
+                          (A Development Stage Company)
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+            These warrants are accounted for in accordance with the provisions
+            of EITF 96-18, Accounting for Equity Instruments that are Issued to
+            Other than Employees for Acquiring or in Conjunction with Selling,
+            Goods or Services. Due to the uncertainty of reaching the
+            performance measures stipulated, the Company has not recorded any
+            expense relating to the issuance of the unvested warrants. Upon
+            determination that the achievement of the vesting thresholds is
+            probable ("measurement date"), the Company will value the warrant
+            and expense it over the remaining period until the performance
+            criteria is met.
+
+      o     In August 2000, the Company granted 200,000 five-year warrants to a
+            consultant pursuant to a one-year consulting agreement. The
+            agreement was subsequently amended to reduce the number of warrants
+            to 100,000 which vested immediately. The warrants are not
+            exercisable during the first two years from the date of grant unless
+            the Company's Common Stock has traded at or above $10 per share for
+            fifteen consecutive trading days. The exercise prices of the
+            warrants are $7.50 per share. Using the Black-Scholes model for
+            estimating the fair value of the warrants, the Company recorded a
+            charge to deferred compensation of $262,670 and amortized this
+            amount over the service period.
+
+      o     In October 2000, the Company granted 400,000 four-year warrants to a
+            consultant pursuant to a one-year consulting agreement. The warrants
+            vest immediately but are not exercisable until one year from date of
+            grant, unless there is a sale or merger involving a majority of the
+            assets of the Company. The exercise prices of the warrants are
+            $6.50, $7.50 and $8.50 for 134,000, 133,000 and 133,000,
+            respectively. Using the Black-Scholes model for estimating the fair
+            value of the warrants, the Company recorded a charge to deferred
+            compensation of $483,772 and amortized this amount over the service
+            period.
+
+Stock Issuances
+
+      During the year ended December 31, 1999, the Company completed the
+      following common stock transactions:
+
+      o     In January and February 1999 the Company issued 627,000 shares of
+            Common Stock and 10,000 warrants exercisable at $1.75 to various
+            consultants pursuant to one-year consulting agreements. The value of
+            the services totaling $445,725 is being amortized over the one-year
+            contract terms.
+
+      o     In January 1999, the Company issued 265,000 shares of Common Stock
+            to an entity as payment of an outstanding liability in the amount of
+            $168,750. The Company has recently been advised by this entity, that
+            approximately 1/3 of this compensation was paid to the brother of
+            the CEO.
+
+      o     In February and April 1999, the Company received $160,000 from the
+            issuance of an additional 205,682 shares of its Common Stock.
+
+      o     In July 1999, the Company issued 150,000 shares of Common Stock in
+            exchange for previously issued options in connection with the
+            termination of, and settlement of certain claims by an ex-employee.
+
+
+                                      F-18
+<PAGE>
+
+                    TTR TECHNOLOGIES INC. AND ITS SUBSIDIARY
+                          (A Development Stage Company)
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+      o     In October 1999, the Company issued 200,000 shares of Common Stock
+            to a consultant pursuant to a consulting agreement.
+
+      o     In October 1999, the Company issued 2,681,934 shares of Common Stock
+            as a result of the conversion of all the outstanding 10% convertible
+            debentures plus accrued interest thereon.
+
+      o     In December 1999, the Company issued 538,574 shares upon the
+            conversion of long-term debt.
+
+      o     In 1999, the Company issued 1,714,952 shares of Common Stock from
+            the exercise of various outstanding warrants.
+
+      During the year ended December 31, 2000, the Company completed the
+      following common stock transactions:
+
+      o     In January 2000, pursuant to its licensing and investment agreement
+            with Macrovision, the Company issued 1,880,937 shares of its Common
+            Stock for an aggregate purchase price of $4 million.
+
+      o     In February 2000, the Company completed a private placement of
+            1,800,000 shares of Common Stock and 900,000 Class A Warrants for an
+            aggregate purchase price of $10,000,000. The Class A Warrants are
+            exercisable for a period of 60 months at an exercise price per share
+            of $8.84. The Company may redeem the Class A Warrants for $0.10 per
+            warrant if the common shares have traded at or above 200% of the
+            exercise price for a period of twenty consecutive trading days. Upon
+            exercise of the Class A Warrants, the Company will issue Class B
+            Warrants for an additional 450,000 shares. The Class B Warrants are
+            exercisable for a period of 36 months from the date of issuance at
+            an exercise price per share of $21.22. The Class B Warrants may be
+            redeemed by the Company if the common shares have trade at $26 or
+            above for a period of twenty consecutive trading days. The Company
+            paid a placement agent a fee of $500,000 and issued 180,000 warrants
+            exercisable at $5.56 per share, 90,000 Class A Warrants exercisable
+            at $8.84 and upon exercise an additional 45,000 Class B Warrants
+            exercisable at $21.22. Also in connection with the private
+            placement, the Company paid $200,000 and issued 200,000 warrants,
+            exercisable at $2.75, as a finder's fee.
+
+      o     In January 2000, the Company issued 15,000 shares of Common Stock to
+            a consultant. The value of the services totaling $104,625 was
+            charged to operations.
+
+      o     In January 2000, the Company issued 1,269 shares of Common Stock in
+            payment of an outstanding liability in the amount of $10,000.
+
+      o     In 2000, the Company issued 3,005,574 shares of Common Stock from
+            the exercise of various outstanding stock options and warrants.
+
+
+                                      F-19
+<PAGE>
+
+                    TTR TECHNOLOGIES INC. AND ITS SUBSIDIARY
+                          (A Development Stage Company)
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+      During the year ended December 31, 2001, the Company completed the
+      following common stock transactions:
+
+      o     In 2001, the Company issued 237,556 shares of Common Stock from the
+            exercise of various outstanding stock options and warrants
+
+Note 11 - Commitments And Contingencies
+
+      Royalties
+
+      TTR Ltd. is committed to pay royalties to the Office of the Chief
+      Scientist of the Government of Israel (OCS) on proceeds from sales of
+      products of which the OCS has participated by way of grants. The royalties
+      are payable at the rate of 3% for the first three years of product sales,
+      4% for the following three years, and 5% thereafter up to a maximum of
+      100% of the grant plus accrued interest. The total amount of grants
+      received as of December 31, 2001 was $210,000.
+
+      The research and development grants are presented in the statement of
+      operations as a reduction of research and development expenses.
+
+      The refund of the grant is contingent on future sales and the Company has
+      no obligation to refund these grants if the sales are not sufficient.
+
+      Consulting Agreement
+
+      The Company had a financial consulting agreement with an entity that is
+      connected to a relative of the Company's CEO. The agreement was terminated
+      in December 2001. Under the agreement the Company incurred fees of
+      approximately $90,000, $80,000 and $60,000 for the years ended December
+      31, 2001, 2000 and 1999, respectively. In addition, the Company paid a
+      $75,000 finder fee to this entity in connection with its 10% convertible
+      debenture offering in 1999.
+
+      Employment Agreements
+
+      The Company entered into, and amended various employment agreements in
+      October 2000 and February 2001 with certain of its officers and an
+      employee. The Company's aggregate commitments under these employment
+      agreements are approximately $478,000 and $187,000 during 2002 and 2003,
+      respectively. In addition each of the agreements provides for a
+      termination payment, under certain circumstances, equal to 12 months
+      salary. If a change in control (as defined) occurs the termination
+      payments will be the greater of 12 months salary or the balance of the
+      salary then due under the agreement through the scheduled expiration date.
+
+
+                                      F-20
+<PAGE>
+
+                    TTR TECHNOLOGIES INC. AND ITS SUBSIDIARY
+                          (A Development Stage Company)
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+      Lease Commitments
+
+      The Company leases its facility in Israel, and certain equipment under
+      non-cancelable operating leases. Future minimum lease payments at December
+      31, 2001, are as follows:
+
+            Years ending December 31,
+                    2002 .....................................     $48,628
+                    2003 .....................................      17,885
+                                                                   -------
+                                                                   $66,513
+                                                                   =======
+
+Note 12 - Geographic Data
+
+                                 U.S.      % of Total      Israel     % of Total
+
+For the year ended
+December 31, 2001
+   Revenue                   $        --       0.00%    $        --       0.00%
+   Operating loss             (2,589,846)     50.25%     (2,563,878)     40.71%
+   Identifiable assets         5,163,161      78.82%      1,387,786      21.18%
+
+For the year ended
+December 31, 2000
+   Revenue                   $        --       0.00%    $     1,999     100.00%
+   Operating loss             (3,027,245)     59.29%     (2,078,734)     40.71%
+   Identifiable assets         8,297,774      80.18%      2,050,939      19.82%
+
+For the year ended
+December 31, 1999
+   Revenue                         5,550       8.07%    $    63,253      91.93%
+   Operating loss            $(6,371,600)     80.90%     (1,503,849)     19.10%
+   Identifiable assets           239,995      51.30%        227,872      48.70%
+
+Note 13 - Quarterly Results of Operations (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                1st Qtr.           2nd Qtr.           3rd Qtr.           4th Qtr.          Total
+                                --------           --------           --------           --------          -----
+<S>                           <C>                <C>                <C>                <C>              <C>
+2001
+     Revenues                          --                 --                 --                 --               --
+     Net loss                 $(1,291,867)       $(1,276,115)       $(1,355,739)       $(1,574,916)     $(5,498,637)
+     Net loss per share -
+basic and diluted                   (0.07)             (0.07)             (0.08)             (0.09)
+2000
+     Revenues                       1,999                 --                 --                 --            1,999
+     Net loss                  (1,563,727)        (1,025,946)        (1,213,842)          (993,178)      (4,796,693)
+     Net loss per share -
+basic and diluted                   (0.12)             (0.06)             (0.07)             (0.06)
+</TABLE>
+
+
+                                      F-21
+
+
+</TEXT>
+</DOCUMENT>

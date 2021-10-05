@@ -1,0 +1,95 @@
+<DOCUMENT>
+<TYPE>10-K/A
+<SEQUENCE>1
+<FILENAME>d10ka.txt
+<DESCRIPTION>ANNUAL REPORT
+<TEXT>
+
+<PAGE>
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+                                  _____________
+                                   FORM 10-K/A
+
+   ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES
+   EXCHANGE ACT OF 1934
+   For the fiscal year ended October 29, 2000
+
+   Commission file number 0-14365
+                                  _____________
+                         Alpha Technologies Group, Inc.
+             (Exact name of registrant as specified in its charter)
+             Delaware                       76-0079338
+    (State or other jurisdiction of         (I.R.S. Employer Identification NO.)
+     incorporation or organization)
+   11990 San Vincente Blvd., Suite 350
+            Los Angeles, CA                                 90049
+  (Address of principal executive offices)                (Zip Code)
+        Registrant's telephone number, including area code: 310-566-4005
+                                  _____________
+         Securities registered under Section 12 (b) of the Exchange Act:
+                                      None
+         Securities registered under Section 12 (g) of the Exchange Act:
+                          Common Stock, $.03 par value
+                          ----------------------------
+                              (Title of each class)
+
+         Indicate by check mark whether the registrant (1) has filed all reports
+   required to be filed by Section 13 or 15 (d) of the Securities Exchange Act
+   of 1934 during the preceding 12 months (or for such shorter period that the
+   registrant was required to file such reports), and (2) had been subject to
+   such filing requirements for the past 90 days. Yes_X__ NO___
+         Indicate by check mark if disclosure of delinquent filers pursuant to
+   Item 405 of Regulation S-K is not contained herein, and will not be
+   contained, to the best of registrant's knowledge, in definitive proxy or
+   information statements incorporated by reference in Part III of this Form
+   10-K or any amendment to this Form 10-K. [X]
+
+   State the aggregate market value of the voting stock held by non-affiliates
+              of the registrant. $49,109,524 at January 22, 2001
+   Indicate the number of shares outstanding of each of the issuer's classes of
+   common equity, as of the latest practicable date.
+         Common Stock, 7,078,435 shares outstanding at January 22, 2001
+                                  _____________
+-------------------------------------------------------------------
+<PAGE>
+
+The undersigned registrant hereby amends the following items, financial
+statements, exhibits or other portions of its Annual Report on Form 10-K for the
+fiscal year ended October 29, 2000 as set forth in the pages attached hereto:
+
+        Item 14(a)(3)       Exhibits.
+
+        Exhibit 99.1        Annual Report on Form 11-K for the
+                            fiscal year ended December 31, 2000 for the
+                            ATGI 401(k) Plan
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this amendment to be signed on its behalf by the
+undersigned, hereunto duly authorized.
+
+                            ALPHA TECHNOLOGIES GROUP, INC.
+
+
+
+                            By: /s/ Johnny Blanchard
+                                ____________________________
+                                Johnny J. Blanchard
+                                Principal Accounting Officer
+
+Dated:  June 29, 2001
+<PAGE>
+
+                                 EXHIBIT INDEX
+
+
+                                                                   Sequentially
+  Exhibit                                                              Numbered
+  Number       Description of Exhibit                                      Page
+
+  99.1         Annual Report on Form 11-K for the year ended
+               December 31, 2000 for the ATGI 401K PLAN
+</TEXT>
+</DOCUMENT>

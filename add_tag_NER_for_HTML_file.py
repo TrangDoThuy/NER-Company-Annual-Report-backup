@@ -1,4 +1,5 @@
 
+
 import os
 import re
 from boilerpy3 import extractors
@@ -104,5 +105,6 @@ for item_object in item_list:
 
 with open(new_html_path,'wb') as f:
     f.write(html_file.encode())
+
 
 
