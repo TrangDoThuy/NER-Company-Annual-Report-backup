@@ -217,11 +217,11 @@ def extract_overview_and_business_review(object_list):
             has_business_review_title = True
             if(len(object_list[i]["content"])>0):
                 #print(object_list[i])
-                business_review = object_list[i]
+                business_review = object_list[i]["content"]
                 break
             else:
                 #print(object_list[i+1])
-                business_review = object_list[i+1]
+                business_review = object_list[i+1]["content"]
                 break
     common_title =["our company","the company","overview"]
     not_true_title = ["industry overview"]
@@ -288,31 +288,69 @@ def performance_extraction(object_list):
                 max_ratio = ratio
     return performance
 #%%
+def get_subject_phrase(doc):
+    for token in doc:
+        if ("subj" in token.dep_):
+            subtree = list(token.subtree)
+            start = subtree[0].i
+            end = subtree[-1].i + 1
+            return doc[start:end]
+#%%
 def prospects_extraction(object_list):
-    future_word_list = ["anticipate","believe","estimate","expect","intend","project","prospect","remain","unclear","expect"," will "," will "," will ","continue","success","more","believe","aim","strategy","pursue","anticipate","hope","new","growth","further","forward", "future","next"]
+    future_word_list = ["anticipates","believes","feels","expects","estimates","seeks","strives","plans","intends",
+                        "outlook","forecast","position","target","mission","assume","achievable","potential",
+                        "strategy","goal","aspiration","outcome","continue","remain","maintain",
+                        "trend","objective","will ","would","should","could","might"," can ","may"]
     max_ratio = 0
     current_count = 0
     max_count = 0
-    prospects_paragraph = ""
+    prospects_paragraph = []
     for item in object_list:
         content = item['content']
         if(len(content)==0):
             continue
         paragraphs = content.split("\n")
         for paragraph in paragraphs:
-            if(("forward-looking statements" in paragraph)or("goodwill" in paragraph)or("will be" in paragraph)):
+            if(("forward-looking statements" in paragraph)):
                 continue
             doc = nlp(paragraph)
             sentences = list(doc.sents)
-            for sentence in sentences:
+            for i in range(len(sentences)):
+                sentence = sentences[i]
+                
+                subject_phrase = get_subject_phrase(nlp(sentence.text))
+                if(str(subject_phrase).lower() not in ["we","the company"]):
+                    continue
+                elif(("will be" in sentence.text)or("if" in sentence.text)):
+                    continue
                 current_count = 0
+                current_word_list=[]
                 for word in future_word_list:
-                    current_count += sentence.text.lower().count(word)
+                    current_count += sentence.text.count(word)
+                    if(sentence.text.count(word)>0):
+                        current_word_list.append(word)
                 if(current_count > max_count):
                     max_count = current_count
-                    print('*'*10)
-                    print(sentence)
-    return prospects_paragraph,max_ratio        
+                    if((("their" in sentence.text)or("such" in sentence.text))and(i>0)):
+                        sentence_content = sentences[i-1].text +" "+  sentence.text
+                    else:
+                        sentence_content = sentence.text
+                    prospects_paragraph.append(sentence_content)
+    print('&'*10)
+    return prospects_paragraph  
+#%%
+def fine_tune_paragraph(paragraph):
+    sub_words = ["See Note","following table"]
+    for sub_word in sub_words:
+        if(sub_word in paragraph):
+            finding_point = paragraph.index(sub_word)
+            starting_point = paragraph.rindex(".", 0, finding_point)
+            if("." in paragraph[starting_point+1:]):
+                ending_point = paragraph.index(".",starting_point+2)
+                paragraph = paragraph.replace(paragraph[starting_point:ending_point],"")
+            else:
+                paragraph = paragraph[:starting_point+1]
+    return paragraph    
 #%%
 def main():
     #file_path = 'Data/NYSE/Alcoa Inc/annual_report_2009-02-17_d10k.htm'
@@ -321,22 +359,28 @@ def main():
     #file_path = 'Data/OTCBB/Auburn Bancorp Inc/annual_report_2010-09-28_t68978_10k.htm'
     #file_path = 'Data/NaN/Asset Acceptance Capital Corp/annual_report_2010-03-12_d10k.htm'
     #file_path = 'Data/OTC/All American Gold Corp/annual_report_2013-11-06_form10ka.htm' 
-    #file_path = 'Data/OTC/Aaipharma Inc/annual_report_2004-06-15_g87794e10vk.htm'
+    ###file_path = 'Data/OTC/Aaipharma Inc/annual_report_2004-06-15_g87794e10vk.htm'
     #file_path = 'Data/OTC/Avantair Inc/annual_report_2010-09-28_v197483_10k.htm'
     #file_path = 'Data/NASDAQ/American Airlines Group Inc/annual_report_2016-02-24_d78287d10k.htm'
     #file_path = 'Data/NASDAQ/American Airlines Group Inc/annual_report_2020-02-19_a10k123119.htm'
     #file_path = 'Data/OTC/Altisource Asset Management Corp/annual_report_2020-02-28_aamc10k12312019.htm'
-    #file_path = 'Data/NASDAQ/Atlantic American Corp/annual_report_2010-03-26_g22608e10vk.htm'
+    file_path = 'Data/NASDAQ/Atlantic American Corp/annual_report_2010-03-26_g22608e10vk.htm'
     #file_path = 'Data/NYSE/Aarons Inc/annual_report_2014-02-24_a10k4q2013.htm'
-    file_path = 'Data/NASDAQ/Apple Inc/annual_report_2016-10-26_a201610-k9242016.htm'
+    #file_path = 'Data/NASDAQ/Apple Inc/annual_report_2016-10-26_a201610-k9242016.htm'
     raw_text_item_1 = extract_item_1_business(file_path)
     object_list_item_1 = generate_header_content(raw_text_item_1)
     overview, business_review =  extract_overview_and_business_review(object_list_item_1)
+    json_object = {}
+    
     print("&"*15)
     print("Overview")
+    overview = fine_tune_paragraph(overview)
+    json_object["overview"] = overview
     print(overview)
     print("*"*10)
     print("Business Review")
+    business_review = fine_tune_paragraph(business_review)
+    json_object["business_review"] = business_review
     print(business_review)
     print('*'*10)
     
@@ -345,11 +389,21 @@ def main():
     object_list_item_7 = generate_header_content(raw_text_item_7)
     performance = performance_extraction(object_list_item_7)
     print("Performace:")
+    performance = fine_tune_paragraph(performance)
+    json_object["performance"] = performance
     print(performance)
     print('*'*10)
     print("Prospect: ")
-    prospect_paragraph,max_ratio = prospects_extraction(object_list_item_7)
-    prospect_paragraph,max_ratio = prospects_extraction(object_list_item_1)
+    
+    prospect_paragraph = ""
+    for item in prospects_extraction(object_list_item_7):
+        print(item)
+        prospect_paragraph = prospect_paragraph+item+"\n"
+        
+    prospect_paragraph = fine_tune_paragraph(prospect_paragraph)
+    json_object["prospects"] = prospect_paragraph
+    with open('extration.json', 'w', encoding='utf-8') as f:
+        json.dump(json_object, f, ensure_ascii=False, indent=4)    
 
     
 
