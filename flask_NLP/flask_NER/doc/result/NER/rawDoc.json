@@ -1,0 +1,20 @@
+[
+  {
+    "content": "ts of Hang",
+    "path": "1:1",
+    "offset": 53,
+    "length": 11,
+    "timestamp": "1634623808789",
+    "tag": "building",
+    "color": "#1bbb53"
+  },
+  {
+    "content": "t Donald Trump had",
+    "path": "1:3",
+    "offset": 27,
+    "length": 18,
+    "timestamp": "1634623846296",
+    "tag": "people",
+    "color": "#f979fb"
+  }
+]

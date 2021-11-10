@@ -1,0 +1,924 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<ScappleDocument ID="D70F7E31-1A99-4588-A836-6E8E18171B2F" Version="1.1">
+   <Notes>
+      <Note Width="60.022" FontSize="12" ID="0" Position="3543.4,1445.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>annotate</String>
+         <ConnectedNoteIDs>1</ConnectedNoteIDs>
+      </Note>
+      <Note Width="34.1553" FontSize="12" ID="1" Position="3514.7,1517.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>icon</String>
+         <ConnectedNoteIDs>0, 2</ConnectedNoteIDs>
+      </Note>
+      <Note Width="907.333" FontSize="12" ID="2" Position="2546.0,1608.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <TextColor>0.0 0.0 0.0</TextColor>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Italic="Yes">15,5</FormatRange>
+            <FormatRange Italic="Yes">30,5</FormatRange>
+            <FormatRange Italic="Yes">55,2</FormatRange>
+            <FormatRange Italic="Yes">69,4</FormatRange>
+            <FormatRange Italic="Yes">81,5</FormatRange>
+            <FormatRange Italic="Yes">141,5</FormatRange>
+            <FormatRange Italic="Yes">156,5</FormatRange>
+            <FormatRange Italic="Yes">179,2</FormatRange>
+            <FormatRange Italic="Yes">197,4</FormatRange>
+            <FormatRange Italic="Yes">209,5</FormatRange>
+            <FormatRange Italic="Yes">266,5</FormatRange>
+            <FormatRange Italic="Yes">281,5</FormatRange>
+            <FormatRange Italic="Yes">304,2</FormatRange>
+            <FormatRange Italic="Yes">317,4</FormatRange>
+            <FormatRange Italic="Yes">329,5</FormatRange>
+            <FormatRange Italic="Yes">387,5</FormatRange>
+            <FormatRange Italic="Yes">402,5</FormatRange>
+            <FormatRange Italic="Yes">432,2</FormatRange>
+            <FormatRange Italic="Yes">447,4</FormatRange>
+            <FormatRange Italic="Yes">459,5</FormatRange>
+            <FormatRange Italic="Yes">528,5</FormatRange>
+            <FormatRange Italic="Yes">543,5</FormatRange>
+            <FormatRange Italic="Yes">558,2</FormatRange>
+            <FormatRange Italic="Yes">576,4</FormatRange>
+            <FormatRange Italic="Yes">588,5</FormatRange>
+            <FormatRange Italic="Yes">638,5</FormatRange>
+            <FormatRange Italic="Yes">653,5</FormatRange>
+            <FormatRange Italic="Yes">668,2</FormatRange>
+            <FormatRange Italic="Yes">687,4</FormatRange>
+            <FormatRange Italic="Yes">699,5</FormatRange>
+            <FormatRange Italic="Yes">749,5</FormatRange>
+            <FormatRange Italic="Yes">764,5</FormatRange>
+            <FormatRange Italic="Yes">779,2</FormatRange>
+            <FormatRange Italic="Yes">798,4</FormatRange>
+            <FormatRange Italic="Yes">810,5</FormatRange>
+         </Formatting>
+         <String>            &lt;a class="action" title="Label from model" id="hl_learn" href="#">&lt;i class="fa fa-magic">Label from model&lt;/i>&lt;/a>
+            &lt;a class="action" title="Create New Tag" id="hl_createtag" href="#">&lt;i class="fa fa-tags">Create New Tag&lt;/i>&lt;/a>
+            &lt;a class="action" title="Undo highlight" id="hl_undo" href="#">&lt;i class="fa fa-undo">Undo highlight&lt;/i>&lt;/a> 
+            &lt;a class="action" title="Remove all highlights" id="hl_remove" href="#">&lt;i class="fa fa-eye-slash">Remove all highlights&lt;/i>&lt;/a>
+            &lt;a class="action" title="Accept" id="hl_serialize" href="#">&lt;i class="fa fa-check">Accept&lt;/i>&lt;/a>
+            &lt;a class="action" title="Reject" id="hl_serialize2" href="#">&lt;i class="fa fa-close">Reject&lt;/i>&lt;/a>
+            &lt;a class="action" title="Ignore" id="hl_serialize3" href="#">&lt;i class="fa fa-minus-circle">Ignore&lt;/i>&lt;/a></String>
+         <ConnectedNoteIDs>1, 3, 5, 20, 26, 28</ConnectedNoteIDs>
+      </Note>
+      <Note Width="144.092" FontSize="12" ID="3" Position="2247.9,2301.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>modal: create new tag</String>
+         <ConnectedNoteIDs>2, 4</ConnectedNoteIDs>
+      </Note>
+      <Note Width="532.667" FontSize="12" ID="4" Position="1603.5,2493.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Italic="Yes">13,2</FormatRange>
+            <FormatRange Italic="Yes">35,5</FormatRange>
+            <FormatRange Italic="Yes">49,5</FormatRange>
+            <FormatRange Italic="Yes">88,5</FormatRange>
+            <FormatRange Italic="Yes">128,5</FormatRange>
+            <FormatRange Italic="Yes">170,5</FormatRange>
+            <FormatRange Italic="Yes">269,5</FormatRange>
+            <FormatRange Italic="Yes">309,6</FormatRange>
+            <FormatRange Italic="Yes">409,2</FormatRange>
+            <FormatRange Italic="Yes">422,4</FormatRange>
+            <FormatRange Italic="Yes">434,9</FormatRange>
+            <FormatRange Italic="Yes">449,5</FormatRange>
+            <FormatRange Italic="Yes">606,2</FormatRange>
+            <FormatRange Italic="Yes">620,4</FormatRange>
+            <FormatRange Italic="Yes">633,5</FormatRange>
+            <FormatRange Italic="Yes">700,2</FormatRange>
+            <FormatRange Italic="Yes">712,5</FormatRange>
+            <FormatRange Italic="Yes">731,4</FormatRange>
+            <FormatRange Italic="Yes">745,5</FormatRange>
+         </Formatting>
+         <String>        &lt;div id="div_dl_createtag" class="modal" style="display: none;">
+          &lt;div class="modal-content">
+            &lt;div class="modal-header">
+              &lt;span class="close">&amp;times;&lt;/span>
+              &lt;h4>Create Tag&lt;/h4>
+            &lt;/div>
+            &lt;div class="modal-body">
+              &lt;form method="post">
+                &lt;br>
+                &lt;label>Tag Name:&lt;/label>
+                &lt;input id="hl_text" type="text" maxlength="32" style="width: 65%; border-width: 1px;" />&lt;br> &lt;!--background-color: #000000; color: #ffffff;-->
+                &lt;label>Color:&lt;/label>
+                &lt;input id="hl_color" type="color" value="#ff8080" />&lt;br>
+                &lt;br>
+                &lt;input id="hl_btn" class="my_formbtn" type="submit" value="ADD">
+                &lt;br>
+              &lt;/form>
+            &lt;/div>
+          &lt;/div>
+        &lt;/div></String>
+         <ConnectedNoteIDs>3</ConnectedNoteIDs>
+      </Note>
+      <Note Width="81.1646" FontSize="12" ID="5" Position="2412.1,2440.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>display tags</String>
+         <ConnectedNoteIDs>2, 6</ConnectedNoteIDs>
+      </Note>
+      <Note Width="495.407" FontSize="12" ID="6" Position="2204.7,2569.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Italic="Yes">13,5</FormatRange>
+            <FormatRange Italic="Yes">60,2</FormatRange>
+            <FormatRange Italic="Yes">78,5</FormatRange>
+            <FormatRange Italic="Yes">137,5</FormatRange>
+         </Formatting>
+         <String>        &lt;div class="dropdown-display-label">
+          &lt;div id="dl_colorpick" class="color-picker dropdown-chose-list">
+            &lt;div class="hl_dropdown-menu">
+            &lt;/div>
+          &lt;/div>
+        &lt;/div></String>
+         <ConnectedNoteIDs>5</ConnectedNoteIDs>
+      </Note>
+      <Note Width="48.8159" FontSize="12" ID="7" Position="2936.0,2434.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>update</String>
+         <ConnectedNoteIDs>8</ConnectedNoteIDs>
+      </Note>
+      <Note Width="369.778" FontSize="12" ID="8" Position="2799.7,2618.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Italic="Yes">19,4</FormatRange>
+            <FormatRange Italic="Yes">25,4</FormatRange>
+            <FormatRange Italic="Yes">192,4</FormatRange>
+            <FormatRange Italic="Yes">216,4</FormatRange>
+            <FormatRange Italic="Yes">230,4</FormatRange>
+            <FormatRange Italic="Yes">262,1</FormatRange>
+            <FormatRange Italic="Yes">320,1</FormatRange>
+         </Formatting>
+         <String>    function func1(arg1, arg2) {
+        $.post('/update', {
+            type: 'post',
+            url: '/update',
+            contentType: 'application/json;charset=UTF-8',
+            data: JSON.stringify({'arg1': arg1, 'arg2': arg2})
+        }).done(function(q) {
+
+
+            console.log("get data from server = ", q);
+
+
+        }).fail(function() {
+
+
+            //error handling
+
+
+        });
+    }</String>
+         <ConnectedNoteIDs>7, 9</ConnectedNoteIDs>
+      </Note>
+      <Note Width="317.63" FontSize="12" ID="9" Position="2728.5,3130.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Italic="Yes">22,7</FormatRange>
+         </Formatting>
+         <String>@app.route("/update", methods=['POST'])
+def update():
+    if request.method == 'POST':
+        data = eval(request.form["data"])
+
+
+        print("get client data =",data)
+
+
+    return jsonify({"status": True, "data":data })</String>
+         <ConnectedNoteIDs>8</ConnectedNoteIDs>
+      </Note>
+      <Note Width="484.741" FontSize="12" ID="10" Position="3321.1,2504.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Italic="Yes">28,4</FormatRange>
+            <FormatRange Italic="Yes">62,4</FormatRange>
+            <FormatRange Italic="Yes">257,4</FormatRange>
+            <FormatRange Italic="Yes">446,4</FormatRange>
+            <FormatRange Italic="Yes">495,4</FormatRange>
+            <FormatRange Italic="Yes">525,1</FormatRange>
+            <FormatRange Italic="Yes">578,1</FormatRange>
+            <FormatRange Italic="Yes">649,1</FormatRange>
+            <FormatRange Italic="Yes">679,1</FormatRange>
+         </Formatting>
+         <String>    function dl_loaddataset(file){
+      $("#dl_dataset").val(file);          
+      var task = $("#dl_task").children("option:selected").val();
+      var fpath = $("#dl_databatch").children("option:selected").val();
+      var cur_path = "/data/"+fpath+"/"+file;
+      $.post('/dl_loadcontent', {
+        type: 'post',
+        url: '/dl_loadcontent',
+        contentType: 'application/json;charset=UTF-8',
+        dataType: 'json',
+        data: JSON.stringify({"task":task,"fpath":fpath,"file":file})
+      }).done(function(q) {
+        $("#loading-image6").hide();
+        if(q.status){
+          document.getElementById("dl_sandbox").innerHTML = q.data;
+          hl_loadfrom(q.res);
+        }
+      }).fail(function() {
+        console.log("Fail to load data ...");
+        $("#loading-image6").hide();
+      });
+    }</String>
+         <ConnectedNoteIDs>11</ConnectedNoteIDs>
+      </Note>
+      <Note Width="77.2705" FontSize="12" ID="11" Position="3366.2,2408.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>loaddataset</String>
+         <ConnectedNoteIDs>10</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="12" Position="3913.7,2496.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>choose task: NER or paragraph</String>
+         <ConnectedNoteIDs>13</ConnectedNoteIDs>
+      </Note>
+      <Note Width="622.026" FontSize="12" ID="13" Position="3914.9,2614.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Italic="Yes">40,1</FormatRange>
+            <FormatRange Italic="Yes">62,4</FormatRange>
+            <FormatRange Italic="Yes">323,4</FormatRange>
+            <FormatRange Italic="Yes">365,1</FormatRange>
+            <FormatRange Italic="Yes">418,1</FormatRange>
+            <FormatRange Italic="Yes">456,1</FormatRange>
+            <FormatRange Italic="Yes">616,1</FormatRange>
+            <FormatRange Italic="Yes">693,1</FormatRange>
+            <FormatRange Italic="Yes">710,1</FormatRange>
+         </Formatting>
+         <String>    $('#dl_task').on('change', function(e) {
+      var task = this.value;
+      $("#dl_highlight").hide();
+      $("#dl_task2").hide();
+      $.post('/get_labeldataset', {
+        type: 'post',
+        url: '/get_labeldataset',
+        contentType: 'application/json;charset=UTF-8',
+        dataType: 'json',
+        data: JSON.stringify({})
+      }).done(function(q) {
+        $("#loading-image6").hide();
+        if(q.status){
+          window.dl_meta = q.data;
+          $('#dl_databatch').empty();
+          $('#dl_databatch').append('&lt;option value="" disabled selected>---&lt;/option>');
+          for (var i=0; i&lt;q.data.length; ++i){
+            $('#dl_databatch').append('&lt;option value="'+q.data[i].f+'">'+q.data[i].f+'&lt;/option>');
+          }
+        }
+      }).fail(function() {
+        console.log("Fail to load data ...");
+        $("#loading-image6").hide();
+      });
+
+
+      switch(task){
+        case "name_entities":
+          $("#dl_highlight").show();
+          break;
+        case "text_classify":
+          $("#dl_task2").show();
+          break;
+        default:
+          break;
+      }
+    });</String>
+         <ConnectedNoteIDs>12</ConnectedNoteIDs>
+      </Note>
+      <Note Width="91.4917" FontSize="12" ID="14" Position="4585.7,2443.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>databatch ???</String>
+         <ConnectedNoteIDs>15, 18</ConnectedNoteIDs>
+      </Note>
+      <Note Width="1721.11" FontSize="12" ID="15" Position="4638.2,2574.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Italic="Yes">45,1</FormatRange>
+            <FormatRange Italic="Yes">72,4</FormatRange>
+            <FormatRange Italic="Yes">598,4</FormatRange>
+            <FormatRange Italic="Yes">673,1</FormatRange>
+            <FormatRange Italic="Yes">734,1</FormatRange>
+            <FormatRange Italic="Yes">813,1</FormatRange>
+            <FormatRange Italic="Yes">934,1</FormatRange>
+            <FormatRange Italic="Yes">976,1</FormatRange>
+            <FormatRange Italic="Yes">1137,1</FormatRange>
+            <FormatRange Italic="Yes">1258,1</FormatRange>
+            <FormatRange Italic="Yes">1300,1</FormatRange>
+            <FormatRange Italic="Yes">1461,1</FormatRange>
+            <FormatRange Italic="Yes">1582,1</FormatRange>
+            <FormatRange Italic="Yes">1624,1</FormatRange>
+         </Formatting>
+         <String>    $('#dl_databatch').on('change', function(e) {
+      var databatch = this.value;
+      var task = $("#dl_task").children("option:selected").val();
+      $('#dl_dataset').empty();
+      $('#dl_dataset').append('&lt;option value="" disabled selected>---&lt;/option>');
+      for(var i=0;i&lt;window.dl_meta.length;i++){
+        if(databatch==window.dl_meta[i].f){
+          // get batch summary
+          $.post('/get_batchsummary', {
+            type: 'post',
+            url: '/get_batchsummary',
+            contentType: 'application/json;charset=UTF-8',
+            dataType: 'json',
+            data: JSON.stringify({"task":task,"batch":databatch})
+          }).done(function(q) {
+            $("#loading-image6").hide();
+            if(q.status){
+              $('#dl_history').empty();
+              for(var j=0;j&lt;q.data.accept.length;j++){
+                $('#dl_history').append('&lt;div class="c01104 c01105" onclick=dl_loaddataset("'+q.data.accept[j]+'")>&lt;div class="c0187">'+q.data.accept[j]+'&lt;/div>&lt;span class="c0186 c0183">&lt;i class="fa fa-check" style="color:#90EE90;">&lt;/i>&lt;/span>&lt;/div>');
+              }
+              for(var j=0;j&lt;q.data.reject.length;j++){
+                $('#dl_history').append('&lt;div class="c01104 c01105" onclick=dl_loaddataset("'+q.data.reject[j]+'")>&lt;div class="c0187">'+q.data.reject[j]+'&lt;/div>&lt;span class="c0186 c0183">&lt;i class="fa fa-close" style="color:#ff8280;">&lt;/i>&lt;/span>&lt;/div>');
+              }
+              for(var j=0;j&lt;q.data.ignore.length;j++){
+                $('#dl_history').append('&lt;div class="c01104 c01105" onclick=dl_loaddataset("'+q.data.ignore[j]+'")>&lt;div class="c0187">'+q.data.ignore[j]+'&lt;/div>&lt;span class="c0186 c0183">&lt;i class="fa fa-minus-circle" style="color:#fff86b;">&lt;/i>&lt;/span>&lt;/div>');
+              }
+            }
+          }).fail(function() {
+            console.log("Fail to load data ...");
+            $("#loading-image6").hide();
+          });
+          // update count
+          var n1 = window.dl_meta[i].meta["accept"].length, n2 = window.dl_meta[i].meta["reject"].length, n3 = window.dl_meta[i].meta["ignore"].length;
+          dl_cnt_update("dl_hl_total", window.dl_meta[i].n);
+          dl_cnt_update("dl_hl_accept", n1);
+          dl_cnt_update("dl_hl_reject", n2);
+          dl_cnt_update("dl_hl_ignore", n3);
+          n = 100*(n1+n2+n3)/window.dl_meta[i].n;
+          document.getElementById("dl_hl_progress").innerHTML = '&lt;progress class="c0195" max="100" value="'+n+'">&lt;/progress>&lt;div class="c0196">'+n+'%&lt;/div>';
+          for (var j=0; j&lt;window.dl_meta[i].n; j++){
+            $('#dl_dataset').append('&lt;option value="'+window.dl_meta[i].c[j]+'">'+window.dl_meta[i].c[j]+'&lt;/option>');
+          }
+        }
+      }
+    });</String>
+         <ConnectedNoteIDs>14</ConnectedNoteIDs>
+      </Note>
+      <Note Width="101.855" FontSize="12" ID="16" Position="2055.3,3510.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>helper function</String>
+         <ConnectedNoteIDs>17, 22-25</ConnectedNoteIDs>
+      </Note>
+      <Note Width="604.246" FontSize="12" ID="17" Position="2215.4,3666.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Italic="Yes">27,1</FormatRange>
+            <FormatRange Italic="Yes">29,1</FormatRange>
+            <FormatRange Italic="Yes">84,1</FormatRange>
+            <FormatRange Italic="Yes">167,1</FormatRange>
+            <FormatRange Italic="Yes">208,1</FormatRange>
+         </Formatting>
+         <String>    function dl_cnt_update(e,n){
+      try{
+        var s = document.getElementById(e).innerHTML;
+        var p = s.indexOf("&lt;/div>");
+        document.getElementById(e).innerHTML = s.substring(0,p)+"&lt;/div>"+n.toString();
+      }
+      catch{}
+    }</String>
+         <ConnectedNoteIDs>16</ConnectedNoteIDs>
+      </Note>
+      <Note Width="471.632" FontSize="12" ID="18" Position="3919.1,1949.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Italic="Yes">43,1</FormatRange>
+            <FormatRange Italic="Yes">65,4</FormatRange>
+            <FormatRange Italic="Yes">444,4</FormatRange>
+            <FormatRange Italic="Yes">523,1</FormatRange>
+            <FormatRange Italic="Yes">576,1</FormatRange>
+            <FormatRange Italic="Yes">647,1</FormatRange>
+            <FormatRange Italic="Yes">706,1</FormatRange>
+         </Formatting>
+         <String>    $('#dl_dataset').on('change', function(e) {
+      var file = this.value;
+      var task = $("#dl_task").children("option:selected").val();
+      var fpath = $("#dl_databatch").children("option:selected").val();
+      var cur_path = "/data/"+fpath+"/"+file;
+      $.post('/dl_loadcontent', {
+        type: 'post',
+        url: '/dl_loadcontent',
+        contentType: 'application/json;charset=UTF-8',
+        dataType: 'json',
+        data: JSON.stringify({"task":task,"fpath":fpath,"file":file})
+      }).done(function(q) {
+        $("#loading-image6").hide();
+        if(q.status){
+          document.getElementById("dl_sandbox").innerHTML = q.data; //.split("\n").join('&lt;br>');
+          hl_loadfrom(q.res);
+        }
+      }).fail(function() {
+        console.log("Fail to load data ...");
+        $("#loading-image6").hide();
+      });
+    });</String>
+         <ConnectedNoteIDs>14</ConnectedNoteIDs>
+      </Note>
+      <Note Width="462.685" FontSize="12" ID="19" Position="1401.4,1451.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Italic="Yes">34,1</FormatRange>
+            <FormatRange Italic="Yes">46,1</FormatRange>
+            <FormatRange Italic="Yes">542,4</FormatRange>
+            <FormatRange Italic="Yes">625,1</FormatRange>
+            <FormatRange Italic="Yes">719,1</FormatRange>
+            <FormatRange Italic="Yes">899,1</FormatRange>
+         </Formatting>
+         <String>    $('#hl_learn').click(function(e){
+        e.preventDefault();
+        var task = $("#dl_task").children("option:selected").val();
+        var fpath = $("#dl_databatch").children("option:selected").val();
+        var file = $("#dl_dataset").children("option:selected").val();
+        $('#dl_highlight').hide();
+        $("#loading-image6").show();
+        $.post('/dl_learndata', {
+          type: 'post',
+          url: '/dl_learndata',
+          contentType: 'application/json;charset=UTF-8',
+          dataType: 'json',
+          data: JSON.stringify({"task":task, "fpath":fpath, "file":file})
+        }).done(function(q) {
+          $("#loading-image6").hide();
+          $('#dl_highlight').show();
+          if(q.status){
+            /*d = [{"timestamp":"1624010980537", "content":'amet', "path":"1", "offset":22, "length":4, "color":"#ffff7b", "tag":"label1"}, ];*/
+            hl_loadfrom(q.data);
+          }
+        }).fail(function() {
+          console.log("Fail to load data ...");
+          $('#dl_highlight').show();
+          $("#loading-image6").hide();
+        });
+    });</String>
+         <ConnectedNoteIDs>20-21</ConnectedNoteIDs>
+      </Note>
+      <Note Width="114.355" FontSize="12" ID="20" Position="2290.7,1701.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>label from model</String>
+         <ConnectedNoteIDs>2, 19</ConnectedNoteIDs>
+      </Note>
+      <Note Width="788.468" FontSize="12" ID="21" Position="23.4,1875.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Italic="Yes">25,1</FormatRange>
+            <FormatRange Italic="Yes">239,1</FormatRange>
+            <FormatRange Italic="Yes">251,1</FormatRange>
+            <FormatRange Italic="Yes">254,1</FormatRange>
+            <FormatRange Italic="Yes">320,1</FormatRange>
+            <FormatRange Italic="Yes">360,1</FormatRange>
+            <FormatRange Italic="Yes">403,1</FormatRange>
+            <FormatRange Italic="Yes">449,1</FormatRange>
+            <FormatRange Italic="Yes">460,1</FormatRange>
+            <FormatRange Italic="Yes">468,1</FormatRange>
+            <FormatRange Italic="Yes">478,1</FormatRange>
+            <FormatRange Italic="Yes">532,1</FormatRange>
+            <FormatRange Italic="Yes">547,1</FormatRange>
+            <FormatRange Italic="Yes">583,1</FormatRange>
+            <FormatRange Italic="Yes">623,1</FormatRange>
+            <FormatRange Italic="Yes">633,1</FormatRange>
+            <FormatRange Italic="Yes">696,1</FormatRange>
+            <FormatRange Italic="Yes">737,1</FormatRange>
+            <FormatRange Italic="Yes">918,1</FormatRange>
+            <FormatRange Italic="Yes">1026,1</FormatRange>
+            <FormatRange Italic="Yes">1143,1</FormatRange>
+            <FormatRange Italic="Yes">1207,1</FormatRange>
+            <FormatRange Italic="Yes">1244,1</FormatRange>
+            <FormatRange Italic="Yes">1527,1</FormatRange>
+            <FormatRange Italic="Yes">1656,1</FormatRange>
+            <FormatRange Italic="Yes">2005,4</FormatRange>
+         </Formatting>
+         <String>    function hl_loadfrom(d){
+      //var d = [['&lt;span class="highlighted" data-timestamp="1624010980537" style="background-color: rgb(255, 255, 123);" data-highlighted="true">&lt;/span>', 'gue i', '3:3', 14, 5]];
+      arr = [];
+      $.each(d, function(k, v){
+        var s = ['&lt;span class="highlighted" data-timestamp="'+v.timestamp+'" onclick="hl_removeitem('+v.timestamp+')" style="background-color: '+v.color+';" data-highlighted="true">&lt;/span>', v.content, v.path, v.offset, v.length];
+        arr.push(s);
+        window.maptag[v.timestamp] = v.tag;
+        window.selectedtag = v.tag;
+        if(!window.tags.includes(v.tag) &amp;&amp; v.tag){
+          window.tag_id+=1;
+          window.tags.push(v.tag);
+          var fc = getBrightness(v.color) ? "#eeeeee" : "#111111";
+          var div1 = $('&lt;i class="del" data-id="'+window.tag_id+'" style="color:'+fc+'">');
+          var div = $('&lt;span style="background-color:'+v.color+'" class="dropdown-selected">').append(
+              $('&lt;p style="margin:0px;color:'+fc+'">').text(v.tag),
+              div1
+          ).appendTo($('.color-picker'));
+          div.click(function(){
+            if (v.color !== epicker.color) {
+              window.selectedtag = v.tag;
+              epicker.color = v.color;
+              if (epicker.selected) epicker.selected.removeClass("selected");
+              epicker.selected = div;
+              epicker.selected.addClass("selected");
+              if (typeof epicker.callback==='function') {
+                epicker.callback.call(epicker, v.color);
+              }
+            }
+          });
+          div1.click(function(){
+            var idx = window.tags.indexOf(v.tag);
+            if(idx>-1) window.tags.splice(idx, 1);
+            div.remove();
+          });
+          div.trigger('click');
+          //reset margin
+          var h = document.getElementById("dl_colorpick").offsetHeight;
+          document.getElementById("dl_sandbox").style.marginTop = (h).toString()+"px";
+        }
+      });
+      var s = JSON.stringify(arr);
+      window.hltr.removeHighlights();
+      window.hltr.deserializeHighlights(s);
+    }</String>
+         <ConnectedNoteIDs>19</ConnectedNoteIDs>
+      </Note>
+      <Note Width="370.254" FontSize="12" ID="22" Position="1406.1,3602.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Italic="Yes">27,1</FormatRange>
+            <FormatRange Italic="Yes">43,1</FormatRange>
+            <FormatRange Italic="Yes">47,1</FormatRange>
+            <FormatRange Italic="Yes">90,1</FormatRange>
+         </Formatting>
+         <String>    function getBrightness(c){
+        var c = c.substring(1);
+        var rgb = parseInt(c, 16);
+        var r = (rgb >> 16) &amp; 0xff;
+        var g = (rgb >>  8) &amp; 0xff;
+        var b = (rgb >>  0) &amp; 0xff; 
+        var luma = 0.2126 * r + 0.7152 * g + 0.0722 * b;
+        if (luma &lt; 80) return true;
+        return false;
+    }</String>
+         <ConnectedNoteIDs>16</ConnectedNoteIDs>
+      </Note>
+      <Note Width="305.516" FontSize="12" ID="23" Position="1543.5,3856.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Italic="Yes">146,4</FormatRange>
+            <FormatRange Italic="Yes">157,4</FormatRange>
+         </Formatting>
+         <String>    function getRandomColor() {
+      var letters = '0123456789ABCDEF';
+      var color = '#';
+      for (var i = 0; i &lt; 6; i++) color += letters[Math.floor(Math.random() * 16)];
+      return color;
+    }</String>
+         <ConnectedNoteIDs>16</ConnectedNoteIDs>
+      </Note>
+      <Note Width="274.851" FontSize="12" ID="24" Position="1671.8,4057.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Italic="Yes">22,3</FormatRange>
+            <FormatRange Italic="Yes">46,6</FormatRange>
+            <FormatRange Italic="Yes">53,3</FormatRange>
+         </Formatting>
+         <String>    function rgbToHex(rgb) { 
+      var hex = Number(rgb).toString(16);
+      if (hex.length&lt;2) hex="0"+hex;
+      return hex;
+    };</String>
+         <ConnectedNoteIDs>16</ConnectedNoteIDs>
+      </Note>
+      <Note Width="456.57" FontSize="12" ID="25" Position="1814.9,4200.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Italic="Yes">26,1</FormatRange>
+            <FormatRange Italic="Yes">63,1</FormatRange>
+            <FormatRange Italic="Yes">84,1</FormatRange>
+            <FormatRange Italic="Yes">118,1</FormatRange>
+         </Formatting>
+         <String>    function fullColorHex(s) {
+        try{
+          var s1 = s.indexOf("("), s2 = s.indexOf(")");
+          var a = s.substring(s1+1,s2).split(",");
+          return "#"+rgbToHex(a[0])+rgbToHex(a[1])+rgbToHex(a[2]);        
+        }
+        catch{return "#000000"}
+    };</String>
+         <ConnectedNoteIDs>16</ConnectedNoteIDs>
+      </Note>
+      <Note Width="38.4766" FontSize="12" ID="26" Position="2557.6,1458.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>undo</String>
+         <ConnectedNoteIDs>2, 27</ConnectedNoteIDs>
+      </Note>
+      <Note Width="380.799" FontSize="12" ID="27" Position="1690.0,946.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Italic="Yes">63,3</FormatRange>
+            <FormatRange Italic="Yes">85,3</FormatRange>
+            <FormatRange Italic="Yes">124,3</FormatRange>
+            <FormatRange Italic="Yes">139,3</FormatRange>
+            <FormatRange Italic="Yes">167,3</FormatRange>
+            <FormatRange Italic="Yes">325,6</FormatRange>
+            <FormatRange Italic="Yes">453,1</FormatRange>
+            <FormatRange Italic="Yes">477,1</FormatRange>
+            <FormatRange Italic="Yes">563,1</FormatRange>
+         </Formatting>
+         <String>    $("#hl_undo").click(function(){
+        function getMinMax(arr) {
+          if (!arr) return null;
+          var minV = arr[0], maxV = arr[0];
+          for (a of arr) {
+            if (a &lt; minV) minV = a;
+            if (a > maxV) maxV = a;
+          }
+          return [maxV, minV];
+        }
+        var t = getMinMax(Object.keys(window.maptag))[0];
+        if(t){
+            var h = window.hltr.getHighlights();
+            h.forEach(function (e) {
+                if(e.getAttribute("data-timestamp")==t){
+                    window.hltr.removeHighlight(e);
+                    return;
+                }
+            });
+            try{delete window.maptag[t];}
+            catch{}
+        }
+    });</String>
+         <ConnectedNoteIDs>26</ConnectedNoteIDs>
+      </Note>
+      <Note Width="97.0947" FontSize="12" ID="28" Position="2809.3,1301.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>create new tag</String>
+         <ConnectedNoteIDs>2, 29-30</ConnectedNoteIDs>
+      </Note>
+      <Note Width="653.79" FontSize="12" ID="29" Position="1765.8,23.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Italic="Yes">32,1</FormatRange>
+            <FormatRange Italic="Yes">44,1</FormatRange>
+         </Formatting>
+         <String>    $("#hl_btn").click(function(e){
+        e.preventDefault();
+        var n = $("#hl_text").val();
+        var c = $("#hl_color").val();
+        var fc = getBrightness(c) ? "#eeeeee" : "#111111";
+        //console.log(n, c);
+        modal_dl_ct.style.display = "none";
+        $("#hl_text").val("");
+        $("#hl_color").val(getRandomColor());
+
+
+        if(n=="") alert("Tag value cannot be empty!");
+        else if(window.tags.includes(n)) alert("Duplicated tag value!"); 
+        else{
+            window.tags.push(n);
+            window.tag_id+=1;
+            var div1 = $('&lt;i class="del" data-id="'+window.tag_id+'" style="color:'+fc+'">');
+            var div = $('&lt;span style="background-color:'+c+'" class="dropdown-selected">').append(
+                $('&lt;p style="margin:0px;color:'+fc+'">').text(n),
+                div1
+            ).appendTo($('.color-picker'));
+            div.click(function(){
+                if (c !== epicker.color) {
+                    window.selectedtag = n;
+                    epicker.color = c;
+                    if (epicker.selected) epicker.selected.removeClass("selected");
+                    epicker.selected = div;
+                    epicker.selected.addClass("selected");
+                    if (typeof epicker.callback==='function') {
+                        epicker.callback.call(epicker, c);
+                    }
+                }
+            });
+            div1.click(function(){
+                //div1.attr("data-id");
+                var idx = window.tags.indexOf(n);
+                if(idx>-1) window.tags.splice(idx, 1);
+                div.remove();
+            });
+            div.trigger('click');
+            //reset margin
+            var h = document.getElementById("dl_colorpick").offsetHeight;
+            document.getElementById("dl_sandbox").style.marginTop = (h).toString()+"px";
+        }
+    });</String>
+         <ConnectedNoteIDs>28</ConnectedNoteIDs>
+      </Note>
+      <Note Width="405.407" FontSize="12" ID="30" Position="2552.3,518.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>    let dropdownBtn = document.querySelector('#hl_createtag');
+    dropdownBtn.addEventListener('click',()=>{
+       modal_dl_ct.style.display = (modal_dl_ct.style.display==="none") ? "block" : "none";
+    })</String>
+         <ConnectedNoteIDs>28</ConnectedNoteIDs>
+      </Note>
+      <Note Width="749.432" FontSize="12" ID="31" Position="3377.4,416.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Italic="Yes">138,2</FormatRange>
+            <FormatRange Italic="Yes">166,4</FormatRange>
+            <FormatRange Italic="Yes">285,5</FormatRange>
+            <FormatRange Italic="Yes">364,5</FormatRange>
+            <FormatRange Italic="Yes">438,5</FormatRange>
+            <FormatRange Italic="Yes">736,2</FormatRange>
+            <FormatRange Italic="Yes">846,5</FormatRange>
+            <FormatRange Italic="Yes">1066,2</FormatRange>
+            <FormatRange Italic="Yes">1151,5</FormatRange>
+            <FormatRange Italic="Yes">1218,5</FormatRange>
+            <FormatRange Italic="Yes">1521,5</FormatRange>
+            <FormatRange Italic="Yes">1653,8</FormatRange>
+            <FormatRange Italic="Yes">1677,4</FormatRange>
+            <FormatRange Italic="Yes">1693,8</FormatRange>
+         </Formatting>
+         <String>    var ColorPicker = (function () {
+        var COLORS = []; //'#FFFF7B', '#F44336', '#8BC34A', '#29B6F6'];
+        function ColorPicker(el) {
+            epicker = this;
+            epicker.color = COLORS[0];
+            epicker.selected = null;
+            COLORS.forEach(function (color) {
+                window.tag_id+=1;
+                if (epicker.color===color) {
+                    var div = $('&lt;span style="background-color:'+color+'" class="dropdown-selected selected">').append(
+                        $('&lt;p style="margin:0px;">').text("unknown"),
+                        $('&lt;i class="del" data-id="'+window.tag_id+'">')
+                    );
+                    epicker.selected = div;
+                    div.appendTo(el);
+                }
+                else{
+                    var div = $('&lt;span style="background-color:'+color+'" class="dropdown-selected">').append(
+                        $('&lt;p style="margin:0px;">').text("unknown"),
+                        $('&lt;i class="del" data-id="'+window.tag_id+'">')
+                    ).appendTo(el);
+                }
+                div.click(function(){
+                    if (color !== epicker.color) {
+                        epicker.color = color;
+                        if (epicker.selected) epicker.selected.removeClass("selected");
+                        epicker.selected = div;
+                        epicker.selected.addClass("selected");
+                        if (typeof epicker.callback==='function') epicker.callback.call(epicker, color);
+                    }
+                });
+            });
+        }
+        ColorPicker.prototype.onColorChange = function (callback) {
+            this.callback = callback;
+        };
+        return ColorPicker;
+    })();</String>
+      </Note>
+      <Note Width="79.0161" FontSize="12" ID="32" Position="4862.3,245.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>dl_sandbox</String>
+         <ConnectedNoteIDs>33</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="33" Position="5059.5,245.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>where to display the document</String>
+         <ConnectedNoteIDs>32</ConnectedNoteIDs>
+      </Note>
+   </Notes>
+   <BackgroundShapes/>
+   <NoteStyles>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Yellow Bubble" ID="25A9AF72-4CFA-4CFF-9BA6-512CA3636FF2" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.769436 0.762219 0.390143</BorderColor>
+         <FillColor>0.912963 0.894118 0.644541</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Brown Bubble" ID="C415879B-4F4C-4F75-9B82-D69FC832060F" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.269490 0.164034 0.186694</BorderColor>
+         <FillColor>0.934157 0.888319 0.785290</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Green Bubble" ID="946E9F46-055F-4401-AF65-F7F207837A3A" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.399100 0.583322 0.354864</BorderColor>
+         <FillColor>0.808835 0.872419 0.801343</FillColor>
+      </Style>
+      <Style AffectFontStyle="Yes" AffectAlignment="Yes" Name="Title Text" ID="30467638-7CFB-4C0A-A198-9E62CA509D34" AffectTextColor="No" AffectNoteBody="No" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <IsBold>Yes</IsBold>
+         <FontSize>12.0</FontSize>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Blue Bubble" ID="E17E75D7-6D98-43EE-8C2E-905C74A571D7" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.485893 0.568933 0.756207</BorderColor>
+         <FillColor>0.844068 0.869596 0.923064</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Red Text" ID="B3327D5B-AF29-4548-924C-5A5F85E882BB" AffectTextColor="Yes" AffectNoteBody="No" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <TextColor>1.0 0.0 0.0</TextColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Pink Bubble" ID="CDC27D7B-7BCC-4A86-A113-0573E874D9A9" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.690303 0.407263 0.550912</BorderColor>
+         <FillColor>0.898329 0.817472 0.865339</FillColor>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>1.0 0.988006 0.945006</BackgroundColor>
+      <DefaultFont>Times New Roman</DefaultFont>
+      <DefaultTextColor>0.0 0.0 0.0</DefaultTextColor>
+      <LeftToRight>Yes</LeftToRight>
+   </UISettings>
+   <PrintSettings VerticalPagination="Auto" HorizontalPagination="Clip" Orientation="Portrait" RightMargin="12.000000" BottomMargin="12.000000" HorizontallyCentered="Yes" ScaleFactor="1.000000" PagesAcross="1" PaperType="na-letter" PagesDown="1" TopMargin="12.000000" Collates="Yes" PaperSize="-1.000000,-1.000000" LeftMargin="12.000000" VerticallyCentered="Yes"/>
+</ScappleDocument>

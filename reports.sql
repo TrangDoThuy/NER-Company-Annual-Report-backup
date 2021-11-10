@@ -9,4 +9,7 @@ CREATE TABLE reports(
 	source_url text,
 	file_directory text	
 	);
-
+CREATE TABLE IF NOT EXISTS JSON_type (
+id integer PRIMARY KEY AUTOINCREMENT,
+type_name text NOT NULL
+);

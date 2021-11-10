@@ -354,7 +354,7 @@ def fine_tune_paragraph(paragraph):
 #%%
 def main():
     #file_path = 'Data/NYSE/Alcoa Inc/annual_report_2009-02-17_d10k.htm'
-    #file_path = 'Data/NYSE/Agilent Technologies Inc/annual_report_2010-12-20_a2201423z10-k.htm'
+    file_path = 'Data/NYSE/Agilent Technologies Inc/annual_report_2010-12-20_a2201423z10-k.htm'
     #file_path = 'Data/NASDAQ/Sinocoking Coal & Coke Chemical Industries Inc/annual_report_2013-09-30_v355550_10k.htm'
     #file_path = 'Data/OTCBB/Auburn Bancorp Inc/annual_report_2010-09-28_t68978_10k.htm'
     #file_path = 'Data/NaN/Asset Acceptance Capital Corp/annual_report_2010-03-12_d10k.htm'
@@ -364,7 +364,7 @@ def main():
     #file_path = 'Data/NASDAQ/American Airlines Group Inc/annual_report_2016-02-24_d78287d10k.htm'
     #file_path = 'Data/NASDAQ/American Airlines Group Inc/annual_report_2020-02-19_a10k123119.htm'
     #file_path = 'Data/OTC/Altisource Asset Management Corp/annual_report_2020-02-28_aamc10k12312019.htm'
-    file_path = 'Data/NASDAQ/Atlantic American Corp/annual_report_2010-03-26_g22608e10vk.htm'
+    #file_path = 'Data/NASDAQ/Atlantic American Corp/annual_report_2010-03-26_g22608e10vk.htm'
     #file_path = 'Data/NYSE/Aarons Inc/annual_report_2014-02-24_a10k4q2013.htm'
     #file_path = 'Data/NASDAQ/Apple Inc/annual_report_2016-10-26_a201610-k9242016.htm'
     raw_text_item_1 = extract_item_1_business(file_path)
