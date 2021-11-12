@@ -7,8 +7,11 @@ import re
 from boilerpy3 import extractors
 import spacy
 from random import random
+from random import seed
 nlp = spacy.load("en_core_web_sm")
+seed(1)
 import ahocorasick
+from bs4 import BeautifulSoup
 A = ahocorasick.Automaton()
 
 @app.route("/")
@@ -159,8 +162,8 @@ def get_latest_NER():
     return jsonify({"status": False })
 
 @app.route("/get_original_NER",methods=["POST"])
-
 def get_original_NER():
+   
     def condense_newline(text):
         print("at condense newline")
         return '\n'.join([p for p in re.split('\n|\r', text) if len(p) > 0])
@@ -179,14 +182,39 @@ def get_original_NER():
 
     if request.method == 'POST':
         data = eval(request.form['data'])
-        content_page = data['content_page']
-        file_dir = 'data_flask.json'
-        f = open(file_dir)
-        data = json.load(f)
+        content_page = data['content']
+        doc = nlp(content_page)
+
+        ent_color_dict = dict()
+        text_label_JSON = {}
+        text_label_JSON["res"]=[]
+
+        for ent in doc.ents:
+            if(ent.text.isnumeric()):
+                continue
+            if((ent.label_ =="CARDINAL") or (ent.label_ == "ORDINAL") or(ent.label_=="NORP")):
+                continue
+            # text_item = " "+ent.text+" "
+            text_item = ent.text
+            if(ent.label_ not in ent_color_dict):
+                ent_color_dict[ent.label_] = getRandomColor()
+            json_object = {}
+            json_object["content"] = text_item
+            json_object["tag"] = ent.label_
+            json_object["color"] = ent_color_dict[ent.label_]
+            text_label_JSON["res"].append(json_object)
+
+        data = text_label_JSON
         print(data)
         return jsonify({"status": True, "data":data })
     return jsonify({"status": False })   
     
+@app.route("/print_backend",methods=["POST"])
+def print_backend():
+    if request.method == 'POST':
+        data = eval(request.form['data'])
+        print(data)
+    return jsonify({"status": False })
 
 
 

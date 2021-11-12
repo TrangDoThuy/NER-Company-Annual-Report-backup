@@ -15,11 +15,8 @@ end_body_index = document.find("</body>",start_body_index )
 
 # add whole div for pagination
 if(document.find("pagination__list col-md-4 col-md-offset-4")== -1):
-    print("hihihi")
     whole_div = "<div id=\"pagination-1\" class=\"pagination__list col-md-4 col-md-offset-4\"><div class=\"pagination__item\">"
     document = document[:start_body_index]+ whole_div +document[start_body_index:end_body_index]+"</div></div></body>"
-else:
-    print("hahahh")
 break_page = "<hr style=\"page-break-after: always\" />"
 break_page_2 = "<hr style=\"page-break-after:always\"/>"
 replace_paginate = "</div><div class=\"pagination__item\">"
