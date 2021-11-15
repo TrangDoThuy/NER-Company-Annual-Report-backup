@@ -11,7 +11,6 @@
  */
 (function ($) {
   $.fn.paginate = function (options) {
-    console.log('used');
     var defaults = {
       pagination_class: 'pagination',
       items_per_page: 5,
@@ -50,7 +49,7 @@
         obj
           .find('.' + options.pagination_class)
           .append(
-            '<li class="prev"><button type="button" class="btn btn-light"><a href="#">' +
+            '<li class="prev"><button type="button" class="btn btn-light"><a>' +
               options.prev_text +
               '</a></button></li>'
           );
@@ -73,7 +72,7 @@
         obj
           .find('.' + options.pagination_class)
           .append(
-            '<li class="next"><button type="button" class="btn btn-light"><a href="#">' +
+            '<li class="next"><button type="button" class="btn btn-light"><a>' +
               options.next_text +
               '</a></button></li>'
           );

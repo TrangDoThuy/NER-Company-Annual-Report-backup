@@ -106,9 +106,6 @@ def annotate():
 def update():
     if request.method == 'POST':
         data = eval(request.form["data"])
-
-        print("get client data =",data)
-
     return jsonify({"status": True, "data":data })
 
 
@@ -116,9 +113,6 @@ def update():
 def confirm_extraction():
     if request.method == 'POST':
         data = eval(request.form["data"])
-
-        print("get client data =",data)
-
     return jsonify({"status": True, "data":data })
 
 @app.route("/confirm_NER",methods=['POST'])
@@ -129,7 +123,8 @@ def confirm():
         original_file = data["original_file"]
         report_id = data["report_id"]
         folder_dir = original_file.split(".")[0]
-        file_directory = folder_dir+"_latest_NER.json"
+        # file_directory = folder_dir+"_latest_NER.json"
+        file_directory = "flask_NER/annual_report_2020-12-18_a-20201031_latest_NER.json"
         json_object = json.dumps(data,indent=4)
         with open(file_directory,"w") as outfile:
             outfile.write(json_object)
@@ -142,8 +137,6 @@ def confirm():
             json_file = JSON_file.query.filter_by(original_fileID=report_id,category=2).first_or_404()
             json_file.file_directory = file_directory
         db.session.commit()
-        flash(f'Your annotation has been updated to the database','success')
-        print("get client data =",data)
     return jsonify({"status": True, "data":data })
 
 @app.route("/get_latest_NER",methods=["POST"])
@@ -165,11 +158,9 @@ def get_latest_NER():
 def get_original_NER():
    
     def condense_newline(text):
-        print("at condense newline")
         return '\n'.join([p for p in re.split('\n|\r', text) if len(p) > 0])
     def parse_html(html_path):
         # Text extraction with boilerpy3
-        print("at parse html")
         html_extractor = extractors.ArticleExtractor()
         return condense_newline(html_extractor.get_content_from_file(html_path))
     # create random color
@@ -205,7 +196,6 @@ def get_original_NER():
             text_label_JSON["res"].append(json_object)
 
         data = text_label_JSON
-        print(data)
         return jsonify({"status": True, "data":data })
     return jsonify({"status": False })   
     

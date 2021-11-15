@@ -1,0 +1,1384 @@
+{
+    "res": [
+        {
+            "content": "Washington",
+            "path": "10:1:11:1:0",
+            "offset": 0,
+            "length": 10,
+            "timestamp": "1636940808101",
+            "tag": "GPE",
+            "color": " #8f9748"
+        },
+        {
+            "content": "D.C.",
+            "path": "10:1:11:1:2",
+            "offset": 2,
+            "length": 4,
+            "timestamp": "1636940808196",
+            "tag": "GPE",
+            "color": " #8f9748"
+        },
+        {
+            "content": "THE SECURITIES\n            EXCHANGE ACT OF 1934",
+            "path": "10:1:23:3:1",
+            "offset": 55,
+            "length": 47,
+            "timestamp": "1636940807866",
+            "tag": "ORG",
+            "color": " #f0cdeb"
+        },
+        {
+            "content": "the fiscal year ended\n            ",
+            "path": "10:1:25:1:1",
+            "offset": 4,
+            "length": 34,
+            "timestamp": "1636940807815",
+            "tag": "DATE",
+            "color": " #c8860d"
+        },
+        {
+            "content": "THE\n            SECURITIES EXCHANGE ACT OF 1934",
+            "path": "10:1:29:3:1",
+            "offset": 53,
+            "length": 47,
+            "timestamp": "1636940807867",
+            "tag": "ORG",
+            "color": " #f0cdeb"
+        },
+        {
+            "content": "Registrant",
+            "path": "10:1:49:1:0",
+            "offset": 0,
+            "length": 10,
+            "timestamp": "1636940808110",
+            "tag": "ORG",
+            "color": " #f0cdeb"
+        },
+        {
+            "content": "Rule\u00a0",
+            "path": "10:1:61:1:1",
+            "offset": 100,
+            "length": 5,
+            "timestamp": "1636940808186",
+            "tag": "PERSON",
+            "color": " #899703"
+        },
+        {
+            "content": "the Securities Act",
+            "path": "10:1:61:1:3",
+            "offset": 7,
+            "length": 18,
+            "timestamp": "1636940807969",
+            "tag": "LAW",
+            "color": " #4da100"
+        },
+        {
+            "content": "the\n            Securities Exchange Act",
+            "path": "10:1:65:2:1",
+            "offset": 130,
+            "length": 39,
+            "timestamp": "1636940807872",
+            "tag": "ORG",
+            "color": " #f0cdeb"
+        },
+        {
+            "content": "12\u00a0months",
+            "path": "10:1:65:2:3",
+            "offset": 30,
+            "length": 9,
+            "timestamp": "1636940808112",
+            "tag": "DATE",
+            "color": " #c8860d"
+        },
+        {
+            "content": "the past 90\u00a0days",
+            "path": "10:1:65:2:5",
+            "offset": 178,
+            "length": 16,
+            "timestamp": "1636940807974",
+            "tag": "DATE",
+            "color": " #c8860d"
+        },
+        {
+            "content": "Interactive Data File",
+            "path": "10:1:67:2:1",
+            "offset": 92,
+            "length": 21,
+            "timestamp": "1636940807911",
+            "tag": "ORG",
+            "color": " #f0cdeb"
+        },
+        {
+            "content": "Rule\u00a0",
+            "path": "10:1:67:2:3",
+            "offset": 50,
+            "length": 5,
+            "timestamp": "1636940808188",
+            "tag": "PERSON",
+            "color": " #899703"
+        },
+        {
+            "content": "232.405",
+            "path": "10:1:67:2:5",
+            "offset": 24,
+            "length": 7,
+            "timestamp": "1636940808152",
+            "tag": "MONEY",
+            "color": " #29dccd"
+        },
+        {
+            "content": "12\u00a0months",
+            "path": "10:1:67:2:7",
+            "offset": 51,
+            "length": 9,
+            "timestamp": "1636940808114",
+            "tag": "DATE",
+            "color": " #c8860d"
+        },
+        {
+            "content": "Rule\u00a0",
+            "path": "10:1:69:1:1",
+            "offset": 374,
+            "length": 5,
+            "timestamp": "1636940808189",
+            "tag": "PERSON",
+            "color": " #899703"
+        },
+        {
+            "content": "the Exchange Act",
+            "path": "10:1:69:1:3",
+            "offset": 9,
+            "length": 16,
+            "timestamp": "1636940807976",
+            "tag": "LAW",
+            "color": " #4da100"
+        },
+        {
+            "content": "the Exchange Act",
+            "path": "10:1:75:1:1",
+            "offset": 269,
+            "length": 16,
+            "timestamp": "1636940807978",
+            "tag": "LAW",
+            "color": " #4da100"
+        },
+        {
+            "content": "Section 404(b",
+            "path": "10:1:77:1:1",
+            "offset": 227,
+            "length": 13,
+            "timestamp": "1636940808020",
+            "tag": "LAW",
+            "color": " #4da100"
+        },
+        {
+            "content": "the Sarbanes-Oxley Act",
+            "path": "10:1:77:1:3",
+            "offset": 5,
+            "length": 22,
+            "timestamp": "1636940807908",
+            "tag": "ORG",
+            "color": " #f0cdeb"
+        },
+        {
+            "content": "Rule\u00a0",
+            "path": "10:1:79:1:1",
+            "offset": 92,
+            "length": 5,
+            "timestamp": "1636940808191",
+            "tag": "PERSON",
+            "color": " #899703"
+        },
+        {
+            "content": "the Exchange Act",
+            "path": "10:1:79:1:3",
+            "offset": 9,
+            "length": 16,
+            "timestamp": "1636940807979",
+            "tag": "LAW",
+            "color": " #4da100"
+        },
+        {
+            "content": "April\u00a030, 2020",
+            "path": "10:1:81:1:1",
+            "offset": 102,
+            "length": 14,
+            "timestamp": "1636940807982",
+            "tag": "DATE",
+            "color": " #c8860d"
+        },
+        {
+            "content": "approximately\n            $",
+            "path": "10:1:81:1:3",
+            "offset": 6,
+            "length": 27,
+            "timestamp": "1636940807902",
+            "tag": "MONEY",
+            "color": " #29dccd"
+        },
+        {
+            "content": "\u00a0billion",
+            "path": "10:1:81:1:5",
+            "offset": 0,
+            "length": 8,
+            "timestamp": "1636940807902",
+            "tag": "MONEY",
+            "color": " #29dccd"
+        },
+        {
+            "content": "5\u00a0percent",
+            "path": "10:1:81:1:7",
+            "offset": 62,
+            "length": 9,
+            "timestamp": "1636940808147",
+            "tag": "PERCENT",
+            "color": " #c31951"
+        },
+        {
+            "content": "December\u00a010, 2020",
+            "path": "10:1:83:1:1",
+            "offset": 6,
+            "length": 17,
+            "timestamp": "1636940807972",
+            "tag": "DATE",
+            "color": " #c8860d"
+        },
+        {
+            "content": "0.01",
+            "path": "10:1:83:1:5",
+            "offset": 60,
+            "length": 4,
+            "timestamp": "1636940808200",
+            "tag": "MONEY",
+            "color": " #29dccd"
+        },
+        {
+            "content": "TABLE OF CONTENTS",
+            "path": "10:3:3:1:0",
+            "offset": 0,
+            "length": 17,
+            "timestamp": "1636940896553",
+            "tag": "testing",
+            "color": "#ff8080"
+        },
+        {
+            "content": "Item\u00a01",
+            "path": "10:5:7:1:1",
+            "offset": 2468,
+            "length": 6,
+            "timestamp": "1636940818180",
+            "tag": "PERSON",
+            "color": " #1e839d"
+        },
+        {
+            "content": "Item\u00a01",
+            "path": "10:5:21:1:0",
+            "offset": 0,
+            "length": 6,
+            "timestamp": "1636940818182",
+            "tag": "PERSON",
+            "color": " #1e839d"
+        },
+        {
+            "content": "Delaware",
+            "path": "10:5:31:1:1",
+            "offset": 90,
+            "length": 8,
+            "timestamp": "1636940818160",
+            "tag": "GPE",
+            "color": " #a83fc8"
+        },
+        {
+            "content": "May 1999",
+            "path": "10:5:31:1:3",
+            "offset": 4,
+            "length": 8,
+            "timestamp": "1636940818163",
+            "tag": "DATE",
+            "color": " #3a695a"
+        },
+        {
+            "content": "fiscal year ended October\u00a031, 2020",
+            "path": "10:5:35:1:1",
+            "offset": 4,
+            "length": 34,
+            "timestamp": "1636940818143",
+            "tag": "DATE",
+            "color": " #3a695a"
+        },
+        {
+            "content": "CrossLab",
+            "path": "10:5:35:1:3",
+            "offset": 185,
+            "length": 8,
+            "timestamp": "1636940818165",
+            "tag": "ORG",
+            "color": " #002b2b"
+        },
+        {
+            "content": "CrossLab",
+            "path": "10:5:39:1:1",
+            "offset": 900,
+            "length": 8,
+            "timestamp": "1636940818167",
+            "tag": "ORG",
+            "color": " #002b2b"
+        },
+        {
+            "content": "OFS and Agilent\n            Technologies Research Laboratories",
+            "path": "10:5:39:1:3",
+            "offset": 533,
+            "length": 62,
+            "timestamp": "1636940818140",
+            "tag": "ORG",
+            "color": " #002b2b"
+        },
+        {
+            "content": "October\u00a031, 2020",
+            "path": "10:5:43:1:1",
+            "offset": 184,
+            "length": 16,
+            "timestamp": "1636940818149",
+            "tag": "DATE",
+            "color": " #3a695a"
+        },
+        {
+            "content": "California",
+            "path": "10:5:43:1:3",
+            "offset": 145,
+            "length": 10,
+            "timestamp": "1636940818154",
+            "tag": "GPE",
+            "color": " #a83fc8"
+        },
+        {
+            "content": "Colorado",
+            "path": "10:5:43:1:5",
+            "offset": 2,
+            "length": 8,
+            "timestamp": "1636940818169",
+            "tag": "GPE",
+            "color": " #a83fc8"
+        },
+        {
+            "content": "Delaware",
+            "path": "10:5:43:1:7",
+            "offset": 14,
+            "length": 8,
+            "timestamp": "1636940818161",
+            "tag": "GPE",
+            "color": " #a83fc8"
+        },
+        {
+            "content": "Massachusetts",
+            "path": "10:5:43:1:9",
+            "offset": 2,
+            "length": 13,
+            "timestamp": "1636940818152",
+            "tag": "GPE",
+            "color": " #a83fc8"
+        },
+        {
+            "content": "Texas",
+            "path": "10:5:43:1:11",
+            "offset": 2,
+            "length": 5,
+            "timestamp": "1636940818184",
+            "tag": "GPE",
+            "color": " #a83fc8"
+        },
+        {
+            "content": "Vermont",
+            "path": "10:5:43:1:13",
+            "offset": 5,
+            "length": 7,
+            "timestamp": "1636940818173",
+            "tag": "GPE",
+            "color": " #a83fc8"
+        },
+        {
+            "content": "U.S.",
+            "path": "10:5:43:1:15",
+            "offset": 8,
+            "length": 4,
+            "timestamp": "1636940818193",
+            "tag": "GPE",
+            "color": " #a83fc8"
+        },
+        {
+            "content": "Australia",
+            "path": "10:5:43:1:17",
+            "offset": 20,
+            "length": 9,
+            "timestamp": "1636940818156",
+            "tag": "GPE",
+            "color": " #a83fc8"
+        },
+        {
+            "content": "China",
+            "path": "10:5:43:1:19",
+            "offset": 2,
+            "length": 5,
+            "timestamp": "1636940818186",
+            "tag": "GPE",
+            "color": " #a83fc8"
+        },
+        {
+            "content": "Denmark",
+            "path": "10:5:43:1:21",
+            "offset": 2,
+            "length": 7,
+            "timestamp": "1636940818175",
+            "tag": "GPE",
+            "color": " #a83fc8"
+        },
+        {
+            "content": "Germany",
+            "path": "10:5:43:1:23",
+            "offset": 2,
+            "length": 7,
+            "timestamp": "1636940818178",
+            "tag": "GPE",
+            "color": " #a83fc8"
+        },
+        {
+            "content": "Italy",
+            "path": "10:5:43:1:25",
+            "offset": 2,
+            "length": 5,
+            "timestamp": "1636940818188",
+            "tag": "GPE",
+            "color": " #a83fc8"
+        },
+        {
+            "content": "Japan",
+            "path": "10:5:43:1:27",
+            "offset": 2,
+            "length": 5,
+            "timestamp": "1636940818190",
+            "tag": "GPE",
+            "color": " #a83fc8"
+        },
+        {
+            "content": "Malaysia",
+            "path": "10:5:43:1:29",
+            "offset": 2,
+            "length": 8,
+            "timestamp": "1636940818171",
+            "tag": "GPE",
+            "color": " #a83fc8"
+        },
+        {
+            "content": "Singapore",
+            "path": "10:5:43:1:31",
+            "offset": 14,
+            "length": 9,
+            "timestamp": "1636940818158",
+            "tag": "GPE",
+            "color": " #a83fc8"
+        },
+        {
+            "content": "the United Kingdom",
+            "path": "10:5:43:1:33",
+            "offset": 5,
+            "length": 18,
+            "timestamp": "1636940818145",
+            "tag": "GPE",
+            "color": " #a83fc8"
+        },
+        {
+            "content": "Life Sciences",
+            "path": "10:7:3:1:0",
+            "offset": 0,
+            "length": 13,
+            "timestamp": "1636940826694",
+            "tag": "ORG",
+            "color": " #04fe4d"
+        },
+        {
+            "content": "GC",
+            "path": "10:7:5:1:1",
+            "offset": 644,
+            "length": 2,
+            "timestamp": "1636940826703",
+            "tag": "ORG",
+            "color": " #04fe4d"
+        },
+        {
+            "content": "GC",
+            "path": "10:7:5:1:3",
+            "offset": 78,
+            "length": 2,
+            "timestamp": "1636940826705",
+            "tag": "ORG",
+            "color": " #04fe4d"
+        },
+        {
+            "content": "October\u00a031, 2020",
+            "path": "10:7:9:1:1",
+            "offset": 45,
+            "length": 16,
+            "timestamp": "1636940826687",
+            "tag": "DATE",
+            "color": " #4fb640"
+        },
+        {
+            "content": "Life Sciences",
+            "path": "10:7:13:1:0",
+            "offset": 0,
+            "length": 13,
+            "timestamp": "1636940826695",
+            "tag": "ORG",
+            "color": " #04fe4d"
+        },
+        {
+            "content": "Biopharma",
+            "path": "10:7:17:1:1",
+            "offset": 20,
+            "length": 9,
+            "timestamp": "1636940826697",
+            "tag": "GPE",
+            "color": " #e0df92"
+        },
+        {
+            "content": "CRO\u00a0& CMO\n            Market",
+            "path": "10:7:17:1:3",
+            "offset": 10,
+            "length": 28,
+            "timestamp": "1636940826690",
+            "tag": "ORG",
+            "color": " #04fe4d"
+        },
+        {
+            "content": "Biopharma",
+            "path": "10:7:17:2:1",
+            "offset": 601,
+            "length": 9,
+            "timestamp": "1636940826699",
+            "tag": "GPE",
+            "color": " #e0df92"
+        },
+        {
+            "content": "The Academic and Government Market",
+            "path": "10:7:19:1:0",
+            "offset": 0,
+            "length": 34,
+            "timestamp": "1636940826682",
+            "tag": "ORG",
+            "color": " #04fe4d"
+        },
+        {
+            "content": "decades",
+            "path": "10:7:19:2:1",
+            "offset": 413,
+            "length": 7,
+            "timestamp": "1636940826701",
+            "tag": "DATE",
+            "color": " #4fb640"
+        },
+        {
+            "content": "The Chemical\u00a0& Energy Market",
+            "path": "10:7:21:1:0",
+            "offset": 0,
+            "length": 28,
+            "timestamp": "1636940826685",
+            "tag": "ORG",
+            "color": " #04fe4d"
+        },
+        {
+            "content": "The Environmental\u00a0& Forensics Market",
+            "path": "10:7:23:1:0",
+            "offset": 0,
+            "length": 36,
+            "timestamp": "1636940826680",
+            "tag": "ORG",
+            "color": " #04fe4d"
+        },
+        {
+            "content": "The Food Market",
+            "path": "10:7:25:1:0",
+            "offset": 0,
+            "length": 15,
+            "timestamp": "1636940826692",
+            "tag": "WORK_OF_ART",
+            "color": " #dfb865"
+        },
+        {
+            "content": "Applied Markets Products and Applications",
+            "path": "10:9:3:1:1",
+            "offset": 18,
+            "length": 41,
+            "timestamp": "1636940831868",
+            "tag": "ORG",
+            "color": " #3a631a"
+        },
+        {
+            "content": "HPLC",
+            "path": "10:9:11:1:1",
+            "offset": 87,
+            "length": 4,
+            "timestamp": "1636940831897",
+            "tag": "GPE",
+            "color": " #475de0"
+        },
+        {
+            "content": "HPLC",
+            "path": "10:9:11:1:3",
+            "offset": 779,
+            "length": 4,
+            "timestamp": "1636940831899",
+            "tag": "GPE",
+            "color": " #475de0"
+        },
+        {
+            "content": "Mass Spectrometry",
+            "path": "10:9:21:1:0",
+            "offset": 0,
+            "length": 17,
+            "timestamp": "1636940831873",
+            "tag": "ORG",
+            "color": " #3a631a"
+        },
+        {
+            "content": "MS",
+            "path": "10:9:25:1:1",
+            "offset": 22,
+            "length": 2,
+            "timestamp": "1636940831902",
+            "tag": "ORG",
+            "color": " #3a631a"
+        },
+        {
+            "content": "MS",
+            "path": "10:9:25:1:3",
+            "offset": 307,
+            "length": 2,
+            "timestamp": "1636940831904",
+            "tag": "ORG",
+            "color": " #3a631a"
+        },
+        {
+            "content": "MS",
+            "path": "10:9:25:1:5",
+            "offset": 48,
+            "length": 2,
+            "timestamp": "1636940831906",
+            "tag": "ORG",
+            "color": " #3a631a"
+        },
+        {
+            "content": "MS",
+            "path": "10:9:25:1:7",
+            "offset": 276,
+            "length": 2,
+            "timestamp": "1636940831908",
+            "tag": "ORG",
+            "color": " #3a631a"
+        },
+        {
+            "content": "GC/MS",
+            "path": "10:9:25:1:9",
+            "offset": 219,
+            "length": 5,
+            "timestamp": "1636940831895",
+            "tag": "ORG",
+            "color": " #3a631a"
+        },
+        {
+            "content": "recent years",
+            "path": "10:9:25:1:11",
+            "offset": 260,
+            "length": 12,
+            "timestamp": "1636940831878",
+            "tag": "DATE",
+            "color": " #35fc53"
+        },
+        {
+            "content": "Spectroscopy",
+            "path": "10:9:29:1:0",
+            "offset": 0,
+            "length": 12,
+            "timestamp": "1636940831881",
+            "tag": "GPE",
+            "color": " #475de0"
+        },
+        {
+            "content": "Spectroscopy",
+            "path": "10:9:33:1:0",
+            "offset": 0,
+            "length": 12,
+            "timestamp": "1636940831882",
+            "tag": "GPE",
+            "color": " #475de0"
+        },
+        {
+            "content": "ICP-OES",
+            "path": "10:9:33:1:2",
+            "offset": 340,
+            "length": 7,
+            "timestamp": "1636940831890",
+            "tag": "ORG",
+            "color": " #3a631a"
+        },
+        {
+            "content": "ICP-MS",
+            "path": "10:9:33:1:4",
+            "offset": 2,
+            "length": 6,
+            "timestamp": "1636940831892",
+            "tag": "ORG",
+            "color": " #3a631a"
+        },
+        {
+            "content": "Fourier Transform",
+            "path": "10:9:33:1:6",
+            "offset": 110,
+            "length": 17,
+            "timestamp": "1636940831875",
+            "tag": "ORG",
+            "color": " #3a631a"
+        },
+        {
+            "content": "Software",
+            "path": "10:9:37:1:0",
+            "offset": 0,
+            "length": 8,
+            "timestamp": "1636940831887",
+            "tag": "ORG",
+            "color": " #3a631a"
+        },
+        {
+            "content": "Informatics",
+            "path": "10:9:37:1:2",
+            "offset": 5,
+            "length": 11,
+            "timestamp": "1636940831885",
+            "tag": "ORG",
+            "color": " #3a631a"
+        },
+        {
+            "content": "OpenLab Laboratory",
+            "path": "10:9:41:1:1",
+            "offset": 327,
+            "length": 18,
+            "timestamp": "1636940831870",
+            "tag": "ORG",
+            "color": " #3a631a"
+        },
+        {
+            "content": "Software",
+            "path": "10:9:41:1:3",
+            "offset": 1,
+            "length": 8,
+            "timestamp": "1636940831888",
+            "tag": "ORG",
+            "color": " #3a631a"
+        },
+        {
+            "content": "Cell Analysis",
+            "path": "10:11:13:1:0",
+            "offset": 0,
+            "length": 13,
+            "timestamp": "1636940836165",
+            "tag": "ORG",
+            "color": " #ade5ea"
+        },
+        {
+            "content": "biopharma",
+            "path": "10:11:17:1:1",
+            "offset": 924,
+            "length": 9,
+            "timestamp": "1636940836182",
+            "tag": "GPE",
+            "color": " #e3c9d5"
+        },
+        {
+            "content": "Life Sciences",
+            "path": "10:11:21:1:0",
+            "offset": 0,
+            "length": 13,
+            "timestamp": "1636940836168",
+            "tag": "ORG",
+            "color": " #ade5ea"
+        },
+        {
+            "content": "Applied Markets Customers",
+            "path": "10:11:21:1:2",
+            "offset": 5,
+            "length": 25,
+            "timestamp": "1636940836161",
+            "tag": "ORG",
+            "color": " #ade5ea"
+        },
+        {
+            "content": "fiscal 2020",
+            "path": "10:11:23:1:1",
+            "offset": 104,
+            "length": 11,
+            "timestamp": "1636940836176",
+            "tag": "DATE",
+            "color": " #7f3b12"
+        },
+        {
+            "content": "U.S.",
+            "path": "10:11:25:1:1",
+            "offset": 137,
+            "length": 4,
+            "timestamp": "1636940836205",
+            "tag": "GPE",
+            "color": " #e3c9d5"
+        },
+        {
+            "content": "any given year",
+            "path": "10:11:25:1:3",
+            "offset": 426,
+            "length": 14,
+            "timestamp": "1636940836163",
+            "tag": "DATE",
+            "color": " #7f3b12"
+        },
+        {
+            "content": "Life Sciences",
+            "path": "10:11:27:1:0",
+            "offset": 0,
+            "length": 13,
+            "timestamp": "1636940836170",
+            "tag": "ORG",
+            "color": " #ade5ea"
+        },
+        {
+            "content": "biopharma",
+            "path": "10:11:29:1:1",
+            "offset": 147,
+            "length": 9,
+            "timestamp": "1636940836184",
+            "tag": "GPE",
+            "color": " #e3c9d5"
+        },
+        {
+            "content": "CRO",
+            "path": "10:11:29:1:3",
+            "offset": 2,
+            "length": 3,
+            "timestamp": "1636940836210",
+            "tag": "ORG",
+            "color": " #ade5ea"
+        },
+        {
+            "content": "CMO",
+            "path": "10:11:29:1:5",
+            "offset": 2,
+            "length": 3,
+            "timestamp": "1636940836213",
+            "tag": "ORG",
+            "color": " #ade5ea"
+        },
+        {
+            "content": "biopharma",
+            "path": "10:11:29:1:7",
+            "offset": 567,
+            "length": 9,
+            "timestamp": "1636940836185",
+            "tag": "GPE",
+            "color": " #e3c9d5"
+        },
+        {
+            "content": "Life Sciences",
+            "path": "10:11:33:1:0",
+            "offset": 0,
+            "length": 13,
+            "timestamp": "1636940836171",
+            "tag": "ORG",
+            "color": " #ade5ea"
+        },
+        {
+            "content": "U.S.",
+            "path": "10:11:35:1:1",
+            "offset": 663,
+            "length": 4,
+            "timestamp": "1636940836206",
+            "tag": "GPE",
+            "color": " #e3c9d5"
+        },
+        {
+            "content": "California",
+            "path": "10:11:35:1:3",
+            "offset": 50,
+            "length": 10,
+            "timestamp": "1636940836178",
+            "tag": "GPE",
+            "color": " #e3c9d5"
+        },
+        {
+            "content": "Delaware",
+            "path": "10:11:35:1:5",
+            "offset": 2,
+            "length": 8,
+            "timestamp": "1636940836192",
+            "tag": "GPE",
+            "color": " #e3c9d5"
+        },
+        {
+            "content": "Massachusetts",
+            "path": "10:11:35:1:7",
+            "offset": 2,
+            "length": 13,
+            "timestamp": "1636940836174",
+            "tag": "GPE",
+            "color": " #e3c9d5"
+        },
+        {
+            "content": "Vermont",
+            "path": "10:11:35:1:9",
+            "offset": 17,
+            "length": 7,
+            "timestamp": "1636940836196",
+            "tag": "GPE",
+            "color": " #e3c9d5"
+        },
+        {
+            "content": "U.S.",
+            "path": "10:11:35:1:11",
+            "offset": 17,
+            "length": 4,
+            "timestamp": "1636940836208",
+            "tag": "GPE",
+            "color": " #e3c9d5"
+        },
+        {
+            "content": "Germany",
+            "path": "10:11:35:1:13",
+            "offset": 50,
+            "length": 7,
+            "timestamp": "1636940836201",
+            "tag": "GPE",
+            "color": " #e3c9d5"
+        },
+        {
+            "content": "Malaysia",
+            "path": "10:11:35:1:15",
+            "offset": 2,
+            "length": 8,
+            "timestamp": "1636940836194",
+            "tag": "GPE",
+            "color": " #e3c9d5"
+        },
+        {
+            "content": "Singapore",
+            "path": "10:11:35:1:17",
+            "offset": 5,
+            "length": 9,
+            "timestamp": "1636940836188",
+            "tag": "GPE",
+            "color": " #e3c9d5"
+        },
+        {
+            "content": "FDA",
+            "path": "10:11:35:1:19",
+            "offset": 10,
+            "length": 3,
+            "timestamp": "1636940836215",
+            "tag": "ORG",
+            "color": " #ade5ea"
+        },
+        {
+            "content": "California",
+            "path": "10:11:35:1:21",
+            "offset": 33,
+            "length": 10,
+            "timestamp": "1636940836180",
+            "tag": "GPE",
+            "color": " #e3c9d5"
+        },
+        {
+            "content": "Vermont",
+            "path": "10:11:35:1:23",
+            "offset": 2,
+            "length": 7,
+            "timestamp": "1636940836198",
+            "tag": "GPE",
+            "color": " #e3c9d5"
+        },
+        {
+            "content": "Germany",
+            "path": "10:11:35:1:25",
+            "offset": 2,
+            "length": 7,
+            "timestamp": "1636940836202",
+            "tag": "GPE",
+            "color": " #e3c9d5"
+        },
+        {
+            "content": "Singapore",
+            "path": "10:11:35:1:27",
+            "offset": 5,
+            "length": 9,
+            "timestamp": "1636940836190",
+            "tag": "GPE",
+            "color": " #e3c9d5"
+        },
+        {
+            "content": "PerkinElmer\n            Inc.",
+            "path": "10:13:5:1:1",
+            "offset": 272,
+            "length": 28,
+            "timestamp": "1636940841187",
+            "tag": "ORG",
+            "color": " #54d9fe"
+        },
+        {
+            "content": "Shimadzu Corporation",
+            "path": "10:13:5:1:3",
+            "offset": 2,
+            "length": 20,
+            "timestamp": "1636940841183",
+            "tag": "ORG",
+            "color": " #54d9fe"
+        },
+        {
+            "content": "Thermo Fisher Scientific\u00a0Inc.",
+            "path": "10:13:5:1:5",
+            "offset": 2,
+            "length": 29,
+            "timestamp": "1636940841179",
+            "tag": "ORG",
+            "color": " #54d9fe"
+        },
+        {
+            "content": "Waters Corporation",
+            "path": "10:13:5:1:7",
+            "offset": 17,
+            "length": 18,
+            "timestamp": "1636940841185",
+            "tag": "ORG",
+            "color": " #54d9fe"
+        },
+        {
+            "content": "Diagnostics and Genomics Business",
+            "path": "10:13:11:1:0",
+            "offset": 0,
+            "length": 33,
+            "timestamp": "1636940841172",
+            "tag": "ORG",
+            "color": " #54d9fe"
+        },
+        {
+            "content": "NGS",
+            "path": "10:13:19:1:1",
+            "offset": 731,
+            "length": 3,
+            "timestamp": "1636940841207",
+            "tag": "ORG",
+            "color": " #54d9fe"
+        },
+        {
+            "content": "GMP",
+            "path": "10:13:19:1:3",
+            "offset": 506,
+            "length": 3,
+            "timestamp": "1636940841209",
+            "tag": "WORK_OF_ART",
+            "color": " #28101d"
+        },
+        {
+            "content": "IHC",
+            "path": "10:13:19:1:5",
+            "offset": 358,
+            "length": 3,
+            "timestamp": "1636940841212",
+            "tag": "ORG",
+            "color": " #54d9fe"
+        },
+        {
+            "content": "hematoxylin",
+            "path": "10:13:19:1:7",
+            "offset": 47,
+            "length": 11,
+            "timestamp": "1636940841198",
+            "tag": "ORG",
+            "color": " #54d9fe"
+        },
+        {
+            "content": "H&E",
+            "path": "10:13:19:1:9",
+            "offset": 13,
+            "length": 3,
+            "timestamp": "1636940841217",
+            "tag": "WORK_OF_ART",
+            "color": " #28101d"
+        },
+        {
+            "content": "October\u00a031, 2020",
+            "path": "10:13:23:1:1",
+            "offset": 45,
+            "length": 16,
+            "timestamp": "1636940841190",
+            "tag": "DATE",
+            "color": " #cd59c6"
+        },
+        {
+            "content": "Diagnostics and Genomics Market",
+            "path": "10:13:27:1:0",
+            "offset": 0,
+            "length": 31,
+            "timestamp": "1636940841177",
+            "tag": "ORG",
+            "color": " #54d9fe"
+        },
+        {
+            "content": "North America",
+            "path": "10:13:31:1:1",
+            "offset": 416,
+            "length": 13,
+            "timestamp": "1636940841194",
+            "tag": "LOC",
+            "color": " #9314e9"
+        },
+        {
+            "content": "Western Europe",
+            "path": "10:13:31:1:3",
+            "offset": 2,
+            "length": 14,
+            "timestamp": "1636940841192",
+            "tag": "LOC",
+            "color": " #9314e9"
+        },
+        {
+            "content": "Japan",
+            "path": "10:13:31:1:5",
+            "offset": 5,
+            "length": 5,
+            "timestamp": "1636940841204",
+            "tag": "GPE",
+            "color": " #e74cd0"
+        },
+        {
+            "content": "IVD",
+            "path": "10:13:35:1:1",
+            "offset": 308,
+            "length": 3,
+            "timestamp": "1636940841219",
+            "tag": "ORG",
+            "color": " #54d9fe"
+        },
+        {
+            "content": "Analyte\n            Specific Reagents",
+            "path": "10:13:35:1:3",
+            "offset": 102,
+            "length": 37,
+            "timestamp": "1636940841181",
+            "tag": "ORG",
+            "color": " #54d9fe"
+        },
+        {
+            "content": "Diagnostics and Genomics Products",
+            "path": "10:13:39:1:0",
+            "offset": 0,
+            "length": 33,
+            "timestamp": "1636940841174",
+            "tag": "ORG",
+            "color": " #54d9fe"
+        },
+        {
+            "content": "PCR",
+            "path": "10:13:43:1:1",
+            "offset": 232,
+            "length": 3,
+            "timestamp": "1636940841222",
+            "tag": "ORG",
+            "color": " #54d9fe"
+        },
+        {
+            "content": "PCR",
+            "path": "10:13:43:1:3",
+            "offset": 6,
+            "length": 3,
+            "timestamp": "1636940841223",
+            "tag": "ORG",
+            "color": " #54d9fe"
+        },
+        {
+            "content": "CoverStainer",
+            "path": "10:13:51:1:1",
+            "offset": 257,
+            "length": 12,
+            "timestamp": "1636940841196",
+            "tag": "PERSON",
+            "color": " #a11e03"
+        },
+        {
+            "content": "hematoxylin",
+            "path": "10:13:51:1:3",
+            "offset": 102,
+            "length": 11,
+            "timestamp": "1636940841200",
+            "tag": "ORG",
+            "color": " #54d9fe"
+        },
+        {
+            "content": "Dako Omnis",
+            "path": "10:13:51:1:5",
+            "offset": 144,
+            "length": 10,
+            "timestamp": "1636940841202",
+            "tag": "PERSON",
+            "color": " #a11e03"
+        },
+        {
+            "content": "IHC",
+            "path": "10:13:51:1:7",
+            "offset": 23,
+            "length": 3,
+            "timestamp": "1636940841214",
+            "tag": "ORG",
+            "color": " #54d9fe"
+        },
+        {
+            "content": ", 2020",
+            "path": "10:1:25:1:2:1",
+            "offset": 0,
+            "length": 6,
+            "timestamp": "1636940807815",
+            "tag": "DATE",
+            "color": " #c8860d"
+        },
+        {
+            "content": "Stevens Creek Blvd",
+            "path": "10:1:47:1:1:1",
+            "offset": 5,
+            "length": 18,
+            "timestamp": "1636940807940",
+            "tag": "FAC",
+            "color": " #938755"
+        },
+        {
+            "content": "Santa Clara",
+            "path": "10:1:47:1:3:0",
+            "offset": 0,
+            "length": 11,
+            "timestamp": "1636940808099",
+            "tag": "GPE",
+            "color": " #8f9748"
+        },
+        {
+            "content": "California",
+            "path": "10:1:47:1:5:0",
+            "offset": 0,
+            "length": 10,
+            "timestamp": "1636940808107",
+            "tag": "GPE",
+            "color": " #8f9748"
+        },
+        {
+            "content": "18.0",
+            "path": "10:1:81:1:4:0",
+            "offset": 0,
+            "length": 4,
+            "timestamp": "1636940807902",
+            "tag": "MONEY",
+            "color": " #29dccd"
+        },
+        {
+            "content": "October 31",
+            "path": "10:1:25:1:2:0:0",
+            "offset": 0,
+            "length": 10,
+            "timestamp": "1636940807815",
+            "tag": "DATE",
+            "color": " #c8860d"
+        },
+        {
+            "content": "IRS Employer Identification No",
+            "path": "10:1:45:1:1:4:5:1:1",
+            "offset": 1,
+            "length": 30,
+            "timestamp": "1636940807870",
+            "tag": "ORG",
+            "color": " #f0cdeb"
+        },
+        {
+            "content": "Delaware",
+            "path": "10:1:45:1:1:2:3:1:0:0",
+            "offset": 0,
+            "length": 8,
+            "timestamp": "1636940808150",
+            "tag": "GPE",
+            "color": " #8f9748"
+        },
+        {
+            "content": "77-0518772",
+            "path": "10:1:45:1:1:2:11:1:0:0",
+            "offset": 0,
+            "length": 10,
+            "timestamp": "1636940808104",
+            "tag": "DATE",
+            "color": " #c8860d"
+        },
+        {
+            "content": "Common Stock",
+            "path": "10:1:53:1:1:4:1:1:0:0",
+            "offset": 0,
+            "length": 12,
+            "timestamp": "1636940808058",
+            "tag": "PERSON",
+            "color": " #899703"
+        },
+        {
+            "content": "0.01",
+            "path": "10:1:53:1:1:4:1:1:0:2",
+            "offset": 3,
+            "length": 4,
+            "timestamp": "1636940808198",
+            "tag": "MONEY",
+            "color": " #29dccd"
+        },
+        {
+            "content": "Large",
+            "path": "10:1:71:1:1:2:1:1:0:0",
+            "offset": 0,
+            "length": 5,
+            "timestamp": "1636940808194",
+            "tag": "PERSON",
+            "color": " #899703"
+        },
+        {
+            "content": "March\u00a017, 2021",
+            "path": "10:1:87:3:1:4:1:1:0:1",
+            "offset": 149,
+            "length": 14,
+            "timestamp": "1636940807984",
+            "tag": "DATE",
+            "color": " #c8860d"
+        },
+        {
+            "content": "Regulation\u00a014A",
+            "path": "10:1:87:3:1:4:1:1:0:3",
+            "offset": 50,
+            "length": 14,
+            "timestamp": "1636940808017",
+            "tag": "LOC",
+            "color": " #2824b7"
+        },
+        {
+            "content": "fiscal year ended October\u00a0",
+            "path": "10:1:87:3:1:4:1:1:0:5",
+            "offset": 56,
+            "length": 26,
+            "timestamp": "1636940807906",
+            "tag": "DATE",
+            "color": " #c8860d"
+        },
+        {
+            "content": "Report",
+            "path": "10:1:87:3:1:4:1:1:0:7",
+            "offset": 81,
+            "length": 6,
+            "timestamp": "1636940808184",
+            "tag": "WORK_OF_ART",
+            "color": " #570663"
+        }
+    ],
+    "action": "accept",
+    "original_file": "flask_NER/static/Data/NYSE/Agilent Technologies Inc/annual_report_2020-12-18_a-20201031.htm",
+    "report_id": "1"
+}
