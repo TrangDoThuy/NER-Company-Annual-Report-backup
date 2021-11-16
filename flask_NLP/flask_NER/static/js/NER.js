@@ -33,6 +33,54 @@ function fullColorHex(s) {
     return '#000000';
   }
 }
+var ColorPicker = (function () {
+  var COLORS = [];
+  function ColorPicker(el) {
+    epicker = this;
+    epicker.color = COLORS[0];
+    epicker.selected = null;
+    COLORS.forEach(function (color) {
+      window.tag_id += 1;
+      if (epicker.color === color) {
+        var div = $(
+          '<span style="background-color:' +
+            color +
+            '" class="dropdown-selected selected">'
+        ).append(
+          $('<p style="margin:0px;">').text('unknown'),
+          $('<i class="del" data-id="' + window.tag_id + '">')
+        );
+        epicker.selected = div;
+        div.appendTo(el);
+      } else {
+        var div = $(
+          '<span style="background-color:' +
+            color +
+            '" class="dropdown-selected">'
+        )
+          .append(
+            $('<p style="margin:0px;">').text('unknown'),
+            $('<i class="del" data-id="' + window.tag_id + '">')
+          )
+          .appendTo(el);
+      }
+      div.click(function () {
+        if (color !== epicker.color) {
+          epicker.color = color;
+          if (epicker.selected) epicker.selected.removeClass('selected');
+          epicker.selected = div;
+          epicker.selected.addClass('selected');
+          if (typeof epicker.callback === 'function')
+            epicker.callback.call(epicker, color);
+        }
+      });
+    });
+  }
+  ColorPicker.prototype.onColorChange = function (callback) {
+    this.callback = callback;
+  };
+  return ColorPicker;
+})();
 
 function hl_removeitem(t) {
   try {
@@ -133,60 +181,12 @@ $('#hl_undo').click(function () {
     }
     return maxV;
   }
-  var test = getMax([1, 2, 3]);
   var t = getMax(Object.keys(window.mapTag));
   if (t) {
     hl_removeitem(t);
   }
 });
-var ColorPicker = (function () {
-  var COLORS = [];
-  function ColorPicker(el) {
-    epicker = this;
-    epicker.color = COLORS[0];
-    epicker.selected = null;
-    COLORS.forEach(function (color) {
-      window.tag_id += 1;
-      if (epicker.color === color) {
-        var div = $(
-          '<span style="background-color:' +
-            color +
-            '" class="dropdown-selected selected">'
-        ).append(
-          $('<p style="margin:0px;">').text('unknown'),
-          $('<i class="del" data-id="' + window.tag_id + '">')
-        );
-        epicker.selected = div;
-        div.appendTo(el);
-      } else {
-        var div = $(
-          '<span style="background-color:' +
-            color +
-            '" class="dropdown-selected">'
-        )
-          .append(
-            $('<p style="margin:0px;">').text('unknown'),
-            $('<i class="del" data-id="' + window.tag_id + '">')
-          )
-          .appendTo(el);
-      }
-      div.click(function () {
-        if (color !== epicker.color) {
-          epicker.color = color;
-          if (epicker.selected) epicker.selected.removeClass('selected');
-          epicker.selected = div;
-          epicker.selected.addClass('selected');
-          if (typeof epicker.callback === 'function')
-            epicker.callback.call(epicker, color);
-        }
-      });
-    });
-  }
-  ColorPicker.prototype.onColorChange = function (callback) {
-    this.callback = callback;
-  };
-  return ColorPicker;
-})();
+
 $(document).ready(function () {
   var removeBtn = document.getElementById('hl_remove'),
     hl_acceptBtn = document.getElementById('hl_accept'),
@@ -210,8 +210,7 @@ $(document).ready(function () {
       highlights.map(function (h) {
         var time = h.getAttribute('data-timestamp');
         window.mapTag[time] = window.selectedTag;
-        var content = h.getAttribute('content');
-        var div = $(
+        $(
           '<tr onclick = "hl_removeitem(' +
             time +
             ')" id =' +
