@@ -1,10 +1,12 @@
 window.hltr = null; // what is the different between using var hltr and window.hltr
-window.mapTag = {}; // for TextHighlighter
+window.mapTag = {}; // for TextHighlighter: window.mapTag[time-stamp] = tag
+window.mapTag_color = {}; //window.mapTag_color[tag] = color
 window.selectedTag = ''; // map timestamp to tag
 window.tag_id = 0;
 window.tags = [];
 window.epicker = document.querySelector('.color-picker');
 window.display_page = null;
+localStorage.label_from_model = false;
 let modal_createTag = document.getElementById('div_dl_createtag');
 
 // helper functions
@@ -110,6 +112,7 @@ function removeTag(tag) {
   for (const [time, tag_name] of Object.entries(window.mapTag)) {
     if (tag == tag_name) {
       hl_removeitem(time);
+      delete window.mapTag_color[tag];
     }
   }
   if (window.selectedTag == tag) {
@@ -123,6 +126,7 @@ function createTag(tag_name, color) {
   else {
     window.tags.push(tag_name);
     window.tag_id += 1;
+    window.mapTag_color[tag_name] = color;
 
     var div_dont_know = $(
       '<i class="del"  data-id="' +
@@ -162,38 +166,20 @@ function createTag(tag_name, color) {
     div.trigger('click');
   }
 }
-// end helper functions
-$('#createTag_btn').click(function (e) {
-  e.preventDefault();
-  var tag_name = $('#hl_text').val();
-  var color = $('#hl_color').val();
-  modal_createTag.style.display = 'none';
-  $('#hl_text').val('');
-  $('#hl_color').val(getRandomColor());
-  createTag(tag_name, color);
-});
-$('#hl_undo').click(function () {
-  function getMax(arr) {
-    if (!arr) return null;
-    var maxV = arr[0];
-    for (a of arr) {
-      if (a > maxV) maxV = a;
-    }
-    return maxV;
-  }
-  var t = getMax(Object.keys(window.mapTag));
-  if (t) {
-    hl_removeitem(t);
-  }
-});
 
 $(document).ready(function () {
   var removeBtn = document.getElementById('hl_remove'),
     hl_acceptBtn = document.getElementById('hl_accept'),
     hl_rejectBtn = document.getElementById('hl_reject'),
-    hl_learn = document.getElementById('hl_learn');
-  // hl_ignoreBtn = document.getElementById('hl_ignore');
+    hl_learn = document.getElementById('hl_learn'),
+    createTag_btn = document.getElementById('createTag_btn'),
+    modal_createTag = document.getElementById('div_dl_createtag'),
+    original_file_ = document.getElementById('original_file'),
+    report_id_ = document.getElementById('report_id'),
+    hl_undo = document.getElementById('hl_undo'),
+    new_page_loaded = document.getElementById('new_page_loaded');
   get_current_page();
+
   // var sandbox = window.display_page;
   var sandbox = document.getElementById('document_content');
   var colors = new ColorPicker(document.querySelector('.color-picker'));
@@ -230,6 +216,14 @@ $(document).ready(function () {
     },
   });
   var serialized = '';
+
+  new_page_loaded.addEventListener('click', function () {
+    if (localStorage.label_from_model == 'true') {
+      get_current_page();
+      load_original_NER_label(window.display_page);
+    }
+  });
+
   colors.onColorChange(function (color) {
     window.hltr.setColor(color);
   });
@@ -237,10 +231,36 @@ $(document).ready(function () {
     window.hltr.removeHighlights();
     $('.content-label tr').remove();
     window.mapTag = {};
+    localStorage.label_from_model = false;
   });
   hl_learn.addEventListener('click', function () {
+    localStorage.label_from_model = true;
     get_current_page();
     load_original_NER_label(window.display_page);
+  });
+  createTag_btn.addEventListener('click', function (e) {
+    e.preventDefault();
+    var tag_name = $('#hl_text').val();
+    var color = $('#hl_color').val();
+    modal_createTag.style.display = 'none';
+    $('#hl_text').val('');
+    $('#hl_color').val(getRandomColor());
+    createTag(tag_name, color);
+  });
+  hl_undo.addEventListener('click', function (e) {
+    function getMax(arr) {
+      if (!arr) return null;
+      var maxV = arr[0];
+      for (a of arr) {
+        if (a > maxV) maxV = a;
+      }
+      return maxV;
+    }
+    var t = getMax(Object.keys(window.mapTag));
+    if (t) {
+      hl_removeitem(t);
+    }
+    localStorage.label_from_model = false;
   });
   function load_original_NER_label(content_page) {
     $.post('/get_original_NER', {
@@ -314,7 +334,7 @@ $(document).ready(function () {
   // d = [{'content': 'South America', 'tag': 'LOC', 'color': '#2DC477'}, {'content': 'United States', 'tag': 'GPE', 'color': '#AC10D6'}];
   function hl_find_generate_JSON(d) {
     window.selectedTag = ''; // map timestamp to tag
-    $('.content-label tr').remove();
+    //$('.content-label tr').remove();
     contentSet = [];
     objectSet = [];
     d.forEach(createSetObject);
@@ -344,6 +364,8 @@ $(document).ready(function () {
     function markEachEntity(object) {
       if (!window.tags.includes(object.tag) && object.tag != '') {
         createTag(object.tag, object.color);
+      } else {
+        object.color = window.mapTag_color[object.tag];
       }
       window.selectedTag = object.tag;
 
@@ -403,7 +425,6 @@ $(document).ready(function () {
     window.hltr.deserializeHighlights(s);
   }
   hl_acceptBtn.addEventListener('click', function () {
-    // confirm_hl('accept', '{{original_file}}', '{{report.id}}');
     serialized = window.hltr.serializeHighlights();
     var d = JSON.parse(serialized); // get all highlights in JSON object
     var out = [];
@@ -442,14 +463,14 @@ $(document).ready(function () {
       data: JSON.stringify({
         res: out,
         action: 'accept',
-        original_file: '{{original_file}}',
-        report_id: '{{report.id}}',
+        original_file: original_file_.textContent,
+        report_id: report_id_.textContent,
       }),
     }).done(function (q) {
       alert('Your annotation has been successfully accepted!');
     });
   });
   hl_rejectBtn.addEventListener('click', function () {
-    load_latest_NER_version('{{report.id}}');
+    load_latest_NER_version(report_id_.textContent);
   });
 });

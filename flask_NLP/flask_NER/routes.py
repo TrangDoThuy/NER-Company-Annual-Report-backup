@@ -8,11 +8,13 @@ from boilerpy3 import extractors
 import spacy
 from random import random
 from random import seed
+import colorsys
 nlp = spacy.load("en_core_web_sm")
 seed(1)
 import ahocorasick
 from bs4 import BeautifulSoup
 A = ahocorasick.Automaton()
+from business_review_fullversion_extraction import model_info_extraction
 
 @app.route("/")
 @app.route("/home")
@@ -74,21 +76,8 @@ def confirm_extraction():
 
 @app.route("/NER/<int:report_id>", methods=['GET' ])
 def NER(report_id):
-    report = Report.query.filter_by(id=report_id).first_or_404()
-    original_file = 'flask_NER/static/'+report.file_directory
-
-    soup = BeautifulSoup(open(original_file, 'r'), 'html.parser')
-    body = soup.body
-    body = soup.find('body')
-    children_count = len(body.contents)
-
-    while(children_count == 1):
-        body = body.contents[0]
-        children_count = len(body.contents)
-    data = str(body)
 
     def paginate_document(document,children_count):
-
         if(document.find("pagination__item")== -1):
             # <title>a-20201031</title></head><body>
             start_body = document.find("<body")
@@ -106,26 +95,58 @@ def NER(report_id):
                     document = document[:sub_start]+ whole_div +document[sub_start:end_body_index]+"</div></div></body>"
             
             # replace horizontal line by page-break
-            break_page = "<hr style=\"page-break-after: always\" />"
-            break_page_2 = "<hr style=\"page-break-after:always\"/>"
-            break_page_3 = "<hr style=\"page-break-after:always\"></hr>"
+            regex = re.compile(r'<hr[^>]+>')
+            matches = list(regex.finditer(document))
             replace_paginate = "</div><div class=\"pagination__item\">"
-
-            document = document.replace(break_page,replace_paginate)
-            document = document.replace(break_page_2,replace_paginate)
-            document = document.replace(break_page_3,replace_paginate)
+            break_page_list = ["<!-- Field: /Page -->"]
+            if len(matches)>0:
+                for match in matches:
+                    break_page = document[match.start():match.end()]
+                    if break_page not in break_page_list:
+                        break_page_list.append(break_page)
+                        
+            for break_page in break_page_list:
+                document = document.replace(break_page,replace_paginate)
         return document
     
-    data = paginate_document(data,children_count)
-
-    return render_template('NER.html',report=report, original_file=original_file,data=data,type='NER')
-
+    report = Report.query.filter_by(id=report_id).first_or_404()
+    original_file = 'flask_NER/static/'+report.file_directory
+    # if doesnt have splitted HTML, do split the original file
+    splitted_HTML_num = JSON_file.query.filter_by(original_fileID=report_id,category=5).count()
+    if splitted_HTML_num != 0:
+        splitted_HTML = JSON_file.query.filter_by(original_fileID=report_id,category=5).first_or_404()
+        splitted_HTML_dir = splitted_HTML.file_directory
+        f=codecs.open(splitted_HTML_dir, 'r',encoding="utf-8")
+        data= f.read()
+        return render_template('NER.html',report=report, original_file=original_file,data=data,type='NER')
+    else:       
+        soup = BeautifulSoup(open(original_file, 'r'), 'html.parser')
+        body = soup.body
+        body = soup.find('body')
+        children_count = len(body.contents)
+        while(children_count == 1):
+            
+            body = body.contents[0]
+            children_count = len(body.contents)
+        data = str(body)
+        data = paginate_document(data,children_count)
+        # Create splitted HTML file
+        file_directory = original_file.split(".")[0]+"_splitted_HTML.html"
+        with open(file_directory, 'w',encoding="utf-8") as f:
+            f.write(data)
+        #store the file directory to database 
+        new_file =  JSON_file(original_fileID=report_id,file_directory=file_directory,category=5)
+        db.session.add(new_file)
+        db.session.commit()
+        return render_template('NER.html',report=report, original_file=original_file,data=data,type='NER')
+        
 @app.route("/confirm_NER",methods=['POST'])
 def confirm_NER():
     if request.method == 'POST':
         data = eval(request.form["data"])
+        print(data)
         # create json file
-        original_file = data["original_file"]
+        original_file = data["original_file"].strip()
         report_id = data["report_id"]
         folder_dir = original_file.split(".")[0]
         file_directory = folder_dir+"_latest_NER.json"
@@ -169,15 +190,18 @@ def get_original_NER():
         return condense_newline(html_extractor.get_content_from_file(html_path))
     # create random color
     def getRandomColor(): 
-        letters = '0123456789ABCDEF'
-        color = '#'
-        for i in range(6):
-            color += letters[int(random() * 16)]
-        return color
+        N = 10
+        HSV_tuples = [(x * 1.0 / N, 0.5, 0.8) for x in range(N)]
+        hex_out = []
+        for rgb in HSV_tuples:
+            rgb = map(lambda x: int(x * 255), colorsys.hsv_to_rgb(*rgb))
+            hex_out.append('#%02x%02x%02x' % tuple(rgb))
+        return hex_out[int(random() * N)]
 
     if request.method == 'POST':
         data = eval(request.form['data'])
         content_page = data['content']
+
         doc = nlp(content_page)
 
         ent_color_dict = dict()
@@ -207,8 +231,45 @@ def get_original_NER():
 def info_extraction(report_id):
     report = Report.query.filter_by(id=report_id).first_or_404()
     original_file = 'flask_NER/static/'+report.file_directory
-    f=codecs.open(original_file, 'r')
-    data= f.read()
+
+    soup = BeautifulSoup(open(original_file, 'r'), 'html.parser')
+    body = soup.body
+    body = soup.find('body')
+    children_count = len(body.contents)
+
+    while(children_count == 1):
+        body = body.contents[0]
+        children_count = len(body.contents)
+    data = str(body)
+
+    def paginate_document(document,children_count):
+
+        if(document.find("pagination__item")== -1):
+            # <title>a-20201031</title></head><body>
+            start_body = document.find("<body")
+            start_body_index = document.find(">",start_body)+1
+            # </body></html>
+            end_body_index = document.find("</body>",start_body_index )
+            if(document.find("pagination__list")== -1):
+                if(children_count>1):
+                    # add whole div for pagination
+                    whole_div = "<div id=\"pagination-1\" class=\"pagination__list\"><div class=\"pagination__item\">"
+                    document = document[:start_body_index]+ whole_div +document[start_body_index:end_body_index]+"</div></div></body>"
+                else:
+                    sub_start = document.find(">",start_body_index)+1
+                    whole_div = "<div id=\"pagination-1\" class=\"pagination__list\"><div class=\"pagination__item\">"
+                    document = document[:sub_start]+ whole_div +document[sub_start:end_body_index]+"</div></div></body>"
+            
+            # replace horizontal line by page-break
+            break_page_list = ["<hr style=\"page-break-after: always\" />","<hr style=\"page-break-after:always\"/>","<hr style=\"page-break-after:always\"></hr>","<hr noshade=\"\"/>"]
+            replace_paginate = "</div><div class=\"pagination__item\">"
+
+            for break_page in break_page_list:
+                document = document.replace(break_page,replace_paginate)
+
+        return document
+    
+    data = paginate_document(data,children_count)
     return render_template('info_extraction.html',report=report, original_file=original_file,data=data,type='info_extraction')
 
 @app.route("/confirm_info_extraction",methods=['POST'])
@@ -218,18 +279,20 @@ def confirm_info_extraction():
         # create json file
         original_file = data["original_file"]
         report_id = data["report_id"]
+        category = data["category"]
+        type = data["type"]
         folder_dir = original_file.split(".")[0]
-        file_directory = folder_dir+"_latest_info_extraction.json"
+        file_directory = folder_dir+"_"+type+".json"
         json_object = json.dumps(data,indent=4)
         with open(file_directory,"w") as outfile:
             outfile.write(json_object)
         # store the file directory to database
-        json_file_num = JSON_file.query.filter_by(original_fileID=report_id,category=4).count()
+        json_file_num = JSON_file.query.filter_by(original_fileID=report_id,category=category).count()
         if json_file_num == 0:
-            json_file = JSON_file(original_fileID=report_id,file_directory=file_directory,category=4)
+            json_file = JSON_file(original_fileID=report_id,file_directory=file_directory,category=category)
             db.session.add(json_file)
         else:
-            json_file = JSON_file.query.filter_by(original_fileID=report_id,category=4).first_or_404()
+            json_file = JSON_file.query.filter_by(original_fileID=report_id,category=category).first_or_404()
             json_file.file_directory = file_directory
         db.session.commit()
     return jsonify({"status": True, "data":data })
@@ -251,9 +314,52 @@ def get_latest_info_extraction():
 
 @app.route("/get_original_info_extraction",methods=["POST"])
 def get_original_info_extraction():
+
+    # create random color
+    def getRandomColor(): 
+        N = 10
+        HSV_tuples = [(x * 1.0 / N, 0.5, 0.8) for x in range(N)]
+        hex_out = []
+        for rgb in HSV_tuples:
+            rgb = map(lambda x: int(x * 255), colorsys.hsv_to_rgb(*rgb))
+            hex_out.append('#%02x%02x%02x' % tuple(rgb))
+        return hex_out
+
     if request.method == 'POST':
+        
         data = eval(request.form['data'])
-        return jsonify({"status": True, "data":data })
+        file_dir = data["file_dir"]
+        report_id = data['report_id']
+        ori_info_extract_num = JSON_file.query.filter_by(original_fileID=report_id,category=3).count()
+        if ori_info_extract_num != 0:
+            json_file = JSON_file.query.filter_by(original_fileID=report_id,category=3).first_or_404()
+            file_directory = json_file.file_directory
+            f = open(file_directory)
+            data = json.load(f)
+            return jsonify({"status": True, "data":data })
+        else:
+            data = model_info_extraction(file_dir)
+            # create tag for each sentence
+            text_label_JSON = {}
+            text_label_JSON["res"]=[]
+
+            data_keys = list(data.keys())
+            tag_list =["Overview","Business Review","Performance","Prospect" ]
+            color_list = getRandomColor()
+            for i in range(len(tag_list)):
+                currentTag = tag_list[i]
+                currentColor = color_list[i]
+                sentence_list = data[data_keys[i]]
+                for sentence in sentence_list:
+                    sentence =sentence.strip()
+                    json_object ={}
+                    json_object["content"] = sentence
+                    json_object["tag"] = currentTag
+                    json_object["color"]= currentColor
+                    text_label_JSON["res"].append(json_object)
+            
+            return jsonify({"status": False, "data":text_label_JSON })
+     
     return jsonify({"status": False })  
     
 @app.route("/print_backend",methods=["POST"])

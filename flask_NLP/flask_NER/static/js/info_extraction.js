@@ -1,13 +1,40 @@
 window.hltr = null; // what is the different between using var hltr and window.hltr
-window.mapTag = {}; // for TextHighlighter
+window.mapTag = {}; // for TextHighlighter: window.mapTag[time-stamp] = tag
+window.mapTag_color = {}; //window.mapTag_color[tag] = color
 window.selectedTag = ''; // map timestamp to tag
 window.tag_id = 0;
 window.tags = [];
 window.epicker = document.querySelector('.color-picker');
 window.display_page = null;
+localStorage.label_from_model = false;
 let modal_createTag = document.getElementById('div_dl_createtag');
 
 // helper functions
+function getBrightness(color) {
+  return true;
+}
+function getRandomColor() {
+  var letters = '0123456789ABCDEF';
+  var color = '#';
+  for (var i = 0; i < 6; i++) color += letters[Math.floor(Math.random() * 16)];
+  return color;
+}
+function rgbToHex(rgb) {
+  var hex = Number(rgb).toString(16);
+  if (hex.length < 2) hex = '0' + hex;
+  return hex;
+}
+function fullColorHex(s) {
+  //(10,10,20)
+  try {
+    var s1 = s.indexOf('('),
+      s2 = s.indexOf(')');
+    var a = s.substring(s1 + 1, s2).split(',');
+    return '#' + rgbToHex(a[0]) + rgbToHex(a[1]) + rgbToHex(a[2]);
+  } catch {
+    return '#000000';
+  }
+}
 var ColorPicker = (function () {
   var COLORS = [];
   function ColorPicker(el) {
@@ -85,6 +112,7 @@ function removeTag(tag) {
   for (const [time, tag_name] of Object.entries(window.mapTag)) {
     if (tag == tag_name) {
       hl_removeitem(time);
+      delete window.mapTag_color[tag];
     }
   }
   if (window.selectedTag == tag) {
@@ -98,6 +126,7 @@ function createTag(tag_name, color) {
   else {
     window.tags.push(tag_name);
     window.tag_id += 1;
+    window.mapTag_color[tag_name] = color;
 
     var div_dont_know = $(
       '<i class="del"  data-id="' +
@@ -137,38 +166,25 @@ function createTag(tag_name, color) {
     div.trigger('click');
   }
 }
-// end helper functions
-$('#createTag_btn').click(function (e) {
-  e.preventDefault();
-  var tag_name = $('#hl_text').val();
-  var color = $('#hl_color').val();
-  modal_createTag.style.display = 'none';
-  $('#hl_text').val('');
-  $('#hl_color').val(getRandomColor());
-  createTag(tag_name, color);
-});
-$('#hl_undo').click(function () {
-  function getMax(arr) {
-    if (!arr) return null;
-    var maxV = arr[0];
-    for (a of arr) {
-      if (a > maxV) maxV = a;
-    }
-    return maxV;
-  }
-  var t = getMax(Object.keys(window.mapTag));
-  if (t) {
-    hl_removeitem(t);
-  }
-});
 
 $(document).ready(function () {
   var removeBtn = document.getElementById('hl_remove'),
     hl_acceptBtn = document.getElementById('hl_accept'),
     hl_rejectBtn = document.getElementById('hl_reject'),
-    hl_learn = document.getElementById('hl_learn');
-  // hl_ignoreBtn = document.getElementById('hl_ignore');
+    hl_learn = document.getElementById('hl_learn'),
+    createTag_btn = document.getElementById('createTag_btn'),
+    modal_createTag = document.getElementById('div_dl_createtag'),
+    original_file_ = document.getElementById('original_file'),
+    report_id_ = document.getElementById('report_id'),
+    hl_undo = document.getElementById('hl_undo'),
+    new_page_loaded = document.getElementById('new_page_loaded');
+  original_file = original_file_.textContent.replace('\n', '');
+  original_file = original_file.trim();
+
+  report_id = report_id_.textContent.replace('\n', '');
+  report_id = report_id.trim();
   get_current_page();
+
   // var sandbox = window.display_page;
   var sandbox = document.getElementById('document_content');
   var colors = new ColorPicker(document.querySelector('.color-picker'));
@@ -205,6 +221,14 @@ $(document).ready(function () {
     },
   });
   var serialized = '';
+
+  new_page_loaded.addEventListener('click', function () {
+    if (localStorage.label_from_model == 'true') {
+      get_current_page();
+      load_original_info_extraction_label(window.display_page);
+    }
+  });
+
   colors.onColorChange(function (color) {
     window.hltr.setColor(color);
   });
@@ -212,20 +236,53 @@ $(document).ready(function () {
     window.hltr.removeHighlights();
     $('.content-label tr').remove();
     window.mapTag = {};
+    localStorage.label_from_model = false;
   });
   hl_learn.addEventListener('click', function () {
-    get_current_page();
-    load_original_info_extraction_label(window.display_page);
+    // localStorage.label_from_model = true;
+    // get_current_page();
+    load_original_info_extraction_label();
   });
-  function load_original_info_extraction_label(content_page) {
+  createTag_btn.addEventListener('click', function (e) {
+    e.preventDefault();
+    var tag_name = $('#hl_text').val();
+    var color = $('#hl_color').val();
+    modal_createTag.style.display = 'none';
+    $('#hl_text').val('');
+    $('#hl_color').val(getRandomColor());
+    createTag(tag_name, color);
+  });
+  hl_undo.addEventListener('click', function (e) {
+    function getMax(arr) {
+      if (!arr) return null;
+      var maxV = arr[0];
+      for (a of arr) {
+        if (a > maxV) maxV = a;
+      }
+      return maxV;
+    }
+    var t = getMax(Object.keys(window.mapTag));
+    if (t) {
+      hl_removeitem(t);
+    }
+    localStorage.label_from_model = false;
+  });
+
+  function load_original_info_extraction_label() {
     $.post('/get_original_info_extraction', {
       type: 'post',
       url: '/get_original_info_extraction',
       contentType: 'application/json;charset=UTF-8',
       dataType: 'json',
-      data: JSON.stringify({ content: content_page.innerText }),
+      data: JSON.stringify({ file_dir: original_file, report_id: report_id }),
     }).done(function (q) {
-      hl_find_generate_JSON(q.data['res']);
+      if (q.status == false) {
+        hl_find_generate_JSON(q.data['res']);
+        first_save_info_extraction();
+      } else {
+        hl_loadfrom(q.data['res']);
+        alert('Original information extraction version is found!');
+      }
     });
   }
   function load_latest_info_extraction_version(report_id) {
@@ -240,7 +297,7 @@ $(document).ready(function () {
       if (q.status) {
         // if that document has latest info_extraction version
         hl_loadfrom(q.data['res']);
-        alert('Latest info_extraction version is found!');
+        alert('Latest information extraction version is found!');
       } else {
         alert('The original version is loaded');
       }
@@ -286,17 +343,37 @@ $(document).ready(function () {
     });
   }
 
+  function decodeHtmlCharCodes(str) {
+    return str.replace(/(&#(\d+);)/g, function (match, capture, charCode) {
+      return String.fromCharCode(charCode);
+    });
+  }
+
   // d = [{'content': 'South America', 'tag': 'LOC', 'color': '#2DC477'}, {'content': 'United States', 'tag': 'GPE', 'color': '#AC10D6'}];
   function hl_find_generate_JSON(d) {
+    // d = [
+    //   {
+    //     content:
+    //       'Our life sciences and applied markets business provides application-focused solutions that include instruments and software that enable customers to identify, quantify and analyze the physical and biological properties of substances and products, as well as enable customers in the clinical and life sciences research areas to interrogate samples at the molecular and cellular level',
+    //     tag: 'Overview',
+    //     color: '#cc6666',
+    //   },
+    // ];
+
     window.selectedTag = ''; // map timestamp to tag
+
     $('.content-label tr').remove();
+
     contentSet = [];
     objectSet = [];
     d.forEach(createSetObject);
     function createSetObject(object) {
-      if (!contentSet.includes(object.content)) {
-        contentSet.push(object.content);
-        objectSet.push(object);
+      object.content = decodeHtmlCharCodes(object.content);
+      if (object.content.length > 10) {
+        if (!contentSet.includes(object.content)) {
+          contentSet.push(object.content);
+          objectSet.push(object);
+        }
       }
     }
 
@@ -310,21 +387,42 @@ $(document).ready(function () {
     for (var i = 0; i < objectSet.length; i++) {
       for (var j = 0; j < i; j++) {
         if (objectSet[j].content.includes(objectSet[i].content)) {
+          console.log('=====');
+          markDuplicatedEachEntity(objectSet[i]);
           objectSet.splice(i, 1);
+          break;
         }
       }
     }
 
     objectSet.forEach(markEachEntity);
     function markEachEntity(object) {
-      if (!window.tags.includes(object.tag) && object.tag != '') {
-        createTag(object.tag, object.color);
-      }
-      window.selectedTag = object.tag;
+      try {
+        if (!window.tags.includes(object.tag) && object.tag != '') {
+          createTag(object.tag, object.color);
+        } else {
+          object.color = window.mapTag_color[object.tag];
+        }
+        window.selectedTag = object.tag;
 
-      window.hltr.setColor(object.color);
+        window.hltr.setColor(object.color);
+        console.log(object.content);
+        window.hltr.find(object.content, true);
+      } catch (e) {}
+    }
+    function markDuplicatedEachEntity(object) {
+      try {
+        if (!window.tags.includes(object.tag) && object.tag != '') {
+          createTag(object.tag, object.color);
+        } else {
+          object.color = window.mapTag_color[object.tag];
+        }
+        window.selectedTag = object.tag;
 
-      window.hltr.find(object.content, true);
+        window.hltr.setColor(object.color);
+        console.log(object.content);
+        window.hltr.find(object.content, true);
+      } catch (e) {}
     }
   }
 
@@ -362,9 +460,7 @@ $(document).ready(function () {
 
       // update table word tags
       var div_table = $(
-        '<tr onclick = "hl_removeitem(' +
-          v.timestamp +
-          ')" id =' +
+        '<tr id =' +
           v.timestamp +
           '><td>' +
           v.content +
@@ -377,8 +473,7 @@ $(document).ready(function () {
     window.hltr.removeHighlights();
     window.hltr.deserializeHighlights(s);
   }
-  hl_acceptBtn.addEventListener('click', function () {
-    // confirm_hl('accept', '{{original_file}}', '{{report.id}}');
+  function first_save_info_extraction() {
     serialized = window.hltr.serializeHighlights();
     var d = JSON.parse(serialized); // get all highlights in JSON object
     var out = [];
@@ -417,14 +512,64 @@ $(document).ready(function () {
       data: JSON.stringify({
         res: out,
         action: 'accept',
-        original_file: '{{original_file}}',
-        report_id: '{{report.id}}',
+        original_file: original_file,
+        report_id: report_id,
+        category: 3,
+        type: 'original_info_extraction',
+      }),
+    });
+  }
+
+  function confirm_info_extract() {
+    serialized = window.hltr.serializeHighlights();
+    var d = JSON.parse(serialized); // get all highlights in JSON object
+    var out = [];
+    for (var i = 0; i < d.length; i++) {
+      // Array(5)
+      // 0: "<span class=\"highlighted\" data-timestamp=\"1636008148149\" onclick=\"hl_removeitem('1636008148149')\" style=\"background-color: rgb(255, 128, 128);\" data-highlighted=\"true\"></span>"
+      // 1: "CHAN"
+      // 2: "12:0:1"
+      // 3: 17
+      // 4: 4
+      var temp = document.createElement('div');
+      temp.innerHTML = d[i][0];
+      var time = temp.firstElementChild.getAttribute('data-timestamp');
+      var color_origin = temp.firstElementChild.getAttribute('style');
+      color_origin = color_origin
+        .replace('background-color:', '')
+        .replace(';', '');
+      if (!color_origin.includes('#'))
+        color_origin = fullColorHex(color_origin);
+      var res = {
+        content: d[i][1],
+        path: d[i][2],
+        offset: d[i][3],
+        length: d[i][4],
+        timestamp: time,
+        tag: window.mapTag[time], // map tag with timestamp
+        color: color_origin,
+      };
+      out.push(res);
+    }
+    $.post('/confirm_info_extraction', {
+      type: 'post',
+      url: '/confirm_info_extraction',
+      contentType: 'application/json;charset=UTF-8',
+      dataType: 'json',
+      data: JSON.stringify({
+        res: out,
+        action: 'accept',
+        original_file: original_file,
+        report_id: report_id,
+        category: 4,
+        type: 'latest_info_extraction',
       }),
     }).done(function (q) {
       alert('Your annotation has been successfully accepted!');
     });
-  });
+  }
+  hl_acceptBtn.addEventListener('click', confirm_info_extract);
   hl_rejectBtn.addEventListener('click', function () {
-    load_latest_info_extraction_version('{{report.id}}');
+    load_latest_info_extraction_version(report_id);
   });
 });

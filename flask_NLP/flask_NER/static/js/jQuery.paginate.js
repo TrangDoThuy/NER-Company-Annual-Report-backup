@@ -25,6 +25,8 @@
 
     obj = $(this);
 
+    var visitedPage = [];
+
     // Count entries in block for pagination
 
     try {
@@ -49,7 +51,7 @@
         obj
           .find('.' + options.pagination_class)
           .append(
-            '<li class="prev"><button type="button" class="btn btn-light"><a>' +
+            '<li class="prev"><button type="button" class="btn btn-light" id="prev_button"><a>' +
               options.prev_text +
               '</a></button></li>'
           );
@@ -72,7 +74,7 @@
         obj
           .find('.' + options.pagination_class)
           .append(
-            '<li class="next"><button type="button" class="btn btn-light"><a>' +
+            '<li class="next"><button type="button" class="btn btn-light" id = "next_button"><a>' +
               options.next_text +
               '</a></button></li>'
           );
@@ -129,6 +131,15 @@
         .find('li:nth-child(' + (pageIndex + 2) + ')')
         .addClass('active');
       showPage(pageIndex);
+
+      if (localStorage.label_from_model == 'true') {
+        if (!visitedPage.includes(pageIndex)) {
+          $('#new_page_loaded').trigger('click');
+          visitedPage.push(pageIndex);
+        }
+      } else {
+        visitedPage = [];
+      }
     });
 
     // Navigate to the next slide when clicking on the next button
@@ -145,6 +156,15 @@
         .find('li:nth-child(' + (pageIndex + 2) + ')')
         .addClass('active');
       showPage(pageIndex);
+
+      if (localStorage.label_from_model == 'true') {
+        if (!visitedPage.includes(pageIndex)) {
+          $('#new_page_loaded').trigger('click');
+          visitedPage.push(pageIndex);
+        }
+      } else {
+        visitedPage = [];
+      }
     });
   };
 })(jQuery);

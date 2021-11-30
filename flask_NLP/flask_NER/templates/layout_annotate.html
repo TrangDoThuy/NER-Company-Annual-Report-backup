@@ -79,7 +79,14 @@
         <div class="col-md-5">
           <div class="user-interaction">
             <h4>Interact with users</h4>
+            <!-- hidden variables for javascript files -->
+            <div id="original_file" style="display: none">
+              {{original_file}}
+            </div>
+            <div id="report_id" style="display: none">{{report.id}}</div>
+            <div id="new_page_loaded" style="display: none"></div>
 
+            <!-- hidden variables for javascript files -->
             <!-- button to choose action -->
             <div id="dl_highlight" class="colR" style="display: block">
               <div>
@@ -145,24 +152,33 @@
                     </div>
                     <div class="modal-body">
                       <br />
-                      <label>Tag Name:</label>
-                      <input
-                        id="hl_text"
-                        type="text"
-                        maxlength="32"
-                        style="width: 65%; border-width: 1px"
-                      /><br />
-                      <label>Color:</label>
-                      <input id="hl_color" type="color" value="#ff8080" /><br />
-                      <br />
-                      <input
-                        id="createTag_btn"
-                        class="my_formbtn"
-                        type="submit"
-                        value="ADD"
-                        data-dismiss="modal"
-                      />
-                      <br />
+                      <div>
+                        <label>Tag Name:</label>
+                        <input
+                          id="hl_text"
+                          type="text"
+                          maxlength="32"
+                          style="width: 65%; border-width: 1px"
+                        /><br />
+                        <br />
+                      </div>
+                      <div>
+                        <label>Color:</label>
+                        <input
+                          id="hl_color"
+                          type="color"
+                          value="#87CEEB"
+                        /><br />
+                        <br />
+                        <input
+                          id="createTag_btn"
+                          class="my_formbtn"
+                          type="submit"
+                          value="ADD"
+                          data-dismiss="modal"
+                        />
+                        <br />
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -233,9 +249,12 @@
     type="text/javascript"
     src="{{ url_for('static', filename='js/jQuery.paginate.js') }}"
   ></script>
+
+  {% if type=='NER' %}
   <script>
     $('#pagination-1').paginate({
       items_per_page: 1,
     });
   </script>
+  {% endif %}
 </html>
